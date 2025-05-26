@@ -1,0 +1,168 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vinayak Sharma",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Jhansi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Sept 2021"
+      },
+      {
+        "school": "RNS World School",
+        "endDate": "April 2020",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Jhansi, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 85%",
+        "field_of_study": "CBSE",
+        "startDate": "March 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Codebot",
+        "description": "Developed a powerful chatbot using advanced Generative AI and knowledge graphs for RAG, improving codebase suggestions. Core implementation used in GSoC24 project, utilized by 10+ contributors.",
+        "keywords": [
+          "Python",
+          "Ollama",
+          "Docker",
+          "Langchain",
+          "Neo4j"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "Oct 2023",
+        "url": "Links: Github Youtube Demo"
+      },
+      {
+        "name": "Smart Inventory Management System",
+        "description": "Applied ML algorithms to optimize warehouse inventory using Random Forest model, gaining insights from 100MB of Walmart warehouse test data. Developed a web dashboard for real-time stock analysis and scaled through microservices architecture as part of Walmart Sparkathon.",
+        "keywords": [
+          "Node",
+          "React",
+          "MongoDB",
+          "Docker"
+        ],
+        "endDate": "August 2023",
+        "startDate": "July 2023",
+        "url": "Links: Github Youtube Demo"
+      },
+      {
+        "name": "Notion X Next.js: A Blogging Platform",
+        "description": "Leveraged Notion as a CMS for a seamless blogging experience, using Notion API and Next.js SSR and ISR to optimize load times and minimize latency by 32%.",
+        "keywords": [
+          "Next.js",
+          "Tailwind",
+          "Typescript"
+        ],
+        "endDate": "June 2023",
+        "startDate": "May 2023",
+        "url": "Links: Github Notion X Next Site"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Mentor",
+        "skillsUsed": [
+          "AI",
+          "Rocket.Chat"
+        ],
+        "endDate": "Present",
+        "company_name": "Google Summer of Code24 Rocket.Chat",
+        "description": "Mentoring the AI Assistant to help with understanding RocketChat core codebase project this year at Rocket.Chat. Engaging with over 50 contributors, leading to a 30% increase in successfully merged PRs.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "FullStack Intern",
+        "skillsUsed": [
+          "Node",
+          "React",
+          "Redux",
+          "Typescript"
+        ],
+        "endDate": "March 2024",
+        "company_name": "KnitAI",
+        "description": "Led development of a prompt engineering platform, integrating multiple LLMs to optimize efficiency and user experience.Implemented features increasing the user base by 35%, and migrated codebase to use redux-toolkit, reducing complexity by 25%.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Mentee",
+        "skillsUsed": [
+          "Node",
+          "React",
+          "Typescript"
+        ],
+        "endDate": "Oct 2023",
+        "company_name": "Google Summer of Code23 Rocket.Chat",
+        "description": "Engineered a Whiteboard integration web app within RocketChat as part of GSoC23, enhancing team collaboration. Employed webpack bundling for Excalidraws code, compressing the React App by 40% for seamless deployment.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Typescript",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "C/C++",
+      "Go",
+      "Python",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Neo4j",
+      "Next.js",
+      "Vue.js",
+      "Node.js",
+      "Express.js",
+      "Tailwind",
+      "React.js",
+      "Redux",
+      "Material UI",
+      "Three.js",
+      "Socket.io",
+      "Git/GitHub",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Ubuntu/Linux"
+    ],
+    "soft_skills": [],
+    "name": "Vinayak Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart India Hackathon23 finalist among 7830 participants",
+      "Anthracite 2.0 Head Coordinator leading 20 members team at Team OSS & ACM-AKGEC",
+      "HarvestHacks23 winner among 272 participants for Codebot",
+      "MLH Hack Around the World Hackathon23 winner among 126 participants for Tasteatlas"
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

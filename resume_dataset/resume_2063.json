@@ -1,0 +1,162 @@
+{
+  "project_count": 2.0,
+  "designation": "Full Stack Developer",
+  "name": "Gourav Tiwari",
+  "college": "National Institute of Technology, Allahabad",
+  "locations": [
+    "Pune, Maharastra, India",
+    "Allahabad, Uttar Pradesh, India",
+    "Indore, Madhya Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms using C++",
+        "issuer": "MySirG.com",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Core Java Programming Language",
+        "issuer": "Naresh IT, Hyderabad",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle 11G/12C",
+        "issuer": "Naresh IT, Hyderabad",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute of Technology, Allahabad",
+        "endDate": "Dec 2023",
+        "maximum_grade": "",
+        "degree": "Master of Computer Applications",
+        "location": "Allahabad, Uttar Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "CPI: 8.05",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sanskar College of Professional Studies",
+        "endDate": "Jun 2023",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science (Computer Science)",
+        "location": "Indore, Madhya Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 66.35",
+        "field_of_study": "",
+        "startDate": "Jul 2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Shop",
+        "description": "A versatile e-commerce platform for purchasing various products online using HTML, CSS, JavaScript, PHP, and MySQL. Users can browse products, manage shopping carts, register/login, and securely complete purchases. Admins can manage products, inventory, user accounts, and process orders through a secure admin panel.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "MYSQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Book Recommendation System",
+        "description": "Created a web-based Book Recommendation System using HTML, CSS, Bootstrap, Python, and Flask. Implemented two types of recommendation algorithms: popularity-based (displays top 50 books) and collaborative-based filtering (suggests top 5 similar books based on user input). Users can view popular books or receive personalized book recommendations based on their input.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "Python",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [
+          "Vue.js",
+          "Node.js",
+          "MongoDB",
+          "REST APIs",
+          "Agile"
+        ],
+        "endDate": "Present",
+        "company_name": "Kanverse.ai (Jade Global Pvt. Ltd.)",
+        "description": "Designed and developed dynamic and responsive components using Vue.js, Node.js and MongoDB for our product Kanverse.ai. Worked on enhancements of various schedulers and creation of new scheduler for kanverse.ai. Participated in Business Rule cleanup activity to increase product performance. Utilized REST APIs to retrieve and post data, improving integration for Portal and Middleware. Resolved critical bugs and optimized database queries, enhancing system performance through in-depth analysis. Worked under Agile methodology to improve team collaboration.",
+        "location": "Pune, Maharastra, India",
+        "links": "",
+        "startDate": "Dec 2023"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "C",
+      "C++",
+      "PHP",
+      "JAVA",
+      "Vue.js",
+      "Express",
+      "Node.js",
+      "Laravel",
+      "MYSQL",
+      "MongoDB",
+      "Redis",
+      "Visual Studio Code",
+      "Git",
+      "GitHub",
+      "POSTMAN",
+      "Azure DevOps",
+      "Studio 3T",
+      "Xampp",
+      "ChatGPT",
+      "MobaXterm"
+    ],
+    "soft_skills": [
+      "Object Oriented Programming",
+      "Data Structures and Algorithms",
+      "Database Management System",
+      "Operating Systems"
+    ],
+    "name": "Gourav Tiwari",
+    "position": "Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "AIR 53 in NIMCET 2020 entrance examination",
+      "AIR 100 in MAH-CET MCA 2020 Entrance Examination",
+      "Participated in Codathon Inter-NIT Coding Competition",
+      "Solved 1000+ coding questions across various coding platform"
+    ],
+    "publications": []
+  },
+  "current_location": "Indore, Madhya Pradesh, India",
+  "graduation_year": 2023.0,
+  "experience_count": 1.0,
+  "degree": "Master of Computer Applications"
+}

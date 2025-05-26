@@ -1,0 +1,178 @@
+{
+  "project_count": 3.0,
+  "designation": "Mern Full Stack Developer",
+  "name": "Mohd Haseeb",
+  "college": "PARSAD POLYTECHNIC JAUNPUR",
+  "locations": [
+    "Jaunpur, UP",
+    "Azamgarh, UP",
+    "Noida, UP"
+  ],
+  "full_output": {
+    "summary": "Highly motivated MERN Full Stack Developer with one year of experience at Ducat Noida. Adept at developing and maintaining dynamic web applications using MongoDB, Express.js, React, and Node.js. Seeking to leverage my technical skills and problem-solving abilities to contribute to a forward-thinking development team.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MERN Stack Development Certification",
+        "issuer": "Ducat Noida",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science with Python Certification",
+        "issuer": "Teachnook.org",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CORE JAVA Certification",
+        "issuer": "Intrenshala.org",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "PARSAD POLYTECHNIC JAUNPUR",
+        "endDate": "Jul 2022",
+        "maximum_grade": "",
+        "degree": "DIPLOMA",
+        "location": "Jaunpur, UP",
+        "ID": 0.0,
+        "grade_received": "75%",
+        "field_of_study": "COMPUTER SCIENCE",
+        "startDate": ""
+      },
+      {
+        "school": "BIC BEENAPARA",
+        "endDate": "Jul 2019",
+        "maximum_grade": "",
+        "degree": "12TH",
+        "location": "Azamgarh, UP",
+        "ID": 1.0,
+        "grade_received": "60%",
+        "field_of_study": "UP BOARD",
+        "startDate": ""
+      },
+      {
+        "school": "BIC BEENAPARA",
+        "endDate": "Jul 2017",
+        "maximum_grade": "",
+        "degree": "10TH",
+        "location": "Azamgarh, UP",
+        "ID": 2.0,
+        "grade_received": "64%",
+        "field_of_study": "UP BOARD",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather App",
+        "description": "Implemented API integration with OpenWeatherMap to fetch and display weather data dynamically. Designed and developed a weather application providing real-time weather updates and forecasts for various locations. Ensured responsive design and cross-browser compatibility for an optimal user experience on both desktop and mobile devices. Deployed the application on Heroku, enabling users to access the app online.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "OpenWeatherMap API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Platform",
+        "description": "Developed a full-featured e-commerce platform with user authentication, product listings, and a shopping cart. Deployed the application on Heroku, providing users with a live, interactive shopping experience. Integrated Stripe API for secure payment processing, ensuring smooth and reliable transactions. Implemented admin functionalities for product management, including adding, updating, and deleting products.",
+        "keywords": [
+          "MongoDB",
+          "Express.js",
+          "React.js",
+          "Node.js",
+          "Stripe API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Created a personal portfolio website to showcase projects, skills, and experience. Developed a user-friendly interface with responsive design principles to ensure accessibility across different devices. Deployed the website on Netlify for fast and reliable hosting. Integrated contact forms and project galleries, allowing visitors to easily navigate and view detailed project information.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Netlify"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Mern Full Stack Developer",
+        "skillsUsed": [
+          "MongoDB",
+          "Express.js",
+          "React",
+          "Node.js",
+          "Git",
+          "GitHub"
+        ],
+        "endDate": "Present",
+        "company_name": "Ducat Noida",
+        "description": "Developed and maintained full-stack web applications using the MERN stack, ensuring responsive design and optimal performance. Collaborated with cross-functional teams to gather and analyse user requirements, design, and develop scalable web solutions. Implemented RESTful APIs to connect front-end components with back-end services, ensuring seamless data flow and user interaction. Conducted code reviews, debugging, and testing to maintain high code quality and performance. Utilized Git for version control and collaborated with the team using GitHub for code management and project tracking.",
+        "location": "Noida, UP",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Redux",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "Git",
+      "GitHub",
+      "Webpack",
+      "Babel",
+      "NPM",
+      "Jest",
+      "Postman"
+    ],
+    "soft_skills": [
+      "Strong problem-solving abilities",
+      "Excellent communication and teamwork skills",
+      "Adaptability and willingness to learn",
+      "Attention to detail and strong organizational skills"
+    ],
+    "name": "Mohd Haseeb",
+    "position": "Mern Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2022.0,
+  "experience_count": 1.0,
+  "degree": "DIPLOMA"
+}

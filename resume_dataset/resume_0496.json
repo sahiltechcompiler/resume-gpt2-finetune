@@ -1,0 +1,155 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shrey Sharma",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Delhi",
+    "Jaipur",
+    "Gurugram, Haryana"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Beginner Cloud Computing training",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Aadharshila Vidyapeeth",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "80%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Prabhu Dayal Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "70%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA - 6.87",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Farming using DL and IoT",
+        "description": "Implemented a deep learning model to analyze data from IoT sensors placed in agricultural fields. Developed a sophisticated irrigation scheduling system using IoT technology and soil moisture sensors, and applied Artificial Neural Networks (ANN).",
+        "keywords": [
+          "Python",
+          "Arduino",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RFID based Inventory Detection System",
+        "description": "Designed a system to scan inventory items using RFID and a camera, storing data in a sequential database. The system identified items by their unique serial ID, using a high-resolution camera to scan QR codes, and linked items to student ID cards via RFID.",
+        "keywords": [
+          "Python",
+          "Arduino"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Facial emotion recognition",
+        "description": "The amalgamation of computer vision, natural language processing, and pattern recognition techniques will be employed to decipher the intricate nuances of human emotions(facial landma, paving the way for applications that can adapt and respond contextually to the emotional states of users. Both linear models such as KNN and non linear models like MLP and CNN are used. To improve performance dropout, number of dense layers and activation functions, VGG is used.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [
+          "Python",
+          "SQL (Postgres)",
+          "Java",
+          "Machine Learning",
+          "NLP",
+          "Arduino",
+          "HTML/CSS"
+        ],
+        "endDate": "March 2020",
+        "company_name": "SoftAge Information Technology limited",
+        "description": "Gained hands-on experience in fine-tuning large language models (LLMs), with a particular focus on LLaMA. Assisted in the development and optimization of LLMs for various NLP tasks. Collaborated with the team to implement and test different fine-tuning strategies to improve model performance. Worked with datasets and tools for efficient model training and evaluation.",
+        "location": "Delhi",
+        "links": "",
+        "startDate": "April 2017"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "SoftAge Information Technology limited",
+        "description": "",
+        "location": "Gurugram, Haryana",
+        "links": "",
+        "startDate": "May 2019"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL (Postgres)",
+      "Java",
+      "Machine Learning",
+      "NLP",
+      "Arduino",
+      "HTML/CSS"
+    ],
+    "soft_skills": [],
+    "name": "Shrey Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 2.0,
+  "degree": ""
+}

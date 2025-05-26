@@ -1,0 +1,239 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Akhil Pandey",
+  "college": "Noida Institute of Eng. And Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Foundations: A Case Study",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Building AI Powered Chatbots Without Programming",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with AI using IBM Watson",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Human-Centered Design for Inclusive Innovation",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Artificial Intelligence (AI)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning with Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Deep Learning & Neural Networks with Keras",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Building Recommender Systems with Machine Learning and AI",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MongoDB Tutorial",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Linux Tutorial",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Eng. And Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA-9.1",
+        "field_of_study": "CSE  AI & ML",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developed a sophisticated movie recommendation system using collaborative and content-based filtering methods. Improved user satisfaction by 35% and interaction rates increased by 20%.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image Caption Generator",
+        "description": "Created an image caption generator using TensorFlow, PyTorch, and OpenCV. Integrated advanced deep learning techniques for precise image analysis & caption generation giving 90% accuracy.",
+        "keywords": [
+          "Python",
+          "Deep Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blog Website",
+        "description": "Built a full-stack blog platform with JWT authentication, user profiles, and CRUD operations. Developed a responsive frontend with React.js, RESTful APIs with Express.js, and MongoDB for data storage.",
+        "keywords": [
+          "MERN Stack"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Modern Diagnostic (MDRC)",
+        "description": "Analyzed diverse sample datasets, including medical, environmental, and industrial data. Executed comprehensive analyses and visualizations to derive actionable insights.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Bharat Intern",
+        "description": "Orchestrated Python-based ML projects utilizing pandas and scikit-learn. Enhanced house price prediction accuracy by 15% and Optimized wine quality predictions. Achieved 90% flower classification accuracy.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "JavaScript",
+      "HTML",
+      "SQL",
+      "React",
+      "Express",
+      "Node.js",
+      "TensorFlow",
+      "PyTorch",
+      "pandas",
+      "scikit-learn",
+      "VS Code",
+      "MongoDB",
+      "MySQL Workbench",
+      "Linux",
+      "Agile",
+      "Scrum"
+    ],
+    "soft_skills": [],
+    "name": "Akhil Pandey",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

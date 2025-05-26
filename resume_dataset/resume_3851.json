@@ -1,0 +1,120 @@
+{
+  "project_count": 3.0,
+  "designation": "MERN/ React Developer",
+  "name": "Lokesh Seth",
+  "college": "Ajay Kumar Engineering College, UP",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Engineering College, UP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.16",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CloneKart",
+        "description": "Developed a fully functional e-commerce platform inspired by Flipkart using the MERN stack, featuring user authentication, product catalog, shopping cart functionality, and checkout process, providing a comprehensive shopping experience for users. Integrated Material-UI components and design principles to create a modern and visually appealing user interface, ensuring consistency and usability across the application. Leveraged MongoDB for scalable data storage and retrieval, enabling efficient management of product listings, user profiles, and transactional data.",
+        "keywords": [
+          "ReactJS",
+          "Material UI",
+          "MongoDB",
+          "NodeJS",
+          "expressJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Portfolio",
+        "description": "A visually stunning portfolio leveraging ReactJS, Tailwind CSS, and Three.JS to create captivating 3D elements and animations. Adapts seamlessly to various screen sizes and devices, ensuring accessibility and usability across platforms. Integrated Framer Motion for intuitive navigation and gesture-based interactions, elevating the user experience and setting the portfolio apart as a showcase of creativity and technical expertise.",
+        "keywords": [
+          "ReactJS",
+          "Tailwind CSS",
+          "Three.JS",
+          "FramerMotion"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Watchify",
+        "description": "Implemented robust search feature to find movies efficiently. Developed user interface with both dark and light themes for enhanced user experience. Fetched real-time movie data from The Movie Database (TMDB) API. Displayed movies in a visually appealing card format. Created separate description pages for each movie, providing in-depth information. Ensured the app is fully responsive and mobile-friendly.",
+        "keywords": [
+          "NextJS 14",
+          "TailwindCSS",
+          "TMDB API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Web Developer",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "CodeVue Pvt. Ltd.",
+        "description": "Designing and implementing user interfaces using React.js, Tailwind, Material UI, AntDesigns ensuring a seamless and intuitive user experience. Creating reusable and efficient React components and animations using Three.js, optimizing performance and maintaining consistency throughout the application. Utilizing state management libraries like Redux or Context API to manage application state effectively, ensuring data consistency and scalability. Working closely with designers, backend developers, and other team members to understand project requirements, discuss technical solutions, and ensure project success.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Oct 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Javascript",
+      "HTML+CSS",
+      "Ajax",
+      "jQuery",
+      "Nodejs",
+      "VScode",
+      "Git",
+      "Github",
+      "ExpressJs",
+      "ReactJs",
+      "ThreeJs",
+      "Material UI",
+      "Tailwind",
+      "Bootstrap",
+      "MongoDb",
+      "Firebase",
+      "Relational Database(mySql)"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Self-learning",
+      "Presentation",
+      "Adaptability",
+      "Solution-oriented"
+    ],
+    "name": "Lokesh Seth",
+    "position": "MERN/ React Developer",
+    "interests": [
+      "Web Design and Development",
+      "Frontend Development"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

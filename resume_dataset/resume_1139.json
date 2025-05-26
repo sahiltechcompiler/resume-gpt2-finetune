@@ -1,0 +1,160 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Vishwas Mishra",
+  "college": "Madan Mohan Malaviya University of Technology",
+  "locations": [
+    "Gorakhpur",
+    "Cantt, Kanpur",
+    "Kanpur, Uttar Pradesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Madan Mohan Malaviya University of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Gorakhpur",
+        "ID": 0.0,
+        "grade_received": "CGPA: 6.84",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Dr Virendra Swaroop Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Cantt, Kanpur",
+        "ID": 1.0,
+        "grade_received": "Percent: 95%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Text-Summarizer",
+        "description": "Fine-tuned a GPT-2 model using LoRA adapters achieving an exceptional perplexity score of 1.82(indicative of high model accuracy). Used Python and Pytorch within the Hugging Face environment for model training and optimizations. Integrated the ML model into a web application using Flask, showcasing its text generation capabilities. Built the user interface with HTML, CSS and JavaScript to provide a seamless user experience. Configured and monitored model training through Weight & Biases (WandB) reducing operational complexities. Achieved consistent reduction in training loss over 7,000 steps enhancing training outcomes and boosting model reliability through effective logging and real-time performance metrics monitoring.",
+        "keywords": [],
+        "endDate": "Feb 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Disease-Detection",
+        "description": "Engineered and validated a TensorFlow-based deep learning model for malaria detection from cell images, achieving a test accuracy of 92.6% and a training accuracy peak of 98.8% over 20 training epochs. Utilized Convolutional Neural Networks (CNNs) with multiple layers, including Batch Normalization and MaxPooling, to efficiently process and classify high-resolution images. Managed a large dataset split into 60% training, 20% validation, and 20% testing partitions using TensorFlow Datasets. Implemented image resizing and normalization to input a uniform (224x224) format into the neural network, enhancing model training efficiency and performance. Optimized machine learning models by implementing model checkpoints and dynamic learning rate adjustments, reducing overfitting and achieving a final test data loss of 0.485, surpassing industry standards by 15%.",
+        "keywords": [],
+        "endDate": "April 2024",
+        "startDate": "Mar 2024",
+        "url": ""
+      },
+      {
+        "name": "Spam/Ham Detector",
+        "description": "Innovated and applied a highly accurate Spam Ham Detector in Python leveraging Pandas, NumPy, Matplotlib, and Seaborn; achieved 95% precision and reduced false positives by 40% for enhanced data analysis and visualization. Employed advanced NLP techniques (NLTK, re, stopwords, Porter Stemmer and WordNet Lemmatizer) for effective data cleaning and text normalization. Leveraged TFIDF-Vectorizer to convert text data into a numerical format. Deployed an XGBoost Classifier and Joblib, to accurately classify and predict spam/ham messages. Visualized model performance through metrics like ROC, Accuracy, Recall and F2 score and used Streamlit to built an interactive application for showcasing the Spam Ham Detector's functionality.",
+        "keywords": [],
+        "endDate": "Nov 2023",
+        "startDate": "Oct 2023",
+        "url": ""
+      },
+      {
+        "name": "Flappy Bird",
+        "description": "Developed a Flappy Bird game variant with real-time facial movement controls using Python, OpenCV and MediaPipe featuring obstacle spacing of 500 pixels and a spawn rate of every 40 frames for challenging gameplay. Used Pygame for dynamic obstacle generation, collision detection and scoring with visually appealing elements like a 6x scaled-down bird sprite and 250-pixel gaps between obstacles for enhanced engagement. Implemented an innovative control mechanism by adjusting the bird's position based on real-time facial landmark detection with 0.5 confidence employing deque for smooth obstacle management and accurate scoring.",
+        "keywords": [],
+        "endDate": "Nov 2023",
+        "startDate": "Oct 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "2025",
+        "company_name": "DataPro Software Development & Research Centre Pvt Ltd",
+        "description": "Developed an automated data cleaning process as a Data Analyst Intern at DataPro Software Development & Research Centre Pvt Ltd resulting in a 40% reduction in data errors and saving the team 10 hours per week. Conducted advanced data analysis using tools such as Matplotlib, Seaborn, numpy, PowerBI to derive actionable insights. Managed and refined monthly datasets by adding critical columns, enabling in-depth analysis for strategic decisions in optimizing ad placements and timing, maximizing earnings and enhancing student engagement through targeted educational tactics.",
+        "location": "Kanpur, Uttar Pradesh",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "LettUs Digest",
+        "description": "Executed a YOLO-based machine learning model to classify organic waste from non-organic materials achieving a precision of 85.3%. Utilized Fatkun (a Google Chrome extension) for batch downloading images and employed Beautiful Soup for efficient web scraping to gather training data reducing the data collection time by 10 hours for the team. Integrated the machine learning model with an Android application using Firebase to facilitate real-time waste classification.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "April 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "Java(Basics)",
+      "SQL",
+      "R programming",
+      "Array",
+      "Linked List",
+      "Stack",
+      "Queue",
+      "Trees",
+      "Graph",
+      "Heap",
+      "Sorting",
+      "Dynamic Programming",
+      "MySQL",
+      "Oracle",
+      "PostgreSQL",
+      "HTML",
+      "CSS",
+      "Pandas",
+      "Matplotlib",
+      "Numpy",
+      "Seaborn",
+      "Tensorflow-Keras",
+      "Pytorch",
+      "scikit-learn",
+      "NLTK",
+      "spacy",
+      "OpenCv",
+      "AWS",
+      "gpt",
+      "bert",
+      "Regression",
+      "Classification",
+      "Clustering",
+      "Associate Learning",
+      "Reinforcement Learning",
+      "NLP",
+      "LLM",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "soft_skills": [
+      "Public Speaking",
+      "Leadership",
+      "Teamwork"
+    ],
+    "name": "Vishwas Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Kaggle Expert",
+      "Solved 600+ problems in Leetcode and GFG",
+      "Qualified for Round 1 in HackOn With Amazon - Season 3."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

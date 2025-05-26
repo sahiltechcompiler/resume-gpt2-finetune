@@ -1,0 +1,173 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kandimalla Venkata Pavani",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "Pursuing B.Tech in Computer Science Engineering at SRM University specializing in Artificial Intelligence and Machine Learning. Highly motivated and passionate for developing innovative software solutions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "Hackerank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Django",
+        "issuer": "APSSDC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence",
+        "issuer": "1-Stop",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL",
+        "issuer": "Hackerank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ServiceNow",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.84",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Andhra pradesh Board",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "A+",
+        "field_of_study": "Class 11th and 12th",
+        "startDate": "2019"
+      },
+      {
+        "school": "Andhra pradesh Board",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "A+",
+        "field_of_study": "Class 10th",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "voice assistant",
+        "description": "Developed a voice assistant named Buddy using Python, capable of recognizing voice commands, retrieving information from Wikipedia, opening websites, playing music, and providing the current time.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Humidty prediction using machine learning algorithm",
+        "description": "Developed a humidity prediction model using a decision tree algorithm, preprocessing weather datasets and extracting key features for high accuracy. Evaluated model performance using metrics like mean absolute error (MAE) and root mean square error (RMSE).",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Automatic speech recognization",
+        "description": "Developed and implemented an automatic speech recognition system using advanced algorithms and machine learning techniques. Evaluated and optimized system performance for accurate transcription of spoken language into text.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python Developer",
+        "skillsUsed": [
+          "Python",
+          "Django"
+        ],
+        "endDate": "Jan 2023",
+        "company_name": "code swap solutions",
+        "description": "Developing and maintaining web applications, handling frontend and back-end development.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2021"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Django"
+        ],
+        "endDate": "Jan 2023",
+        "company_name": "APSSDC",
+        "description": "Internship journey with APSSDC, leveraging skills in Django framework and web development.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Django",
+      "SQL",
+      "C",
+      "C++",
+      "HTML"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Problem solving",
+      "Leadership",
+      "Time management",
+      "Creativity"
+    ],
+    "name": "Kandimalla Venkata Pavani",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Abstracted research paper on AI/ML Based Programming on Nano BIO Interface."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

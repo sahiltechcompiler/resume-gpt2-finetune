@@ -1,0 +1,139 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SUBHADIP DUTTA",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Jalandhar, Punjab",
+    "Kolkata, West-Bengal",
+    "Asansol, West-Bengal"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Computer Science and Engineering",
+        "location": "Jalandhar, Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.5",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Baranagar Ram-Krishna-Mission",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th with Science",
+        "location": "Kolkata, West-Bengal",
+        "ID": 1.0,
+        "grade_received": "Percentage: 87%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Asansol Ram-Krishna-Mission",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "10th with Science",
+        "location": "Asansol, West-Bengal",
+        "ID": 2.0,
+        "grade_received": "Percentage: 95%",
+        "field_of_study": "",
+        "startDate": "2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ArtistryShowcase",
+        "description": "Developed a professional art website utilizing HTML, CSS, Bootstrap, and JavaScript to showcase artwork and foster creative expression. Implemented key features, including a dynamic slideshow for displaying artwork, a user-friendly contact form, and robust user authentication utilizing Node.js, Express, and MongoDB. Incorporated advanced security measures, such as bcrypt password hashing for enhanced password security, helmet for HTTP header protection, and session management techniques to ensure secure user authentication.",
+        "keywords": [
+          "NodeJs",
+          "Mongo-DB",
+          "ExpressJs"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Tech-News-Hub",
+        "description": "Developed Tech-News Hub, a dynamic web application aimed at providing users with real-time updates on the latest news spanning diverse categories such as sports, entertainment, science, and politics. Implemented intuitive search functionality, enabling users to seamlessly browse top headlines or search for specific topics of interest. Designed with a clean and user-friendly interface, ensuring effortless navigation and streamlined exploration of news articles for an enhanced user experience.",
+        "keywords": [
+          "React Js",
+          "JavaScript",
+          "Axios"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Climate-CastX",
+        "description": "Enhanced Proficiency in Front-End Development: Developed skills in HTML, CSS, JavaScript, and Bootstrap, enabling the creation of a user-friendly interface for the web application. Implementation of Real-Time Weather Updates: Utilized APIs to fetch accurate weather data, ensuring reliability and providing users with up-to-date information on weather conditions based on their location.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "React-NavX",
+        "description": "Improved proficiency in React, CSS, JavaScript, and Bootstrap for Front-End development Implemented fully responsive layout for optimal viewing across devices Executed visually captivating website designs leveraging acquired skills.",
+        "keywords": [
+          "React",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SUMMER-INTERNSHIP",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "Board Infinity",
+        "description": "Led the development of responsive and visually appealing web pages with HTML, CSS, and JavaScript Ensured enhanced user experience through responsive design techniques Hands-on experience ensuring compatibility across various devices and screen sizes.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Data Structures and Algorithms",
+      "Kotlin"
+    ],
+    "soft_skills": [],
+    "name": "SUBHADIP DUTTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Demonstrated outstanding problem-solving and analytical skills by securing a score of 585+ marks in CoCubes, showcasing a high level of proficiency in critical thinking and data analysis.",
+      "Attained a 5-star rating on HackerRank, demonstrating adeptness in solving complex problems.",
+      "Secured 5 consecutive monthly badges on LeetCode by successfully solving over 500+ complex coding problems."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Computer Science and Engineering"
+}

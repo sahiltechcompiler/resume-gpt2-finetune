@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Gundavarapu GunaSekhar",
+  "college": "SRM University,AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Certification",
+        "issuer": "IIT, Kharagpur",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management MY SQL",
+        "issuer": "HackerRank",
+        "certiLink": "issued by Intellipaat Academy"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University,AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya IIT Academy",
+        "endDate": "2021",
+        "maximum_grade": "10.0",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "6.9/10.0",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Loyola Public School",
+        "endDate": "2019",
+        "maximum_grade": "100",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "71/100",
+        "field_of_study": "ICSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hostel Portal",
+        "description": "Hostel Portal for Students(Java) Using Java I made a Project for the College students,Functions used in this project are:- 1.User Signup Functionality:-Writes new user credentials to a text file 2.User Login Functionality:-Displays appropriate messages for successful or failed logins. 3.Forgot Password Functionality:-Updates the password in the login.txt file. 4.Query/Complaint Handling:-Saves outing details to a file",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "My Portfolio",
+        "description": "A brief overview of what the project is about.Using Frontend(HTML,CSS) as key skill,I made a Portfolio website which represents me",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Little Paws",
+        "description": "Little Paws is a dedicated mobile application designed for the purchasing food, toys, and essential needs for pets. The app focuses on providing a user-friendly and visually appealing interface to enhance the shopping experience for pet owners.",
+        "keywords": [
+          "UI/UX"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Undergraduate Research Opportunities (UROP)",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "",
+        "description": "Comparative Study of Data Collection Techniques in WSN:- Clustering vs Tree based approaches:- .Evaluated clustering and tree-based data collection techniques in wireless sensor networks (WSNs) for energy efficiency, network lifetime, scalability, and data accuracy. Compared the trade-offs and optimal conditions to guide method selection for specific WSN applications. Key findings: Clustering-Based Approaches:-Conserves energy by reducing communication distance, though cluster heads deplete energy faster; Tree-Based Approaches:-Optimizes multi-hop paths for energy efficiency; network lifetime depends on root and intermediate nodes",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "C++",
+      "Git",
+      "My SQL",
+      "Data Structures and Algorithms(DSA)",
+      "OOPS",
+      "OS"
+    ],
+    "soft_skills": [
+      "Problem Solving Skills"
+    ],
+    "name": "Gundavarapu GunaSekhar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

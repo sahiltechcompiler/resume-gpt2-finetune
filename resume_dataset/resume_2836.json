@@ -1,0 +1,101 @@
+{
+  "project_count": 3.0,
+  "designation": "Full Stack Developer",
+  "name": "SHREYANS SINGH",
+  "college": "Galgotias University",
+  "locations": [
+    "Noida, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "Full Stack Developer with expertise in front-end and back-end development, experienced in building products that solve real world problems and machine learning applications.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Galgotias University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Noida, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "MyStranger.in",
+        "description": "A Social Networking Platform",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Django with Channels",
+          "PostgreSQL",
+          "Redis",
+          "WebRTC",
+          "Mapbox API",
+          "Google Cloud"
+        ],
+        "endDate": "March 2024",
+        "startDate": "March 2023",
+        "url": ""
+      },
+      {
+        "name": "Mentos Autotyper",
+        "description": "A Windows Application",
+        "keywords": [
+          "Python",
+          "PyQt5"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Demo | Website"
+      },
+      {
+        "name": "Music Recommendation Algorithm using DBSCAN",
+        "description": "Extracted relevant features from music data using the Spotify API and optimized the algorithm by tuning hyperparameters, such as epsilon () and minimum points (minPts), to improve clustering performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "Self-Employed",
+        "description": "Developed and launched MyStranger.in, a Django based social networking website, which attracted over 10,000 unique site visits and gained more than 1,300 registered users. Developed and launched Mentos Autotyper, a Windows application that quickly became popular among Galgotias University students and gathered over 8,000 downloads within first 3 months of its release.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Figma",
+      "Django",
+      "PostgreSQL",
+      "SQLite",
+      "PyTorch"
+    ],
+    "soft_skills": [],
+    "name": "SHREYANS SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Second Runner Up on the GU - PITCH ME Competition."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

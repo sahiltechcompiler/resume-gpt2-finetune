@@ -1,0 +1,129 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Manogna Karapakula",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "Passionate computer science engineering student proficient in Python, C++, Web Development, and Data Science.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "Higher Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "97.4",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "SVSN Siddhartha High School",
+        "endDate": "2019",
+        "maximum_grade": "10.0",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10.0",
+        "field_of_study": "",
+        "startDate": "2014"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Analysis and Detection of Seizures Using EEG Signal",
+        "description": "Conducted advanced EEG signal analysis using time-domain, frequency-domain, and Wavelet Transform feature extraction methods. Implemented Random Forest algorithms for seizure classification from a comprehensive EEG dataset. Developed machine learning-based diagnostic tools to enhance epilepsy management and provide clinical insights.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Dynamic Price Optimization",
+        "description": "Developed a dynamic pricing optimization system using various machine learning models. Implemented a Stacked Ensemble Meta Model to enhance prediction accuracy. Leveraged data analytics to optimize revenue streams, operational efficiency, and customer experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "CodeSwap Solutions",
+        "description": "Developed a product price comparison website using HTML, CSS, JavaScript, and PHP. Integrated APIs from e-commerce platforms for real-time product information and price tracking.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "SRM University",
+        "description": "Developed a Mental Fitness Tracker using machine learning to predict mental fitness levels. Provided users with visualizations to track and understand mental health trends.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Insignia",
+        "description": "Analyzed the Titanic dataset using machine learning to understand passenger survival factors. Deployed on AWS and Docker with CI/CD pipeline; currently working on live speech-to-text conversions. Currently working on real-time speech-to-text conversions using an open-source library.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "C",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "React.js",
+      "MongoDB",
+      "Node.js",
+      "NumPy",
+      "Matplotlib",
+      "Pandas"
+    ],
+    "soft_skills": [
+      "Hard-Working",
+      "Team-Player",
+      "Quick Learner",
+      "Multi-Tasking"
+    ],
+    "name": "Manogna Karapakula",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelors Degree"
+}

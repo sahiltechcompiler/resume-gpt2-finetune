@@ -1,0 +1,174 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kunal Verma",
+  "college": "PSIT college of Engineering",
+  "locations": [
+    "Kanpur, India"
+  ],
+  "full_output": {
+    "summary": "Versatile developer with a Bachelors degree in Computer Science, distinguished for problem solving skills. Ample experience in Data structures and algorithm, Problem solving, and programming. Efficient in collaborating and communicating new ideas and opinions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and algorithms",
+        "issuer": "YouAccel training",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript",
+        "issuer": "Qaifi Khan",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MERN stack cohort",
+        "issuer": "Harkirat Singh",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MySQL",
+        "issuer": "YouAccel training",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "PSIT college of Engineering",
+        "endDate": "November 2020",
+        "maximum_grade": "",
+        "degree": "B.tech. in Computer Science and Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA : 7.53",
+        "field_of_study": "",
+        "startDate": "present"
+      },
+      {
+        "school": "O.S.V.N. Inter college",
+        "endDate": "April 2018",
+        "maximum_grade": "",
+        "degree": "H.S.C.",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA : 7.76",
+        "field_of_study": "",
+        "startDate": "March 2019"
+      },
+      {
+        "school": "O.S.V.N. Inter college",
+        "endDate": "April 2016",
+        "maximum_grade": "",
+        "degree": "S.S.C.",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA : 8.18",
+        "field_of_study": "",
+        "startDate": "March 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Anti Counterfeiting system using blockchain",
+        "description": "deployed a private blockchain and smart contracts for Decentralization of the (product transaction history) data storage. Smart contracts written in solidity. The user Interface which is able to scan or upload QR codes was built using Tkinter-python.",
+        "keywords": [
+          "Solidity",
+          "Remix",
+          "MySql",
+          "python",
+          "Tkinter",
+          "OpenCV"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real Time Chat Application",
+        "description": "Employed JWT tokens for secure transmission of login credentials for authorization. used Socket.IO for low-latency, bidirectional and event-based communication between client and server. NodeJS and ExpressJS for backend server.",
+        "keywords": [
+          "mongodb",
+          "express",
+          "node",
+          "socket.io"
+        ],
+        "endDate": "August 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Spotify Clone",
+        "description": "Employed power of React to create a clone frontend of the Spotify. A server Page to feed audio files to the frontend when the user is authenticated using JWT tokens.",
+        "keywords": [
+          "React",
+          "NodeJS",
+          "Express",
+          "JWT"
+        ],
+        "endDate": "July 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FreeLance",
+        "skillsUsed": [],
+        "endDate": "December 2023",
+        "company_name": "Disha Chemicals",
+        "description": "Built and deployed a business platform for the firm used by more than 1000 customers daily. Designed, built and deployed both frontend and backend from scratch. Employed the power of React for optimal rendering and NodeJS for backend resulting in 10optimization for end-users.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "MySQL",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "Node.js",
+      "ExpressJS",
+      "MaterialUI"
+    ],
+    "soft_skills": [
+      "Problem solving",
+      "Collaboration",
+      "Communication"
+    ],
+    "name": "Kunal Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved more than 500 problems using my knowledge of data structures and algorithms on various coding platforms, having rated among top 25% coders on leetcode.",
+      "Bronze medal in Aptitude Test conducted by NTC",
+      "Member of the elite batch in college special training",
+      "Rated maximum 1560 on LeetCode."
+    ],
+    "publications": []
+  },
+  "current_location": "Kanpur, India",
+  "graduation_year": 2020.0,
+  "experience_count": 1.0,
+  "degree": "B.tech. in Computer Science and Engineering"
+}

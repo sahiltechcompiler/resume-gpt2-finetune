@@ -1,0 +1,136 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Hariom",
+  "college": "Maharaja Agrasen Institute Of Technology",
+  "locations": [
+    "New Delhi, India",
+    "Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "Passionate and dedicated software engineer with hands-on experience in full-stack development. Proficient in developing and deploying web applications using a variety of technologies including Next.js, MongoDB, and Tailwind CSS. Demonstrated expertise in building secure authentication systems and integrating advanced features like AI-driven interactions. Eager to contribute to innovative projects and continue learning in a dynamic environment.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute Of Technology",
+        "endDate": "07/2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "10/2022"
+      },
+      {
+        "school": "Guru Nanak Dev Institute Of Technology",
+        "endDate": "06/2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "New Delhi, India",
+        "ID": 1.0,
+        "grade_received": "86.6%",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "08/2019"
+      },
+      {
+        "school": "Central Board of Secondary Education",
+        "endDate": "03/2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Uttar Pradesh, India",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "",
+        "startDate": "05/2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Misterio-messages",
+        "description": "Developed an anonymous feedback messages application allowing users to control message acceptance. Integrated ChatGPT to enhance user interaction, providing intelligent responses and feedback. Implemented NextAuth for secure user authentication, ensuring privacy and data protection. Utilized Next.js and MongoDB for robust backend operations and data management, with Zod for data validation.",
+        "keywords": [
+          "Next.js",
+          "MongoDB",
+          "Zod",
+          "Resend Email",
+          "NextAuth",
+          "Shadcn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Next_Authentication",
+        "description": "Designed and implemented a user authentication system, including login, logout, profile pages, and email verification. Integrated Nodemailer for secure email verification, ensuring reliable user account creation. Used MongoDB for efficient data storage, ensuring secure and scalable data handling. Developed responsive user interfaces using Tailwind CSS, ensuring a seamless user experience across devices.",
+        "keywords": [
+          "Next.js",
+          "TypeScript",
+          "MongoDB",
+          "Nodemailer",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "React",
+          "Node.js",
+          "Tailwind CSS",
+          "JavaScript",
+          "TypeScript",
+          "Next.js"
+        ],
+        "endDate": "08/2024",
+        "company_name": "InsiderOne",
+        "description": "Uses React, Node.js, Tailwind CSS, JavaScript, TypeScript, and Next.js to develop responsive and dynamic web applications that deliver exceptional user experiences across various devices and platforms. Identified and resolved technical issues, bugs, and performance bottlenecks in web applications. Worked on different projects and converted them from react to Nextjs. Also worked at the backend of many projects in node.js and updated them according to the needs. Play an important role in decertifying many projects. Got mentorship of senior engineers from INSIDERONE, I learned real-world software development and learned about scalability.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "05/2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "JavaScript",
+      "Java",
+      "Python",
+      "Data Structures and Algorithms",
+      "HTML",
+      "CSS",
+      "ReactJs",
+      "NextJs",
+      "Tailwind",
+      "Bootstrap",
+      "Shadcn",
+      "Node",
+      "MongoDB",
+      "ExpressJS",
+      "AWS",
+      "Zod",
+      "Github",
+      "Git",
+      "VsCode",
+      "Replit",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "Hariom",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

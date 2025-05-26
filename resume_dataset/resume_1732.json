@@ -1,0 +1,133 @@
+{
+  "project_count": 4.0,
+  "designation": "Web developer Intern",
+  "name": "SIDDHANT PHULWANI",
+  "college": "MANIPAL UNIVERSITY JAIPUR",
+  "locations": [
+    "Ahmedabad",
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ordered Data Structures",
+        "issuer": "University of Illinois at Urbana-Champaign",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY JAIPUR",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, RJ",
+        "ID": 0.0,
+        "grade_received": "8.54/10",
+        "field_of_study": "Computer Science with IoT and IS",
+        "startDate": "2021"
+      },
+      {
+        "school": "ST. KABIR SCHOOL AHMEDABAD",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary School Certificate (HSSC)",
+        "location": "Ahmedabad, GJ",
+        "ID": 1.0,
+        "grade_received": "77%",
+        "field_of_study": "Science stream with maths",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fullstack Media Storage Application",
+        "description": "Implemented user authentication with signup, login, forgot password, and OTP-based email confirmation. Developed functionality for users to securely upload and manage their own photos and videos. Ensured separation of user data, with each user's media stored privately and independently.",
+        "keywords": [
+          "MERN Stack"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/SiddhantLM/photos-videos-upload"
+      },
+      {
+        "name": "Machine Learning Applications in Biochar Research",
+        "description": "Implemented SVM, Random Forest, and ANN models to enhance biochar production through pyrolysis, improve pesticide removal efficiency, and analyze the impact on soil microbial communities. Achieved significant advancements in predicting biochar properties and environmental benefits, showcasing expertise in applying diverse machine learning techniques to environmental research.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Plant Disease Detection Using Convolutional Neural Networks (CNN)",
+        "description": "Developed and implemented a CNN model to accurately detect plant diseases from images of healthy and infected leaves, achieving an impressive accuracy rate of over 97%. Utilised advanced image processing techniques and deep learning algorithms to enhance model performance, contributing to effective plant disease management and agricultural productivity.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Web Authentication App",
+        "description": "Developed a secure web authentication application using Next.js and Express.js, enabling user sign-up with email verification and password reset functionality. Implemented robust authentication flows and security measures to ensure user data integrity and protection.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Gujarati"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web developer Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "Vayunix",
+        "description": "Designed and developed a comprehensive website for the company, managing both frontend and backend development. Collaborated in content creation, ensuring alignment with company objectives and target audience engagement. Utilised modern web development technologies and frameworks to deliver a high-quality, user-friendly interface.",
+        "location": "Ahmedabad",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "MERN stack",
+      "NextJs",
+      "Git",
+      "SQL",
+      "Excel"
+    ],
+    "soft_skills": [],
+    "name": "SIDDHANT PHULWANI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ahmedabad",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

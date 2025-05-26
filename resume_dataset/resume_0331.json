@@ -1,0 +1,128 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "LUV CHAUDHARY",
+  "college": "Maharaja Agrasen Institute Of Technology",
+  "locations": [
+    "Rohini, Delhi",
+    "Agra, UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Participated in coding workshops, hackathons, and collaborative coding projects, enhancing coding and problem-solving skills. Worked closely with club members to promote tech-related events, contributing to the clubs success in the local tech community.",
+      "Successfully completed coding challenges and competitions, showcasing a dedication to skill improvement. Collaborated with fellow club members on group coding projects, demonstrating effective teamwork and coding proficiency."
+    ],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute Of Technology",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Rohini, Delhi",
+        "ID": 0.0,
+        "grade_received": "8.981 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": "Sep. 2021"
+      },
+      {
+        "school": "Lifeline Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Agra, UP",
+        "ID": 1.0,
+        "grade_received": "95%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "NextPedia",
+        "description": "Developed a full-stack website with responsive UI featuring a dynamic portfolio showcase, empowering users to create, publish, and manage their blog posts seamlessly. Additionally, incorporated Dark Mode to enhance user experience and accessibility. Implemented Next-Auth for advanced user authentication and authorization, and integrated Google Auth for user convenience. Implemented Next.js to achieve server-side rendering, significantly enhancing page load times and optimizing image delivery for a seamless and efficient user experience.",
+        "keywords": [
+          "NextJS",
+          "ReactJS",
+          "Context API",
+          "MongoDB",
+          "REST API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Chat App",
+        "description": "Developed a full-stack Chat App with responsive UI, to allow users to chat seamlessly. Utilized advanced password hashing, role-based access control, and error handling for a secure user experience. Incorporated Socket.io to enable real-time, bidirectional communication, instant messaging capabilities, ensuring seamless and responsive chat experiences for users.",
+        "keywords": [
+          "ReactJS",
+          "Context API",
+          "Styled Components",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "REST API",
+          "SocketIO"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Luvs Blog",
+        "description": "Designed and developed a full-stack blogging platform with responsive UI, allowing users to create, publish, and manage blog posts. Enhanced user experience by adding Like and Comment functionality, fostering engagement. Implemented user authentication and authorization using JWT tokens, enhancing the apps security.",
+        "keywords": [
+          "ReactJS",
+          "Context API",
+          "TailwindCSS",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "REST API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github/ Live"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "Python",
+      "C++",
+      "JavaScript",
+      "SQL",
+      "NextJs",
+      "Typescript",
+      "ReactJS",
+      "TailwindCSS",
+      "Advanced HTLM/CSS",
+      "Bootstrap",
+      "NodeJS",
+      "ExpressJS",
+      "Prisma",
+      "MongoDB",
+      "PostgreSQL",
+      "REST API",
+      "AWS",
+      "Git",
+      "GitHub",
+      "Postman",
+      "Linux",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "LUV CHAUDHARY",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

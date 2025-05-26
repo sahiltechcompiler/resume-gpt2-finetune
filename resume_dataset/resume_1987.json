@@ -1,0 +1,109 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Ramoji Chintada",
+  "college": "SRM University",
+  "locations": [
+    "AP"
+  ],
+  "full_output": {
+    "summary": "Software Engineering undergraduate with proficiency in programming, algorithms, and database manage- ment. Skilled in software design, development, and testing. Strong problem-solving abilities and a focus on teamwork. Ethical approach to software development.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "8.0/10.0",
+        "field_of_study": "State Board",
+        "startDate": "2019"
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "982/1000",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10/10",
+        "field_of_study": "State Board",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Realtime Language Translation",
+        "description": "Developed a Real-Time Language Translation system using Django and Google Translator API, enabling seamless communication across linguistic boundaries. Designed a user-friendly interface for real-time text translation, ensuring accuracy and scalability.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fake Images generation using GANS",
+        "description": "Conducted research to enhance fake image generation using advanced deep learning methods. Developed models to improve the realism and accuracy of generated images, contributing to advancements in AI- driven image synthesis.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Management System",
+        "description": "Developed a Library Management System in C++ to streamline the organization of books, authors, and book issuing processes. The system features cataloging books, managing member records, and tracking book loans and returns, ensuring efficient library operations and easy access to information.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bank management System",
+        "description": "The Bank Management System project aims to facilitate account management, transactions, and balance inquiries for customers using Python. It supports functionalities like account creation, deposit, withdrawal, fund transfer, and balance inquiry, ensuring a seamless banking experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Web Technologies",
+      "Database Systems",
+      "Programming Languages",
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "MySQL",
+      "Data Structures and Algorithms"
+    ],
+    "soft_skills": [],
+    "name": "Ramoji Chintada",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelors Degree"
+}

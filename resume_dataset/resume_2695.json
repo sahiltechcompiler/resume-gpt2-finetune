@@ -1,0 +1,115 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Diya Srivastava",
+  "college": "Bhagwan Parshuram Institute of Technology",
+  "locations": [
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Bhagwan Parshuram Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2020"
+      },
+      {
+        "school": "DAV Centenary Public School, New Delhi",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "91.60%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "DAV Centenary Public School, New Delhi",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "New Delhi",
+        "ID": 2.0,
+        "grade_received": "91.20%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "GenSync",
+        "description": "Created a dynamic web app for seamless college community interaction, offering mentorship and career guidance. Developed secure user authentication mechanisms. Implemented routers and controllers for efficient HTTP request handling. Ensured seamless integration by resolving MongoDB schema errors and optimizing indexes for better performance.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "Jul 2023",
+        "url": ""
+      },
+      {
+        "name": "Doubt Hub",
+        "description": "Built a collaborative MERN stack platform for academic discussions, allowing students to post, upvote, save, and comment on queries, with advanced search capabilities by tags or keywords. Implemented robust authentication to secure user data and control access. Handled HTTP requests and responses to maintain smooth frontend-backend interactions. Oversaw MongoDB operations using Robo 3T, ensuring optimal data storage and retrieval.",
+        "keywords": [],
+        "endDate": "Jun 2023",
+        "startDate": "Feb 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "Apr 2023",
+        "company_name": "Coding Ninjas",
+        "description": "Provided personalized mentoring in Data Structures and Algorithms using C++, addressing 220 queries with an average rating of 4.8. Demonstrated proficiency in DSA concepts, enhancing students problem-solving capabilities. Exhibited strong communication by effectively articulating technical concepts in C++ to diverse audiences.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "ReactJS",
+      "NodeJS",
+      "Express.js",
+      "MongoDB",
+      "SQL",
+      "Git",
+      "Robo 3T",
+      "Jira",
+      "Trello",
+      "Data Structures",
+      "Algorithms",
+      "Problem Solving",
+      "SDLC",
+      "Agile"
+    ],
+    "soft_skills": [],
+    "name": "Diya Srivastava",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed 100 days coding challenge.",
+      "Rank 4 in NSCC Coding Contest.",
+      "Solved 300+ questions on Leetcode, demonstrating strong problem-solving skills."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

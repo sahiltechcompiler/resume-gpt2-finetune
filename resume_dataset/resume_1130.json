@@ -1,0 +1,140 @@
+{
+  "project_count": 3.0,
+  "designation": "FrontEnd developer Intern",
+  "name": "Samyukthaa.B",
+  "college": "Chennai Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essential",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cybersecurity",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Web Development With MERN Stack Projects",
+        "issuer": "UDEMY",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:7.9/10",
+        "field_of_study": "Computer Science and Business Systems",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "POINT OF SALE APP",
+        "description": "Created a responsive point of sale web app automating email invoicing system to send detailed receipts to users post-purchase Implemented Google OAuth for secure user authentication and seamless login experience Built a real-time dashboard that updates product categories and total sales, providing up-to-date information for efficient management.",
+        "keywords": [
+          "PostgreSQL",
+          "Node.js",
+          "React.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://posapp1-q18w.vercel.app/shop"
+      },
+      {
+        "name": "CouchSurfing (NomadNights)",
+        "description": "Developed a couch surfing platform enabling guests to find and book accommodations worldwide. Implemented user authentication with email verification Integrated Mapbox to display and filters available houses globally, and enabled image uploads for house listings using Multer.",
+        "keywords": [
+          "React.js",
+          "PostgreSQL",
+          "Nodejs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/SamyukthaaBalaji/Couchsurfing"
+      },
+      {
+        "name": "To-DoList",
+        "description": "Implemented features for adding, completing, and deleting tasks with a visually appealing interface. Utilized these technologies for efficient data management and dynamic content updates.",
+        "keywords": [
+          "PostgreSQL",
+          "Node.js",
+          "React.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/SamyukthaaBalaji/task-app"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FrontEnd developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "SDLC",
+          "Communication"
+        ],
+        "endDate": "June2023",
+        "company_name": "Sankara Software Private Limited",
+        "description": "Recruited as a frontend developer Intern to learn and contribute to technology projects and enrich my skills in frontend development I have successfully developed a static frontend cosmetic webpage designed to provide an excellent user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "May2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "React",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node JS",
+      "Express JS",
+      "MySQL",
+      "Mongo DB",
+      "postgresSql",
+      "Git",
+      "GitHub",
+      "Selinium"
+    ],
+    "soft_skills": [],
+    "name": "Samyukthaa.B",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Leetcode : Solved 200+ problems.",
+      "Code chef : 2 star rating in problem solving",
+      "Design Team Lead At National Level symposium"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

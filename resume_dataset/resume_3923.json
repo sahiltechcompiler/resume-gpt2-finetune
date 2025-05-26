@@ -1,0 +1,103 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Pranav Saxena",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "GHAZIABAD, India"
+  ],
+  "full_output": {
+    "summary": "Software Engineering BTech student with expertise in machine learning and software development. Proficient in programming languages such as Python, Java, and C++. Actively engaged in Entrepreneurship Cell (E-cell) initiatives. Demonstrated leadership and entrepreneurial skills. Passionate about leveraging technology for innovation and impact.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "GHAZIABAD, India",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.10/10",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Event Management System",
+        "description": "Developed a dynamic event management website for Soundbugs, an event management organization in Goa. The platform enables organizers to efficiently plan and manage events with features like user registration, event creation, client management, and a booking system. The responsive design enhances accessibility, resulting in a 30% increase in planning efficiency and a 25% boost in client satisfaction.",
+        "keywords": [
+          "Html",
+          "CSS",
+          "Java script",
+          "PHP"
+        ],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Object Detection for Autonomous Cars",
+        "description": "Developed a real-time warning system using YOLOv5 to enhance safety in autonomous vehicles. Utilized advanced object detection algorithms to identify obstacles and pedestrians, triggering timely alerts for collision avoidance. This project showcases expertise in computer vision and machine learning applied to cutting-edge autonomous vehicle technology.",
+        "keywords": [
+          "YOLO v5",
+          "python",
+          "opencv"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Lane Line Detection",
+        "description": "Developed a lane line detection system using computer vision to enhance car safety and assist in driving. Implemented real-time lane tracking and visualization for vehicle guidance.",
+        "keywords": [
+          "python",
+          "opencv"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Volunteer Organizer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "TEDx [AKGEC]",
+        "description": "Collaborated with a dynamic team within the Entrepreneurship Cell (E-Cell) to successfully plan and execute TEDx events, contributing to the growth of knowledge sharing and innovation culture on campus. Assisted in coordinating logistics, managing speakers, promoting the event, and ensuring a seamless experience for attendees, fostering a platform for inspiring ideas and networking within the college community.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React.js",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Decision-making",
+      "Problem-solving"
+    ],
+    "name": "Pranav Saxena",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

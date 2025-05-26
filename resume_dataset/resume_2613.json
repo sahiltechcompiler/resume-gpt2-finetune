@@ -1,0 +1,110 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rohith Kumar Jupalle",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "I am a Computer Science Engineering student at SRM University with a passion for technology and problem-solving. I have a strong foundation in programming languages such as Python. I am enthusi- astic about contributing my skills to real-world projects. Eager to leverage my academic knowledge and practical experience to make a positive impact in the field of computer science",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Computer Science Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Andhra Pradesh State Board",
+        "endDate": "2021",
+        "maximum_grade": "10.0",
+        "degree": "Intermediate Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "9.2/10.0",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Onshelf Availability using Object Detection",
+        "description": "This is a Machine Learning project with to tackle the problem of efficient use of retail shelfs. With help of Object detection we identify the vacancy in the shelf in real time, this information can be used for refilling the shelfs as per required, which indeed reduces regular manual checks.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Campus Outpass System using IOT",
+        "description": "This is IOT project equipped with extra features added to the current existing Campus Outpass Mange- ment System. Key features include Notification Alert to guardians on In and Out timings, authorized outpass from parents etc.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Youtube Video Downloader",
+        "description": "This is a Python program with user friendly GUI to download Youtube Videos easily. In this project I used Tkinter Library for building up the user friendly interface and Pytube Library for downloading the Youtube videos with some of the inbuilt functions in Pytube Library.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Member",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "NXT Lab",
+        "description": "NXT Lab is a Technical club in SRM University. All its activities mostly look after by Students. To be a part in NXT Lab one should have extra skills rather than the skills that are taught at college and enthusiasm in learning and acquiring more knowledge.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2023"
+      }
+    ],
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Python",
+      "C++",
+      "C",
+      "HTML",
+      "Tailwind CSS",
+      "Bootstrap",
+      "JavaScript",
+      "React",
+      "React router",
+      "Express",
+      "NodeJS",
+      "SQLite",
+      "SQL",
+      "MongoDB",
+      "PowerBI"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Communication",
+      "Leadership Qualities"
+    ],
+    "name": "Rohith Kumar Jupalle",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Patent on Onshelf Availability using Object Detection Research project done in field of Machine Learning, using Computer vision and Object Detection, got National recognition and patented."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Computer Science Engineering"
+}

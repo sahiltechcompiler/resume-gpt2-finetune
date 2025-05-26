@@ -1,0 +1,158 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SRUJAN REDDY CHALLA",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Punjab, India",
+    "Hyderabad, Telangana"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advanced React and React Native",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mastering Data Structures and Algorithm",
+        "issuer": "Board Infinity",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete Web Development Boot Camp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "March 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Punjab, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.43",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "May 2023",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Hyderabad, Telangana",
+        "ID": 1.0,
+        "grade_received": "Percentage: 94.8%",
+        "field_of_study": "",
+        "startDate": "August 2023"
+      },
+      {
+        "school": "Sri Chaitanya School",
+        "endDate": "August 2022",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Hyderabad, Telangana",
+        "ID": 2.0,
+        "grade_received": "Percentage: 96%",
+        "field_of_study": "",
+        "startDate": "February 2022"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Intent Mapping Machine Learning Model",
+        "description": "Used to segregate the queries given by users between different intents and give the perfect matched intent query remark for it. Python plays a very critical role to encapsulate the data from the excel using the openpyxl for better performance. Used a Sentence Transformer and a similarity threshold which would help in lemmatization of sentences and using cosine scores to compare between sentences for the semantic meaning was done. Was able to learn the usage of spacy model for sentence transforming and achieved a accuracy of 85%.",
+        "keywords": [
+          "Python",
+          "Spacy Model",
+          "Excel",
+          "Anaconda"
+        ],
+        "endDate": "January 2024",
+        "startDate": "December 2023",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "Leveraged a full-stack approach, combining HTML, CSS, and JavaScript for the front-end end, and ReactJS, NodeJS, ExpressJS, and MongoDB for the back end. Gained insights into user experience design, database management, and end-to-end application development. Gained practical experience in database connectivity, CRUD operations, and data modeling.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB"
+        ],
+        "endDate": "October 2023",
+        "startDate": "August 2023",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Creating a portfolio website was essential for showcasing my skills, projects, and professional background. It serves as a digital resume that potential employers or clients can easily access. For structuring the content HTML was used, styling was done by CSS, and added interactivity and smooth scrolling and dynamic effects using JavaScript. Gained experience on handling front end web applications for scalability and performance.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "endDate": "June 2023",
+        "startDate": "May 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "JavaScript",
+      "Kotlin",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "React.js",
+      "Express",
+      "NodeJS",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Problem Solving Skills",
+      "Team Player",
+      "Adaptability",
+      "Critical Thinking"
+    ],
+    "name": "SRUJAN REDDY CHALLA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed 200 problems on Leetcode",
+      "Qualified for the final of the Smart India Hacakthon",
+      "One among Deans top 10 % students at University: IamNeo NeoCodeathon finalist"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

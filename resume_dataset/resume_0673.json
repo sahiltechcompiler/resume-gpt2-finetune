@@ -1,0 +1,181 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Anuj Ramola",
+  "college": "Acharaya Institute Of Technology",
+  "locations": [
+    "Bengaluru,Karnataka",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Docker Training Course",
+        "issuer": "KodeKloud",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS cloud",
+        "issuer": "Brainovision solutions Pvt Ltd",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CKAD with Tests",
+        "issuer": "KodeKloud",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Git For Beginners",
+        "issuer": "KodeKloud",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Linux training program",
+        "issuer": "Linux world Informatics Pvt Ltd",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Specialization In Container",
+        "issuer": "Linux world Informatics Pvt Ltd",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Acharaya Institute Of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Bengaluru,Karnataka",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.5",
+        "field_of_study": "Computer Science",
+        "startDate": "May 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CI-CD pipeline for Java based Application",
+        "description": "This project focused on developing CI and CD pipeline for Java Based Application using tools like Jenkins, maven, Sonarqube, Docker, Kubernetes and Followed by GitOps with ArgoCd approach for deployment.",
+        "keywords": [],
+        "endDate": "Mar 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CI over AWS Cloud",
+        "description": "Implemented Continuous Integration Pipeline using AWS code commit and code build services.",
+        "keywords": [],
+        "endDate": "Aug 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Containerization Of Django based Application",
+        "description": "This Project was used for containerizing the Django application using Docker as Container run time engine and using Redhat linux as Host OS.",
+        "keywords": [],
+        "endDate": "Aug 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Python AWS resource validator",
+        "description": "Managed AWS resources through Lambda functions for compliance, security, and cost efficiency using Python as language for lambda handler function.",
+        "keywords": [],
+        "endDate": "Sep 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Docker Webapp",
+        "description": "Created the webapp which runs basic docker commands like docker ps, docker images, docker run etc. the webapp used python as backend language and html, css as frontend.",
+        "keywords": [],
+        "endDate": "Jun 2021",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Specialization In Container Program CKA AND CKAD",
+        "skillsUsed": [],
+        "endDate": "Apr 2022",
+        "company_name": "Linux World Informatics Pvt Ltd",
+        "description": "Application Deployment: Designing, Deploying and Managing k8s cluster. Configuration Management: Config Maps, Secrets and Environment variables. Monitoring And Troubleshooting: Integration of Monitoring and Logging Solutions. K8s Security and Maintenance. Creation of Certificates, TLS authentication, monitoring and auditing.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Oct 2021"
+      },
+      {
+        "role_name": "AWS Cloud Internship",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "Brainovision Solutions India Pvt Ltd",
+        "description": "Tasks: Setting up of an httpd web server on amazon Linux VM and Configuring VPC for an application. Impact: Course provided the knowledge on basic services used in AWS Cloud.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Oct 2023"
+      }
+    ],
+    "skills": [
+      "Shell Scripting",
+      "Python",
+      "Ubuntu Linux",
+      "Redhat Linux",
+      "AWS Cloud",
+      "Promethus",
+      "Graffana",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Ansible"
+    ],
+    "soft_skills": [
+      "Good communication",
+      "Good Troubleshooter",
+      "Quick Learner",
+      "Team Worker",
+      "Leadership Mindset",
+      "Eager to Learn"
+    ],
+    "name": "Anuj Ramola",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded as the Best Allrounder and Most Valuable Player of the biggest Cricket Tournament of college consecutively for two Acharya Premiere League (Apl) Seasons i.e. season 8 and season 9. The bidding to select the players takes place among 15k students.",
+      "Captained the team to victory in APL-8 and to runners-up in APL-9, consequently securing the prize of 1 lakh rupees and 70k respectively."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

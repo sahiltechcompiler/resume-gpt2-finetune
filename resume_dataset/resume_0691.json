@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shruti Paliwal",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "IIT Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Oct. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Musculo-Skeletal Disease Prediction",
+        "description": "Employed Convolutional Neural Networks (CNN), Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU) models to analyze & forecast MSD occurrences. Implemented 1D-CNN architecture for feature extraction on sequential data with a model accuracy of 97.19%. Directed the use of bi-directional LSTM & GRU to enhance the understanding of complex patterns in the data.",
+        "keywords": [
+          "1D-CNN",
+          "LSTM",
+          "GRU"
+        ],
+        "endDate": "Sept. 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "Incorporated JavaScript for active content rendering & asynchronous operations, enhancing website interactivity. Employed PHP to handle server-side processing, such as database interactions and form submissions. Implemented MySQL for effective database creation, editing & management.",
+        "keywords": [
+          "JavaScript",
+          "PHP",
+          "HTML",
+          "CSS",
+          "MySQL",
+          "XAMPP"
+        ],
+        "endDate": "Feb. 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Multi-species plant disease prediction",
+        "description": "Prepared a self-extracted large dataset of plant species with disease where each disease having four levels of severity. Leveraged optimization techniques to improve model accuracy upto 97.05%.",
+        "keywords": [
+          "Data visualization",
+          "CNN",
+          "Augmentation",
+          "Optimization"
+        ],
+        "endDate": "Apr. 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Assistant",
+        "skillsUsed": [],
+        "endDate": "Jul. 2023",
+        "company_name": "Malaviya National Institute of Technology (MNIT)",
+        "description": "Faciliated on a research article published at ASSIC Conference 2024. Developed a deep learning prediction model with an accuracy of 97.19% for Musculo-Skeletal Disease in Sewing Industry Workers. Researched about machine learning models, deep learning models and suitable applications upon publicly available datasets.",
+        "location": "Jaipur, India",
+        "links": "https://ieeexplore.ieee.org/document/10507807",
+        "startDate": "Jun. 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C/C++",
+      "SQL",
+      "JavaScript",
+      "HTML/CSS",
+      "Git",
+      "VS Code",
+      "Visual Studio",
+      "Eclipse",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Keras",
+      "OpenCV",
+      "Seaborn",
+      "PyTorch"
+    ],
+    "soft_skills": [],
+    "name": "Shruti Paliwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

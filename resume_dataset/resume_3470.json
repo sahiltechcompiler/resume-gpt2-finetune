@@ -1,0 +1,181 @@
+{
+  "project_count": 6.0,
+  "designation": "Intern",
+  "name": "Mukul Kumar",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Ghaziabad"
+  ],
+  "full_output": {
+    "summary": "I am a dedicated Computer Science Engineering student pursuing my BTech degree. Alongside my academics, I'm actively involved in real-world software development as part of a dynamic team working on a game development project. This hands-on experience has strengthened my passion for software engineering and development. Collaborating with talented individuals on a high-profile project has provided invaluable insights into the tech industry's demands. As I progress in my academic journey, I'm eager to further refine my software engineering skills through a stimulating internship. I aim to bridge the gap between academic knowledge and industry experience, seeking opportunities to grow and contribute to a forward-thinking organization. If you're in search of a motivated intern with a strong foundation in Computer Science and a fervor for software engineering, I'm enthusiastic about exploring how I can contribute to your team and learn from your organization's expertise.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "10",
+        "degree": "BTech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "7.4",
+        "field_of_study": "IOT & IS",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "DLF Public School Ghaziabad",
+        "endDate": "Feb 2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Ghaziabad",
+        "ID": 1.0,
+        "grade_received": "85%",
+        "field_of_study": "",
+        "startDate": "Feb 2021"
+      },
+      {
+        "school": "DLF Public School Ghaziabad",
+        "endDate": "Mar 2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Ghaziabad",
+        "ID": 2.0,
+        "grade_received": "87%",
+        "field_of_study": "",
+        "startDate": "Mar 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Air Canvas",
+        "description": "I developed a Python program that utilizes computer vision and machine learning techniques to recognize hand gestures through a user's camera. The program was designed to capture video from the camera using OpenCV and display it in real-time.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "NumPy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AR Face Filter",
+        "description": "I developed an Augmented Reality (AR) face filter project that utilizes Unity and C# programming skills. This project involves creating a real-time interactive application that leverages the user's camera to add dynamic and engaging filters to their face.",
+        "keywords": [
+          "Unity",
+          "C#",
+          "AR"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AR Plane Detection",
+        "description": "I developed a program in Unity using C# that demonstrates the ability to detect and differentiate between horizontal and vertical surfaces in an augmented reality (AR) context.",
+        "keywords": [
+          "Unity",
+          "C#",
+          "AR"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AR Object Placer",
+        "description": "I designed and implemented an AR Object Placer program using Unity and C# that leverages the user's camera to detect and interact with the surrounding environment.",
+        "keywords": [
+          "Unity",
+          "C#",
+          "AR"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Gym Tracker",
+        "description": "I developed a Gym Tracker Application using Python, harnessing the capabilities of libraries such as MediaPipe, OpenCV, and NumPy.",
+        "keywords": [
+          "Python",
+          "MediaPipe",
+          "OpenCV",
+          "NumPy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image Generator",
+        "description": "I developed an image generator program that generates images of fashion (Shirts, T-Shirts, Boots, Shoes, Jeans) using Deep Learning concepts.",
+        "keywords": [
+          "Python",
+          "Deep Learning",
+          "TensorFlow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "C#",
+          "Unity"
+        ],
+        "endDate": "Jan 2024",
+        "company_name": "Smollan India",
+        "description": "I had the privilege of working on an exciting project that demanded proficiency in C# and Unity. The project gained distinction due to its esteemed client, Google, setting high standards and expectations for our development work. As a key contributor to this endeavor, I assumed the role of a developer and worked with cutting-edge technologies to meet and exceed our client's objectives.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C#",
+      "Python",
+      "Java",
+      "MySQL",
+      "JavaScript"
+    ],
+    "soft_skills": [
+      "Decision Making",
+      "Ability to Multitask",
+      "Problem Solving",
+      "Fast Learner",
+      "Ability to work in a team",
+      "Ability to work under pressure",
+      "Time Management",
+      "Adaptability",
+      "Communication",
+      "Teamwork",
+      "Organizational Skill"
+    ],
+    "name": "Mukul Kumar",
+    "position": "Intern",
+    "interests": [],
+    "achievements_and_awards": [
+      "Selected for final round for JR NBA held in Delhi Thyagraj Stadium 2016.",
+      "Came 2nd for Roller Hockey Competition Held in Meerut 2014.",
+      "Came 3rd In roller Hockey Competition Held in Rohini 2014.",
+      "Came 2nd For speed Skating Held in Delhi 2012.",
+      "Came 1st for ED TERA Adventure camps 2014.",
+      "Came 3rd For Basketball at Ramjas Basketball Champions league 2017.",
+      "Came 2nd for roller hockey held in Rohini 2015.",
+      "Came 3rd for basketball held at DPS Vasundhara 2017.",
+      "Came 1st Thrice IN INTER HOUSE BASKETBALL TOURNAMENT 2018-20.",
+      "Came 1st in Inter House Swimming Competition."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

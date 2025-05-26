@@ -1,0 +1,108 @@
+{
+  "project_count": 1.0,
+  "designation": "M E R N S T A C K D E V E L O P E R",
+  "name": "DHEERAJ MALIK",
+  "college": "Ducat India",
+  "locations": [],
+  "full_output": {
+    "summary": "Self-directed and motivated software engineer, working on cross platform Web/Client server architecture using React, Nodejs and MongoDb along with solid foundation in object oriented design patterns; am open to learn any new technologies and framworks.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ducat India",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "Mern Stack Developer",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "MDU University",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Bachelor of Commerce",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "HBSE",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 12",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "HBSE",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "Class 10",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Shopia E-Commerce",
+        "description": "Design & Develop highly scalable web application using React, NodeJS and MongoDB. Design user-friendly home page and product pages that were organized according to different, categories resulting in an enhanced customer shopping experience. Implemented a caching system using REDIS on db level to reduce duplicate api calls & load on db. Implemented the database schema, as well as developed the REST API to interface with the database, resulting in a highly efficient and scalable. Ensured secure login and signup authentication by implementing a session management system hat prevented unauthorized access to customer information and maintained data integrity. In addition to developing a user-friendly cart and secure payment page to ensure a smooth and secure shopping experience for customers.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Mern Stack Developer",
+        "skillsUsed": [],
+        "endDate": "January 2024",
+        "company_name": "Digisteps.in",
+        "description": "Create and maintain Mern stack applications. Ensuring applications are scalable, maintainable, and fault tolerant. Create, maintain, and improve the stack of software applications used by the organization. Responsible for ensuring that the applications are written in a standard, consistent, and reusable manner. Responsible for ensuring that the applications meet the organization's deployment and maintenance requirements. Responsible for investigating and fixing issues that may arise with the project. Reusable and modular software development framework.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "NodeJS",
+      "React",
+      "MongoDB",
+      "HTML5",
+      "CSS5",
+      "Express",
+      "API Integration",
+      "Postman",
+      "Photoshop",
+      "GitHub",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "DHEERAJ MALIK",
+    "position": "M E R N S T A C K D E V E L O P E R",
+    "interests": [],
+    "achievements_and_awards": [
+      "Certificate of Excellence for outstanding performance and contribution to a group project during the MERN Stack Developer training program.",
+      "Internship certificate from Digisteps."
+    ],
+    "publications": []
+  },
+  "current_location": "Shakti nagar, Delhi",
+  "graduation_year": 2023.0,
+  "experience_count": 1.0,
+  "degree": "Mern Stack Developer"
+}

@@ -1,0 +1,159 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Devansh Singhla",
+  "college": "Maharaja Agrasen Institute Of Technology, Delhi",
+  "locations": [
+    "Delhi",
+    "Pitampura"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute Of Technology, Delhi",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.00",
+        "field_of_study": "CSE",
+        "startDate": ""
+      },
+      {
+        "school": "Sachdeva Public School, Pitampura",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Pitampura",
+        "ID": 1.0,
+        "grade_received": "Percentage: 94",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sachdeva Public School, Pitampura",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Pitampura",
+        "ID": 2.0,
+        "grade_received": "Percentage: 96.2",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "GYM Buddy",
+        "description": "Gym Buddy helps users to store their workout information efficiently. Gym Buddy is a MERN stack application that allows users to log in, sign up, and sign out while storing and managing their workout information efficiently.",
+        "keywords": [
+          "ReactJs",
+          "ExpressJs",
+          "NodeJs",
+          "MongoDb"
+        ],
+        "endDate": "2025",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Recipe House",
+        "description": "Recipe-App allows users to fetch recipes of various dishes. The API-based Recipe React app enables users to effortlessly fetch and explore recipes for a wide variety of dishes.",
+        "keywords": [
+          "ReactJs",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Newsify",
+        "description": "News App is designed to fetch and display news articles from various sources. The news app is a React application designed to fetch and display news articles from various sources on various topics. The app is built with JavaScript for its core logic, HTML for structure, and CSS for styling. The project is bootstrapped using Create React App, ensuring a streamlined development process.",
+        "keywords": [
+          "ReactJs",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat Application",
+        "description": "Chat Application is a flutter-based application that allows real-time messaging. Chat App is a cross-platform chat application built using Flutter, supporting Android, iOS, web, and desktop platforms. Key features likely include real-time messaging, user authentication.",
+        "keywords": [
+          "Flutter",
+          "Dart"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "C++ Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Codsoft Technology",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "FrontEnd Developer Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Restaurant Of Future",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "Dart",
+      "HTML",
+      "CSS",
+      "ReactJs",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "MySql"
+    ],
+    "soft_skills": [
+      "Team work",
+      "Time management",
+      "Problem solving"
+    ],
+    "name": "Devansh Singhla",
+    "position": "",
+    "interests": [
+      "Full Stack development",
+      "App development",
+      "Software development"
+    ],
+    "achievements_and_awards": [
+      "CBSE 0.1 Certificate For Mathematics Scored 100 marks in class 10 CBSE maths exam"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

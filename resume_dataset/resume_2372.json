@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Yashesh Kopalli",
+  "college": "SRM University, AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Chaitainya College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Ushodaya English Medium School",
+        "endDate": "2021",
+        "maximum_grade": "(92.6 %)",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 8.5/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Human Fall Detection",
+        "description": "Conceptualized and identified the projects focal area, pinpointing the fall detection problem to solve. Executed feature extraction techniques from datasets, ensuring data readiness for training phases. Analyzed model accuracies, providing detailed insights into fall and non-fall event performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Expense Tracker",
+        "description": "Developed a full-stack MERN expense tracker application with real-time data updates and secure user authentication. Implemented dynamic data visualization using charts to display spending trends.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Social Media App - Hobnob",
+        "description": "Ideated and developed a website where people can interact with each other by creating communities. Utilized MERN stack to develop and deploy authentication, search functionality, and messaging features, enhancing overall user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [
+          "Numpy",
+          "Pandas",
+          "Matplotlib",
+          "Google Collab"
+        ],
+        "endDate": "July 2024",
+        "company_name": "APSSDC - IBM SkillsBuild",
+        "description": "Completed Data analysis courses provided in the IBM SkillsBuild Platform as a part of the internship. Presented a Comprehensive analysis of Car Dekho DataSet. Tools & Technologies: Numpy, Pandas, Matplotlib, Google Collab",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "FullStack Developer",
+        "skillsUsed": [
+          "MERN Stack",
+          "React-BootStrap",
+          "Nodemon"
+        ],
+        "endDate": "June 2024",
+        "company_name": "Bharat Intern",
+        "description": "Completed JavaScript Certification during the timeline of the Internship and Worked on three FullStack project tasks (link). Tools & Technologies: MERN Stack, React-BootStrap and Nodemon.",
+        "location": "",
+        "links": "(link)",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "Full Stack Development",
+      "MERN Stack",
+      "Machine Learning",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn"
+    ],
+    "soft_skills": [],
+    "name": "Yashesh Kopalli",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors of Technology"
+}

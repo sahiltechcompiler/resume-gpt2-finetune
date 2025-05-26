@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Arnav Dhok",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundations",
+        "issuer": "AWS",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning with Python",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat System Administration II (RH134)",
+        "issuer": "Oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Academy Database Foundations",
+        "issuer": "Oracle",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.82",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Aug 2021"
+      },
+      {
+        "school": "G H Raisoni Vidyaniketan",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 78.6%",
+        "field_of_study": "",
+        "startDate": "July 2020"
+      },
+      {
+        "school": "Delhi Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 85.6%",
+        "field_of_study": "",
+        "startDate": "July 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Market Basket Analysis",
+        "description": "Conducted exploratory data analysis (EDA) on a bakery dataset, extracting insights to understand customer purchasing behavior. Implemented Apriori, FP-Growth, and Eclat algorithms to discover association rules within the dataset, analyzing metrics such as support, confidence, and lift. Visualized association rules using techniques like drawing FP trees and compared the performance, advantages, and drawbacks of the applied algorithms. Derived actionable insights from the analysis to optimize product placement, marketing strategies, and inventory management in the bakery.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "StockFlow",
+        "description": "Built and managed a pipeline for real-time stock market data processing using Apache Kafka on AWS EC2, handling end-to-end data ingestion, storage, and analysis. Implemented Python scripts to automate the streaming and processing of stock market data, seamlessly pushing it to AWS S3. Utilized AWS Glue to automatically catalog the ingested data, ensuring easy and organized data management. Executed SQL queries in AWS Athena to perform real-time analysis on the cataloged stock market data.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Premier League 2022-2023 Analysis",
+        "description": "Cleaned and pre-processed Premier League 2023 season data, preparing it for analysis by handling missing values, normalizing data, and ensuring data integrity. Analysed key metrics such as relegated/promoted teams, goals, wins, losses, and goal differentials using Python libraries (NumPy, Pandas, Matplotlib). Conducted a detailed comparison of home and away performances for the top 6 teams, utilizing spider graphs to visualize metrics like total shots, blocked shots, and shots inside/outside the box. Evaluated team performance based on home and away wins, possession stats, and goal differences, providing comprehensive insights into team strategies and outcomes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "SQL",
+      "Numpy",
+      "Pandas",
+      "Sklearn",
+      "MLXtend",
+      "Matplotlib",
+      "Bootstrap",
+      "Git",
+      "Github",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "Arnav Dhok",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B. Tech"
+}

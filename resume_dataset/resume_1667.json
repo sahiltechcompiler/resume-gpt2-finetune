@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "VINEET YADAV",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Gurugram",
+    "Gururgram"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Specialization",
+        "issuer": "DeepLearning.AI & Stanford University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Neural Networks and Deep Learning",
+        "issuer": "DeepLearning.AI",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+        "issuer": "DeepLearning.AI",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA: Introduction to Networks",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA: Enterprise Networking, Security, and Automation",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "8.17 CGPA",
+        "field_of_study": "Electrical And Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "The Pine Crest School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Gurugram",
+        "ID": 1.0,
+        "grade_received": "86.83%",
+        "field_of_study": "Higher Secondary (12th)",
+        "startDate": ""
+      },
+      {
+        "school": "The Pine Crest School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Gururgram",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "Secondary School (10th)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "LipNet: Lip Reading through Deep Learning",
+        "description": "Developed a deep learning model for real-time lip reading using CNNs and Bidirectional LSTM networks. Addressed the challenge of deciphering speech based solely on visual cues from lip movements and achieved a Word-Error-Rate Accuracy of 90.3%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ethnicity, Gender & Age Detection Using MobileNetV2 And InceptionNet",
+        "description": "Leveraged transfer learning with a pre-trained MobileNetV2 and then through InceptionNet for efficient facial attribute recognition. The model classifies age, ethnicity, and gender from images, and compares the result through the two models, achieving high accuracy with reduced training time and resources.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Other Projects",
+        "description": "ImageToCSV Conversion Through Tesseract OCR, Twitter Sentiment Analysis, Facial Emotion Detection using CNNs",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "MATLAB",
+      "Tensorflow",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "OpenCV",
+      "NLTK"
+    ],
+    "soft_skills": [],
+    "name": "VINEET YADAV",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Gurugram, Haryana",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

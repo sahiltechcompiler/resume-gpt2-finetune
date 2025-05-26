@@ -1,0 +1,118 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Siva Kalyani",
+  "college": "SRM University",
+  "locations": [
+    "Tirupati",
+    "Chitvel"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "HSC",
+        "location": "Tirupati",
+        "ID": 1.0,
+        "grade_received": "9.3/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Z.P.H. School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "Chitvel",
+        "ID": 2.0,
+        "grade_received": "8.5/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mental Fitness Tracker",
+        "description": "Developed predictive models (Linear Regression, Random Forest) with high accuracy (R up to 0.99). Optimized models using feature engineering and hyperparameter tuning (GridSearchCV). Created visualizations to provide insights and support mental health tracking.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Event Management System",
+        "description": "Developed a web application using PHP and SQL to streamline student event registration. Designed a secure and scalable backend using PHP and MySQL, supporting dynamic event registration and data validation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Finaltics",
+        "description": "Utilized libraries such as Pandas, NumPy, and Scikit-Learn to perform data manipulation, statistical analysis, and machine learning tasks. Created data visualizations with Matplotlib to effectively communicate findings and support strategic decision-making.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2024"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "SRM University AP",
+        "description": "Collaborated in a group of four to analyze EEG signals, significantly improving seizure detection and diagnosis automation. Applied advanced signal processing techniques, enhancing accuracy in detecting seizures. Developed machine learning models, including Random Forest classifiers, to predict seizures with improved precision. Co-authored a research paper submitted to the VIT AP IEEE Conference, to be presented on October 26, 2023.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "CodeSwaps",
+        "description": "Developed a responsive product price comparison website using HTML, CSS, and JavaScript for a user-friendly interface across devices. Implemented Node.js for server-side scripting and integrated APIs for real-time product data. Used SQL databases for efficient data management and processing, optimizing API requests to improve user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "Java",
+      "Web Technologies",
+      "Problem Solving"
+    ],
+    "soft_skills": [],
+    "name": "Siva Kalyani",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

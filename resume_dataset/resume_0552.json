@@ -1,0 +1,168 @@
+{
+  "project_count": 3.0,
+  "designation": "Backend Developer",
+  "name": "Nitin Sain",
+  "college": "Rajasthan Technical Universiry",
+  "locations": [
+    "Maharashtra, India",
+    "Delhi, India",
+    "Rajasthan, India",
+    "Kota, Rajasthan, IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deploying Cloud Application with NodeJs and React",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem Solving through Programming in C",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Structured Query Language",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Rajasthan Technical Universiry",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Kota, Rajasthan, IN",
+        "ID": 0.0,
+        "grade_received": "CGPA - 9.28",
+        "field_of_study": "Electrical Engineering",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ART 2 HIRE - A Job Platform",
+        "description": "The app allows job seekers to create profiles, upload resumes, search for jobs, and submit applications, while employers can post jobs, manage applications, and track job performance. Built with NestJS, TypeORM, PostgreSQL, and Passport for robust authentication and data management, ensuring a secure and seamless user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Shopping Cart",
+        "description": "The platform offers detailed product listings, advanced search and filtering, and a user-friendly shopping cart, ensuring a smooth and enjoyable shopping experience. Built with React.js for the frontend and Node.js with Express.js for the backend.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Shikshak-Shaakha",
+        "description": "The platform facilitates seamless interaction between students and teachers, promoting a collaborative educational environment.Built with Node.js, Express.js, and MongoDB.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer",
+        "skillsUsed": [
+          "NodeJs",
+          "NestJs",
+          "Typescript",
+          "Postgres",
+          "Prisma",
+          "Drizzle"
+        ],
+        "endDate": "Present",
+        "company_name": "Atriina Technology",
+        "description": "Develop and maintain robust microservices using NestJS, handling all aspects from API design to deployment, resulting in a scalable and seamless system that enhances user experience. Work with cross-functional teams to design and deploy innovative backend solutions, improving system efficiency and user satisfaction.",
+        "location": "Maharashtra, India",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [
+          "React",
+          "Material-UI"
+        ],
+        "endDate": "December 2022",
+        "company_name": "KCTT Technology Private Limited",
+        "description": "Designed and developed responsive web pages using ReactJS, ensuring seamless functionality across various screen sizes and devices. Gained hands-on experience in React, Material-UI by implement user-friendly interfaces, enhancing overall user experience and engagement.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "September 2022"
+      },
+      {
+        "role_name": "Web Development and Design Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Bootstrap"
+        ],
+        "endDate": "November 2021",
+        "company_name": "The Spark Foundation",
+        "description": "Designed and developed a responsive website themed around donations, utilizing HTML, CSS, Javascript and Bootstrap.",
+        "location": "Rajasthan, India",
+        "links": "",
+        "startDate": "October 2021"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Javascript",
+      "Typescript",
+      "NodeJs",
+      "NestJs",
+      "ExpressJS",
+      "MVC",
+      "Prisma",
+      "Drizzle ORM",
+      "React",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "RESTful APIs",
+      "DSA",
+      "Git",
+      "Docker",
+      "MySQL",
+      "Postgresql",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Nitin Sain",
+    "position": "Backend Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Frontend Hackathon Winner Organised by Girlscript Chapter Bilaspur.",
+      "Solve 300+ on coding platform Leetcode, GFG.",
+      "Executive member in Robotics Club."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 3.0,
+  "degree": "BTech"
+}

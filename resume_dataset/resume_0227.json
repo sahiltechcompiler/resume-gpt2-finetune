@@ -1,0 +1,182 @@
+{
+  "project_count": 6.0,
+  "designation": "",
+  "name": "Amit Kumar Verma",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Varanasi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Front-End Developer Professional Certificate Course",
+        "issuer": "Meta",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hands-On Labs certification in Google Cloud for Networking Engineers",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Bits and Bytes of Computer Networking",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming and Software Engineering Fundamentals Specialization Certification",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI and Development",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.5",
+        "field_of_study": "Computer Science",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "St. Josheps School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Varanasi",
+        "ID": 1.0,
+        "grade_received": "82%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Johns School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Varanasi",
+        "ID": 2.0,
+        "grade_received": "72%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gestura",
+        "description": "Gestura is a smart presentation control system utilizing Python, OpenCV (cv2), and other libraries to detect hand gestures for seamless slide navigation, enabling wireless and intuitive control during presentations.",
+        "keywords": [],
+        "endDate": "June 2020",
+        "startDate": "April 2019",
+        "url": ""
+      },
+      {
+        "name": "ToDoList",
+        "description": "A basic to-do list app that allows users to add, edit, and delete tasks. It includes features like task categorization, due dates, and a simple interface for managing daily tasks.",
+        "keywords": [],
+        "endDate": "June 2018",
+        "startDate": "April 2017",
+        "url": ""
+      },
+      {
+        "name": "MediTrack",
+        "description": "MediTrack is a health management app that leverages machine learning to predict potential health issues based on user input and historical data. Developed with Python and Flask, it offers personalized health advice and tracking features for diet, exercise, and medication adherence.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "NewsFusion",
+        "description": "NewsFusion is a cross-platform news app developed using ReactJS, TailwindCSS, HTML, CSS, and JavaScript. It aggregates and delivers top news from multiple platforms, providing users with a seamless and unified news-reading experience. The app offers a responsive design, ensuring smooth performance across both web and mobile devices.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Glucoguard",
+        "description": "Glucoguard is a diabetes prediction system developed using machine learning, leveraging the Random Forest algorithm for accurate predictions. The model analyzes key health metrics to assess the likelihood of diabetes, helping users and healthcare professionals make informed decisions for early intervention and management of the condition.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WeatherApp",
+        "description": "A weather application that fetches and displays current weather data based on the users location or input city. It uses a weather API and features a clean UI with temperature, conditions, and forecasts.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Machine Learning: Model development",
+      "Predictive analysis",
+      "Data Analysis: Data Interpretation",
+      "Data Mining and Cleaning",
+      "Extraction",
+      "Integration",
+      "Data Structure & Algorithms: Core principles",
+      "Web Development: HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "TailwindCSS",
+      "Bootstrap",
+      "Programming: Python",
+      "Java"
+    ],
+    "soft_skills": [
+      "Interpersonal",
+      "Management",
+      "Teamwork skills"
+    ],
+    "name": "Amit Kumar Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded a 70% scholarship during B.Tech degree for academic excellence",
+      "Solved 200+ coding questions on platforms including LeetCode, HackerEarth, and HackerRank"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

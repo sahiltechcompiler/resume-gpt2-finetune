@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Heswitha Reddy",
+  "college": "SRM University AP",
+  "locations": [
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic and dedicated undergraduate student pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE) at SRM University AP.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "Jun 2024",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "Virtual",
+        "ID": 0.0,
+        "grade_received": "8.02/10.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Jul 2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "Dec 2021"
+      },
+      {
+        "school": "Sri Chaitanya Techno School",
+        "endDate": "May 2021",
+        "maximum_grade": "100%",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "97.8%",
+        "field_of_study": "",
+        "startDate": "Jun 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Delivery Website",
+        "description": "Developed using the MERN stack enabling seamless integration between front-end and back-end components resulting in a 30% improvement in development efficiency. Established secure user authentication and authorization mechanisms with JWT and bcrypt, ensuring robust protection for user data and secure access control reducing unauthorized access attempts by 50%. Implemented a shopping cart system, allowing users to add, remove, and update items, and checkout process integrating with payment gateways with Stripe for secure transactions.",
+        "keywords": [
+          "React JS",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Stripe"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Learning Management System",
+        "description": "Developed a comprehensive Learning Management System using a Full stack Approach with technologies like Bootstrap, Frontend, PhP by creating restful APIs for better user interaction. Revamped user interaction by integrating a responsive frontend using HTML, CSS, and JavaScript within PhP, resulting in 50% faster page load times, enhancing overall user experience and engagement.",
+        "keywords": [
+          "Full Stack",
+          "PhP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Pay roll Management System using C++",
+        "description": "Designed and developed a comprehensive payroll management system using C++. Utilized OOPS to create modular, reusable, and efficient code.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Salesforce Developer Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Salesforce",
+        "description": "Developed and customized Salesforce applications Apex, Visualforce, and Lightning Web Components. Implemented and optimized Salesforce solutions to meet business requirements. Assisted in the integration of third-party applications with Salesforce using REST and SOAP APIs. Participated in Agile development processes, including sprint planning and daily stand-ups.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Data Structures and Algorithms",
+      "Competitive Programming",
+      "Object-Oriented Programming",
+      "Operating Systems",
+      "DBMS",
+      "Git"
+    ],
+    "soft_skills": [
+      "Leadership Skills",
+      "Communication",
+      "Team Collaboration"
+    ],
+    "name": "Heswitha Reddy",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 100+ problems across LeetCode and GeeksforGeeks.",
+      "Earned Salesforce Developer Certificate.",
+      "Secured 91.8 in All India JEE-MAINS examination, demonstrating strong academic performance.",
+      "Secured 4489 rank in EAMCET examination, again demonstrating strong academic performance."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

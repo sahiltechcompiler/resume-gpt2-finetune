@@ -1,0 +1,117 @@
+{
+  "project_count": 5.0,
+  "designation": "Flutter Developer",
+  "name": "HARSH GUPTA",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "7.93",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Doctor Appointment App",
+        "description": "Developed cross-platform solution using Flutter for frontend. Leveraged Firebase for robust backend cloud-based infrastructure. Integrated Firebase services including Firestore for real-time database management. Ensured secure user authentication and authorization with Firebase Authentication. Developed generic solution for doctor clinic management and features for multi-doctor comparison and appointment scheduling.",
+        "keywords": [],
+        "endDate": "2025",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "Short video App",
+        "description": "Engineered a cross-platform solution using Flutter to drive frontend development. Utilized Firebase as the backend infrastructure, ensuring reliability and scalability. Integrated Firebase services such as Firestore for seamless real-time database management. Implemented video recording functionality allowing users to capture and share videos with selected songs and captions, mirroring the core features platforms like TikTok and Instagram.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "News App",
+        "description": "A blog app that interacts with a REST API.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TODO App",
+        "description": "A to-do app built on a REST API.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FOOD Recipe",
+        "description": "An app for discovering recipes and related information.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Flutter Developer",
+        "skillsUsed": [],
+        "endDate": "Jan24",
+        "company_name": "Hyginiee",
+        "description": "Maintained and enhanced the functionality of Hyginiee's main platform and vendors platform. Updated project dependencies to ensure the latest and most secure versions were utilized. Responsible for keeping up-to-date with the latest industry trends and implementing best practices. Developed and implemented new features for both platforms using Flutter and Firebase technologies.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec23"
+      },
+      {
+        "role_name": "Flutter Developer",
+        "skillsUsed": [],
+        "endDate": "June23",
+        "company_name": "Conatus Technical Society",
+        "description": "As a Flutter Developer at Team Conatus, proficient in Flutter, Firebase integration, UI/UX design, Dart programming, state management, navigation, API integration, and platform integration for college-level technical society applications.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov22"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Dart",
+      "JavaScript(basic)",
+      "html",
+      "Flutter",
+      "Firebase",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "HARSH GUPTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 300 + problems across several coding platforms like Leetcode, Code chef, code forces.",
+      "Highest rating of 1491 at Code Chef and 896 at Code forces which ranks among the top sites for competitive programmers, secured participants a global rank of 861 in Code Chef contest among 10k+.",
+      "Secured Rank in Top 30 among 600+ teams in a 24 hrs technical Hackathon conducted by Shiv Nadar university."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": ""
+}

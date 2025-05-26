@@ -1,0 +1,294 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Nissitha Jyothini",
+  "college": "Vignan's Institute of Information Technology",
+  "locations": [
+    "Visakhapatnam",
+    "Hyderabad"
+  ],
+  "full_output": {
+    "summary": "I am a mature, positive and hard working individual, who always strives to achieve the highest standard possible, at any given task. I possess excellent communication skills, and I have the ability to relate to a wider range of people. I enjoy learning new things, I can work very well under pressure.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internship Certificate",
+        "issuer": "CGV Technical and Training Service Pvt",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Networking Essentials",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CyberSecurity Essentials",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Basic Problem Solving Skills",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Intermediate Problem Solving Skills",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CSS",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cloud",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM Cloud Essentials V3",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis with Python",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Project Management Fundamentals",
+        "issuer": "IBM skillsBuild",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Analytics Certification",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Elements of AI",
+        "issuer": "University of Helsinki",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Digital Skills: Artificial Intelligence",
+        "issuer": "Accenture",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Salesforce Developer Virtual Internship",
+        "issuer": "Salesforce",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Fundamentals of Python",
+        "issuer": "Infosys SpringBoard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MangoDB Course Certification",
+        "issuer": "MongoDB University",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vignan's Institute of Information Technology",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Visakhapatnam",
+        "ID": 0.0,
+        "grade_received": "9.02",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Junior College Steel Plant",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "7.88",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Intelligent Campus Surveillance System Project",
+        "description": "Enhancing Campus Safety and Security, Real-time Monitoring, Accurate Object Detection, Reduce Manual Surveillance, Integration with Deepstream, Dashboard and Reporting, Deepstream, rabbitmq (queuing the frames), mysql database to dump, yolov8 model, Mern application with all false detections with images. Deep Learning based project.",
+        "keywords": [],
+        "endDate": "03/2024",
+        "startDate": "10/2023",
+        "url": ""
+      },
+      {
+        "name": "College Management System",
+        "description": "A college management is a project that manages the college'scanteen system, Library and store. Student can choose from the menu and then select the desired dish and book it with a token. The tech stack is HTML, CSS, JavaScript, MySQL, Node JS and Python. It helps in decreasing the food wastage and also helps the student get food in time so that he/she wont miss their classes.",
+        "keywords": [],
+        "endDate": "12/2022",
+        "startDate": "10/2022",
+        "url": ""
+      },
+      {
+        "name": "Library Management System",
+        "description": "Manages, stores and helps to keep track of books. It is a web application. The tech stack includes MySQL, HTML, CSS, JavaScript and Python. The system keeps track of information such as issue date, last date to return the book and even fine information and thus there is no need to keep manual track of this information which thereby avoids chances of mistakes.",
+        "keywords": [],
+        "endDate": "08/2022",
+        "startDate": "06/2022",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Jr Web Developer and Designer",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "CGV Technical And Training Services Pvt",
+        "description": "Planned website development, converting mockups into usable web presence with HTML, JavaScript, Node JS and JSON coding. Designed, implemented and monitored web pages and functionality for continuous improvement. Utilized Access Client Solutions (ACS) bundle, IBM Rational Development, Green Screening Technique, VS Code.",
+        "location": "Hyderabad",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Content Head",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Codechef Student Club",
+        "description": "Managed content distribution to online channels and social media platforms. Approved, reviewed and edited content owing to website. Assisted in creating and implementing user-friendly content guidelines.",
+        "location": "Visakhapatnam",
+        "links": "",
+        "startDate": "Feb 2022"
+      },
+      {
+        "role_name": "Interactive Flat Panel Trainer",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "Vignan's Institute of Information Technology",
+        "description": "Scheduled and taught in class to increase learning opportunities. Developed effective training plans based on department needs and objectives. Delivered instructional presentations on equipment use, focusing on efficiency. Educated clients on proper use of systems.",
+        "location": "Visakhapatnam",
+        "links": "",
+        "startDate": "Jul 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "Node.js",
+      "React"
+    ],
+    "soft_skills": [
+      "Skilled multi-tasker",
+      "Analytical and Critical Thinker",
+      "Team Player",
+      "Communication Skills"
+    ],
+    "name": "Nissitha Jyothini",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Vista Ideathon Winner - I won first place in an intercollegiate hackathon competition. Presented an idea for managing the college administration and built a prototype website demo.",
+      "Web Hack Participant - Cloned the Instagram app during a 15-hour college hackathon.",
+      "Agri Tech Hackathon - Built a website that informs students about scholarships during a 24-hour hackathon."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

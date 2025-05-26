@@ -1,0 +1,245 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "LAKSHMAN ATMAKURI",
+  "college": "SRM AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data analysis using python",
+        "issuer": "APSSDC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Front End Development",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python(Basic)",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL(Basic)",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mastery of Excel",
+        "issuer": "LearnX",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CSS",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Javascript(Basic)",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enterprise Design Thinking",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM AP",
+        "endDate": "2025",
+        "maximum_grade": "Percentage: 96.9",
+        "degree": "Bachelor of Computer Science and Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.62",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Oxford Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA: 9.5",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of Intermediate Education, AndhraPradesh",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Vivekananda School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "University Management System",
+        "description": "Developed a comprehensive web-based platform to streamline and modernize administrative workflows within academic institutions. Implemented user roles for administrators, faculty members, and students, each with tailored features such as dashboards for managing user accounts, course offerings, attendance tracking, and detailed reporting. Utilized frontend technologies like HTML, Bootstrap, JavaScript, and React.js for an intuitive user interface. Employed backend technologies including MongoDB, Node.js, and Express.js for robust data management and server-side logic execution.",
+        "keywords": [],
+        "endDate": "April - 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis of YouTube comments through word clouds",
+        "description": "Implemented sentiment analysis on YouTube comments using a rule-based approach, employing tools such as VADER, NLTK, Pandas, and Google Colab. Utilized the VADER lexicon for sentiment analysis on YouTube comments, resulting in a structured data frame presenting sentiment scores and percentages, and further visualized the outcomes through positive and negative word clouds.",
+        "keywords": [],
+        "endDate": "Aug - Nov 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Wine Quality Prediction",
+        "description": "Developed a predictive model using machine learning algorithms (Random Forest, Logistic Regression, Gaussian Naive Bayes) achieving 78.60 accuracy to assess wine quality based on chemical properties. Implemented data preprocessing, feature selection, model evaluation, and ensembling techniques to optimize performance. Implemented a data visualization and Analyzed dataset patterns and trends, providing actionable insights for winemakers to optimize production processes and enhance overall wine quality.",
+        "keywords": [],
+        "endDate": "April-2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Expense Tracker System",
+        "description": "Developed a Java-based Expense Tracking System for managing personal expenses, utilizing VSCode and the Java Virtual Machine. Implemented features such as adding, displaying, and calculating total expenses to enhance financial management.",
+        "keywords": [],
+        "endDate": "May 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hospital Management System",
+        "description": "Designed a comprehensive Hospital Management System in Python using Python IDLE, featuring distinct modules for reading, writing, and data manipulation. Leveraged CSV files for seamless storage, access, and updates, optimizing healthcare data management.",
+        "keywords": [],
+        "endDate": "Nov 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front End Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js"
+        ],
+        "endDate": "July 2023",
+        "company_name": "IBM SkillsBuild",
+        "description": "Developed a clone of the Amazon e-commerce website as part of the IBM SkillsBuild internship. Created a responsive and engaging user interface using HTML, CSS, JavaScript, and React.js. Implemented features such as product listings, shopping cart, and user authentication to mimic core functionalities of the original site.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Andhra Pradesh State Skill Development Corporation",
+        "description": "Conducted a comprehensive data analysis on the IMDB dataset, involving tasks such as data cleaning, preprocessing, analysis, visualization, and interpretation. Enabled stakeholders to gain actionable insights from complex data sets, leading to a 30percent improvement in box office performance through data-driven decision-making.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "Java Script",
+      "8086 Assembly Code",
+      "Reactjs",
+      "Nodejs",
+      "Expressjs",
+      "NumPy",
+      "Pandas",
+      "Scikit-learn",
+      "Seaborn",
+      "Google Collab",
+      "SQL",
+      "VS Code",
+      "Eclipse",
+      "Git",
+      "GitHub",
+      "Digital Marketing",
+      "Microsoft Excel",
+      "Powerpoint",
+      "Canva",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "LAKSHMAN ATMAKURI",
+    "position": "",
+    "interests": [
+      "Software Development",
+      "Data Analysis",
+      "Machine Learning",
+      "Digital Marketing",
+      "Web Development"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Computer Science and Engineering"
+}

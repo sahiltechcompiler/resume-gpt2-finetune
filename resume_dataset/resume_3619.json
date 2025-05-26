@@ -1,0 +1,157 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Sayantan Jana",
+  "college": "IIIT HYDERABAD",
+  "locations": [
+    "Bangalore",
+    "IIIT Hyderabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "IIIT HYDERABAD",
+        "endDate": "May 2022",
+        "maximum_grade": "",
+        "degree": "B.Tech and MS by research",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.02/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": "August 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "PARALLELISED CRAFTML",
+        "description": "A hybrid parallel implementation of CRAFTML an Efficient Clustering-based Random Forest for Extreme Multi-label Learning. Uses tree randomization, spherical k-means and a hashing trick for projection and sampling. 3.11x speedup on 4 cores.",
+        "keywords": [
+          "C++",
+          "OpenMP",
+          "MPI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TIC-TAC-TRASH BOT",
+        "description": "An AI bot that plays a modified version of ultimate tic-tac-toe using various game techniques. It implements Minimax Search with alpha-beta pruning and quiescence search. Uses an adaptive heuristic that changes expected utilities based on the state of the game. Rank : 5/74 teams in tournament.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SC COMPILER",
+        "description": "Three phased compiler architecture for a C like language with lexer (using ANTLR4 parser generator), syntax analyzer and LLVM IR generation(as backend).",
+        "keywords": [
+          "C++",
+          "ANTLR4"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ADXGAME AGENT",
+        "description": "Designed an agent for playing a simplistic version of Adx Game for a tournament where the agents play the role of ad networks in a market simulation. Ranked 2/11 teams.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ARCADE GAMES",
+        "description": "Designed Space Invaders & Super Mario using pygame; Jetpack Joyride, Flight Shooter (3D simulation with multiple viewpoints), Subway Surfer using OpenGL/WebGL.",
+        "keywords": [
+          "JavaScript",
+          "C++",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SOFTWARE ENGINEERING INTERN",
+        "skillsUsed": [
+          "Golang",
+          "GraphQL",
+          "React"
+        ],
+        "endDate": "August 2021",
+        "company_name": "Rubrik Inc",
+        "description": "Developed an end-to-end feature for SLA Pause/Resume on Polaris, that would help the users stop the scheduled protection tasks (backup, replication and archival operations) on objects to which a Polaris SLA is assigned and resume the tasks as and when required. Used Cassandra for stable storage and Data Object Access Pattern for interacting with it. Created GraphQL APIs and exposed them to the UI to integrate them with UI/UX. Added backend support for multiple cluster pause, can be parallelized using goroutines.",
+        "location": "Bangalore",
+        "links": "",
+        "startDate": "May 2021"
+      },
+      {
+        "role_name": "RESEARCH ASSISTANT",
+        "skillsUsed": [
+          "C++",
+          "OpenMP",
+          "CUDA"
+        ],
+        "endDate": "Present",
+        "company_name": "Centre for Security, Theory and Algorithmic Research, IIIT Hyderabad",
+        "description": "Efficient Parallel algorithms for Percolation Centrality Computation under Dr. Kishore Kothapalli: Work on algorithms that compute the source and source-destination variants of the percolation centrality values of nodes in a network using Modified Brandes and Graph Shattering achieving significant speedups on both multicore CPU and GPU. Results: 3.2x and 2.2x speedups for respective variants. Publication in 29th IEEE International Conference on High Performance Computing, Data, & Analytics under the track, High Performance Computing - Applications. Follow-up Work on Dynamic and Approximate Algorithms for Percolation Centrality.",
+        "location": "IIIT Hyderabad",
+        "links": "",
+        "startDate": "May 2019"
+      },
+      {
+        "role_name": "ALGORITHMIC PROBLEM SETTER AND TRAINER",
+        "skillsUsed": [
+          "C++",
+          "Python"
+        ],
+        "endDate": "Present",
+        "company_name": "AlgoUniversity, Hackerrank, Codeforces, Codechef",
+        "description": "Contest Admin, AlgoUniversity: AlgoUniversity, backed by worlds top accelerator YCombinator, is an online academy helping early-stage engineers to prepare for job/internship interviews. As a contest admin, working towards setting up the first home grown platform catering internal contests, assessments and global coding events. Remote Content Extern, Hackerrank: Problem curation, testing and editorial preparation. Codeforces: Problem Setter and Tester for the following events: CodeCraft-20 (Div. 2), CodeCraft-19 and Codeforces Round 537 (Div. 2). Codechef: Problem Setter and Tester for the following events: November Cook-Off 2020, January to April Long Challenges 2021. Codechef CP Basics Camp, Hyderabad: Worked as an Instructor for Competitive Programming in Summer 2019.",
+        "location": "",
+        "links": "",
+        "startDate": "January 2019"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "MPI",
+      "CSS",
+      "HTML"
+    ],
+    "soft_skills": [],
+    "name": "Sayantan Jana",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "ACM ICPC 2021 World Finals Selection: Team: Holy Trinity, 1 out of 8 Indian teams selected., Regionals Rank: 4, Preliminary Round Rank: 10",
+      "ACM ICPC 2020: Team: champions_unknown, Regionals Rank: 38, Preliminary Round Rank: 42",
+      "ACM ICPC 2019: Team: L9, Regionals Rank: 142, Preliminary Round Rank: 107",
+      "JEE Main 2017: top 0.1 percentile",
+      "Multiple Deans List and Merit List award recipient given to top 5% of batch for excellent academic performance.",
+      "Google Hash Code 2019: AIR 6",
+      "Google kickstart: Best Rank: 179"
+    ],
+    "publications": [
+      "Publication in 29th IEEE International Conference on High Performance Computing, Data, & Analytics under the track, High Performance Computing - Applications"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2022.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech and MS by research"
+}

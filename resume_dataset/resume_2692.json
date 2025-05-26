@@ -1,0 +1,151 @@
+{
+  "project_count": 4.0,
+  "designation": "Django Developer Intern",
+  "name": "Venkata Ramesh Jangalapalle",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "Bachelors degree student in Computer Science (AIML) seeking an entry-level software development role. Proficient in C++,Java, Python, and SQL with a strong foundation in algorithms and data structures gained through coursework and hands-on projects. Eager to apply academic knowledge in a professional setting, enthusiastic about learning, and driven to contribute to innovative solutions in the tech industry.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.96/10.0",
+        "field_of_study": "Computer Science (AIML)",
+        "startDate": "2021"
+      },
+      {
+        "school": "apbie",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "974/1000",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "apbse",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 10.0/10.0",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Obstacle Avoidance in Autonomous Vehicle",
+        "description": "Research to avoid obstacles, we use Collision avoidance. Applying the Latest YOLOv8 version for object detection and LiDAR sensor for the range of object. Simulation over ROS(Robot Operating System) Software for realistic approach.",
+        "keywords": [
+          "Deep learning",
+          "object detection algorithms (YOLOv8)",
+          "ROS",
+          "rclpy",
+          "Ubuntu"
+        ],
+        "endDate": "2024",
+        "startDate": "2023",
+        "url": ""
+      },
+      {
+        "name": "Facial Recognition Attendance System",
+        "description": "Developed and implemented a robust facial recognition algorithm using deep learning techniques to accurately identify and verify individuals based on their facial features.Designed a secure and efficient biometric authentication system, leveraging face recognition as a reliable method for attendance tracking, enhancing security, and minimizing manual errors.",
+        "keywords": [
+          "Deep Learning",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Typing Speed Test - Python GUI based Application",
+        "description": "Python GUI based Application Test typing skills in 60 sec checks Speed and accuracy. Understood the process of using modules. Learned to build GUI Application.",
+        "keywords": [
+          "Python",
+          "Tkinter"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Food Delivery App - using MERN",
+        "description": "Developed a full-stack food delivery application using the MERN stack with features like user authentication, menu browsing, and real-time order tracking. Designed a responsive UI with React.js and managed backend functionalities including order processing and payment integration using Node.js and MongoDB.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Django Developer Intern",
+        "skillsUsed": [
+          "Django",
+          "HTML",
+          "CSS",
+          "SQLite"
+        ],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "During my Django internship with APSSDC, I developed a Blood Bank Management System using Django with Python. The system manages donor registrations, blood inventory, and requests, streamlining blood bank operations efficiently.The system allows hospitals and patients to efficiently request and track blood units.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "SQL",
+      "Java Script",
+      "Data Structure and Algorithms",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "NodeJS",
+      "ExpressJS",
+      "ReactJS",
+      "MongoDB",
+      "Django"
+    ],
+    "soft_skills": [
+      "Time Managing",
+      "Team Work",
+      "Proficient Problem Solving",
+      "Communication Skills"
+    ],
+    "name": "Venkata Ramesh Jangalapalle",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

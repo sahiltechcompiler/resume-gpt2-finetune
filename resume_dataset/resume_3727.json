@@ -1,0 +1,116 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Sumit Saini",
+  "college": "Maharishi Markandeshwar (deemed to be University)",
+  "locations": [
+    "Ambala, India"
+  ],
+  "full_output": {
+    "summary": "I am an aspiring full-stack developer seeking a position within a well-established IT company. I am eager to collaborate on cutting-edge technologies and engage in challenging projects with diverse scopes. My goal is to contribute to innovative solutions and grow within a dynamic and supportive team environment.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharishi Markandeshwar (deemed to be University)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Applications",
+        "location": "Ambala, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2022"
+      },
+      {
+        "school": "Sant Mohan Singh public school",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior-Secondary Education (12th)",
+        "location": "Ambala, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Spotify Clone",
+        "description": "Developed a responsive and interactive Spotify clone that allows users to play songs stored in different playlists. Each playlist on the site corresponds to a specific folder of songs.",
+        "keywords": [
+          "Html",
+          "Css",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Password-generator",
+        "description": "Developed a password generator website using React that allows users to create unique passwords with customizable options.",
+        "keywords": [
+          "React",
+          "Html",
+          "Tailwind-Css"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "My portfolio website",
+        "description": "Developed a responsive and attractive portfolio website to showcase my work and skills. Integrated a contact form that saves user messages directly to Google Docs for efficient communication.",
+        "keywords": [
+          "Html",
+          "Css",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "To-do list",
+        "description": "Created a to-do list creator website that provides several features to interact with the tasks. Used concept of context-api for a more efficient approach.",
+        "keywords": [
+          "React",
+          "Html",
+          "Tailwind-css"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "C++",
+      "Javascript",
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js",
+      "HTML",
+      "Css",
+      "VS Code",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Sumit Saini",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Computer Applications"
+}

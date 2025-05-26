@@ -1,0 +1,131 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Raj Kumar",
+  "college": "Maharishi Markandeshwar(Deemed to be University)",
+  "locations": [
+    "Mullana-Ambala"
+  ],
+  "full_output": {
+    "summary": "As a Computer Science and Engineering student, I have expertise in cloud computing and Agile methodologies. My knowledge encompasses cloud infrastructure, services, deployment models, and Agile principles such as iterative development and continuous integration.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering and Agile Software Development",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java SE 8 Features",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Tools",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CSS",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction of Artificial intelligence",
+        "issuer": "Infosys",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharishi Markandeshwar(Deemed to be University)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Mullana-Ambala",
+        "ID": 0.0,
+        "grade_received": "8.0 CGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Car Parking System(IOT)",
+        "description": "When a car arrives, the IR sensors sends signal to Ardiuno. It decodes the signal and then the servo motor opens the gate for the car to pass. The second IR sensor is used to indicate the cars which are going outside and the value of the spots is incremented by Ardiuno.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hospital Managment System",
+        "description": "Developed a Hospital Management System, leading a team in designing and implementing core functionalities such as patient registration, appointment scheduling, and medical records management. Utilized Java, Spring Boot, Angular, and MySQL to deliver a scalable and user-friendly solution, emphasizing quality assurance and compliance with regulatory standards.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blood Donor and Blood Bank Finder",
+        "description": "Developed a web-based application to connect blood donors with recipients and locate nearby blood banks. Implemented features for donor registration, blood type matching, and real-time location-based search functionalities. Utilized HTML, CSS, JavaScript, and Node.js, emphasizing user experience and accessibility.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C",
+      "Microsoft Power BI",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Angular",
+      "Django",
+      "Node.js",
+      "SQL",
+      "MySQL",
+      "Spring Boot",
+      "AWS",
+      "MongoDB",
+      "VS Code",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Raj Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

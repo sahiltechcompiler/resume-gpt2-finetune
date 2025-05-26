@@ -1,0 +1,168 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shreyas CV",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Mumbai, India",
+    "Jaipur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms in C",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Object Oriented Programming in JAVA",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enterprise Networking",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "RHA 134 - Red Hat System Administration",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ryan International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "88 percent",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Pace Junior Science College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "91 percent",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, India",
+        "ID": 2.0,
+        "grade_received": "CGPA - 8.65",
+        "field_of_study": "Computer science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Banking Management System",
+        "description": "Developed a console application with all basic functionalities. Implemented principles of Object Oriented Programming to make it robust.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "2021",
+        "startDate": "2019",
+        "url": ""
+      },
+      {
+        "name": "Hosted a website on AWS",
+        "description": "Hosted a static website on AWS using Amazon S3 and Route 53. Amazon S3 is used for storage of website files. Route 53 is used for a domain name and to monitor health and performance.",
+        "keywords": [
+          "AWS",
+          "Amazon S3",
+          "Amazon Route 53",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "2021",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Admission Prediction System",
+        "description": "Optimized ML models (Random Forest, Logistic Regression, Decision Tree, KNN) for Admission Prediction using a 8-feature dataset. Implemented Numpy, Pandas and Matplotlib for data computation and analysis. Increased Random Forest cross-validation accuracy from 82.59 to 86.7, achieving an 83.33 Precision score. Enhanced KNN cross-validation accuracy from 82.59 to 86.6, achieving an 81.63 F1 score.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "Pandas",
+          "MatPlotlib"
+        ],
+        "endDate": "2021",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "C",
+      "Python",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "Data Structures and Algorithms",
+      "AWS",
+      "OOPS",
+      "REST APIs"
+    ],
+    "soft_skills": [],
+    "name": "Shreyas CV",
+    "position": "Member of Executive Committee for organizing College Fest Onerios",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

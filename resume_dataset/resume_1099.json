@@ -1,0 +1,84 @@
+{
+  "project_count": 1.0,
+  "designation": "Web Developer",
+  "name": "Sagar Vishwakarma",
+  "college": "Shah & anchor kutchhi engineering college",
+  "locations": [
+    "Chembur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah & anchor kutchhi engineering college",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Chembur",
+        "ID": 0.0,
+        "grade_received": "8.79/10",
+        "field_of_study": "Information Technology",
+        "startDate": "Jul 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ShopNext",
+        "description": "The development of ShopNext, a Flipkart clone, from ideation to implementation. Utilized front-end technologies like HTML, CSS, JavaScript and react.js to create an intuitive and user-friendly interface. Designed and implemented back-end functionalities using Node.js, Express, and MongoDB for a seamless shopping experience. Integrated RESTful APIs to connect various components of the application and enable efficient data flow. Implemented JWT basic authentication for login/signup. Cloudinary is utilized to store and manage user data through its cloud-based media storage and delivery platform. Paytm is employed as the payment method, facilitating secure transactions and seamless financial interactions within the application. Ensured cross-browser compatibility and responsiveness, following UI/UX design principles. Implemented robust security measures, including SSL implementation and data encryption (SHA 256), to safeguard user information.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "react.js",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "RESTful APIs",
+          "JWT",
+          "Cloudinary",
+          "Paytm"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "View/git_repo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Sept 2022",
+        "company_name": "Oasis Infobyte",
+        "description": "As a Web Developer at Oasis Infobyte, I contribute to the dynamic and innovative team responsible for creating robust and visually appealing web solutions. My role involves as Front-end Development for designing and implementing responsive web pages.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2022"
+      }
+    ],
+    "skills": [
+      "Data Structures and Algorithms",
+      "Java",
+      "HTML",
+      "CSS",
+      "Git",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Sagar Vishwakarma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.E"
+}

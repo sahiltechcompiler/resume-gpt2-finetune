@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Om Sai Vasireddy",
+  "college": "SRM University",
+  "locations": [
+    "Amaravathi, Andhra Pradesh",
+    "Visakhapatnam",
+    "Vizianagaram"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Amaravathi, Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "Visakhapatnam",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya School",
+        "endDate": "2019",
+        "maximum_grade": "CGPA: 10/10",
+        "degree": "Class 10th",
+        "location": "Vizianagaram",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.7/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Face Detection using Siamese Neural Network",
+        "description": "Designed a facial recognition system utilising TensorFlow and Keras that uses a Siamese neural network. Performed research involving several embedding layers and updating metrics for the neural networks. Conducted real-time verification with over 90% accuracy using webcam input.",
+        "keywords": [],
+        "endDate": "present",
+        "startDate": "August 2023",
+        "url": ""
+      },
+      {
+        "name": "Interactive E-Commerce Site with Secure Auth and Product Management",
+        "description": "Developed a responsive e-commerce website using MERN stack and Tailwind CSS, ensuring seamless user experience across devices. Implemented dynamic product search and filtering with MongoDB for efficient data management and retrieval. Integrated secure token-based user authentication using JWT for protected user sessions. Enabled efficient product uploads and management through a user-friendly interface built with React.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blood Management System",
+        "description": "Designed a full-stack website to manage blood donations, donor registration, and inventory tracking. Created a responsive and user-friendly interface using Front-end technologies and Frameworks like Html, Css and Bootstrap and integrated dynamic functionalities using PHP for interactive features. Testings and troubleshooting methods of Software Development Lifecycle at levels quality assurance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Telugu(Native)",
+      "English(Fluent)",
+      "Hindi(Beginner)",
+      "Japanese(Beginner)"
+    ],
+    "experiences": [
+      {
+        "role_name": "Data Analysis",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "Used IMD and rain-gauge data from 766 districts for rainfall decision-making, designing, documenting and writing the queries using data visualization. Conducted Exploratory Data Analysis to provide insights with the government data on additional rain-gauge stations and their specifications. Identified surge in extreme rainfall in high-rainfall regions like Assam (more than 1500mm) through data analytical skills and modeling.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "NodeJS",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Problem solving",
+      "Collaborative",
+      "Leadership",
+      "Self-starter",
+      "Innovative",
+      "Proactive"
+    ],
+    "name": "Om Sai Vasireddy",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved a 3-star rating on CodeChef with a peak rating of 1652.",
+      "Solved over 400 DSA problems on LeetCode, CodeChef, and GeeksforGeeks.",
+      "Secured 71st rank in the November Long 2022 contest on CodeChef."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

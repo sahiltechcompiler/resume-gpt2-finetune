@@ -1,0 +1,172 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Srinivas Pradhan",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Seeking a challenging position in a dynamic work environment where I can leverage my communication, technical, and organizational skills to contribute to company growth. Detail-oriented team player adept at managing multiple projects with precision.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Cloud Infrastructure Certified Developer Professional",
+        "issuer": "Oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Cloud Data Management Certified Foundations Associate",
+        "issuer": "Oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Cloud Infrastructure Certified Foundations Associate",
+        "issuer": "Oracle",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Brighton International School",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "Higher Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.2",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Brighton International School",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "88",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Serverless Contact Form using AWS Lambda",
+        "description": "Built a contact form using AWS services like API Gateway, Lambda, DynamoDB, and SES, it creates a seamless and scalable infrastructure. The contact form processes submissions, triggers notifications, and stores data in cloud databases.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Email Client Software",
+        "description": "Developed a user-friendly email client consolidating multiple accounts with intelligent filtering and customizable templates. Ensured security, seamless productivity tool integration, and cross-platform accessibility using Java NetBeans IDE.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Register/Login Management using OpenCV",
+        "description": "Developed a Register/Login system using OpenCV for facial image registration and enhanced authentication. Implemented real-time facial recognition for secure login, ensuring seamless user experience and data confidentiality.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Product Analyst",
+        "skillsUsed": [],
+        "endDate": "Jun 2024",
+        "company_name": "MIQ",
+        "description": "Developed SingleView FactorCraft (SvFC), an analytical tool for granular geographic data analysis and visualization. Integrated machine learning models and enabled seamless data handling to identify key business drivers.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2024"
+      },
+      {
+        "role_name": "AWS Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Worked on key services like Amazon EC2, S3, RDS, CloudWatch, IAM, VPC, Dynamo DB, Cloud formation etc. Worked alongside fellow interns and mentors on group projects that involved designing fault tolerant architectures, setting up disaster recovery solutions, and exploring serverless computing.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP"
+        ],
+        "endDate": "Sep 2022",
+        "company_name": "Raise Digital",
+        "description": "Built a responsive E-Commerce website and Job Portal for finding jobs. Also designed and recommended pitch improvements to new and existing features.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "Amazon Web Services(AWS)",
+      "Google Cloud Platform(GCP)",
+      "Oracle Cloud",
+      "Cloud Computing",
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "Data structures and Algorithm",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "NetBeans",
+      "Windows",
+      "Linux"
+    ],
+    "soft_skills": [],
+    "name": "Srinivas Pradhan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

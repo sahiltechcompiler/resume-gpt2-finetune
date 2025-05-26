@@ -1,0 +1,122 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "BHUPENDER KUMAR SHARMA",
+  "college": "NOIDA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+  "locations": [
+    "Greater Noida"
+  ],
+  "full_output": {
+    "summary": "Passionate and innovative Computer Science Emerging Developer with hands-on experience in software development and a strong foundation in algorithms and data structures. Seeking to leverage my technical skills and problem-solving abilities to contribute to cutting-edge projects at a forward-thinking tech company.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NOIDA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "8.6 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "OXFORD GREEN PUBLIC SCHOOL",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Greater Noida",
+        "ID": 1.0,
+        "grade_received": "87%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "OXFORD GREEN PUBLIC SCHOOL",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Greater Noida",
+        "ID": 2.0,
+        "grade_received": "87.5%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ViewIt (An Online Video Streaming Platform)",
+        "description": "This is an Online Video Streaming Platform (like Youtube) that is built with nodejs, expressjs, mongodb, mongoose, jwt, bcrypt, and other tools. This application website is similar to Youtube with all the features like login, signup, upload video, like, dislike, comment, reply, subscribe, unsubscribe, and many more.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/bkvats/VideoStreamingApplication"
+      },
+      {
+        "name": "Personal Blog Application (using React and Appwrite)",
+        "description": "I created and launched a personal blog platform using React.js for the frontend and Appwrite for the backend, focusing on a user-friendly interface, secure data handling, and seamless user authentication.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/bkvats/PersonalBlogAppinReact"
+      },
+      {
+        "name": "My Portfolio Web App",
+        "description": "I developed a portfolio web application to showcase my skills, projects, and accomplishments.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://bsharma.vercel.app"
+      },
+      {
+        "name": "Memory Mania (A Single Page Gaming Application developed without any JavaScript Library)",
+        "description": "This Gaming web app utilized pure JavaScript to for implementation, crafting an engaging user experience without relying on external libraries.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://bkvats.github.io/MemoryGame/"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Data Structures and Algorithms",
+      "OOPs principles in Java",
+      "OOPs principles in Python",
+      "C programming",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Typescript",
+      "ReactJS",
+      "ExpressJS",
+      "NodeJS",
+      "MySQL",
+      "Mongo DB",
+      "Computer Networks",
+      "Operating Systems"
+    ],
+    "soft_skills": [
+      "Problem-solving ability",
+      "quick learner",
+      "strong grasper"
+    ],
+    "name": "BHUPENDER KUMAR SHARMA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "5 Stars on Hacker Rank.",
+      "10 Coursera Certifications in various fields suggested by AKTU.",
+      "LeetCodes 50 Days Badge 2024 Holder (awarded to 6.9% of LeetCode Competitors).",
+      "Successfully solved more than 190+ problems on LeetCode.",
+      "Successfully solved more than 275+ problems on GFG (GeeksForGeeks)."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

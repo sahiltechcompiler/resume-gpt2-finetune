@@ -1,0 +1,198 @@
+{
+  "project_count": 8.0,
+  "designation": "Student Coordinator",
+  "name": "Vinay Savla",
+  "college": "Shah and Anchor Kutchhi Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor Kutchhi Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chembur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": "2022"
+      },
+      {
+        "school": "Vidyalankar Polytechnic",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Wadala",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "VITHelp",
+        "description": "Android App for Volunteer Assistance using Ionic-React Framework Developed scalable and secure mobile app using Ionic-React. Implemented real-time distress alert management and response.",
+        "keywords": [
+          "Ionic",
+          "React",
+          "Android",
+          "Mobile App Development"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "College Data Management System",
+        "description": "Data Management System using Flutter, NodeJS, VueJS, ExpressJS, and AWS Designed and developed comprehensive data management system. Implemented data analytics and visualization features.",
+        "keywords": [
+          "Flutter",
+          "NodeJS",
+          "VueJS",
+          "ExpressJS",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MailSender",
+        "description": "Automated Email Generation using Python and Excel Integration Developed Python-based application for generating tailored notices. Implemented regionally specific content integration and HTML-rich email sending.",
+        "keywords": [
+          "Python",
+          "Excel Integration",
+          "Automated Email Generation"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Business Information Collector",
+        "description": "Web Scraping and Data Compilation Tool using Python Developed Python-based web scraping tool for business information. Implemented data processing and visualization features.",
+        "keywords": [
+          "Python",
+          "Web Scraping",
+          "Data Compilation"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Pothole Challenge",
+        "description": "Citizen Reporting and Road Maintenance Management System using Flutter Developed Flutter-based mobile app for citizen reporting. Implemented features for citizen engagement and participation.",
+        "keywords": [
+          "Flutter",
+          "Mobile App Development",
+          "Citizen Reporting"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Dynamic Service Provider Web Portal",
+        "description": "Service Booking and Payment Portal using ReactJS, NodeJS Developed dynamic web portal for service bookings and payments. Implemented features for provider management and customer engagement.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "Web Development"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SortingVisualization",
+        "description": "Graphical Representation of Sorting Techniques using HTML, CSS, JavaScript Developed graphical representation of sorting techniques. Implemented interactive features for user engagement.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Data Structure Visualization"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Music Player (MStore)",
+        "description": "Windows Form App for Music Management using VB.Net and Microsoft Access Database Developed Windows Form App for music management and playback. Implemented features for song management and playback.",
+        "keywords": [
+          "VB.Net",
+          "Microsoft Access Database",
+          "Music Management"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "App Developer Intern",
+        "skillsUsed": [],
+        "endDate": "March 2022",
+        "company_name": "LiveDGS",
+        "description": "Enhanced an existing E-commerce website for a Nepal-based company, improving its overall user experience and performance optimization. Implemented new features and functionalities to increase customer engagement and sales conversion, utilizing front-end development skills. Collaborated with the development team to identify and prioritize project requirements, utilizing project management skills.",
+        "location": "",
+        "links": "",
+        "startDate": "January 2022"
+      },
+      {
+        "role_name": "Junior Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "September 2021",
+        "company_name": "Orane Intelli Solutions",
+        "description": "Developed mobile application VITHelp using Ionic-React framework, enabling volunteer management and distress assistance to people in need. Implemented geolocation-based trigger button feature that alerts volunteers within a 2km radius, ensuring timely assistance and improved response times. Successfully published the VITHelp app on the Google Play Store, utilizing Android development skills. Collaborated with the development team to resolve technical issues and improve code quality, utilizing Agile development methodologies and version control using Git. Gained experience with cloud-based technologies and DevOps practices.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "Java",
+      "Dart",
+      "VB.Net",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "NodeJS",
+      "SQL",
+      "Oracle",
+      "Microsoft Access",
+      "MongoDB",
+      "Flutter",
+      "ReactJs",
+      "Ionic",
+      "VScode",
+      "Git",
+      "Github",
+      "Oracle",
+      "Firebase",
+      "AWS",
+      "DigitalOcean"
+    ],
+    "soft_skills": [],
+    "name": "Vinay Savla",
+    "position": "Student Coordinator",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Mumbai, Maharashtra",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

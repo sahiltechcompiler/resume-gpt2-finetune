@@ -1,0 +1,143 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "VINTI GARG",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Algorithms, Part I & II",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Object-Oriented Programming with Java",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:7.65",
+        "field_of_study": "Computer Science with Specialization in IOT & IS",
+        "startDate": ""
+      },
+      {
+        "school": "Ryan International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Certificate(HSC)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 87%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Ryan International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary School Certificate(SSC)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 89%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ASL Recognition using ML",
+        "description": "Developed a real-time sign language detection system using deep learning, focusing on LSTM neural networks and computer vision techniques. Leveraged TensorFlow and MediaPipe Holistic for model construction and keypoint detection. Contributed to data preprocessing, model training, and evaluation phases, resulting in accurate recognition of sign language gestures. Aimed to improve accessibility for individuals with speech or hearing impairments through innovative machine learning solutions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Multi-Layered Security System Development",
+        "description": "Developed an IoT-based security system designed to authenticate users via biometric and password methods, the system activates upon detecting an individual's presence. Successfully managed user authentication and controlled access by unlocking a secured area through the servo motor. Demonstrated real-time feedback through serial communication for transparency and monitoring.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Interactive Web Quiz App",
+        "description": "Created a dynamic web quiz app using HTML, CSS, and JavaScript with randomised questions and real-time scoring, showcasing strong web development skills.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Software Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "AerX Labs",
+        "description": "Developed an interactive web quiz application, leveraging HTML, CSS, and JavaScript. Key achievements include dynamic question loading from CSV data, randomised question selection for user engagement, and real-time scoring with user feedback. Integrated external libraries for efficient data parsing and maintained rigorous documentation. Demonstrated problem-solving skills and ensured ethical coding practices. This project underscores my proficiency in web development and user-centric design.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "HTML/CSS",
+      "Power BI",
+      "Git",
+      "GitHub",
+      "Data Structures & Algorithms",
+      "Operating Systems",
+      "SQL",
+      "OOPs"
+    ],
+    "soft_skills": [],
+    "name": "VINTI GARG",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Shortlisted for final round at Turing Hacks hackathon 2023 at MUJ",
+      "Young Minds Ideathon 2023",
+      "Hackerrank 4 star in cpp"
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur,Rajasthan,IN",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

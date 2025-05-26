@@ -1,0 +1,229 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "DWARAMPUDI BALAJI REDDY",
+  "college": "K L University",
+  "locations": [
+    "Vaddeswaram, India",
+    "Palakollu, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Lingua Skill Cambridge English",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat Certified Enterprise Application Developer",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Practitioner",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certified TensorFlow Developer",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL: Introduction to Machine Learning-IIT Madras",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL: Programming in Java Elite+Gold+Topper",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL: Python For Data Science Elite+Silver",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Azure AI Fundamentals-AI900",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "K L University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech CSE(Hons)",
+        "location": "Vaddeswaram, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.89 (Till Now)",
+        "field_of_study": "",
+        "startDate": "Aug 2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "Jul 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate (MPC)",
+        "location": "Palakollu, India",
+        "ID": 1.0,
+        "grade_received": "Marks: 975/1000",
+        "field_of_study": "",
+        "startDate": "Jun 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Person Detection & Instant Alerts",
+        "description": "It is a bot that helps to detect the users from cameras and instantly sends the picture to telegram chat. Developed a responsive website where user can register/remove the devices with authentication. User data was saved and maintained on the MongoDB database with encryption.",
+        "keywords": [
+          "OpenCV",
+          "Telegram APIs",
+          "Django",
+          "MongoDB"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "EmoGen: Emotion-Gender Classifier",
+        "description": "Playing a key role in the development of an AI-Driven SaaS Product for the company using Django and Fast-APIs. Contributing to building backend APIs by following OWASP rules for web app security. Collaborating with cross-functional teams to gather requirements and implements 50+ features in the web app till now. Developed CNN & RNN models for audio emotion classification using EMODB Dataset. Utilized Pandas and NumPy for efficient data manipulation and preprocessing. Employed Librosa library for audio processing tasks such as loading, feature extraction, and manipulation.",
+        "keywords": [
+          "Python",
+          "Fast APIs",
+          "MongoDB",
+          "PyTest",
+          "Librosa",
+          "Deep Learning Models",
+          "Pandas",
+          "NumPy"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Budget Boss",
+        "description": "A web portal for expense management that helps to track the user transactions on daily usage. Added key features like email notifications, statistics, score card and passbook. Developed entire backend application and hosted in python anywhere domain.",
+        "keywords": [
+          "Django",
+          "PostgreSQL",
+          "Chart.js"
+        ],
+        "endDate": "May 2023",
+        "startDate": "Dec 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer",
+        "skillsUsed": [
+          "Python",
+          "Fast APIs",
+          "MongoDB",
+          "PyTest"
+        ],
+        "endDate": "present",
+        "company_name": "TogetherEd",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Backend Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Segura Invendors Private Ltd",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2023"
+      },
+      {
+        "role_name": "ReservaInnovate",
+        "skillsUsed": [
+          "Python",
+          "Django",
+          "MySQL",
+          "PyTest"
+        ],
+        "endDate": "Dec 2023",
+        "company_name": "",
+        "description": "Worked on key sections of the company clients web app, an ERP portal for school management. Single-handedly developed the entire backend APIs using Django Framework. Contributed 30% of development and reduce development time by optimizing and reusing the code.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "HTML",
+      "Django",
+      "Spring Boot",
+      "API Development"
+    ],
+    "soft_skills": [
+      "Team Handling",
+      "Time Scheduling",
+      "Task Management",
+      "Mentoring"
+    ],
+    "name": "DWARAMPUDI BALAJI REDDY",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "TG'23-Finalist, Techgig Code Gladiators 2023 Secured 232 rank in the final round out of 138424 registrations and 2418 final round participants",
+      "Top Ranker, TCS CodeVita Secured 262 rank out of 444K+ registrations and 1,36,054 participants in TCS CodeVita",
+      "NPTEL-Topper, NPTEL Got Excellent in the Java programming exam conducted by NPTEL.",
+      "3-Star Coder, Codechef Earned 3-star rating on CodeChef in March 2023 after competing in 30 contests."
+    ],
+    "publications": [
+      "A Systematic Review on Machine Learning Techniques Used for Early Detection of Skin Cancer, IEEE Authored an IEEE Conference Paper on Early Detection of Skin Cancer"
+    ]
+  },
+  "current_location": "Vijayawada,India",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech CSE(Hons)"
+}

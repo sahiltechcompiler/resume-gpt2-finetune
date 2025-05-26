@@ -1,0 +1,87 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ansari Shoeb",
+  "college": "A.C Patil College of Engineering",
+  "locations": [
+    "Navi Mumbai, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "A.C Patil College of Engineering",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Navi Mumbai, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "February 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dr Appointment System Using MERN Stack",
+        "description": "- Working Login and Registration form with JWT(jsonwebtoken) for middleware and Bcrypt for password security and user Data is Stored in Cloud MongoDB Database with Hash Password provided by Bcrypt and for UI Design has made in ReactJS, and Registration and Login Form API has made in Express.\n- Having Notification system where client, doctor or even admin will receive the notifications messages using MongoDB and for API which has made in Express.\n- Admin Page for approving or rejecting feature which has made in MongoDB and Express the doctor or admin can remove the fake users as well. UI design Using ReactJS and antd for Toast Messages in Frontend.\n- Doctor Appointment System is deployed by using render.com.In frontend created Static file then connect with backend using NodeJS and cors.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "AI-Generator using OpenAI API",
+        "description": "- Designed and implemented an AI-Generator using ReactJS , ExpressjS ,NodeJS and MongoDB.\n- AI-Generator comes with some feature like convert Brief Information into Summarization ,Text to Paragraph, Generate Scifi Image ,convert Text into Javas]Script code and Chatbot, using OpenAi API and Express and UI Design has made in ReactJS.\n- Working Login and Registration form with JWT(jsonwebtoken) for middleware and Bcrypt for password security and user Data is Stored in Cloud MongoDB Database with Hash Password provided by Bcrypt and for UI Design has made in ReactJS, and Registration and Login Form API has made in Express.\n- AI-Generator is deployed by using render.com.In frontend created Static file then connect with backend using NodeJS and cors.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Moviefy using ReactJS and TMDB-API",
+        "description": "- A Movie Trailer Website where user can checkout latest movies and series trailers which has made in ReacttJS\n- Moviefy website is fetched latest movies and series Trailer which is provided by TMDB API\n- Moviefy website comes with Responsive design and Payment method is Integrated by Strips payment gateway\n- These Website is hosted by using firebase",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Html",
+      "CSS",
+      "JavaScript",
+      "Figma",
+      "Git",
+      "postman",
+      "Bootstrap",
+      "MongoDB",
+      "VS-Code",
+      "IntelliJ IDEA",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "TailwindCSS",
+      "NextJS",
+      "Windows",
+      "MacOS"
+    ],
+    "soft_skills": [],
+    "name": "Ansari Shoeb",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Kausa Market Rehmat Mahal grd floor room no 1. M umbra Thane 400612",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.E"
+}

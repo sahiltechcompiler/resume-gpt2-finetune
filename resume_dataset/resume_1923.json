@@ -1,0 +1,239 @@
+{
+  "project_count": 3.0,
+  "designation": "Machine Learning Engineer",
+  "name": "Jayanth Tatineni",
+  "college": "Vellore Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "Result-oriented individual with a Bachelor of Technology in Computer Science Engineering from Vellore Institute of Technology. Passionate about leveraging cutting-edge technology to solve complex problems and drive innovation.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PowerBi",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "WEKA",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "GIT",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DBMS",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Visualization",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Coursera - Introduction to Data Analysis using Microsoft Excel",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Coursera - Introduction to Big Data",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Coursera - Create Your First Web App with Python and Flask",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Coursera - Basic Image Classification with TensorFlow",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM - Getting Started with Enterprise Data Science",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vellore Institute of Technology",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 9.59",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "Sep 2020"
+      },
+      {
+        "school": "ASN Senior Secondary School",
+        "endDate": "Mar 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Aggregate: 95.4%",
+        "field_of_study": "",
+        "startDate": "Apr 2019"
+      },
+      {
+        "school": "ASN Senior Secondary School",
+        "endDate": "Mar 2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Aggregate: 93.4%",
+        "field_of_study": "",
+        "startDate": "Apr 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Asteroid Prediction using Machine Learning",
+        "description": "Categorizing Asteroids as potentially hazardous and non-hazardous using Machine Learning Algorithms like Logistic Regression, KNN, Decision Tree and Random Forest.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Car Performance Prediction",
+        "description": "The main goal is to predict the performance of the car to improve the certain behavior of the vehicle. This can significantly help to improve the system's fuel consumption and increase efficiency.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Stock Price Prediction",
+        "description": "Predicting the price of stocks such as Google, Microsoft, Amazon using LSTM and Moving Average method and predicting the risk associated with each stock.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Engineer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Quantiphi Analytics",
+        "description": "Implemented Deep Learning techniques to extract data from Invoices, Receipts and Policy documents for Insurance Clients.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "SmartBridge",
+        "description": "Leveraged advanced machine learning algorithms to enhance predictive models. Demonstrated strong proficiency in data preprocessing, feature engineering, and model evaluation.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "SQL",
+      "Python"
+    ],
+    "soft_skills": [],
+    "name": "Jayanth Tatineni",
+    "position": "Machine Learning Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

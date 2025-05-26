@@ -1,0 +1,172 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "ANKUSH KUMAR SHUKLA",
+  "college": "Noida Institute of Engineering College",
+  "locations": [
+    "Noida,UP-India",
+    "Greater Noida, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to NoSQL Databases",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript",
+        "issuer": "Springboard",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering College",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech-CSE(AI & ML)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.55",
+        "field_of_study": "",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "Uttarakhand Public School",
+        "endDate": "July 2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Uttarakhand Public School",
+        "endDate": "July 2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "83.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Streamlit Multi-Disease Prediction App",
+        "description": "Developed a web application which predicts the common diseases: diabetes, heart disease, and breast cancer.",
+        "keywords": [
+          "Machine Learning",
+          "Scikit-Learn",
+          "Streamlit"
+        ],
+        "endDate": "February 2024",
+        "startDate": "January 2024",
+        "url": "Github"
+      },
+      {
+        "name": "License Plate Detection",
+        "description": "Developed a web application for detecting the license plates of vehicles in images and videos, leveraging YOLOv8 for object detection.",
+        "keywords": [
+          "Neural Networks",
+          "Computer Vision",
+          "OpenCV"
+        ],
+        "endDate": "April 2024",
+        "startDate": "March 2024",
+        "url": "Github"
+      },
+      {
+        "name": "Payment Gateway System",
+        "description": "Developed a payment gateway system using Nodejs, Expressjs and the PayPal API to facilitate smooth online transactions.",
+        "keywords": [
+          "Nodejs",
+          "Expressjs",
+          "HTML",
+          "CSS",
+          "PayPal-API"
+        ],
+        "endDate": "July 2024",
+        "startDate": "June 2024",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern - NODEJS",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Developed server-side applications using Node.js and Express.js, contributing to backend functionality and performance. Designed and implemented RESTful APIs to facilitate smooth integration with front-end systems. Managed and optimized MongoDB databases to ensure efficient data storage, retrieval, and overall system performance.",
+        "location": "Noida,UP-India",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Data Structures & Algorithms",
+      "OOPS",
+      "DBMS",
+      "Operating System",
+      "NodeJS"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Team Collaboration",
+      "Effective communication"
+    ],
+    "name": "ANKUSH KUMAR SHUKLA",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Greater Noida, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech-CSE(AI & ML)"
+}

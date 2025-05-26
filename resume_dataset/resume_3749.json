@@ -1,0 +1,194 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Avinash Upadhyay",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations coursework",
+        "issuer": "Oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Certified Network Associate (CCNAv7 Cisco)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DSA Specialization with UC San Diego",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science and ML",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Azure AZ-900",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.35/10",
+        "field_of_study": "Computer Science (AI and ML)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Navy Children School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "9.04/10",
+        "field_of_study": "CBSE",
+        "startDate": "2008"
+      }
+    ],
+    "projects": [
+      {
+        "name": "NLP to SQL",
+        "description": "Implemented an NLP to SQL query converter utilizing OpenAIs Davinci-002 model, for seamless conversion of natural language queries into SQL queries. Designed for various users like data analysts, developers, teachers, and businesses. It makes tasks like analyzing data and creating apps easier. Also helps people who arent familiar with SQL to use databases.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "SQL Alchemy",
+          "Git",
+          "OpenAI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chef GPT",
+        "description": "Developed ChefGPT, an AI-powered tool that generates personalized recipes using OpenAIs GPT-3.5 turbo model based on user-provided ingredients. Implemented visual recipe previews by integrating DALL-E 3 to create photorealistic images of the generated dishes, enhancing the user experience.",
+        "keywords": [
+          "Python",
+          "requests",
+          "PIL",
+          "Git",
+          "OpenAI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Shakespearean Text Generation",
+        "description": "Developed a GRU-based RNN model to generate text mimicking the distinct style of William Shakespeare, leveraging TensorFlow and a vast corpus of his works. Implemented text processing, including vectorization and batch creation, for effective training data preparation.",
+        "keywords": [
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "Git",
+          "TensorFlow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Malaria Detection using CNN",
+        "description": "Developed a CNN-based malaria detection tool analyzing 27,558 blood cell images, achieving 0.95 accuracy. Quickly analyzes and classifies images for swift malaria detection.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "Seaborn",
+          "Matplotlib",
+          "Git",
+          "TensorFlow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Summer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Performed K-means clustering, bagging, boosting, data transformation, feature selection, extraction and Regularization on loan approval prediction model. Created visualizations like histograms, countplots, scatterplots and boxplots to perform customer segmentation.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Django",
+      "SQLite",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Scikit",
+      "OpenCV",
+      "TensorFlow",
+      "Keras",
+      "NLTK",
+      "SpaCy",
+      "Git/Github",
+      "Linux",
+      "Tableau",
+      "PostgreSQL",
+      "Microsoft Azure",
+      "Vim/Vim motions"
+    ],
+    "soft_skills": [],
+    "name": "Avinash Upadhyay",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 200+ questions on Leetcode (Max rating: 1621)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

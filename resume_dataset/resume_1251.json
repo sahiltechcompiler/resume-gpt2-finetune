@@ -1,0 +1,153 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Developer",
+  "name": "NUPUR MEHLAWAT",
+  "college": "Manipal University Jaipur (MUJ)",
+  "locations": [
+    "New Delhi",
+    "Jaipur, Raj"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur (MUJ)",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Btech (Hons.)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science (specialising in IoT & IS)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Kendriya Vidyalaya Andrews Ganj",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya Andrews Ganj",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th (PCM + CS)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CollegeConnect",
+        "description": "Developed a student-centric web application integrating authentication from Firebase, a secure payment gateway using Razorpay API, optimized for seamless access to organised study materials. Also includes the functionality to upload a book detail, and modify or remove it completely from the database. The goal is to add more functionalities like a video streaming platform, chatbot and a live chat area.",
+        "keywords": [
+          "MERN Stack"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Application Design Studio (Dell Hackathon)",
+        "description": "A web-based editor designed to model and visualize the data flow between applications in an enterprise ecosystem, enabling better understanding and management of complex application interactions. Key features include user authentication, a user-friendly drag-and-drop canvas for modeling data flow making, metadata viewing, and the ability to create, read, update, and delete data flow models.",
+        "keywords": [
+          "MERN Stack",
+          "Docker",
+          "Kubernetes"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Practice Web Development Projects",
+        "description": "Developed a responsive Spotify and Amazon clone using HTML, CSS & Bootstrap. Practiced 12 Mini JS projects with different logic and functionalities.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "NIC (National Informatics Centre)",
+        "description": "Working on revamping the IPS government website, enhancing its UI, optimizing functionality, and improving database architecture.",
+        "location": "Hybrid",
+        "links": "",
+        "startDate": "August 2024"
+      },
+      {
+        "role_name": "Project & Research Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "ISRO (Indian Space & Research Organization)",
+        "description": "Worked on a real-world project focused on detecting forest fires using IoT technology and developing a web interface to monitor and manage the system. Established a wireless network using radio technology using LoRa and nRF24 modules to transmit data reliably from the heart of the forest where internet and cellular network does not reach to the edge. Achieved best results regarding data transmission with enhanced security, extended range (upto 1km), and a 25% increase in data speed.",
+        "location": "On-site",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Rooman Technologies",
+        "description": "Developed efficient code using best software development practices, ensuring optimal performance for company websites. Managed website functionalities with HTML, CSS, Bootstrap, JavaScript and ensuring smooth operation and increase user engagement by 7%.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Tailwind CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Postman API",
+      "Excel",
+      "Python",
+      "Power BI",
+      "C",
+      "Python",
+      "JavaScript",
+      "Git",
+      "GitHub",
+      "Docker",
+      "Kubernetes (Beginner)",
+      "AWS (Learning)"
+    ],
+    "soft_skills": [],
+    "name": "NUPUR MEHLAWAT",
+    "position": "Web Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Blackbelt holder in Takewondo",
+      "Regional U-17 & U-19 Badminton player for 3 consecutive years",
+      "Awarded Deans Award of Academic Excellence in my 5th semester for getting gpa 9.35."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Btech (Hons.)"
+}

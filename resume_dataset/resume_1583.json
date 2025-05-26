@@ -1,0 +1,113 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rithika Nampally",
+  "college": "SRM Univwersity",
+  "locations": [
+    "AP"
+  ],
+  "full_output": {
+    "summary": "Im a B.Tech graduate in Big Data, with a growing interest in cybersecurity. Skilled in Python, ML, and ethical hacking, they are poised for roles bridging Big Data and cybersecurity.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM Univwersity",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Big Data",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Jr College - BIETS",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Brilliant Grammar High School - BSETS",
+        "endDate": "2019",
+        "maximum_grade": "9.5/10",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "7.09/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Expenso-iOS",
+        "description": "A comprehensive, user-friendly iOS app for tracking expenses, managing budgets, and gaining financial insights. Developed using SwiftUI and Core Data, it offers robust features like expense categorization, budget notifications, detailed reporting, and secure data synchronization with cloud backup options.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mobile Banking Security",
+        "description": "implemented innovative solutions to address vulnerabilities in mobile banking systems. Utilized tools such as Burp Suite, Drozer, Frida, and Objection for penetration testing of mobile applications and websites.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real Estate Price Prediction",
+        "description": "This project predicts Mumbai real estate prices using machine learning. It involves web scraping from www.99acres.com, data cleaning, EDA, and deploying a Streamlit app for real-time predictions. Im- plemented models include Linear Regression, Decision Tree, Random Forest, and Polynomial Features.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Developer",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSD",
+        "description": "Developed an intelligent chatbot leveraging Amazon Lex and AWS Lambda to provide robust, real- time user interactions. Configured intents and slots within Amazon Lex to accurately understand and process user queries. Integrated AWS Lambda functions to handle backend logic and interact with external services, ensuring a seamless conversational experience. Implemented security measures and compliance standards to protect user data. The chatbot can be easily integrated with multiple communication channels, showcasing its scalability, flexibility, and efficiency in various applications.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Java",
+      "HTML",
+      "Machine Learning",
+      "Ethical Hacking",
+      "Pentesting",
+      "Swift UI",
+      "UI Kit",
+      "UI/UX Design",
+      "Adobe XD",
+      "Figma",
+      "Adobe Photoshop"
+    ],
+    "soft_skills": [],
+    "name": "Rithika Nampally",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

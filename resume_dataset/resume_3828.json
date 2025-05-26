@@ -1,0 +1,132 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vaishnavi Singh",
+  "college": "KIET Group of Institutions(AKTU)",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Ballia, U.P.",
+    "Delhi-NCR"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions(AKTU)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "92",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Spotify Clone",
+        "description": "Demonstrated proficiency in JavaScript (front-end and back-end), HTML, CSS, Node.js, Express.js, and Pug templates. Proficient in HTML for structure, CSS for styling, and JavaScript for interactive functionality. Tools: Used Visual Studio Code for development.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Node.js",
+          "Express.js",
+          "Pug"
+        ],
+        "endDate": "June 2023",
+        "startDate": "June 2023",
+        "url": ""
+      },
+      {
+        "name": "Developed a Dance website for Node.js application",
+        "description": "Implemented both front-end and back-end functionalities, leveraging Node.js for server-side logic and Express.js for routing. Proficient in JavaScript (both front-end and back-end), HTML, CSS, Node.js, Express.js, and Pug templates. Utilized Visual Studio Code for development, Postman for API testing, and various debugging tools for troubleshooting.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "May 2023",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Personal portfolio using React and vite",
+        "description": "Developed the front-end utilizing React.",
+        "keywords": [
+          "React",
+          "vite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "FastAPI",
+          "PostgreSQL",
+          "data visualization",
+          "GitHub"
+        ],
+        "endDate": "September 2023",
+        "company_name": "LinkedIn",
+        "description": "Architected a REST API with FastAPI and PostgreSQL to efficiently store data from learning management systems, enhancing data accessibility and decreasing data processing time by 45%. Implemented data visualization techniques to track and display GitHub collaboration among students, resulting in a 30% improvement in group project cohesion and efficiency.",
+        "location": "Delhi-NCR",
+        "links": "",
+        "startDate": "August 2023"
+      },
+      {
+        "role_name": "Web Development Lead",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "React",
+          "Visual Studio Code",
+          "GitHub"
+        ],
+        "endDate": "June 2023",
+        "company_name": "Major project",
+        "description": "Designed and implemented responsive user interfaces using HTML, CSS, Bootstrap, and React. Utilized Visual Studio Code for development, GitHub for repository management, and various debugging tools to troubleshoot and refine the application.",
+        "location": "Delhi-NCR",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "MySQL",
+      "Postgres",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "MongoDB",
+      "Tailwind",
+      "ReactNative"
+    ],
+    "soft_skills": [],
+    "name": "Vaishnavi Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Aggregate SGPA till 5th semester:8.48",
+      "Accomplished over 400 problems on LeetCode and attained a 5-star rating on HackerRank in Java."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

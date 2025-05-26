@@ -1,0 +1,141 @@
+{
+  "project_count": 2.0,
+  "designation": "Full Stack Web Developer | Mentor",
+  "name": "PRAVEEN SHANKAR",
+  "college": "Indian Institute of Information Technology, Ranchi",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology, Ranchi",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (Hons.)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.40",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Bal Vidya Niketan, Jehanabad",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 80.0%",
+        "field_of_study": "Central Board of Secondary Education (CBSE)",
+        "startDate": ""
+      },
+      {
+        "school": "Bal Vidya Niketan, Jehanabad",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.6",
+        "field_of_study": "Central Board of Secondary Education (CBSE)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Online Buying and Selling Platform",
+        "description": "Created a user-friendly web app with simplified buying and selling features, category-wise filtering, and only approved products for quality assurance and user experience. Built a complete web app with a simple admin panel. JSON Web Tokens (JWT) for secure authentication and authorization ensured platform-wide user verification. The Admin Dashboard streamlines product management for approvals, rejections, and blocking. Real-time updates were enabled for administrators and users, allowing them to receive notifications for new product submissions and customer interest in purchasing listed things at the counter price. Implemented image uploads with Cloudinary and Multer for secure and efficient management.",
+        "keywords": [
+          "MERN",
+          "JavaScript",
+          "TailwindCSS",
+          "AntD",
+          "JWT",
+          "Redux",
+          "Cloudinary",
+          "Multer"
+        ],
+        "endDate": "Jun 2023",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Online Real-Time Chatting Platform",
+        "description": "Developed a state-of-the-art, user-friendly internet messaging program that allows for both individual and group conversations. Used Socket.IO to ensure real-time chat notifications and updates. Users were kept updated on group changes, ensuring interactive and effective communication.",
+        "keywords": [
+          "MERN",
+          "JavaScript",
+          "JWT",
+          "Redux",
+          "Socket.io",
+          "Chakra-ui"
+        ],
+        "endDate": "Sep 2023",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FullStack Developer Intern",
+        "skillsUsed": [
+          "React.Js",
+          "CSS",
+          "SCSS",
+          "JavaScript",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Ngnix",
+          "Firebase"
+        ],
+        "endDate": "June 2024",
+        "company_name": "Certificate",
+        "description": "Added download functionality for user data in the frontend, supporting Excel format. Implemented CRUD operations for admin access in the dashboard. Developed REST APIs for Test-Series Content. Designed, implemented, and deployed the company landing website on DigitalOcean with Nginx. Boosted user engagement by 40% through optimized performance. Utilized Git, GitHub and Bitbucket for version control and collaboration.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Problem Solving",
+      "Data Structures and Algorithms",
+      "Full Stack Web Development",
+      "HTML",
+      "Node.JS",
+      "Express.JS",
+      "CSS",
+      "SCSS",
+      "Socket.Io",
+      "React.JS",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "BitBucket"
+    ],
+    "soft_skills": [],
+    "name": "PRAVEEN SHANKAR",
+    "position": "Full Stack Web Developer | Mentor",
+    "interests": [],
+    "achievements_and_awards": [
+      "Max. Rating 1793 at LeetCode under the handle shankar ftw.",
+      "3 star (Max. Rating 1642) at Codechef under the handle shankar ftw.",
+      "Secured Rank 71st in Starters 110 Division 3 at Codechef under the handle shankar ftw.",
+      "Solved 700+ DSA problems in different platforms like LeetCode, GFG, Codechef."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology (Hons.)"
+}

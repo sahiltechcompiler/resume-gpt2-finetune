@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Suhas Mukku",
+  "college": "SRM University",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.2",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Dec 2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "Mar 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 96.6",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Oxford English Medium Public School",
+        "endDate": "Mar 2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 9.8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Service Management",
+        "description": "Developed mechanisms for user registration, login, and role-based access control, enhancing application security and cutting navigation time by 50%. Integrated automatic email notifications for users within 24 hours when an admin assigns a booking to a service provider. Designed a review section, enabling users to provide feedback on service providers, with ratings on a scale of 1 to 5.",
+        "keywords": [
+          "Django",
+          "HTML",
+          "CSS",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ecommerce Website",
+        "description": "Using the MERN stack enabled seamless integration between front-end and back-end components resulting in a 30% improvement in development efficiency. Established secure user authentication and authorization mechanisms with JWT and bcrypt, ensuring robust protection for user data and secure access control reducing unauthorized access attempts by 50%. Implemented a shopping cart system and streamlined the checkout process by integrating Razorpay for secure transactions, which increased transaction success rates by 40%.",
+        "keywords": [
+          "React JS",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "RazorPay"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blog Application",
+        "description": "Integrated Firebase authentication for secure and reliable user login and registration, maintaining user privacy and data security. Utilized Firestore to store and manage blog data, enabling seamless CRUD operations for users to create, read, update, and delete their blog posts. Utilized React, Vite, and Tailwind CSS for an efficient and engaging user interface.",
+        "keywords": [
+          "React JS",
+          "TailWind",
+          "FireBase",
+          "Vite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "APSSDC",
+        "description": "Developed and maintained a full-stack web application using Django for the backend and HTML, CSS, and Bootstrap for the frontend. Handled data storage with Django ORM managed user access and permissions using Djangos built-in user model, resulting in a 40% increase in operational efficiency.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "React JS Developer",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "CODSOFT",
+        "description": "Developed projects and completed tasks using React during the internship, ensuring adherence to best practices and project requirements. Leveraged Firebase for authentication, and implemented state management and routing to complete the projects.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jul 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "javascript",
+      "HTML",
+      "CSS",
+      "React JS",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Django",
+      "Postman",
+      "FireBase",
+      "Data Structures and Algorithms",
+      "Object-Oriented Programming",
+      "operating systems",
+      "computer networks",
+      "DBMS",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Suhas Mukku",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

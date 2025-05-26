@@ -1,0 +1,138 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Yash Mittal",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Gurugram, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Introduction To Networks",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco Net Cad",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ordered Data Structures",
+        "issuer": "University of Illinois",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Object-Oriented Programming with Java",
+        "issuer": "Learnquest",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "SWAYAM NPTEL by IIT Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ethical Hacking Essentials",
+        "issuer": "EC-Council",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech Hons",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.82",
+        "field_of_study": "Computer Science and Engineering with Specialization in IOT",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Emotion Detection Using Video",
+        "description": "Implemented real-time emotion detection through video, focusing on facial expression recognition and analysis, and got accuracy upto 85% in collaboration with a 3-member team.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Jupyter Notebook"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Laboratory Management System",
+        "description": "Developed and implemented an RFID Scanner system using a Raspberry Pi and Python, enabling efficient and accurate tracking of laboratory assets. Integrated an RFID Reader Module with the Raspberry Pi via SPI communication protocol, utilizing GPIO libraries for seamless hardware interaction. Designed a user-friendly interface and optional database integration for real-time data storage and retrieval, enhancing asset management capabilities.",
+        "keywords": [
+          "Python",
+          "GPIO",
+          "Rasperberry Pi"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cyber Cell Intern",
+        "skillsUsed": [
+          "Cyber forensics",
+          "IT security",
+          "Banking technologies"
+        ],
+        "endDate": "July 2024",
+        "company_name": "Haryana Police",
+        "description": "Collaborated with law enforcement and industry experts on cyber crime challenges. Enhanced skills in cyber forensics, IT security, and banking technologies through hands-on training.",
+        "location": "Gurugram, India",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "Git",
+      "SQL",
+      "MS Office",
+      "VS Code",
+      "IntelliJ",
+      "Canva",
+      "Communication Skills"
+    ],
+    "soft_skills": [],
+    "name": "Yash Mittal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Gurugram,Haryana",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech Hons"
+}

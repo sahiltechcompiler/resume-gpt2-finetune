@@ -1,0 +1,146 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "Sahil Sharma",
+  "college": "SRM University, Andhra Pradesh",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Micro-Certification - Welcome to ServiceNow",
+        "issuer": "servicenow",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Coursera",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundations of Cybersecurity",
+        "issuer": "Google Certification",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DESINEX 2.0",
+        "issuer": "VIT-AP",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, Andhra Pradesh",
+        "endDate": "Jul 2025",
+        "maximum_grade": "10.0",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.89/10.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Sep 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AWS Optimized Vprofile Project",
+        "description": "Implemented a global web app on AWS using Lift and Shift, integrating SaaS and PaaS solutions with key AWS components like EC2, Load Balancer, Autoscaling, S3, and Route 53. Achieved a significant improvement in application performance and scalability through the implementation of this AWS-based infrastructure and service architecture.",
+        "keywords": [
+          "Apache Tomcat",
+          "NGINX",
+          "RabbitMQ",
+          "Memcached",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "QR Made Easy",
+        "description": "Developed an advanced application that prompts users for a URL input and subsequently generates and saves a text file containing the provided URL. Implemented functionality to create a PNG file featuring a QR code for the URL, ensuring efficient and accurate URL storage and sharing through QR code technology.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VoiceScript",
+        "description": "Built a speech-to-text system using AWS Transcribe, Lambda for serverless processing, and S3 for secure storage of audio/video inputs. Implemented real-time monitoring with AWS CloudWatch for seamless operation and troubleshooting of transcription tasks.",
+        "keywords": [
+          "AWS Lambda",
+          "AWS CloudWatch",
+          "AWS Transcribe",
+          "AWS S3"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "SRM University, AP.",
+        "description": "Applied POU and POAL algorithms in SCAN for robust code validation, enhancing open-source standards. Analyzed consensus algorithms, boosting adherence to open-source standards. Implemented transparent consensus in SCAN, significantly increasing the validation of open-source usage claims and ensuring verifiability via blockchain-recorded results.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Java",
+      "Bash Scripting",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "System Design",
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Ansible",
+      "CI/CD Pipeline",
+      "Jenkins",
+      "Maven",
+      "Vagrant",
+      "Git",
+      "RabbitMQ",
+      "NGINX",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Sahil Sharma",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Associate at Next Tech Lab."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

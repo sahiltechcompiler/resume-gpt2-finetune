@@ -1,0 +1,140 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Developer Intern",
+  "name": "AVINASH REDDY SEELAM",
+  "college": "SRM University",
+  "locations": [
+    "AP",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Oxford vit college",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 9.7",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Oxford concept school",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Service Management",
+        "description": "Developed user authentication and authorization mechanisms, including registration, login, and role-based access control, ensuring secure access to the application. Developed a feature where users receive automatic email notifications when an admin allocates a booking to a service provider. Implemented a review system allowing users to provide feedback on service providers after the service is completed.",
+        "keywords": [
+          "Django",
+          "HTML",
+          "CSS",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "EV Connect Platform",
+        "description": "Architected and managed the EV Connect platform with the MERN stack (MongoDB, Express.js, React.js, Node.js), streamlining the booking process for charging slots, resulting in a 30% increase in platform user retention rate. Enhanced the user interface to provide a seamless and intuitive booking experience, reducing the average booking time by 25%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "ReactJs",
+          "MongoDB",
+          "NodeJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Books Store System",
+        "description": "Developed a responsive and user-friendly interface using React.js for seamless book browsing. Implemented user authentication features to ensure secure access to user-specific functionalities. Created a RESTful API using Node.js and Express.js to handle CRUD operations on books.",
+        "keywords": [
+          "React JS",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "APSSDC",
+        "description": "Developed and maintained a full stack web application using Django as the backend framework and HTML, CSS and Bootstrap for front end framework. Managed data storage with Django ORM implemented user authentication and authorization using Djangos built-in user model.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Django",
+      "Data Structures and Algorithms",
+      "Algorithm Design",
+      "Problem Solving",
+      "Object-Oriented Programming",
+      "Operating systems",
+      "DBMS",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "AVINASH REDDY SEELAM",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 150+ problems across all coding platforms.",
+      "Secured 2753rd rank in AP engineering entrance test among 1.75L students."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

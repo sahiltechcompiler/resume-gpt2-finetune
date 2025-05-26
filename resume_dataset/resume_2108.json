@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "Intern",
+  "name": "AKMAL MOHAMMED YASHEEN",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Jalandhar , Punjab , IN",
+    "Kannur, Kerala , IN"
+  ],
+  "full_output": {
+    "summary": "As a third-year CSE student with a strong focus on cloud computing and an open minor in banking and finance, I offer a unique combination of technical and financial expertise. Over the years, my hands-on experience with advanced JavaScript and Java has fueled my enthusiasm to explore the dynamic field of technology. I am eager to work on projects involving data, testing, and cloud services. With strong communication and analytical skills, I am ready to contribute to innovative and impactful projects, leveraging my excellent verbal skills to maintain relevance in the ever-evolving landscape of technology. I am currently seeking an internship opportunity to further develop my skills and gain practical experience in the industry.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web devolpment",
+        "issuer": "Skill-Vertex",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM Cloud Essentional Application Development using Microservices and Serverles",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Building Scalable Java Microservices with Spring Boot and Spring Cloud",
+        "issuer": "Google Cloud",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Blockchain Security",
+        "issuer": "INFOSEC",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jalandhar , Punjab , IN",
+        "ID": 0.0,
+        "grade_received": "7.2",
+        "field_of_study": "Computer Science and engineering",
+        "startDate": "Sept 2021"
+      },
+      {
+        "school": "Bharatiya Vidya Bhavan",
+        "endDate": "Mar 2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Kannur, Kerala , IN",
+        "ID": 1.0,
+        "grade_received": "7.1",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Diet plan",
+        "description": "Developed a Python script for personalized meal plans based on sport and gender, utilizing a predefined food database for quick nutrition calculations. Implemented functions for calculating meal nutrition and viewing the food database, with a user-friendly menu for easy navigation and interaction. Designed prompts for personal info input with validation for gender and sport, and included data visualization for enhanced user experience.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "Present",
+        "startDate": "Jan 2023",
+        "url": ""
+      },
+      {
+        "name": "Password Generator and Tester",
+        "description": "Developed a Java-based application with a robust password generator and tester for enhanced online security. Implemented a GUI using Swing and java.awt, adhering to best practices for maintainability and error handling. Led a team to create essential classes: PasswordGenerator, PasswordTester, and PasswordGeneratorUI.",
+        "keywords": [
+          "Java",
+          "SQL"
+        ],
+        "endDate": "Dec 2022",
+        "startDate": "Mar 2021",
+        "url": ""
+      },
+      {
+        "name": "AWS VPC Setup with Internet Gateway and NAT Gateway",
+        "description": "Created a Virtual Private Cloud (VPC) in AWS with public and private subnets, Internet Gateway, and NAT Gateway in a single availability zone. Configured route tables for proper routing and ensured secure traffic management between subnets. Leveraged AWS Management Console to design a robust and scalable network infrastructure.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Data Management",
+      "Software Testing",
+      "Cloud Computing",
+      "Web Devolpoment",
+      "Java",
+      "JavaScript",
+      "Linux",
+      "Python",
+      "MySQL",
+      "MongoDB",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [],
+    "name": "AKMAL MOHAMMED YASHEEN",
+    "position": "Intern",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Punjab , India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

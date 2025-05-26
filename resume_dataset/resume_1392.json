@@ -1,0 +1,127 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "S Dastagir Ahmed",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Demonstrated proficiency in React.js fundamentals, adeptly building interactive user interfaces with components and state management.",
+        "skillsLearned": [],
+        "title": "ReactJS",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Developed skills in Node.js and Express.js essentials, constructing server-side applications, RESTful APIs and explored middleware handling, routing optimization to improve application performance.",
+        "skillsLearned": [],
+        "title": "NodeJS, ExpressJs",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Chennai, Tamil Nadu",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.01",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Social Sphere",
+        "description": "Developed real-time social media app with authentication, post sharing, and comments, akin to academic performance forecasting model deployment. Enhancement on Spearheaded the implementation of user authentication, resulting in a 20% increase in user engagement. Integrated gaming, enhancing UX and boosting retention by 33%, akin to academic performance analysis. Elevated a robust user authentication system to ensure the platforms security and user data integrity.",
+        "keywords": [
+          "Reactjs",
+          "Nodejs",
+          "Expressjs",
+          "SQL"
+        ],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Reserve Eat",
+        "description": "Developed a user-friendly platform where customers can easily browse through a variety of restaurants and make reservations according to their preferences. Customers can search for restaurants based on various criteria, view real-time availability, and book tables for their desired date and time. Added 10-12 new features like organize the user interface of the recipe Home Page. Handle the database and integrated the module with other existing modules.",
+        "keywords": [
+          "Reactjs",
+          "Nodejs",
+          "Expressjs",
+          "SQL",
+          "Redux"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "JS",
+          "Reactjs"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Bharat",
+        "description": "Developed a full-stack application employing React.js and Node.js via Express.js, achieving a 20% reduction in data processing. Elevated application performance through optimization of server-side logic and RESTful APIs, producing a 25% improvement in overall efficiency. Executed MySQL database solutions for scalable data storage, yielding a 20% increase in data retrieval speed. Successfully deployed the application onto cloud platforms such as Vercel cutting deployment time by 30% and ensuring high availability with a 99% uptime rate.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "Django",
+      "MongoDB",
+      "Express",
+      "React",
+      "NodeJS",
+      "Redux",
+      "Docker",
+      "Github",
+      "Bootstrap",
+      "Tailwindcss",
+      "VS Code",
+      "PyCharm",
+      "IntelliJ",
+      "Canva"
+    ],
+    "soft_skills": [],
+    "name": "S Dastagir Ahmed",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured a top position in LeetCode Contest 1478 with a contest rating of 3000, outperforming over 3000 participants.",
+      "Participated in a hackathon with our team being shortlisted among 1000 teams across India."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.E"
+}

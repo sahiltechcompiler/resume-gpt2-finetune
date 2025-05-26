@@ -1,0 +1,101 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "GULABCHAND KUMAR GUPTA",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Jamshedpur, Jharkhand",
+    "Punjab"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA 8.04",
+        "field_of_study": "CSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Humari Dukan: an e-commerce website",
+        "description": "Created an engaging e-commerce platform using React.js, utilized Redux for state management, and fakestoreAPI JSON for data and Bootstrap for appealing UI. Incorporated intuitive features such as image carousel, scroll animations, light/dark mode and bootstrap icons. Added search functionality, category-wise shopping and sorting functionality to find suitable products and robust checkout system user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "LINK"
+      },
+      {
+        "name": "Link Up: A platform to chat with friends",
+        "description": "Real-Time Chat Application Development: Designed and developed a real-time chat platform, leveraging HTML, CSS, JavaScript, Node.js, Socket.io, and Bootstrap. Interactive User Interface: Crafted an intuitive and visually appealing user interface using HTML, CSS, and Bootstrap, ensuring optimal user engagement. Implemented dynamic features such as message updates in real-time, user presence indicators, and message notifications to enhance the interactive experience. Efficient Backend Architecture: Utilized Node.js and Socket.io to establish a robust backend infrastructure for real-time communication. Implemented efficient event-driven communication between clients and the server, ensuring low-latency message delivery and scalability to accommodate multiple users concurrently.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web Development Intern",
+        "skillsUsed": [
+          "JavaScript",
+          "React.Js",
+          "Node.Js",
+          "Express.Js",
+          "MongoDB"
+        ],
+        "endDate": "July 2023",
+        "company_name": "Upskillz",
+        "description": "I Learnt JavaScript, React.Js, Node.Js, Express.Js, MongoDB skills during my internship at Upskillz. Utilized these skills to develop and optimize the performance of the movie catalog interface, reducing page load time by 20% and increasing overall user satisfaction. Collaborated with a team of developers to integrate advanced search functionality into Humari Dukan: an e-commerce,Note-Web-App resulting in a 25% increase in content discoverability and customer retention.",
+        "location": "",
+        "links": "LINK",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "SQL (Structured Query Language)",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git and GitHub",
+      "VS Code",
+      "Netlify",
+      "Postman",
+      "React.js",
+      "Bootstrap",
+      "Redux"
+    ],
+    "soft_skills": [
+      "Analytical and Mathematics skills",
+      "Teamwork",
+      "Multitasking"
+    ],
+    "name": "GULABCHAND KUMAR GUPTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 850+ problems across platforms like LeetCode, GeeksforGeeks, CodeChef",
+      "Secured RANK 1296 in LeetCode Weekly Contest 352 registered by over 24500 coders.",
+      "Rated 3.5 star and in top 8.31% on LeetCode with highest rating of 1782.",
+      "4 Star Rating in Problem Solving on HackerRank."
+    ],
+    "publications": []
+  },
+  "current_location": "Jamshedpur, Jharkhand",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

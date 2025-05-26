@@ -1,0 +1,128 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Piyush Sahoo",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Dwarka, New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech (Hons)",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.76/10",
+        "field_of_study": "CSE (IoT and IS)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Bal Bharati Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94.3%",
+        "field_of_study": "CBSE (Class 12)",
+        "startDate": ""
+      },
+      {
+        "school": "Bal Bharati Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93.2%",
+        "field_of_study": "CBSE (Class 10)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "DermaAI | Dermatological Diagnostic Aid",
+        "description": "A portable solution using a Dermatoscope and machine learning to detect skin diseases in underserved regions. Captures high-res images (up to 200x zoom) and provides preliminary analysis, recommending further medical help when needed. Implemented the ResNet50v2 model trained on a diverse dataset of skin diseases. Incorporated disease-free skin data and layer-freezing techniques, achieving 92.36% accuracy in disease classification and enhancing model robustness.",
+        "keywords": [],
+        "endDate": "Apr 2024",
+        "startDate": "Mar 2024",
+        "url": ""
+      },
+      {
+        "name": "LocalDoc | Personal - Private LLM",
+        "description": "Utilizing Mistral 7B instruct as an LLM, I developed a personalized, secure, and offline RAG model. This model enables users to upload personal documents and pose questions while ensuring privacy by operating locally. The LangChain framework was used alongside the Sentence Transformers embedding model and ChromaDB for vector storage. Hosted the project using Streamlit for seamless interaction and accessibility.",
+        "keywords": [],
+        "endDate": "Jan 2024",
+        "startDate": "Nov 2023",
+        "url": ""
+      },
+      {
+        "name": "Hospital Management System | Admin Portal",
+        "description": "Developed a user-friendly website for efficient management and storage of essential information regarding doctors, patients, nurses, workers, rooms, and other vital aspects. Employed HTML, CSS, and JS for the front-end design and functionality, SQL for data storage and retrieval and PHP to enable dynamic request and responses.",
+        "keywords": [],
+        "endDate": "Apr 2023",
+        "startDate": "Mar 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Experience",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "",
+        "description": "IoT Based Vehicle Class Detection For Smart Traffic Control Conference Paper. Implemented machine learning for dynamic traffic signal control in smart city planning, addressing traffic congestion. Integrated YOLOv5 for real-time vehicle detection and classification with 95% accuracy, enhancing traffic light dynamics by categorizing vehicles into light, medium, and heavy classes. This innovative approach contributes to efficient traffic flow management, crucial for smart traffic systems in major cities.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      },
+      {
+        "role_name": "Research Experience",
+        "skillsUsed": [],
+        "endDate": "Oct 2023",
+        "company_name": "",
+        "description": "Testing Autonomous Vehicle Models in Rural Conditions. Conducted simulations in CARLA to replicate rural and dynamic weather scenarios. Evaluated the performance of pre-existing autonomous vehicle models under these conditions. Achieved 85-92% accuracy by training a custom object detection and path optimization model using VirConv-L on a custom dataset.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "Python",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL",
+      "Java"
+    ],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Attention to Detail",
+      "Inquisitive",
+      "Persistent",
+      "Adaptable"
+    ],
+    "name": "Piyush Sahoo",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded the Deans List Excellence in Academics Certificate three times (Top 5 performer).",
+      "Earned the Elite plus Silver Medal (top 5%) Certificate in the NPTEL course Design and Analysis of Algorithms.",
+      "Ranked in the top 100 out of 987 teams in the ZS Campus Beats Tech Challenge.",
+      "Participated in Turing Hacks 1.0 conducted by Turing Sapiens."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "BTech (Hons)"
+}

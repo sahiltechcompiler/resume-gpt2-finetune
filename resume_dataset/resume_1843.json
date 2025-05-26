@@ -1,0 +1,140 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "HARSH KATARIA",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (B. Tech)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "88.5 (Till 7th sem)",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Indira Ideal Sr. Sec. School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87.6",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Indira Ideal Sr. Sec. School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "87.2",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "LOCOWIZ",
+        "description": "It is a mobile application in which I contributed during internship. I worked on adding some essential dynamic features in the application. Mainly integrated get and post APIs wherever needed and displayed data from backend. Also worked on UI development and error handling.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Android Studio",
+          "Postman",
+          "Firebase"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Jan 2024",
+        "url": "https://play.google.com/store/apps/details?id=com.locowiz.dcc&hl=en_US"
+      },
+      {
+        "name": "To-Do LIST APP",
+        "description": "It is a mobile application that allows user to keep a record of their tasks that they have to do, this application is connected with firebase to store the data of users collectively together and safe.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Android Studio",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/HarshRK09/To-Do-App"
+      },
+      {
+        "name": "EXPENSE TRACKING APP",
+        "description": "It is a mobile application which keeps the record of weekly expenses of the users, allowing them to add expenses on particular days and dates.",
+        "keywords": [
+          "Flutter",
+          "Dart"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/HarshRK09/Personal-Expenses"
+      },
+      {
+        "name": "COFFEE ORDERING APP",
+        "description": "It is a mobile android application that allows our customers to order coffee with their favorite toppings and further sends them confirmation mail with order summary. The system needs to be English based.",
+        "keywords": [
+          "Java",
+          "Android Studio"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/HarshRK09/Coffe-Hub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "ANDROID DEVELOPER INTERN",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Mind Aviator Technologies and Services Pvt. Ltd.",
+        "description": "Worked on the live application and contributed majorly in backend such as integrating APIs, error handling as well as did some UI development of the application using flutter and dart.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "Dart",
+      "SQL",
+      "Git",
+      "Android Studio",
+      "Flutter",
+      "Postman",
+      "IntelliJ",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "HARSH KATARIA",
+    "position": "",
+    "interests": [
+      "Cricket",
+      "Listening Music",
+      "Weight Training"
+    ],
+    "achievements_and_awards": [
+      "Winner of Inter Corporate League Season 3, won MOTM award and participated in many club level cricket tournaments.",
+      "Volunteered at Srijana Abortion Program conducted by Viacom18 entertainment team."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology (B. Tech)"
+}

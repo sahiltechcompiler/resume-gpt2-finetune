@@ -1,0 +1,147 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "NISHANTH P",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamil Nadu",
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM - DATA SCIENCE",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CISCO Python Essentials 1 and 2",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CISCO Data Science Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Chennai, Tamil Nadu",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.49",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Oct 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "EduDocAI",
+        "description": "Implemented advanced Natural Language Processing (NLP) techniques, including the Retrieval-Augmented Generation (RAG) methodology, to enhance information retrieval and content generation capabilities. Utilized RAG to develop a cutting-edge system for retrieving and generating contextually relevant content. Demonstrated expertise in leveraging pre-trained models like Gemini for generation tasks and employing retrieval models such as Dense Retrieval for efficient information retrieval.",
+        "keywords": [
+          "Langchain",
+          "PyPDF2",
+          "Gemini",
+          "FAISS",
+          "Llama-index"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "(code)"
+      },
+      {
+        "name": "NoNeedSQL",
+        "description": "Developed a LLM project utilizing the Gemini model via API Integration, enabling seamless natural language interaction with SQL database along with an accuracy of 88% to the actual results.",
+        "keywords": [
+          "Gemini",
+          "API integration",
+          "Python",
+          "Streamlit",
+          "SQLite3"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "(code)"
+      },
+      {
+        "name": "Students Performance Predictor",
+        "description": "Developed a student performance indicator using various regression algorithm to predict academic outcomes, performed extensive EDA to uncover significant insights, and implemented an analysis with accuracy of 91%.",
+        "keywords": [
+          "Python",
+          "Sklearn",
+          "Flask",
+          "Jupyter Notebook"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "(code)"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "DataAnalyst Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Yhills Edutech",
+        "description": "Utilized advanced data analysis techniques to extract meaningful insights from large datasets. Developed visually compelling reports and dashboards for effective communications. Collaborated on designing, implementing, and deploying models for enhanced product functionality in edutech.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "OpenCV",
+      "Yolo",
+      "Stable-diffusion",
+      "Langchain",
+      "Llama-Index",
+      "Tensorflow",
+      "MySQL",
+      "Git",
+      "Unix/Linux",
+      "Azure",
+      "Jupyter Notebook",
+      "BeautifulSoup",
+      "Tableau",
+      "Hadoop"
+    ],
+    "soft_skills": [],
+    "name": "NISHANTH P",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Leetcode Solved 500+ problems, achieved highest rating 1612, showcasing advanced coding skills.",
+      "Codechef Attained 2-star rating, reached highest rating 1458 points."
+    ],
+    "publications": []
+  },
+  "current_location": "Chennai, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.E"
+}

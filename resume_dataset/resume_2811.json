@@ -1,0 +1,127 @@
+{
+  "project_count": 5.0,
+  "designation": "Junior",
+  "name": "Mayank Jain",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "I love learning new things and am always on the lookout for new opportunities to develop and grow within my role, whether thats learning new skills, taking on a new project or collaborating with other departments.Im a positive person who likes to excel at what I do, and I think the best way to do that is to constantly challenge myself to learn as much as I can and to perform to the best of my abilities every day.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "06/2024",
+        "maximum_grade": "",
+        "degree": "Computer Science Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.38",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Guru Nanak Dev institute of technology",
+        "endDate": "06/2021",
+        "maximum_grade": "72%",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "74%",
+        "field_of_study": "Computer science",
+        "startDate": ""
+      },
+      {
+        "school": "Swami Hariharanand public school",
+        "endDate": "06/2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Arcade-games",
+        "description": "I tried to build arcade games using html, css, java scripts which includes memory game shooter and tick tac toe among other games.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Gym-management-system",
+        "description": "Built a gym management system using html, css, java script, & bootstrap. It allows the users one stop solution, to manage and browse through all the possible options available as well as choose the desired weight training model. We also have customer reviews on the website for better customer satisfaction.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Trading bot",
+        "description": "Attempted to make a trading bot using bun and typescript. The bot continuously monitors the order books on both exchanges for the specified trading pair. Calculates the best bid and best ask price.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "real time chat module",
+        "description": "Developed in Node.js with WebSocket, this simple chat application enables users to join custom rooms, send messages, and upvote content. Admins can create rooms, set properties, and receive alerts when messages exceed upvote thresholds, fostering interactive and organized real-time communication.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "leetcode-clone",
+        "description": "Developed in Node.js with WebSocket, this simple chat application enables users to join custom rooms, send messages, and upvote content. Admins can create rooms, set properties, and receive alerts when messages exceed upvote thresholds, fostering interactive and organized real-time communication.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English Full Professional Proficiency",
+      "Hindi Native or Bilingual Proficiency"
+    ],
+    "experiences": [],
+    "skills": [
+      "Leadership",
+      "MS Excel",
+      "MS Word",
+      "Object oriented programming",
+      "Java",
+      "Html",
+      "Css",
+      "Javascript",
+      "Bootstrap",
+      "Dbms",
+      "SQL",
+      "Operating systems",
+      "Python",
+      "Machine learning"
+    ],
+    "soft_skills": [],
+    "name": "Mayank Jain",
+    "position": "Junior",
+    "interests": [
+      "Gaming",
+      "Music",
+      "Writing",
+      "Theatre"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Computer Science Engineering"
+}

@@ -1,0 +1,153 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "H A R K U N W A R S I N G H",
+  "college": "MANIPAL UNIVERSITY",
+  "locations": [
+    "JAIPUR, INDIA",
+    "NEW DELHI, INDIA",
+    "Bengaluru, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Project Management Professional Certificate",
+        "issuer": "VERIFY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google IT Support : Professional Certificate",
+        "issuer": "VERIFY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Design for Everybody",
+        "issuer": "VERIFY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Database Foundations",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "JAIPUR, INDIA",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.65",
+        "field_of_study": "Information Technology Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "C.B.S.E.",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "NEW DELHI, INDIA",
+        "ID": 1.0,
+        "grade_received": "PERCENTAGE: 83",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "C.B.S.E.",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "NEW DELHI, INDIA",
+        "ID": 2.0,
+        "grade_received": "PERCENTAGE: 93.8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Crop Recommendation System using Fuzzy Inference System",
+        "description": "Deployed a robust Crop Recommendation System utilizing Fuzzy Inference System (FIS) to assist farmers in making informed decisions about suitable crops. Employed the scikit-fuzzy library to create fuzzy sets, membership functions, and fuzzy rules, enabling the FIS to handle real-world climatic data effectively including 3 more libraries. Established seamless communication between the Python 3.7 FIS backend and the Flask-based website, ensuring accurate data exchange and responsive user interactions.",
+        "keywords": [],
+        "endDate": "May 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Vehicle Speed Control using Machine Learning",
+        "description": "Created a python app to manage the speed of vehicle using Fuzzy Inference System in Machine Learning. Created a Fuzzy Inference System that takes the inputs from the user, normalizes them and gives the output based on the rule base created for the system. Executed a rigorous comparative analysis, pitting the FIS approach against industry-standard speed control systems, highlighting superior energy efficiency and achieving a 35% reduction in operational costs, positioning the company as a leader in sustainable manufacturing practices.",
+        "keywords": [],
+        "endDate": "December 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Trainee",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "HashedIn by Deloitte",
+        "description": "Gained hands-on experience with DevOps tools including GitHub, GitHub Actions, Docker, Kubernetes, Google Cloud Platform, Microsoft Azure, Amazon Web Services, and Terraform. Completed hands-on assignments for each tool, showcasing proficiency in modern DevOps practices. Acquired SDE experience by learning Java and Springboot, React, and GenAI (LangChain and FastAPI). Created an Employee Management System using Java and Springboot with REST APIs for multiple related entities (Employee, Department, Address). Developed front-end applications using React JS and tools such as Redux, RTK Query, Material UI, and Tailwind CSS. Created APIs for a GenAI project to utilize user-provided data in various formats (e.g., .txt, .docx, .xls), SERP API, and SQL queries to answer user questions using gpt-3.5-turbo via FastAPI. Developed a full-stack Train Reservation System using Java and Spring Boot (backend), and React JS (frontend) with various libraries including Charts.js, Material UI, and Tailwind CSS. Implemented functionalities like user authentication (JWT tokens), booking management, train scheduling, revenue and usage graphs, session timeouts, and more.",
+        "location": "Bengaluru, India",
+        "links": "",
+        "startDate": "April 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "React",
+      "Spring Boot",
+      "MySQL",
+      "PostgreSQL",
+      "GitHub",
+      "GitHub Actions",
+      "Docker",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Microsoft Azure",
+      "Amazon Web Services",
+      "Terraform",
+      "LangChain",
+      "FastAPI"
+    ],
+    "soft_skills": [],
+    "name": "H A R K U N W A R S I N G H",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

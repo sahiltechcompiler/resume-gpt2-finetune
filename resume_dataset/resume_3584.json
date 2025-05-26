@@ -1,0 +1,102 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Prince Kumar Rai",
+  "college": "Dr. A. P. J. Abdul Kalam Technical University",
+  "locations": [
+    "Lucknow, UP",
+    "Varanasi, U.P",
+    "Ghaziabad, UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A. P. J. Abdul Kalam Technical University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.5 GPA",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CRYPTO-BYTE(Team-Project)",
+        "description": "Developed a high-impact crypto tracking platform using React.js, Chart.js, and Material UI, resulting in 30% higher user engagement and 20% lower bounce rate for rapid decision-making in the volatile cryptocurrency market. Engineered a backend system for in-depth analysis of 200+ cryptocurrencies, featuring sorted lists based on market cap and detailed insights into rank and market cap. Integrated temporal analysis functionalities, enabling users to visualize crypto performance over 24 hours, a week, a month, and a year for a comprehensive market perspective.",
+        "keywords": [
+          "React",
+          "Material UI",
+          "Chart JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "link"
+      },
+      {
+        "name": "TESLA CLONE",
+        "description": "Designed an interactive user interface (UI) that replicates 10% of Tesla websites functionality and aesthetics. Implemented React to drive efficient and reusable component development, resulting in a 20% reduction in code duplication and enhancing project maintainability. Utilized Vites speedy build tool to enhance performance, resulting in a 50% improvement in loading times and delivering a faster, more immersive user experience. Ensured mobile responsiveness for the Tesla clone, enhancing accessibility and visual appeal across diverse devices.",
+        "keywords": [
+          "Vite",
+          "ReactJs",
+          "HTML",
+          "Tailwind"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web developer Intern",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "KOINBASKET",
+        "description": "Enhanced web app performance by incorporating the ReactJS framework, resulting in a 40% reduction in page load time and heightened user satisfaction. Strengthened web application security by 20% through the implementation of user authentication and authorization using JWT tokens. Collaborated effectively with cross-functional teams, resolved complex issues and ensured 2x faster project delivery. Improved website load times by 20% through code optimization and performance enhancements.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Feb 2023"
+      },
+      {
+        "role_name": "Project-based Internship",
+        "skillsUsed": [],
+        "endDate": "Sep 2022",
+        "company_name": "IIPC KIET",
+        "description": "Developed a web application and integrated 50+ real-time contest data via APIs. Utilized over 3 technologies to develop the web app, showcasing versatility in tool selection and implementation. Conducted testing and quality assurance to ensure the web applications functionality and performance by 40%. Collaborated with 3 team members and also gained valuable hands-on experience in web development and project management, further enhancing my technical skills.",
+        "location": "Ghaziabad, UP",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Prince Kumar Rai",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded a prestigious Rs. 200000/- by HDFC for outstanding academic and extracurricular performances.",
+      "Received SSB recommendation for 2021 batch, unfortunately medically disqualified due to eye vision.",
+      "Dedicated over 1 year to consistently solving 600+ Data Structures and Algorithms problems on LeetCode, showcasing a strong commitment to technical skill enhancement.",
+      "Achieved 2-star with Rating - 1519, out of 4000 students in CODECHEFs Starters 98 contest.",
+      "Achieved 2nd rank in QUIZOPEDIA 2022 by Classroom Study, with a strong grasp of relevant subject."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

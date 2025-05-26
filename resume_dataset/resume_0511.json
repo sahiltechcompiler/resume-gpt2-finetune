@@ -1,0 +1,204 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Abhinav Verma",
+  "college": "Manipal University",
+  "locations": [
+    "Gurugram, Haryana",
+    "Jaipur, Rajasthan",
+    "Dehradun, Uttarakhand"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and analysis of algorithm",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "FinTech and the Transformation in Financial Services",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MATLAB Onramp",
+        "issuer": "UDEMY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Information Theory and Error Control Coding Crash Course",
+        "issuer": "UDEMY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "ORACLE Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Enterprise-grade AI",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Volunteered in NSS (National Service Scheme), Manipal University Jaipur (2021-2022), contributing over 80+ service hours.",
+      "Led a team of 30+ volunteers during a successful blood donation camp organized by Rotaract of Manipal University Jaipur.",
+      "Contributed to the planning and execution of Onerios 2023, the largest annual fest at Manipal University Jaipur."
+    ],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": ""
+      },
+      {
+        "school": "Meenakshi Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Meenakshi Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "78%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automatic Number Plate Recognition (ANPR)",
+        "description": "-Developed and deployed an automatic number plate recognition system using YOLOv8 and OpenCV OCR; -Then integrated it into a web application with Flask, achieving 95% license plate recognition accuracy and reducing manual entry by 80%.",
+        "keywords": [
+          "Python",
+          "Machine learning",
+          "YOLOv8",
+          "OCR",
+          "Flask"
+        ],
+        "endDate": "08/2024",
+        "startDate": "06/2024",
+        "url": ""
+      },
+      {
+        "name": "Teachers Record Management System",
+        "description": "-Engineered a user-friendly web application with XAMPP to streamline teacher record management, enhancing communication, which led to a 40% improvement in data accuracy and operational efficiency for staff.",
+        "keywords": [
+          "HTML5",
+          "CSS3",
+          "Javascript",
+          "PHP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Plant disease Classification Using Domain Adaptive Feature Extraction (Unpublished)",
+        "description": "-Fine-tuned ResNet50 model that achieved a validation accuracy of 94% and a test accuracy of 92% using custom large dataset outperforming the direct ResNet50 model, which achieved 92% validation accuracy and 91% test accuracy.",
+        "keywords": [
+          "Python",
+          "ML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "T-SQL",
+          "MSSQL Server",
+          "SQL Server Management Studio"
+        ],
+        "endDate": "",
+        "company_name": "Scalability Engineers Pvt. Ltd.",
+        "description": "Database Design and Development: Developed various database objects such as tables, functions, stored procedures, triggers, and views using T-SQL as per requirements. SQL Query Optimization: Improved query performance by analyzing and optimizing T-SQL and SQL queries, leading to a 20% decrease in execution time and a 15% boost in database efficiency. Technical Proficiency: Gained proficiency in using MSSQL Server and SQL Server Management Studio for database management and development.",
+        "location": "Gurugram, Haryana",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "HTML5/CSS3",
+      "MySQL",
+      "Js",
+      "ReactJs",
+      "T-SQL"
+    ],
+    "soft_skills": [],
+    "name": "Abhinav Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Gurugram, Haryana",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

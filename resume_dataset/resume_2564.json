@@ -1,0 +1,156 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Amaan Alam",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Pilibhit",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "7.00",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Kendriya Vidyalaya",
+        "endDate": "April 2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "Pilibhit",
+        "ID": 1.0,
+        "grade_received": "63.4",
+        "field_of_study": "CBSE (Class XII)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Coffee Store Website",
+        "description": "Created a sleek coffee store website with React, enabling seamless browsing, ordering, and secure payments. Enhanced customer experience with cart management, login authentication, and include intuitive product browsing, secure payment processing, and smooth user experience.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Mongo DB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "CloudInc (Gamify video conferencing app)",
+        "description": "Developed a video conferencing platform integration Among Us to boost engagement and enjoyment during virtual meetings. This innovative feature enhances user experience by blending communication with interactive gameplay, making the platform ideal for both educational and professional settings.",
+        "keywords": [
+          "React/Redux",
+          "Phaser3",
+          "Colyseus",
+          "PeerJS",
+          "TypeScript"
+        ],
+        "endDate": "",
+        "startDate": "September 2022",
+        "url": "Github Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web Development",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Java Script",
+          "Github",
+          "DBMS",
+          "SQL",
+          "React",
+          "Node js"
+        ],
+        "endDate": "September 2023",
+        "company_name": "BHARATINTERN",
+        "description": "Created a video conferencing website, achieving a substantial 2.5x speed increase and a 40% satisfaction boost by optimizing load times from 5 to 2 seconds through coroutines, Room Database, and API integration.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "August 2023"
+      },
+      {
+        "role_name": "DSA Apprenticeship - The Uplift Project",
+        "skillsUsed": [
+          "Python",
+          "Java",
+          "Data structures and algorithms",
+          "Problem-solving"
+        ],
+        "endDate": "April 2023",
+        "company_name": "",
+        "description": "Enhanced code efficiency by optimizing over 10 data structures, resulting in an average improvement of 30%. Acquired valuable insights into algorithms under the mentorship of professionals from IITs and IIMs. Achieved a remarkable 97% reduction in algorithm execution time, from 1300 ms to 35 ms, through innovative approaches involving tree, trie, graphs, DP - critical for real-life software engineering applications.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "XML",
+      "MySQL",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Mongo DB",
+      "SQL",
+      "DBMS",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular",
+      "Vite",
+      "GitHub",
+      "SQL Data Tool",
+      "Power BI"
+    ],
+    "soft_skills": [
+      "Agility",
+      "Teamwork",
+      "Leadership",
+      "Public Speaking",
+      "Problem solving",
+      "Adaptability",
+      "Flexible",
+      "Decision Making",
+      "Reliability",
+      "Self-motivated",
+      "Fast-paced",
+      "Verbal and written communication",
+      "Emotional Intelligence",
+      "Creativity"
+    ],
+    "name": "Amaan Alam",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved India Rank 77 in Weekly Contest 336 with a maximum rating of 1500+.",
+      "Xiomi Ode2code: Software Development Quiz by Xiomi. Certificate",
+      "Flipkart Grid 5.0: Go to level 1.1 in FlipKart hackathon. Certificate",
+      "Data Dive: The Ultimate Datathon: Its hackathon. Certificate"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

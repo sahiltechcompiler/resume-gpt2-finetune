@@ -1,0 +1,168 @@
+{
+  "project_count": 3.0,
+  "designation": "Aspirant ML Engineer",
+  "name": "KAMUJU SHYAM SATYA MANIKANTA PAVAN",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, IN",
+    "Rajahmundry, IN",
+    "Punjab, IN"
+  ],
+  "full_output": {
+    "summary": "Versatile and skilled developer with expertise in HTML5, CSS3, Git, UI design, and JavaScript for web development. Additionally, programming proficiency in Java and Python, particularly in the context of machine learning. This combination of front- end development, version control, and machine learning skills showcases a well- rounded and adaptable developer capable of tackling diverse projects across both web development and advanced programming domains.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Workshop on Machine Learning with Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Python Programming for Everyone Immersive Training, Udemy",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Artificial Intelligence",
+        "issuer": "Simplilearn",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Phagwara, IN",
+        "ID": 0.0,
+        "grade_received": "7.8",
+        "field_of_study": "Computer Science",
+        "startDate": "Sep'21"
+      },
+      {
+        "school": "Tirumala junior college",
+        "endDate": "Mar '21",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Rajahmundry, IN",
+        "ID": 1.0,
+        "grade_received": "9.47",
+        "field_of_study": "",
+        "startDate": "Jun '19"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developed a Movie recommendation system using a sklearn libraries.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "NLP",
+          "EDA",
+          "Web Scraping",
+          "HTML5",
+          "CSS3",
+          "Tkinter",
+          "MYSQL",
+          "Tableau",
+          "MS-Excel",
+          "Git"
+        ],
+        "endDate": "Apr24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SMS Classifier",
+        "description": "Preprocessed the text data using NLP techniques like removing stop words. Converted the text into vector form using TfIdf vectorizer. Fit this data to the Nave Bayes algorithm. Created the user interface using Streamlit for this project.",
+        "keywords": [
+          "Machine Learning",
+          "NLTK",
+          "Naive_bayes",
+          "Streamlit"
+        ],
+        "endDate": "Apr24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Airlines Analysis",
+        "description": "Analyzed occupancy rates to identify and improve underperforming aircraft, enhancing revenue potential. Calculated potential revenue gains, identifying high-impact opportunities like a $562M increase for SU9. Created visualizations to communicate insights and support decisions on aircraft performance and fare strategies.",
+        "keywords": [
+          "Data analysis",
+          "Python",
+          "SQLlite"
+        ],
+        "endDate": "Jul23",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [
+          "Machine Learning",
+          "Data Handling"
+        ],
+        "endDate": "Jul '22",
+        "company_name": "L P U",
+        "description": "Gained hands-on experience in handling the data, about the Predicting future Bangalore house prices using machine learning model model building. After building the model install this model in the web technology.",
+        "location": "Punjab, IN",
+        "links": "",
+        "startDate": "Jun'22"
+      }
+    ],
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "Git",
+      "UI design",
+      "Java",
+      "Python",
+      "Machine Learning",
+      "Data Science",
+      "NLP",
+      "EDA",
+      "Web Scraping",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Spacy",
+      "Scikit-learn",
+      "NLTK",
+      "MYSQL",
+      "Tableau",
+      "MS-Excel"
+    ],
+    "soft_skills": [],
+    "name": "KAMUJU SHYAM SATYA MANIKANTA PAVAN",
+    "position": "Aspirant ML Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 150+ problems in Leetcode which includes the concepts of DSA, Python and MySQL",
+      "Attained a 5-star rating in MySQL Proficiency on Hacker Rank."
+    ],
+    "publications": []
+  },
+  "current_location": "Amalapuram, Andhra Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

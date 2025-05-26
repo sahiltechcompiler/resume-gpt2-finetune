@@ -1,0 +1,180 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kandula Navya",
+  "college": "SRM University, AP",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hackerrank Python Basic",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hackerrank SQL Basic",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hackerrank Problem Solving Basic",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Forage[JPMorgan Chase and Co.] Excel",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Infosys Springboard Java",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "2025",
+        "maximum_grade": "Score: 951/1000",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4/10",
+        "field_of_study": "CSE with a specialization in AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Gayatri",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Score: 446/500",
+        "field_of_study": "Board of Intermediate Education",
+        "startDate": "2019"
+      },
+      {
+        "school": "Vs. St. Johns Hr.Sec.School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "CBSE",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "2048 Game",
+        "description": "Developed the classic 2048 game using Python. Implemented the game logic and user interface, allowing players to merge tiles to reach the 2048 tile. Used Pythons object-oriented programming concepts to develop the game logic.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Tin Dog Website",
+        "description": "Developed Tin Dog website using HTML, CSS, and Bootstrap. Created a modern and visually appealing website for meeting new and interesting dogs nearby. Utilized Bootstraps responsive design features to ensure compatibility across different devices and screen sizes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Result Management",
+        "description": "Designed and implemented online application that manages student results, personal data, and keeps track of newly registered records. Utilized technologies like Java, JDBC, Servlets and MySQL were used for the backend operations between the server and database. The front-end User-Interface(dashboard) application was designed using HTML, CSS and JS.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Developer",
+        "skillsUsed": [
+          "Python",
+          "Streamlit",
+          "CSS"
+        ],
+        "endDate": "June 2024",
+        "company_name": "MIQ Digital",
+        "description": "Developed a tool using Python, Streamlit, and CSS. This tool enables businesses to visualize data, apply machine learning models, and gain insights into key operational drivers. It supports first-party data integration at the zip code level and allows users to select target variables flexibly.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "Django",
+          "HTML",
+          "CSS",
+          "Bootstrap"
+        ],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "Implemented a Student Leave Management System using Django, HTML, CSS, and Bootstrap. Implemented frontend and backend functionalities according to project requirements and design specifications.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Javascript",
+      "MySQL",
+      "VSCode",
+      "Eclipse"
+    ],
+    "soft_skills": [
+      "Communication Skills",
+      "Leadership",
+      "Problem Solving"
+    ],
+    "name": "Kandula Navya",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

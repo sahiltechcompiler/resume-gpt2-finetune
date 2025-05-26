@@ -1,0 +1,143 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "C V Tarun",
+  "college": "SRM University-AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University-AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "TSBIE",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mental Health Chatbot",
+        "description": "Developed a chatbot platform providing resources and support for mental health, utilizing Dialogflow to integrate external APIs and recommend curated content, improving resource accessibility by 25%. Created an empathetic interface with tailored responses and planned enhancements such as user profiling and guided exercises, increasing user engagement by 20%.",
+        "keywords": [
+          "React.js",
+          "HTML",
+          "Tailwind CSS",
+          "Express.js",
+          "MongoDB",
+          "REST API",
+          "Dialogflow (Google Cloud Platform)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "[View Project]"
+      },
+      {
+        "name": "Blog Posting App",
+        "description": "Created and launched a comprehensive blog posting platform featuring TinyMCE for rich text editing, increasing text editing efficiency by 80%, and integrated full user authentication for 100% secure access and seamless user management. Integrated Appwrite for backend services, boosting data management efficiency by 70%, and employed React.js with Redux for state management across the frontend, increasing component efficiency by 60%.",
+        "keywords": [
+          "React.js",
+          "Redux",
+          "Appwrite",
+          "TinyMCE",
+          "React Hook Form",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Alzheimers Detection with ML Model Evaluation",
+        "description": "Improved Alzheimers detection by 10% using KNN, Random Forest, Decision Tree, and SVM. Reduced training time by 15% with Crow and Grid Search Algorithms. Increased prediction reliability by 20% with optimized CNN vs. traditional models. Demonstrated machine learning and deep learning skills.",
+        "keywords": [
+          "Python",
+          "PyTorch",
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "NestJS",
+          "Vue.js",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "endDate": "Present",
+        "company_name": "Salesine",
+        "description": "Collaborating on the development of a company product using NestJS and Vue.js, with a focus on creating scalable and efficient solutions.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2024"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [
+          "Python",
+          "PyTorch",
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "endDate": "Sep 2023",
+        "company_name": "SRM University AP",
+        "description": "Developed and optimized melanoma classification models using Resnet, Densenet, and Resnext CNN variants, achieving Implemented key metrics like Regularization and Random Sampling to enhance a 15% improvement in accuracy. performance with balanced and unbalanced datasets. Refined CNN architectures with a dedicated team, achieving a 20% reduction in training time and enhancing model reliability, using Python and PyTorch to improve skin cancer image classification accuracy significantly.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "JavaScript",
+      "React.js",
+      "Vue.js",
+      "PostgreSQL",
+      "MongoDB",
+      "Node.js",
+      "Express.js",
+      "NestJs",
+      "Machine Learning",
+      "Deep Learning",
+      "PyTorch",
+      "Dialogflow (Google Cloud Platform)"
+    ],
+    "soft_skills": [],
+    "name": "C V Tarun",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

@@ -1,0 +1,150 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Chinmey Jain",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan, India",
+    "Bengaluru, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certified Ethical Hacker",
+        "skillsLearned": [],
+        "title": "CEH v12",
+        "issuer": "EC-Council",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat System Administration I (RH124) & II (RH134)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations - Oracle",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "August 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "8.52/10",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "August 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CybrSecure - Cyber Crime Reporting Portal",
+        "description": "Innovated the CybrSecure system with full-stack technologies including HTML, CSS, JavaScript, PHP, and MySQL; improved user awareness by 33% and streamlined cybercrime reporting processes, reducing incident response time by 25%. Incorporated a secure community forum focused on discussing the latest cyber trends and threats, accessible exclusively to authenticated users, resulting in a 40% increase in user engagement. Integrated NewsAPI for real-time cybersecurity news updates, fostering community engagement and education, increasing user interaction by 25%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Bootstrap",
+          "PHP",
+          "MySQL",
+          "NewsAPI"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Keylogger Project - Threat Detection Software",
+        "description": "Engineered a Python based keylogger with os, smtplib, pynput, email, and win32clipboard libraries, incorporating Knuth-Morris-Pratt algorithm for string matching, enhancing threat detection accuracy and reducing false positives by 40%. Implemented automated keystroke monitoring every 30 minutes, analyzing logs for suspicious patterns and sending detailed email alerts to the system administrator, resulting in a 50% improvement in monitoring efficiency. Optimized log file management and implemented threaded operations; enabled discreet and efficient background security monitoring, resulting in a 30% reduction in system downtime and faster threat detection.",
+        "keywords": [
+          "Python",
+          "Libraries"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Doctryy - Medical Store Management Website",
+        "description": "Developed an online medical store management system with secure purchases and timely deliveries, enabling pharmacists to manage inventory and orders, increasing efficiency by 70% and reducing stockouts by 60%. Integrated real-time inventory tracking, an admin panel for monitoring 100+ sales transactions daily, and a notification system for order updates, enhancing user experience and operational control by 80%. Secured data security and privacy compliance with encryption and secure login protocols, protecting over 1,000 transactions and 500 user profiles, maintaining a 0% data breach rate.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Bootstrap",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "March 2023",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Accenture",
+        "description": "Process Automation: Collaborated to Accenture Internal project, automating business processes and vehicle systems, resulting in a 35% increase in efficiency and a 15% boost in overall productivity. Practical Application: Developed Android applications using theoretical knowledge as standalone or plugin options for software-defined vehicles, enhancing utility by 10%. Performance Optimization: Contributed to optimising processes, achieving a 20% reduction in project delivery time and gaining hands-on experience with industry-standard tech stacks.",
+        "location": "Bengaluru, India",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "Html5",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "PHP",
+      "Django",
+      "GitHub",
+      "VS Code",
+      "Android Studio",
+      "XAMPP",
+      "Linux",
+      "WireShark",
+      "Burp Suite",
+      "Data Structures",
+      "Algorithms",
+      "Android Development",
+      "Cyber Security",
+      "Data Security",
+      "Network Security"
+    ],
+    "soft_skills": [],
+    "name": "Chinmey Jain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "MUJ HackX: Ranked 4th out of 180+ teams and over 1000 participants",
+      "Received Deans List of Academic Excellence Award twice in a row for scoring 9+ GPA"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

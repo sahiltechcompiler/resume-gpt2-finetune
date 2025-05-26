@@ -1,0 +1,228 @@
+{
+  "project_count": 5.0,
+  "designation": "Full-Stack Web Developer",
+  "name": "Thummala Pramod Kumar",
+  "college": "Vignans Institute of Information Technology",
+  "locations": [
+    "Visakhapatnam, India",
+    "Srikakulam"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic B.Tech student passionate about full-stack web development. With a solid foundation in both front-end and back- end technologies, I am committed to build innovative and user-friendly web applications. My academic journey and hands-on projects have honed my skills in creating seamless and efficient solutions, ensuring an exceptional user experience. I am eager to contribute my dedication and expertise to a dynamic team, impactful projects and drive business success. Seeking a challenging opportunity to apply my full-stack development skills in a collaborative environment that values creativity and growth.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React.js Certification",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advanced Python Programming",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Salesforce Developer Certification",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vignans Institute of Information Technology",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (B.Tech)",
+        "location": "Visakhapatnam, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.0/10",
+        "field_of_study": "Artificial Intelligence and Data Science (AI&DS)",
+        "startDate": ""
+      },
+      {
+        "school": "Govt. Polytechnic College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Srikakulam",
+        "ID": 1.0,
+        "grade_received": "CGPA: 8.8/10",
+        "field_of_study": "Computer Science and Engineering (CME)",
+        "startDate": ""
+      },
+      {
+        "school": "Pollocks School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary School (SSC)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 9.3/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Full-Stack MERN Blog",
+        "description": "Developed a comprehensive blog platform utilizing the MERN stack (MongoDB, Express.js, React.js, Node.js). The application features dynamic article management and a commenting system, allowing users to view, interact with, and comment on blog content. Comments are displayed under each article, and newly added comments appear below the existing ones. The site is fully responsive, ensuring compatibility across various devices and screen sizes. Successfully deployed on Vercel.",
+        "keywords": [
+          "MongoDB",
+          "Express.js",
+          "React.js",
+          "Node.js",
+          "Javascript",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://full-stack-mern-blog-liard.vercel.app"
+      },
+      {
+        "name": "Full-Stack Website Development for Maav Solutions",
+        "description": "Developed a Full-Stack dynamic website for a startup company called Maav Solutions. Successfully deployed on the internet, the website is smooth, responsive, and compatible with various devices and resolutions.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "Python (Flask)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "www.maavsolutions.com"
+      },
+      {
+        "name": "Digital Solutions for Digital Life",
+        "description": "Designed and developed a responsive website for Digital Solutions for Digital Like, a software services company. The site features a clean, professional design and user-friendly navigation, reflecting the companys brand. The client was extremely satisfied with the results, and the project significantly enhanced my front-end development skills.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "www.digitalsolutionsfordigitallife.com"
+      },
+      {
+        "name": "AI-Powered Chatbot",
+        "description": "Developed an advanced chatbot leveraging natural language processing for effective customer support. Implemented with the OpenAI API to understand and respond to user queries in a conversational manner. Integrated seamlessly with backend systems to provide real-time, contextually relevant interactions. The chatbot enhances user experience by offering prompt, accurate responses and streamlined support.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "OpenAI API",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Plant Disease Detector using Deep Learning",
+        "description": "Developed a convolutional neural network (CNN) model achieving 87.3% accuracy in identifying plant diseases from plant leaf images.Utilized transfer learning and data augmentation techniques for improved performance and better results.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "scikit-learn",
+          "Streamlit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Internship",
+        "skillsUsed": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Java",
+          "JavaScript",
+          "MySQL"
+        ],
+        "endDate": "",
+        "company_name": "Visakhapatnam Port Authority",
+        "description": "Developed an Inventories Management System with real-time data synchronization, OTP authentication for added security, and a user-friendly interface. Enhanced the systems scalability and performance through responsive design and efficient backend architecture.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Salesforce Developer Internship",
+        "skillsUsed": [
+          "Salesforce platform",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "company_name": "Smart Internz",
+        "description": "Completed various Salesforce Trailhead modules including Salesforce Fundamentals, Organizational Setup, Relationship & Process Automation, Types Of Flows & Security, Apex, Testing & Debugging, VS Code Setup & CLI Setup, Lightning Web Components (LWC) & API, Super Badge - Apex Specialist, and Super Badge - Developer Super Set.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap",
+      "React JS",
+      "Angular JS",
+      "Python",
+      "Java",
+      "C",
+      "Node.js",
+      "Flask",
+      "Django",
+      "MySQL",
+      "SQL Server",
+      "MongoDB",
+      "Git",
+      "VS Code",
+      "Jupyter Notebook",
+      "Tableau",
+      "Power BI"
+    ],
+    "soft_skills": [],
+    "name": "Thummala Pramod Kumar",
+    "position": "Full-Stack Web Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Second Prize in National Level Tech Fest for App Design",
+      "Social Media Handler, OWASP-VIIT Student Chapter",
+      "Organized Workshops for 100+ students on Data Science and Web Development"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology (B.Tech)"
+}

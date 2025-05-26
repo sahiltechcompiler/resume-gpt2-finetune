@@ -1,0 +1,171 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "MO PARVESH",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, Uttar Pradesh, India - 201306",
+    "Surajpur Greater Noida, Greater Noida, Uttar Pradesh, India - 201306"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Coursera",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database And SQL for Data Science with Python",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Coursera",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structure",
+        "issuer": "University of California San Diego",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Coursera",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning With Python",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.Tech(LE)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "63 / 100",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Mahatma Jyotiba Phule Rohilkhand University, Bareilly",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Bachelor of science",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "57.33 /100",
+        "field_of_study": "mathematics & statistics",
+        "startDate": ""
+      },
+      {
+        "school": "Goverment inter college lahravan sambhal, Chandausi",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "68 / 100",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Goverment higher secondary school lahravan sambhal, Chandausi",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "82 / 100",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Air Quality Index Analysis in Delhi",
+        "description": "Conducted a comprehensive analysis of the Air Quality Index (AQI) in Delhi, a city known for its significant air pollution challenges. The project involved gathering real-time and historical air quality data from government sources, analyzing trends, and identifying key contributors to air pollution in the region.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "seaborn",
+          "matplo",
+          "matplotlib",
+          "Time Series Analysis"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Heart Disease Prediction using Machine Learning",
+        "description": "Developed a predictive model to assess the likelihood of heart disease based on medical attributes including age, sex, blood pressure, cholesterol levels, and other relevant factors. Utilized Python and machine learning libraries such as Scikit-learn and Pandas for data preprocessing, model training, and evaluation. Deployed the model using Flask, enabling real-time predictions via a web interface. Conducted thorough analysis and visualization of data insights using Matplotlib and Seaborn.",
+        "keywords": [
+          "Logistic Regression",
+          "Random forest",
+          "Decision Trees",
+          "Matplotlib",
+          "seaborn",
+          "Gred",
+          "Gradient Boosting",
+          "XG Boost models"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Urdu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web devlopement",
+        "skillsUsed": [],
+        "endDate": "10 Oct, 2023",
+        "company_name": "Bharat intern",
+        "description": "Collaborated on front-end and back-end development of responsive websites, gaining proficiency in HTML, CSS, JavaScript, and assisting in deployment and optimization tasks.",
+        "location": "",
+        "links": "",
+        "startDate": "10 Sep, 2023"
+      }
+    ],
+    "skills": [
+      "DBMS",
+      "SQL",
+      "Operating Systems",
+      "Data Structures",
+      "Computer Networking",
+      "Machine Learning",
+      "Data Analytics",
+      "Knime",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "Tableau",
+      "Power BI"
+    ],
+    "soft_skills": [],
+    "name": "MO PARVESH",
+    "position": "",
+    "interests": [
+      "Playing Cricket",
+      "Travelling",
+      "cooking"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Surajpur Greater Noida, Greater Noida, Uttar Pradesh, India - 201306",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech(LE)"
+}

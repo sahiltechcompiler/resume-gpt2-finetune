@@ -1,0 +1,199 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "T Anjani",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Mumbai, India",
+    "Punjab, India",
+    "Hyderabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Excel Skills for Business",
+        "issuer": "Macquarie University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "R Programming",
+        "issuer": "Johns Hopkins University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Bits and Bytes of Computer Networking",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Unity and C# basics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Fundamentals of Visualization",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Visualization with Tableau",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Greedy Algorithms, Minimum Spanning Trees and Dynamic Programming",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "Board Infinity",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Punjab, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.2",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "March 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Hyderabad, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 87.8%",
+        "field_of_study": "",
+        "startDate": "April 2019"
+      },
+      {
+        "school": "St.Peters Model School",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Hyderabad, India",
+        "ID": 2.0,
+        "grade_received": "Percentage: 89.5%",
+        "field_of_study": "",
+        "startDate": "April 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chat Application",
+        "description": "Developed a real-time chat application supporting user registration, login, and encrypted password storage with JWT authentication and MongoDB for data storage. Enabled users to search for contacts, retrieve chat history, and set their status to \"BUSY\" or \"AVAILABLE,\" affecting message receipt based on status. Integrated real-time communication with Socket.io and utilized Google Gemini for generating LLM responses.",
+        "keywords": [
+          "HTML",
+          "JS",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Socket.io"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Cricket World Cup Analysis Dashboard",
+        "description": "Developed a comprehensive Tableau dashboard for the ICC Cricket World Cup 2023, providing real-time, interactive visualizations and detailed analysis of player performances and team statistics. Integrated and cleaned data from Kaggle to explore top batsmen, leading wicket-takers, and team statistics. Utilized advanced analytics to provide insights into match trends, player consistency, and stadium impacts.",
+        "keywords": [
+          "Tableau"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Exam Management System",
+        "description": "Created a robust web-based Exam Management System facilitating seamless administration, organization, and monitoring of exams, improving overall efficiency. Implemented a user-friendly interface for the system, prioritizing an intuitive design that enhances the user experience for both administrators and exam takers Integrated stringent data security protocols into the system, ensuring the confidentiality and integrity of exam-related information, meeting the highest standards for secure online examination platforms.",
+        "keywords": [
+          "HTML5",
+          "CSS",
+          "Js",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "July 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [
+          "Excel",
+          "Tableau"
+        ],
+        "endDate": "Mar 2022",
+        "company_name": "Indika AI",
+        "description": "Produced vital insights through impactful visualizations, empowering teams to make data-driven decisions. Collaborating on cross-functional teams, ensured data accuracy to maintain quality standards.",
+        "location": "Mumbai, India",
+        "links": "",
+        "startDate": "Jan 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "R"
+    ],
+    "soft_skills": [],
+    "name": "T Anjani",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Runner-up in BlockBash Hackathon Apr 2024",
+      "5 Star Coder in Hacker Rank"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

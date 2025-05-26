@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Saroyar Hossain Shaikh",
+  "college": "Jalpaiguri Government Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Jalpaiguri Government Engineering College",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.1 CGPA",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "LingoQuiz",
+        "description": "Developed a full-stack Quiz app project featuring a RESTful API and JWT authentication, designed specifically as a language-learning platform. Implemented functionality for users to play quizzes, with their scores stored in the database. Enhanced the user experience with a dashboard displaying rankings for every user.",
+        "keywords": [
+          "Node",
+          "MongoDB",
+          "Express",
+          "React",
+          "Redux"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Live:LingoQuiz"
+      },
+      {
+        "name": "The-news",
+        "description": "Build a blog website facilitating users to share their thoughts. The platform incorporates user authentication for every action, ensuring a secure environment. Users can engage with other posts through actions such as likes and comments.",
+        "keywords": [
+          "Node",
+          "MongoDB",
+          "Express",
+          "React",
+          "Redux"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Live:TheNews"
+      },
+      {
+        "name": "Ecommerce",
+        "description": "Expanded upon this e-commerce project by developing a comprehensive website, encompassing product listings, intuitive shopping cart functionalities and seamless payment integration.",
+        "keywords": [
+          "Node",
+          "MongoDB",
+          "Express",
+          "React",
+          "Redux"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "05/2024",
+        "company_name": "Hoichoi",
+        "description": "I am involved in a project we are developing from scratch. I have contributed to both the backend and front-end design and development.",
+        "location": "",
+        "links": "",
+        "startDate": "04/2024"
+      },
+      {
+        "role_name": "Software Development Engineer Intern",
+        "skillsUsed": [
+          "JavaScript",
+          "Nodejs"
+        ],
+        "endDate": "05/2023",
+        "company_name": "CodeInbound",
+        "description": "Seized a valuable opportunity to collaborate with Code-Inbound, where I contributed to the development of authentication models and response models for various functions. Additionally, I worked on middleware components and gained hands-on experience with Git and GitHub.",
+        "location": "",
+        "links": "",
+        "startDate": "03/2023"
+      },
+      {
+        "role_name": "Node.js Development Intern",
+        "skillsUsed": [
+          "JavaScript",
+          "Nodejs",
+          "MongoDB"
+        ],
+        "endDate": "08/2023",
+        "company_name": "Celebal Technologies",
+        "description": "Participated in the Celebel summer internship program, gaining hands-on experience with Javascript and its frameworks under mentor supervision. Contributed to the program by designing a backend web service for an e-commerce website.",
+        "location": "",
+        "links": "",
+        "startDate": "06/2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "Visual Studio Code",
+      "GitHub",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "Express.js",
+      "Git",
+      "MongoDB",
+      "React",
+      "Redux"
+    ],
+    "soft_skills": [],
+    "name": "Saroyar Hossain Shaikh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved top rankings in various coding contests and solved 800+ DSA problems.",
+      "314 rank in codevita round 2"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Science"
+}

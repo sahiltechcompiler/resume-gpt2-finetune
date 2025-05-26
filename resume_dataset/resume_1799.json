@@ -1,0 +1,121 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Piyush Mishra",
+  "college": "Kiet Group of institutions(AKTU)",
+  "locations": [
+    "Lucknow",
+    "Delhi-NCR, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Kiet Group of institutions(AKTU)",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Lucknow",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "Lucknow Public School",
+        "endDate": "March 2020",
+        "maximum_grade": "",
+        "degree": "Intermediate-CBSE",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "April 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Flixify",
+        "description": "Engineered a cutting-edge Netflix clone, Flixify, utilizing React.js and Tailwind CSS, achieving a loading speed boost of 35% compared to the original platform. Integrated Firebase authentication seamlessly, resulting in a 50% reduction in login time and enhancing user account security with advanced encryption protocols. Integrated Rapid API for rapid movie fetching, YouTube API for seamless video playback, and GPT API for personalized movie suggestions, boosting user engagement by 25%.",
+        "keywords": [
+          "React.js",
+          "Firebase",
+          "Tailwind CSS",
+          "Open AI GPT-3.5 API"
+        ],
+        "endDate": "December 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TastyHub",
+        "description": "Crafted TastyHub with React.js and Tailwind CSS, achieving a 30% faster loading speed via lazy loading. Integrated Swiggys live API for real-time updates, cutting order processing time by 30%. Seamlessly integrated payment gateways and geolocation, boosting order accuracy by 25%.",
+        "keywords": [
+          "React.js",
+          "Swiggy live API",
+          "Tailwind CSS"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Intern",
+        "skillsUsed": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "React.js"
+        ],
+        "endDate": "June 2023",
+        "company_name": "LinkedIn",
+        "description": "Leveraged Node.js and Express.js for seamless backend development, ensuring efficient database connectivity and rapid API response times. Utilized MongoDB with Mongoose ORM to facilitate agile data storage and retrieval, enhancing scalability and performance for concurrent user requests. Implemented robust input validation and sanitization using React.js forms, mitigating security vulnerabilities such as SQL injection and XSS attacks. Employed asynchronous processing with async/await in JavaScript, optimizing server-side operations and enhancing user experience through reduced latency.",
+        "location": "Delhi-NCR, India",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Front End Developer Intern",
+        "skillsUsed": [
+          "React.js",
+          "Tailwind CSS",
+          "Formik"
+        ],
+        "endDate": "August 2022",
+        "company_name": "Internshala",
+        "description": "Employed React.js with Tailwind CSS to craft sleek and responsive forms, enhancing user engagement and reducing bounce rates by 25%. Leveraged Formik library to streamline form handling, achieving a remarkable increase in submission accuracy by 30% through automated validation and error feedback mechanisms. Implemented dynamic form generation and conditional rendering techniques, reducing development time by 40% and allowing for seamless adaptation to evolving user requirements. Demonstrated effective project management skills by coordinating cross-functional teams and orchestrating Agile sprints, resulting in a 15% improvement in time-to-market for form updates and feature enhancements.",
+        "location": "Delhi-NCR, India",
+        "links": "",
+        "startDate": "July 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL",
+      "React",
+      "Node.js"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Teamwork",
+      "Project Management"
+    ],
+    "name": "Piyush Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

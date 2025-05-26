@@ -1,0 +1,117 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aryan Tomar",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi-NCR, Ghaziabad, U.P.",
+    "Baghpat, U.P."
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Participated in the yearly Hackathon conducted by ABES Engineering College and also led a team during the event",
+      "DSC KIET Member(Coding Club of KIET)",
+      "Mentored many juniors and helped them to contribute in open source platforms and in web development."
+    ],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Delhi-NCR, Ghaziabad, U.P.",
+        "ID": 0.0,
+        "grade_received": "Percentage: 90",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Alpine Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate (Class 12)",
+        "location": "Baghpat, U.P.",
+        "ID": 1.0,
+        "grade_received": "Percentage: 85",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Alpine Public School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Highschool (Class 10)",
+        "location": "Baghpat, U.P.",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "JobHub",
+        "description": "Created JobHub, a web application using React, Node.js, Express.js, MongoDB to bridge the gap between job seekers and employers. Established separate logins for job seekers and employers, allowing them to access features tailored to their needs. Job seekers can search and apply for jobs efficiently. Employers can conveniently post and manage job openings. Built robust user authentication and authorization systems using JWT to ensure data security. Job seekers can manage their profiles and applications, while employers can control access to job postings and applicant information.",
+        "keywords": [],
+        "endDate": "2025",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "Hospital Management System",
+        "description": "Engineered a hospital management system using JavaScript, HTML, CSS, React, Node.js, Express.js, and MongoDB. Implemented features for user authentication using JWT, doctor selection, and appointment scheduling, enhancing user experience. Designed an admin panel to provide comprehensive insights into the system, including statistics on doctor availability and patient appointments, enhancing operational efficiency and decision-making.",
+        "keywords": [],
+        "endDate": "Jan 2024",
+        "startDate": "Dec 2023",
+        "url": ""
+      },
+      {
+        "name": "ChatBloom",
+        "description": "Developed a real-time chat application using MongoDB, Expressjs, React, Nodejs, Zustand. Leveraged Socket.IO library for real-time communication, ensuring seamless and instant messaging capabilities. Ensured user privacy and data protection with robust security measures using JWT authentication. Focused on user-friendliness with features like an intuitive chat interface. Implemented RESTful APIs for Chat application endpoints to handle user authentication, message sending, receiving, and deletion operations, ensuring smooth communication between the client and server.",
+        "keywords": [],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "HTML/CSS",
+      "React",
+      "Express",
+      "Tailwind CSS",
+      "Redux",
+      "Zustand",
+      "Web-Socket",
+      "MongoDB",
+      "Firebase",
+      "VS Code",
+      "Chrome Dev tools",
+      "React Dev tools",
+      "Postman",
+      "Git",
+      "GitHub",
+      "IntelliJ"
+    ],
+    "soft_skills": [],
+    "name": "Aryan Tomar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "3 star at Leetcode (Rating-1652) (Top 16% of Leetcode User)",
+      "Institute Rank 91 on GFG",
+      "Secured 510 rank among 21505 in Weekly Contest on LeetCode",
+      "Solved more than 500+ DSA Problems on various coding Platforms"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B. Tech"
+}

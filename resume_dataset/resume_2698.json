@@ -1,0 +1,125 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Rhythm Garg",
+  "college": "KIET Group of Institutions, AKTU",
+  "locations": [
+    "San Francisco Bay Area  Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions, AKTU",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.0",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Holy Angels Sr. Sec. School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "ISC",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Marks%: 92%",
+        "field_of_study": "12th Grade",
+        "startDate": ""
+      },
+      {
+        "school": "Holy Angels Sr. Sec. School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "ICSE",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Marks%: 94%",
+        "field_of_study": "10th Grade",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "GitAlert",
+        "description": "Developed an email notification system for developers to receive timely repository updates, increasing repository engagements by 35%. Implemented subscription functionality for users to receive notifications on new Good First Issues raised on GitHub repos.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "Resend API",
+          "AWS Elastic Beanstalk",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "www.gitalert.me"
+      },
+      {
+        "name": "Redidit",
+        "description": "Developed a modern full-stack Reddit clone with features like infinite scrolling, Google authentication, and image uploads. Implemented full comment functionality with nested replies and link previews.",
+        "keywords": [
+          "Next.js App Router",
+          "TypeScript",
+          "Tailwind"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "redidit.vercel.app"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Full Stack Web Development",
+          "Collaborative Project Management",
+          "Agile Methodologies"
+        ],
+        "endDate": "Sep 23",
+        "company_name": "Buildspace",
+        "description": "Selected from 15,000 applicants for a 6-week program funded by Y Combinator and a16z. Developed and launched GitAlert, a full-stack web app aimed at helping beginner developers. Learnt about forging ideas, building prototypes and then launching and marketing the finished product. Acquired skills in Full Stack Web Development, Collaborative Project Management, and Agile Methodologies.",
+        "location": "San Francisco Bay Area  Remote",
+        "links": "",
+        "startDate": "Aug 23"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "C++",
+      "Javascript",
+      "Typescript",
+      "Python",
+      "Solidity",
+      "Go",
+      "Git",
+      "Ethereum",
+      "EVM",
+      "Truffle",
+      "React",
+      "NextJS",
+      "Node.js",
+      "OpenGL"
+    ],
+    "soft_skills": [],
+    "name": "Rhythm Garg",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Serving as Head of Cinematography Domain in KIET Movie Society.",
+      "Showcased my artworks in Times Square, New York under NFTNYC 2023 and Egoiste Gallery, Manchester, U.K."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

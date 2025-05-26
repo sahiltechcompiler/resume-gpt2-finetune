@@ -1,0 +1,98 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ANAMIKA DIXIT",
+  "college": "NIET",
+  "locations": [
+    "Greater Noida, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NIET",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Greater Noida, India",
+        "ID": 0.0,
+        "grade_received": "6.74 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "November 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Elective Bucket Selection",
+        "description": "Developed a web application for students to choose between 3 elective buckets: Cloud, AIML, and Full Stack. Designed a responsive and user-friendly interface using HTML, CSS, and Bootstrap. Implement server-side logic with PHP for processing user selection and managing database interactions. Utilized SQL for storing and retrieving student choices efficiently. Utilized JavaScript and React for interactive elements and dynamic content updates on the front end.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "March 2024",
+        "url": ""
+      },
+      {
+        "name": "Hostel Complaint Management System",
+        "description": "This is a website where students can write their complaints and the administrator of the institute can view their complaints and resolve them. This project provides separate login credentials for the administrator and students by using Firebase Authentication for better security. Used Firebase Real-Time Database which is a NoSQL database for storing the data of all the complaints. Made this website responsive with the help of Bootstrap and CSS.",
+        "keywords": [],
+        "endDate": "March 2023",
+        "startDate": "January 2023",
+        "url": ""
+      },
+      {
+        "name": "Bus Management System",
+        "description": "This is a C++ Windows application for managing the reservation in the Buses. This application provides 10+ functionality such as adding buses, making reservations, and checking for vacant seats in the available buses. It also delivers information regarding the arrival and departure times of buses at each station. This project is based on the 4 pillars of OOPL.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "Oct 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Node.js Developer",
+        "skillsUsed": [],
+        "endDate": "Jul 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Developed server-side applications using Node.js, enhancing system performance and scalability. Designed and implemented RESTful APIs for seamless server-client communication. Managed MongoDB databases, performing CRUD operations and query optimization. Conducted debugging and testing to ensure application functionality and reliability.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "ReactJS",
+      "NodeJS",
+      "Express JS",
+      "Spring Boot",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Public Speaking",
+      "Decision Making",
+      "Analytical Thinking",
+      "Team Building",
+      "Communication"
+    ],
+    "name": "ANAMIKA DIXIT",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

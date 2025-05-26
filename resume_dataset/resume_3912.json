@@ -1,0 +1,142 @@
+{
+  "project_count": 2.0,
+  "designation": "Aspirant Data Scientist",
+  "name": "SAI SRIJA KALVACHARLA",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, IN",
+    "Hyderabad, IN",
+    "Warangal, Telangana, India"
+  ],
+  "full_output": {
+    "summary": "Proficient in Python and libraries such as Pandas, NumPy, Scikit-Learn, Matplotlib, and Seaborn. Experienced in data cleaning, predictive modeling, and creating insightful visualizations through academic projects and internships. Passionate about leveraging data to solve complex problems and eager to contribute to a dynamic, data-driven organization. Quick learner committed to continuous improvement and professional growth.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Script Ultimate Guide",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "GFG",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete theory of Computation",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Big Query & PostgreSQL",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Volunteering in Mallikamba, - Warangal- Jun22",
+      "Event Management in Griffin-LPU- Sep21-22"
+    ],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech (Hons.)",
+        "location": "Phagwara, IN",
+        "ID": 0.0,
+        "grade_received": "CGPA 7.53",
+        "field_of_study": "Computer Science",
+        "startDate": "Apr '21"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "Jul '21",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Hyderabad, IN",
+        "ID": 1.0,
+        "grade_received": "Marks:92.6%",
+        "field_of_study": "",
+        "startDate": "Apr '19"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Telecom Customer Churn Prediction",
+        "description": "Cleaned and preprocessed data using Pandas and NumPy, including handling missing values and encoding categorical variables. Developed a Decision Tree model for predicting customer churn, utilizing Scikit-Learn. Applied SMOTEEN to balance the dataset, improving model accuracy by 10%. Used Matplotlib and Seaborn to create visualizations for understanding customer behaviour and model performance.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Numpy",
+          "Scikit-Learn",
+          "Matplotlib",
+          "SMOTEEN"
+        ],
+        "endDate": "Jun24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Management System (LMS)",
+        "description": "Created an LMS using Java NetBeans for efficient course management, student enrolment, and assessment tracking. Overcame scalability and user authentication challenges, ensuring a reliable educational platform. Utilized Java programming language and the NetBeans IDE to design and implement key features of the LMS. Designed a user-friendly interface with JavaFX, connected to MySQL using JDBC for database operations, and established smooth communication between the front-end and back-end with RESTful APIs. Optimizes system performance by 30% through code refactoring and database indexing. Implemented a user-friendly dashboard that resulted in a 20% increase in user engagement. Successfully integrated third-party authentication systems, improving security and user account management.",
+        "keywords": [
+          "Java",
+          "My SQL",
+          "NetBeans"
+        ],
+        "endDate": "Aug'23",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python3",
+      "C",
+      "C++",
+      "Java",
+      "Java Script",
+      "SQL",
+      "Jenkins",
+      "Docker",
+      "MS Excel",
+      "Tableau",
+      "Power BI"
+    ],
+    "soft_skills": [
+      "Quick learner",
+      "Committed to continuous improvement",
+      "Professional growth"
+    ],
+    "name": "SAI SRIJA KALVACHARLA",
+    "position": "Aspirant Data Scientist",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 250+ Coding problems on GeeksforGeeks.",
+      "Awarded in Head Quarters for 10th board exam in Warangal",
+      "Member in NSS-LPU"
+    ],
+    "publications": []
+  },
+  "current_location": "Warangal, Telangana, India",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech (Hons.)"
+}

@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sai Nadh Reddy Syamala",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2022"
+      },
+      {
+        "school": "BIEAP",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "8.0/10.0",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "SSC",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.2/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blood Bank Management System",
+        "description": "Engineered a comprehensive blood bank management system with four distinct modules for Users, Admin, Hospitals, and Blood Banks. Integrated slot registration feature using HTML, CSS, JavaScript, Flask, and MySQL.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Flask",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Voting System",
+        "description": "Built an online voting system using Java that performs election polling and results declaration. Implemented a user authentication mechanism. Executed a robust end-of-voting protocol, calculating and announcing winners for each race; provided real-time access to election results.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Analysis of Car Specifications and Features",
+        "description": "Explored and analyzed car specifications using Python libraries like NumPy, Pandas, and Seaborn for data handling, visualization, and analysis.",
+        "keywords": [
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Seaborn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "AWS"
+        ],
+        "endDate": "",
+        "company_name": "APSSDC",
+        "description": "Completed an internship focused on AWS, gaining hands-on experience with cloud services and infrastructure.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Salesforce CRM"
+        ],
+        "endDate": "",
+        "company_name": "Salesforce",
+        "description": "Successfully completed the Salesforce Trailhead Internship, gaining hands-on experience in Salesforce CRM.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "MySQL",
+      "Spring Boot",
+      "Flask",
+      "Data Structures",
+      "Algorithms",
+      "Full Stack Development",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "Sai Nadh Reddy Syamala",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

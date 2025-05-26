@@ -1,0 +1,233 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Geetika Singh",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Firozabad",
+    "Tundla",
+    "Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "IBM (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI and Development",
+        "issuer": "IBM (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to AI",
+        "issuer": "IBM (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Human-Centered Design",
+        "issuer": "University of Toronto (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming",
+        "issuer": "Duke University (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "OOP in Java",
+        "issuer": "UCSD (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Algorithmic Toolbox",
+        "issuer": "UCSD (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures",
+        "issuer": "UCSD (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Databases and SQL for Data Science",
+        "issuer": "IBM (Coursera)",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Deputy Head Girl and House Captain: Led student leadership, organized events, and increased student participation by 40% at Suditi Global Academy, Firozabad.",
+      "Event Management Coordinator: Coordinated the Annual Science Exhibition in 2019 and 2020."
+    ],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.66/10.00",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Suditi Global Academy",
+        "endDate": "March 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Firozabad",
+        "ID": 1.0,
+        "grade_received": "90.6%",
+        "field_of_study": "CBSE Board, Class - XII",
+        "startDate": "April 2020"
+      },
+      {
+        "school": "Christ the King Inter College",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Tundla",
+        "ID": 2.0,
+        "grade_received": "87.6%",
+        "field_of_study": "ICSE Board, Class - X",
+        "startDate": "April 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "PriceWise - A resale price predicting website",
+        "description": "Engineered using HTML, CSS, Javascript, Flask, and Machine Learning technologies.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face mask Detection",
+        "description": "Developed an advanced system utilizing Python, Keras, OpenCV, TensorFlow, and Deep Learning for real-time face mask detection.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AgVenture - A crop recommendation system",
+        "description": "Developed AgVenture, a crop recommendation system using HTML, CSS, JavaScript, Flask, and Machine Learning.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "House Price Prediction",
+        "description": "Leveraged sophisticated Machine Learning algorithms to create a predictive model for real estate pricing.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Wine Quality Prediction",
+        "description": "Developed a precise model for predicting wine quality using Machine Learning techniques.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "CodersCave",
+        "description": "Selected as a Web Development Intern at CodersCave, contributed to a 15% improvement in website load speed and enhanced user experience for over 10,000 monthly visitors.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "BharatIntern",
+        "description": "Awarded an esteemed Machine Learning Internship at BharatIntern, highlighting exceptional proficiency in advanced technologies and groundbreaking solutions.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "JAVA",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "OpenCV",
+      "NumPy",
+      "Pandas",
+      "MatplotLib",
+      "MYSQL"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Writing",
+      "Time Management"
+    ],
+    "name": "Geetika Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Women Techmaker Engineering Program: Selected among 250 women engineering students from 30,000+ applicants across India.",
+      "GSSOC24: Selected as a Contributor in GirlScript Summer Of Code.",
+      "International GK Olympiad: Gold Medalist, City Rank: 1, Zonal Rank: 71."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

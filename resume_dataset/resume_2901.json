@@ -1,0 +1,132 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Mahek Chandak",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Rajasthan, India",
+    "Kolkata, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "Bachelor of Technology",
+        "location": "Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "9.08/10",
+        "field_of_study": "Computer and Communications Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Shri Shikshayatan School",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "High School",
+        "location": "Kolkata, India",
+        "ID": 1.0,
+        "grade_received": "95.1/100",
+        "field_of_study": "CBSE Curriculum",
+        "startDate": "April 2009"
+      }
+    ],
+    "projects": [
+      {
+        "name": "HIRO(Hierarchical Information Retrieval Optimization for Retrieval-Augmented Generation)",
+        "description": "Introduced a novel querying approach for Retrieval-Augmented Generation (RAG) applications using hierarchical structures for storing documents. Employed DFS-based recursive similarity score calculation and branch pruning to minimize the context returned to the LLM without informational loss. Outperformed existing querying mechanisms on the NarrativeQA dataset by an absolute performance gain of 10.85%.",
+        "keywords": [],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Doomscroll",
+        "description": "Leveraging AI and Short-Form Content for Enhanced Educational Engagement among Gen-Z",
+        "keywords": [],
+        "endDate": "October 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Advancing Churn Prediction through Explainable AI",
+        "description": "Currently engaged in cutting-edge research on Explainable Artificial Intelligence (XAI) for churn prediction, employing techniques like SHAP and LIME to decipher influential factors in customer churn and interpret complex machine learning models. Leading investigations into customer segmentation, temporal churn dynamics, and ensuring model fairness and regulatory compliance.",
+        "keywords": [],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Comic Book Generator: Leveraging GANs",
+        "description": "Currently developing a GAN-based comic book generator using the Manga109 dataset and Python libraries such as TensorFlow and OpenCV. Combining deep learning techniques with computer vision, the project aims to generate captivating comics from textual story inputs.",
+        "keywords": [],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AI Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Machani Robotics",
+        "description": "Working with CNNs, diffusion models and transformers to for co-speech gesture generation, to develop a framework to generate full- body human gestures from audio and masked gestures, encompassing facial, local body, hands, and global movements.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2024"
+      },
+      {
+        "role_name": "Vice President",
+        "skillsUsed": [],
+        "endDate": "AY 23 - 24",
+        "company_name": "Randomize(); - The Official CSE Club at Manipal University Jaipur",
+        "description": "Conducted several technical workshops on topics like Generative AI, DSA, Competitive Programming, Panel Talks etc. Led a team of 20+ members to build a EEG based, turret equipped quadruped robot. Developed remarkable man-management skills while organising several events catering over an audience of 1200+.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python 3",
+      "Data Structures and Algorithms",
+      "JavaScript",
+      "SQL",
+      "Java",
+      "C & C++",
+      "NumPy",
+      "Pandas",
+      "Sci-Kit Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "OpenCV"
+    ],
+    "soft_skills": [
+      "Strong mathematical foundation",
+      "Fast learning capabilities",
+      "Adept at logical problem-solving",
+      "Experience in robust event coordination",
+      "Effective team leadership"
+    ],
+    "name": "Mahek Chandak",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans Excellence Award for the highest GPA in 3rd and 4th Semester",
+      "TMA Pai Merit Scholarship for BTech",
+      "Silver medalist in inter-school swimming competition",
+      "Part of the school volleyball team"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

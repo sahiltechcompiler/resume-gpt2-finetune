@@ -1,0 +1,195 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Surieya N",
+  "college": "Chennai Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA 1",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA 2",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA 3",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "RPA Citizen Developer Foundation",
+        "issuer": "UiPath Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Conquering Responsive Layouts",
+        "issuer": "Kevin Powell",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "BE",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.3/10",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": "Sep 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Quiz-Master - Code Snippet Test",
+        "description": "Implemented quizzes for multiple programming languages, including syntax highlighting for code snippets. Crafted logic to randomly generate quizzes from a pool of questions to ensure variety. Users received instant feedback and scoring immediately upon completing the quiz, enabling quick performance review.",
+        "keywords": [
+          "Next.js",
+          "PostgreSQL",
+          "NextAuth"
+        ],
+        "endDate": "Sep 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "Fashion - Fusion E-Commerce Webapp",
+        "description": "Spearheaded the design and development of an Ecommerce site using React and Express.js. Utilized React Query to manage server state efficiently, reducing unnecessary re-renders and improving overall performance. Built secure authentication and authorization using JWT for access and refresh token management, ensuring robust security.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "React Query",
+          "MongoDB"
+        ],
+        "endDate": "Sep 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "Gymso Gym-Website",
+        "description": "Developed a landing page named Gymso using HTML, CSS, and JavaScript and contributed for open source project. Utilized Git for version control, managed code repositories,to ensure a streamlined development process. Made contribution to open source projects by adding features, fixing bugs,enhanced documentation, showcasing technical skills.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "ALORA - CLOTHING BRAND",
+        "description": "Engineered a seamless responsive website for the brand. Integrated engaging features while incorporating animations into the website, enhancing its interactivity and visual appeal. Closely engaged with colleagues to efficiently achieve project milestones and complete assigned tasks.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Fullstack Developer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "LUMOS MAGAZINE",
+        "description": "Worked in creating our institution magazines website lumoscit.in. Effectively integrated the React JS frontend with 10+ API endpoints, ensuring seamless data flow and real-time updates. Played a crucial role in identifying 20+ bugs and resolving complex issues to optimize the websites performance.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "VIDYUTRENZ (ECE Symposium)",
+        "description": "Took part in creating our departments website vidyutrenz.in. Designed and implemented a user-friendly website by collaborating with a team of 5 members to develop the website. Crafted 10+ captivating animations using Framer Motion, enhancing the websites design,promoted event participation.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "C++",
+      "JavaScript",
+      "TypeScript",
+      "Go",
+      "React",
+      "Next",
+      "Node",
+      "Express",
+      "SpringBoot",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "AWS",
+      "React Native",
+      "Expo",
+      "Figma",
+      "Canva",
+      "VS Code",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "Surieya N",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "CyberHackathon: Selected as top 15 teams among 250 teams.",
+      "Hacktoberfest23: Actively participated and donated to 4 open source projects.",
+      "HackerRank: Attained proficiency of 4 stars."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "BE"
+}

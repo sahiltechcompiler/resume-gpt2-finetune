@@ -1,0 +1,183 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "PRANADEEP TALAMANCHI",
+  "college": "KL University",
+  "locations": [
+    "Vijayawada",
+    "Nellore city",
+    "Remote, India"
+  ],
+  "full_output": {
+    "summary": "Full Stack Developer specialized in Cloud Computing with strong problem-solving skills. Proficient in Java, Python, and familiar with Machine Learning and real-time data visualization. Delivered innovative AI solutions in hackathons. Demonstrated leadership through mentoring and technical roles in university events. Seeking to apply technical expertise and a passion for learning in a dynamic, growth-focused environment.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Certified Cloud Practitioner",
+        "issuer": "",
+        "certiLink": "Validation ID - 343e2f79557444e38af65247904be747"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MICROSOFT AI-900",
+        "issuer": "",
+        "certiLink": "Validation ID - 8F3DF54E6D56B0C3"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KL University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Vijayawada",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.5/10",
+        "field_of_study": "Electronics and Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Nellore city",
+        "ID": 1.0,
+        "grade_received": "Marks: 940/1000",
+        "field_of_study": "Mathematics, Physics, Chemistry",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Multifaceted Audio Translation",
+        "description": "A Machine Learning model that analyzes real-time audio input, providing translated audio with lip-syncing and pitch adjustments based on emotion, age, gender, and character traits. Developed deep learning models using TensorFlow and Librosa, achieving 85% accuracy in audio classification tasks. Utilized Convolutional Neural Networks (CNN), Ensemble methods, and Decision Trees, improving model performance by 20%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VizPulse Analytics",
+        "description": "A real-time data visualization platform offering 90% accuracy, powered by AWS and advanced API integration. Amazon Web Services (AWS) - Amazon QuickSight, S3 (99.99% durability), Lambda (trigger latency under 100ms), API Gateway (supports 1000+ API calls per second), and Postman for API testing and monitoring.",
+        "keywords": [],
+        "endDate": "August 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Paryatak",
+        "description": "A dynamic tourism app with best tours and accommodation recommendations. Developed application with the Java Full stack and MySQL. Featuring loyalty programs, personalized suggestions, local tips, hotel reviews, user-generated content, sustainable travel options. Implemented a responsive design, leading to a 25% boost in customer engagement and retention.",
+        "keywords": [],
+        "endDate": "Jan 2023",
+        "startDate": "Nov 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Java Full Stack Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "PIE INFO COMM PVT.LTD",
+        "description": "Completed Java Full Stack Web Development projects, including dynamic web applications. Enhanced a Bill Generating System, improving UI and backend performance by 20%, with a 15% boost in user satisfaction with Interface.",
+        "location": "Remote, India",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "AWS CLOUD VIRTUAL INTERN",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "AICTE",
+        "description": "Applied AWS best practices for security and performance: Reduced operational costs by 25% and enhanced application performance by 30%. Automated cloud infrastructure provisioning and monitoring: Cut setup time by 50% and boosted deployment efficiency by 45%. Created an AI Tangram Generator with 85% accuracy for objects like Cat, Horse, and Hen using MongoDB, React.js, Node.js, scikit-learn, and Tkinter.",
+        "location": "Remote, India",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Participant",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "AI Mayhem Hackathon",
+        "description": "Won the Bounty by Optimistic Capital. Utilized a tech stack including Express.js, APIs, and achieved 80% prediction accuracy.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Participant",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Oracle Hacks Challenge",
+        "description": "Developed a Decentralized Task Management System using DLT, improving task assignment efficiency by 70% and providing Project Managers with a 90% project overview.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Technical Core Member",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "KL University ECS branch Fest - Thrusang",
+        "description": "Guided 90 students during the Web Dev skill week and organized events for the branch fest as Technical Core.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Data Structures",
+      "Algorithms",
+      "C",
+      "JavaScript",
+      "Python",
+      "MERN Stack",
+      "MySQL",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "API",
+      "PostgreSQL",
+      "Amazon Web Services"
+    ],
+    "soft_skills": [
+      "Problem Solving skills",
+      "Leadership skills",
+      "Creativity",
+      "Innovation",
+      "Self-learning",
+      "Presentation",
+      "Adaptability",
+      "Teamwork"
+    ],
+    "name": "PRANADEEP TALAMANCHI",
+    "position": "",
+    "interests": [
+      "Computer Networks",
+      "Operating Systems",
+      "Git",
+      "HTML",
+      "CSS"
+    ],
+    "achievements_and_awards": [
+      "Won the Bounty by Optimistic Capital",
+      "Participated and got shortlisted in Oracle Hacks Challenge"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 5.0,
+  "degree": "B. Tech"
+}

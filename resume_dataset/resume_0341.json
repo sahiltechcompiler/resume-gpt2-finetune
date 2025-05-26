@@ -1,0 +1,167 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Satyam",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, Uttar Pradesh",
+    "Noida, Uttar Pradesh",
+    "Noida, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "Detail-oriented software developer and full stack developer. Looking to help develop new solutions to challenges on innovative projects. Excellent problem solving skills and collaboration, as well as willingness to learn new technologies.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Complete Web Development",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting started with AI using IBM Watson",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Artificial Intelligence",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Building AI powered chatbots without programming",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning for AI",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Decentralized Applications (Dapps)",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Assisi Convent School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th Class",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Assisi Convent School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th Class",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "92",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-time Colour Detection System",
+        "description": "Developed using Python and Open CV, Captured video feed, converted it to HSV color space, and applied color masking to detect and highlight blue objects in real-time.",
+        "keywords": [
+          "Python",
+          "Open CV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Handle Noisy Data",
+        "description": "Developed a machine learning pipeline in Python to handle noisy data, using techniques like data cleaning, feature engineering, and outlier detection to improve model accuracy and robustness.",
+        "keywords": [
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Auction Platform",
+        "description": "Developed an online auction platform using Java, featuring user authentication, real-time bidding, auction creation, and secure transactions, allowing users to buy, sell, and manage auctions seamlessly.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Web Development",
+      "Front-end Web Design",
+      "Python Programming",
+      "Java Programming",
+      "Structured Query Language(SQL)",
+      "Knowledge of BlockChain Development",
+      "Knowledge of Machine Learning"
+    ],
+    "soft_skills": [
+      "Social Interaction",
+      "Public speaking"
+    ],
+    "name": "Satyam",
+    "position": "",
+    "interests": [
+      "Theatre",
+      "Anchoring"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

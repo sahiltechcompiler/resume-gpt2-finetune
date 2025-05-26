@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Venu Tejaswi Mandagiri",
+  "college": "Lovley Professional University",
+  "locations": [
+    "Jalandhar , Punjab",
+    "Chirala , AP",
+    "Coimbatore, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovley Professional University",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "Jalandhar , Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.69",
+        "field_of_study": "Information Technology",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Sri Gowthami Junior College",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Chirala , AP",
+        "ID": 1.0,
+        "grade_received": "percentage - 96",
+        "field_of_study": "MPC",
+        "startDate": "August 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "JARVIS An AI Assistant App",
+        "description": "Implemented voice input functionality using Dart libraries, enabling users to interact with Jarvis through natural spoken commands. Integrated OpenAI API for robust Natural Language Processing (NLP), allowing Jarvis to understand user queries and provide insightful solutions. Developed image generation capabilities using OpenAI, empowering users to create visual representations based on their voice descriptions.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Openai Api"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FilmFuzz A Movie Reccomandation Web App",
+        "description": "Leveraged Scikit-learns cosine similarity algorithm to recommend movies based on user input and movie attributes. Built a user-friendly web app using Streamlit, enabling interactive movie exploration and recommendations. Processed user input and movie data to generate personalized movie suggestions.",
+        "keywords": [
+          "Python",
+          "Streamlit",
+          "Sklearn"
+        ],
+        "endDate": "November 2020",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MovFlixA Netflix Clone",
+        "description": "Designed and implemented the user interface and functionalities of the application using Dart programming. Automated the build, testing, and deployment process for efficient development workflows. Ensured code quality and security through integration with SonarQube for vulnerability scanning. Visualized key metrics using Grafana dashboards for efficient performance monitoring.",
+        "keywords": [
+          "Flutter",
+          "dart",
+          "AWS",
+          "Docker",
+          "Jenkins",
+          "Prometheus",
+          "Graphana",
+          "Github",
+          "SonarQube"
+        ],
+        "endDate": "October 2020",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Seaborn",
+          "Matplotlib"
+        ],
+        "endDate": "July 2021",
+        "company_name": "CodersCave",
+        "description": "Leveraged Python libraries (NumPy, Pandas, Seaborn, Matplotlib) to perform Exploratory Data Analysis (EDA) on a house price dataset. Cleaned and preprocessed data to ensure its accuracy and usability for further analysis. Created data visualizations to identify trends, patterns, and relationships within the data. Utilized data insights to gain a comprehensive understanding of house pricing factors.",
+        "location": "Coimbatore, Tamil Nadu",
+        "links": "",
+        "startDate": "June 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "HTML/CSS",
+      "Dart",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Venu Tejaswi Mandagiri",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured a position in top 5 teams in Smart India Internal Hackathon.",
+      "Secured First Runner up in ML build-a-thon.",
+      "Published my first app on Playstore and downloaded by 100+ users.",
+      "Solved 250+ Problems on LeetCode and GFG Platforms.",
+      "5 Stars in C++ on Hacker Rank."
+    ],
+    "publications": []
+  },
+  "current_location": "Chirala, Andhra Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

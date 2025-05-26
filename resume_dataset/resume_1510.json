@@ -1,0 +1,121 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Anjali Gupta",
+  "college": "LTCoE",
+  "locations": [
+    "Kopar Khairane",
+    "Matunga",
+    "Mumbai, Maharashtra"
+  ],
+  "full_output": {
+    "summary": "Seeking a challenging position in a technical organization that provide me with an opportunity to improve my skills and strengths in conjunction with the organizational goals and to attain excellence through experience.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "LTCoE",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "BE",
+        "location": "Kopar Khairane",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.5",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "D.G Ruparel College",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "XII (HSC)",
+        "location": "Matunga",
+        "ID": 1.0,
+        "grade_received": "Grade: 86%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "EasyMed - DBMS based Healthcare Portal",
+        "description": "An end to end Database focused portal for patient registration, organizing information and fixing appointments with healthcare professionals",
+        "keywords": [
+          "MySQL",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "Developed an e-commerce website using Django, implementing essential features like product listings, shopping cart management, user authentication, order processing, and payment integration.",
+        "keywords": [
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Python Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "",
+        "company_name": "InternPe",
+        "description": "Participated in an intensive 4-week internship program focused on building a strong foundation in Python programming.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "company_name": "IBM SkillsBuild",
+        "description": "Collaborated with the design team to create a unique color scheme and developed responsive and user-friendly interfaces for a tourism website using HTML, CSS, and JavaScript.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "Python",
+      "Django"
+    ],
+    "soft_skills": [],
+    "name": "Anjali Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Free Code Camp Front End Development Certification",
+      "IBM SkillsBuild Certificate for Web Development",
+      "IBM SkillsBuild Certificate for Python Programming"
+    ],
+    "publications": []
+  },
+  "current_location": "Mumbai, Maharashtra",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "BE"
+}

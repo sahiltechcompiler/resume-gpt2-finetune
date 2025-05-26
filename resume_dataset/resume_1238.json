@@ -1,0 +1,100 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kapil Garg",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Panipat"
+  ],
+  "full_output": {
+    "summary": "Dedicated and results-oriented Computer Science student with a solid foundation in programming languages like C/C++, Python and Java. Eager to apply academic knowledge and gain practical experience in software development. Strong problem-solving skills, quick learner, and effective team player with a passion for technology and innovation.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.16/10",
+        "field_of_study": "CSE (IoT & Intelligent Systems)",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School Panipat City",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "AISSCE (Class XII)",
+        "location": "Panipat",
+        "ID": 1.0,
+        "grade_received": "Aggregate: 80.8%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School Panipat City",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "AISSE (Class X)",
+        "location": "Panipat",
+        "ID": 2.0,
+        "grade_received": "Aggregate: 93.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Breast Cancer Detection using CNN",
+        "description": "Developed a breast cancer detection system using AlexNet, ResNet-50, VGG16, and VGG19. Implemented image pre-processing techniques and transfer learning to enhance model accuracy. Achieved high accuracy in image classification through rigorous training and evaluation. Evaluated models using metrics such as accuracy, precision, recall, and F1-score.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "January 2024",
+        "url": ""
+      },
+      {
+        "name": "Fake News Detection System",
+        "description": "Developed a fake news detection system using logistic regression and Naive Bayes algorithms. Collected and preprocessed textual data for training and testing models. Achieved high accuracy in distinguishing between genuine and fake news articles. Analyzed model performance with evaluation metrics such as precision, recall, and F1-score.",
+        "keywords": [],
+        "endDate": "December 2023",
+        "startDate": "August 2023",
+        "url": ""
+      },
+      {
+        "name": "Gas Leaking Detection System using Arduino",
+        "description": "Developed a gas leakage detection system using Arduino and MQ2 gas sensor. Implemented real-time detection of gas leaks, triggering a buzzer to warn users. Designed and coded the system focused on enhancing safety measures and preventing potential hazards.",
+        "keywords": [],
+        "endDate": "May 2023",
+        "startDate": "January 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Deep Learning",
+      "IoT",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Kapil Garg",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

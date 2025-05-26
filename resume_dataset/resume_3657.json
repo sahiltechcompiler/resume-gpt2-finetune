@@ -1,0 +1,103 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Yuvraj Singh",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Chandigarh, Punjab - 160071, INDIA",
+    "Jaipur, Rajasthan",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "Driven and adaptable backend development enthusiast with experience building scalable, high-performance applications using Java and Python. Skilled in optimizing databases and developing service management platforms, I thrive on solving complex technical challenges. Continuously staying updated through resources like Medium, TLDR, and The Kaizen, Im eager to apply my expertise in backend technologies and cloud infrastructure to deliver impactful solutions at Atomic Work.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "GPA: 6.97",
+        "field_of_study": "",
+        "startDate": "September 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data Anomaly Detection using Machine Learning",
+        "description": "Led a team to develop an anomaly detection system utilizing machine learning algorithms such as Isolation Forest and One-Class SVM. Achieved model accuracy of over 95 percent, contributing to the enhancement of data integrity and decision-making processes for business applications. Implemented and optimized various algorithms for efficient detection of irregularities in large datasets.",
+        "keywords": [],
+        "endDate": "October 2023",
+        "startDate": "August 2023",
+        "url": ""
+      },
+      {
+        "name": "IoT-Based Distance Measurement System",
+        "description": "Designed and implemented an IoT-based solution using Arduino, IDE, and ultrasonic sensors to measure object distance in real-time. Led the project from ideation to completion, ensuring real-time data accuracy and system scalability for potential business applications. Demonstrated the practical impact of IoT technology in real-world problem-solving by improving operational efficiency.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "June 2023",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "German(A1)",
+      "Spanish(A1)",
+      "Japanese (Beginner)"
+    ],
+    "experiences": [
+      {
+        "role_name": "DevoOps Intern",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Developed a load balancer project using Azure Bastion, automating traffic distribution by diverting requests to a virtual server when load exceeded 80 percent, and reverting traffic after optimization. Set up multiple virtual network routers and servers to manage and monitor system load effectively, ensuring seamless traffic management. Upskilled in DevOps technologies through rigorous assignments, gaining hands-on experience with cloud infrastructure and network optimization.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "SQL",
+      "HTML/CSS",
+      "Java",
+      "Git/ GitHub",
+      "Machine Learning",
+      "IoT",
+      "Cloud Computing",
+      "Data Anomaly Detection",
+      "Data structures",
+      "Algorithms",
+      "Object-oriented programming",
+      "Project Management",
+      "Technology Transformation",
+      "Prompt Engineering",
+      "Excel",
+      "MS office",
+      "Zotero",
+      "Mendeley"
+    ],
+    "soft_skills": [],
+    "name": "Yuvraj Singh",
+    "position": "",
+    "interests": [
+      "Swimming",
+      "Basketball",
+      "Learning Languages",
+      "Travelling"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Chandigarh, Punjab - 160071, INDIA",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

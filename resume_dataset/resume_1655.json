@@ -1,0 +1,113 @@
+{
+  "project_count": 2.0,
+  "designation": "Web Developer",
+  "name": "Yash Singhal",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "Results-oriented web developer with strong problem-solving skills and a collaborative approach, seeking opportunities for professional growth in a dynamic environment.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sanatan Dharam Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "CBSE (X & XII)",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Delivery Platform",
+        "description": "Developed a fully functional food ordering website to enable users to browse menu, manage their cart, and checkout. Used React, Node.js, Express, MongoDB, Stripe API for payments. Designed and implemented the frontend using React, ensuring a responsive and user-friendly interface. Built and maintained RESTful APIs with Node.js and Express, integrating with MongoDB for data storage.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Stripe API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blogging Platform",
+        "description": "Developed a blogging site where users can register, write, edit, and comment on posts. Used React, Node.js, Express, MongoDB, Heroku for deployment. Demonstrates CRUD operations, user authentication, and deployment skills.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Heroku"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "March 2024",
+        "company_name": "",
+        "description": "Developed proficiency in HTML, CSS, and JavaScript through hands-on training and projects. Designed and implemented a fully functional calculator using JavaScript and created a registration page utilizing HTML forms and CSS for user input validation.",
+        "location": "",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "Java",
+      "C++",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Firebase",
+      "RESTful APIs",
+      "Responsive Design"
+    ],
+    "soft_skills": [],
+    "name": "Yash Singhal",
+    "position": "Web Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

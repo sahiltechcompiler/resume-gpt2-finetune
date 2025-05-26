@@ -1,0 +1,99 @@
+{
+  "project_count": 3.0,
+  "designation": "Data Analyst",
+  "name": "PAVAN KUMAR RAMINA",
+  "college": "SRM UNIVERSITY-AP",
+  "locations": [
+    "Amaravati",
+    "Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY-AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Amaravati",
+        "ID": 0.0,
+        "grade_received": "9.07/10 CGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Transliteration Project",
+        "description": "Developed a system to transliterate Sindhi language text into Devanagari script using Python and OCR tools. Utilized machine learning algorithms and OCR techniques for automated conversion of Sindhi text to Devanagari, enhancing cross-language communication.",
+        "keywords": [],
+        "endDate": "Nov 2023",
+        "startDate": "Sep 2023",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System using Vectorization, TF-IDF",
+        "description": "Implemented a movie recommendation system using vectorization and TF-IDF techniques. Analyzed user preferences and movie features to suggest relevant movies. Utilized Python with NumPy and Pandas for data processing and recommendation generation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Stock Market Prediction Analysis Project",
+        "description": "Conducted analysis and prediction of stock market trends using Python and ML libraries. Utilized NumPy, Pandas, Scikit-learn, and Matplotlib for data processing and visualization. Implemented machine learning algorithms like linear regression, decision trees, and random forests.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Government of Andhra Pradesh",
+        "description": "Conducted time series analysis to understand trends in Maternal Mortality Ratio (MMR). Analyzed public health data across various districts through visualization patterns.",
+        "location": "Andhra Pradesh",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "Javascript",
+      "AWS",
+      "MySQL",
+      "PowerBI",
+      "Apache Superset",
+      "MsExcel",
+      "Machine Learning",
+      "Statistics",
+      "Probability",
+      "NumPy",
+      "Scikit-learn",
+      "Matplotlib"
+    ],
+    "soft_skills": [],
+    "name": "PAVAN KUMAR RAMINA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Scored 42/100 marks in GATE 2024.",
+      "Rated 3-star on CodeChef with Rating 1620.",
+      "Secured AIR 237 in SRMJEE entrance test.",
+      "Served as Team Member for ProductKraft (ECell), Directorate of Innovation and Entrepreneurship, managing a team for the stock market analysis project, providing technical support, ensuring mentor connections, and hosting an Artificial Intelligence workshop."
+    ],
+    "publications": []
+  },
+  "current_location": "Andhra Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

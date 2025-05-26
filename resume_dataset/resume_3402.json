@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Malya Srivastava",
+  "college": "KIET Group of Institutions",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "90.4%",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "To-Do List Application",
+        "description": "Developed a full-featured To-Do List application with user authentication, task creation, updating, and deletion. Utilized Django's MVT architecture for efficient project structuring. Implemented MySQL for database management and SQL for data handling.",
+        "keywords": [
+          "Python",
+          "Django",
+          "MySQL"
+        ],
+        "endDate": "April 2024",
+        "startDate": "March 2024",
+        "url": ""
+      },
+      {
+        "name": "Blog Application",
+        "description": "Created a blog platform with user sign-up, login, and CRUD operations for blog posts. Integrated MySQL database to manage blog data. Enhanced the application with features like comments, search, and categories.",
+        "keywords": [
+          "Python",
+          "Django",
+          "MySQL"
+        ],
+        "endDate": "April 2024",
+        "startDate": "March 2024",
+        "url": ""
+      },
+      {
+        "name": "News Headlines Scraper",
+        "description": "Developed a Python script to scrape news headlines from a popular news website. Utilized BeautifulSoup for HTML parsing and structured the data into a CSV file for analysis.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "Beautifulsoup"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "UI/UX Design Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "CA Cloud Desk",
+        "description": "Collaborated with a cross-functional team to develop intuitive UI/UX enhancements. Redesigned web pages leading to a 20% increase in user satisfaction.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Product Designer",
+        "skillsUsed": [],
+        "endDate": "Jul 2025",
+        "company_name": "Soach",
+        "description": "Designed interactions for the VFGA project, a portal for listing food grains as assets in the stock market. Followed lean startup approach: MVP and rapid iterations.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov 2021"
+      },
+      {
+        "role_name": "Vice President",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Spark Creations",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2024"
+      },
+      {
+        "role_name": "Student Coordinator",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Career Catalyst Event by HSS Dept., KIET Group of Institutions",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "C#",
+      "HTML",
+      "CSS",
+      "JS",
+      "Python",
+      "Django",
+      "SQL",
+      "Unity3D",
+      "VS Code",
+      "Visual Studio",
+      "Pycharm",
+      "Git",
+      "GitLFS",
+      "Figma",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Malya Srivastava",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "First Runner Up IIIT Allahabad - SheHacks23 - May 2023",
+      "Track Prize Winner Hack The Mountains 4.0 by MLH - Oct 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 4.0,
+  "degree": "Intermediate"
+}

@@ -1,0 +1,178 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Riddhi Gupta",
+  "college": "KIET Group of Institutions",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "D.A.V. Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "92.33 percentile",
+        "field_of_study": "PCM",
+        "startDate": ""
+      },
+      {
+        "school": "D.A.V. Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90.33 percentile",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce Website using Django",
+        "description": "Build a simulation of a e- commerce website using django framework and MySQL for storing the data base information of inventory, The scope of this website is limited.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "My SQL"
+        ],
+        "endDate": "Present",
+        "startDate": "June 2024",
+        "url": ""
+      },
+      {
+        "name": "IPL 2023 Data Analysis",
+        "description": "The IPL 2023 Data Analysis project aims to utilize data science and machine learning techniques to analyse and extract meaningful insights from the IPL 2023 season auction data. This project leverage Python, Pandas, to conduct comprehensive data analysis, including statistical summaries, visualizations, and predictive.",
+        "keywords": [
+          "AI",
+          "Python",
+          "Pandas"
+        ],
+        "endDate": "May 2024",
+        "startDate": "March 2024",
+        "url": ""
+      },
+      {
+        "name": "Color Palate Generator",
+        "description": "The user uploads an image file to the website, through a simple form like jpg,jpeg,png. The Python program reads this file, converts it to a NumPy matrix, filters out unique colours, count the occurrences of these unique colors.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "Flask",
+          "Pillow"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Oct 2023",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Interactive website where I can receive messages that viewers enter in contact me section.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "bootstrap"
+        ],
+        "endDate": "April 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Youtube video downloader",
+        "description": "In this project I have used py-tube a framework to download youtube video and django to make web application.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Django",
+          "Py-tube",
+          "VS Code"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "Nov 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Accenture North America",
+        "description": "Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture. Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions. Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Cyber Security Analyst",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Mastercard",
+        "description": "Completed a job simulation where I served as an analyst on Mastercards Security Awareness Team. Helped identify and report security threats such as phishing. Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Graphic Designer",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "Brain Bits Community",
+        "description": "Worked voluntarily to design social media posts for the community. Composed short videos, eye catching posters, Presentations and more for the community.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Javascript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "DJango",
+      "Kali Linux",
+      "VS Code",
+      "React.js",
+      "Flask",
+      "RecoverPy",
+      "Spring Boot",
+      "Express.js",
+      "MySQL",
+      "Bootstrap",
+      "Node.js"
+    ],
+    "soft_skills": [],
+    "name": "Riddhi Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of technology"
+}

@@ -1,0 +1,134 @@
+{
+  "project_count": 2.0,
+  "designation": "Team Lead",
+  "name": "PARKHI GUPTA",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi NCR",
+    "Shamli, UP",
+    "AKTU"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internship certificate at CISCO Networking Academy",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Intership certificate at IBM SkillsBuild",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Co-ordinator Certificate at TEDx KIET",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "AKTU",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Silver Bells Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "CBSE",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Francis School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "ICSE",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Identification of Medicinal Plants",
+        "description": "Developed a web application enabling users to upload medicinal plant images for identification. Designed and implemented the user interface using HTML, CSS, and JavaScript. Integrated the Deep Learning model (Inception V3) for medicinal plant identification with Flask. Planned integration with ABHA App, allowing users to identify plants suitable for their health conditions.",
+        "keywords": [],
+        "endDate": "Present",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Prediction of Cardiac Disease using Heart Shape",
+        "description": "Utilized GLCM, HOG, and LBP techniques to extract features from medical images for cardiac disease prediction. Applied Random Forest, XGBoost, and Decision Trees to analyze features and achieving accuracy. Authored a research paper detailing the methodology, findings, and implications of the Cardiac Disease.",
+        "keywords": [],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front End Developer Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "IBM SkillsBuild",
+        "description": "Assisted in development of the front end of a mobile application for iOS/Android using Dart and the Flutter framework. Worked with Google Firebase to manage user inputted data across multiple platforms including web and mobile apps. Collaborated with team members using version control systems such as Git to organize modifications and assign tasks. Utilized Android Studio as a development environment in order to visualize the application in both iOS and Android.",
+        "location": "Delhi NCR",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "CISCO",
+        "description": "Got the Introduction to Cyber Security. Studied the concepts of Cyber Security Essentials. Covered the concepts of Cloud Security Alliance. Learned operations and mapping of networks using CISCO Packet Tracer.",
+        "location": "Shamli, UP",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "PARKHI GUPTA",
+    "position": "Team Lead",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 100+ coding questions on platforms like LeetCode, HackerRank",
+      "Awarded first place in a Rangoli competition at the department-level event Epoque@Prastuti, showcasing creativity and artistic skills (March 2023)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Science"
+}

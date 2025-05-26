@@ -1,0 +1,146 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "AYUSH KUMAR JHA",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi, India",
+    "Bihar, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "July 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "9.0",
+        "field_of_study": "Information Technology",
+        "startDate": "Dec 2020"
+      },
+      {
+        "school": "DBCS",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Bihar, India",
+        "ID": 1.0,
+        "grade_received": "83.30%",
+        "field_of_study": "",
+        "startDate": "April 2018"
+      },
+      {
+        "school": "DBCS",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Bihar, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "April 2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CheckYourself",
+        "description": "Authentication with google, only one user as admin support. A competitive environment with increase in points have rewards. Developed a comprehensive self-assessment platform.",
+        "keywords": [
+          "Next JS",
+          "MongoDB",
+          "CSS"
+        ],
+        "endDate": "Apr, 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "JobPortal",
+        "description": "It is made with a proper authentication and authorization. An admin panel to create job and can look after the applications. An user panel to apply for the job also can send resume.",
+        "keywords": [
+          "React JS",
+          "Express",
+          "Node",
+          "MongoDB",
+          "CSS"
+        ],
+        "endDate": "Mar, 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online-Editor",
+        "description": "It is an online editor that takes HTML, CSS, and Js code. IT displays the actual working of code written step-by-step.",
+        "keywords": [
+          "ReactJs",
+          "Matrial UI",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "Dec, 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Js",
+          "React Js",
+          "MERN stack"
+        ],
+        "endDate": "Sept 2023",
+        "company_name": "Topperworld",
+        "description": "Worked as a web developer intern for one month. Worked on many technologies like HTML, CSS, Js, and React Js. I also worked on the MERN stack. Develop an e-commerce website with complete functionality.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "C",
+      "C++",
+      "C#",
+      "CSS",
+      "Javascript",
+      "DSA",
+      "React Js",
+      "Node Js",
+      "Express Js",
+      "Next Js",
+      "Socket.IO",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Pressure handle",
+      "Team Work"
+    ],
+    "name": "AYUSH KUMAR JHA",
+    "position": "",
+    "interests": [
+      "Cricket",
+      "Making Quality Content on Instagram"
+    ],
+    "achievements_and_awards": [
+      "Written over 20+ solutions at Leetcodes discussion forum.",
+      "Solved more than 600+ problems across platforms.",
+      "6* on Hackerrank."
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

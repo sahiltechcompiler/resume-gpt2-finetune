@@ -1,0 +1,178 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Pavan Sastry NVSS",
+  "college": "SRMAP University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRMAP University",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.3/10.0",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Jr.College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "89%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Narayana Institute",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "87%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Analysis using Hyperspectral Image Processing",
+        "description": "Conducted spectral analysis techniques, including spectral profile visualization, to gain valuable insights and to visualize spectral data of image containing 300+ spectral bands.",
+        "keywords": [
+          "Python",
+          "Rasterio",
+          "Matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SyncHAB",
+        "description": "Engineered an advanced Jetson Nano-powered bot designed for autonomous user following and obstacle avoidance with an accuracy exceeding 80%. Currently in the process of patent application.",
+        "keywords": [
+          "Machine Learning",
+          "RJetson Nano",
+          "Linux",
+          "TensorRT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "A Smart Assistive System For Blind People",
+        "description": "Fused TinyML with IoT for real-time facial analysis on portable devices, making Age, Gender and Emotion Detection possible, thereby achieving 90%+ accuracy in resource-limited settings. Streamlined IoT infrastructure, increasing speed by 30% and enabling multi-environment deployment. Secured a Gold Medal from University and Published a Patent for this innovation.",
+        "keywords": [
+          "Machine Learning",
+          "Raspberry Pi",
+          "TFlite",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Software Development Engineer",
+        "skillsUsed": [
+          "CosmosDB",
+          "Azure Services",
+          "Django",
+          "Docker"
+        ],
+        "endDate": "Present",
+        "company_name": "",
+        "description": "Spearheaded backend development for an AI-driven chat application, leveraging CosmosDB, Azure AI Search, Django, and NLP, and improved debugging efficiency by 25%. Constructed and containerized a robust backend infrastructure using Django and Docker, reducing system integration issues by 35% and enabling seamless data processing and integration. Created an advanced search functionality using Azure AI Search, yielding a 45% increase in search accuracy and enhancing overall application performance.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2024"
+      },
+      {
+        "role_name": "Research Scholar",
+        "skillsUsed": [
+          "Machine Learning",
+          "Raspberry Pi",
+          "Image Processing",
+          "Python"
+        ],
+        "endDate": "Jun 2024",
+        "company_name": "",
+        "description": "Pioneered image processing research and Engineered a custom neural network, enhancing classification accuracy by 30% on edge devices and achieving 85%+ accuracy. Directed cutting-edge machine learning study, improving model accuracy by over 25% and earning a Gold Medal; leveraged deep learning techniques to drive outstanding results. Authored 3+ research papers in collaboration with esteemed professors from SRM University and MIT, Harvard, and AIIMS, contributing to the fields of Image Processing and Medical Imaging.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Data Scientist",
+        "skillsUsed": [
+          "Machine Learning",
+          "Python",
+          "Data Visualization",
+          "Django"
+        ],
+        "endDate": "Jun 2023",
+        "company_name": "",
+        "description": "Led Regular Meetings with group members, optimized data integrity by 20%, eliminating outliers and redundant data to enhance analytical precision and drive data-based strategies. Architected a ML pipeline to assess prepayment risk in mortgage-backed securities, using univariate analysis, boxplots, catplots, and SMOTE for data analysis. Accelerating performance by 20%. Teamed up with industry experts to upgrade project accuracy to 90%+, thereby achieving a recommendation letter from the Company and from fellow colleagues on Linkedin.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "AWS",
+      "Hadoop",
+      "Spark",
+      "Cosmos DB",
+      "Django",
+      "Azure AI Search",
+      "Blob Storage",
+      "Docker",
+      "Github Actions"
+    ],
+    "soft_skills": [],
+    "name": "Pavan Sastry NVSS",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Filed and Published 2 Patents",
+      "Showcased Papers in International Conferences like IIT Mandi",
+      "Prodevthon Hackathon Runner-Up-Ranked 2nd",
+      "AIESEC Hackathon Finalist - Top 8",
+      "7th & 8th Research Day Gold Medalist",
+      "Competed in 10+ Hackathons across India",
+      "Exhibited Projects at NTL Expo to over 100+ People including Dean, HODS etc"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelors Degree"
+}

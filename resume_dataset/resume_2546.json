@@ -1,0 +1,164 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anand Mandkikar",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Punjab, India",
+    "Aurangabad, Maharashtra"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Generative AI fundamentals Badge",
+        "issuer": "Google grow",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud Bootcamp",
+        "issuer": "Sponsored by google developers (GFG)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C++ and Data Structure Algorithms",
+        "issuer": "CipherSchool",
+        "certiLink": "Jul23"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Punjab, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 6.90",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2022"
+      },
+      {
+        "school": "Shreeyash College of Polytechnic",
+        "endDate": "March 2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Aurangabad, Maharashtra",
+        "ID": 1.0,
+        "grade_received": "Percentage: 84.60%",
+        "field_of_study": "",
+        "startDate": "April 2017"
+      },
+      {
+        "school": "Swami Vivekanand Academy",
+        "endDate": "March 2017",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Aurangabad, Maharashtra",
+        "ID": 2.0,
+        "grade_received": "Percentage: 77.60%",
+        "field_of_study": "",
+        "startDate": "April 2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-rik",
+        "description": "Online cab booking system for LPU: Constructed a App for ease of availability of Cab to users (Book/Ride). Developed features like Book online, Availability of seat, Direct Payment, Route Selection, settings, login and signup. Utilized Firebase to handle backend requests for application, and used dart to respond back.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Music Player",
+        "description": "Offline Audio Player / Music library: Built a Website that include Search Music option, Library, Customized Playlists, Sorting of Library. Used XML to make the webpages user friendly. Explored more about Kotlin & XML for dipper knowledge.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Farm",
+        "description": "Ecommerce site and disease detection: Built a Web application to manage Farming, Crop-orders and Identify Crop Disease. Used MySQL to manage the data of all transactions, keeping bill receipts/pdfs. Explored Python Pillow library and implemented user friendly UI.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Programming in C++ Trainee",
+        "skillsUsed": [
+          "C++"
+        ],
+        "endDate": "present",
+        "company_name": "CipherSchool",
+        "description": "CipherSchool's Summer Training in Programming with C++ is designed to equip participants with comprehensive skills in one of the most powerful and widely used programming languages.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2023"
+      },
+      {
+        "role_name": "Freelancer",
+        "skillsUsed": [],
+        "endDate": "March 2023",
+        "company_name": "SanjivanSolar.com",
+        "description": "Developed a webapplication for managing Services for the startup called Sanjivan Solar pvt. ltd. This platform provides Online showcase of Solars, offers booking and purchasing online, and also enables users to become agents and offer Discounts. The application is made available for Android and Web platforms.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2022"
+      }
+    ],
+    "skills": [
+      "MySQL",
+      "CorelDraw",
+      "Tableau",
+      "Unity",
+      "Android Studio",
+      "C++",
+      "Java",
+      "C",
+      "PHP",
+      "R",
+      "Kotlin",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Problem-Solving Skills",
+      "Communication",
+      "Project Management",
+      "Adaptability"
+    ],
+    "name": "Anand Mandkikar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured Global Rank 783rd: Among 21k+ participants in Leetcode Biweekly Contest 96",
+      "Got selected for Smart India Hackathon: Selected among 1500 teams in top 50",
+      "3 Star badge on Hackerrank: Completed 3 Star badge in subject Java, c++, Python, SQL."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

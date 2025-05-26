@@ -1,0 +1,107 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sunny kumar",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi",
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B-Tech",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "8 Cgpa",
+        "field_of_study": "Information Technology",
+        "startDate": "October 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Redux Cart",
+        "description": "Developed a cart application using React and Redux to manage state effectively, implementing complex state management and ensuring smooth user interactions. Employed React Hooks to manage component lifecycle and state, enhancing the applications performance and maintainability by using modern React features. Utilized array functions like reduce to handle cart calculations and data transformations, optimizing the logic for adding, removing, and updating items in the cart.",
+        "keywords": [
+          "Javascript",
+          "React",
+          "Redux"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Todo Verse Extension",
+        "description": "Developed and deployed a task management extension on Mozilla using React.js, allowing users to add and prioritize daily tasks efficiently. Implemented dynamic background image functionality that updates on each refresh, enhancing user engagement and providing a visually appealing interface. Added features for users to manage additional todos alongside their main focus tasks, offering a comprehensive and flexible task management solution.",
+        "keywords": [
+          "JavaScript",
+          "React",
+          "Redux"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio",
+        "description": "Developed a fully responsive portfolio website using React, ensuring seamless user experience across various devices and screen sizes. Utilized Reacts component-based architecture to create modular and reusable components for each section of the website, enhancing maintainability and scalability.",
+        "keywords": [
+          "React Js"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "TruAct",
+        "description": "Developed scalable functions to eliminate hard-coded values, ensuring future-proofing of the app. Conducted thorough testing, resulting in a robust and adaptable application. Enhanced app functionality by integrating new sections for streamlined payments and invoices. Designed and implemented user-friendly HTML pages to facilitate smooth transactions. Executed comprehensive testing procedures to validate app performance and stability, identifying and resolving bugs to ensure seamless user experience and reliability. Collaborated with the development team to implement best practices for code maintenance and scalability, contributing to the overall efficiency and future-readiness of the projects.",
+        "location": "Delhi",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Full Stack Developer (MERN) Intern/trainee",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "Geeks for Geeks",
+        "description": "Implemented RESTful APIs with Node.js and Express.js, facilitating efficient data exchange between the frontend and MongoDB backend, ensuring seamless integration and data integrity. Optimized application performance by identifying and refactoring inefficient code, resulting in faster load times and improved user experience. Collaborated with team members using version control systems such as Git to organize modifications and assign tasks. Deepened knowledge in JavaScript, React, Node.js, Express.js, and MongoDB, applying these technologies to build robust web applications and streamline backend processes.",
+        "location": "Noida",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "C++",
+      "C",
+      "Deluge",
+      "Python",
+      "Html/Css",
+      "WordPress"
+    ],
+    "soft_skills": [],
+    "name": "Sunny kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B-Tech"
+}

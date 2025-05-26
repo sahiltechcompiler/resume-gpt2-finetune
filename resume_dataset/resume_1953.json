@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ayush Srivastav",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Business Systems",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce Drop shipping site Development",
+        "description": "Successfully Developed, And Launched A Fully Functional E-Commerce Dropshipping Website Powered By Wordpress. Streamlined The Browsing, Category Selection, Product Selection, And Checkout Processes, Resulting in a all-in-one user experienece, Thereby Optimizing The Websites Performance And Profitability.",
+        "keywords": [
+          "Word Press",
+          "Woo-commerce",
+          "Elementer"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "A Cricket Scorer CRUD Application",
+        "description": "Developed and deployed a comprehensive Cricket Scorer application that allows users to manage scorecards for two teams. The app features a user-friendly interface built with HTML, CSS, JavaScript, and React.js. It enables users to perform CRUD (Create, Read, Update, Delete) operations on batsman data.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "ReactJs",
+          "Netlify"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://my-cricket-scorer.netlify.app/"
+      },
+      {
+        "name": "Face Detection System using Raspberry Pi",
+        "description": "AI based Image detection System using - Raspberry Pi, Official Camera Module V2 and Micro SD card. Implemented OpenCV, an open-source computer vision library, to perform real-time face detection. Integrated the Raspberry Pi Camera Module to capture video feed, providing high-quality image data for processing. Implemented efficient image processing techniques to handle frame capture, preprocessing, and face detection.",
+        "keywords": [
+          "Python",
+          "Raspberry Pi"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJs"
+        ],
+        "endDate": "present",
+        "company_name": "Curitics Health Solutions",
+        "description": "Developed and maintained web applications using HTML, CSS, and JavaScript. Built reusable React components to streamline development and enhance maintainability using ReactJs library. Assisted in implementing responsive designs and user interfaces. Integrated APIs to fetch and display dynamic data within React applications.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "2024-06"
+      },
+      {
+        "role_name": "Ui/Ux Intern",
+        "skillsUsed": [
+          "Figma",
+          "Adobe Photoshop",
+          "Adobe Illustrator"
+        ],
+        "endDate": "present",
+        "company_name": "Internshala",
+        "description": "Created wireframes and prototypes using Figma. Collaborated with team members to design user-friendly interfaces. Developed site maps and user flows for better navigation. Assisted in usability testing and analyzed results. Designed graphics and UI elements using Adobe Photoshop and Illustrator.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "2024-06"
+      }
+    ],
+    "skills": [
+      "Web Development",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "ReactJs",
+      "Python",
+      "C++",
+      "Figma",
+      "Adobe InDesign",
+      "SQL",
+      "MangoDb"
+    ],
+    "soft_skills": [],
+    "name": "Ayush Srivastav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Research Paper on Impact of Metaverse on Indian Population - Best paper in the International research paper Conference held in 2023, proposing the future effect of Metaverse on Indian Population, educating them about technology through usecases. 100% data driven analysis of the problem and its solution."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Btech"
+}

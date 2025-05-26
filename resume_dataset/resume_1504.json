@@ -1,0 +1,150 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Suraj Jain",
+  "college": "Dr. APJ Abdul Kalam University (AKTU)",
+  "locations": [
+    "Delhi-NCR",
+    "Agra, IN",
+    "Ghaziabad, IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam University (AKTU)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi-NCR",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.6/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "CV International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 84.40%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Gayatri Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 94.60%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "WATER FOOTPRINT CALCULATION",
+        "description": "Designed and implemented a full stack website and mobile app to calculate the Water Footprint of different items by scanning it through object detection model.",
+        "keywords": [
+          "MERN Stack",
+          "Numpy",
+          "Flutter"
+        ],
+        "endDate": "Present",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "EVENT MANAGEMENT WEBSITE",
+        "description": "Developed a dynamic event managing website, providing event organizers with a seamless and intuitive platform to manage their events and making users register with ease.",
+        "keywords": [
+          "MERN stack",
+          "Stripe"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "Nov 2023",
+        "url": ""
+      },
+      {
+        "name": "PERSONAL PORTFOLIO",
+        "description": "Crafted a personalized portfolio highlighting about me,skills, education, and professional journey, offering a comprehensive view of my expertise and experience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Feb 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Sep 2023",
+        "company_name": "TechnoHacks",
+        "description": "Developed and implemented a diverse range of projects including a Currency Convertor, Timeclock, Netflix clone and my personal portfolio using HTML and CSS and Javascript.",
+        "location": "Agra, IN",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Oct 2022",
+        "company_name": "IIPC KIET",
+        "description": "Crafted captivating frontend websites using HTML, CSS and JavaScript, highlighting innovation and creativity.",
+        "location": "Ghaziabad, IN",
+        "links": "",
+        "startDate": "July 2022"
+      }
+    ],
+    "skills": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Git",
+      "Github",
+      "VS Code",
+      "Netlify",
+      "Vercel",
+      "Render",
+      "C/C++",
+      "HTML/CSS",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "Mongodb"
+    ],
+    "soft_skills": [],
+    "name": "Suraj Jain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved 2nd Rank in departmental Innotech-2023",
+      "Solved 300+ questions on leetcode and 200+ on different platforms like code studio, geeksforgeeks.",
+      "3 Star on code chef and 5 star on hackerrank."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

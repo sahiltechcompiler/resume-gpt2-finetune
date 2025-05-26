@@ -1,0 +1,148 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Somey Gupta",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "Profile Crafting insights at the intersection of data and strategy, Innovative tech enthusiast and motivated individual with a keen interest in data analytics and business intelligence. Eager to apply my analytical skills and technical expertise to drive data-driven decisions and deliver actionable business solutions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Certified Networking Associate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine learning using Python",
+        "issuer": "IBM Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Certified Data Analytics Essentials",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science AI & ML(Hons)",
+        "startDate": ""
+      },
+      {
+        "school": "Dewan Public School, Meerut",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Certificate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "85.6",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Dewan Public School, Meerut",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary School Certificate",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "88.6",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce Sales Analysis Dashboard",
+        "description": "Developed a Power BI dashboard to analyze e-commerce sales data and identify trends. Utilized DAX to create custom calculations and visualizations. Improved data-driven decision-making by providing actionable insights.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Color Detection of RGB Images using OpenCV",
+        "description": "Developed a color detection algorithm on NumPy which is capable of detection various colors like blue, green, yellow, red etc. My contribution is to build a Hue Saturation value indicator telling wavelengths of different colors to detect them correctly. The project can be used in future for detection of number plates to classify them as private, commercial or electric vehicle.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Personal Voice Assistant",
+        "description": "Developed a personal voice assistance which is capable of doing tasks like playing music, cracking jokes, finding the meaning of word by opening Wikipedia. I have used Using technologies like Smptlip, Pytsx3 and sapi5. We have also Used Pytsx3, a python library that will help us to convert text to speech. sapi5 is used to help in synthesis and recognition of voice.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [
+          "MODEL SELECTION",
+          "MODEL TRAINING",
+          "CROSS-VALIDATION",
+          "PREDICTIVE ANALYSIS",
+          "FEATURE ENGINEERING"
+        ],
+        "endDate": "Aug 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Developed a machine learning model to predict customer churn for a subscription-based service, enabling proactive retention measures such as incentives and personalized promotions. Achieved maximum accuracy of 81.23% using Adaboost.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2024"
+      }
+    ],
+    "skills": [
+      "Proficient in Python and SQL at an intermediate level",
+      "Microsoft PowerBI",
+      "Advanced Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Critical Thinking",
+      "Communication Skills"
+    ],
+    "name": "Somey Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

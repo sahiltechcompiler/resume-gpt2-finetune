@@ -1,0 +1,139 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Ojas Chandgadkar",
+  "college": "Shah & Anchor Kutchhi Engineering College (SAKEC)",
+  "locations": [
+    "Mumbai University",
+    "Maharashtra State Board"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah & Anchor Kutchhi Engineering College (SAKEC)",
+        "endDate": "Jun. 2024",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Mumbai University",
+        "ID": 0.0,
+        "grade_received": "9.16",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "KJ Somaiya College Of Science",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Maharashtra State Board",
+        "ID": 1.0,
+        "grade_received": "73.4%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Our Lady Of Perpetual Succour High School (OLPS)",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Maharashtra State Board",
+        "ID": 2.0,
+        "grade_received": "89.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "LeafSnap",
+        "description": "Indian Leaf Disease Detection Mobile Application. Prepared Datasets of following leaves: Mango, Bay Leaf, Ladyfinger, Java Plum from local farm houses. Applied Image pre-processing techniques such as augmentation, edge detection and graysaling. Did training and testing of dataset on ML Model(CNN) to identify leaf type with an accuracy of 90.25%. Developed a Mobile application where users can scan leaves, and get the disease name.",
+        "keywords": [
+          "Python",
+          "React Native",
+          "Tensorflow",
+          "Numpy",
+          "Pandas"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Oct. 2023",
+        "url": ""
+      },
+      {
+        "name": "CoinSearch",
+        "description": "Cryptocurrency Screener Web Application. Built a website for displaying basic information such as Name, Symbol, Price, description, of cryptocurrencies. Used API from CoinGeckoAPI to fetch information related to particular coin.",
+        "keywords": [
+          "React",
+          "JavaScript",
+          "CSS",
+          "HTML"
+        ],
+        "endDate": "Aug 2023",
+        "startDate": "Jul 2023",
+        "url": ""
+      },
+      {
+        "name": "Gene Desktop Voice Assistant",
+        "description": "Windows Application. Developed a Desktop voice assistant application that helps automate basic tasks such as opening apps, setting alarm, controlling in-app buttons and searching Wikipedia by predefined using voice. Made a website for downloading the assistant and hosted it using Github Pages. Used NSIS software to convert .py to executable file.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "Apr 2022",
+        "startDate": "Mar 2022",
+        "url": ""
+      },
+      {
+        "name": "WeatherX",
+        "description": "Live Weather data Web Application. Built a responsive website with ability to search for any locations weather. Used APIs from OpenWeatherAPI and Unsplash to fetch weather information and image of location.",
+        "keywords": [
+          "JavaScript",
+          "CSS",
+          "HTML"
+        ],
+        "endDate": "Oct 2021",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Typescript",
+      "SQL",
+      "Tailwind",
+      "React",
+      "NodeJs",
+      "VsCode",
+      "Git",
+      "Linux"
+    ],
+    "soft_skills": [],
+    "name": "Ojas Chandgadkar",
+    "position": "",
+    "interests": [
+      "Reading",
+      "Cycling",
+      "Photography"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.E."
+}

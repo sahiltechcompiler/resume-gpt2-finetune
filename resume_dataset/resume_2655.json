@@ -1,0 +1,112 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "Manohar Reddy Lakku",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "I am creative and innovative individual with exceptional problem solving skills .I am passionate about finding innovative solutions and launching new projects. I am seeking a software engineering role with a reputable and technology-driven firm where I can grow my skills and contribute to the development of innovative projects.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Board of Intermediate Education",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "9.8/10",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Secondary school of education",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "981/1000",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sentimental Analysis on Amazon products reviews",
+        "description": "Sentiment analysis on Amazon product reviews involves using natural language processing (NLP) tech- niques to analyze the sentiment expressed in customer reviews. By analyzing the text of reviews, sentiment analysis algorithms can determine whether customers generally feel positively, negatively, or neutrally about a product.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fake news prediction using machine Learning",
+        "description": "Fake news prediction using machine learning involves building models that can automatically classify news articles as either genuine or fake based on their content.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hostel Management System using Java and its frameworks",
+        "description": "The hostel management system will streamline administrative processes, enhance transparency, and im- prove the overall management of hostel facilities, ensuring a smooth and efficient experience for both administrators and students.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Image Generation using GAN",
+        "description": "During my internship, I delved into the realm of image generation using Generative Adversarial Networks (GANs). I explored various GAN architectures like DCGAN, employing TensorFlow and PyTorch for implementation. I was responsible for dataset curation, meticulously preparing datasets like CIFAR-10 and enhancing them through data augmentation techniques.Our collective efforts led to notable advancements in GAN-based image generation, elevating the quality, diversity, and controllability of the generated images.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C programming",
+      "DSA",
+      "Java",
+      "Python",
+      "AIML",
+      "Data Science",
+      "Web development",
+      "javascript",
+      "sql",
+      "nodejs",
+      "react",
+      "mongodb",
+      "expressjs"
+    ],
+    "soft_skills": [],
+    "name": "Manohar Reddy Lakku",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Btech"
+}

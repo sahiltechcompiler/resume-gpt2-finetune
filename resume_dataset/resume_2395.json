@@ -1,0 +1,119 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "R Akanksha Akanksha",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Innovative B.Tech student with hands-on experience in coding and programming. Strong communicator and problem solver, driven to contribute to impactful software development projects.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MACHINE LEARNING WITH PYTHON",
+        "issuer": "COURSERA",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.32/10.0 upto 5th semester",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.3 percentage",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "424/500",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Super Store Sales Board",
+        "description": "Finalist in the DataVista Business Analytics Competition organized by \"D-Insights: The MIS and Analytics Club\" of IMI Kolkata. Led the development of an interactive sales board. Analyzed and cleaned sales data using Excel and Power BI. Identified key performance indicators (KPIs) to derive valuable insights.",
+        "keywords": [
+          "PowerBi",
+          "Excel"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AWS Resource Usage Reporting Script",
+        "description": "Developed a shell script to automate the generation of AWS resource usage reports. Utilized AWS CLI to query and display details for EC2 instances, S3 buckets, RDS instances, Lambda functions, and EBS volumes. Employed jq for JSON processing and formatted output in a tabular format for enhanced readability.",
+        "keywords": [
+          "Shell Scripting",
+          "AWS EC2"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [
+          "Python",
+          "Machine Learning Models",
+          "pandas",
+          "numpy"
+        ],
+        "endDate": "",
+        "company_name": "Summer Research",
+        "description": "Developed a machine learning model for early heart disease detection using diverse health data. Led data preprocessing, feature selection, and model training to enhance prediction accuracy. Conducted extensive data analysis using pandas and numpy for data manipulation and feature extraction. Collected and utilized open-source data.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Problem Solving",
+      "MYSQL",
+      "JIRA(INVOICE)"
+    ],
+    "soft_skills": [],
+    "name": "R Akanksha Akanksha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Finalist in DataVista Business Analytics Competition",
+      "Advanced to the final round of DataVista, organized by \"D-Insights: The MIS and Analytics Club\" -kolkata."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

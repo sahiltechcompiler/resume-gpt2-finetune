@@ -1,0 +1,98 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Lakshaya K",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP Board of secondary education, AP",
+        "endDate": "2019",
+        "maximum_grade": "GPA: 10.0",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 9.7/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ensemble Deep Learning for Car Crash Detection",
+        "description": "Collaborated with some of my classmates and Prof Prasanthi B, we developed a proposal for a Car Crash Detection System. This innovative tool utilizes deep learning and multi-modal data from dashboard cameras to create an efficient emergency road call service. The system automatically identifies traffic accidents, enabling prompt response and rescue operations by transmitting the information to emergency recovery agencies. Our research project boasts an impressive accuracy rate of 94, ensuring reliable and precise detection of car crashes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Loan default prediction",
+        "description": "Compared Logistic Regression, Random Forest, XGBoost, Neural Network, and a Stacked Classifier. Applied feature engineering, handled missing values, and optimized models using cross-validation. Found Random Forest to be the best model, achieving 89 accuracy while addressing class imbalance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Loan Management System",
+        "description": "Loan Management System is a Web-Based platform which streamlines the loan application, repayment, and management process. It has features like EMI Calculator and Inbox to further improve user experience. Uses Supabase as database for scalability.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "SQL",
+          "Python",
+          "R",
+          "Excel",
+          "Tableau",
+          "Power BI"
+        ],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "Enhanced technical skills in SQL, Python, R, Excel, and data visualization tools (Tableau, Power BI). Gained experience in data cleaning, preprocessing, and transformation techniques. Conducted statistical analysis and implemented machine learning algorithms. Conducted a project on car carbon emissions, involving data analysis and interpretation to identify trends and insights.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "ReactJS",
+      "JS"
+    ],
+    "soft_skills": [],
+    "name": "Lakshaya K",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

@@ -1,0 +1,110 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SAHIL KADAM",
+  "college": "Mumbai University A.C Patil College of Engineering",
+  "locations": [
+    "Navi Mumbai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Mumbai University A.C Patil College of Engineering",
+        "endDate": "JUNE 2024",
+        "maximum_grade": "",
+        "degree": "BACHELOR OF ENGINEERING",
+        "location": "Navi Mumbai",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "FOOTBALL ITICS",
+        "description": "Created an advanced M.L project aimed at automating football match analysis to provide valuable performance insights. Employed a suite of cutting-edge tools including OpenCV and TensorFlow for robust image processing and object detection tasks. Leveraged Google Colab for collaborative. Successfully implemented player and ball detection algorithms, enabling qualification of player attributes such as speed and interactions.",
+        "keywords": [
+          "OpenCV",
+          "TensorFlow"
+        ],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AACHAR SHOP WEBSITE",
+        "description": "Developed an e-commerce platform for pickle sales, offering seamless online shopping. Integrated front-end HTML, CSS, JS and back-end MySQL technologies, employed stripe for secure payments.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SNAP TRACK",
+        "description": "Simplified attendance tracking for teachers and students, reducing manual effort and ensuring accurate attendance records. Implemented the OCR and QR Code scanning and the main functionalities to mark the attendance in the excel sheet. Employed MySQL database for teacher and student registration, storing all relevant details for authentication. Developed separate dashboards for teachers and student. Teachers manage attendance and generate QR codes while student scan the QR codes and marked the attendance if in the defined radius when compared the location with teacher.",
+        "keywords": [
+          "OCR",
+          "QR Code",
+          "MySQL"
+        ],
+        "endDate": "November 2023",
+        "startDate": "November 2022",
+        "url": ""
+      },
+      {
+        "name": "SUPER STORE SALES FORECAST",
+        "description": "Conducted an in-depth sales forecasting project for a retail superstore, aiming to optimize business strategies and enhance sales performance through data-driven decisions. Transformed and filtered data by using aggregating and filtering function to improve reporting process. Generated accurate sales forecasts for the next 15 days based on historical data analysis, providing valuable insights for strategic decision-making and business planning.",
+        "keywords": [],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "AUGUST 2023",
+        "company_name": "SYNC INTERNS",
+        "description": "Designed a visually appealing Product Landing Web Page to showcase a product or service, focusing on user engagement and conversion. Developed an interactive Quiz App, enabling users to answer questions, and track their scores. Created a web-based Music Player, allowing users to organize and enjoy their music. Designed and built an E-learning Website with user authentication, course management and multimedia integration to facilitate effective learning experiences.",
+        "location": "",
+        "links": "",
+        "startDate": "JULY 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "pandas",
+      "matplotlib",
+      "opencv",
+      "tensorflow",
+      "HTML",
+      "CSS",
+      "JS",
+      "REACT",
+      "Excel",
+      "Power Bi",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "SAHIL KADAM",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BACHELOR OF ENGINEERING"
+}

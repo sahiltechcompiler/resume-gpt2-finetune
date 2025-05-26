@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Nikhil Rana",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Noida",
+    "Greater Noida"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Successfully completed from Coursera",
+        "skillsLearned": [],
+        "title": "Foundations: Data, Data, everywhere",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Successfully completed one month Data Analytics certificate program cum internship at YBI Foundation",
+        "skillsLearned": [],
+        "title": "Data Analytics",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Successfully completed a 6-Week course from Internshala",
+        "skillsLearned": [],
+        "title": "Core Java",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Successfully completed 4-Week course from Infosys Springboard",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "10/2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Maharishi Vidya Mandir, Maharishi Nagar (CBSE)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th Standard",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Bank Churning System Using Data Analysis and Machine Learning",
+        "description": "Predict customer churn to help banks retain customers.   Performed exploratory data analysis to identify key features influencing customer churn. Developed and tested multiple machine learning models (Logistic Regression, Decision Trees, Random Forest) to predict customer churn.",
+        "keywords": [],
+        "endDate": "06/2021",
+        "startDate": "06/2020",
+        "url": ""
+      },
+      {
+        "name": "Web Scraping of Amazon page using Selenium and BeautifulSoup",
+        "description": "Developed a web scraping script to automate the extraction of product names, prices, ratings, and reviews from Amazon. Implemented data cleaning and storage mechanisms to organize the scraped data in a structured format.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mouse Control using Hand Gestures",
+        "description": "Utilized OpenCV and Mediapipe libraries to capture and process real-time video feed for hand gesture recognition.  Designed an interface for users to control the mouse cursor, click, and scroll using predefined hand gestures.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Fluent in English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Python (Intermediate)",
+      "Core Java (Basics)",
+      "Machine Learning",
+      "Data Structures",
+      "Data Visualization",
+      "Selenium",
+      "BeautifulSoup",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "OpenCV",
+      "NLP"
+    ],
+    "soft_skills": [],
+    "name": "Nikhil Rana",
+    "position": "",
+    "interests": [
+      "Playing Cricket",
+      "Doing Calisthenics",
+      "Listening to Music"
+    ],
+    "achievements_and_awards": [
+      "150+ Leetcode Question.",
+      "Winner of Young Star Cricket League.",
+      "Handling Social media account of my Branch."
+    ],
+    "publications": []
+  },
+  "current_location": "Noida, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

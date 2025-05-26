@@ -1,0 +1,138 @@
+{
+  "project_count": 5.0,
+  "designation": "Software Engineer",
+  "name": "Aditya Raj",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Faridabad",
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "Currently pursuing B.Tech (Hons.) in Computer Science and Engineering (IoT & IS), actively seeking opportunities in software development. Proficient in programming languages and eager to apply theoretical knowledge to practical projects. Passionate about leveraging technology to create innovative solutions.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech (Hons.)",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering (IoT & IS)",
+        "startDate": "Oct 2021"
+      },
+      {
+        "school": "DAV Public School",
+        "endDate": "Apr 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "92%",
+        "field_of_study": "",
+        "startDate": "Mar 2018"
+      },
+      {
+        "school": "CH.Baldev Singh School",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "78%",
+        "field_of_study": "",
+        "startDate": "Mar 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Low Light Image Enhancement",
+        "description": "Clearing objectives for low light image enhancement. Researching available enhancement techniques and algorithms. Experimenting with various image enhancement algorithms. Implementing and refining chosen enhancement methods iteratively.",
+        "keywords": [
+          "Deep Learning"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Smart IOT Cradle System",
+        "description": "Integration of sensors for real-time data collection. Monitoring of baby's sleeping patterns. Providing alerts and insights to caregivers remotely. Implementation of safety features like temperature and motion alerts.",
+        "keywords": [
+          "Arduino"
+        ],
+        "endDate": "Dec 2024",
+        "startDate": "Sep 2023",
+        "url": ""
+      },
+      {
+        "name": "Society Management System",
+        "description": "Developed Society Management System integrating MySQL, PHP, HTML. Enabling efficient data management and user interaction. Designing of intuitive interface for seamless user experience. Implementing features for member registration and event scheduling.",
+        "keywords": [
+          "Web-Dev",
+          "DBMS"
+        ],
+        "endDate": "Mar 2023",
+        "startDate": "Feb 2023",
+        "url": ""
+      },
+      {
+        "name": "Real time weather information",
+        "description": "Integration of APIs for live weather data retrieval. Displaying weather updates in user-friendly format.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "Dec 2022",
+        "startDate": "Oct 2022",
+        "url": ""
+      },
+      {
+        "name": "College Campus Information Webpage",
+        "description": "HTML/CSS webpage: College campus information hub. Organized layout for easy navigation and accessibility. Designed with responsive features for optimal viewing.",
+        "keywords": [
+          "Front End"
+        ],
+        "endDate": "Mar 2022",
+        "startDate": "Jan 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "General Secretary",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Glitch! Society",
+        "description": "Actively contributing to the organization's leadership and management. Collaborated with fellow students, faculty, and external stakeholders to enhance the society's impact and reach.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2023"
+      }
+    ],
+    "skills": [
+      "Data Structure and Algorithms",
+      "Java",
+      "MySQL",
+      "PHP",
+      "Python",
+      "C Programming",
+      "CSS",
+      "HTML5",
+      "React",
+      "Arduino"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Raj",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Faridabad, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech (Hons.)"
+}

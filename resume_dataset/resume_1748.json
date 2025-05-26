@@ -1,0 +1,148 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "SANJIT KHURANA",
+  "college": "MANIPAL UNIVERSITY",
+  "locations": [
+    "Jaipur, Rajasthan, India",
+    "Chandigarh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering with Specialization in Internet of Things (IoT) and Intelligent Systems (Hons)",
+        "startDate": ""
+      },
+      {
+        "school": "ST. JOHNS HIGH SCHOOL",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Chandigarh, India",
+        "ID": 1.0,
+        "grade_received": "83%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "LAPTOP PRICE PREDICTOR",
+        "description": "Built a Machine Learning model that predicts the price of a laptop based on given specifications. Used libraries such as NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn.",
+        "keywords": [
+          "Machine Learning",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "Scikit-Learn",
+          "Seaborn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WEB APPLICATION TEXTUTILS",
+        "description": "Built a web application using React and Bootstrap. The application contains functionalities to apply specific modifications to input text.",
+        "keywords": [
+          "React",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "UI AUTOMATION PROJECT",
+        "description": "Built an automation project to retrieve product data from the Amazon website, filtering it based on specifications, and displaying it in an excel file.",
+        "keywords": [
+          "UI Automation"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CONWAYS GAME OF LIFE",
+        "description": "Implemented Conways Game of Life in Python using Pygame.",
+        "keywords": [
+          "Python",
+          "Pygame"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MOTION DETECTION SYSTEM",
+        "description": "Built a motion detection system using arduino uno, IR sensor and LED.",
+        "keywords": [
+          "Arduino",
+          "IR sensor"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Robotic Process Automation (RPA) intern",
+        "skillsUsed": [
+          "Uipath",
+          "Automation"
+        ],
+        "endDate": "",
+        "company_name": "CENTELLI",
+        "description": "Worked as a Robotic Process Automation (RPA) intern. Learnt to use the Uipath tool. Automated manual tasks using Uipath. Built automation projects such as UI automation, excel automation, etc.",
+        "location": "",
+        "links": "",
+        "startDate": "Summer Internship"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Data Structures",
+      "Algorithms",
+      "Databases",
+      "Machine Learning",
+      "Web Development",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Scikit_Learn",
+      "Seaborn",
+      "Uipath (Robotic Process Automation tool)"
+    ],
+    "soft_skills": [
+      "Excellent time management",
+      "communication skills"
+    ],
+    "name": "SANJIT KHURANA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

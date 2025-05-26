@@ -1,0 +1,146 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Amit Vishwakarma",
+  "college": "Shri Ram Institute of Science And Technology",
+  "locations": [
+    "Mumbai, Maharastra",
+    "Gurgaon, Haryana",
+    "Indore, MP"
+  ],
+  "full_output": {
+    "summary": "Innovative full-stack developer skilled in React, Node.js, and database management. Eager to leverage expertise in MERN stack and API integration to build scalable web applications. Seeking to contribute to a dynamic tech team.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Backend | Frontend | python | Data Structure",
+        "skillsLearned": [],
+        "title": "Full Stack Web Development",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shri Ram Institute of Science And Technology",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Bachelor of engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 6.7",
+        "field_of_study": "ECE",
+        "startDate": "2015"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Resunova App",
+        "description": "Developed for create resume and also download the resume in pdf form. Integrated bcrypt for encrypt the password of the user and also used passport, passport-jwt and jsonwebtoken for user authentication. Contributed to the creation of a user-friendly interface and ensured a smooth user experience throughout resume generation process.",
+        "keywords": [
+          "React",
+          "Mongodb",
+          "Nodejs",
+          "Bootsrap",
+          "Express"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "E-commerce",
+        "description": "Built a Front end e-commerce application using redux toolkit and firebase, It offers an intuitive interface for sort product, edit and delete the product. Project Management: Provides an organized overview of projects with timestamps, their issues, enabling seamless CRUD operations - Create, Read, Update, and Delete. Implemented a comprehensive product management module, allowing users to navigate through product details.",
+        "keywords": [
+          "React",
+          "React-Redux",
+          "Redux-tookit",
+          "Firebase",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub live"
+      },
+      {
+        "name": "E Learning API",
+        "description": "Developed an E-learning API with distinct user and admin sections, incorporating comprehensive CRUD operations. Integrated Claude AI for an interactive query system, where users can ask questions and receive AI-generated solutions in real-time and Utilized Passport-JWT (JSON Web Token) for secure authentication processes for user and admin. Implemented a robust email notification system using an SMTP server for various triggers such as user registration, course enrollment, and password reset token generation.",
+        "keywords": [
+          "NodeJs",
+          "Express",
+          "postman",
+          "Postgres",
+          "Claude AI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub live"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "MERN developer(Intern)",
+        "skillsUsed": [
+          "MongoDB",
+          "Express.js",
+          "React",
+          "Node.js"
+        ],
+        "endDate": "present",
+        "company_name": "Zidio",
+        "description": "Working on project where my role is to work on back end. Gained hands-on experience with MongoDB, Express.js, React, and Node.js (MERN stack) for full-stack web development. Developed and maintained backend services using Node.js and Express.js. Implemented and managed RESTful APIs to handle event-driven architectures.",
+        "location": "Mumbai, Maharastra",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Teaching Assistance(Intern)",
+        "skillsUsed": [
+          "Node.js",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "endDate": "June 2024",
+        "company_name": "Coding Ninja",
+        "description": "Addressing the students queries, I am working with a tech stack that includes Node.js, HTML, CSS, JavaScript, and Bootstrap. Debugging the codes and Helping students in their assignments various projects.",
+        "location": "Gurgaon, Haryana",
+        "links": "",
+        "startDate": "March 2024"
+      },
+      {
+        "role_name": "Quality Analyst",
+        "skillsUsed": [
+          "Ms-Excel"
+        ],
+        "endDate": "March 2023",
+        "company_name": "Teleperformance",
+        "description": "Led a team of 20 employees and also work in Ms-Excel, Managed customer interactions, provided feedback. Handled client interactions with a focus on effective communication and professionalism.",
+        "location": "Indore, MP",
+        "links": "",
+        "startDate": "March 2020"
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL(mysql, postgress)",
+      "Nosql"
+    ],
+    "soft_skills": [],
+    "name": "Amit Vishwakarma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2019.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of engineering"
+}

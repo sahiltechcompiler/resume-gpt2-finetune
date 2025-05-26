@@ -1,0 +1,190 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Vipul Jain",
+  "college": "Shah & Anchor Kutchhi Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah & Anchor Kutchhi Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.42/10",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Maharashtra State Board",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "76.00%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Maharashtra State Board",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "79.40%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Shopping Cart & GYM Management System",
+        "description": "Our project encompasses a Shopping Cart and Gym Management System, utilizing Java for the frontend and MySQL for the backend. This setup ensures a robust and efficient solution for managing both shopping transactions and gym operations seamlessly.",
+        "keywords": [
+          "Java",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online ShoppinglyX & MyFinance",
+        "description": "Our project consists of two components: Online Shoppinglyx and MyFinance. Both are built using HTML, CSS, and JavaScript for the frontend, and Django for the backend. This comprehensive setup ensures a user-friendly interface for online shopping and efficient financial management functionalities.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "JQuery"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Our project is a Movie Recommendation System that combines Machine Learning algorithms with HTML, CSS, and JavaScript for the frontend. This integration allows users to receive personalized movie recommendations based on their preferences and viewing history, enhancing their movie-watching experience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Synopsia",
+        "description": "Our project, Synopsia, integrates a frontend developed with HTML, CSS, and JavaScript, coupled with a backend powered by Django. It features functionalities such as booking appointments, scheduling meetings, and predicting diseases based on symptoms provided by the user. Additionally, users can purchase medicines through the medical shopping cart feature. This comprehensive solution aims to streamline healthcare management and improve accessibility to medical services and resources.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "JQuery",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "Creative Finserve Pvt Ltd",
+        "description": "I've developed websites for Cyphersol and Bizpedia, integrating two-factor security and reCAPTCHA. Created login/registration pages and designed user flows for financial products like loans. In Cyphersol, users upload bank statements for transaction history cleaning and service eligibility prediction. In Bizpedia, user data from financial flows predicts service eligibility. My focus ensures seamless user experiences across platforms.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2022"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "Taxpert Professional (P) Ltd",
+        "description": "I have experience working on several websites built with WordPress. I identified specific websites and implemented changes to the CSS and JavaScript to enhance their appearance and functionality. Additionally, I identified bugs and resolved them on the websites.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2023"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2022",
+        "company_name": "Habitat for Humanity Trust",
+        "description": "I have successfully completed a task involving web scraping and sourcing data. Specifically, I compiled a list of 1000 companies located in Gujarat and New Delhi.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2022"
+      },
+      {
+        "role_name": "Cyber Security Intern",
+        "skillsUsed": [],
+        "endDate": "July 2022",
+        "company_name": "Cisco Virtual Internship",
+        "description": "I have developed a project focused on cybersecurity, wherein I designed a secure network infrastructure tailored for our institution. This network architecture is equipped with robust security measures to safeguard against cyber threats and ensure the integrity and confidentiality of our data.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2022"
+      },
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2022",
+        "company_name": "Knowledge Solution India",
+        "description": "I designed a medical insurance forecast using data science and analytics. I improved my skills by learning the NumPy and Pandas libraries through training.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Django",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JQuery",
+      "C/C++",
+      "Java",
+      "MySQL",
+      "GitHub",
+      "AWS",
+      "Excel"
+    ],
+    "soft_skills": [
+      "Good Communication",
+      "Presentation",
+      "Team Management",
+      "Leadership",
+      "Observation"
+    ],
+    "name": "Vipul Jain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart India Hackathon Finalist | DEC-2023: As finalists in the Smart India Hackathon, our team developed the 'Shakti Chatbot' project, focusing on power station maintenance and queries. This innovative solution aims to streamline communication and support for power station personnel, enhancing efficiency and effectiveness in addressing issues and inquiries."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 5.0,
+  "degree": "Bachelor of Engineering"
+}

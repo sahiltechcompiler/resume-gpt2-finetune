@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Abhishek Raj",
+  "college": "Vellore Institute of Technology",
+  "locations": [
+    "Vellore, Tamil Nadu",
+    "Chhapra, Bihar",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Security, Compliance, and Identity Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internship Certificate",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vellore Institute of Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.25",
+        "field_of_study": "Information Technology",
+        "startDate": "Sept. 2020"
+      },
+      {
+        "school": "Chapra Central School",
+        "endDate": "March 2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 70.4 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "To-do List WhatsApp Reminder",
+        "description": "Set reminders for upcoming tasks and events.Get notified when its time to take action. Stay on top of your to-do list. Never miss a deadline again. Implemented real-time to-do list WhatsApp notifications to enhance task alert, resulting in a 80% reduction in response time for important task. Optimized user interface to ensure seamless accessibility for all users, resulting in a 40% increase in user engagement and a 25% decrease in bounce rate.",
+        "keywords": [
+          "MERN"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Weather App",
+        "description": "The weather service will then provide you with the latest weather forecast and current conditions for the selected location. Stay informed with detailed information on humidity levels, wind speed, and other essential weather data with time and date. Implemented an intuitive design framework that streamlined user experience and accessibility, resulting in a 25% decrease in support tickets and a 15% increase in user satisfaction ratings.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "API"
+        ],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Students Portal (Group Project)",
+        "description": "User authentication using Hashcode and personalized dashboards for students and teachers. Grade management feature for teachers to update students marks and academic achievements. Communication tools like in-app messaging and calendar for scheduling and announcements will integrate this.",
+        "keywords": [
+          "PHP",
+          "JS",
+          "HTML",
+          "SQL",
+          "BootStrap"
+        ],
+        "endDate": "March 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [
+          "ReactJS",
+          "Angular",
+          "NextJS",
+          "TypeScript",
+          "JavaScript"
+        ],
+        "endDate": "Jan 2023",
+        "company_name": "Gravitas AI",
+        "description": "I worked on dashboards in which first is School dashboard, Developed a visually compelling School Dashboard that presented data, empowering educators make data-driven decisions, and ultimately optimize student outcomes. Second One Hospital dashboard, it trails the patient data including diagnoses, treatments, medications, length of stay, readmission rate, and patient satisfaction. I have worked on 3 frameworks which are ReactJS ,Angular and NextJS, which gives a good understanding of their Users on clientside. I am comfortable working with both TypeScript and JavaScript.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jul 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "SQL",
+      "Node.js",
+      "Angular",
+      "Material-UI",
+      "React-JS",
+      "Git",
+      "VSCode",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Abhishek Raj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

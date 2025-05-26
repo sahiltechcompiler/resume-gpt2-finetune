@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ASHPAK SHAIKH",
+  "college": "Shah and Anchor Kuttchi Engineering College",
+  "locations": [
+    "India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor Kuttchi Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Computer Engineering",
+        "location": "India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.5",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "Vani Vidyalaya",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "HSC (Class XII)",
+        "location": "India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 83.24",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "S.B.M Padwal Vidyalaya",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "SSC (Class X)",
+        "location": "India",
+        "ID": 2.0,
+        "grade_received": "Percentage: 89.60",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Learning using Machine Learning",
+        "description": "Developed a comprehensive e-learning platform integrating machine learning models for enhanced user experience. This project features content recommendation, learning classification, and spam detection functionalities. The frontend was built using React.js, the backend with Node.js, and the machine learning models were implemented in Python.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Python",
+          "Machine Learning",
+          "Scikit-learn",
+          "streamlit",
+          "Flask"
+        ],
+        "endDate": "Feb` 24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Natours Website",
+        "description": "Developed a comprehensive full-stack web application for a tour booking service. Frontend Development: Created a responsive and visually appealing UI using HTML5, CSS3, Sass (SCSS), Flexbox, and CSS Grid. Backend Development: Built a RESTful API with Node.js and Express to manage tours, users, and bookings. API Integration: Connected the frontend with the backend via RESTful APIs, enabling seamless data flow and dynamic content rendering. Tools and Technologies: Used Postman for API testing.",
+        "keywords": [
+          "HTML5",
+          "CSS3",
+          "Sass",
+          "Node.js",
+          "Express",
+          "Postman"
+        ],
+        "endDate": "June`22",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Airline Management System",
+        "description": "Developed an Airline Management System using Java to handle various aspects of airline operations, including flight scheduling, booking management, and passenger information. This project demonstrates proficiency in object-oriented programming and Java application development.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "Dec`21",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "Machine Learning",
+      "JavaScript",
+      "NodeJS",
+      "React",
+      "MongoDB",
+      "Blockchain",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Strong analytical and problem-solving skills",
+      "Teamwork skills"
+    ],
+    "name": "ASHPAK SHAIKH",
+    "position": "",
+    "interests": [
+      "Enjoy in solving coding problems and hackathons to continuously improve problem-solving skills and collaborate with other developers.",
+      "Active in sports like Cricket and running, maintaining physical fitness and teamwork skills.",
+      "Regularly watch tech videos and articles to stay updated with the latest trends in technology and software development."
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Computer Engineering"
+}

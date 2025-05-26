@@ -1,0 +1,103 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Harsh Kumar Singh",
+  "college": "Kiet Group of Institutions",
+  "locations": [
+    "Ghaziabad, India",
+    "Gorakhpur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Kiet Group of Institutions",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.8",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Central Public Academy",
+        "endDate": "May 2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary (12th Grade)",
+        "location": "Gorakhpur, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 81%",
+        "field_of_study": "PCM",
+        "startDate": "July 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Netflix Clone",
+        "description": "Developed a Netflix clone using HTML, CSS, and JavaScript. This project aimed to replicate the user interface of the popular streaming platform Netflix, providing users with a familiar browsing experience. Implemented features include dynamic content loading, responsive design, and interactive UI elements.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Tic Tac Toe Game",
+        "description": "Designed and implemented a Tic Tac Toe game using HTML and CSS. This project involved creating a classic game of Tic Tac Toe playable in the browser. It features a simple user interface with intuitive gameplay mechanics. The game allows two players to take turns marking spaces on a 3x3 grid, aiming to achieve a row, column, or diagonal of their respective symbols (X or O).",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Currency Converter",
+        "description": "Built a currency converter web application using HTML, CSS, and JavaScript. The application allows users to convert between different currencies, providing real-time exchange rates fetched from an API. Users can input the amount in one currency and select the desired conversion currency, receiving instant conversion results.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++ (Advanced)",
+      "C (Intermediate)",
+      "Python (Intermediate)",
+      "Git",
+      "GitHub",
+      "Basic Linux"
+    ],
+    "soft_skills": [],
+    "name": "Harsh Kumar Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winner of College Level Hackathon (07/2022 - 07/2022)",
+      "HackerRank 5-Star Rating",
+      "CodeChef 2-Star Rating",
+      "Completed 150 questions on LeetCode",
+      "Completed 100 questions on GeeksforGeeks",
+      "Winner of Institutional Level Cricket Tournament (10/2022 - 10/2022)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

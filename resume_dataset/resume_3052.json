@@ -1,0 +1,178 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kanchan",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Uttar Pradesh, India",
+    "South-East Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "University of Michigan (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming Arrays, Lists, and Structured Data",
+        "issuer": "Duke University (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Databases and SQL for Data Science with Python",
+        "issuer": "IBM Skills Network (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Flask Master Class For Beginners to Pro",
+        "issuer": "Codedamn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Data Structures and Algorithms",
+        "issuer": "Codedamn",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "A member of Google Developer Student Clubs at Noida Institute of Engineering and Technology.",
+      "Selected as a Contributor in GirlScript Summer Of Code (GSSOC24) which is a 3 month long open-source program by GirlScript Foundation.",
+      "A member of GirlScript Summer of Code program conducted by Girl Script Foundation."
+    ],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.31/10.0",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Sarvodaya Kanya Vidyalaya",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "77.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sarvodaya Kanya Vidyalaya",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "79%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "To-do list",
+        "description": "Developed a to-do list application using Python, Flask, and SQLite with ORM via Flask-SQLAlchemy. Designed a responsive user interface using HTML, CSS, and JavaScript.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Cryptocurrency Price Prediction",
+        "description": "Built a data pipeline using Python, NLP, and Pandas to preprocess cryptocurrency news for sentiment analysis and price prediction. Integrated sentiment analysis with historical price data to enhance prediction accuracy.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Emotion Detection",
+        "description": "Built an emotion detection system using Python, Keras, and OpenCV for facial expression recognition. Achieved real-time emotion classification through video capture and face detection with OpenCV.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Virtual Intern",
+        "skillsUsed": [],
+        "endDate": "07/2024",
+        "company_name": "Celebal Technologies",
+        "description": "Engineered and supported interactive, user-centric web applications with React JS.",
+        "location": "",
+        "links": "",
+        "startDate": "06/2024"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "09/2022",
+        "company_name": "Internshala",
+        "description": "Completed comprehensive training in HTML, CSS, JavaScript, and Bootstrap, developing responsive and interactive web pages using modern technologies.",
+        "location": "Uttar Pradesh, India",
+        "links": "",
+        "startDate": "07/2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "OpenCV",
+      "NumPy",
+      "Pandas",
+      "Flask",
+      "React",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Strategic Planning",
+      "Team Collaboration",
+      "Time Management"
+    ],
+    "name": "Kanchan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

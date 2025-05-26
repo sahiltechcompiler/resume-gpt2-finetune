@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Saurav Kumar Mishra",
+  "college": "Maharaja Agrasen Insitute of Technology, GGSIPU",
+  "locations": [
+    "New Delhi",
+    "City, State"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Achieved a 4 star fraternity ranking by the Office of Fraternity and Sorority Affairs (highest possible ranking). Managed executive board of 5 members and ran weekly meetings to oversee progress in essential parts of the chapter. Led chapter of 30+ members to work towards goals that improve and promote community service, academics, and unity.",
+        "skillsLearned": [],
+        "title": "Team President",
+        "issuer": "University Name",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Insitute of Technology, GGSIPU",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Guru Nanak Dev Institute of Technology, BTE Delhi",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Electrical Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blogging Platform",
+        "description": "Developed a full-stack blog platform with MERN and Redux Toolkit, achieving a 30% reduction in feature development time. Integrated Cloudinary for image management, increasing upload efficiency by 40%. Enabled users to post, read, update, and delete blogs, with a responsive UI built using Tailwind CSS, enhancing user engagement by 25%.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "www.github.com/Saurav-Kumar-Mishra/blog"
+      },
+      {
+        "name": "FullStack Self-Portfolio",
+        "description": "Developed a dynamic portfolio using React, integrating EmailJS for direct communication, improving response time by 50%. Designed a responsive, visually appealing interface with smooth navigation and interactive elements, resulting in a 40% increase in user engagement.",
+        "keywords": [
+          "React.js"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": "saurav-kumar-mishra.github.io/Portfolio"
+      },
+      {
+        "name": "Fake Store",
+        "description": "Developed a fake store application with React.js, Redux Toolkit, and Tailwind CSS, reducing development time by 30%. Designed a responsive interface with Tailwind CSS, improving user experience across devices by 40%.",
+        "keywords": [
+          "React.js",
+          "Redux Toolkit",
+          "Tailwind CSS"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": "https://reactfakestoreui.netlify.app/"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "June 2025",
+        "company_name": "CodSoft",
+        "description": "Developed a landing page using HTML, CSS, and JavaScript, enhancing visual appeal and user engagement. Created a portfolio website with HTML, CSS, and JavaScript to showcase skills and projects effectively. Built a calculator application using JavaScript, demonstrating proficiency in scripting and logic implementation.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "Nov. 2022"
+      },
+      {
+        "role_name": "Full Stack Web Developer Intern",
+        "skillsUsed": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Redux Toolkit"
+        ],
+        "endDate": "present",
+        "company_name": "Webstack Academy",
+        "description": "Developing a food ordering app using React, Node.js, Express, MongoDB, and Redux Toolkit. Enabled user authentication, profile management, and secure payment integration. Features include restaurant browsing, menu viewing, cart management, and order placement with responsive design.",
+        "location": "City, State",
+        "links": "",
+        "startDate": "1 July 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Saurav Kumar Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Science"
+}

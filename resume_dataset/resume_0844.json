@@ -1,0 +1,150 @@
+{
+  "project_count": 5.0,
+  "designation": "B.Tech. Student",
+  "name": "Anamitra Baruah",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Thane, Maharashtra"
+  ],
+  "full_output": {
+    "summary": "To learn & work for an organization which can provide me the opportunity to enhance my skills and knowledge on Information Technology and to grow along with the organization.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design & Analysis of Algorithms",
+        "issuer": "NPTEL (National Programme on Technology Enhanced Learning)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering",
+        "issuer": "NPTEL (National Programme on Technology Enhanced Learning)",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "August 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.48",
+        "field_of_study": "Information Technology",
+        "startDate": "September 2021"
+      },
+      {
+        "school": "Maharashtra State Board",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "HSC Science",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.33%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Universal High School Thane, Mumbai",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "ICSE",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "95.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hospital Management System",
+        "description": "The project provides a comprehensive overview of the objectives, deliverables, constraints, & evaluation criteria for developing a Hospital Management System in C. It serves as a guideline for developers to understand the scope and requirements of the project.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "Semester 1",
+        "url": ""
+      },
+      {
+        "name": "Weather App",
+        "description": "Created a web application that leverages HTML, CSS, and JavaScript to fetch weather data from a weather API and display current weather conditions and forecasts for a specific location. It provides users with real-time weather information, allowing them to stay informed about the weather conditions in their desired location.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "Semester 3",
+        "url": ""
+      },
+      {
+        "name": "Database in SQL",
+        "description": "Created a database in SQL which involved defining the structure of the data, including tables, relationships, and constraints. The SQL script can be executed in a SQL Server, MySQL, PostgreSQL, or other relational database management system (RDBMS).",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "Semester 4",
+        "url": ""
+      },
+      {
+        "name": "Travel Insurance Prediction Data Statistics, Analysis and Prediction using Machine Learning",
+        "description": "In this study, a ML model was proposed, implemented using Python programming language, that exhibits high accuracy in predicting travel insurance claims. To develop the ML model, feature engineering, data pre-processing, and ML algorithms were utilized. The data were pre-processed, and feature engineering was performed to transform the data into a suitable format for our model. Then the data were divided into training and testing sets to train and evaluate our model's performance. Various ML algorithms were utilized to optimize the model's accuracy and efficiency.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "Semester 5",
+        "url": ""
+      },
+      {
+        "name": "Twitter Sentiment Analysis- Hate Speech Detection",
+        "description": "The goal of this project is to employ sentiment analysis techniques to automatically identify hate speech on Twitter. The scope includes numerous important areas: i) Data collection and preprocessing: A sizable dataset of tweets classified as hate speech and regular text will be gathered. After that, the data will be cleansed, formatted for use with sentiment analysis tools, and any unnecessary information will be removed in order to prepare it for analysis. ii) Sentiment analysis and feature engineering: To extract features from the text data that capture emotional tones and signs of hate speech, we will investigate various sentiment analysis techniques. We will also investigate further feature engineering techniques to find pertinent features that set hate speech apart.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "Semester 6",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Assamese",
+      "Marathi"
+    ],
+    "experiences": [],
+    "skills": [
+      "MS Word",
+      "MS Excel",
+      "HTML",
+      "CSS",
+      "PHP",
+      "Programming in C",
+      "JAVA",
+      "Object oriented Programming",
+      "Linux",
+      "SQL in database",
+      "Jupyter Notebook"
+    ],
+    "soft_skills": [],
+    "name": "Anamitra Baruah",
+    "position": "B.Tech. Student",
+    "interests": [
+      "Playing Piano",
+      "Swimming",
+      "Avid reader"
+    ],
+    "achievements_and_awards": [
+      "Selected for Deans Merit Award by the University"
+    ],
+    "publications": [
+      "5G: A Review of Current Technologies",
+      "DevOps Enabled Agile",
+      "Travel Insurance Prediction"
+    ]
+  },
+  "current_location": "Thane, Maharashtra",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

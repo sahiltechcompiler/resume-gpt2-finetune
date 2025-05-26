@@ -1,0 +1,133 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shivansh Srivastava",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Lucknow, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "10.00",
+        "degree": "Bachelor of Technology(Hons.)",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "7.65 / 10.00",
+        "field_of_study": "Computer Science and Engineering with AI/ML",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Fidelis College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Lucknow, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "84.5%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Fidelis College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Lucknow, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "87.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Behavior Pattern Analysis",
+        "description": "Designed a NLP-driven chatbot for Behavior Pattern Recognition in Mental Health, achieving a 60% engagement rate by delivering tailored responses based on detected user sentiments through predefined algorithms. Engineered a model using CNN to detect user sentiments in five categories: fear, anger, joy, sad, and neutral, based on user responses. Enhanced the chatbots ability to understand and analyze user emotions, facilitating more effective mental health support and interventions.",
+        "keywords": [
+          "Deep Learning",
+          "Tensorflow",
+          "NLP",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link To Project"
+      },
+      {
+        "name": "Heart Disease Prediction",
+        "description": "Implemented a predictive model using advanced machine learning algorithms to analyze patient data, achieving a 92% accuracy rate in predicting heart disease likelihood, and assisting doctors in early diagnosis and treatment planning. Utilized techniques such as K nearest neighbors and Naive Bayes to enhance prediction accuracy and model performance. Improved early detection and prevention strategies by providing actionable insights through accurate and reliable heart disease risk assessments.",
+        "keywords": [
+          "Python",
+          "Keras",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link To Project"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "Tata Consultancy Services",
+        "description": "Developed an end-to-end sustainability project to calculate the CO2 emissions of people using deep learning and computer vision. Engineered a comprehensive data pipeline and predictive models for real-time detection and forecasting of CO2 emissions. Developed a NLP system using word embeddings and cosine similarity to match job descriptions with candidate profiles, identifying suitable students for each role.",
+        "location": "Lucknow",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Centre For Advanced Studies",
+        "description": "Completed a 6-week summer internship at the Center for Advanced Studies, Lucknow, and developed a groundbreaking NLP project for analyzing sentiments in Hindi text using advanced machine learning algorithms. Achieved a 78% accuracy rate in sentiment classification, significantly enhancing data-driven decision-making capabilities. Applied various machine learning techniques, including linear regression, logistic regression, random forest, support vector machine, and decision tree.",
+        "location": "Lucknow",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "JavaScript",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Computer Vision",
+      "TensorFlow",
+      "MongoDB",
+      "Bootstrap",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "Data Structures and Algorithms",
+      "Computer Networks",
+      "Operating System",
+      "Software Management",
+      "Soft Computing",
+      "Software Engineering",
+      "Relational Database Management System"
+    ],
+    "soft_skills": [],
+    "name": "Shivansh Srivastava",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Lucknow, Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology(Hons.)"
+}

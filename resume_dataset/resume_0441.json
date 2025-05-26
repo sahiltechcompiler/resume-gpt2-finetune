@@ -1,0 +1,260 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "HARSHIT SINGHAI",
+  "college": "Manipal University",
+  "locations": [
+    "Hyderabad, India",
+    "Jaipur, India",
+    "Bengaluru, India"
+  ],
+  "full_output": {
+    "summary": "Highly motivated Computer Science and Engineering graduate with a stellar academic record and a passion for technology. Participated in various cultural, science exhibitions, and sports events in Schools and Manipal University, showcasing a well-rounded skill set. Notable achievements include receiving Excellence awards for outstanding academic performance during B-Tech and securing a State-level championship in Abacus. Driven by a strong desire to make a meaningful impact in the eld of computer science, dedicated to staying updated on industry advancements, and leveraging knowledge to solve complex challenges. A versatile and dynamic professional ready to thrive in a dynamic and evolving technological landscape.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete 2023 Web Development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Python Programming",
+        "issuer": "University of Pennsylvania | Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Java and Object-Oriented Programming",
+        "issuer": "University of Pennsylvania | Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Fundamentals",
+        "issuer": "Duke University | Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures",
+        "issuer": "University of California San Diego | Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science and Machine Learning Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NLP in TensorFlow",
+        "issuer": "DeepLearning.AI | Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.Tech (Hons)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA 9.0 / 10.0",
+        "field_of_study": "Computer Science & Engineering with IoT and Intelligent Systems",
+        "startDate": ""
+      },
+      {
+        "school": "P. Obul Reddy Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage 93.4 / 100",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "P. Obul Reddy Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage 94.6 / 100",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Quiz Application",
+        "description": "The application enables users to take quizzes with multiple-choice questions and receive scores based on their answers.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "Spring Data JPA",
+          "PostgreSQL"
+        ],
+        "endDate": "06/2024",
+        "startDate": "06/2024",
+        "url": "Link"
+      },
+      {
+        "name": "http-status-message",
+        "description": "A comprehensive npm package providing tailored HTTP status code messages for web applications and APIs.",
+        "keywords": [
+          "TypeScript",
+          "Node.js",
+          "npm"
+        ],
+        "endDate": "05/2024",
+        "startDate": "05/2024",
+        "url": "Link"
+      },
+      {
+        "name": "Food Ordering Chatbot",
+        "description": "Let users place and track orders by integrating a chatbot into the web application.",
+        "keywords": [
+          "HTML5",
+          "Tailwind CSS",
+          "Javascript ES6+",
+          "Typescript 5+",
+          "React JS",
+          "Python",
+          "Fast API",
+          "MySQL"
+        ],
+        "endDate": "04/2024",
+        "startDate": "04/2024",
+        "url": "Link"
+      },
+      {
+        "name": "WorkNow-Task Management Web App",
+        "description": "WorkNow Web App enables users to efciently plan, organize, and track tasks and projects.",
+        "keywords": [
+          "HTML5",
+          "CSS3",
+          "Javascript ES6+",
+          "Typescript",
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "Redux Toolkit",
+          "RESTful APIs",
+          "MongoDB Atlas",
+          "Tailwind CSS"
+        ],
+        "endDate": "03/2024",
+        "startDate": "02/2024",
+        "url": "Link"
+      }
+    ],
+    "languages": [
+      "English Proficient",
+      "Hindi Native"
+    ],
+    "experiences": [
+      {
+        "role_name": "Project Intern - Industry 4.0",
+        "skillsUsed": [
+          "Python",
+          "Machine Learning",
+          "Java",
+          "Spring Boot"
+        ],
+        "endDate": "Present",
+        "company_name": "Elfonze Technologies Pvt. Limited",
+        "description": "Collaborating on an R&D project to automate candidates prole matching with the job description using Python and Machine Learning technologies. Developing backend logic for a Talent Management platform using Java and Spring Boot. Implemented authentication and authorization mechanism using SMTP and email verication, Spring Security and JWT authentication.",
+        "location": "Bengaluru, India",
+        "links": "",
+        "startDate": "06/2024"
+      },
+      {
+        "role_name": "Summer Intern - Online Mode",
+        "skillsUsed": [
+          "React JS"
+        ],
+        "endDate": "Present",
+        "company_name": "Celebal Technologies",
+        "description": "Developing a user registration and login system to enable personalized access within a Service Desk Application, utilizing React JS. In addition, I am crafting a React-based Admin Dashboard application that features customizable themes, tables, charts, and a Kanban board for enhanced project management and analytics.",
+        "location": "Jaipur, India",
+        "links": "",
+        "startDate": "05/2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Java Script",
+      "ES6+",
+      "Spring Boot",
+      "React JS",
+      "SQL",
+      "Python"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Teamwork",
+      "Problem Solving",
+      "Quick Learner",
+      "Communication",
+      "Presentation",
+      "Adaptability",
+      "Time Management",
+      "Critical Thinking"
+    ],
+    "name": "HARSHIT SINGHAI",
+    "position": "",
+    "interests": [
+      "Tech Enthusiast",
+      "Digital Automations",
+      "Chess"
+    ],
+    "achievements_and_awards": [
+      "Dean's Excellence Award in Academics in B.Tech 2nd & 3rd Year In Recognition of having received the highest Grade points %",
+      "Won State Level Championship Trophy for UCMAS Abcaus Program",
+      "Participated in the 10th State-level UCMAS Abacus and Mental Arithmetic Competition in 2014 and achieved a CHAMPION Rank"
+    ],
+    "publications": [
+      "An Experimental Analysis of Brain Stroke Prediction Using Machine Learning Algorithms (DOI:10.1109/ IATMSI60426. 2024. 10503299) Institute of Electrical and Electronics Engineers - IEEE https://ieeexplore.ieee.org/document/10503299"
+    ]
+  },
+  "current_location": "Hyderabad, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech (Hons)"
+}

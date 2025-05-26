@@ -1,0 +1,195 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Sneha Kamthekar",
+  "college": "Trinity College of Engineering and Research",
+  "locations": [
+    "Pune",
+    "Hyderabad",
+    "Nanded",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "Technical Skills: Python, C++, SQL, Machine Learning,Data Science, Web Development.  Frameworks: Scikit,Qiskit, Keras, Bootstrap.  Tools: GIT,Github,Trello.  Soft Skills: Adaptive,Team work, Collaborative, Task Management.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certification in Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certification in Oracle SQL",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certification in Agile Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certification in Data Science",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "TNP Coordinator at TITANS: Managed and hosted training and placement drives as coordinator.",
+      "Technical Events Coordinator: Managed the technical event of the department. (Technowave)"
+    ],
+    "education": [
+      {
+        "school": "Trinity College of Engineering and Research",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Pune",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.13",
+        "field_of_study": "Information Technology",
+        "startDate": "2020"
+      },
+      {
+        "school": "Sri Chaitanya Kalashala",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Hyderabad",
+        "ID": 1.0,
+        "grade_received": "Percentage: 90.4",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Oxford The global School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Nanded",
+        "ID": 2.0,
+        "grade_received": "Percentage: 94.8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hybrid Quantum Classical SVM for image classification",
+        "description": "This is the final year project which is based on concepts of quantum computing. It is developed by using python and qiskit library. The aim of this project is to increase accuracy of classification than classical method. Further hardware is implemented for solving rubiks cube.The research paper written on this topic is accepted in IEEE.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Management System",
+        "description": "The student management system is built using python where admin, teachers and students can manage their information. The database used for this project is sqlite.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Web Scraper for E-commerce",
+        "description": "The web scraper for E-commerce websites is developed which made it easy to search for particular information about any product on the websites. This project is developed by using python.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Coffee Ordering Website",
+        "description": "The website is built for ordering Coffee online. The frontend is developed using Bootstrap, html and CSS. Javascript is used as scripting language. This project is still under development.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Feb 2023",
+        "company_name": "Edulyt India",
+        "description": "Created a detailed analysis of credit card transactions and built an interactive dashboard using PowerBI. The dashboard created using PowerBI helped to analyse the various transactions in dataset efficiently.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jan 2023"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Sept 2023",
+        "company_name": "Lets Grow More",
+        "description": "Designed and implemented ML models which included Classification of Iris Flower. Prepared a model which helped in prediction of Stock Market using LSTM. Prepared a Image to Sketch Conversion Model using CV2 library.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Web development Intern",
+        "skillsUsed": [],
+        "endDate": "Sept 2022",
+        "company_name": "Oasis Infobyte",
+        "description": "Designed a landing page for food website using Html,CSS and Bootstrap. Built a temperature converter and portfolio website using Javascript ,Html,CSS and Bootstrap.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "Machine Learning",
+      "Data Science",
+      "Web Development",
+      "Scikit",
+      "Qiskit",
+      "Keras",
+      "Bootstrap",
+      "GIT",
+      "Github",
+      "Trello"
+    ],
+    "soft_skills": [
+      "Adaptive",
+      "Team work",
+      "Collaborative",
+      "Task Management"
+    ],
+    "name": "Sneha Kamthekar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Gold Medalist in International English Olympiad: Participated in the IEO exam and won gold medal twice."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Engineering"
+}

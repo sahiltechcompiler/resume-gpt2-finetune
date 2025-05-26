@@ -1,0 +1,134 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Bidur Gupta",
+  "college": "Dr. A. P. J. Abdul Kalam Technical University (AKTU)",
+  "locations": [
+    "Ghaziabad, UP",
+    "Kurmipatti, Deoria, UP",
+    "NewDelhi , IN",
+    "Varanasi , IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A. P. J. Abdul Kalam Technical University (AKTU)",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.37",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Maharana Pratap Inter College",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 79.4",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Happy2Help",
+        "description": "Developed a mobile application using Flutter, with a Node.js/Express backend and MongoDB for data management, aimed at providing mental health support. Incorporated features for anonymity and real-time communication, allowing users to schedule sessions with therapists via live chat or phone. Created a supportive community environment within the app through user ChatRoom and shared experiences.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Fusion",
+        "description": "Developed Fusion, an innovative app employing machine learning to predict the transfer price of goods between international warehouses. Streamlined the process by enabling users to input relevant data, for accurate and ecient price calculations. Demonstrated a commitment to technological advancements and eciency in global trade through the implementation of Fusion.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Flutter Developer Intern",
+        "skillsUsed": [
+          "Flutter",
+          "Firebase",
+          "Dart",
+          "Google Map"
+        ],
+        "endDate": "Nov 2023",
+        "company_name": "GudDo",
+        "description": "Created client applications with a simple user interface and clean architecture. Conceptualized, developed, and launched GudDo, a donation free platform app. facilitated users in donating unused household items and connecting with those in need. Integrated real-time chat functionality, enhancing communication for item donations. Utilized Google Maps integration to display nearby posted items, improving accessibility. Technologies Used - Flutter, Firebase, Dart, Google Map.",
+        "location": "NewDelhi , IN",
+        "links": "",
+        "startDate": "Sep 2023"
+      },
+      {
+        "role_name": "As a Freelancer",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Nujan",
+        "description": "Implemented key features for the anonymous social media app, enabling users to post images, audio, engage in group and one-to-one chats, and discreetly follow others. Ensured a high level of privacy by implementing robust anonymity features, assuring users that their identity remains undisclosed while using the app. Integrated real-time chat functionality, enhancing communication for item donations. Contributed signicantly to Nujan by architecting a captivating and feature-rich frontend, elevating the user experience in the realm of anonymous social media interactions.",
+        "location": "Varanasi , IN",
+        "links": "",
+        "startDate": "April 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Dart",
+      "Kotlin",
+      "XML",
+      "HTML",
+      "CSS",
+      "Flutter",
+      "React Native",
+      "Firebase",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Google Maps SDK",
+      "Retrot",
+      "Agora SDK",
+      "Dialogow",
+      "Android Studio",
+      "VS Code",
+      "Git",
+      "GitHub",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Bidur Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Best Pitcher award at AceHack Hackathon Organized by UEM Jaipur and placing among the top 10 teams.",
+      "Mentored over 400 students in app development and organized technical events, signicantly contributing to the growth and development of the college."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2020.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

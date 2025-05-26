@@ -1,0 +1,96 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sravani Katragadda",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "I am looking for an internship in a reputable organisation to utilize my technical skills for the growth of the organisation as well as to enhance my knowledge about new and emerging technologies",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Board of intermediate education, AP",
+        "endDate": "2019",
+        "maximum_grade": "(83 Percentage)",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 7.24/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of secondary education, AP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 8.8/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Single Image Dehazing",
+        "description": "This project introduces a unique approach to satellite image dehazing by utilizing fusion-based techniques. The method involves blending two adjusted variants of the original hazy image using specific weight maps and inputs derived from the original image. The per-pixel blending strategy minimizes the loss of image structure and preserves important details. The technique demonstrates enhanced efficiency, produces precise and haze-free images, and shows potential for real-time applications.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Click here"
+      },
+      {
+        "name": "File Compressor",
+        "description": "This project focuses on data compression using the Huffman coding algorithm. The purpose is to compress a text file without losing any data. Huffman coding assigns variable-length codes to characters based on their frequency, with more common characters having shorter codes. The implementation involves probability calculation, binary tree transformation, and assigning codes to symbols. The result is an encoded output in 0s and 1s, with a compression ratio close to 2:1. Future work includes implementing the LZW algorithm and adding a graphical interface to the project.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Click here"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Internship",
+        "skillsUsed": [
+          "Django",
+          "Bootstrap 4",
+          "Database Management"
+        ],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "Proficient in Django for web development, leveraging database management and incorporating Bootstrap 4 for responsive design. Applied expertise in packages and modules to enhance code efficiency and modularity. Demonstrated competence in navigating and manipulating databases, contributing to effective data management. Acquired valuable skills in integrating Bootstrap 4 for creating modern and visually appealing user interfaces.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C/C++ Beginner",
+      "Java/ Python Intermediate"
+    ],
+    "soft_skills": [],
+    "name": "Sravani Katragadda",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

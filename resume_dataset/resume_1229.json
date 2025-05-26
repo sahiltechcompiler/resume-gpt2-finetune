@@ -1,0 +1,208 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "AKSHAT MODI",
+  "college": "Shah And Anchor Kutchhi Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "As a recent Bachelor of Engineering graduate in Information Technology, I am eager to leverage my strong technical background, problem-solving skills, and passion for innovation to contribute to a dynamic team. I aim to apply my knowledge of software development, network management, and data analysis to deliver effective IT solutions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analytics Course",
+        "issuer": "ICT ACADEMY (Initiative by Atos Prayas Foundation)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence Foundation",
+        "issuer": "SkillUp Online",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Fundamentals of Digital Marketing",
+        "issuer": "Google Digital Garage",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah And Anchor Kutchhi Engineering College",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA 9.38 Till Sem7",
+        "field_of_study": "Information Technology",
+        "startDate": "December 2021"
+      },
+      {
+        "school": "SVKMs Shri Bhagubhai Mafatlal Polytechnic",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "92%",
+        "field_of_study": "Information Technology",
+        "startDate": "2018"
+      },
+      {
+        "school": "Gokuldham High School & Junior College",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "92%",
+        "field_of_study": "",
+        "startDate": "2008"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AR Art Home Decor",
+        "description": "Develop an AR application to allow users to select furniture items from a catalog and place them in a real-world room using their mobile device. Implement a user-friendly interface for browsing and selecting furniture items from a 3D catalog, including categories such as sofas, tables, chairs, etc. Introduce a feature that allows users to virtually add a room to their existing space, customizing its dimensions and layout to match their requirements. Enable users to interact with placed furniture items, such as rotating, moving, and resizing them, to achieve the desired look and feel.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "BostonMeals",
+        "description": "Develop a Flutter app for a restaurant to enhance customer experience and streamline restaurant operations. Flutter for cross-platform development, Firebase for real-time database functionality, and possibly Firebase Authentication for user authentication. Implement an admin page for restaurant staff to manage menu items, view and process orders, and update restaurant information. Create an orders page where restaurant staff can view incoming orders in real-time, mark orders as completed, and track order history. Design a menu page for customers to browse through available menu items, view prices and descriptions, and add items to their cart for ordering. Integrate with a payment gateway i.e. Razorpay to enable customers to make secure payments directly from the app. Conduct thorough testing to ensure app functionality and performance, and deploy the app to app stores for public use.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Banking System",
+        "description": "Develop a banking system application using Python that provides basic banking functionalities such as account management, transaction processing, and balance inquiries. Enable customers to make deposits, withdrawals, and transfers between accounts, with validation to ensure sufficient funds. Provide customers with the ability to check their account balances in real-time.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AWS Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Sapio Analytics",
+        "description": "- Managing of AWS Services AWS EC2, Lambda, S3, CloudFront, Data Pipeline, etc. - CI/CD of live projects",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Cloud Engineer",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Global One Enterprises Pvt Ltd.",
+        "description": "- As a Cloud Engineer Trainee, I have developed proficiency in using AWS for cloud computing offering services such as Amazon Ec2, AWS Lambda, Amazon S3, Amazon CloudFront, Amazon MediaConnect, etc. - Akamai for content delivery networks, - And EzServer for media streaming solutions.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "Full Stack Web Developer",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "Bharat Intern",
+        "description": "- Designed and implemented front-end interfaces using HTML, CSS, JavaScript, and frameworks like React. - Built and maintained backend services using Node.js and databases like MongoDB or MySQL. - Used Git and GitHub for version control and collaborative development. - Gained hands-on experience with modern web development tools and practices.",
+        "location": "",
+        "links": "",
+        "startDate": "September 2023"
+      },
+      {
+        "role_name": "Full Stack Web Developer",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "ICT Academy",
+        "description": "- Led the development of a capstone project, integrating all aspects of full stack development to create a functional and robust web application. - Utilized Openweaver Studio for efficient web development, project management, and seamless integration of tools.",
+        "location": "",
+        "links": "",
+        "startDate": "September 2023"
+      },
+      {
+        "role_name": "Supply Chain Management And Data Analyst",
+        "skillsUsed": [],
+        "endDate": "July 2022",
+        "company_name": "Hindustan Unilever Ltd. (Redistributor Stockiest)",
+        "description": "- Identifying and testing for bugs in the fully developed working application. - Worked closely with designers, product managers, and other developers in an Agile/Scrum environment. - Maintained comprehensive documentation for reports, APIs, and development processes. - Gained hands-on experience in supply chain management, performance analysis, and data analysis, enhancing technical and analytical skills. - Assisted in optimizing supply chain processes, including procurement, inventory management, and logistics. - Gathered and organized data from various sources to support supply chain and performance analysis.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2022"
+      },
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "November 2021",
+        "company_name": "LetsGrowMore",
+        "description": "- Created and maintained user-facing features using HTML, CSS, and JavaScript. - Used Git for version control and collaborated with team members using GitHub.",
+        "location": "",
+        "links": "",
+        "startDate": "October 2021"
+      },
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "October 2021",
+        "company_name": "The Sparks Foundation",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "September 2021"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C/C++",
+      "HTML/CSS",
+      "JavaScript",
+      "Python",
+      "TypeScript",
+      "MySQL",
+      "SQLite",
+      "Flutter",
+      "Git",
+      "AWS",
+      "ReactJS",
+      "Docker",
+      "Akamai",
+      "Android Studio",
+      "Visual Studio Code",
+      "Sublime Text",
+      "Jupyter Notebooks",
+      "PhpMyAdmin",
+      "Windows",
+      "Linux",
+      "MacOS"
+    ],
+    "soft_skills": [],
+    "name": "AKSHAT MODI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 7.0,
+  "degree": "B.E"
+}

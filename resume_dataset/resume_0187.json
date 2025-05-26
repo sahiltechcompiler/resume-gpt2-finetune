@@ -1,0 +1,142 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aryan Daksh",
+  "college": "MANIPAL UNIVERSITY JAIPUR",
+  "locations": [
+    "Jaipur, India",
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "Computer Science major with a robust foundation in Software Development and Cloud Computing. Proficient in Java, Python, AWS, and Azure, with hands-on experience in backend development. Experienced as a Software Development intern at RateGain, where I honed my skills in Spring Framework.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud & Virtualization Concepts",
+        "issuer": "VMWare",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Essentials in Python",
+        "issuer": "PCAP",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud Foundations",
+        "issuer": "AWS Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Certified Network Associate",
+        "issuer": "CCNA",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY JAIPUR",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Technology",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "RYAN INTERNATIONAL SCHOOL",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12",
+        "location": "New Delhi, India",
+        "ID": 1.0,
+        "grade_received": "9.3 CGPA",
+        "field_of_study": "",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Student Data Management System Using Spring",
+        "description": "Developed the backend for a Student Data Management System using Spring MVC and Java. Implemented Data Transfer Objects (DTOs) and added Data Validations. Integrated robust Exception Handling to manage and log errors effectively and utilized Git.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Detection of Traffic Trojan using Binary Classification",
+        "description": "A binary classification system to detect Trojan Traffic, utilizing eight machine learning models. Achieved a highest accuracy of 100% with the Decision Tree model through rigorous testing. Authored a research paper accepted at the Global AI Conference 2024 (paper still in process).",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Personal Portfolio Website",
+        "description": "Designed and styled the website using HTML and CSS for a clean and responsive layout. Implemented interactive features and client-side functionality with JavaScript. Built the backend functionality using Node.js to handle server-side operations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [],
+        "endDate": "August24",
+        "company_name": "RateGain",
+        "description": "Focused on backend development, building and maintaining web applications using Spring MVC. Developed a REST API endpoint for three services to dynamically manage environment-specific configurations, allowing seamless updates to environment variables and services without downtime. Enhanced the company's pricing service by adding data validations, ensuring the accuracy and reliability of user-entered data. Collaborated with a cross-functional team to implement new backend features and identify bottlenecks in database interactions, contributing to the overall performance of company services.",
+        "location": "",
+        "links": "",
+        "startDate": "June24"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Spring MVC",
+      "SQL",
+      "Python",
+      "Machine Learning",
+      "AWS",
+      "Azure",
+      "IntelliJ Idea",
+      "Postman",
+      "Maven",
+      "DBeaver",
+      "VS Code",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "Aryan Daksh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Authored a research paper accepted at the Global AI Conference 2024 (paper still in process)"
+    ]
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor Of Technology"
+}

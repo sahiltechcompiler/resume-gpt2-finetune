@@ -1,0 +1,116 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Akhil Sai Kapa",
+  "college": "SRM UNIVERSITY, AP",
+  "locations": [
+    "Amaravati, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY, AP",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Amaravati, India",
+        "ID": 0.0,
+        "grade_received": "9.0/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": "August 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI Classroom Allocator (Schedule-It)",
+        "description": "Developed an advanced AI-powered classroom allocation system using Python, employing artificial intelligence components such as Constraint Satisfaction Problem (CSP) and Backtracking Search algorithms. Implemented a user-friendly interface for easy interaction with the system, utilizing HTML, CSS, Flask, and Jinja to create a seamless user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Human Fall Detection Using ML (Research Project)",
+        "description": "Developed a ML-based human fall detection system using MediaPipe and OpenCV on the UR Fall Detection Dataset, enhancing accuracy in real-time fall identification. Implemented advanced computer vision techniques for efficient pose estimation, significantly improving emergency response times for fall incidents.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Recommendation System",
+        "description": "Designed and implemented a recommendation system for e-commerce, leveraging Flipkart dataset with Sentence Transformer and miniLM model, enhancing product matching accuracy through cosine similarity measures. Implemented a user-friendly interface for easy interaction with the system, utilizing HTML, CSS, Flask, and Jinja to create a seamless user experience. Also has a login system implemented using SQL and Python.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Code Chef Leaderboard Generator",
+        "description": "Created a CodeChef leaderboard generator through Python web scraping with BeautifulSoup and requests, enhancing efficient CodeChef rating comparisons by streamlining data extraction processes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "A Responsive Webpage (ZEUS)",
+        "description": "Developed a responsive web page using HTML, CSS and JavaScript, ensuring a seamless user experience across devices. Enhanced user satisfaction through responsive design and efficient data presentation techniques.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Fluent in English",
+      "Fluent in Telugu",
+      "Elementary Proficiency in Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "ML Research Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "SRM UNIVERSITY",
+        "description": "Spearheaded a rigorous research initiative focusing on pioneering advancements in stock market prediction through machine learning methodologies. Leveraged cutting edge techniques to analyze historical stock data and extract valuable insights, resulting in a predictive model that showcased a 15% increase in accuracy compared to traditional methods.",
+        "location": "Amaravati, India",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C / C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "Flask",
+      "HTML",
+      "CSS",
+      "Jinja",
+      "Object Oriented Programming",
+      "Data Structures and Algorithms",
+      "Problem Solving",
+      "MySQL",
+      "Git",
+      "Node.js",
+      "React"
+    ],
+    "soft_skills": [],
+    "name": "Akhil Sai Kapa",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Founders Scholarship, covering 100% of my tuition fees",
+      "Amazon Machine Learning Summer School Scholar"
+    ],
+    "publications": []
+  },
+  "current_location": "Vijayawada, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

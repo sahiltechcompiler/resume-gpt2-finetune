@@ -1,0 +1,115 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "MOHIT RATHOD",
+  "college": "Shah And Anchor Kutchhi College",
+  "locations": [],
+  "full_output": {
+    "summary": "Software Engineer with the expertise in the Full stack development with Front-End and Back-End. Eager to apply my technical skills and contribute in the innovative projects for the same.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah And Anchor Kutchhi College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Queens Mary college fo science and commerce",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Grade XII (science with computer Science)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hotel Management System",
+        "description": "- Utilized Python with Tkinter for the frontend and Java with JavaFX for the frontend development.\n- Implemented backend functionality using MySQL to manage data storage and retrieval.\n- Collaborated with team members to design and implement various features of the hotel management system.\n- Successfully delivered a fully functional system meeting project requirements and timelines.",
+        "keywords": [
+          "Python",
+          "Java",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Diabetes prediction WebApp",
+        "description": "- Demonstrated proficiency in web development using Flask for backend and Bootstrap 4 for frontend.\n- Included features such as a symptoms page and frequently asked questions (FAQs) section on diabetes symptoms for user education.\n- Utilized Support Vector Classification (SVC) algorithm to predict diabetes with an accuracy of 76%.\n- Successfully delivered a functional and informative web app to aid in diabetes prediction and awareness.",
+        "keywords": [
+          "ML",
+          "Python",
+          "Flask",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TravelApp UI",
+        "description": "- Designed and developed a visually appealing travel UI using Flutter framework.\n- Promoted tourism in Rajasthan by showcasing the best places and tourist attractions in the region.\n- Implemented features for searching historic places to enhance user experience and exploration.\n- Utilized Firebase for backend services, including data storage and retrieval, ensuring real-time updates and seamless user interactions.\n- Successfully delivered a user-friendly travel app to facilitate exploration and discovery of historic places in Rajasthan.",
+        "keywords": [
+          "Flutter",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "2022",
+        "company_name": "Bharat Intern",
+        "description": "- Led the development of 4 projects during my web development internship at Bharat Intern:\n1. Dynamic portfolio website\n2. Sophisticated calculator application - Enhanced skills in frontend and backend development.",
+        "location": "",
+        "links": "",
+        "startDate": "2022"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "Node.js",
+      "Firebase",
+      "ReactJS",
+      "AngularJS",
+      "Flutter",
+      "FastAPI",
+      "Flask",
+      "Django",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "MOHIT RATHOD",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

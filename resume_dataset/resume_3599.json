@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "GAURAV YADAV",
+  "college": "NIET",
+  "locations": [
+    "Greater Noida",
+    "Agra Road, Aligarh, Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NIET",
+        "endDate": "Aug 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (B.Tech)",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Maharishi Vidya Mandir Sr. Sec. School",
+        "endDate": "April 2020",
+        "maximum_grade": "",
+        "degree": "12th(CBSE)",
+        "location": "Agra Road, Aligarh, Uttar Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Gagan Public School",
+        "endDate": "May 2018",
+        "maximum_grade": "",
+        "degree": "10th(ICSE)",
+        "location": "Agra Road, Aligarh, Uttar Pradesh, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "EDUCATIONAL APP- STUDYSHALA",
+        "description": "Developed an educational app using Kotlin, integrating Firebase for user authentication. Implemented secure access to private YouTube videos, ensuring content protection for paid courses. Enabled user feedback and problem reporting through a dedicated Contact Us section. Ensured a user-friendly experience for exploring and learning various courses.",
+        "keywords": [
+          "Kotlin",
+          "Andoid SDK",
+          "SQLite",
+          "RecyclerView"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WEATHER FORECAST APP",
+        "description": "Developed a Weather Forecast App for Android using Java and Android SDK. Integrated Volley library to consume RESTful APIs and fetch weather data from external sources. Utilized JSON parsing to extract relevant weather information and display it to users. Implemented features for users to view current weather conditions, hourly forecasts, and multi-day weather forecasts. Enhanced user experience with dynamic UI elements and intuitive navigation.",
+        "keywords": [
+          "Java",
+          "Android SDK",
+          "Volley",
+          "JSON"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TO-DO",
+        "description": "Developed a notes-taking Android application using Kotlin programming language. Utilized Firebase Realtime Database for storing and synchronizing notes in real-time across devices. Implemented Firebase Authentication for user management, ensuring secure access to the apps features. Designed a simple and intuitive user interface for creating, viewing, editing, and deleting notes. Provided offline support, allowing users to access their notes even without an internet connection.",
+        "keywords": [
+          "Android SDK",
+          "Firebase Realtime Database",
+          "Kotlin",
+          "Firebase Authentication"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "Kotlin",
+      "SQL",
+      "HTML",
+      "CSS",
+      "XML",
+      "Javascript(Basic)",
+      "Android Development",
+      "Android SDK",
+      "Android Studio",
+      "Git"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Teamwork",
+      "Communication",
+      "Problem Solving",
+      "Leadership",
+      "Accountability"
+    ],
+    "name": "GAURAV YADAV",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Greater Noida, Uttar Pradesh(201310)",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology (B.Tech)"
+}

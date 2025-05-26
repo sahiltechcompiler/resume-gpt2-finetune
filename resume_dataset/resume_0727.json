@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SAURABH",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data privacy anonymization tool",
+        "description": "Developed a full stack tool for the Karnataka Police to anonymize Personally Identifiable Information (PII) in documents such as reports, ensuring data privacy. The tool uses an AI/ML model to identify and hide PII entities. Worked collaboratively with a team to execute the project, contributing to both frontend and backend development, and ensuring full stack integration.",
+        "keywords": [
+          "React.js",
+          "MongoDB",
+          "postman",
+          "REST api",
+          "Node js",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.repo"
+      },
+      {
+        "name": "Esa-Ecommerce shop",
+        "description": "Developed an online E-commerce shop WebApp that ensures a seamless experience for users, offering seamless functionality for adding products to the cart. Integrate with backend api develop authentication with jwt token stor hash password in back-end MongoDB database.",
+        "keywords": [
+          "React.js",
+          "Redux",
+          "Javascript",
+          "CSS",
+          "API",
+          "Git",
+          "styled-components",
+          "Tailwindcss",
+          "Node js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.repo"
+      },
+      {
+        "name": "Cloud computing cell Website",
+        "description": "Developed a full-stack web application tailored for the Cloud Computing Cell. This dynamic platform serves as a centralized hub for showcasing pertinent information about society like services, events, and members.",
+        "keywords": [
+          "React.js",
+          "Redux",
+          "Javascript",
+          "vanilla CSS",
+          "Git",
+          "Tailwindcss"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.repo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Web Developer",
+        "skillsUsed": [
+          "React.js",
+          "HTML/CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "company_name": "Oasis Infobyte",
+        "description": "During this front-end web development internship, I created three projects with seamless functionality. Using React.js, HTML/CSS, and JavaScript, I have created a Weather App, an E-Commerce webpage, and a Portfolio webpage.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Fullstack Web Developer",
+        "skillsUsed": [],
+        "endDate": "2024",
+        "company_name": "Karnataka State Police",
+        "description": "Developed a full stack(MERN) project for the Karnataka State Police focused on data privacy and law enforcement using AI/ML expertise, collaborating with a team to execute the project.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "HTML/CSS",
+      "Python",
+      "Git/GitHub",
+      "Postman",
+      "VS Code",
+      "Figma",
+      "MongoDB",
+      "Firebase",
+      "Canva",
+      "ReactJs",
+      "Node.js",
+      "REST API",
+      "Styled components",
+      "redux",
+      "MERN stack",
+      "Competitive Programming",
+      "DSA",
+      "Problem Solving",
+      "Time Management",
+      "Communication"
+    ],
+    "soft_skills": [],
+    "name": "SAURABH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "I secured a winner position at the All India level KSP24 Hackathon organized by the Karnataka State Police.",
+      "Achieved the 3rd ranking in the colleges competitive programming competition hosted by PC, CodeCrunch"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

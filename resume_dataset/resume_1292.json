@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aditya Bhardwaj",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Bangalore, India",
+    "Patna, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "7.58 (As of VIth Sem)",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Delhi Public School (CBSE)",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "Patna, India",
+        "ID": 1.0,
+        "grade_received": "84.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School (CBSE)",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "Patna, India",
+        "ID": 2.0,
+        "grade_received": "94%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Landslide Detection Using Satellite Imagery Through U-Net Architecture",
+        "description": "Developed a deep learning model to detect landslides through satellite imagery. The project uses an enhanced U-Net model with 4,288,057 parameters for image segmentation, achieving a training accuracy of 99.7% and validation accuracy of 98.7%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Building Detection Using Satellite Imagery through Deep learning Algorithm",
+        "description": "Developed a deep learning model to accurately detect buildings in satellite images utilizing the SegNet architecture(3,45,25,121 trainable parameters). Applied various augmentations to the training images to enhance the robustness of the model, Compile the model using the Adam optimizer, binary cross-entropy loss, and accuracy as a metric.Train the model with data augmentation using the ImageDataGenerator .The final accuracy of 78% was achieved.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Non-Alcoholic Liver Disease Prediction Using Different Machine Learning Algorithms",
+        "description": "Led a comprehensive project to predict Non-Alcoholic Fatty Liver Disease (NAFLD) using various blood components in patients by leveraging various machine learning algorithms. ENN and ADASYN were used to tackle the dataset imbalance, model tuning using Grid Search and Randomized Search. 6 classification models were optimized and evaluated. The Project boasts an accuracy of 93%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "AI Research Intern",
+        "skillsUsed": [
+          "GPT-2",
+          "BERT",
+          "LLaMa-2"
+        ],
+        "endDate": "July 2024",
+        "company_name": "CheqUPI",
+        "description": "We tested whether coding questions enhance reasoning in LLMs by training GPT-2, BERT, and LLAMA-2 on math-only and combined math-coding datasets. Models trained on both datasets outperformed those trained on math alone, confirming our hypothesis. We were successful in increasing the reasoning ability of our model.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [
+          "Python",
+          "MySQL"
+        ],
+        "endDate": "July 2024",
+        "company_name": "National Thermal Power Corporation Limited(NTPC)",
+        "description": "Responsible for the data of the entire State of Bihar, Developed and deployed an industry-grade software solution handling over 100,000 daily data entries, significantly enhancing data management efficiency and accuracy for the corporation. Fetch the data of NTPC plants of entire Bihar through API authentication, read it and create tables based on the data structure with an informative logs table to store the exceptions arising in each step for efficient error handling.",
+        "location": "Patna, India",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "MySQL",
+      "Machine Learning",
+      "Computer Vision",
+      "Deep Learning",
+      "HTML (basic)",
+      "CSS (basic)"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Bhardwaj",
+    "position": "",
+    "interests": [
+      "Gym",
+      "Reading Non-Fiction",
+      "Basketball",
+      "Kabaddi"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,131 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Nivesh Rawat",
+  "college": "Noida Institute Of Engineering and Technology",
+  "locations": [
+    "Greater Noida, UP",
+    "New Delhi, Delhi",
+    "Noida, UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute Of Engineering and Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Science with specialization in AI & ML",
+        "location": "Greater Noida, UP",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya Pragati Vihar",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "New Delhi, Delhi",
+        "ID": 1.0,
+        "grade_received": "86%",
+        "field_of_study": "PCM",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CarrerBuddy",
+        "description": "Developed a full-stack web application for exploring different career path with ExpessJS serving a REST API with React as the frontend. Designed and implemented advanced algorithms to provide personalized career recommendations based on user skills, interests, and goals. Created interactive career explore page for comprehensive insights into diverse industries and job roles.",
+        "keywords": [
+          "React Js",
+          "ExpressJs",
+          "NodeJs",
+          "MongoDB"
+        ],
+        "endDate": "May 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      },
+      {
+        "name": "Scholarly",
+        "description": "Designed and developed a dynamic scholarship portal capable of accommodating both international and national scholarships. Implemented functionality to allow users to search, filter and apply for scholarships based on their eligibility. Built personalized scholarship recommendation engine based on user profiles and qualifications.",
+        "keywords": [
+          "React Js",
+          "Express Js",
+          "NodeJs",
+          "MongoDB",
+          "Python",
+          "Git"
+        ],
+        "endDate": "Aug 2022",
+        "startDate": "Aug 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer",
+        "skillsUsed": [
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "JWT",
+          "Git"
+        ],
+        "endDate": "Present",
+        "company_name": "OVS Innovation Pvt. Ltd",
+        "description": "- Developed and maintained backend systems using Node.js, Express, and MongoDB, ensuring seamless integration with frontend components.\n- Designed RESTful APIs to support various features of web applications, enabling efficient data retrieval and manipulation.\n- Implemented role-based access control (RBAC) and authentication mechanisms using JWT, ensuring secure access to resources based on user roles.\n- Optimized database queries to improve application performance and scalability, handling large datasets efficiently in MongoDB.\n- Collaborated with frontend developers and cross-functional teams to implement new features and troubleshoot backend issues.\n- Managed third-party API integrations, such as Google and Facebook authentication, to enhance user experience and application capabilities.\n- Utilized version control systems (Git) for code collaboration, ensuring clean and well-documented code for future scalability.",
+        "location": "Noida, UP",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Fullstack developer Intern",
+        "skillsUsed": [
+          "Express.js",
+          "MongoDB",
+          "Node.js"
+        ],
+        "endDate": "Aug-2022",
+        "company_name": "IDR Research & Development Pvt. Ltd",
+        "description": "Developed a REST API using Express.js and MongoDB to store and fetch drone data from the database. Engineered and executed highly optimized backend logic for an admin panel, resulting in a 20% reduction in data retrieval time and a 35% improvement in real-time data processing, revolutionizing data management capabilities and significantly enhancing system performance. Created a Node.js-based authentication system for verifying admin credentials.",
+        "location": "Greater Noida, UP",
+        "links": "",
+        "startDate": "June 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "HTML/CSS",
+      "Excel",
+      "React Js",
+      "Node.js",
+      "Express Js",
+      "Git",
+      "Docker",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "Nivesh Rawat",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart India Hackathon 2022 Winner.",
+      "Secured the runner-up position in the highly competitive Idea-thon event and worked as team lead, held as part of the techfest at NIET.",
+      "Organized Hack-X, a Pan India Hackathon, attracting participation from 40 teams across the country.",
+      "Received a grant of INR 32,000 from the Uttar Pradesh (UP) government under the Awishkar Bhoomi Yojna"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Computer Science with specialization in AI & ML"
+}

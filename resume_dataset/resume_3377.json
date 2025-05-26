@@ -1,0 +1,181 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aryan Pratap Singh",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi NCR, Ghaziabad, Uttar Pradesh, India",
+    "Aligarh, Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full-Stack Web Developer",
+        "issuer": "Linkedin Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cyber Security",
+        "issuer": "CISCO Netacad",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP: Programnming Essentials in Python",
+        "issuer": "CISCO Netacad",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Developer",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundations",
+        "issuer": "AWS Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi NCR, Ghaziabad, Uttar Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.004/10",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "Range Hills Public School",
+        "endDate": "April 2021",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Aligarh, Uttar Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 92",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Range Hills Public School",
+        "endDate": "April 2019",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "Aligarh, Uttar Pradesh, India",
+        "ID": 2.0,
+        "grade_received": "Percentage: 87.6",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SAFE SEARCH  FINDING MISSING PERSON",
+        "description": "Developing a Django-based web application integrating deep learning architecture for real-time analysis of CCTV footage to aid in locating missing persons. Implementing a sophisticated system where users can upload a photo of a missing person, triggering automatic processing of both archived and live footage. Orchestrate seamless communication between the application and law enforcement by enabling instant notifications upon locating the missing individual, optimizing search efforts.",
+        "keywords": [
+          "MERN Stack",
+          "Deep Learning"
+        ],
+        "endDate": "Present",
+        "startDate": "June 2023",
+        "url": ""
+      },
+      {
+        "name": "BUS RESERVATION SYSTEM",
+        "description": "Developed a web-based Bus Reservation System enabling users to seamlessly reserve and book buses for travel, ensuring efficient and hassle-free transportation management. Engineered an intuitive interface for easy bus reservation and booking, enhancing user experience and facilitating smooth travel arrangements.",
+        "keywords": [
+          "MERN Stack"
+        ],
+        "endDate": "March 2024",
+        "startDate": "January 2024",
+        "url": ""
+      },
+      {
+        "name": "BOOKIVERSE  E-BOOKSTORE",
+        "description": "Developed a MERN stack web application featuring a bookstore offering a diverse selection of books across all genres. Implemented functionality allowing users to access books based on whether they are available for free or require payment. Orchestrated the creation of a user-friendly interface where users can seamlessly browse and read books.",
+        "keywords": [
+          "MERN Stack"
+        ],
+        "endDate": "January 2023",
+        "startDate": "November 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Internship in Cyber Security",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Cisco Networking Academy",
+        "description": "Analyzed college's network topology, mapped it using Cisco Packet Tracer, identified security controls, conducted attack surface mapping, and proposed risk-mitigation strategies.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Internship in Web Development",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "Ernst & Young GDS",
+        "description": "Developed a web application utilizing the MERN stack, centered around a Bus Reservation System. Employing my expertise in frontend and backend development, aimed to enrich user experience and simplify the reservation process, ultimately enhancing accessibility and operational efficiency in bus booking.",
+        "location": "",
+        "links": "",
+        "startDate": "February 2024"
+      }
+    ],
+    "skills": [
+      "JAVA",
+      "C",
+      "Python",
+      "DBMS",
+      "OOPs",
+      "SQL",
+      "Computer Networks",
+      "HTML",
+      "Tailwind CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Aryan Pratap Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 5th Position in Departmental Project Exhibition[PROJECT WAR]",
+      "Secured 4th Position in Departmental Exhibition [INNOTECH]"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

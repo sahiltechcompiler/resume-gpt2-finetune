@@ -1,0 +1,155 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Ayush Sharma",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "New Delhi, India",
+    "Noida, Uttar Pradesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA-8.98",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Aldama restaurant",
+        "description": "Developed a fully responsive and visually appealing website featuring various animations, attractive color schemes, and elements such as cards and classic footers. Utilized HTML, CSS, JavaScript, Bootstrap, and Netlify to create and deploy the site, ensuring a responsive design across all devices.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "Netlify"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Weather Forecast",
+        "description": "Developed a weather forecasting website that retrieves location information and provides today's weather details. Integrated a web API to fetch and display weather data. Utilized tools such as JavaScript, jQuery, HTML, AJAX, API, and CSS.",
+        "keywords": [
+          "JavaScript",
+          "jQuery",
+          "HTML",
+          "AJAX",
+          "API",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Snake game",
+        "description": "Developed a JavaScript Snake game where the primary goal is for the snake to navigate and eat as many apples as possible without colliding with walls or its own body. Utilized tools such as JavaScript, HTML Canvas, and CSS for development.",
+        "keywords": [
+          "JavaScript",
+          "HTML Canvas",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Sudoku Solver",
+        "description": "Developed a Sudoku solver for a partially filled 9x9 grid, ensuring each row, column, and 3x3 subgrid contains digits 1 through 9 exactly once. Implemented the solution using recursion and backtracking techniques.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [
+          "Java",
+          "Data Structures",
+          "Algorithms"
+        ],
+        "endDate": "2025",
+        "company_name": "Coding Blocks",
+        "description": "Supported instructors and students in an educational setting focused on programming at Coding Blocks. Specialised in Java for data structures and algorithms, Fostered a positive learning environment. Assisted 100% of students in the course, contributing to their understanding and success.",
+        "location": "New Delhi, India",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Technical Instructor",
+        "skillsUsed": [
+          "JavaScript",
+          "Data Structures",
+          "Algorithms"
+        ],
+        "endDate": "present",
+        "company_name": "Digikull",
+        "description": "Instructed and mentored students in the principles and practices of Data Structures and Algorithms using JavaScript. Catered to a diverse range of skill levels, from beginners to advanced programmers.",
+        "location": "Freelance",
+        "links": "",
+        "startDate": "October 2023"
+      },
+      {
+        "role_name": "IT - Operations Analyst",
+        "skillsUsed": [
+          "JavaScript"
+        ],
+        "endDate": "February 2024",
+        "company_name": "Digikull",
+        "description": "Managed and supported multiple JavaScript projects, providing technical guidance and operational support to help students achieve their learning objective.",
+        "location": "On Site (Noida, Uttar Pradesh)",
+        "links": "",
+        "startDate": "September 2023"
+      },
+      {
+        "role_name": "Summer Internship and Training",
+        "skillsUsed": [],
+        "endDate": "November 2023",
+        "company_name": "HCL Infosystems Ltd.",
+        "description": "Assisted in the design and implementation of new features, ensuring functionality and user experience were optimized. Conducted thorough testing and debugging of applications, identifying and resolving performance issues and bugs.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "September 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C/C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJs",
+      "Express",
+      "Bootstrap",
+      "jQuery",
+      "Canvas"
+    ],
+    "soft_skills": [],
+    "name": "Ayush Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 4.0,
+  "degree": "B.Tech"
+}

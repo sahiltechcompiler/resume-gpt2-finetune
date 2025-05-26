@@ -1,0 +1,142 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Nishtha Jaiswal",
+  "college": "Motilal Nehru National Institute of Technology",
+  "locations": [
+    "Allahabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Motilal Nehru National Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Allahabad",
+        "ID": 0.0,
+        "grade_received": "CPI:7.89(till 6th semester)",
+        "field_of_study": "Production And Industrial Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "54880-Green Fields Acad Gauhania Jasra Bara",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Allahabad",
+        "ID": 1.0,
+        "grade_received": "Percentage: 88.8",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "54880-Green Fields Acad Gauhania Jasra Bara",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Allahabad",
+        "ID": 2.0,
+        "grade_received": "Percentage: 85.5",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Study-Notion App",
+        "description": "An intuitive app enabling students to discover and purchase courses of their choice effortlessly. Students and Instructor can signup and login to the platform. The platform also supports OTP verification and forgot password functionality for added security. Instructors can create, read, update and delete courses. Students can view and rate courses. Students can buy and enroll in courses through a checkout process integrated with Razorpay for payments. StudyNotion uses Cloudinary, a cloud based media management service, to store and manage all media content.",
+        "keywords": [
+          "MongoDB",
+          "ExpressJS",
+          "ReactJS",
+          "NodeJS",
+          "Tailwind CSS",
+          "Postman",
+          "VSCode"
+        ],
+        "endDate": "2025",
+        "startDate": "2021",
+        "url": "Source Code"
+      },
+      {
+        "name": "Ecommers-App",
+        "description": "Responsive website with user authentication and shopping cart management. Designed an intuitive UI for users and admins, enabling easy management of product categories and inventory. Developed a strong backend with user login, product management, and shopping cart features. Implemented a real-time shopping cart with seamless integration for adding and removing products. Users can filter items according to their choice.",
+        "keywords": [
+          "MongoDB",
+          "ExpressJS",
+          "ReactJS",
+          "NodeJS",
+          "Postman",
+          "VSCode"
+        ],
+        "endDate": "2025",
+        "startDate": "2021",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Mentor",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "MNNIT SMP CLUB",
+        "description": "Responsible for mentoring juniors and giving proper guidance.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Volunteer",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "MNNIT Rotract Club",
+        "description": "Responsible for organising various donation drives, visits to orphanage.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "SQL",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "PostgreSQL",
+      "HTML",
+      "CSS",
+      "VSCode",
+      "React"
+    ],
+    "soft_skills": [
+      "Effective Communication",
+      "Team Work",
+      "Ability to converse and coordinate well with others"
+    ],
+    "name": "Nishtha Jaiswal",
+    "position": "",
+    "interests": [
+      "Data Structures and Algorithms",
+      "Database Management System",
+      "Object Oriented Programming",
+      "Web Development"
+    ],
+    "achievements_and_awards": [
+      "3rd Position in Mechathon Webdevelopment event in Avishkar (Tech Fest of MNNIT) March 2024",
+      "Achieve Global Rank of 1286 out of 30,000+ participants in Leetcodes Biweekly Contest 135",
+      "1104 Codeforces Highest Rating",
+      "2nd Position in Survivor Series(Puzzle Game), at Avishkar 2022"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

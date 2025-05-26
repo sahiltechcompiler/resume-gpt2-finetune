@@ -1,0 +1,188 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "GOMATHI R",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, TN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Fullstack Web development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Complete Machine Learning and Data Science Bootcamp Certificate",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cybersecurity Badge",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA-1 Badge",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Statistics Badge",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI Fundamentals Badge",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Essentials in Python Certificate",
+        "issuer": "CISCO",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 9.08",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data Augmentation for Cancer Detection",
+        "description": "Utilized Neural Style Transfer to improve classification accuracy of pathology slides depicting cancer. Integrated the VGG16 model for data augmentation and enhanced cancer detection by around 18%. Implemented an ensemble learning approach to enhance model robustness, resulting in improved accuracy.",
+        "keywords": [
+          "Deep Learning"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "TuneTales",
+        "description": "Formulated a personalized blog facilitating musical connections, resulting in a vibrant online community. Analyzed user engagement metrics, including daily active users (DAU) and a 43% increase in user retention. Incorporated user feedback to iterate on features, resulting in a 28% increase in user satisfaction metrics.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Azure",
+          "MySQL"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Intel OneAPI Telecom Churn Prediction",
+        "description": "Implemented Random Over-Sampler to balance distribution, boosting performance by 87% in precision. Orchestrated seamless deployment of churn prediction model using Flask, reducing churn rate by 77% on average. Conducted user feedback surveys leading to a 19% increase in customer retention and 7% revenue improvement.",
+        "keywords": [
+          "Machine Learning",
+          "KNN",
+          "Flask"
+        ],
+        "endDate": "December 2023",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Eucto",
+        "description": "Worked on UI/UX design and Front-end development projects. Optimized front-end codebase, cutting page load times by 37% across 3 Eucto website projects. Designed UIs for 3 client projects, boosting user engagement by 23% and User Experience. Collaborated with cross-functional teams on 2 major feature releases, increasing user satisfaction scores by 17%.",
+        "location": "Chennai, TN",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Communtiy Manager",
+        "skillsUsed": [],
+        "endDate": "July 2022",
+        "company_name": "Techeigen Ventures Private Limited",
+        "description": "Spearheaded the development of Techeigens social media-like application for the learning community. Achieved a 27% increase in user engagement through intuitive functionalities to retain a broader user base. Drove strategic planning initiatives as a core team member and a 33% increase in user retention rates.",
+        "location": "Chennai, TN",
+        "links": "",
+        "startDate": "April 2022"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "MongoDB",
+      "ExpressJS",
+      "Java",
+      "JavaScript",
+      "Python",
+      "C",
+      "SQL",
+      "ReactJS",
+      "NodeJS",
+      "NextJs",
+      "Numpy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Scikitlearn",
+      "Tensorflow",
+      "Anaconda"
+    ],
+    "soft_skills": [],
+    "name": "GOMATHI R",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "WINNER Smart India Hackathon 2023",
+      "Student Ambassador for Intel One API",
+      "Hack@CIT finalist - Intra college Codeathon",
+      "Campus Ambassadar at Placement 360",
+      "Finalist in Hero Campus Challenge Season-9"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

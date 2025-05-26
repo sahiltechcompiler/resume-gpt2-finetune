@@ -1,0 +1,190 @@
+{
+  "project_count": 3.0,
+  "designation": "Student",
+  "name": "RENETH RAJ SIMON",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Seattle, USA",
+    "Kochi, India",
+    "Pathanamthitta, India",
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "Aspiring Computer Science Engineer and AI/ML developer, pursuing B.Tech in Computer science with Specialization in Artificial Intelligence and Machine Learning(Hons.) in Manipal University Jaipur. Proficient in Python, SQL, and C, with a strong foundation and eagerness to gain practical experience in AI, ML, computer vision, and NLP. Possesses strong leadership, time management, and teamwork skills, along with a determination to excel. Committed to continuous learning and innovation to contribute effectively in any professional environment.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Basics of Python with Meta",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations by Oracle Academy",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Vision Basics by State of New York University",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Vision Essentials by Great learning Academy",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enterprise Networking, Security, and Automation by CISCO",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science and Machine Learning bootcamp",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine learning and Tensorflow by Deeplearning.ai",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Switching, Routing, and Wireless Essentials by CISCO",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "8.3",
+        "field_of_study": "CSE With Specialization in AI&ML(Hons)",
+        "startDate": "2021/07"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Image Generation through Stable Diffusion",
+        "description": "Combined neural network layers such as convolutional layers and cross attention layers along with image segmentation models such as U-Net, to derive a relationship between images and text in the form of embedding vectors. Allowing the creation of a unique kind of diffusion model that outperforms even Generative adversarial networks and normal diffusion models. Contrastive Language Image Pretraining text mechanism provides the dot product of images and text with similar meaning and the dot product is provided as input to diffusion models in this case, the U-Net Model.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/renethsimon13/Image-Generation-through-Stable-Diffusion.git"
+      },
+      {
+        "name": "Lightweight Custom Knowledge base Chatbot",
+        "description": "Built a chatbot that works on a custom knowledge base through various lightweight yet efficient models such as Falcon 7B LLM, all-mpnet-base-v2 sentence transformer model along with the help of vector directory libraries such as ChromaDB to store text embeddings. A Retrieval Question Answer chain of Langchain was used to link the custom base embeddings to the query embeddings and the LLM together. Once index of custom knowledge base chatbot has been created and stored in the directory, only tokenization of the user input query and cosine similarity search has to be performed. Fragmentation of the code allows for increased speed. LLM performs text generation after the cosine similarity search has taken place, all of these process chained together through the RetrievalQA Chain of the langchain framework.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/renethsimon13/Custom-Knowledge-Base-Chatbot.git"
+      },
+      {
+        "name": "Plant Disease Detection using supervised machine learning",
+        "description": "Trained machine learning models to detect diseases amongst plants. The plants can be classified into healthy, powdery and rusted, following which preprocessing and data augmentation is performed. Four combinations of neural networks and optimizers have been explored and their performance measures have been analysed. LSTM layer with ADAM optimizers provides the best results within a training of 8 epochs Combination of LSTM with ADAM & SGD optimizers similarly CNN models with ADAM & SGD optimizers have been performed and performance measures have been calculated. The architecture of the model consists of LSTM/CNN Models along with few flatten and dense layers.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/renethsimon13/Plant-Disease-Detection-Supervised-ML.git"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AI Developer Intern",
+        "skillsUsed": [],
+        "endDate": "09/2024",
+        "company_name": "YESYEM",
+        "description": "Aided in the ReelsAI project, processing YouTube Shorts by comparing user videos with reference Shorts. Set up and maintained FastAPI endpoints to handle video input, frame extraction, frame description generation using ChatGPT, and video comparison. Managed the results by grouping comparison points based on keywords, and employed LLMs to understand and group points by semantic meaning. This workflow streamlined video analysis and improved result interpretation through advanced natural language processing techniques. Contributed to a personalized news feed system that curated articles based on user interests. Worked with techniques like vector embeddings, retrieval-augmented generation (RAG), topic matching, and natural language processing (NLP) to enhance content relevance and optimize the recommendation engine for improved user engagement. Special Libraries Incorporated: Pinecone Index for Vector embeddings and indexing Uvicorn for Frontend Shutil for high-level file operations Instaloader for instagram.",
+        "location": "Seattle, USA",
+        "links": "",
+        "startDate": "07/2024"
+      },
+      {
+        "role_name": "Analytics Team Intern",
+        "skillsUsed": [],
+        "endDate": "08/2023",
+        "company_name": "Gadgeon Smart Systems Pvt. Ltd.",
+        "description": "Created a custom knowledge-based chatbot for the company's website using various open-source models, python libraries such as Langchain, LlamaCpp, BeautifulSoup etc. A custom knowledge base consisting the details of the company was created and its contents were tokenized and embedding vectors were created with the application of sentence transformer models. Embeddings of the query for chatbot are created and Large Language models perform cosine similarity search with index of the custom knowledge base and a structured answer is generated. Large Language Model. A framework called langchain framework was used to incorporate the vector indexes and large language models Models used and Libraries used: LLM  GPT4ALL Snoozy Sentence Transformer - msmarco-distilbert-base-tas-b/all-mpnet-base-v2 Langchain for incorporation of vector indexes and LLM Chromadb for Vector Index Storage.",
+        "location": "Kochi, India",
+        "links": "",
+        "startDate": "06/2023"
+      },
+      {
+        "role_name": "AI Intern",
+        "skillsUsed": [],
+        "endDate": "07/2023",
+        "company_name": "Airis4D",
+        "description": "Designed a program to perform instance segmentation on dataset extracted from various frames of an aerial shot of fields with trees. Airis4D focuses on integration of AI with Bio-Science, therefore this program proves to be useful to monitor population of trees in various areas. The program begins with creation of annotation of various labels inside each image, followed by preprocessing. A YOLOv8(You only look once) model was trained on the dataset for multiple epochs and the images were tested and finally number of trees are extracted from the masks obtained.",
+        "location": "Pathanamthitta, India",
+        "links": "",
+        "startDate": "06/2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Image Processing",
+      "MySQL",
+      "C Programming"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Time Management",
+      "Teamwork"
+    ],
+    "name": "RENETH RAJ SIMON",
+    "position": "Student",
+    "interests": [],
+    "achievements_and_awards": [
+      "Vice President Cinefilia, the Dramatics and Filmmaking Society of Manipal University Jaipur. (2022-22)",
+      "3X Best Delegate Award in International Model United Nations.",
+      "Best Position and Research Paper in World Health Organization in International Model United Nations.",
+      "All A1 in AISSCE board exam (2021) & secured 96.6% in AISSCE board exam (2021)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

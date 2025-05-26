@@ -1,0 +1,140 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kirat Singh",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Master in Web Development",
+        "issuer": "",
+        "certiLink": "Certificate Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React Essentials Bootcamp",
+        "issuer": "",
+        "certiLink": "Certificate Link"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "July 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.9",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Guru Harkrishan Public School",
+        "endDate": "Mar 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Science",
+        "startDate": "Apr 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce Website",
+        "description": "Leveraged the power of the MERN stack to build a robust and scalable e-commerce website using MongoDB, Express.js, React.js, Node.js, Redux Toolkit. Implemented Create, Read, Update, and Delete (CRUD) operations using Redux Toolkit for seamless product management. Utilized responsive design to ensure compatibility across all devices and user-friendly interface using Material UI. Used Stripe for implementing a streamlined checkout process, handling payment verification. Enhanced security and user authentication by integrating Google Firebase with JSON Web Tokens (JWT).",
+        "keywords": [
+          "React.js",
+          "Redux",
+          "MongoDB",
+          "Express",
+          "Node.js",
+          "Git",
+          "Firebase",
+          "Material UI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Fitness App",
+        "description": "A fitness app which helps the user to search for various exercises targetting specific categories. A CRUD application exposed using a RESTful API made with Node.js and React.js. Exposed POST, GET, PATCH and DELETE HTTP methods using Express. Used Rapid API to fetch exercises details and for youtube tutorials of the exercises.",
+        "keywords": [
+          "React.js",
+          "Material UI",
+          "Git",
+          "APIs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Next.js prompt app",
+        "description": "Full-stack web app using Next.js, MongoDB, and TailwindCSS. Create and customize prompts for modern AI tools. Performed CRUD operations using Next.JS. User profiles with shared prompts for community engagement.",
+        "keywords": [
+          "Next.js",
+          "Tailwind CSS",
+          "NextAuth"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++/C",
+      "JavaScript",
+      "React.js",
+      "Next.js",
+      "Express.js",
+      "Tailwind CSS",
+      "Material UI",
+      "Redux Toolkit",
+      "jQuery",
+      "MongoDB",
+      "SQL",
+      "Git",
+      "GitHub",
+      "Postman",
+      "Stripe",
+      "JWT",
+      "Firebase",
+      "Data Structure Algorithms",
+      "OOPS",
+      "Database Management System",
+      "Computer Network"
+    ],
+    "soft_skills": [],
+    "name": "Kirat Singh",
+    "position": "",
+    "interests": [
+      "Learning and Exploring latest Tech Skills",
+      "Mentorship",
+      "Fitness and Sports"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

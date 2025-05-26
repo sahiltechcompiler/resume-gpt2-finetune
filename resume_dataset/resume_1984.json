@@ -1,0 +1,81 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "Asjad Raza",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Mumbai - Maharashtra",
+    "Noida - Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "B.Tech CS student (Ajay Kumar Garg Engineering College) with a passion for Flutter, Backend Development, and Competitive Programming. Seeking to leverage skills in a challenging role.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "7.27",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Munchmate",
+        "description": "Streamlined Student Canteen Ordering: Enabled students to order food directly from their phones, reducing queue times by 90%. Seamless QR Code Pickup: Implemented a QR code system for quick and contactless food collection, improving efficiency by 74%. Personalized Recommendations: Leveraged past order data to suggest personalized menu items, boosting user satisfaction by 60%. Elevated Canteen Experience: Developed a user-friendly app with top-notch design and robust security features, exceeding user expectations and setting a new standard for canteen ordering.",
+        "keywords": [],
+        "endDate": "October 2023",
+        "startDate": "October 2023",
+        "url": "github.com/vedasjad/munchmate#readme"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Flutter Developer Intern",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "Employee Forums",
+        "description": "Improved Code Maintainability: Employed MobX and Bloc State Management to resolve 100s of bugs and restructure a 5000 line codebase, leading to a 30% reduction in code review time. Enhanced Application Performance: Implemented strategic bug fixes and code optimization, achieving a 25% improvement in application responsiveness and a decrease in crashes by 70%. Increased Code Testability: Utilized Bloc's inherent testability features to write more comprehensive unit and integration tests, improving code quality and reducing future regressions (reintroduction of bugs).",
+        "location": "Mumbai - Maharashtra",
+        "links": "",
+        "startDate": "January 2024"
+      },
+      {
+        "role_name": "Flutter Developer Intern",
+        "skillsUsed": [],
+        "endDate": "January 2024",
+        "company_name": "Ajani Infotech",
+        "description": "Delivered App on Time (Riverpod, SOLID): Built the app from the ground up using Riverpod for state management and SOLID principles, ensuring a clean and maintainable codebase for a timely launch. Boosted User Engagement (Drag-and-Drop): Implemented intuitive drag-and-drop functionalities, leading to a 40% increase in user interaction. Maximized Revenue (Google Ads): Successfully integrated Google Ads, achieving a 10% increase in revenue while maintaining a positive user experience.",
+        "location": "Noida - Uttar Pradesh",
+        "links": "",
+        "startDate": "November 2023"
+      }
+    ],
+    "skills": [
+      "Mobile Development: Flutter",
+      "Programming Languages: Dart, Python, GoLang, C/C++",
+      "Backend as a Service: Firebase",
+      "Databases: PostgreSQL, MongoDB",
+      "Web Development: JavaScript (NodeJs)",
+      "Design Tools: Figma, Canva",
+      "Version Control: Git (GitHub)"
+    ],
+    "soft_skills": [],
+    "name": "Asjad Raza",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

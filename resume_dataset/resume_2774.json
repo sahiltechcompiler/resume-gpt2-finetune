@@ -1,0 +1,162 @@
+{
+  "project_count": 3.0,
+  "designation": "ASPIRING SOFTWARE ENGINEER",
+  "name": "Hamid Raza",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara Punjab, IN",
+    "Gorakhpur- UP ,IN",
+    "Siswa Maharajgang-UP,IN"
+  ],
+  "full_output": {
+    "summary": "Passionate and driven computer science student with a strong academic record. Proficient in Java, data structures, algorithms, ReactJS, NodeJS, HTML/CSS/JavaScript. Strong problem-solving skills and keen attention to detail. Seeking an internship or entry-level position in software development to broaden expertise beyond web development.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "GeeksforGeeks",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React JS Bootcamp",
+        "issuer": "CipherSchools",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java(Basic)",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Node Js Traning",
+        "issuer": "CipherSchool",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Phagwara Punjab, IN",
+        "ID": 0.0,
+        "grade_received": "CGPA 7.45",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Sanskriti Public School",
+        "endDate": "13-07-2020",
+        "maximum_grade": "",
+        "degree": "Intermediate(XII)",
+        "location": "Gorakhpur- UP ,IN",
+        "ID": 1.0,
+        "grade_received": "Percentage: 73.4%",
+        "field_of_study": "PCM",
+        "startDate": ""
+      },
+      {
+        "school": "Sterling Public School",
+        "endDate": "29-05-2018",
+        "maximum_grade": "",
+        "degree": "High School(X)",
+        "location": "Siswa Maharajgang-UP,IN",
+        "ID": 2.0,
+        "grade_received": "Percentage: 81%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pharmacy Management System",
+        "description": "Comprehensive software solution designed to streamline and automate various administrative and operational tasks within a pharmacy setting. Developed distinct dashboards for administrators and pharmacists to manage user accounts, medicine inventory, sales, and billing processes efficiently. Demonstrated the ability to manage user accounts, inventory, sales transactions, and customer interactions effectively through the system. Contributed to enhancing pharmacy operations, productivity, and customer service in the dynamic healthcare landscape.",
+        "keywords": [
+          "Software development",
+          "Java",
+          "JSP",
+          "GUI",
+          "MySql"
+        ],
+        "endDate": "Mar 24",
+        "startDate": "",
+        "url": "https://github.com/razahamid91/Pharmacy-Management-System"
+      },
+      {
+        "name": "Weather_Appliaction",
+        "description": "Integrated third-party weather APIs to retrieve real-time weather information. Designed a responsive and intuitive user interface using ReactJS for the front-end development. Implemented features for users to search for weather information by location.",
+        "keywords": [
+          "Web development",
+          "Node.js"
+        ],
+        "endDate": "May 23",
+        "startDate": "",
+        "url": "https://github.com/razahamid91/Weather_Application"
+      },
+      {
+        "name": "TIC-TAC-TOE GAME",
+        "description": "Implemented the Backtracking algorithm to enable the computer to make optimal decisions during gameplay. Demonstrated the ability of the computer player to analyze the game state and select the best possible moves. Provided an interactive user interface for players to engage in the game and experience the strategic decision-making process.",
+        "keywords": [
+          "Game Development",
+          "Java"
+        ],
+        "endDate": "Oct 22",
+        "startDate": "",
+        "url": "https://github.com/razahamid91/Tic-Tac-Toe-game"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "Data Structure",
+      "Algorithms",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "NodeJS",
+      "MySQL",
+      "DBMS",
+      "MongoDB",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [
+      "Initiates conversation with others",
+      "Imaginative and empathetic",
+      "Inquisitively solves problems",
+      "Curious and creative"
+    ],
+    "name": "Hamid Raza",
+    "position": "ASPIRING SOFTWARE ENGINEER",
+    "interests": [],
+    "achievements_and_awards": [
+      "Got selected for competitive programming batch from LPU.",
+      "Earned a 5-star rating in Java on HackerRank, demonstrating exceptional proficiency and problem-solving skills in Java programming.",
+      "Solved over 250 coding problems on online platforms such as LeetCode, hackerrank and GFG."
+    ],
+    "publications": []
+  },
+  "current_location": "Khadda Khusinagar-UP",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

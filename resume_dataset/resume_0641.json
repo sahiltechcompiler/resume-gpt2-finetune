@@ -1,0 +1,111 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "ARNAV MIRJI",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Rajasthan, India",
+    "Mumbai, India",
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Aug 2021"
+      },
+      {
+        "school": "PACE Jr. College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 12",
+        "location": "Mumbai, India",
+        "ID": 1.0,
+        "grade_received": "84.5%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Francis School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10",
+        "location": "Mumbai, India",
+        "ID": 2.0,
+        "grade_received": "87.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Taxi Fare Analysis (ML Project)",
+        "description": "- Conducted an in-depth exploration of the Kaggle dataset, extracting valuable insights into taxi fare patterns, geographical variations, peak hours, and other pertinent factors influencing pricing structures.\n- Used advanced data cleaning methods to remove defaulters and outliners from the dataset for the consistency of the model. Implemented machine learning models, such as regression models, to predict taxi fares based on relevant features. Evaluated model performance and fine-tuned parameters to optimize predictive accuracy.",
+        "keywords": [
+          "Python",
+          "Kaggle",
+          "MatplotLib",
+          "Tensorflow",
+          "Pandas",
+          "Numpy"
+        ],
+        "endDate": "Oct 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mock Spotify Webpage",
+        "description": "- Developed a mock webpage of the music streaming website Spotify. Leveraged HTML for structure, CSS for styling, and JavaScript for dynamic functionality, showcasing proficiency in essential web development technologies.\n- Successfully developed and integrated playback control functionality, enabling users to navigate through the playlist effortlessly. Implemented features for play, pause, skip to the next, and go back to the previous song.",
+        "keywords": [],
+        "endDate": "Oct 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Social Media Manager",
+        "skillsUsed": [],
+        "endDate": "Oct 2022",
+        "company_name": "Polygon Guild",
+        "description": "- Managed the guild's social media accounts (LinkedIn, Twitter) to grow the guild's online community.\n- Hosted 8 cohorts which saw web 3.0 experts educating the community on Blockchain and other interesting web 3.0 concepts.\n- Created engaging content to enlighten the guild on Polygon and its contribution to Blockchain.\n- Increased digital reach by 120%.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Data Structures and Algorithms",
+      "Python",
+      "numpy",
+      "Pandas",
+      "MatplotLib",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "soft_skills": [],
+    "name": "ARNAV MIRJI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

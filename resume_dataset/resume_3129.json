@@ -1,0 +1,104 @@
+{
+  "project_count": 2.0,
+  "designation": "Software Development Engineer Intern",
+  "name": "Shivashish Rawat",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.771",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "FastEat",
+        "description": "Engineered FastEat, a Recipe Finder App, developing a robust frontend using ReactJS and enhancing visual appeal with sophisticated SCSS styling techniques. Designed an intuitive user interface for FastEat, enabling seamless navigation and efficient recipe searches. Implemented data fetching from the MealDB API using Axios Library, ensuring real-time recipe updates. Optimized the application's layout and functionality for responsiveness on a variety of devices, thus significantly enhancing the user experience and accessibility.",
+        "keywords": [
+          "ReactJS",
+          "React-Router",
+          "MealDB API",
+          "SCSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Blog App",
+        "description": "Created a full-stack Blog App using ReactJS for the frontend and npm server for the backend. Designed the user interface for creating, editing and managing blog posts, allowing users to perform CRUD operations. Utilized Axios for efficient HTTP communication between the frontend and backend, enabling robust data retrieval and management for blog posts. Integrated a responsive design to ensure seamless user interaction on both desktop and mobile platforms.",
+        "keywords": [
+          "ReactJS",
+          "Context API",
+          "Npm Server",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Engineer Intern",
+        "skillsUsed": [
+          "ReactJS",
+          "Tailwind CSS",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "Jun 2024",
+        "company_name": "PanScience Innovations",
+        "description": "Developed GoodHire, SAAS platform which will be a handy tool for Human Resource Department for hiring people, Frontend using ReactJS and Tailwind CSS from scratch. Collaborated closely with backend developers to integrate over 10 distinct APIs, ensuring smooth communication and data exchange between frontend and backend systems. Implemented robust RESTful APIs using Node.js, Express.js, and MongoDB for defect analysis features in NyaayAI, leading to a 50% improvement in data processing times and enabling faster defect resolution workflows. Created interactive component with React.js and Tailwind CSS to display defects added by multiple users on specific documents, enhancing the visual presentation and user experience.",
+        "location": "New Delhi, India",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL",
+      "ReactJS",
+      "NodeJS",
+      "Express",
+      "Tailwind CSS",
+      "Git/GitHub",
+      "Vs Code",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Shivashish Rawat",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Became 3 stars on CodeChef with max rating 1700+.",
+      "Acquired 3 stars on Leetcode with max rating approx 1700.",
+      "Received Global Rank 1331 in CodeChef July lunchtime 2022(Div 2).",
+      "Secured Global Rank 4888 at Google Kickstart Round D 2022."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

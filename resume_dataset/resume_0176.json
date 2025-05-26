@@ -1,0 +1,163 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ADLIN TEENU",
+  "college": "Hindustan Institute of Technology and Science, Chennai, India",
+  "locations": [
+    "Chennai, India"
+  ],
+  "full_output": {
+    "summary": "I am excited to secure a challenging position in a dynamic and innovative organization where I can contribute my skills and passion to impactful projects. I also bring a strong foundation in programming and eager to advance my skills. I handle, problem solving with innovative ideas and manage time effectively.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed 7-day Python Deep Learning Bootcamp with DevTown.",
+        "skillsLearned": [],
+        "title": "Python Deep Learning Bootcamp",
+        "issuer": "DevTown",
+        "certiLink": "Google certification"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Carried out 4-week Python for Data Science course on NPTEL.",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Zion Mat Hr Sec School, Chennai, India",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "Chennai, India",
+        "ID": 0.0,
+        "grade_received": "81%",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Zion Mat Hr Sec School, Chennai, India",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Chennai, India",
+        "ID": 1.0,
+        "grade_received": "85%",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "Hindustan Institute of Technology and Science, Chennai, India",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Chennai, India",
+        "ID": 2.0,
+        "grade_received": "CGPA - 8.1(up-to 5th sem)",
+        "field_of_study": "CSE(Artificial Intelligence and Data Science)",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dots and Boxes Game",
+        "description": "Utilized Python libraries Tkinter and Numpy. Defined GUI elements like board size, players, dots. Created a class, and initialized functions for graphical interface setup.",
+        "keywords": [
+          "Python",
+          "Tkinter",
+          "Numpy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E- Commerce Website",
+        "description": "Developed online ordering website using JavaScript. Designed for online product sales, managing user cart items, and greater access to features like adding and removing products, changing the quantity of items, and placing orders.",
+        "keywords": [
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Stock Market Price Prediction",
+        "description": "Imported Python libraries like yfinance, pandas, streamlit, and scikit-learn for stock market prediction. Additionally, preprocessed data to train an SVM model and created a Streamlit dashboard for visualization. The dashboard allows users to select market instruments, extract data, view candlestick charts, and predict stock returns using the SVM model and Backtesting strategies.",
+        "keywords": [
+          "Python",
+          "yfinance",
+          "pandas",
+          "streamlit",
+          "scikit-learn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "RJS Technology (Virtual)",
+        "description": "Made a dynamic Web page for storing and downloading student data as a csv file. Developed an API using Swagger and a web client to exchange data between various software components. Also, created packages as well as worked on built in and user defined functions.",
+        "location": "",
+        "links": "",
+        "startDate": "January 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "SYNC INTERNS (Virtual)",
+        "description": "Developed machine learning models for prediction with preprocessed data in Boston House Price Prediction Sign Language Classification, Chatbot for Loan Enquiry, and Face Mask Detection.",
+        "location": "",
+        "links": "",
+        "startDate": "September 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "Algo Financials (Virtual)",
+        "description": "Implemented Backtesting trading algorithms such as MACD, SMA, Supply and Demand crossovers using ta_lib and demonstrated candlestick testing with OHLCV data points. Integrated into n8n automation tool, worked on JSON to extract high level stock data using Python's nested function which transforms JSON iteration into Excel, aiding analysis.",
+        "location": "",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "C",
+      "MySQL",
+      "Data Analysis and Visualization",
+      "Excel",
+      "Machine Learning"
+    ],
+    "soft_skills": [],
+    "name": "ADLIN TEENU",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Presented a paper in the Jarvis - National Level Symposium on 18th March 2023 at Chennai Institute of Technology."
+    ],
+    "publications": []
+  },
+  "current_location": "Chennai",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

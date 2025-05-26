@@ -1,0 +1,132 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Harshita Dutta",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Vrindavan, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundation Course",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Alpha DSA course",
+        "issuer": "Apna college",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Certification in Software Engineering",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.41*",
+        "field_of_study": "Information Technology",
+        "startDate": "Nov 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Delhi Metro",
+        "description": "A Delhi Metro Navigation System based on graph data structure. Implemented Dijkstras algorithm for efficient shortest path and distance computation between stations. Created a command-line interface for displaying the metro map, listing stations, and querying shortest routes.",
+        "keywords": [
+          "Java",
+          "Dijkstras algorithm",
+          "graph data structures",
+          "command-line interface"
+        ],
+        "endDate": "2020",
+        "startDate": "2019",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "Car Rental",
+        "description": "Designed Java Car Rental System with interactive CLI for renting and returning cars with flexible pricing. Structured Object-Oriented Architecture with Organized classes for cars, customers, rentals for efficient operations. Enabled User-Friendly Experience by Implementing menu-driven interface for seamless navigation and interaction.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "Healthcare Management System",
+        "description": "Developed a comprehensive Java-based Hospital Management System using JDBC to facilitate the management of patient records, doctor details, and appointment scheduling within a hospital setting. Implemented core functionalities including adding new patients, viewing patient and doctor information, and booking appointments while ensuring data consistency and availability checks. Utilized MySQL for database management, JDBC for database connectivity, and Java for backend logic, providing a robust, scalable, and user-friendly solution for hospital management.",
+        "keywords": [
+          "Java",
+          "SQL",
+          "JDBC",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "Cinemania",
+        "description": "Developed a dynamic web application using HTML, CSS, and Javascript that allows users to search and discover movies from an extensive database, enhancing user engagement with a seamless search functionality. Integrated with The Movie Database (TMDb) API to fetch and display real-time movie data, including titles, posters, ratings, and overviews, ensuring up-to-date information for users.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "TMDb API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "Java",
+      "HTML",
+      "CSS",
+      "CSS Tailwind",
+      "Bootstrap",
+      "JavaScript",
+      "Data structures and Algorithms",
+      "Object-oriented programming",
+      "SQL",
+      "RDBMS"
+    ],
+    "soft_skills": [],
+    "name": "Harshita Dutta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Uttar Pradesh (Vrindavan)",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

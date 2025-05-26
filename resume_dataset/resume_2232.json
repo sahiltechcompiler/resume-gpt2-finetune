@@ -1,0 +1,107 @@
+{
+  "project_count": 3.0,
+  "designation": "Salesforce Developer",
+  "name": "Saicharan Avaluru",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, TamilNadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Technology Consulting Simulation",
+        "issuer": "Forage",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Chennai, TamilNadu",
+        "ID": 0.0,
+        "grade_received": "7.9",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Full Stack Project Management System",
+        "description": "Project Creation and Management: Practice creating and managing projects with ease, honing project management skills along the way. User Invitation System: Learn how to implement user invitation systems for collaborative projects. Issue Management: Master the art of tracking and resolving project issues efficiently. Subscription Plans: Gain insights into implementing subscription-based models, a valuable skill in the modern tech industry.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Saicharanw/project"
+      },
+      {
+        "name": "ReactJS Spring Boot CRUD Full Stack App",
+        "description": "The core functionality of the application revolves around managing employee data. Users can create new employee profiles, providing necessary details. The system provides a feature to list all existing employees, offering a quick overview of all employee data. Existing employee details can be updated as needed, ensuring the data remains current. The system allows for the removal of an employee profile when an employee leaves the company or for other reasons.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Saicharanw/Employee-CRUD-Application"
+      },
+      {
+        "name": "Full Stack Project Management System",
+        "description": "Developed a production-level eCommerce website using Spring Boot, React, MySQL, Razorpay, Material-UI, Tailwind CSS, Redux, and React Router DOM. Designed a responsive frontend, featuring dynamic carousel, product filtering, sorting, and pagination. Built a secure backend with Spring Boot, integrated MySQL database, Razorpay payment gateway, and comprehensive order management. Created an intuitive admin dashboard for product and order management, implementing user authentication and authorization.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Saicharanw/e-commerce-application"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Salesforce Developer",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "Salesforce",
+        "description": "Gained a solid understanding of the basics, including setting up an organization and understanding relationship automation processes. Learned about different types of flows and security measures within Salesforce. Delved into advanced topics like Lightning Web Components (LWC) for building custom user interfaces and using Salesforce APIs for integrating with other systems. Earned three Super Badges - Apex Specialist, Process Automation Specialist, and Developer Super Set, demonstrating a comprehensive understanding in Salesforce.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JPA",
+      "JDBC",
+      "Hibernate",
+      "RESTful API",
+      "ReactJS"
+    ],
+    "soft_skills": [],
+    "name": "Saicharan Avaluru",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.E"
+}

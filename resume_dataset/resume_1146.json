@@ -1,0 +1,90 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Satyam Kumar",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, India",
+    "Patna, India",
+    "Darjeeling, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025 May",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "7.75/10",
+        "field_of_study": "Information Technology",
+        "startDate": "2021 Oct"
+      },
+      {
+        "school": "Loyola High",
+        "endDate": "2020 Dec",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Patna, India",
+        "ID": 1.0,
+        "grade_received": "83%",
+        "field_of_study": "",
+        "startDate": "2019 Aug"
+      },
+      {
+        "school": "St. Paul's School",
+        "endDate": "2019 Mar",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Darjeeling, India",
+        "ID": 2.0,
+        "grade_received": "86%",
+        "field_of_study": "",
+        "startDate": "2009 Mar"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Recommendation System",
+        "description": "This software helps users of this platform to explore movies quickly with my recommendation system, which uses the hybrid model of collaborative and content-based filtering system.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://gamma.app/docs/Minor-Project-Presentation-On-Movie-Recommendation-System-h6opc0qq4zvfc5i"
+      },
+      {
+        "name": "Pet Shop",
+        "description": "An ecommerce platform for pet owners, where pet food and utilities can be bought. Using MySQL and PHP",
+        "keywords": [],
+        "endDate": "2024 Apr",
+        "startDate": "2024 Feb",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "Java",
+      "UI/UX",
+      "MySQL",
+      "Salesforce"
+    ],
+    "soft_skills": [],
+    "name": "Satyam Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Silver Certificate in DAA, NPTEL (Government of India)"
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "BTech"
+}

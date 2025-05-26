@@ -1,0 +1,230 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Bhavya Shrivastava",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipuri, India",
+    "Pune, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Python Certificate Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science and Machine Learning Bootcamp",
+        "issuer": "Jose Portilla",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Machine Learning Certificate",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning A-Z, AI, python and R+",
+        "issuer": "Kirill Eremenko",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Data Structure Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mastering Data Structures and Algorithms",
+        "issuer": "Abdul Bari",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "C++ Developer Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Complete C++Developer Course",
+        "issuer": "John P. Baugh",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Power BI Certificate Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Power BI Desktop for Business Intelligence",
+        "issuer": "Chris Dutton, Aaron Patty",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Predictive analysis",
+        "issuer": "Manipal University, Jaipur",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Image Processing",
+        "issuer": "Manipal University, Jaipur",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipuri, India",
+        "ID": 0.0,
+        "grade_received": "CGPA:-8.53",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Pratibha International School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Pune, India",
+        "ID": 1.0,
+        "grade_received": "83%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "PIS, Pimpri",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Pune, India",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "RecenSage",
+        "description": "This project integrates SVM, Decision Tree, Random Forest, and Logistic Regression models for restaurant rating prediction, offering a comprehensive analysis of their effectiveness. In addition to rating prediction, the project incorporates content filtering based on user preferences such as cuisine type and location, enhancing the relevance of restaurant recommendations. This was done in Zomato Dataset. Furthermore, a similar analytical approach was applied to the Amazon dataset for product recommendations, demonstrating the versatility and robustness of the models across different domains.",
+        "keywords": [
+          "SVM",
+          "Decisiontree",
+          "Random Forest",
+          "Logistic Regression",
+          "Recommendation System"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis",
+        "description": "In this project, I conducted an in-depth analysis of reviews for various Amazon products utilizing two distinct techniques: the VADER approach and the RoBERTa (Robust optimized BERT approach) pre-trained model. The primary objective was to evaluate and compare the efficiency and effectiveness of these two sentiment analysis methods in interpreting and categorizing the sentiments expressed in the reviews.",
+        "keywords": [
+          "VADER",
+          "RoBERTa"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developed a personalized movie recommendation system using machine learning algorithms, specifically collaborative and content-based filtering, to analyze user behavior, movie attributes, and ratings. Implemented data preprocessing, feature engineering, and model training with Python and libraries like sci-kit-learn and pandas. Matrix factorization and cosine similarity were used to compute movie similarities and generate accurate recommendations. Conducted extensive evaluation and testing to ensure the system's efficiency and accuracy.",
+        "keywords": [
+          "Demographic Filtering",
+          "Content Filtering",
+          "Genre Filtering",
+          "Keyword Filtering"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mental Health Website",
+        "description": "Created a multipage Blogging Website on Mental Health. It contains many related blogs on this topic and provides solutions to various mental health problems. It's like a one-stop location for all the problems that you face in your day-to-day life. Enhanced website responsiveness using advanced HTML tags, attributes, and CSS techniques like Box Shadowing and margin collapse.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "BookMarked",
+        "description": "Created a multipage Blogging Website for the Book reader Community. It contains one blog for each book or novel. Used various HTML Tags, lists, Attributes, and CSS concepts like Box Shadowing, Box model, and margin collapse to make this website fully Responsive.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [
+          "Power BI",
+          "AWS",
+          "Data Analysis",
+          "Machine Learning"
+        ],
+        "endDate": "August 2024",
+        "company_name": "Tata Motors",
+        "description": "At Tata Motors, I was an integral part of the Commercial Vehicle Business Unit (CVBU) team, where I contributed to monitoring and analyzing driver behavior based on various user inputs. My responsibilities included leveraging Power BI and AWS to manipulate and process large datasets, ensuring the integrity and accuracy of the information we collected. By employing advanced data analytics and machine learning techniques, I helped develop insights that informed driver safety protocols and performance enhancements. Our team's efforts were pivotal in identifying patterns and trends in driver behavior, ultimately leading to the implementation of data-driven strategies that improved overall operational efficiency and safety standards. This role honed my skills in data analysis, cloud computing, and collaborative problem-solving within a fast-paced, technology-driven environment.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Pandas",
+      "Numpy",
+      "Sci-Kit Learn",
+      "Recommender Systems",
+      "Sentiment Analysis",
+      "Linear Regression",
+      "Logistic Regression",
+      "KNN",
+      "SVM",
+      "Decision tree",
+      "Random Forest",
+      "Data Visualization",
+      "Excel",
+      "Google Sheets",
+      "Matplotlib",
+      "Python",
+      "C++",
+      "C",
+      "Java",
+      "Power BI",
+      "AWS(Beginners Level)",
+      "Data Structures and Algorithms",
+      "Canva"
+    ],
+    "soft_skills": [],
+    "name": "Bhavya Shrivastava",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,201 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SUREKHA.AK",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai",
+    "Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Intro to AI Ethics",
+        "issuer": "Kaggle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google data analytics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA 1",
+        "issuer": "Cisco networking academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA 2",
+        "issuer": "Cisco networking academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Blockchain basics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python essentials",
+        "issuer": "Cisco networking academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ChatGPT Prompt Engineering for Developers",
+        "issuer": "DeepLearning.AI",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.59",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E Commerce website",
+        "description": "Designed and implemented a responsive e-commerce website using HTML, CSS, and JavaScript. Created visually appealing product listings, detailed product pages, and a user-friendly shopping cart interface. Integrated interactive features such as image sliders, dropdown menus, and dynamic form validations to enhance user experience. Utilized CSS for styling and layout, ensuring cross-browser compatibility and mobile responsiveness. Demonstrated strong front-end development skills, focusing on usability and performance optimization.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RAG pdf chatbot",
+        "description": "Developed a comprehensive data analysis pipeline leveraging Python libraries such as PyPDF2, LangChain, and OpenAI to extract, process, and analyze large volumes of text data. Utilized ChromaDB for efficient data storage and retrieval, enhancing the performance of the analytical models. Employed JupyterLab for interactive data visualization and reporting, facilitating detailed insights and actionable recommendations. Integrated advanced language models with Ollama and Tiktoken for natural language processing tasks. Demonstrated expertise in transforming unstructured data into structured formats to support decision-making processes.",
+        "keywords": [
+          "langchain",
+          "ollama",
+          "jupyterlab",
+          "chromadb",
+          "openai",
+          "tiktoken",
+          "PyPDF2",
+          "PyMuPDF"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI Chatbot",
+        "description": "Developed a user-friendly AI chatbot interface using Streamlit, enabling real-time interaction with the Llama3 model. Integrated functionality for users to input queries and receive instant responses, utilizing the Ollama API for seamless communication. Enhanced user experience with responsive chat messages and dynamic loading indicators. Demonstrated proficiency in Python, web development, and AI integration.",
+        "keywords": [
+          "Llama3",
+          "Python",
+          "Streamlit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Employee management system",
+        "description": "Developed an Employee Management System using Python and MySQL, focusing on backend functionality. Implemented CRUD operations and employee promotion logic with optimized database queries. Utilized regular expressions for validating user input data, including email and phone numbers. Enhanced data integrity and system reliability with comprehensive error handling. Delivered a robust command-line interface for seamless user interaction.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "MySql"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [],
+        "endDate": "Jun 2023",
+        "company_name": "The Hindu Group",
+        "description": "Validated Entity extraction and Article url classification generated through Google and Chat-GPT models with salience. Worked on database Management Systems such as MySQL. Developed a url classification project using machine learning algorithm such as random forest which basically classifies the url to various categories like Arts & Environment, Politics, Sports, Cinema etc. Achieved an accuracy of 97%.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "Jan 2023"
+      },
+      {
+        "role_name": "Prompt engineer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "",
+        "description": "Created 500+ prompts for extracting article url summary in excel using API keys in three formats, GPT format, BRIO format,60 words. Created over 500+ prompts for title SEO title generation in OpenAI platform with using temperature. Developed a web application that produces text summarisation in two ways Extractive and Abstractiive summarisation with accuracy of 87% using Tranformers, Pipelines, Flask and Spacy.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java (beginner)",
+      "Javascript",
+      "CSS",
+      "MySQL",
+      "Mongo DB",
+      "spaCy",
+      "NLTK",
+      "Hugging Face Transformers",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Excel",
+      "Tableau",
+      "Git",
+      "Jupyter"
+    ],
+    "soft_skills": [],
+    "name": "SUREKHA.AK",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Leetcode: Solved 700+ problems with global rank of 25,661.",
+      "SkillRack: Solved 900+ problems."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

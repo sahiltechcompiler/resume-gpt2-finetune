@@ -1,0 +1,126 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sanskriti Ojha",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Jabalpur, Madhya Pradesh"
+  ],
+  "full_output": {
+    "summary": "Analytical and detail-oriented Data Analyst with hands-on experience in data visualization, statistical analysis, and machine learning. Proficient in Python, SQL, and Power BI with a track record of leveraging data to drive actionable insights and optimize business strategies. Demonstrated expertise in developing predictive models, creating interactive dashboards, and conducting comprehensive data analysis to support decision-making processes. Adept at identifying trends and patterns, optimizing data processing workflows, and collaborating with cross-functional teams to achieve project goals. Currently enhancing skills through certifications in Microsoft Power BI Data Analyst and AWS Cloud Technology, with a strong commitment to continuous learning and professional development.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Data Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "St. Aloysius Sr. Sec. School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "82.6%",
+        "field_of_study": "12th PCM",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Interactive Covid-19 Trends Analysis",
+        "description": "Developed an interactive tool to analyze COVID-19 trends across Indian states, incorporating geospatial visualizations like choropleth maps and time series charts using Plotly and Folium. Engineered a dynamic UI for state-wise comparisons, boosting data exploration and user engagement by 20%, with optimized sub-second load times for over 1 million rows. Conducted thorough data cleaning and analysis to identify trends in cases, recoveries, and deaths, while ensuring cross-browser compatibility and maintaining detailed documentation.",
+        "keywords": [],
+        "endDate": "July, 2024",
+        "startDate": "June, 2024",
+        "url": "Github Repository- Covid19 Trends Analysis"
+      },
+      {
+        "name": "Credit Risk Analysis Dashboard (Using Power BI)",
+        "description": "Developed a Power BI dashboard for credit risk assessment, integrating machine learning to predict loan defaults. Created interactive visualizations for dynamic analysis of risk metrics and trends.",
+        "keywords": [],
+        "endDate": "June, 2024",
+        "startDate": "April, 2024",
+        "url": "Github Repository- Credit Risk Dashboard"
+      },
+      {
+        "name": "Heart Disease prediction",
+        "description": "Developed a heart disease prediction model, improving accuracy by 15% and reducing errors by 20% through hyperparameter tuning, feature engineering, and data preprocessing. Conducted exploratory data analysis to identify key trends and relationships, selecting the best algorithm based on accuracy and ROC-AUC. Deployed the model using Flask for real-time predictions.",
+        "keywords": [],
+        "endDate": "April, 2024",
+        "startDate": "December, 2023",
+        "url": "Github Repository- Heart Disease Prediction"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Prasunet Pvt. Ltd.",
+        "description": "Conducted data analysis on global population datasets (2020) and identified key trends across over 150 countries, visualizing the distribution and achieving a 30% reduction in data exploration time using Python. Performed exploratory data analysis and feature engineering on the Titanic dataset, addressing 20% of missing data issues, leading to a 15% increase in model accuracy for predicting passenger survival rates. Built and optimized a Decision Tree classifier for a bank marketing dataset, achieving 85% accuracy in predicting customer responses, which improved campaign targeting efficiency by 25%. Led sentiment analysis on Twitter datasets using logistic regression, with a preprocessing pipeline that improved model performance by 20%, accurately classifying over 50,000 tweets with 90% precision. Analyzed UK accident data to identify hotspots and patterns based on weather and road conditions, providing actionable insights that contributed to a 10% improvement in local traffic safety measures.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "Nov, 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "SQL",
+      "pandas",
+      "numpy",
+      "Power BI",
+      "matplotlib",
+      "seaborn",
+      "folium",
+      "plotly",
+      "Geojson",
+      "scikit-learn",
+      "decision tree classifiers",
+      "k-means",
+      "model optimization",
+      "text analysis",
+      "sentiment analysis",
+      "SMOTE",
+      "hyperparameter tuning",
+      "GridSearchCV",
+      "Tensorflow",
+      "Artificial Neural Network(ANN)",
+      "MySQL",
+      "NoSQL",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "C",
+      "Jupyter Notebook",
+      "VS Code",
+      "RStudio",
+      "Git",
+      "GitHub",
+      "DOM APIs",
+      "Kaggle"
+    ],
+    "soft_skills": [],
+    "name": "Sanskriti Ojha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

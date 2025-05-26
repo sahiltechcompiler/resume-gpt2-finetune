@@ -1,0 +1,174 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Akshay Pratap Singh",
+  "college": "NIET",
+  "locations": [
+    "Gr.Noida",
+    "IIIT Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NIET",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "BTECH",
+        "location": "Gr.Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "RRK School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "SENIOR SECONDARY",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "84%",
+        "field_of_study": "CBSE",
+        "startDate": "2020"
+      },
+      {
+        "school": "RRK School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "SECONDARY",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "80%",
+        "field_of_study": "CBSE",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "FILE SHARING APP",
+        "description": "Designed a Django Based Social App For Dynamic File Sharing. Supports Multiple File format with Preview and Download Functionality. Implemented User Based Authentication and Validation for Secure Access.",
+        "keywords": [
+          "Django",
+          "BootStrap",
+          "Sqlite",
+          "Python",
+          "HTML/CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "COLLABORATIVE CANVA",
+        "description": "Developed a Live Collaborative Panel For Working together. Leveraged LiveBlocks WebAPI for real-time functionality and FabricJS for canvas-based interactions in the project. Implemented TypeScript for robust type checking, resulting in higher code reliability.",
+        "keywords": [
+          "ReactJs",
+          "TypeScript",
+          "MongoDB",
+          "TailwindCSS",
+          "FabricJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VIDEO CALLING APP - SOCKET.IO",
+        "description": "Developed a WebRTC based Video-Call using Socket.io. Enabling One-To-One secure Communication and Optimizing data Requests reducing Loads. Reducing communication latency by 15 times.",
+        "keywords": [
+          "Nodejs",
+          "ExpressJs",
+          "ReactJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "German",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Participant",
+        "skillsUsed": [],
+        "endDate": "Aug'2023",
+        "company_name": "HACKOG COGNITIVE HACKATHON",
+        "description": "Developed a Social Sensing App able to Analyse Audience Sentiment. Analysed Real-Time data, scraped using Selenium and BeautifulSoup.",
+        "location": "IIIT Delhi",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Active Member",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "GDSC NIET CHAPTER",
+        "description": "Design Workflows and Presentation for Multiple Webinars. Mentored freshers and community for effective learnings.",
+        "location": "",
+        "links": "",
+        "startDate": "2022"
+      },
+      {
+        "role_name": "Core Team Member",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "EMERGEX CODING CLUB",
+        "description": "Managed and Co-ordinated multiple Coding Contests and Competitions. Mentored 300+ students and guided them for future Opportunities.",
+        "location": "",
+        "links": "",
+        "startDate": "2022"
+      }
+    ],
+    "skills": [
+      "Core Java",
+      "Python",
+      "JavaScript",
+      "Data Structures And Algorithms",
+      "ReactJS",
+      "MongoDB",
+      "ExpressJs",
+      "NodeJs",
+      "Django",
+      "Flask",
+      "FastApi",
+      "Mysql",
+      "Docker",
+      "Kubernetes",
+      "Cloudflare",
+      "Vercel",
+      "CI/CD Integration",
+      "Numpy",
+      "Pandas",
+      "Matplot",
+      "HuggingFace",
+      "Langchain",
+      "Tableau",
+      "Selenium",
+      "TensorFlow",
+      "PyTorch",
+      "Keras"
+    ],
+    "soft_skills": [],
+    "name": "Akshay Pratap Singh",
+    "position": "",
+    "interests": [
+      "Story Telling and Reading",
+      "English/ Hindi Poetry",
+      "Reading Blogs",
+      "Engaging with Diverse Individuals",
+      "Listening Music / Singing"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "BTECH"
+}

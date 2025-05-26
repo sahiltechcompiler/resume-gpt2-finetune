@@ -1,0 +1,84 @@
+{
+  "project_count": 1.0,
+  "designation": "Aspiring software engineer",
+  "name": "Jatin Singh Sengar",
+  "college": "Noida Institute of Engineering and Technology (NIET)",
+  "locations": [
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "Aspiring software engineer with a strong foundation in Computer Science and specialization in Artificial Intelligence, seeking an entry-level position to apply programming skills and contribute to innovative projects.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology (NIET)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (BTech)",
+        "location": "Noida",
+        "ID": 0.0,
+        "grade_received": "Current CGPA: 7.7/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Assisi Convent School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Schooling",
+        "location": "Noida",
+        "ID": 1.0,
+        "grade_received": "80%",
+        "field_of_study": "12th Grade",
+        "startDate": ""
+      },
+      {
+        "school": "Assisi Convent School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary Schooling",
+        "location": "Noida",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "10th Grade",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Recommender System",
+        "description": "Created a Movie Recommender System using Python and Machine Learning. Leveraged tools like Jupyter Notebook for data exploration and model development, and PyCharm for robust coding and debugging. The system used algorithms to analyze user preferences and recommend movies.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/JatinSngr/movies-recommender-system"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "Data Structures and Algorithms"
+    ],
+    "soft_skills": [],
+    "name": "Jatin Singh Sengar",
+    "position": "Aspiring software engineer",
+    "interests": [
+      "Digital Marketing",
+      "Japanese Language"
+    ],
+    "achievements_and_awards": [
+      "CodeChef: Solved 250+ coding problems"
+    ],
+    "publications": []
+  },
+  "current_location": "Noida",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology (BTech)"
+}

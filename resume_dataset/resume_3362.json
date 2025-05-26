@@ -1,0 +1,118 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ravindra Kumar",
+  "college": "Indian Institute of Technology, Patna",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Understanding and application of computational fluid dynamics(CFD) for modelling. Application based approach for different discretization methods.",
+        "skillsLearned": [],
+        "title": "Python programming for mechanical and aerospace applications",
+        "issuer": "IIT Guwahati & EICT",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Real-life dataset implementation of various machine learning models. Application of machine learning models for mechanical engineering domain datasets.",
+        "skillsLearned": [],
+        "title": "A hands-on introduction to Machine Learning",
+        "issuer": "IIT Guwahati & EICT",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Technology, Patna",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "M.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "87.4%",
+        "field_of_study": "Mechanical",
+        "startDate": "2022"
+      },
+      {
+        "school": "Feroze Gandhi Institute of Engg. & Tech., Raebareli",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "69.4%",
+        "field_of_study": "Aeronautical",
+        "startDate": "2014"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Droplet dynamics through stenosed microchannel : Mimicking cardiovascular diseases",
+        "description": "Understanding the flow physics in case of a person whos about to have a hemorrhagic stroke. Modelling the constitutive behavior of blood and microvessels. Implementation of Fluid-Structure Interaction(FSI).",
+        "keywords": [
+          "Ansys",
+          "Origin",
+          "C/C++"
+        ],
+        "endDate": "Aug. 2023",
+        "startDate": "2022",
+        "url": ""
+      },
+      {
+        "name": "Optimal Designing of Tiltwing RC Aircraft Model",
+        "description": "Conducted extensive literature survey on concept and design of Tiltwing RC Aircraft Model. Designed 3D Model with 6 series (NACA 66(3)-418) airfoil & Tiltwing mechanism in AutoCAD. Demonstrated working in various modes like - Helicopter mode, Transition mode, and Cruise mode.",
+        "keywords": [
+          "AutoCad",
+          "Solidworks",
+          "Ansys",
+          "Windtunnel"
+        ],
+        "endDate": "May 2018",
+        "startDate": "July 2017",
+        "url": ""
+      },
+      {
+        "name": "2D Lid-driven cavity problem : Solving 2D Navier-Stokes equation",
+        "description": "Solving 2D Navier-Stokes equations from basic discretization. Understanding the different algorithms for NS-equations.",
+        "keywords": [
+          "Python",
+          "Colab"
+        ],
+        "endDate": "Aug. 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Matlab"
+    ],
+    "soft_skills": [],
+    "name": "Ravindra Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Among the top-10 students of the batch 2014-18 of Aeronautical Department",
+      "Secured band 7 in International English Language Testing System (IELTS)",
+      "Secured 1st & 2nd position in High jump at annual college sports festival",
+      "Attended Radio-controlled aircraft design workshop by Aerotrix"
+    ],
+    "publications": [
+      "Analysis of self-sustainable mini gas turbine engine for domestic purpose"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2022.0,
+  "experience_count": 0.0,
+  "degree": "M.Tech."
+}

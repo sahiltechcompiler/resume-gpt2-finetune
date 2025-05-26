@@ -1,0 +1,171 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Swapnil Sawant",
+  "college": "Shah and Anchor Kutchhi Engineering College",
+  "locations": [
+    "Mumbai, Maharashtra, India",
+    "Khanda Colony, Maharashtra, India"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic and highly motivated software developer with substantial hands-on experience in diverse projects, demonstrating a strong prociency in Java,Python & Backend Technologies. Adept at problem-solving and eager to learn and adapt to new skills.Passionate about leveraging technical expertise to drive success and growth in a dynamic work environment.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cloud Computing",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "(Learned the python use in AIML)",
+        "skillsLearned": [],
+        "title": "Introduction To AIML Stack certicate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Silver Elite Certicate in Java",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MongoDB and NoSQL",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor Kutchhi Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "83 %",
+        "degree": "Computer Engineering",
+        "location": "Mumbai, Maharashtra, India",
+        "ID": 0.0,
+        "grade_received": "9.53 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Mahatma Junior College",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "HSC",
+        "location": "Khanda Colony, Maharashtra, India",
+        "ID": 1.0,
+        "grade_received": "83 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Mahatma School of Academics & Sports",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "Khanda Colony, Maharashtra, India",
+        "ID": 2.0,
+        "grade_received": "95.6 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI Mental Health Chatbot",
+        "description": "Designed and implemented an AI-driven mental health chatbot to assist users with mental disorders, utilizing latest collected data from kaggle,NGO and other sources. Engineered real-time chat functionalities using Flask, customizing responses with Machine Learning algorithms and JSON-stored data, enhancing user interaction experience by 40%. Integrated BiLSTM, TFIDF, and Sequential model to enhance the chatbots ability to understand and respond to complex emotional inputs, achieving over 70% accuracy in tags predictions and response giving. Leveraged data visualization libraries such as Matplotlib and Seaborn to illustrate performance evaluation metrics, integrating ndings into reports seamlessly.",
+        "keywords": [],
+        "endDate": "April 2024",
+        "startDate": "July 2023",
+        "url": ""
+      },
+      {
+        "name": "Speech Emotion Recognizer",
+        "description": "Developed an emotion recognition model in Python, capable of analyzing input audio to detect emotions accurately. Implemented an intuitive display page using Django for the emotion recognition system to enhance user interaction. Utilized powerful libraries like Librosa, SpeechRecognition, and PyAudio, alongside a large Kaggle dataset, for e\u0000ective development and training of the model.",
+        "keywords": [],
+        "endDate": "March 2023",
+        "startDate": "January 2023",
+        "url": ""
+      },
+      {
+        "name": "Text Extractor",
+        "description": "Skillfully harnessed the power of Amazon AWS services to extract textual content from images e\u0000ectively. Employed a combination of AWS IAM user, AWS CLI, and the Text Extractor tool, seamlessly integrated with Python's boto3 library for a robust and streamlined image-to-text extraction process.",
+        "keywords": [],
+        "endDate": "April 2023",
+        "startDate": "April 2023",
+        "url": ""
+      },
+      {
+        "name": "Algorithm Visualizer",
+        "description": "Developed a dynamic website to visually showcase a variety of algorithms, including sorting and searching, o\u0000ering an engaging user experience. Implemented various algorithms, with game-like output, enhancing user interaction, used CSS for aesthetically pleasing visuals. Leveraged a responsive React framework combined with JavaScript, ensuring seamless execution and e\u0000cient implementation of the algorithms.",
+        "keywords": [],
+        "endDate": "November 2022",
+        "startDate": "September 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Kids Concept",
+        "description": "Developed a website for preschool with various functionalities. Used the latest EJS framework for frontend and Express in Node.js for backend with optimal performance ensured. Major contribution with backend, Developed a database using SQL handling the data entry and retrieval providing enhanced experience.",
+        "location": "",
+        "links": "Link",
+        "startDate": "January 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "Java",
+      "Javascript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "EJS",
+      "React",
+      "MongoDB",
+      "MySQL",
+      "Django",
+      "Node.js",
+      "Express",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "soft_skills": [
+      "Communicator",
+      "Teamwork",
+      "Cooperative",
+      "Positive Attitude"
+    ],
+    "name": "Swapnil Sawant",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "2nd Topper in First Year of Bachelors",
+      "Got Gold Medals in Sports and in Co-curricular Activities"
+    ],
+    "publications": []
+  },
+  "current_location": "Panvel, Maharashtra, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Computer Engineering"
+}

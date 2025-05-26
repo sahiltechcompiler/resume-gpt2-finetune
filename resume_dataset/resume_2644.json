@@ -1,0 +1,132 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "VAIBHAV GUPTA",
+  "college": "IIT, Kanpur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "IIT, Kanpur",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "M. Tech - Civil Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.2/10",
+        "field_of_study": "",
+        "startDate": "2016"
+      },
+      {
+        "school": "IIT, Kanpur",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "B. Tech - Civil Engineering",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "8.3/10",
+        "field_of_study": "",
+        "startDate": "2012"
+      },
+      {
+        "school": "CMS Gomti Nagar, Lucknow",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class XII (ISC)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CMS Gomti Nagar, Lucknow",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class X (ICSE)",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "92.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data analytics of YouTube comments and likes",
+        "description": "Implemented the Extract, Transform and Load (ETL) pipeline for Youtube data of various category of channels. Performed Exploratory Data analysis(EDA) through sentiment analytics, wordcloud and emoji analysis. Gained Business insight by regressing features of YouTube title with number of views and likes.",
+        "keywords": [],
+        "endDate": "Apr24",
+        "startDate": "Mar24",
+        "url": ""
+      },
+      {
+        "name": "Use of topological indicies for mapping bitumen-pollutant interactions",
+        "description": "Characterised bitumen using mathematical topological indices like Wiener index, Harary index, etc. Modelled the mechanism of chemical interaction of bitumen and PAH pollutants through linear regression.",
+        "keywords": [],
+        "endDate": "Jul17",
+        "startDate": "May16",
+        "url": ""
+      },
+      {
+        "name": "Trip Distribution: Unification of the Gravity-Opportunity Model",
+        "description": "Critiqued on the trip distribution models including growth factor method, gravity and opportunity model. Developed a new model by integration of Gravity and Opportunity Model to improve their efficiency.",
+        "keywords": [],
+        "endDate": "Apr16",
+        "startDate": "Jan16",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "ENO-Model Risk Management(MRM)",
+        "skillsUsed": [
+          "PostgreSQL",
+          "Python",
+          "Excel",
+          "Tableau",
+          "pandas",
+          "Numpy",
+          "Matplotlib",
+          "MS Office",
+          "LaTeX",
+          "HTML/CSS",
+          "Linear and Logistic Regression",
+          "OLS testing",
+          "Lasso and Ridge regression",
+          "ARIMA",
+          "ACF/PACF plots",
+          "Greeks",
+          "Black-Scholes",
+          "Put-call parity",
+          "BOPM",
+          "PD/LGD/EAD",
+          "VaR",
+          "Expected shortfall",
+          "Fixed Income"
+        ],
+        "endDate": "Jun18",
+        "company_name": "Credit Suisse",
+        "description": "Conducted full validations along with targeted and periodic reviews of various securitised products PPNR regression models for CCAR submissions as per BASEL framework. Carried out single-factor and multi-factor statistical analysis using 28 macroeconomic factors to validate revenue drivers idiosyncrasy. Validated all the OLS assumptions, performed Stress testing, sensitivity analysis, In-sample and Out-of- sample back-testing, calibration and discrimination testing, through statistical data analysis. Challenged model design via benchmarking and validated various business and financial assumptions applying sound economic intuition. Diligently conducted BAU processes of maintaining inventory, model risk tiering and materiality assessment, assessing action closure materials, communicating with Audit and addressing their findings, etc. Set Model review standards and implemented them for 8 regression models for FEDs CCARs yearly audit based on SR 11-7 guidelines. Communicated with the respective model validators and model developers for resolution of all gaps found in quality parameters set. Examined the expansion of scenarios for 51 independent variables using the FEDs Macroeconomic factors. Analysed results of statistical and performance tests performed for each independent variable. Independently carried out seasonality tests, influential points and structural break analysis to verify robustness of models. Participated in extensive training, including 30-day finance bootcamp. Conducted 2 knowledge sharing sessions within team on models. Assisted team in campus hiring programme and conducted training of 30 new joiners.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul17"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "VAIBHAV GUPTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2017.0,
+  "experience_count": 1.0,
+  "degree": "M. Tech - Civil Engineering"
+}

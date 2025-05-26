@@ -1,0 +1,142 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kunal Singh Chauhan",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Ahmedabad, Gujarat",
+    "Pune, Maharashtra"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.3 / 10.00",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School Gandhinagar",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Higher Secondary School",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "percentage: 83/100",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "IDP High School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "percentage: 91/100",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Job Recommendation System",
+        "description": "A basic job recommendation project which uses various python libraries such as numpy, panda and nltk. Uses a simple frontend through which user can get job recommendations on his/her entered search prompt.",
+        "keywords": [
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VC Portfolio Management System",
+        "description": "Ranked Startups by Credit Score: Developed a system to rank startups based on credit scores, facilitating informed investment decisions. Visual Portfolio Management: Implemented features for venture capitalists to view and analyze their portfolio both overall and on a company-specific level. Enhanced Data Visualization: Created interactive dashboards and charts for intuitive performance tracking and data analysis.",
+        "keywords": [
+          "React.js",
+          "MongoDB",
+          "Node.js",
+          "Express.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Recruitment Management App",
+        "description": "Role : Administrator, Quality Analyst. Salesforce skills used : Lightning Experience, Data Model(Object, Field, Record, Tabs, App), Formula Fields, Schema Builder, Object Relationships(Lookup, Master-Detail), Rollup Summary, Validation Rules, Page Layout, Record Types, Compact Layout, Reports and Dashboard.",
+        "keywords": [
+          "Salesforce"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Business Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Amnex Infotechnologies",
+        "description": "Worked on Pentaho BI, NTCIP protocol and ETA logics in Chennai.",
+        "location": "Ahmedabad, Gujarat",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Data Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "Dataeaze Systems pvt ltd",
+        "description": "Mastered basic skills for data engineering such as python, sql, git, linux. Worked on Apache Spark for data ingestion and processing.",
+        "location": "Pune, Maharashtra",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Java",
+      "C",
+      "Python",
+      "Bash scripting",
+      "UNIX",
+      "SQL",
+      "React.js",
+      "Express.js",
+      "jQuery",
+      "Bootstrap",
+      "Node.js",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "Linux",
+      "Spark",
+      "Salesforce"
+    ],
+    "soft_skills": [],
+    "name": "Kunal Singh Chauhan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

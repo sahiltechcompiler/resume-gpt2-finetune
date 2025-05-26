@@ -1,0 +1,173 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Abhyudayaditya Kumar Singh",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Lucknow, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete 2023 Web Development Bootcamp",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "META Introduction to Frontend Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Software Engineering",
+        "issuer": "",
+        "certiLink": "2023"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.75 / 10.00",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "City Montessori School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Lucknow, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "Percentage : 95%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "City Montessori School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Lucknow, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "Percentage : 96.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Shop.Co",
+        "description": "Built a visually appealing frontend using ReactJs and TailwindCSS. Also made it SEO friendly using React-Helmet. Made a robust backend using Node.js and Express.js to handle API requests, manage user authentication and hashing. Designed and structured MongoDB database schema to efficiently store and retrieve product, user, and order data. Ensured data security and integrity measures by integrating robust validation and authentication mechanisms using JWT tokens. Integreated secure payments gateway using PayPal- Braintree tokens.",
+        "keywords": [
+          "MongoDB",
+          "ExpressJs",
+          "React.Js",
+          "NodeJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link To Project"
+      },
+      {
+        "name": "Ophthalmic Disease Detection Model",
+        "description": "Developed a groundbreaking ResNet50-based model for precise detection of eye diseases from medical images, achieving an impressive 91% accuracy rate. Enhanced diagnostic capabilities and significantly improved patient outcomes through advanced image analysis and disease detection. Seamlessly integrated the ResNet-based model with a user-friendly frontend using FastAPI, enabling real-time diagnostics and easy access for medical professionals.",
+        "keywords": [
+          "Python",
+          "Tensorflow",
+          "Deep Learning",
+          "ResNet50"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link To Project"
+      },
+      {
+        "name": "Travel Buddy",
+        "description": "Created a visually appealing and user-friendly travel destination platform using React and Tailwind CSS, ensuring a modern and responsive design.",
+        "keywords": [
+          "ReactJS",
+          "TailwindCSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Currency Converter",
+        "description": "Delivered successfully a user-friendly and efficient currency converter with a well-structured, interactive frontend, resulting in an increase in user engagement.",
+        "keywords": [
+          "ReactJS",
+          "TailwindCSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link To Project"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "React Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Contributed to the development of multiple projects involving React. Participated in daily stand-ups and sprint planning meetings to align with project goals and deadlines. Authored a responsive and user-friendly interfaces using React. Implemented various components, ensuring they adhered to the design specifications and provided a seamless user experience.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "JavaScript",
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Node.js",
+      "TensorFlow",
+      "jQuery",
+      "Bootstrap",
+      "HTML",
+      "CSS",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Abhyudayaditya Kumar Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans List Award for Excellence in Academics for receiving highest grade point in 4th, 5th and 6th semesters respectively",
+      "Secured a coveted position in the Dell Hackathon23, standing out among 100+ applicants",
+      "Achieved a LeetCode Contest rating of 1500+, demonstrating strong problem-solving skills",
+      "Solved 500+ problems across various coding platforms in C++ and SQL."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

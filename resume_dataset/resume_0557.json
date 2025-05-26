@@ -1,0 +1,174 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "SHAAN SRIVASTAVA",
+  "college": "Vellore Institute of Technology",
+  "locations": [
+    "Bhopal, India",
+    "Vikas Nagar, India",
+    "Jankipuram, India"
+  ],
+  "full_output": {
+    "summary": "As a final-year B.tech student in Computer Science , I am eager to leverage my academic background, hands-on experience, and passion in a challenging professional environment. I am a team player and bring a solid foundation in Java ,MERN Stack , Data structures and Algorithms. Aiming to nourish my technical as well as interpersonal skills for growth of myself as well as the organization.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Practitioner Certificate",
+        "issuer": "AWS Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Bits and Bytes of Computer Networking",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "High Performance Coding Course",
+        "issuer": "IamNeo",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Developer Bootcamp 2023",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vellore Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering (B.E)",
+        "location": "Bhopal, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Central Academy",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "CBSE (Class XII)",
+        "location": "Vikas Nagar, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Central Academy",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "CBSE (Class X)",
+        "location": "Jankipuram, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Nurture-AI",
+        "description": "An user-friendly platform where one can engage in conversations with renowned personalities across diverse fields. I Implemented responsive and user-friendly interfaces using ReactJs, NextJs, and TailwindCSS, ensuring a seamless user experience and developed the backend infrastructure with NodeJs, incorporating Prisma for database management and Clerk for authentication , Showcasing problem solving as well as adaptability skills.",
+        "keywords": [
+          "ReactJs",
+          "NextJs",
+          "NodeJs",
+          "TailwindCSS",
+          "Javascript",
+          "Typescript",
+          "Prisma",
+          "Replicate",
+          "OpenAI",
+          "Clerk"
+        ],
+        "endDate": "Nov23",
+        "startDate": "Oct23",
+        "url": "https://nurture-ai.netlify.app/"
+      },
+      {
+        "name": "Encriptify",
+        "description": "A robust TypeScript, NodeJs, and Express-based application, prioritizing secure file sharing through end-to-end encryption.Implemented Multer for efficient file handling and Crypto for robust encryption, enhancing the platform's security measures , Showcasing problem-solving skills in addressing challenges related to file management and security ,adaptability to different tools and frameworks to achieve project goals and attention to detail in building a secure and reliable application.",
+        "keywords": [
+          "Typescript",
+          "Javascript",
+          "ExpressJs",
+          "NodeJs",
+          "Multer",
+          "Crypto"
+        ],
+        "endDate": "Dec23",
+        "startDate": "Nov23",
+        "url": "https://github.com/Shaan2342/SecureFileShare"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Mar24",
+        "company_name": "TECHPLEMENT",
+        "description": "Designed and developed the backend architecture for a car project, handling data storage, retrieval, and manipulation to ensure seamless user experience. Built a robust backend for a quiz application, integrating APIs, managing user data, and implementing authentication and authorization mechanisms. Demonstrated adaptability and a proactive approach in learning new technologies to stay current with industry trends.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb24"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Data Structures",
+      "Algorithms",
+      "HTML/CSS",
+      "JavaScript",
+      "Typescript",
+      "ReactJs",
+      "NextJs",
+      "NodeJs",
+      "MongoDb",
+      "Git",
+      "Github",
+      "SEO"
+    ],
+    "soft_skills": [],
+    "name": "SHAAN SRIVASTAVA",
+    "position": "",
+    "interests": [
+      "Volunteer work",
+      "History enthusiast (Medieval Indian History)",
+      "Music"
+    ],
+    "achievements_and_awards": [
+      "Gold Level - Hackerrank(C++)",
+      "Semi- Finalist - Virtusa Jatayu Hackathon",
+      "Core Participant - Flipkart Grid 5.0 Software Development Track",
+      "Core Participant - TATA Imagination Challenge 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering (B.E)"
+}

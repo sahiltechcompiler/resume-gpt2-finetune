@@ -1,0 +1,107 @@
+{
+  "project_count": 3.0,
+  "designation": "WEB DEVELOPER",
+  "name": "Manoj Sinnur",
+  "college": "K J College Of Engineering & Management Research",
+  "locations": [
+    "Pune"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "K J College Of Engineering & Management Research",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Science and Engineering",
+        "location": "Pune",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "Dec 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "HTTP Server in GO",
+        "description": "Developed a custom TCP server in Go, designed to interpret and respond to HTTP-like requests over a TCP connection. This project showcases proficiency in network programming, Go's standard library, and the ability to implement custom protocols on top of TCP/IP. The server supports various HTTP methods, including GET, POST, and custom routes, demonstrating advanced routing logic and dynamic content generation based on request headers and paths.",
+        "keywords": [
+          "Go Programming Language",
+          "Standard Go Libraries (net, os)",
+          "TCP/IP Networking",
+          "File I/O Operations"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Wordle Game",
+        "description": "Developed a Wordle-inspired game using React JS, focusing on creating an engaging and interactive word- guessing experience. This project showcases my expertise in React, JavaScript, and front-end development, emphasizing my ability to build dynamic and responsive web applications. The game challenges players to guess a secret word by providing hints through color-coded feedback, encouraging strategic thinking and vocabulary knowledge.",
+        "keywords": [
+          "React JS",
+          "JavaScript",
+          "front-end development"
+        ],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sonic(Music Application)",
+        "description": "Sonic is a sophisticated music application developed using Django, incorporating authentication, live search functionality via AJAX, and leveraging the Spotify Web API for song retrieval and management. This project showcases my expertise in full-stack development, focusing on creating a seamless user experience for discovering and managing music. Authentication: Implemented secure user authentication using Django, enabling users to create accounts and log in securely. Live Search: Utilized AJAX for real-time search functionality, enabling users to search for songs, artists, and albums directly within the app. Spotify Integration: Leveraged the Spotify Web API to fetch song metadata, manage playlists, and control playback, enhancing the app's functionality and user engagement. Responsive Design: Ensured the application is fully responsive, catering to users across various devices and screen sizes.",
+        "keywords": [
+          "Django",
+          "AJAX",
+          "Spotify Web API"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "JavaScript",
+      "Python",
+      "C++",
+      "Java",
+      "Go",
+      "HTML",
+      "CSS",
+      "React JS",
+      "Next JS",
+      "Express JS",
+      "Node JS",
+      "Selenium",
+      "kaboom.js",
+      "Django",
+      "Numpy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Scikit Learn",
+      "MongoDB",
+      "Supabase",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Hard work"
+    ],
+    "name": "Manoj Sinnur",
+    "position": "WEB DEVELOPER",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Pune, India",
+  "graduation_year": 2021.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Computer Science and Engineering"
+}

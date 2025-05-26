@@ -1,0 +1,101 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Reethu Bhargavi Sajjala",
+  "college": "SRM University,AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University,AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pharmacy Management System",
+        "description": "Developed a Java-based Pharmacy Management System with a user-friendly interface, featuring medication database management, online order placement, inventory tracking, sales and billing, and security measures. Designed to streamline workflows and enhance customer experience by optimizing pharmacy processes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Predicting Credit Card Customer Segmentation",
+        "description": "Developed the Predicting Credit Card Customer Segmentation project using scikit-learn, Pandas, NumPy, Matplotlib, and Seaborn. Applied advanced data analytics to forecast and categorize credit card user behavior, providing valuable business insights.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mental Health Prediction Using Machine Learning",
+        "description": "Developed a machine learning model achieving 97% accuracy in predicting mood swings, using algorithms like Decision Tree and Random Forest. Performed correlation analysis to identify key factors like gender, occupation, and stress levels influencing mood swings, enhancing the accuracy of the predictive model.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "SRM-AP",
+        "description": "Demonstrated expertise in financial data analysis by using machine learning methods (regression, decision trees, and neural networks) to forecast stock market patterns. Enhanced comprehension of financial markets and capacity to combine technological advancements with analytical insights for more accurate forecasting and decision-making.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Business Analytics Intern",
+        "skillsUsed": [],
+        "endDate": "Jun 2024",
+        "company_name": "Qlik",
+        "description": "Collected, prepared, and analyzed an airline dataset to create insightful data visualizations, improving data comprehension and decision-making processes. Developed interactive dashboards and compelling stories from the visualizations, effectively communicating key insights and trends.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "Machine learning",
+      "MySQL",
+      "Vs code",
+      "Jupyter notebook"
+    ],
+    "soft_skills": [],
+    "name": "Reethu Bhargavi Sajjala",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Forecasting Stock Markets Trends using Machine Learning Algorithms Jan 2024 The International Computational Intelligence and Communication Networks (CICN 2023) Link Authored research highlighting Multilayer Perceptron as the most accurate predictor among various techniques, including Logistic Regression, for forecasting stock market trends. Research enhances decision-making for investors navigating dynamic financial markets.",
+      "Algorithmic Guardians:Evaluating ML for Predicting Criminal Activities Jun 2024 The International Conference on Communication Systems and Network Technologies (CSNT2024) Link Evaluated the predictive capacity of machine learning on criminal behavior using XG Boost, K-Nearest Neighbors, and Logistic Regression, identifying key predictors. Findings assist law enforcement in forecasting and controlling crime rates, and developing measures to reduce unlawful activity in specific locations."
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

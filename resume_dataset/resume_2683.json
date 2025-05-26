@@ -1,0 +1,254 @@
+{
+  "project_count": 9.0,
+  "designation": "FULL STACK DEVELOPER DEVOPS",
+  "name": "Bewin Felix R A",
+  "college": "Karunya Institute of Technology and Sciences (Deemed University)",
+  "locations": [
+    "Coimbatore",
+    "Kanyakumari",
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "Passionate tech enthusiast and student at Karunya Institute of Technology and Science, adept at web, mobile, and desktop development. With a keen eye for detail and a drive for excellence, I excel at translating ideas into innovative solutions that meet user needs effectively. Proficient in a variety of programming languages and frameworks. My experience in DevOps practices ensures seamless integration and delivery of highquality software solutions. Eager to contribute my skills and learn from new challenges in the dynamic field of technology.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundations of Cybersecurity",
+        "issuer": "GOOGLE",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundations of User Experience (UX) Design",
+        "issuer": "GOOGLE",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Path to Insights: Data Models and Pipelines",
+        "issuer": "GOOGLE",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud Security Alliance",
+        "issuer": "CISCO",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Karunya Institute of Technology and Sciences (Deemed University)",
+        "endDate": "Apr 2025",
+        "maximum_grade": "",
+        "degree": "B.TECH",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "6.6",
+        "field_of_study": "COMPUTER SCiENCE AND ENGiNEERiNG",
+        "startDate": "Jul 2019"
+      },
+      {
+        "school": "Evans Matric Higher Secondary School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81",
+        "field_of_study": "MATHS COMPUTER",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Aptitutor",
+        "description": "Developed an aptitude training platform that leverages AI to generate and provide shortcut methods for solving problems. Worked on the web server part using Django, Django REST Framework (DRF), React, PostgreSQL, and Docker for deployment. Implemented a robust backend and efficient frontend to ensure seamless user experience and high performance.",
+        "keywords": [],
+        "endDate": "Jul 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Guided Project Platform",
+        "description": "Developed a comprehensive guided projects portal using Django and Django REST Framework, enhancing the learning experience with robust backend services and secure data management via PostgreSQL. Implemented a dynamic and userfriendly frontend with React JS and Tailwind CSS, ensuring seamless user interactions and an intuitive interface for learners. Utilized Docker for containerization to provide users with the necessary tools and environment, ensuring consistency, scalability, and streamlined deployment processes.",
+        "keywords": [],
+        "endDate": "Jun 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Attenance System for KHacks",
+        "description": "Developed an attendance and project tracking system for KHacks, featuring clubwise attendance management, project progress tracking, and realtime member activity insights. This system is designed to support the organizations need for precise data management and enhanced operational efficiency. The tech stack for this project includes Django and Django REST Framework for robust backend services, React JS and Chakra UI for a dynamic and userfriendly frontend, and PostgreSQL for secure and efficient data storage. As a backend developer, I implemented secure user authentication, access controls, and time tracking functionalities, and managed the API development for attendance and project data interactions, ensuring that the system is both efficient and scalable.",
+        "keywords": [],
+        "endDate": "Mar 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis for YouTube Video",
+        "description": "Developed a comprehensive system for extracting and analyzing audio transcripts from videos, involving speechtotext conversion, sentiment analysis of the audio, and aggregation of YouTube comments for sentiment evaluation. Utilized Django and Django REST Framework (DRF) for robust backend development, coupled with React JS and Chakra UI for creating a responsive and userfriendly frontend interface. As the sole project member, handled all phases of the project including integration of speechtotext technology, text preprocessing, sentiment analysis using machine learning techniques, and data visualization of sentiment results. Employed tools such as NLTK for natural language processing tasks, enhancing the systems accuracy and efficiency in processing and analyzing textual data.",
+        "keywords": [],
+        "endDate": "Mar 2024",
+        "startDate": "Dec 2024",
+        "url": ""
+      },
+      {
+        "name": "Translation of book PDF",
+        "description": "Developed a webbased elibrary platform for storing, translating, and reading books in PDF format. The platform features capabilities for PDF parsing, text translation through APIs, and a userfriendly interface for book management and reading. Employed a robust tech stack including Python, Django RestFramework for backend operations, React for frontend development, and JavaScript for interactive elements, alongside Gemeni API for translation functionality. Focused on backend development, specifically on building the PDF parsing system, integrating translation APIs, and constructing a comprehensive database system for efficient storage and retrieval of digital books. Created as part of the Google Solution Challenge, demonstrating innovation and addressing realworld needs through technology.",
+        "keywords": [],
+        "endDate": "Feb 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "DNS Filtering Service using Threat Intelligence feeds and AI/ML Techniques",
+        "description": "Developed a DNS Filtering Service using Threat Intelligence feeds and AI/ML techniques, achieving high accuracy rates in threat identification. Implemented backend infrastructure including PCAP analysis, Zeek analysis, log parsing, and regex blocking mechanisms for network traffic analysis. Designed an intuitive frontend interface powered by Grafana to visualize network traffic and threat insights, seamlessly integrated with the Unbound DNS server. Employed a robust tech stack including Python, Django RestFramework for backend operations, React for frontend development, and JavaScript for interactive elements, alongside Grafana for visualization. Created for the Smart India Hackathon (SIH) 2023.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "Oct 2023",
+        "url": ""
+      },
+      {
+        "name": "To Do and Password Manager",
+        "description": "Implemented features for task management and password storage, allowing users to add, edit, and delete tasks, as well as securely store and manage passwords. Designed a responsive and intuitive user interface using HTML and CSS for seamless interaction across devices. Utilized Node.js packages such as Express.js for serverside routing and MongoDB for database storage, ensuring scalability and data persistence.",
+        "keywords": [],
+        "endDate": "Nov 2023",
+        "startDate": "Oct 2023",
+        "url": ""
+      },
+      {
+        "name": "Hardware Forensic Suite",
+        "description": "A Portable, Virtualized Intel NUC (Next Unit of Computing) device with the following features Memory Forensics Disk Forensics Network Forensics Multi operating system support (Windows, Linux) Userfriendly Tool Launcher Interface to launch a comprehensive set of forensic tools on each OS platform for investigation Detailed PDF report for each investigative session. Created for the Kavach 2023 Hackathon. Integrated with cloud storage to save data and findings of investigation.",
+        "keywords": [],
+        "endDate": "Aug 2023",
+        "startDate": "Apr 2023",
+        "url": ""
+      },
+      {
+        "name": "Idea Bank",
+        "description": "Designed and developed the Idea Bank application to facilitate idea sharing and collaboration. Tech stack used: React for frontend development, PostgreSQL for the database, and Django Rest Framework (DRF) for backend operations. Implemented RESTful APIs using Django Rest Framework (DRF) for seamless communication between the frontend and backend components of the Idea Bank application.",
+        "keywords": [],
+        "endDate": "Feb 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      },
+      {
+        "name": "Workout Tracker",
+        "description": "Implemented computer vision algorithms using OpenCV to detect and recognize different workout exercises, including pushups, pullups, squats, and walking. Utilized TensorFlow for machine learningbased pose estimation to accurately count repetitions and assess exercise form. Designed a userfriendly interface using Tkinter for easy navigation and interaction with the application. Integrated features for realtime feedback and visualizations to provide users with insights into their workout performance.",
+        "keywords": [],
+        "endDate": "Nov 2022",
+        "startDate": "Oct 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "HEAD OF APP AND WEB DEVELOPMENT",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "KHacks Karunya",
+        "description": "Mentored students for hackathons, guiding them to develop innovative solutions to realworld problems. Conducted workshops on Docker and Tableau, inspiring students to devise innovative solutions leveraging their newfound skills. Fostered a supportive community that encourages creativity and collaboration among students, empowering them to make a positive impact on society through technology.",
+        "location": "Coimbatore",
+        "links": "",
+        "startDate": "2022"
+      },
+      {
+        "role_name": "WEB DEVELOPER INTERN",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "OctaNet",
+        "description": "Created a ToDo application and Landing page. Utilized HTML, CSS, and JavaScript to develop these websites.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "SUMMER INTERNSHiP",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Karunya Institute of Technology and Sciences (Deemed University)",
+        "description": "Worked with Content Management Systems (CMS) such as Drupal and Wordpress. Integrated codeserver with JupyterHub to provide users with the Visual Studio Code (VS Code) interface within JupyterHub.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "WEB DEVELOPER INTERN",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "Teachnook",
+        "description": "Developed a basic chat application utilizing Web 3 technology, leveraging blockchain for secure and decentralized messaging.",
+        "location": "Coimbatore",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "PYTHON PROGRAMMER INTERN",
+        "skillsUsed": [],
+        "endDate": "May 2022",
+        "company_name": "CISCO",
+        "description": "Developed Python functions to validate both IPv4 and IPv6 subnet addresses, ensuring proper formatting and adherence to subnet mask/prefix length constraints. Implemented checks for subnet mask/prefix length validity, verifying that they fall within the acceptable ranges (IPv4: 132, IPv6: 1128). Validated network and broadcast addresses within the specified subnet ranges, ensuring accuracy and reliability in subnet calculations and networking tasks.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "Jan 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "MERN Stack",
+      "AngularJS",
+      "ReactJS",
+      "ElectronJS",
+      "ReactNative",
+      "Django",
+      "Django RestFramework",
+      "NodeJS",
+      "HTML",
+      "CSS",
+      "MongoDB",
+      "SQL",
+      "Git",
+      "Ngnix",
+      "Docker",
+      "Postman"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Decision Making",
+      "Communication",
+      "Teamwork",
+      "ProblemSolving",
+      "Adaptability"
+    ],
+    "name": "Bewin Felix R A",
+    "position": "FULL STACK DEVELOPER DEVOPS",
+    "interests": [],
+    "achievements_and_awards": [
+      "SIH 2023 Finalist HACKATHON Coimbatore Aug 2021",
+      "GDSC Karunya MEMBER Active Participator and Member at the Google Developers Student Club, Karunya University",
+      "Kavach 2023 Finalist HACKATHON Coimbatore Nov 2023",
+      "TNPolice 2023 Finalist HACKATHON Chennai Mar 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "A-163, NGO Colony, Nagercoil, Kanyakumari. 629002 ,INDIA",
+  "graduation_year": 2025.0,
+  "experience_count": 5.0,
+  "degree": "B.TECH"
+}

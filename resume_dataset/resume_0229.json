@@ -1,0 +1,154 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Kundanaa Pilla",
+  "college": "SRM University AP",
+  "locations": [
+    "Guntur, India",
+    "Visakhapatnam, India",
+    "Andhra Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "Aspiring software engineer, adept at motivating self and others. Im passionate about Coding, Problem Solving, Full Stack Development and UI/UX Design. Im an inquisitive, energetic learner with prociency in Java, C, C++, Python Programming Languages, MERN Stack and Ul/UX Design. Seeking to leverage solid developmental skills with a focus on collaboration, communication, passion, and creativity as a programmer.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Silver Medal in Research in the eld of Machine Learning",
+        "field_of_study": "CSE-AIML",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Venkateswara Junior College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "[Intermediate]",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 92.3%, BITSAT score: 245, APEamcet rank: 4500",
+        "field_of_study": "MPC",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "CBSE Board",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 95.8%, Scholar for 5 consecutive years from 2014-2019",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce Website",
+        "description": "Developed a full-stack e-commerce application using the MERN stack, featuring user authentication, product listings, shopping cart functionality, and payment integration.",
+        "keywords": [
+          "MongoDB",
+          "Express",
+          "Reactjs",
+          "Nodejs",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Jun 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Ethereum Decentralised Voting System",
+        "description": "A Blockchain FullStack Software engineering project which focuses on voter and candidate registration, vote polling, vote counting, and also ensures security, privacy, and immutability.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "Reactjs",
+          "solidity",
+          "Ganache",
+          "MySQL"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "Mar 2024",
+        "url": ""
+      },
+      {
+        "name": "Online Job Portal",
+        "description": "Developed a functional online job portal with Java, Servlet, JSP, HTML,CSS, Javascript and MySQL. Streamlined employer hiring and enhanced job seekers experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Visual Perception",
+        "description": "Features used: Image recognition, Text Extraction, Text-To-Speech conversion. Libraries used: Tensorow, Pytorch, OpenCV, Keras, Tessearct, gTTs, YOLO, Deep Voice, pyttsx3.",
+        "keywords": [],
+        "endDate": "Oct 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer ML Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "SRM University AP",
+        "description": "Worked on Neuromarketing EEG Signals dataset, focusing on decrypting and interpreting the emotional responses of individuals based on brain electrode signals. Received Silver Medal for getting highest accuracy of 92.3% which higher than all the available research papers till date on neuromarketing dataset with a newly proposed model CNN-LSTM and ICA-RNN.",
+        "location": "Guntur, India",
+        "links": "",
+        "startDate": "Dec 2021"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "Coincent.ai",
+        "description": "Developed and trained a model using the Google Landmark Detection Dataset, involving data collection, and preprocessing (resizing images, normalizing pixels, augmentation) Model creation (CNN, Max pooling, fully connected layers). Improved model accuracy and F1 score through eective data splitting, compilation, and testing.",
+        "location": "Visakhapatnam, India",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Java",
+      "Python",
+      "Data Structures and Algorithms",
+      "SQL",
+      "UI/UX Design",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JSP",
+      "Express",
+      "MongoDB",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Solidity",
+      "Full Stack Development",
+      "Azure",
+      "AIML"
+    ],
+    "soft_skills": [],
+    "name": "Kundanaa Pilla",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Visakhapatnam, India",
+  "graduation_year": 0.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Jagadeesh Kolla",
+  "college": "SRM University, AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "09/2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.3",
+        "field_of_study": "Computer Science Big Data Analytics",
+        "startDate": "08/2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "07/2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 76.7%",
+        "field_of_study": "M.P.C",
+        "startDate": "07/2019"
+      },
+      {
+        "school": "Sri Chaitanya School",
+        "endDate": "05/2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 93.1%",
+        "field_of_study": "APSSC Board",
+        "startDate": "05/2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Bank Customer Churn Prediction",
+        "description": "Analyzed bank customer churn behavior to understand key factors influencing attrition and predict churn probabilities. Developed predictive models using machine learning techniques like Random Forest and Decision Tree algorithms to anticipate customer churn. Conducted exploratory data analysis (EDA) to unveil patterns and insights within the banks customer data. Developed predictive models for customer churn utilizing Random Forest and Decision Tree algorithms, and rigorously evaluated model performance using key metrics like accuracy, precision, recall, and F1-score to ensure reliability.",
+        "keywords": [
+          "Python",
+          "Jupyter Notebook",
+          "Machine Learning Models",
+          "Model evaluation and performance tuning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github, Linkedin"
+      },
+      {
+        "name": "Fruit Recognition Using VGG-19",
+        "description": "Trained a deep learning model with VGG-19 architecture to classify images of various fruits. Aimed to develop a robust system for recognizing and categorizing different types of fruits from input images. Motive of the project is to enable applications in automated fruit sorting systems, agricultural yield estimation, and inventory management and in distribution industries.",
+        "keywords": [
+          "Python",
+          "Google Colab",
+          "image processing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Sales Analysis using Excel",
+        "description": "Conducted comprehensive sales data analysis using Excels Power Query, Pivot Tables, and Power Pivot, integrating data from four separate CSV datasets. Extracted actionable insights from the aggregated data, facilitating informed decision-making processes by identifying performances, patterns, and opportunities within the sales data. Consolidated disparate datasets from multiple sources using Power Query to ensure seamless data integration and consistency.",
+        "keywords": [
+          "Excel",
+          "Power Query",
+          "Power Pivot",
+          "ETL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github, Linkedin"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "Python",
+          "Django"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Developed proficiency in Python programming language, specializing in Django framework. Demonstrated strong problem-solving skills and a keen ability to adapt to new technologies within a fast-paced team environment.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "PostgreSQL",
+      "PowerBI",
+      "Excel",
+      "VS code",
+      "Google Colab"
+    ],
+    "soft_skills": [],
+    "name": "Jagadeesh Kolla",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

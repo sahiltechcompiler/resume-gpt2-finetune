@@ -1,0 +1,186 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SANKALP DUTTA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "India",
+    "Noida",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "I am a B.Tech student with a strong foundation in programming and experience in developing and deploying models using diverse algorithms. My analytical mindset, attention to detail, and collaborative skills enable me to thrive in dynamic environments. I am eager to contribute and drive positive change through innovative solutions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "ORACLE",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science and AI",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Vision and Image Processing",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Networking, Automation, and Security",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Switching, Routing, and Wireless Essentials",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Supervised and Unsupervised Machine Learning",
+        "issuer": "Stanford",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "India",
+        "ID": 0.0,
+        "grade_received": "8.21",
+        "field_of_study": "Computer Science and Engineering with specialization in AI&ML",
+        "startDate": ""
+      },
+      {
+        "school": "Father Agnel School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CBSE (Class XII)",
+        "location": "Noida",
+        "ID": 1.0,
+        "grade_received": "91.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Father Agnel School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE (Class X)",
+        "location": "Noida",
+        "ID": 2.0,
+        "grade_received": "94.8%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Invoice Entity Extraction Tool using NER Model",
+        "description": "Developed a natural language processing solution to extract details from invoices using advanced technologies like Conditional Random Fields (CRF) and Natural Language Toolkit (NLTK) in Python. Built the CRF model with default hyperparameters: - LBFGS optimization algorithm - L1 and L2 regularization parameters set to 0.1 - 100 epochs giving an F1, precision, and recall scores were 94%, 94%, and 95% respectively.",
+        "keywords": [
+          "Python",
+          "CRF",
+          "Label Studio"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "HAND GESTURE BASED VOLUME CONTROL",
+        "description": "Authored a sophisticated volume control system using computer vision techniques and various python libraries such as Scikit- Learn. Enabled users to adjust audio levels through natural hand gestures, enhancing user experience.",
+        "keywords": [
+          "OpenCV",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MUSIC RECOMMENDATION SYSTEM",
+        "description": "Content-Based Recommender is used which analyzes user's past song history and the properties of the music, the system will generate a list of recommended tracks. The model uses the Spotify dataset which contains a variety of features such as acousticness, liveness, loudness, tempo, and others.",
+        "keywords": [
+          "Kaggle",
+          "Python",
+          "NumPy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [],
+        "endDate": "July24",
+        "company_name": "Sopra Steria Technologies",
+        "description": "Served as a project intern and assisted in project planning for successful completion within timeline constraints. Managed multiple priorities effectively while delivering consistent results under tight deadlines throughout the internship.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May24"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python programming and OOPs",
+      "Data Analytics",
+      "RDBMS & SQL",
+      "DSA",
+      "HTML/CSS",
+      "R programming",
+      "Power-BI",
+      "NumPy",
+      "Pandas",
+      "Machine Learning",
+      "NLP"
+    ],
+    "soft_skills": [],
+    "name": "SANKALP DUTTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Qualified NPTEL EXAM (IITM) of design and Analysis of Algorithms",
+      "Recipient of Dean's list, [ 1st Semester]",
+      "Qualified FIT1 Deutsch exam (German exam)",
+      "Secured 3rd Position in CBSE clusters (Football)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

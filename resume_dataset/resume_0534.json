@@ -1,0 +1,104 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Utkarsh Shukla",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certified completion of Java Essentials course, showcasing proficiency in core Java modules via Cisco Academy",
+        "skillsLearned": [],
+        "title": "Java Essentials",
+        "issuer": "Cisco Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "8.11",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Anil Saraswati Vidya Mandir",
+        "endDate": "April 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "89",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Kumbh Mela App",
+        "description": "A cross-platform mobile application using Unity Engine to facilitate real-time location tracking and reunification of lost individuals during the high-density Kumbh Mela festival. Leveraged Googles Fused Location Provider API (FLPA) to deliver highly accurate, real-time location data for both lost individuals and search parties with a accuracy of within 2 meters. Integrated the A* path finding algorithm to optimize search routes within the densely populated festival grounds, minimizing search times by a factor of 10x.",
+        "keywords": [],
+        "endDate": "March 2023",
+        "startDate": "February 2023",
+        "url": ""
+      },
+      {
+        "name": "+1 Dimension",
+        "description": "Engineered 3D animated avatars, enable users to navigate through virtual reality for immersive property exploration. Designed and implemented C# scripts to enable seamless movement and interaction of avatars within the VR environment & 3d Gamified View, enhancing user control and immersion. Contributed to the development of a mobile application utilizing marker-based AR technology, allowing users to visualize 3D animated buildings overlaid onto real-world locations for enhanced property understanding.",
+        "keywords": [],
+        "endDate": "March 2023",
+        "startDate": "Apr 2023",
+        "url": ""
+      },
+      {
+        "name": "Employee Management System",
+        "description": "Engineered a cutting-edge GUI to seamlessly manage employee data in a MySQL database, handling over 100+ records with precision and efficiency. Implemented functionality for editing, deleting, and adding employee details, alongside advanced search options.",
+        "keywords": [],
+        "endDate": "May 2023",
+        "startDate": "April 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern, Data Analyst",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "Edunet Foundation",
+        "description": "Concluded a AICTE approved stimulating 6-week internship, specializing in Data Analytics with an emphasis on Power BI, to provide comprehensive insights into Unicorn Businesses. Created a dynamic dashboard that synthesizes complex datasets into easily digestible visualizations. With over 40,000+ data points meticulously analyzed, a strategic visualization, featuring an array of 11+ dashboard visuals.",
+        "location": "",
+        "links": "",
+        "startDate": "October 2021"
+      }
+    ],
+    "skills": [
+      "C#",
+      "C++",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Utkarsh Shukla",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured victory in the Kumbh Mela Hackathon by IIIT Allahabad, triumphing at the prestigious Innotech22 annual Technical Fest and Innohacks23."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

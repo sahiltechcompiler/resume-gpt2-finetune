@@ -1,0 +1,158 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SARANG GOEL",
+  "college": "Kiet Group of Institutions",
+  "locations": [
+    "Ghaziabad, Delhi-NCR",
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundations of Value-based Care",
+        "issuer": "Innovacer Acadamy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React.js Essential Training",
+        "issuer": "",
+        "certiLink": "https://www.linkedin.com/learning/certificates/76314050bb7d6a1de3228f5b00799d2b2bd0aae757f268590fc69c3ef62a1bf7"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://www.coursera.org/account/accomplishments/verify/RHY2A9F8RR9P",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Foundation with Javascript, Html and Css",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://www.coursera.org/account/accomplishments/verify/JYRSU23M8A5X",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming: Solving Problems with Software",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Kiet Group of Institutions",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Delhi-NCR",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": "Sept 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Notes Sharing App",
+        "description": "Designed a web application to share notes among teachers, students and even outside campus. Implemented features such as user authentication, CRUD operations for notes.",
+        "keywords": [
+          "Python",
+          "VScode",
+          "Django"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blogging Platform",
+        "description": "Created a responsive and intuitive user interface with React and Material-UI, providing a seamless user experience across devices. Designed and integrated a rich text editor which allows user to format their blog posts with various text styles, images, and embedded links.",
+        "keywords": [
+          "React",
+          "Nodejs",
+          "MongoDB"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mental Fitness Tracker",
+        "description": "Created an machine learning model to train the dataset of multiple countries of different years and predict the cause of their mental health. Integrated different libraries like matplotlib, sklearn to analyze the data and train the model and remove the fields that are forming large variations and could impact the accuracy of the model.",
+        "keywords": [
+          "Machine Learning",
+          "Google Colab"
+        ],
+        "endDate": "July 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Employee Details Management System",
+        "description": "Developed a java program which can store employee data into the database and could be fetchable anytime. Implemented the database mysql using jdbc driver with java to connect program with mysql.",
+        "keywords": [
+          "Java",
+          "MySql",
+          "Frontend"
+        ],
+        "endDate": "June 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Ernst & Young (EY) GDS",
+        "description": "Developed a Notes sharing application for sharing notes of any format. Implemented features such as user authentication, CRUD operations for notes.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "AI Intern",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "IBM Skill Build",
+        "description": "Utilized python libraries to predicted cause of mental illness. Organizing dataset and training that dataset to provide more accurate prediction.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "March 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "MYSQL",
+      "VS Code",
+      "Google Colab",
+      "GitHub",
+      "React",
+      "Django"
+    ],
+    "soft_skills": [],
+    "name": "SARANG GOEL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

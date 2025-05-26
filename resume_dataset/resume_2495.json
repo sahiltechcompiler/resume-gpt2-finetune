@@ -1,0 +1,167 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Paras Agarwal",
+  "college": "SRM University",
+  "locations": [
+    "Delhi",
+    "Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Certificate Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Node.js",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Certificate Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React.js",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Certificate Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Certificate Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Certificate Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Testing",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.91 (Till 6th Sem)",
+        "field_of_study": "Computer Science and Engineering with Specialization in Big Data Analytics",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Comfy Store",
+        "description": "Spearheaded the development of Comfy Store, a full-featured e-commerce website, utilizing modern web technologies such as React, Tailwind CSS, and Redux Toolkit. Designed and integrated reusable components, including a responsive Navbar, dynamic Product Grids, and a robust Cart system, enhancing user experience and interaction. Established secure authentication mechanisms with user state management, including login, registration, and theme toggling, ensuring user data integrity and personalized experiences. Utilized Redux for efficient state management, implementing reducers for cart operations, user sessions, and order handling, resulting in a smooth and scalable application performance.",
+        "keywords": [
+          "React.js",
+          "Tailwind CSS",
+          "DaisyUI",
+          "Redux Toolkit",
+          "React Router",
+          "Axios",
+          "Vite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "E-Commerce API",
+        "description": "Developed RESTful APIs using Node.js, Express.js, and MongoDB for seamless user authentication, product management, order processing, and reviews. Implemented JWT-based authentication, bcrypt for password hashing, and Cookies to ensure secure user sessions and data protection. Integrated dummy Stripe API for payment processing and developed responsive image upload functionality, enhancing user experience and enabling smooth transactions. Utilized Express middleware for rate limiting, XSS protection, and CORS management, bolstering application security and reliability.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "JavaScript",
+          "Postman"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "AdventureWorks Analysis Report",
+        "description": "Developed an interactive and user-friendly Power BI report providing actionable insights through advanced data modeling and visualizations. Implemented DAX measures and calculated columns to enable in-depth analysis, including top products, customer segmentation, and time series trends. Conducted geographical analysis using continental data to understand market performance across different regions, enhancing strategic decision-making. Designed dynamic dashboards with a variety of filters and slicers, allowing users to explore key metrics such as revenue, profit margins, and sales performance.",
+        "keywords": [
+          "Power BI",
+          "DAX",
+          "Data Modeling",
+          "Data Visualization",
+          "Business Intelligence"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front-end Developer Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Indian Oil Corporation",
+        "description": "Led the design and deployment of a real-time FCCU Dashboard for Mathura Refinery using React, enabling hourly data updates and improving operational efficiency. Implemented secure authentication and authorization, ensuring safe management and updates of critical refinery data by authorized personnel. Developed efficient API data-fetching pipelines, enhancing the accuracy and timeliness of real-time analytics for stakeholders. Adapted effectively to a structured office environment, demonstrating attention to detail and delivering high-quality results.",
+        "location": "Delhi",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "C/C++",
+      "DAX",
+      "SQL",
+      "MongoDB",
+      "MySQL",
+      "React.js",
+      "Express.js",
+      "Node.js",
+      "Bootstrap",
+      "Tailwind CSS",
+      "PowerBI",
+      "Git",
+      "GitHub",
+      "Visual Studio",
+      "Jira",
+      "Xray"
+    ],
+    "soft_skills": [],
+    "name": "Paras Agarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

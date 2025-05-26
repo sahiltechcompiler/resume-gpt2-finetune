@@ -1,0 +1,191 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "ASWIN RAJ R K",
+  "college": "College of Engineering Vadakara",
+  "locations": [
+    "Thrissur",
+    "Trivandrum"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud Computing",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Django Programming",
+        "issuer": "Mind Luster",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "College of Engineering Vadakara",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Master of Computer Applications",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.08",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "University Institute of Technology, Azhoor",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "B.Sc Computer Science",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA - 7.32",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Blue Mount Public School, Thonakkal, Trivandrum",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA - 6.54",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Blue Mount Public School, Thonakkal, Trivandrum",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "CGPA - 10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "WAREHOUSE MANAGEMENT SYSTEM",
+        "description": "The Warehouse Management System is a real-time warehouse database capable of handling large inventories of an organization. This can be used to track the inventory of a single store, or to manage the distribution of stock between several stores of a larger franchise. However, the system merely records sales and restocking data and provides notification of low stock at any location at a specified interval. The goal is to reduce the strain of tracking rather than to handle all store maintenance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ARTISTRY HUB",
+        "description": "Artistry Hub is an innovative web application designed to empower artists from diverse creative backgrounds, including actors, singers, dancers, and instrumentalists, by providing a platform to showcase their unique skills and talents. By registering and creating comprehensive profiles on our platform, artists gain increased visibility and access to a wider range of opportunities in the world of arts and entertainment.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MOVIE SUCCESS PREDICTION USING NAIVE BASED SENTIMENTAL ANALYSIS",
+        "description": "Proposed research on the role of public opinions, especially online reviews, in determining movie success. Suggested a sentiment analysis-based review system to predict movie success. Admin module managed details and access; Producers added movie info and gauged success. Directors searched and reviewed films; Users contributed valuable opinions; Public accessed success rates.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MISSING STUFF",
+        "description": "Missing Stuffs is a web based application which deals with the registration of the looser who lost their personal belongings to this web application. And the public can view this and help find the belongings with the help of Area Supporter and return to the owner.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Malayalam",
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "experiences": [
+      {
+        "role_name": "Robotics Intern",
+        "skillsUsed": [
+          "Java",
+          "Spring Boot",
+          "Python",
+          "Flask",
+          "PHP",
+          "C",
+          "HTML & CSS",
+          "JavaScript",
+          "MySQL",
+          "MONGO DB"
+        ],
+        "endDate": "May 2023",
+        "company_name": "Inker Robotics",
+        "description": "Acquired in-depth understanding of robotics principles, including mechanical design, sensor integration, and control systems, through hands-on experience and mentorship. Collaborated with experienced professionals, engineers, and researchers, gaining valuable insights into industry best practices, innovative problem-solving approaches, and the latest advancements in the field of robotics. Acquired knowledge and applied AI and Machine Learning techniques to successfully detect human presence. I gained expertise and proficiently employed Virtual Reality, 3D printing, IoT, and other automated robots to accomplish tasks and achieve goals. Acquired knowledge on real-time robots like COBOT, CNC CUTTER and LASER ENGRAVING and DOG- BOT.",
+        "location": "Thrissur",
+        "links": "",
+        "startDate": "April 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "Flask",
+      "PHP",
+      "C",
+      "HTML & CSS",
+      "JavaScript",
+      "MySQL",
+      "MONGO DB",
+      "SDLC",
+      "Agile Methodology",
+      "Docker/Kubernetes"
+    ],
+    "soft_skills": [
+      "Problem-Solving skills",
+      "Team Collaboration",
+      "Communication skills",
+      "Project Management",
+      "Adaptability",
+      "Learning Agility"
+    ],
+    "name": "ASWIN RAJ R K",
+    "position": "",
+    "interests": [
+      "Reading",
+      "Coding",
+      "Movies",
+      "Music",
+      "Travelling",
+      "Gaming"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Trivandrum",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Master of Computer Applications"
+}

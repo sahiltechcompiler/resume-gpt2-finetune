@@ -1,0 +1,156 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ayushi Upreti",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Decatur, Illinois"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Front-End Development",
+        "issuer": "META",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Principles of UI/UX Design",
+        "issuer": "META",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Git and GitHub",
+        "issuer": "GOOGLE",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWSome Day Online Conference",
+        "issuer": "AWS",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Cambridge School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "PCM with Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "BlogCraft",
+        "description": "This web application provides CRUD functionality, allowing users create, read, update, and delete records stored in a MongoDB database. Integrated bcrypt for secure password encryption to ensure data privacy. Implemented JWT (JSON Web Tokens) authentication for user authentication and authorization. Utilized Fs (File System) and V4uuid libraries for file handling and generating unique identifiers respectively. Tested and debugged APIs using Postman to ensure functionality and reliability.",
+        "keywords": [
+          "MongoDB",
+          "ExpressJS",
+          "ReactJS",
+          "NodeJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CrptoDigest",
+        "description": "Cryptodigest is an app that offers a wealth of information on every cryptocurrency currently available. The application is built using ReactJS, a popular JavaScript library for building user interfaces with full responsive functionality. This ReactJS application showcases the integration of the CoinGecko API using Axios, enabling the retrieval and utilization of cryptocurrency data within a modern and responsive user interface.",
+        "keywords": [
+          "ReactJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "My Portfolio",
+        "description": "My portfolio website, developed using ReactJS, Tailwind CSS for styling and Framer Motion for scroll-based animations. Incorporated Framer Motion, a cutting-edge animation library, to enhance the user experience while scrolling through the website. With the combination of ReactJS, Tailwind CSS, and Framer Motion, my portfolio website offers a visually appealing, interactive and modern web experience.",
+        "keywords": [
+          "ReactJS",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "present",
+        "company_name": "DCC Marketing",
+        "description": "Designed and Developed Webpages: Successfully created and maintained multiple responsive webpages, using HTML, CSS, and JavaScript, ensuring compatibility across various devices and browsers. Debugged and Troubleshooted Issues: Identified and resolved technical issues and bugs, ensuring smooth and error-free operation of the webpages. Collaborated with Cross-Functional Teams: Worked closely with designers, content creators, and other developers to translate project requirements into functional web applications.",
+        "location": "Decatur, Illinois",
+        "links": "https://www.bankchampaign.com/privacy-policy/, https://mayorscaucus.org/initiatives/diversity/supporting-municipalities-for-asylum-seeker-services/, https://www.bankchampaign.com/treasury-services/",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C++",
+      "VS Code",
+      "Git/Github",
+      "Figma",
+      "ReactJS",
+      "NextJS",
+      "NodeJS",
+      "MongoDB",
+      "Firebase",
+      "ExpressJS",
+      "Bootstrap",
+      "Tailwind CSS"
+    ],
+    "soft_skills": [],
+    "name": "Ayushi Upreti",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

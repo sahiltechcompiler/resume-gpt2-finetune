@@ -1,0 +1,107 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Neeti Singh",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Anand Vihar, Delhi",
+    "Sahibabad,Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.00",
+        "field_of_study": "Computer Science Engineering(AI/ML)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Vivekanand School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Anand Vihar, Delhi",
+        "ID": 1.0,
+        "grade_received": "95",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "St. Thomas School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Sahibabad,Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "96",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Personal Blog",
+        "description": "This is my personal blog which Ive made while learning HTML and CSS.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "September 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real Estate Price Predictor",
+        "description": "This is a ML based project which estimates the price of a property based on certain numbers of features.",
+        "keywords": [
+          "ML",
+          "React",
+          "Python"
+        ],
+        "endDate": "November 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Project Management system",
+        "description": "Talibised is a web-based tool with a GUI that enables easy submission and evaluation of projects and assignments between students, TAs, and professors. With a variety of capabilities, it serves as a form of communal repository that users may access via a set of three different user logins.",
+        "keywords": [
+          "Django",
+          "Python"
+        ],
+        "endDate": "January 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "Python",
+      "JS"
+    ],
+    "soft_skills": [],
+    "name": "Neeti Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.tech"
+}

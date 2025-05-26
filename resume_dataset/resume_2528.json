@@ -1,0 +1,167 @@
+{
+  "project_count": 6.0,
+  "designation": "",
+  "name": "HIMANSHU GARG",
+  "college": "Manipal University",
+  "locations": [
+    "Delhi",
+    "Jaipur",
+    "P.D Vihar"
+  ],
+  "full_output": {
+    "summary": "I am a passionate learner, who always goes out of his way to understand the new technologies emerging in today's world. My key skills are problem-solving, communication, project and team management",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Management Consulting Simulation",
+        "issuer": "PWC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CISCO Certifications",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Coursera Certifications",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Treasurer at Enactus-MUJ",
+      "Joint Head of ML Research at IEEE RAS",
+      "Head of F&R at ACM"
+    ],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "8.82 CGPA",
+        "field_of_study": "CSE (specialization IOT & IS)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Lovely Public SR.SEC School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "P.D Vihar",
+        "ID": 1.0,
+        "grade_received": "90%",
+        "field_of_study": "CBSE BOARD",
+        "startDate": ""
+      },
+      {
+        "school": "Lovely Public SR.SEC School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "P.D Vihar",
+        "ID": 2.0,
+        "grade_received": "94.2%",
+        "field_of_study": "CBSE BOARD",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gemini PRO Chatbot",
+        "description": "I made a chatbot using Gemini Pro API and hosted it on streamlit.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Youtube Video Summarizer",
+        "description": "I made a streamlit app for getting the summary of any youtube link provided.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Plant Disease Detection",
+        "description": "I made plant disease detection using CNN model to detect the plant disease from input images. I deployed on aws using ec2 instance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WhatsApp Chat Analyser",
+        "description": "I made this project to perform quantitative analysis on provided chat and hosted it on streamlit.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "I made the front-end of e-commerce website. It is also responsive.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Weather-WebApp",
+        "description": "I made weather web app using API. When we enter any state it generates information like temperature, wind speed, humidity, etc.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Front-End Web Development",
+      "Databases",
+      "React",
+      "Agile",
+      "Computer Network",
+      "MYSQL"
+    ],
+    "soft_skills": [
+      "problem-solving",
+      "communication",
+      "project management",
+      "team management"
+    ],
+    "name": "HIMANSHU GARG",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Dean's List Excellence in Academics (10/2023)"
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

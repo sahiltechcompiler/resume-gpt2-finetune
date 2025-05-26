@@ -1,0 +1,132 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Nishant Mishra",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "is intended for students who seek an overall understanding of cloud computing concepts, independent of specific technical roles. It provides a detailed overview of cloud concepts, AWS core services, security, architecture, pricing, and support.",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundations",
+        "issuer": "Amazon Web Services Training and Certification",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "7.84 CGPA",
+        "field_of_study": "IT",
+        "startDate": ""
+      },
+      {
+        "school": "Shree ayyappa public school",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE (CLASS XII)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "70.5 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Crescent public school",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "CBSE (CLASS X)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "94 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce Website",
+        "description": "Developed a fully functional e-commerce website with a comprehensive admin and user interface. Shopy Admin Features: Managed products (add, update, delete), handled order status updates, and monitored overall platform performance. User Features: Allowed users to sign up, log in, browse products, add items to cart, place orders, cancel orders, and search for available items. Implemented responsive web design using Bootstrap and Font Awesome to ensure mobile-friendly and visually appealing interfaces. Enhanced user experience with JavaScript for interactive UI components.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript",
+          "IntaSend API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Diabetic Retinopathy Detection",
+        "description": "Designed a deep learning system to detect and classify diabetic retinopathy stages using transfer learning with models like MobileNet and ResNet. Preprocessed retinal images using NumPy, OpenCV, and Pandas for resizing, black image removal, and data augmentation (rotation, flipping) to improve model robustness. Fine-tuned pre-trained models with custom Dense layers for classifying images into 'Normal,' 'Abnormal,' and 'Enhanced' categories. Trained models over 25 epochs with high validation accuracy using Adam optimizer and sparse categorical cross-entropy. Plotted accuracy and loss graphs using Matplotlib to monitor model performance across epochs. Evaluated model performance with confusion matrices and classification metrics (precision, recall, F1-score) for detailed reporting.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "Image Processing",
+          "Deep Learning",
+          "Data Augmentation",
+          "Computer Vision",
+          "Confusion Matrix",
+          "Model Evaluation",
+          "Pandas",
+          "Scikit-learn",
+          "Transfer Learning",
+          "NumPy",
+          "Matplotlib"
+        ],
+        "endDate": "May 2024",
+        "startDate": "April 2024",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Keras",
+      "Image Processing",
+      "Deep Learning",
+      "Data Augmentation",
+      "Computer Vision",
+      "Confusion Matrix",
+      "Model Evaluation",
+      "Pandas",
+      "Scikit-learn",
+      "Transfer Learning",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "soft_skills": [],
+    "name": "Nishant Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan - 303007",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

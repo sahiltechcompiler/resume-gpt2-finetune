@@ -1,0 +1,131 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Vishnupriyan J",
+  "college": "Hindustan Institute Of Technology and Science",
+  "locations": [
+    "Chennai-600103",
+    "Padur - 603103"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Hindustan Institute Of Technology and Science",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology with specialization in Cybersecurity",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Library Management System",
+        "description": "Developed a library management tool for my school library using the Python programming language. Students can view available books, borrow and return books, and check their due clearance status. Created a dedicated MySQL database to store and retrieve students data. Timestamps of students book transactions are recorded and stored in the database.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Text, File Encryption and Decryption",
+        "description": "Developed a text and file encryption/decryption website using HTML, CSS, and JavaScript. Users can utilize Rot13, AES, DES, Caesar cipher, TripleDES, and rail fence cipher to encrypt or decrypt text. Users also have the option to upload a text file for encryption and receive the corresponding encrypted file.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Javascript"
+        ],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Live Enumeration Open Source Tool",
+        "description": "Developed a Linux-based tool for automating pentesting, encompassing tasks such as recon, sensitive data exposure, and vulnerability identification. Users receive notifications via the Discord application when the framework detects valuable information. This tool offers an option to store the results in MySQL database. All data is stored as text with timestamps in their respective folders.",
+        "keywords": [
+          "Bash",
+          "Python"
+        ],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "API Hacking Tool",
+        "description": "Developed a Python-based API hacking tool to assess the security posture of website APIs. Designed and implemented modular components for authentication, injection, enumeration, and fuzzing. Conducted thorough testing and debugging to ensure the reliability and effectiveness of the tool.",
+        "keywords": [
+          "Javascript",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mini projects",
+        "description": "Stock market web scraping, Movie ticket alert Bot, ERP Attendance Automator",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cybersecurity Internship",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "AICTE IBM Skillsbuild",
+        "description": "Completed the Network Security Associate from Fortinet. Completed the Evolution of Cybersecurity from Fortinet. Developed a keylogger using the Python programming language.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Artificial Intelligence Research Assistant",
+        "skillsUsed": [],
+        "endDate": "2024",
+        "company_name": "Hindustan University",
+        "description": "Research paper based on Artificial Intelligence in zero-trust learning and deep learning in Healthcare. Suggested the importance of zero-trust learning and deep learning in healthcare security, emphasizing its significance in enhancing security measures.",
+        "location": "Chennai-600103",
+        "links": "",
+        "startDate": "2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Bash",
+      "requests",
+      "selenium",
+      "re",
+      "argparse",
+      "pypdf2",
+      "Git",
+      "Docker",
+      "Pycharm",
+      "Insomnia"
+    ],
+    "soft_skills": [],
+    "name": "Vishnupriyan J",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

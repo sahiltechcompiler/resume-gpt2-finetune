@@ -1,0 +1,175 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Harish Kumar",
+  "college": "National Institute of Technology, Patna",
+  "locations": [
+    "Guindy, Chennai(TN), India",
+    "Jaipur, Rajasthan, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Leetcode Certification on SQL",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "secured silver badge with 87%",
+        "skillsLearned": [],
+        "title": "NPTEL Certification on Python Programming Language",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute of Technology, Patna",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.01 (Current)",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Board of Secondary Education, Rajasthan",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "86.40 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of Secondary Education, Rajasthan",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "94.17 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "HotelWeb",
+        "description": "Streamlined Reservation Management Process with Our User-Friendly Software.",
+        "keywords": [
+          "MERN",
+          "ReactJS",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "JSON web tokens",
+          "PostMan",
+          "MongoDB Compass"
+        ],
+        "endDate": "April 2023",
+        "startDate": "January 2023",
+        "url": "Here"
+      },
+      {
+        "name": "Brain Tumor Detection",
+        "description": "Actively worked on CNN models for Brain Tumor Detection using Brain Scans.",
+        "keywords": [
+          "Kaggle Notebook",
+          "CNN",
+          "VGG-16",
+          "ResNet50"
+        ],
+        "endDate": "April 2023",
+        "startDate": "January 2023",
+        "url": "Br35H- Brain Tumor Detection 2020"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Cybermindworks LLP",
+        "description": "Contributed as a backend engineer to the Blackbucks Hackathon Platform ( a platform for placement readiness ). Reduced system load by implementing serialization with pg-boss, optimizing heavy tasks for enhanced performance. Achieved an 80% reduction in materialized view refresh time through static data transformation, enhancing system stability. Features added :- personalized lesson plan, yearly progress report and job posts with eligibility criteria.",
+        "location": "Guindy, Chennai(TN), India",
+        "links": "",
+        "startDate": "January 2024"
+      },
+      {
+        "role_name": "Software Development Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "L.B. Microtechnologies Private Limited",
+        "description": "Contributed as a full stack engineer to the Schoollog - School Management Software. During my two-month internship, I immersed myself in React.js and Node.js technologies, crafting various functionalities while honing my skills in collaborative teamwork and gaining invaluable insights into industry practices.",
+        "location": "Jaipur, Rajasthan, India",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "VSCode",
+      "Jupyter",
+      "Google Colab",
+      "Linux",
+      "Windows",
+      "Data Grip",
+      "Postman",
+      "Grefana",
+      "Amazon Console",
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "NodeJS",
+      "NestJs",
+      "TypeScript",
+      "ExpressJs",
+      "Fastify",
+      "Mikro-orm",
+      "knexjs",
+      "MongoDB Atlas",
+      "AWS",
+      "mySQL",
+      "PostgreSql"
+    ],
+    "soft_skills": [
+      "Team Work and Collaboration",
+      "Adaptive",
+      "Creative",
+      "Leadership",
+      "Decision Making",
+      "Problem Solving"
+    ],
+    "name": "Harish Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured rank under top 1.5 percentile in JEE Mains 2020",
+      "Leetcode 100 days coding badge",
+      "Solved 400+ DSA questions in past 6 months (highest contest rating : 1562)",
+      "GfG 400+ score by solving DSA questions"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech."
+}

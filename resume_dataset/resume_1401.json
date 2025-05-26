@@ -1,0 +1,110 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "PANKAJ KAUSHIK",
+  "college": "NOIDA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+  "locations": [
+    "Greater Noida"
+  ],
+  "full_output": {
+    "summary": "Passionate and innovative Computer Science Emerging Developer with hands-on experience in software development and a strong foundation in algorithms and data structures. Seeking to leverage my technical skills and problem-solving abilities to contribute to cutting-edge projects at a forward-thinking tech company.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NOIDA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "8.6 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "OXFORD GREEN PUBLIC SCHOOL",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Greater Noida",
+        "ID": 1.0,
+        "grade_received": "87%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "OXFORD GREEN PUBLIC SCHOOL",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Greater Noida",
+        "ID": 2.0,
+        "grade_received": "85%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Personal Blog Application",
+        "description": "I created and launched a personal blog platform using React.js for the frontend and Appwrite for the backend, focusing on a user-friendly interface, secure data handling, and seamless user authentication.",
+        "keywords": [
+          "React",
+          "Appwrite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/kaushik7060/PersonalBlogApp/tree/main/PersonalBlogWebApp-main"
+      },
+      {
+        "name": "Memory Mania",
+        "description": "This Gaming web app utilized pure JavaScript to for implementation, crafting an engaging user experience without relying on external libraries.",
+        "keywords": [
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/kaushik7060/Game/tree/main/MemoryGame-main"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Data Structures and Algorithms",
+      "OOPs principles",
+      "Java",
+      "Python",
+      "C programming",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Typescript",
+      "ReactJS",
+      "ExpressJS",
+      "NodeJS",
+      "MySQL",
+      "Mongo DB",
+      "Computer Networks",
+      "Operating Systems"
+    ],
+    "soft_skills": [
+      "Problem-solving ability",
+      "quick learner",
+      "strong grasper"
+    ],
+    "name": "PANKAJ KAUSHIK",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "10 Coursera Certifications in various fields suggested by AKTU.",
+      "Successfully solved more than 100+ problems on LeetCode.",
+      "Successfully solved more than 100+ problems on GFG (GeeksForGeeks)."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,147 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "SLS Praneet",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Apr 2025",
+        "maximum_grade": "10.00",
+        "degree": "B.Tech",
+        "location": "AP, Amaravati",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.65/10.00",
+        "field_of_study": "Computer Science and Engineering(with specialization in AI/ML)",
+        "startDate": "Jun 2021"
+      },
+      {
+        "school": "FIITJEE",
+        "endDate": "Feb 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Hyderabad",
+        "ID": 1.0,
+        "grade_received": "77.8 percent",
+        "field_of_study": "Telangana State Board of Intermediate Education",
+        "startDate": "Apr 2020"
+      },
+      {
+        "school": "Nasr Boys School",
+        "endDate": "Feb 2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "Hyderabad",
+        "ID": 2.0,
+        "grade_received": "88 percent",
+        "field_of_study": "CISCE board (ICSE)",
+        "startDate": "Apr 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fitzy-Fitness Tracker",
+        "description": "Developed using MERN stack(MongoDB, Express.js, React.js, Node.js) Built a dynamic and responsive fitness tracker user interface using React.js with material tailwind library Added secure user authentication with JSON Web Tokens(JWT auth) using bcrypt for password hashing. Created and integrated a MongoDB(NoSQL) database to store user info such as user IDs, passwords, User workouts, progress and also the users consistency. Deployed the code in platforms like Netlify(client-side) and Render(server, API).",
+        "keywords": [
+          "MERN stack",
+          "React.js",
+          "MongoDB",
+          "Express.js",
+          "Node.js",
+          "JWT",
+          "bcrypt"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Loan Approval Prediction and Analysis",
+        "description": "Developed using Machine Learning with Python libraries(NumPy, Sci-kit learn, Matplotlib) Performed an analysis to assess loan approval likelihood based on key features of the customer such as Marital Status, Education, Applicant Income, and Credit History. Implemented data preprocessing techniques to handle missing values, outliers, reduce noise and ensure the quality and integrity of the dataset. Optimized model performance by implementing advanced ML algorithms like KNN, Logistic Regression, and Random Forest; Achieved a prediction accuracy of 98% and visualized key insights with Matplotlib.",
+        "keywords": [
+          "Machine Learning",
+          "Python",
+          "NumPy",
+          "Sci-kit learn",
+          "Matplotlib",
+          "KNN",
+          "Logistic Regression",
+          "Random Forest"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "UI/UX Designer Intern",
+        "skillsUsed": [
+          "Figma",
+          "Adobe XD",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MongoDB",
+          "Express.js",
+          "React",
+          "Node.js"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Agumentik Group of Companies",
+        "description": "Designed intuitive and visually appealing applications and website themes that align with brand guidelines for brands like Gharperfect.com to improve their user conversion rate by 10%. Created wireframes, prototypes, and high-fidelity designs using Figma or Adobe XD and converted these designs into front-end prototypes using HTML, CSS and Javascript. Developed various web applications during this time using MongoDB, Express.js, React, and Node.js(MERN stack).",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "Typescript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "MySQL",
+      "Postgres",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Sci-kit Learn",
+      "Git",
+      "GitHub",
+      "Visual Studio Code",
+      "Node Package Manager(NPM)",
+      "Yarn",
+      "pip",
+      "Postman(API testing)"
+    ],
+    "soft_skills": [],
+    "name": "SLS Praneet",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Member(Norman Lab), part of front-end development team in Next Tech Lab, AP. Conducted multiple workshops on UI/UX design, Front-End Development and ML and also organized events such as 9hacks and NTL Expo.",
+      "Awarded silver medal in AI/ML category in Research Day24 in SRM AP for our work on leveraging Object Detection to cater to the needs and daily problems faced by visually impaired individuals.",
+      "Runner Up at Prodevthon 2021 in SRM AP, a cybersecurity focused hackathon conducted by the hackathon club of SRM-AP. Achieved the runner up position among 40 teams.",
+      "Organiser-HackSRM, organized a national level hackathon at SRM-AP as part of the tech and public relations teams."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

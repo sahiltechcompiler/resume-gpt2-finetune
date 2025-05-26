@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rishabh Jain",
+  "college": "Maharaja Agrasen Institute of Technology, Delhi",
+  "locations": [
+    "New Delhi, Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology, Delhi",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA : 8.929",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "12/2021"
+      },
+      {
+        "school": "Sachdeva Public School, Delhi",
+        "endDate": "03/2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage : 95.8",
+        "field_of_study": "",
+        "startDate": "04/2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Predictive Maintenance for Industrial Equipment",
+        "description": "Developed a machine learning model to predict equipment failures in an industrial setting using historical sensor data, achieving 92% accuracy. Pre-processed and cleaned large datasets, addressed missing values, and engineering 10+ meaningful input features. Incorporated anomaly detection techniques and leveraged ensemble learning improving prediction reliability by 30%. Validated the model using cross-validation techniques, demonstrating a 40% reduction in predicted downtime. Visualized findings and model predictions using matplotlib and seaborn with 10+ graphs.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "sk-learn",
+          "SQL",
+          "Data Visualization"
+        ],
+        "endDate": "07/2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Realtime Chat Application",
+        "description": "Developed a cutting-edge MERN stack-based realtime chat application with Socket.io, achieving seamless communication with a latency of less than 1 second. Achieved 100% privacy through robust user authentication & encryption mechanisms, ensuring a secure user experience. Integrated external APIs for random avatar selection from a diverse collection of 1000+ avatars during registration, enhancing user customization options. Designed a visually appealing dark-themed interface for the application, preferred by 60-80% of the population, thereby contributing to increased user satisfaction and engagement.",
+        "keywords": [
+          "MERN Stack",
+          "Socket.io"
+        ],
+        "endDate": "12/2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "JuryTech",
+        "description": "Engineered a robust Android app using Kotlin, Firebase, and AWS, refining scheduling algorithms with 10+ parameters for precise court case management. Integrated a Machine Learning model on AWS, transforming case prioritization and leading to a 30% possible improvement in judicial scheduling accuracy. Built judges a software, resulting in a 25% potential reduction in time spent on case input, allocation, and hearings.",
+        "keywords": [
+          "Android studio",
+          "Kotlin",
+          "AWS",
+          "Firebase"
+        ],
+        "endDate": "09/2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cloud Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "11/2023",
+        "company_name": "Ezinore Pvt. Ltd.",
+        "description": "Led the establishment and optimization of the complete cloud infrastructure, achieving a 40% reduction in operational latency. Ensured seamless delivery of services with 99% uptime by overseeing and managing diverse cloud-related tasks. Orchestrated and administered critical services, including AWS IoT Core, Lambda functions, DynamoDB, AWS SageMaker, and EC2 instances, scaling the infrastructure to support an increase in concurrent users. Explored and integrated 5 machine learning APIs, enhancing the data presented to users throughout. Strategically leveraged the AWS pricing calculator, resulting in a 25% cost reduction while maintaining service quality.",
+        "location": "New Delhi, Delhi",
+        "links": "",
+        "startDate": "09/2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Kotlin",
+      "VS Code",
+      "Eclipse",
+      "Google Cloud Platform",
+      "Android Studio",
+      "Amazon Web Services",
+      "Linux/Unix",
+      "TCP/IP",
+      "Cloud Computing",
+      "Android",
+      "Django",
+      "Flask",
+      "Node.js",
+      "React.js",
+      "Express.js",
+      "MongoDb",
+      "Firebase",
+      "GitHub",
+      "Git",
+      "Machine Learning",
+      "Data Analytics"
+    ],
+    "soft_skills": [],
+    "name": "Rishabh Jain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Earned over 100 skills badges in cloud computing using Google Cloud Platform on Qwiklabs.",
+      "Completed over 700 data structures and algorithms (DSA) problems across GFG and Leetcode using Java.",
+      "Organized and volunteered in 10+ events inside and outside university campus."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors of Technology"
+}

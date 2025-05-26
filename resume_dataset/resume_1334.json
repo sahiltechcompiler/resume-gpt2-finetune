@@ -1,0 +1,99 @@
+{
+  "project_count": 2.0,
+  "designation": "Software Developer",
+  "name": "VEDANT DHANAVADE",
+  "college": "Lokmanya Tilak College Of Engineering.",
+  "locations": [
+    "Mumbai.",
+    "Navi Mumbai."
+  ],
+  "full_output": {
+    "summary": "I am a dedicated and hardworking Computer Engineering student of Lokmanya Tilak College Of Engineering,Navi Mumbai. I am actively searching for an entry-level position to acquire hands-on experience and contribute to the success of your organization. I am eager to utilize my extensive knowledge to drive positive outcomes.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "R.J College of Science,Commerce and Arts.",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "H.S.C",
+        "location": "Mumbai.",
+        "ID": 0.0,
+        "grade_received": "65%",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Lokmanya Tilak College Of Engineering.",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Navi Mumbai.",
+        "ID": 1.0,
+        "grade_received": "C.G.P.A-7.6",
+        "field_of_study": "Computer Engineering",
+        "startDate": "Jan2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Health Prediction System using machine learning",
+        "description": "Used different machine learning algorithms like Decision tree, Random forest and Naive Bayes algorithm to predict the Disease based on the given symptoms. Based on the results of three algorithms the disease gets predicted also precision of finding the disease increased due to use of 3 different algorithms.",
+        "keywords": [
+          "Python 3.11.0",
+          "Database for storing information",
+          "Ide-Pycharm",
+          "Jupyter Notebook"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Podcast audio summarization",
+        "description": "Podcast audio is transcribed into text using automatic speech recognition (ASR) systems. Natural language processing techniques like sentiment analysis and topic modelling is used to extract key points and emotions from a given text.",
+        "keywords": [
+          "Web framework",
+          "Real-time processing tool",
+          "Machine learning",
+          "NLP libraries"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Coding and Programming",
+      "Secure Coding",
+      "Core Java",
+      "Mysql"
+    ],
+    "soft_skills": [
+      "Collaboration",
+      "Creativity",
+      "Communication",
+      "Critical Thinking",
+      "Leadership"
+    ],
+    "name": "VEDANT DHANAVADE",
+    "position": "Software Developer",
+    "interests": [
+      "Cricket",
+      "Reading",
+      "Gaming"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "B/602,Shivsagar cmplx,T.P Road,Bhandup(W),Mumbai-78",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.E"
+}

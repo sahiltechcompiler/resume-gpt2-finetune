@@ -1,0 +1,142 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Rohit Kumar",
+  "college": "SRM AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed Googles Data Analytics Certificate, gaining proficiency in spreadsheets, SQL for effective data analysis and visualization.",
+        "skillsLearned": [],
+        "title": "Google Data Analytics Professional Certificate",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Actively participated in Code-Clash (Coding Contest) events organized by the college.",
+      "Part of the Coding Club for 6 months in my 2nd year, providing technical support as needed.",
+      "Engaging actively on platforms like LeetCode for coding practice and CodeChef for coding competitions."
+    ],
+    "education": [
+      {
+        "school": "SRM AP",
+        "endDate": "Present",
+        "maximum_grade": "10",
+        "degree": "Bachelors",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.20/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Vidyagyan School UP",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "95.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Vidyagyan School UP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "92.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Job Recommender Analysis System",
+        "description": "Engineered a Recommender Analysis System employing the Random Forest machine learning algorithm with an accuracy of near 82%. Utilized Python for backend functionality, MySQL for database administration, and HTML/CSS for frontend presentation. Delivered extensive personality assessments based on user inputs, enhancing usability and data-driven insights. Applied best practices including unit testing.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Students Record Management using GUI - JAVA & Swing",
+        "description": "Crafted a graphical user interface (GUI) using JAVA and Swing for efficient management of student records. Facilitated secure login access for faculty, enabling them to add, delete, view, and update general student information and marks details. Improved administrative efficiency in handling academic data in institutions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fullstack Application for Employee Records",
+        "description": "Developed a full-stack application to manage employee records, enabling seamless addition, deletion, and updating of employee details. Implemented using JavaScript, Express, and React for the frontend. Node.js and MongoDB for the backend. Utilized Nodemon for streamlined development testing, ensuring continuous updates throughout the project lifecycle. Demonstrated task management and flexibility in undertaking new challenges.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Management Using HTML and MySQL",
+        "description": "Designed a streamlined library management system for efficiently handling student book borrowing processes. Ensured meticulous organization and easy accessibility of library resources, enhancing the overall user experience and administrative efficiency within educational institutions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "",
+        "description": "Explored the Fiber Bundle Model (FBM) to study the failure of composite materials under external loads. Focused on load-sharing among fibers and determining their threshold values. Provided insights into material fracture behavior, enhancing material design and failure prediction strategies. Assisted in creating project outputs such as solution design and technical architecture.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "SQL",
+      "Object-Oriented Programming",
+      "Complexity Analysis",
+      "Problem Solving",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "Flask",
+      "Node.js",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Communication skills",
+      "Problem-solving",
+      "Analytical thinking",
+      "Team collaboration",
+      "Adaptability"
+    ],
+    "name": "Rohit Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors"
+}

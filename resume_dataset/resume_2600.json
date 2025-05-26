@@ -1,0 +1,111 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ANKUR CHAUDHARY",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Nangloi, Delhi, India - 110041",
+    "Nangloi, Delhi, India - 110041",
+    "207-A, Ahir mohalla, Near post office, Nangloi, Delhi-110041"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "79.35 / 100",
+        "field_of_study": "IT",
+        "startDate": ""
+      },
+      {
+        "school": "Pusa Institute Of Technology",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "77.89 / 100",
+        "field_of_study": "Electrical Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Bosco public school",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "60.60 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ALGO SORT",
+        "description": "In this website we can visualize how famous sorting algorithms such as bubble sort, selection sort, insertion sort, merge sort, quick sort and heap sort works. This website is built using HTML, CSS and JavaScript and hosted using Netlify. Features of Algo-Sort - Color representation of step being executed like red color of bars denote incorrect position of element, green denotes correct position, yellow denotes compared bars and blue is the default color. - Speed of visualization (5 levels), Data size (used to increase or decrease the data set size), Random data generator (generates random array for sorting) are the three controls of visualization. - Time and Space Complexity of every running algorithm is also provided while sorting.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://jocular-melomakarona-e2ea23.netlify.app/"
+      },
+      {
+        "name": "AR MUSIC PLAYER",
+        "description": "Created a Augmented Reality Music Player that can be used to play selected music with movement of markers using A frame, Howler.js, Ar.js. This music player can be used to play a combination of many music instruments or songs at once by selecting the correct marker.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://augmentedrealmusicplayer.netlify.app/"
+      },
+      {
+        "name": "DISNEY MOVIE",
+        "description": "Developed an application which is very similar to the hotstar and here I have added some effects, working sliders and animations. In this web application users can check the overview of the movies and along with that they can also see the Carousel of the movies. This website had built using HTML, CSS, JavaScript. Netlify has been used for hosting the website.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://disneyhotstarclone.netlify.app/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "good Writing and communication skills",
+      "Problem solving skills",
+      "good knowledge of HTML",
+      "CSS",
+      "JS",
+      "MY SQL"
+    ],
+    "soft_skills": [],
+    "name": "ANKUR CHAUDHARY",
+    "position": "",
+    "interests": [
+      "Basketball",
+      "Cricket"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Nangloi, Delhi, India - 110041",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

@@ -1,0 +1,204 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Gavini Sai Dhanush",
+  "college": "SRM University",
+  "locations": [
+    "Vijayawada",
+    "Tenali"
+  ],
+  "full_output": {
+    "summary": "As a student skilled in programming and software development, I manage my time well and adapt quickly. I enjoy solving problems and have a strong desire to learn. My patience and work ethic, along with strong communication skills, help me collaborate effectively with teams and clients. I am dedicated to high-quality work, always seeking new challenges and going the extra mile to ensure project success. My proactive approach and attention to detail further enhance my results.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Service now",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C^2 Hackathon",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Apssdc",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Salesforce",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Vijayawada",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.1",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "Vijayawada",
+        "ID": 1.0,
+        "grade_received": "Grade: 89.5",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "DR.KKR Gowtham School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "Tenali",
+        "ID": 2.0,
+        "grade_received": "Grade: 9.7",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "To Do List",
+        "description": "Developed a web-based To-Do List application to manage tasks efficiently. Allows users to create, update, and delete tasks, providing a clear overview of their tasks. Developed an intuitive and user-friendly design for efficient task management.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Recipe Finder",
+        "description": "Developed a web-based application to help users find recipes based on available ingredients. Displayed detailed recipe information, including cooking instructions and tutorial videos. Displays a list of meals matching the search criteria with images and names.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Js",
+          "MealDBApi"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Car Parking System",
+        "description": "Real-time Vehicle Tracking, Admin and User Modules, Data Management and Reporting, Efficient Resource Utilization.",
+        "keywords": [
+          "SE"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Machine Learning-based Disease Diagnosis System",
+        "description": "Developed a system for disease diagnosis using machine learning algorithms to analyze symptoms and provide automated predictions. Combined various algorithms to enhance predictive accuracy.",
+        "keywords": [
+          "ML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "Oct 2023",
+        "company_name": "OASIS INFOBYTE",
+        "description": "Participated in a one-month virtual internship as a Web Developer, gaining hands-on experience in web development and enhancing skills in programming and design.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      },
+      {
+        "role_name": "Python Development Intern",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "Code Clause",
+        "description": "Completed a one-month virtual internship as a Python Developer, gaining practical experience in software development and Python programming.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Research Internship",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Complex Networks",
+        "description": "Started working on complex networks and aiming to find the best solutions for newly proposed centralities.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Research Work",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Indian Food Classification and Detection",
+        "description": "Implemented a machine learning model for the classification and detection of Indian food items.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Data Structures and Algorithms",
+      "Python",
+      "Html",
+      "Css",
+      "Js",
+      "Sql",
+      "React Js",
+      "Node.Js",
+      "Git",
+      "Ms excel",
+      "Matplotlib",
+      "AI&ML",
+      "Cloud Computing"
+    ],
+    "soft_skills": [],
+    "name": "Gavini Sai Dhanush",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 4.0,
+  "degree": "B.Tech"
+}

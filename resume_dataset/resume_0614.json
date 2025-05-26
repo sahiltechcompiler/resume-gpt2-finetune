@@ -1,0 +1,108 @@
+{
+  "project_count": 2.0,
+  "designation": "Software Engineer",
+  "name": "Jaswanth Budida",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "I am a creative and innovative individual with exceptional problem-solving skills and passionate about finding innovative solutions and launching new projects. Now I am seeking a software engineering role with a reputable and technology-driven firm where I can grow my skills and contribute to the development of innovative projects. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Board of intermediate,AP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "927/1000",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of secondary education,AP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.7/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Text-to-Text Language Translation",
+        "description": "this project utilizes machine translation models to provide real-time translation for spoken languages, supporting seamless communication between users speaking different languages.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bus Reservation System",
+        "description": "A Java-based bus reservation system is a software application designed to facilitate the booking and management of bus tickets for passengers. It provides a platform where users can search for available buses, select seats, make reservations, and process payments securely.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Reasearch Intern on Image Generation using GAN",
+        "skillsUsed": [
+          "TensorFlow",
+          "PyTorch",
+          "GANs",
+          "Data Augmentation"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "",
+        "description": "During my internship, I delved into the realm of image generation using Generative Adversarial Networks (GANs). I explored various GAN architectures like DCGAN, employing TensorFlow and PyTorch for implementation. I was responsible for dataset curation, meticulously preparing datasets like CIFAR-10 and enhancing them through data augmentation techniques.Our collective efforts led to notable advancements in GAN-based image generation, elevating the quality, diversity, and controllability of the generated images.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "CPP",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "NodeJs",
+      "Mongodb",
+      "MYSQL",
+      "Machine Learning",
+      "DSA"
+    ],
+    "soft_skills": [],
+    "name": "Jaswanth Budida",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

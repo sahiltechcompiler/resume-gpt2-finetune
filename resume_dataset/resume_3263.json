@@ -1,0 +1,102 @@
+{
+  "project_count": 2.0,
+  "designation": "Software Engineer (QA Automation)",
+  "name": "Dheeraj Khiriya",
+  "college": "Central University of Rajasthan",
+  "locations": [
+    "Bengaluru, India",
+    "Kishangarh, Rajasthan",
+    "Nagaur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Central University of Rajasthan",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Integrated M.Sc",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 3.77/6",
+        "field_of_study": "Computer Science",
+        "startDate": "2014"
+      },
+      {
+        "school": "Jawahar Navodaya Vidyalaya",
+        "endDate": "2014",
+        "maximum_grade": "",
+        "degree": "AISSCE",
+        "location": "Nagaur, Rajasthan",
+        "ID": 1.0,
+        "grade_received": "65.2%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Amazon Fine Food review",
+        "description": "This dataset consists of reviews given by customers on Amazon.com for purchased food items. The data span a period of more than 10 years, including all approx 500,000 reviews up to October 2012. The objective is: Given a review, determine whether the review is POSITIVE or NEGATIVE. It involved Data cleaning, preprocessing, featurisation, vectorization, training, and testing. Accuracy of 91% was Observed with DNN(deep neural network).",
+        "keywords": [],
+        "endDate": "Oct 2022",
+        "startDate": "Nov 2021",
+        "url": ""
+      },
+      {
+        "name": "Pneumonia Detection",
+        "description": "COVID-19 can cause lung complications such as pneumonia and, in the most severe cases, acute respiratory distress syndrome. 5,863 X-Ray images (JPEG) of 2 categories (Pneumonia/Normal) were annotated by expert physicians from cohorts of pediatric patients of one to five years old from Guangzhou Women and Childrens Medical Center, Guangzhou. Trained a image classification model to detect if an X-ray of a person has pneumonia with 92.6% accuracy.",
+        "keywords": [],
+        "endDate": "Jul 2021",
+        "startDate": "Jun 2021",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer (QA Automation)",
+        "skillsUsed": [],
+        "endDate": "Current",
+        "company_name": "Embibe",
+        "description": "OnDemand Automation Tool: It is a user interface by which internal users can put the request and get desired response based on the request via email. Ex: Execute Selenium/Appium tests, Get auto-generated template of code frameworks. Code Generator: To maintain the uniformity in code structure and save time in creating a base repository with some common utilities/properties (Ex: customExceptions, loggingConfig, DOCKERFILE etc), it automatically generates the Spring Boot/ Fast-API frameworks. Performance Test Automation: Developed a platform to execute locust(Python) based Performance Testing, UI/Headless mode perf test, that can up any number of workers for load generation. Used Kubernetes for automatic deployment, Helm as a package manager of K8. Automatic Jira Creation/Updation: Developed utility to automatically create or update tickets based on the cron job reports. It created 400+ tickets in just 6 months, which saved at-least 50+ man hours. Exam Maturity Framework (EMF): Created simulation reports on 200+ Functional/ Algorithmic checks that helped the team to detect hygiene/deficiency issues in advance. EMF is used to decide whether an exam is ready for production or not. Developed end to end automation scripts in python for content journey pipelines(including mongoDB, postgres databases and kafka). Developed an automated functional testing tool a APIs to get prompt functional and performance testing reports via email.",
+        "location": "Bengaluru, India",
+        "links": "",
+        "startDate": "February 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "SQL",
+      "Unix scripting",
+      "Numpy",
+      "Pandas",
+      "Jupyter",
+      "Postman",
+      "MongoDB",
+      "Locust",
+      "GIT",
+      "JIRA",
+      "Kafka",
+      "Redis"
+    ],
+    "soft_skills": [],
+    "name": "Dheeraj Khiriya",
+    "position": "Software Engineer (QA Automation)",
+    "interests": [
+      "Singing",
+      "Running",
+      "Playing Flute"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Bengaluru, India",
+  "graduation_year": 2020.0,
+  "experience_count": 1.0,
+  "degree": "Integrated M.Sc"
+}

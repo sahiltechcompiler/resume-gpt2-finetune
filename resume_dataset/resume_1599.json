@@ -1,0 +1,120 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "Ayushi Mathur",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Beawar, Rajasthan, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.12 / 10",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Mangal Newton School, Beawar",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 86 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "St. Paul's Sr.Sec School, Beawar",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 8.90 / 10",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Handwriting Recognition",
+        "description": "The project employs advanced deep learning algorithms, including ResNet, CNN, and Inception V3, to achieve high-performance image classification. ResNet (Residual Networks) is utilized to address the vanishing gradient problem, enabling the training of deeper networks with improved accuracy. CNN (Convolutional Neural Networks) provides a robust architecture for automatically detecting features in images through layers of convolutions and pooling, enhancing pattern recognition capabilities. Inception V3, an upgraded version of Google's Inception model, integrates various convolutional filter sizes in parallel, optimizing the network for a diverse range of visual features and reducing computational costs. By combining these powerful models, the project aims to deliver a state-of-the-art solution for tasks such as object detection, image recognition, and classification, achieving superior accuracy and efficiency. This approach demonstrates the effectiveness of leveraging multiple deep learning architectures to tackle complex image processing challenges.",
+        "keywords": [
+          "Deep learning algorithms"
+        ],
+        "endDate": "15 May, 2024",
+        "startDate": "01 Feb, 2024",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Software Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "PHP",
+          "SQL"
+        ],
+        "endDate": "Present",
+        "company_name": "Shree Cement Limited",
+        "description": "As a Software Development Intern at Shree Cement ltd, I am developing a comprehensive system for managing guest house canteen facilities. This involves designing and implementing a digital solution to streamline operations and enhance user experience. Skills that I'm pursuing during this internship is hands on experience with web development frameworks and databases (e.g., HTML/CSS, PHP , SQL). Strong problem-solving skills, attention to detail, and excellent communication abilities.",
+        "location": "Beawar",
+        "links": "",
+        "startDate": "27 May, 2024"
+      },
+      {
+        "role_name": "Web Development",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "05 Mar, 2023",
+        "company_name": "SkillVertex",
+        "description": "I created a food delivery website, inspired by platforms like Zomato, designed using HTML, CSS, and JavaScript. It features a user-friendly interface where customers can browse a variety of restaurants, view menus, and place orders online. The website includes search functionality, user reviews, and ratings to help users make informed choices. It also integrates a secure payment gateway and real-time order tracking. The responsive design ensures seamless access across devices, enhancing user experience. The use of JavaScript facilitates dynamic content updates and interactive elements, providing a smooth and efficient food ordering process.",
+        "location": "",
+        "links": "",
+        "startDate": "05 Feb, 2023"
+      }
+    ],
+    "skills": [
+      "OOPS",
+      "SQL",
+      "Java",
+      "Html5",
+      "CSS",
+      "Javascript",
+      "PHP",
+      "C"
+    ],
+    "soft_skills": [
+      "Strong problem-solving skills",
+      "Attention to detail",
+      "Excellent communication abilities"
+    ],
+    "name": "Ayushi Mathur",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Beawar, Rajasthan, India - 305901",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech."
+}

@@ -1,0 +1,195 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Om Haresh Gadhvi",
+  "college": "Shah and Anchor Kutchhi Engineering College",
+  "locations": [
+    "Mumbai",
+    "Uran"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "A unique opportunity for students from Hi-Ed Institutions in India to work for a month on industry-relevant problems using emerging technologies under the guidance of industry mentors. Working on latest technology like GEN AI and LLM.",
+        "skillsLearned": [],
+        "title": "Industrial Training",
+        "issuer": "Intel Unnati Industrial Training Program 24",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Led 165+ Students on GCCF and GEN AI courses across sectors, providing training sessions to aspiring professionals. Conducted 24+ meetings for effective communication while supervising and mentoring student groups. Organized training sessions for 165+ students, empowering them to excel in their projects.",
+        "skillsLearned": [],
+        "title": "Google Cloud Study Jams",
+        "issuer": "Google Developer Student Club",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Led 185+ Students on GENERATIVE AI courses across sectors, providing training sessions to aspiring professionals. Conducted 10+ meetings for effective communication while supervising and mentoring student groups. Organized training sessions for 185+ students, empowering them to excel in their projects.",
+        "skillsLearned": [],
+        "title": "Gen AI Study Jams",
+        "issuer": "Google Developer Student Club",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor Kutchhi Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E.(IT)",
+        "location": "Mumbai-88",
+        "ID": 0.0,
+        "grade_received": "CGPA 8.33",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Mithibai College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "HSC",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "84.54 %",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "St. Anthonys High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "74.56 %",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CropSense",
+        "description": "Spearheaded the design and implementation of web application in a 4-person team using Python Flask. Enabled users to accurately predict the Plant Leaf Disease Detection from images, classifying it into 3 Healthy, Powdery, and Rusty, achieving an impressive 92% accuracy rate.",
+        "keywords": [],
+        "endDate": "Apr 2024",
+        "startDate": "Dec 2023",
+        "url": ""
+      },
+      {
+        "name": "Student Information System",
+        "description": "Technology used for frontend development is HTML, CSS, JS, jQuery, Bootstrap and Backend was implemented using PHP/MySQL. Enabled two different dashboard for different users i.e. Multiple Teacher and Student. Implemented Payment gateway for fees and Library system. Admin have 8 branches, total no. of students record and student dashboard access.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Gujarati",
+      "Marathi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "JavaScript",
+          "jQuery",
+          "HTML5",
+          "CSS3"
+        ],
+        "endDate": "Nov 2023",
+        "company_name": "Mirror Advertising Pvt. Ltd.",
+        "description": "Working on various real time projects with client and developed web applications using JavaScript, jQuery, HTML5, CSS3. Implemented responsive design techniques to ensure optimal viewing experience across multiple devices. Having several meeting daily and also guiding juniors on the projects.",
+        "location": "Mumbai",
+        "links": "",
+        "startDate": "Dec 2022"
+      },
+      {
+        "role_name": "AI/ML Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2024",
+        "company_name": "SAKEC ACM Student Chapter",
+        "description": "Deployed a machine learning model to predict Heart Disease and Parkinson Disease. Demonstrated proficiency in creating fully functional webpages. Actively contributed as a team member.",
+        "location": "Mumbai",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Cyber Security Intern",
+        "skillsUsed": [],
+        "endDate": "Jun 2024",
+        "company_name": "Cisco-AICTE",
+        "description": "Managing Information Security. Install, configure & troubleshoot information security audit.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Feb 2023",
+        "company_name": "ACM Student Chapter",
+        "description": "Developed a fully functional Student Information System which consist a separate dashboard for student and teacher also with Payment Gateway integrated. Actively contributed as a team member, collaborating with colleagues.",
+        "location": "Mumbai",
+        "links": "",
+        "startDate": "Dec 2022"
+      },
+      {
+        "role_name": "Management Services",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "Jawaharlal Nehru Port Authority",
+        "description": "Integrated theoretical insights with hands-on fieldwork on Server Room, Administrative Building, E-Tender and E- Office cells, IT data networks, database management, active directory, firewalls, and cyber security administration. Collaborate with a talented team in Management Services.",
+        "location": "Uran",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Flask",
+      "Django",
+      "JQuery",
+      "ReactJs",
+      "Bootstrap",
+      "MongoDB",
+      "MySQL",
+      "PHP",
+      "GCP",
+      "VSCode",
+      "Git/GitHub",
+      "Microsoft Office"
+    ],
+    "soft_skills": [],
+    "name": "Om Haresh Gadhvi",
+    "position": "",
+    "interests": [
+      "Kabaddi",
+      "Badminton",
+      "Attending Community Events",
+      "Travelling"
+    ],
+    "achievements_and_awards": [
+      "ACM Wintership Runner-Up Me and my team was runner-up and won prize in ACM Wintership 2023 also rewarded with Cash prize, Certificate and Letter of Appreciation.",
+      "ACM AI/ML Internship Runner-Up Me and my team was runner-up and won prize in ACM AI/ML Internship also rewarded with Cash prize, Certificate and Letter of Appreciation."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 5.0,
+  "degree": "B.E.(IT)"
+}

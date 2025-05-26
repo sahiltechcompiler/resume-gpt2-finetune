@@ -1,0 +1,168 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Aryan Gupta",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Farrukhabad, (U.P.)"
+  ],
+  "full_output": {
+    "summary": "Seeking to leverage my skills in AI, machine learning, and web development to contribute to innovative tech solutions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internshala Machine-Learning training",
+        "issuer": "Internshala",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to NoSQL Databases",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Capgemini full stack Training",
+        "issuer": "NIET college",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Campus Recruitment Training",
+        "issuer": "Pyramid Trainers",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "EVENT MANAGEMENT | GGS(Green Gold Society), NIET - Management of fluent conduct of events organized by Green Gold Society. Its a club of members who work towards promotion of greener Earth.",
+      "ACTIVE MEMBER | GDSC NIET Chapter - Participated in Seminars conducted by GDSC.",
+      "TEAM MEMBER | EMERGEX CODING CLUB, NIET - Organized coding contests at college level and Also participated in contests."
+    ],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science - AI & ML",
+        "startDate": ""
+      },
+      {
+        "school": "Rajputana Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "Farrukhabad, (U.P.)",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Physics, Chemistry, Maths",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Portfolio Website",
+        "description": "Created a responsive website using HTML, CSS, and JavaScript, ensuring compatibility across various devices. Hosted through github pages. This is my portfolio website consisting of all necessary details about me.",
+        "keywords": [],
+        "endDate": "June 2025",
+        "startDate": "Nov 2021",
+        "url": "Live Here"
+      },
+      {
+        "name": "AI-Trip-Planner",
+        "description": "Developed a website using Python's Stream lit library and hosted on Streamlit app. This website assists users in planning trips, finding hotels and restaurants, and providing weather forecasts for specific locations. The information is fetched using Google's Gemini API key and API key is Loaded using Dotenv library.",
+        "keywords": [],
+        "endDate": "June 2021",
+        "startDate": "May 2020",
+        "url": "Live Here"
+      },
+      {
+        "name": "Sports-Wear-App",
+        "description": "Developed sports wearables website using HTML, CSS, and JS, hosted on GitHub pages.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Here"
+      },
+      {
+        "name": "TO-DO-LIST react app",
+        "description": "It is a full stack website to manage your TODOes, it is built using React.js, node.js, and mongoDB.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML5",
+      "CSS",
+      "Git",
+      "GitHub",
+      "SQL",
+      "VSCode",
+      "MongoDB",
+      "ReactJS",
+      "ExpressJS",
+      "NodeJS",
+      "Data Structures and Algorithms",
+      "Agile SCRUM",
+      "OOPs",
+      "DBMS",
+      "Computer Networks",
+      "Operating System"
+    ],
+    "soft_skills": [
+      "Effective Communication",
+      "Event Organization",
+      "Public Speaking",
+      "Teamwork"
+    ],
+    "name": "Aryan Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed Internshala Machine-Learning training on Internshala with a score of 98%.",
+      "Completed Introduction to NoSQL Databases on Coursera with a score of 97.75%.",
+      "Completed Python for Data Science, AI & Development by IBM on Coursera with a score of 99%.",
+      "Hackerrank Certified: Python, Java, Problem-Solving.",
+      "Completed college level Capgemini full stack Training held at NIET college.",
+      "Completed Campus Recruitment Training conducted by Pyramid Trainers at NIET college."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

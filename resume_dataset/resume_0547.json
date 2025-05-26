@@ -1,0 +1,124 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Developer",
+  "name": "Sai Abhinav",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, India",
+    "New Zealand"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Data Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Restaurant Table Reservation Website",
+        "description": "Designed an intuitive HTML/CSS user interface for easy navigation. Created a responsive reservation form with validation using JavaScript. Build backend logic using Node.js and Express.js for handling reservation requests. Integrated a MySQL database with tables for user and reservation details. Implement server-side validation and protection against SQL injection. Working on adding user authentication with secure password storage and provide confirmation notifications through email and real-time website updates.",
+        "keywords": [
+          "Express.js",
+          "Node.js",
+          "MySQL",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "QR Code Generator Website",
+        "description": "Developed a QR image generator web app using HTML, CSS, Express.js, Node.js, EJS, jQuery, and NPM. Designed an interface allowing users to input URLs to generate QR codes. Utilized Express.js to handle backend logic, routing, and NPM packages for QR code generation. Implemented EJS templates for dynamic content rendering on web pages. Leveraged NPM technologies for managing dependencies and streamlining the development process. Ensured a user-friendly experience with responsive design and intuitive navigation.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Express.js",
+          "Node.js",
+          "jQuery",
+          "EJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Tic Tac Toe",
+        "description": "Developed a dynamic Tic Tac Toe game using React, Node.js, Material-UI, and CSS, featuring an interactive user interface and state management with React hooks, providing real-time game updates and a seamless user experience. Implemented key features including move history, winner detection, and reset functionality, ensuring a comprehensive and engaging gameplay experience. Utilized Node.js for backend operations and Material-UI for a modern, responsive design. Optimized the game for performance and responsiveness, making it compatible with various devices and screen sizes to enhance accessibility and user satisfaction. Leveraged CSS for styling and layout customization.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Material UI",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Node.js",
+          "Express.js",
+          "npm"
+        ],
+        "endDate": "Dec 2023",
+        "company_name": "Reef View Constructions",
+        "description": "Addressed a major operational challenge for a roof repair and construction company by developing an online form for technicians, automating the process of collecting customer details and filling PDF templates, which previously required manual data entry on on-site visits. Implemented a solution allowing technicians to enter customer details directly into the website, generate completed PDF templates, and send them to the company, significantly reducing costs and improving operational efficiency. Utilized technologies such as HTML, CSS, Node.js, Express.js, and npm for development. Deployed the website using Heroku and managed version control with GitHub. Achieved over 50 active users, with technicians regularly using the platform for streamlined operations and improved productivity.",
+        "location": "Remote, Jaipur, India",
+        "links": "https://desolate-fortress-06112-27bf0cc11974.herokuapp.com",
+        "startDate": "Oct 2023"
+      }
+    ],
+    "skills": [
+      "Javascript",
+      "Python",
+      "C",
+      "C++",
+      "Java",
+      "React.js",
+      "SASS",
+      "Bootstrap",
+      "Material UI",
+      "Shadcn",
+      "HTML",
+      "CSS",
+      "JQuery",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "MySQL",
+      "EJS"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Data Structures and Algorithms"
+    ],
+    "name": "Sai Abhinav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

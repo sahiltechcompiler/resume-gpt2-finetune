@@ -1,0 +1,111 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Harish Guptha Bysani",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.11/10.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Deeksha Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Shanthinikethan School",
+        "endDate": "2019",
+        "maximum_grade": "100%",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "95.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fruit Recognition using VGG-19",
+        "description": "The VGG-19 technology was employed to recognize the input image of the fruit. A distinctive feature of your project is its capability to accurately recognize fruits even when the input image is blurred. Significant changes have been implemented in the architecture of VGG-19 incorporating an unblurring layer after the first convolutional layer. This improvement led to an outstanding accuracy rate surpassing 90%.",
+        "keywords": [
+          "Python",
+          "VGG-19",
+          "Image Processing"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "Note Hub",
+        "description": "User-authenticated note-taking system ensures data security and personalized user experiences. Seamlessly integrated options for adding, editing, and deleting notes enhance user productivity and interaction. Leveraged Firebase for authentication and Firestore for efficient data storage, handling up to 200 words per note. Organized note data in Firestore based on user UID for structured storage, improving data retrieval times. Implemented real-time updates for note changes, promoting efficient collaboration.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "React",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github || Demo"
+      },
+      {
+        "name": "Online Code Editor",
+        "description": "Developed an Online Code Editor with live preview functionality for HTML, CSS and JavaScript. Designed the left section to accept user input, divided into three parts for HTML, CSS, and JavaScript, facilitating organized and modular coding. Developed real-time preview functionality in the right section, enabling users to see the output instantly and reflecting instant changes in HTML, CSS, and JavaScript.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github || Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React",
+      "Git",
+      "Github",
+      "MYSQL",
+      "Firebase"
+    ],
+    "soft_skills": [],
+    "name": "Harish Guptha Bysani",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

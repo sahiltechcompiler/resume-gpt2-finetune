@@ -1,0 +1,123 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "DEVANK SACHDEVA",
+  "college": "MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY",
+  "locations": [
+    "New Delhi/India",
+    "Remote Internship"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY",
+        "endDate": "Aug 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "New Delhi/India",
+        "ID": 0.0,
+        "grade_received": "9.0 (till 6th Semester)",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CoWrite",
+        "description": "Developed a full-stack Notion-like app for comprehensive note-taking and document management, working with a team of 2. Implemented real-time collaboration through BlockNote integration, a rich text editor for streamlined document creation. Enabled a streamlined workflow through customizable workspace & document organization. Integrated team management features to empower teams to work together effectively with permissions.",
+        "keywords": [
+          "NextJS",
+          "Shadcn ui",
+          "Convex",
+          "Tailwind"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Website Link | Github"
+      },
+      {
+        "name": "CURA (Open Source Contribution)",
+        "description": "Contributed to an app for assisting old age home residents & orphanage children, collaborating with a 8-member team. Optimized routing in the app, achieving smoother performance and reducing memory usage by 25%. Redesigned the app's UI and overall design to provide an intuitive and visually appealing user experience.",
+        "keywords": [
+          "Flutter"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Repository"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Flutter Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "Nestafar",
+        "description": "Built a responsive hotel booking platform, streamlining reservations by 30% for a seamless user experience. Architected captivating animations into the website, aiming to boost user engagement by 30%. Introduced Razorpay as a secure and efficient payment gateway, leading to a 50% improvement in successful transactions. Integrated Bloc state management reducing widgets and screen repaints by 200% for smoother website performance.",
+        "location": "Remote Internship",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Flutter Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "TGH Tech",
+        "description": "Led a 4-person team to build a skill-building ed-tech platform for engineers featuring integrated quizzes for assessment. Integrated Vimeo & YouTube video players within the application, boosting user engagement and course completion by 30%. Optimized app to reduce memory use, cutting battery drain from 12% to 3% per hour enhancing device longevity.",
+        "location": "Remote Internship",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Dart",
+      "Java",
+      "Python",
+      "C++",
+      "React",
+      "NextJS",
+      "TurboRepo",
+      "ShadCN",
+      "Tailwind CSS",
+      "Flutter",
+      "NodeJs",
+      "ExpressJs",
+      "REST API",
+      "Flask",
+      "FastAPI",
+      "Django",
+      "Github",
+      "Github Actions",
+      "Docker",
+      "WebSockets",
+      "WebRTC",
+      "Razorpay",
+      "Convex",
+      "Socket IO",
+      "MongoDB",
+      "MySQL",
+      "Prisma ORM",
+      "PostgreSQL",
+      "DynamoDB",
+      "Firebase",
+      "AWS",
+      "IBM Cloud",
+      "CloudFlare"
+    ],
+    "soft_skills": [],
+    "name": "DEVANK SACHDEVA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, Delhi",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

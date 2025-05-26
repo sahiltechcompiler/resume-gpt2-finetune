@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "Full Stack Web Developer",
+  "name": "ABHISHEK AHIRWAR",
+  "college": "Madhav Institute of Technology and Science",
+  "locations": [
+    "Gwalior",
+    "NewDelhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Madhav Institute of Technology and Science",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Gwalior MP",
+        "ID": 0.0,
+        "grade_received": "7.3",
+        "field_of_study": "Electronics",
+        "startDate": "2019"
+      },
+      {
+        "school": "MP Board",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87.8 %",
+        "field_of_study": "",
+        "startDate": "2017"
+      },
+      {
+        "school": "MP Board",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "High School Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90.16 %",
+        "field_of_study": "",
+        "startDate": "2015"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CRM(Client Management System)",
+        "description": "Develop separate sections for clients, employees, and admins. Each section includes CRUD operations using REST API. Implement JWT-based authentication and authorization. Create login/signup modules with input validation. Store JWT securely and verify tokens for protected routes.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "2023",
+        "url": ""
+      },
+      {
+        "name": "LMS(Learning Management System)",
+        "description": "Integrate a user-friendly interface for browsing and purchasing courses. Develop a reading interface with HTML5, CSS3, and Bootstrap 5.3 for optimal user experience. using server-side validation and sessions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "axacademy.com"
+      },
+      {
+        "name": "Dashboard for Journal of Pharmacy Research",
+        "description": "Create a dashboard to track manuscript submissions, including status updates. Implement responsive design using Bootstrap to ensure compatibility across device sizes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "jpbiomed.com"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "2024",
+        "company_name": "Cyber Instant Private Limited",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "2023-05-30",
+        "company_name": "Praedico Global Research Pvt.Ltd",
+        "description": "",
+        "location": "Gwalior",
+        "links": "",
+        "startDate": "2023-01-16"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "2022-09-03",
+        "company_name": "Infovirtech Pvt.Ltd",
+        "description": "",
+        "location": "NewDelhi",
+        "links": "",
+        "startDate": "2022-06-06"
+      }
+    ],
+    "skills": [
+      "C",
+      "Javascript",
+      "Html5",
+      "Css3",
+      "Bootstrap 5.3",
+      "Mui",
+      "CoreUi",
+      "ReactJs",
+      "NodeJs",
+      "ExpressJs",
+      "RESTful APIs",
+      "MongoDB",
+      "Postman",
+      "Thunder client",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "ABHISHEK AHIRWAR",
+    "position": "Full Stack Web Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

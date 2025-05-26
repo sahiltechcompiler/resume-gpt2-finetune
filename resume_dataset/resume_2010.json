@@ -1,0 +1,114 @@
+{
+  "project_count": 2.0,
+  "designation": "JAVA Intern",
+  "name": "Vedant Sharma",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi-NCR"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Amazon Cloud Foundation course",
+        "issuer": "Amazon",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Node.js, Express, MongoDB Complete Bootcamp",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi-NCR",
+        "ID": 0.0,
+        "grade_received": "7.02/10",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School Ghaziabad Vasundhara",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Delhi-NCR",
+        "ID": 1.0,
+        "grade_received": "86.6",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School Ghaziabad Vasundhara",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Delhi-NCR",
+        "ID": 2.0,
+        "grade_received": "90.4",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Backup Chat",
+        "description": "Implemented a real time chat app using Socket.IO library where the user can chat to the desired registered user on the app privately or in a group. Implemented an authentication system with JWT and Bcrypt technologies to make the application more secure than a generic undergraduate project. User details stored in an encrypted format inside MongoDB database.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Coin Change",
+        "description": "Developed a staking dapp with the smart contract made by using Solidity 8.7. Users choose which cryptocurrency they want to stake and how much they want to stake. The dapp then facilitates the staking process, which usually involves sending the staked tokens to a smart contract or designated address on the blockchain. Metamask wallet integration provided in the application so that it is easy for the user to connect to their crypto wallets.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "JAVA Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Abhiyantriki Pvt. Limited",
+        "description": "Learnt the principles of core Java and the understanding of Spring web framework under the guidance of a mentor provided by the company. Developed a Library Admin Project, showcasing proficiency in working with a database like mySQL with driver connectivity in Spring.",
+        "location": "",
+        "links": "",
+        "startDate": "February 2024"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Vedant Sharma",
+    "position": "",
+    "interests": [
+      "Profound interest in learning and achieving certifications on various types of data storage mechanisms like Blockchain and Cloud"
+    ],
+    "achievements_and_awards": [
+      "Attained a 5-star rating, in Java Fundamentals on Hackerrank, reflecting strong abilities and consistent performance in algorithmic challenges."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

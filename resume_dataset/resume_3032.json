@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "YASH SHEKHAR",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad",
+    "Prayagraj"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "7.71",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "12/2020"
+      },
+      {
+        "school": "Pt. R.C.M.M Public School",
+        "endDate": "03/2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "Prayagraj",
+        "ID": 1.0,
+        "grade_received": "93%",
+        "field_of_study": "",
+        "startDate": "04/2018"
+      },
+      {
+        "school": "Pt. R.C.M.M Public School",
+        "endDate": "03/2017",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "Prayagraj",
+        "ID": 2.0,
+        "grade_received": "10",
+        "field_of_study": "",
+        "startDate": "04/2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Nasa Space Launch App",
+        "description": "A website which filters out habitable expo-planets from a large set of exo-planets available on NASA website. The user can schedule and abort launches according to specific dates. It also consists of past launches executed by SpaceX.",
+        "keywords": [
+          "MongoDB",
+          "Express.js",
+          "React.js",
+          "Node.js",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Crypto Base",
+        "description": "An application through which users can monitor all favourite crypto currencies with real-time price change in INR/USD. Implementation of search functionality, price trends & charts, features of signup/login, accounts page, adding currencies to watchlist with remove functionality.",
+        "keywords": [
+          "React.js",
+          "Material-UI",
+          "CoinGecko API",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Video-Venture",
+        "description": "A web application serving as a YouTube replica, it categorizes videos into diverse genres such as music, games, movies, sports, education, comedy, podcasts, and more. It is utilizing RapidAPI for data sourcing, Material-UI for elegant UI components, React-Motion for dynamic animations etc.",
+        "keywords": [
+          "Rapid API",
+          "Material-UI 5",
+          "React.js",
+          "React-motion",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [
+          "JavaScript",
+          "React.js",
+          "Tailwind CSS",
+          "Bootstrap",
+          "Material-UI"
+        ],
+        "endDate": "17/07/2023",
+        "company_name": "Kartexa",
+        "description": "I took charge of designing and developing frontend components with key attributes like scalability, responsiveness and high-performance. Focusing on optimizing page load times, minimizing server requests, and enhancing browser compatibility. I have also worked on handling errors, coding UI and integrating APIs. Collaborated with team of 12 developers, cross-functional teams, product managers, UI/UX designers, backend developers and testers to prioritize product features.",
+        "location": "",
+        "links": "Link",
+        "startDate": "22/04/2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "YASH SHEKHAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Open Source Contributor at Hacktoberfest22 (level 4 badge: merged 6PRs across 2 different repositories)",
+      "Brewing Codes Hackathon, 2023 Finalist (selected as one of the top 5 teams conducted by MUIT, Noida)",
+      "OpenHacks Hackathon Winner (best UI/UX award, hosted by MLH)",
+      "HCL Tech Code4Youth Hackathon23 (Actively participated and contributed with a team of 3 developers)",
+      "Rated 3 star (1601) at Codechef, rated (1559) at Leetcode",
+      "Solved over 500+ DSA problems across all platforms.",
+      "Summer Training On AI (Infosys Springboard)."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

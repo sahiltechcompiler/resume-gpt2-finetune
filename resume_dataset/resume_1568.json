@@ -1,0 +1,118 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Priyanshu Tripathi",
+  "college": "Shri Ram Institute of Technology",
+  "locations": [
+    "Jabalpur",
+    "Rewa, India"
+  ],
+  "full_output": {
+    "summary": "A Talented B.E student with a strong academic background with the ability to think through a problem coupled with the confidence to make ideas heard.I am currently looking for a Job opportunity that will allow me to work alongside an expert team of talented individuals.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shri Ram Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jabalpur",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.7",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Model Higher Secondary School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "XII (High School)",
+        "location": "Rewa, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 77",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "S.T. Mary's Higher Secondary School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "X (Secondary School)",
+        "location": "Rewa, India",
+        "ID": 2.0,
+        "grade_received": "Percentage: 85",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blood Donor Website",
+        "description": "Developed a dynamic blood donor website using the Django framework. The website facilitates blood donation by allowing users to book slots for donation and view their profiles. The primary objective was to automate blood bank operations, streamline record-keeping, and provide fast search functionality for instant access to critical information.",
+        "keywords": [
+          "Django",
+          "Python3.10",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Priyanshu9340/blood-donor-"
+      },
+      {
+        "name": "Ice-Cream-Parlour Static Website",
+        "description": "Developed a comprehensive static Ice Cream Parlour website utilizing Django, Python, and SQL database management, demonstrating advanced proficiency in full-stack web development. This project underscores the capability to design and implement robust web applications that deliver an engaging user experience and achieve specific business objectives.",
+        "keywords": [
+          "Django",
+          "Python3.10",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Priyanshu9340/Ice-cream-Palour-"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "DBMS",
+          "DSA",
+          "Python"
+        ],
+        "endDate": "08/2023",
+        "company_name": "Persistent System",
+        "description": "During two-month internship Martian with mars, I've gained knowledge in a variety of areas, including, DBMS, DSA, and Python. I have also administered an evaluation. I have all of the Python, DSA and DBMS badges from my internship.",
+        "location": "Jabalpur, India",
+        "links": "",
+        "startDate": "06/2023"
+      }
+    ],
+    "skills": [
+      "Web Development: Basic of Django",
+      "Core Subjects: Data Structures, Object-Oriented Programming (OOPS)",
+      "Programming Languages: C/C++, Python(Basic)",
+      "Database: SQL"
+    ],
+    "soft_skills": [],
+    "name": "Priyanshu Tripathi",
+    "position": "",
+    "interests": [
+      "Cooking",
+      "Reading",
+      "Bike Riding"
+    ],
+    "achievements_and_awards": [
+      "Python Certificate from OpenEDG Python Institute.",
+      "SQL Certificate from the University of Michigan.",
+      "Club Member of Techminds Technical Club, Computer Science Department.",
+      "LeetCode: 87Priyanshu, Solved count 400"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

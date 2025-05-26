@@ -1,0 +1,142 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Nandela Srinadh Reddy",
+  "college": "SRM AP University",
+  "locations": [
+    "A.P"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "An NPTEL course taught by IIT Kharagpur.",
+        "skillsLearned": [],
+        "title": "Database Management System",
+        "issuer": "IIT Kharagpur",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "by wadhwani foundation by APSSDC.",
+        "skillsLearned": [],
+        "title": "21st Century Employability Skills Program - Advanced",
+        "issuer": "Wadhwani Foundation",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM AP University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "A.P",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of Intermediate Education",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "A.P",
+        "ID": 1.0,
+        "grade_received": "Percentage: 88.1",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of Secondary Education",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "A.P",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.3/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ChatBot",
+        "description": "Developed an Amazon chatbot using Amazon Lex and AWS Lambda. Implemented natural language understanding (NLU) capabilities to accurately interpret user queries and provide relevant responses.",
+        "keywords": [
+          "Amazon Lex",
+          "AWS Lambda"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SRM-AP Tour",
+        "description": "Allows users to experience the breathtaking beauty of SRM-AP without physically visiting the campus. Our prestigious university's attractiveness is captured in the project. The ability to digitally explore the university is beneficial to the user.",
+        "keywords": [
+          "Python",
+          "matplotlib"
+        ],
+        "endDate": "Feb 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "",
+        "skillsUsed": [
+          "Python",
+          "serverless",
+          "Lambda"
+        ],
+        "endDate": "Aug 2022",
+        "company_name": "Andhra Pradesh State Skill Development Corporation (APSSDC)",
+        "description": "Instantiated Cryptocurrency Price Tracker an Alexa skill model that displays the prices of 100 famous cryptocurrencies. Basically, this model runs on Python and serverless back-end by Lambda. Reported a vulnerability in the payment gateway that can lead to payment.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "CS Fundamentals",
+      "Computer Networks",
+      "DBMS",
+      "Object Oriented Programming",
+      "Operating Systems",
+      "HTML",
+      "Cascading Style Sheets",
+      "JavaScript"
+    ],
+    "soft_skills": [
+      "Git",
+      "VS Code",
+      "Teamwork",
+      "Problem Solving",
+      "Creative Thinking"
+    ],
+    "name": "Nandela Srinadh Reddy",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved more than 20+ Skill badges in Google Cloud",
+      "Solved the challenges and labs provided by Google cloud."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

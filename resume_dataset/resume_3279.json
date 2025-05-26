@@ -1,0 +1,159 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Asish Manoj",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python programming",
+        "issuer": "Sololearn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java basic",
+        "issuer": "hackerrank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Tirumala College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate Education(MPC)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.3",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10/10",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Predictive Health Care System",
+        "description": "Developed a full-stack web application to predict patient disease based on symptoms given. Applied six machine learning algorithms to identify the most accurate one for disease prediction. Features: doctor availability, medicine suggestions, hospital locations based on disease.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MySQL",
+          "MongoDB",
+          "Flask",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "git"
+      },
+      {
+        "name": "Spam Messages Classifier",
+        "description": "Developed a website leveraging a pre-trained machine learning model to distinguish between spam and genuine messages. Integrated the ML model with the Streamlit library in Python to create an interactive frontend interface.",
+        "keywords": [
+          "Streamlit",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "git"
+      },
+      {
+        "name": "Data Analysis on Titan Shipwreck Dataset",
+        "description": "Conducted exploratory data analysis on the original Titanic dataset using python and visualized plots. Gained insights of data analysis including observed survival rate, percentage of population and percentage of survival of different genders during shipwreck.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "git"
+      },
+      {
+        "name": "Employee Payroll Management using C++",
+        "description": "Based on Object oriented programming, calculates the employee salary, bonuses based on tier and generates pay slip of the employee. Implemented file handling in c++ and command line interface.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "git"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Research Intern",
+        "skillsUsed": [
+          "Machine Learning",
+          "Artificial Neural Networks",
+          "Naive Bayes Classifiers",
+          "Support Vector Machines"
+        ],
+        "endDate": "Sep 2023",
+        "company_name": "SRM university",
+        "description": "Acquired practical experience in machine learning classification techniques using ensemble learning. Collaborated with professor to gain proficiency in machine learning methods: Artificial Neural Networks (ANNs), Naive Bayes Classifiers, and Support Vector Machines (SVMs). Implemented SVM and ANN models on 5 medical datasets and developed Ensemble methods (Boosting and Bagging).",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Mongodb",
+      "Flask",
+      "NodeJs",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Scikit-learn"
+    ],
+    "soft_skills": [],
+    "name": "Asish Manoj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

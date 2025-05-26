@@ -1,0 +1,110 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Harsheet Wev Dev Enthusiast",
+  "college": "KIET GROUP OF INSTITUTIONS",
+  "locations": [
+    "Ghaziabad,UP",
+    "Bareilly,UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET GROUP OF INSTITUTIONS",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BACHELORS OF TECHNOLOGY",
+        "location": "Ghaziabad,UP",
+        "ID": 0.0,
+        "grade_received": "81.33%",
+        "field_of_study": "COMPUTER SCIENCE ENGINEERING",
+        "startDate": "2021"
+      },
+      {
+        "school": "ARMY PUBLIC SCHOOL",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Bareilly,UP",
+        "ID": 1.0,
+        "grade_received": "93.2%",
+        "field_of_study": "CLASS 12 (PCM)",
+        "startDate": "2019"
+      },
+      {
+        "school": "ARMY PUBLIC SCHOOL",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Bareilly,UP",
+        "ID": 2.0,
+        "grade_received": "87.2%",
+        "field_of_study": "CLASS 10",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AUSHADHUB",
+        "description": "A Web Application platform that enables users to identify any Medicinal herb by simply taking a picture of the plants leaf. Flask based WebApp hosted on GCP (Google Cloud Platform) which serves as an inference endpoint for image uploads. The application uses custom ResNet trained on a custom dataset, with a validation accuracy of 96%. Added functionality to display descriptions of the predicted plant species by unpacking jsonified response from the model. Designed user-friendly interface for image input and processing, also integrated charts to visualize result confidence levels using JSCharting API.",
+        "keywords": [
+          "React",
+          "Tailwind CSS",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FITNESS TRACKER APP",
+        "description": "Develop a fitness tracking app that allows users to set fitness goals, track their workouts, record exercise sessions, and monitor progress over time. Incorporate features like workout logging, activity tracking, calorie counting, and progress analytics.",
+        "keywords": [
+          "NodeJS",
+          "ReactJS",
+          "ExpressJS",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Javascript",
+      "Python",
+      "React Native",
+      "Node.js",
+      "Express",
+      "Mongoose",
+      "Git",
+      "Github",
+      "Atom",
+      "Selenium",
+      "QTP",
+      "MongoDB",
+      "Firebase",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "soft_skills": [],
+    "name": "Harsheet Wev Dev Enthusiast",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Won Aarambh 2.0 ( Intra-College Esports Event).",
+      "President of Esports Club."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "BACHELORS OF TECHNOLOGY"
+}

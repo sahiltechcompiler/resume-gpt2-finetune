@@ -1,0 +1,225 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "HARISH RAJ B",
+  "college": "St.Josephs Institute Of Technology",
+  "locations": [
+    "Chennai"
+  ],
+  "full_output": {
+    "summary": "B.Tech Information Technology student with proficiency in Python, Java, SQL, and data visualization tools. Possessing expertise in software development, database management, and web development. Acquired proficiency in data analysis with machine learning and deep learning. Eager to apply skills and knowledge to contribute to innovative projects and make a meaningful impact.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning",
+        "issuer": "Kaggle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Building and Deploying Deep Learning Applications",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis and Visualization in Python",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Training",
+        "issuer": "IIT Bombay",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning with Python",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Object-Oriented Programming",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "R Programming Fundamentals",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "GitHub for Data Scientist",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Scientists Toolbox",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "St.Josephs Institute Of Technology",
+        "endDate": "2025",
+        "maximum_grade": "10.00",
+        "degree": "B.Tech",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "8.43/10.00",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Kendriya Vidyalaya IIT Campus",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "HSC, Class XII",
+        "location": "Chennai",
+        "ID": 1.0,
+        "grade_received": "88.6%",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "Kendriya Vidyalaya IIT Campus",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "SSC, Class X",
+        "location": "Chennai",
+        "ID": 2.0,
+        "grade_received": "72.6%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "IPL Powerplay Score Prediction",
+        "description": "Predicting the score during the powerplay phase of an IPL using Adaboost Regressor. MAE Value: 6.03 (Selected in Top 10 models in the IIT Madras Guess the Score category). Deployment: Deployed and hosted with Streamlit Cloud.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face Recognition Using SQL Database",
+        "description": "Developed a face recognition system utilizing a SQL database. Employed OpenCV for data preprocessing, including normalization and feature extraction. Implemented a deep learning model with Convolutional Neural Networks (CNNs) for face recognition, evaluated for accuracy and deployed for real-time recognition tasks.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Spam Classification",
+        "description": "Classification of Spam and Ham messages. Model: BERT (Bidirectional Encoder Representations from Transformers); Accuracy: 92%. Deployment: Deployed and hosted with Streamlit Cloud.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis of Amazon Reviews",
+        "description": "The project aims to assist in understanding Customer Sentiment towards products on Amazon. Methods Used: VADER Sentiment Scoring and Roberta Pretrained Model.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image Classification",
+        "description": "Prediction of Object Classes in the CIFAR-10 dataset. Model: Convolutional Neural Network (CNN) for image classification. Accuracy: 92%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "May 20, 2023",
+        "company_name": "Precision Infomatic (M) Pvt. Ltd",
+        "description": "Assisted in Technical Research Centre and Service Desk. Analyzed Biometric Devices and their features. Worked in Repair and Testing of devices.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "May 8, 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "R",
+      "C",
+      "Excel",
+      "Power BI",
+      "Matplotlib",
+      "Seaborn",
+      "TensorFlow",
+      "Keras",
+      "Scikit-learn",
+      "HTML",
+      "CSS",
+      "Streamlit",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "HARISH RAJ B",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Code Debugging Runner, SIMATS Engineering College"
+    ],
+    "publications": []
+  },
+  "current_location": "Chennai, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

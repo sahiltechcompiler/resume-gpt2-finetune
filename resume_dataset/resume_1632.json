@@ -1,0 +1,90 @@
+{
+  "project_count": 2.0,
+  "designation": "Software Engineer",
+  "name": "Arshnoor Singh",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [],
+  "full_output": {
+    "summary": "A highly skilled Software Engineer, eager to work with compassionately. I have learned about a lot of technologies like React, Node SQL, etc. A dedicated professional committed to work-ing globally. I am a Software Engineer who cherishes consistency.I plan my time according to the load of projects I have and so reach goals on time.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.7 CGPA",
+        "field_of_study": "Computer Science and Product Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Guru Harkrishan Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "80",
+        "field_of_study": "",
+        "startDate": "2008"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Security Dashboard",
+        "description": "A dashboard to manage the various security parameters that are used by the Indian army on their bases in various locations across India. it is actively used in their system to manage the parameters.",
+        "keywords": [],
+        "endDate": "Sept 2022",
+        "startDate": "Jun 2022",
+        "url": ""
+      },
+      {
+        "name": "ThreeJs portfolio",
+        "description": "A Site where you can find a whole new world of 3D models mixed with the front-end design that used useState, UseAnimations, Tailwind CSS, Canvas etc. to build it from scratch it is the online portfolio that I made to implement certain backend calls using firebase to store the emails of the people who interacted with me and then tell them about myself.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer",
+        "skillsUsed": [
+          "SQL",
+          "PHP"
+        ],
+        "endDate": "Sept 2022",
+        "company_name": "Bharat Electronics Ltd.",
+        "description": "My main task was the implementation of SQL local database using the Apache server and PHPMyAdmin. I used SQL and PHP to make them work together. I managed the data and the queries that were entered by the user into the project.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2022"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "C++",
+      "MERN Stack",
+      "Problem-solving skills",
+      "DSA",
+      "PHP",
+      "SQL",
+      "ThreeJS"
+    ],
+    "soft_skills": [],
+    "name": "Arshnoor Singh",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor Of Technology"
+}

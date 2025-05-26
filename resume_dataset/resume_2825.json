@@ -1,0 +1,96 @@
+{
+  "project_count": 2.0,
+  "designation": "SOFTWARE DEVELOPER",
+  "name": "Suraj Rawat",
+  "college": "Indian Institute of Information Technology",
+  "locations": [
+    "Dharwad"
+  ],
+  "full_output": {
+    "summary": "Results-driven and highly skilled Software Developer in designing, developing, and implementing software solutions. Proficient in multiple programming languages and technologies, including Java, Python, and SQL. Strong analytical and problem-solving abilities, with a proven track record of delivering high-quality projects on time and within budget. Excellent communication and teamwork skills.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology",
+        "endDate": "Jul 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor",
+        "location": "Dharwad",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Electronics and Communication",
+        "startDate": "Oct 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "weather forecasting website",
+        "description": "I created a basic weather forecasting website enabling users to input a city name and view real-time weather data on the page. The website utilizes HTML, CSS, and JavaScript for frontend interactivity and design. Backend functionalities are powered by Node.js and Express, integrating MongoDB for data storage and retrieval. AngularJS enhances frontend dynamics and user interaction. Latest features include responsive design for optimal viewing on various devices, API integration for accurate weather updates, and user-friendly navigation for seamless experience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "AngularJS"
+        ],
+        "endDate": "Aug 2023",
+        "startDate": "Apr 2023",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Application",
+        "description": "This e-commerce application project leverages Flutter and Dart to provide a robust platform benefiting both customers and administrators. Implemented features include order management, Payment Gateway integration, Wishlist functionality, Order history tracking, shopping cart management, comprehensive product catalogs, and secure user authentication. The application ensures a seamless and secure shopping experience through intuitive design and efficient backend functionality.",
+        "keywords": [
+          "Flutter",
+          "Dart"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "Dec 2023",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Data Engineer Intern",
+        "skillsUsed": [
+          "Python",
+          "Java",
+          "Scala"
+        ],
+        "endDate": "May 2024",
+        "company_name": "GrayQuest Education finance limited",
+        "description": "Experience in designing, building, and managing largescale data processing systems Strong knowledge of programming languages such as Python, Java, or Scala Experience with data modeling, data warehousing, and data pipeline development Ability to work closely with data scientists, business analysts, and other stakeholders to understand data requirements Designing and implementing data pipelines to extract, transform, and load data from various sources Developing and maintaining data pipelines for realtime data processing and analytics Ensuring data quality and integrity through data validation and cleansing techniques Collaborating with crossfunctional teams to solve complex data engineering challenges.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "Flutter",
+      "App Development",
+      "German",
+      "Python",
+      "Full stack Development",
+      "Problem Solving"
+    ],
+    "soft_skills": [],
+    "name": "Suraj Rawat",
+    "position": "SOFTWARE DEVELOPER",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Shivpur Varanasi Uttar Pradesh 221105",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor"
+}

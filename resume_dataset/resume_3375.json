@@ -1,0 +1,104 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Arnav Mittal",
+  "college": "Bennett University",
+  "locations": [],
+  "full_output": {
+    "summary": "I am a 4th year B.Tech CSE student specializing in Full Stack. My insatiable appetite for learning, coupled with great problem-solving abilities, making me a dedicated learner in endless field of Computer Science.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Bennett University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (CSE)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.27 CGPA",
+        "field_of_study": "",
+        "startDate": "Sept 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Diagno4istic",
+        "description": "It is a platform built with PHP where users can schedule visits with physicians and doctors may prescribe prescriptions that can be accessible at any time by both doctors and patients. Used HTML, CSS and JS to do the frontend and logic. To develop backend used PHP and MySQL as database.",
+        "keywords": [],
+        "endDate": "April 2023",
+        "startDate": "February 2023",
+        "url": ""
+      },
+      {
+        "name": "Hand Written digit Recognition using AI",
+        "description": "Developed an AI based tool using MNIST dataset. The tool identifies handwritten digits regardless of individual writing styles, made GUI using tkinter and Python.",
+        "keywords": [],
+        "endDate": "March 2022",
+        "startDate": "February 2022",
+        "url": ""
+      },
+      {
+        "name": "Project & Research Paper",
+        "description": "Transferring image between client and server using customize UDP protocol.",
+        "keywords": [],
+        "endDate": "June 2022",
+        "startDate": "April 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Times Network",
+        "description": "Have made the frontend of one of the websites from scratch using Next JS using material UI, ensuring a responsive and user-friendly interface.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2024"
+      },
+      {
+        "role_name": "MERN Stack Developer",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "Edushark",
+        "description": "Used React, typescript with Chakra UI to develop the frontend. Utilized MERN stack with typescript to architect the backend with the API Development.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "Typescript",
+      "SQL",
+      "C++",
+      "Python"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Problem Solving",
+      "Communication",
+      "Adaptability"
+    ],
+    "name": "Arnav Mittal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Adobe GenSolve Hackathon - Top 5 Percentile",
+      "Woodpecker Hackathon - 10th Rank",
+      "Build a Full Stack App using React and Express",
+      "Building Web Applications in PHP",
+      "Top 10 team selection in Govt. of India's KAVACH Hackathon at university level (2023)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology (CSE)"
+}

@@ -1,0 +1,184 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Joshi Jeet Kaushikbhai",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Rajkot, Gujarat",
+    "Ahmedabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "coursera certificate",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Agile Project Management",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Applied Cryptography",
+        "issuer": "University of Colorado",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cybersecurity",
+        "issuer": "cisco networking academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Christ Polytechnic Institute",
+        "endDate": "07 2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": "07 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Online Blood Bank Management System",
+        "description": "Led development of an Online Blood Bank Management System to streamline blood donation and requests, enabling users to view blood availability, request blood, and donate blood via a web-based portal.",
+        "keywords": [
+          "HTML5",
+          "CSS",
+          "Javascript",
+          "PHP",
+          "MySQL",
+          "XAMPP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Random gif s Application",
+        "description": "Developed a responsive web app using React for searching and generating memes from GIPHY. Integrated an external API for meme retrieval, implemented keyword search, optimized performance with effective state management using hooks, and ensured seamless mobile responsiveness.",
+        "keywords": [
+          "HTML",
+          "Tailwind CSS",
+          "React.Js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Random Password Generator",
+        "description": "Implemented a password generator allowing users to select password length (4-20 characters), with options for uppercase, lowercase, numbers, and symbols, generating and displaying a new random password upon each button click.",
+        "keywords": [
+          "HTML",
+          "Tailwind CSS",
+          "React.Js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "React.js Intern",
+        "skillsUsed": [
+          "React.js",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "TailwindCSS",
+          "JavaScript"
+        ],
+        "endDate": "July 2024",
+        "company_name": "celebal technologies",
+        "description": "Learned and implemented React.js basics, including components, state management with useState and useReducer, and event handling. Gained proficiency in React Router, Redux, Axios, and advanced hooks like useEffect and useContext. Developed a user-friendly Q and A platform with essential features, practicing clean, maintainable code, and created a responsive front-end using HTML, CSS, Bootstrap, TailwindCSS, JavaScript, and React.js.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Fullstack Developer Intern",
+        "skillsUsed": [
+          "React.js",
+          "Node.js",
+          "SQL",
+          "Bootstrap"
+        ],
+        "endDate": "Jun 2024",
+        "company_name": "Anhas Web",
+        "description": "Developed and maintained a CRM module for income and expense tracking, enabling users to efficiently monitor their financial transactions by category and over time (month and year). This module was built using React.js for the frontend, Node.js for the backend, and SQL (Sequelize ORM) for database management. Proficient in React.js, including advanced concepts such as React Router, hooks, context API, and higher-order components, ensuring clean and maintainable code. Implemented secure user authentication using JWT tokens, enabling reliable login and logout functionality within the CRM income and expense tracking system. Utilized Bootstrap to create responsive, user-friendly interfaces, collaborating with cross-functional teams to design, develop, and deploy features, following industry best practices.",
+        "location": "Ahmedabad",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "SQL",
+      "VS Code",
+      "Android Studio",
+      "Canva",
+      "Intellij Idea Ultimate",
+      "PyCharm",
+      "Postman",
+      "HTML5",
+      "CSS3",
+      "Tailwind",
+      "BootStrap",
+      "ReactJS",
+      "Node.Js",
+      "REST API",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Joshi Jeet Kaushikbhai",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

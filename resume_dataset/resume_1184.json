@@ -1,0 +1,189 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Rahul Vijay Singh",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Passionate B-Tech computer science student, interested in real-world applications. I aspire to apply my knowledge from coursework and personal projects to tackle real-world problem statements as a working professional. I believe in my 3C rule: Contribute, Collaborate, and Co-Learn.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Notre Dame School Gumla",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "84.8/100",
+        "field_of_study": "CBSE",
+        "startDate": "2020"
+      },
+      {
+        "school": "Notre Dame School Gumla",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "96/100",
+        "field_of_study": "CBSE",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "HEALTH CARE CHATBOT",
+        "description": "Created a chatbot for getting symptoms, precautionary measures, consultancy and suggestions for any disease and to create awareness and ease up peoples health care. Used MERN stack, Flask, llm model- llama, NLP, text analysis.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ECOMMERCE WEBSITE",
+        "description": "A platform where you can get all the stuffs like (cloths, watches, groceries, etc.) on the basis of categories. JWT token is used for user convenience, Payment gateway is secured using MERN Stack.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CRIME PREVENTION SYSTEM",
+        "description": "Created an Object detection based Real time Crime Prevention System using YOLO V5 model. Trained a large amount of datasets of weapons which leads to classification, detection of weapons and preventing the crime by creating an alarm and sending an SOS message to the respective stakeholder.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "OTHER PROJECTS",
+        "description": "Movie Recommendation System, Dog and Cat Classification, Dictionary Webapp, Quotation Generation, Book Store Webapp, Chat message web, Tourism Website, Bill Calculator in C++.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "Machine Learning",
+          "NLP",
+          "Speech recognition",
+          "Object Detection",
+          "Transfer Learning",
+          "Sentiment Analysis",
+          "Figma",
+          "Node JS"
+        ],
+        "endDate": "April 2024",
+        "company_name": "EION Wireless Canada",
+        "description": "Working on an application for gated community to have one stop app for features like intruder detection, utility services, elderly care, using Machine Learning,NLP, Speech recognition, Object Detection, Transfer Learning, Senti- ment Analysis and Figma. Have also developed a website for network service provider using Node JS and location tracking.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "React Developer Intern",
+        "skillsUsed": [
+          "Nextjs",
+          "Tailwind",
+          "MERN Stack",
+          "Firebase",
+          "Figma"
+        ],
+        "endDate": "Sep 2023",
+        "company_name": "BragTech",
+        "description": "I've made a robust full stack website hackathon management system using Nextjs, Tailwind, MERN Stack, Firebase and Figma for data storage, retrieving and suggesting different hackathons based on personal customised skills.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [
+          "React",
+          "Nodejs",
+          "webRtc"
+        ],
+        "endDate": "June 2023",
+        "company_name": "Bharat Intern",
+        "description": "Built a robust VIDEO CALL Web Application using React, Nodejs. Used webRtc for peer to peer communication between two people.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Machine Learning Summer Apprenticeship",
+        "skillsUsed": [],
+        "endDate": "Oct 2023",
+        "company_name": "Amazon MLSS 2023",
+        "description": "Gained Deep insights of Machine Learning Algorithms.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "STL",
+      "Python",
+      "C",
+      "SQL",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Nodejs",
+      "MERN",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "Open CV",
+      "Transformers",
+      "Excel",
+      "Power Point",
+      "Word",
+      "Figma"
+    ],
+    "soft_skills": [
+      "Machine Learning",
+      "Data Science",
+      "Big Data Analytics",
+      "NLP",
+      "UX/UI",
+      "Data Structures and Algorithm",
+      "Problem Solving",
+      "Team Leadership"
+    ],
+    "name": "Rahul Vijay Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Recipient of merit Scholarship covering 50% of tuition fees from SRM University AP [2021-2025]",
+      "IMO - International Mathematics Olympiad Secured the 17th rank in my State (Jharkhand)",
+      "IGKO - International General Knowledge Olympiad Achieved the First rank in IGKO in the District"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 4.0,
+  "degree": "Btech"
+}

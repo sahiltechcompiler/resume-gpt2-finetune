@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Suram Sanjeev Reddy",
+  "college": "SRM University AP",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "As a proactive and creative Computer Science graduate, I am eager to learn new technologies and enhance my problem solving and coding skills. I am committed to contributing to innovative solutions and expanding my knowledge through real-world applications.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 8.44/10",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "APSSC",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 9.8/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Payment Wallet",
+        "description": "Built a secure payment website with the MERN stack, incorporating JWT for user authentication. Developed a user-friendly interface with React.js and a robust back-end with Node.js and Express.js. Utilized MongoDB for efficient data storage and management.",
+        "keywords": [
+          "MERN STACK",
+          "JWT",
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Typing Speed Test - Python GUI Application",
+        "description": "The Typing Speed Test is a graphical user interface (GUI) application developed using Python-tkinter. This application allows users to assess their typing skills by conducting timed tests to measure both speed and accuracy.",
+        "keywords": [
+          "Python",
+          "tkinter"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "EDA Analysis",
+        "description": "Conducted comprehensive EDA on IPL Auction 2023 data using python, focusing on data cleaning, statistical analysis and visualization. Identified key trends and patterns and team bidding strategies, providing interactive visualization.",
+        "keywords": [
+          "Python",
+          "EDA",
+          "data cleaning",
+          "statistical analysis",
+          "visualization"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Django Intern",
+        "skillsUsed": [
+          "Django",
+          "SQLite",
+          "web development",
+          "database management"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Andhra Pradesh State Skill Development Corporation",
+        "description": "Developed a comprehensive hospital management system Website using Django and SQLite, showcasing adept skills in web development, database management, and creating seamless healthcare solutions.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "JavaScript",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "MongoDB",
+      "Django"
+    ],
+    "soft_skills": [],
+    "name": "Suram Sanjeev Reddy",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

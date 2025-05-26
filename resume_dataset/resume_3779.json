@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "ABHISHEK SINGH",
+  "college": "KIET GROUP OF INSITUTIONS, AKTU",
+  "locations": [
+    "Delhi-NCR",
+    "Varanasi",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React-The Complete Guide",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL Essential Training",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET GROUP OF INSITUTIONS, AKTU",
+        "endDate": "July 2021",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Delhi-NCR",
+        "ID": 0.0,
+        "grade_received": "81%",
+        "field_of_study": "CSE",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Varanasi",
+        "ID": 1.0,
+        "grade_received": "81%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "Varanasi",
+        "ID": 2.0,
+        "grade_received": "76.4%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather Forcasting",
+        "description": "Developed a weather forecasting web application utilizing HTML, CSS, and JavaScript, integrated with a third-party API for real-time weather data retrieval. The project aimed to provide users with accurate and up-to-date weather forecasts based on their location input.",
+        "keywords": [],
+        "endDate": "Mar 2023",
+        "startDate": "Feb 2023",
+        "url": ""
+      },
+      {
+        "name": "NewsWeb",
+        "description": "The purpose of this project is to develop a Website that provides users with a convenient and easy way to stay up-to-date on the latest news. NewsWeb will be able to aggregate news from a variety of sources using a News-Api. Category-based news: User will be able to browse news articles by category, such as sports, technology, science and business. utilizing a tech stack comprising HTML, CSS and React.js.",
+        "keywords": [],
+        "endDate": "Feb 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "InnoVentureHub",
+        "description": "It is a crowdfunding platform designed to help creators bring their creative projects to life by connecting them with a community of backers who pledge money to support these projects. utilizing a tech stack comprising Vite React, Solidity.",
+        "keywords": [],
+        "endDate": "currently",
+        "startDate": "March 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Internship",
+        "description": "",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "MongoDB",
+      "SQL",
+      "Git",
+      "Github",
+      "Postman",
+      "Netlify"
+    ],
+    "soft_skills": [],
+    "name": "ABHISHEK SINGH",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Scored 5 Stars in Problem Solving on Hackerrank.",
+      "Solved Over 300+ Coding Questions on Different Coding Websites.",
+      "Made 10 Personal Projects in Web Development (Frontend + Backend) using Different Web Technologies."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

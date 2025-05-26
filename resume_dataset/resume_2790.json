@@ -1,0 +1,148 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Manika Goyal",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Delhi, India",
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C++ and DSA Excellence Certificate",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MERN-Stack Developer Certificate",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ML and DA Certificate",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "95.7",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "9.314",
+        "field_of_study": "Computer Science(AIML)",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "SocialHub",
+        "description": "User Authentication: Implemented user sign-up, sign-in, authorization, and authentication functionalities. Post Interaction: Developed features for users to create posts and interact with others posts through comments and likes. Content Management: Implemented secure mechanisms for users to delete their own posts, likes, and comments. Social Networking: Designed functionality for adding and removing friends within the platform. User Interface: Implemented user interface components to view profiles and interact with other users. Real-Time Chat: Enabled users to chat with one another in real-time.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "SCSS",
+          "Node.js",
+          "Express.js",
+          "MongooDb",
+          "Javascript",
+          "Passport.js",
+          "Socket-Programming"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://react-hooks-blog-de008.web.app/"
+      },
+      {
+        "name": "Blog Site",
+        "description": "User can create posts that are stored on Firebase database and visible on the home page of the Blog site. By clicking on name of the post visible on home page user can view the content of the post.",
+        "keywords": [
+          "React",
+          "React-Hooks",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Music-Site",
+        "description": "It is a static site built using HTML and CSS. Responsive site.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://music-site-d9be5.web.app/"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "CUSTOMER EXPERIENCE MAKER",
+        "skillsUsed": [],
+        "endDate": "August(2024)",
+        "company_name": "Adobe",
+        "description": "Task Automation: Automated onboarding processes to eliminate manual effort, significantly improving efficiency and reducing errors. Gen-AI Query Platform: Designed a Gen-AI powered query answering platform that retrieves information from Adobe verified resources, enhancing internal support and communication. Productivity Bots: Developed bots using machine learning to enhance productivity and resource utilization across various departments. Quality Audits: Automated the process of reviewing the performance of engineers under managers using machine learning, improving accuracy and consistency in quality audits.",
+        "location": "Noida",
+        "links": "",
+        "startDate": "June(2024)"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "Python",
+      "Bootstrap",
+      "Javascript",
+      "JQuery",
+      "OOP",
+      "MySQL",
+      "Data Structures and Algorithms",
+      "React",
+      "TCP/IP",
+      "network programming",
+      "APIs",
+      "MongoDb",
+      "Node.js",
+      "Express.js",
+      "Operating systems"
+    ],
+    "soft_skills": [
+      "Good at communication",
+      "Coordination",
+      "Task prioritization",
+      "Leadership Skills",
+      "Creative thinking"
+    ],
+    "name": "Manika Goyal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "First Rank in CSE- Department in 5th and 6th Semester GPA: 9.75"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

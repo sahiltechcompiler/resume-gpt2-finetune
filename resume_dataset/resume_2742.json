@@ -1,0 +1,114 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Harjas Kaur",
+  "college": "Guru Tegh Bahadhur Institute Of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Microsoft Beta Student Ambassador MLSA",
+      "Graphic Designer GDSC-GTBIT: Google Developer Student Club"
+    ],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadhur Institute Of Technology",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.096",
+        "field_of_study": "Computer Science and Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blog Application",
+        "description": "I developed a dynamic and responsive blog application using Angular and firebase technologies.Utilizing Angulars powerful frontend capabilities, I crafted a user-friendly interface through the effective use of components,services, modules. The seamless integration with Firebase played a pivotal role in enhancing the applications functionality. I utilized Fire- store for efficient data storage, enabling the real-time updates that allow users to experience new content, Implementing Firebase authentication ensured a secure environment.",
+        "keywords": [
+          "Angular17",
+          "Typescript",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "Firebase(SDK)"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ever Fit",
+        "description": "EverFit is a type of fitness app crafted with React.js and Rapid API. Developed a fitness app which is crafted with React.js and powered by Rapid API for seamless integration of dynamic features. This Project redefines your fitness experience, combining a user-friendly interface with robust functionality. It includes the functionality to explore various excercises from cardio to chest.It also adds the functionality of filtering and pagination. It also gives diverse range of workouts tailored to your fitness level. From cardio to strength training, this app caters to all fitness enthusiasts. Leveraging Rapid API to fetch real-time fitness related data such as workout exercises.Utilise React hooks like useEffect to manage side effects, such as fecthing data.",
+        "keywords": [
+          "React.Js",
+          "Saas",
+          "Rapid API"
+        ],
+        "endDate": "Aug.2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Dictonary App",
+        "description": "Dictonary App provides seamless experience for users to search. Utilized HTML for structuring the app,CSS for styling, and javascript for dynamic functionality,This application provides users to serach, retrieve, and display accurate definations.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Javascript"
+        ],
+        "endDate": "Apr.2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web Developer Intern",
+        "skillsUsed": [
+          "Angular",
+          "Node.js",
+          "Express.js",
+          "SSMS",
+          "Store Procedures"
+        ],
+        "endDate": "Dec 2023",
+        "company_name": "SecurEyes Techno Services Pvt Ltd",
+        "description": "I developed a comprehensive Login Module, showcasing my proficiency in various technologies.On Frontend, I lever- aged Angular to create a dynamic and responsive user interface. For Backend, I utilized the powerful combination of Node.js and Express.js to handle authentication process securely.In terms of data management, I integrated the solution with SSMS[SQL Server Management Studio].",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Html",
+      "Css",
+      "Scss",
+      "Javascript",
+      "Typescript",
+      "Angular",
+      "Reactjs",
+      "Nodejs",
+      "ExpressJs",
+      "Bootstrap",
+      "Firebase",
+      "MongoDB",
+      "SSMS [SQL Server Management Studio]"
+    ],
+    "soft_skills": [],
+    "name": "Harjas Kaur",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

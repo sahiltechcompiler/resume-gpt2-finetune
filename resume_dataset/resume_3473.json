@@ -1,0 +1,130 @@
+{
+  "project_count": 2.0,
+  "designation": "Web Developer Intern",
+  "name": "Siddharth Upadhyay",
+  "college": "KIET Group of Institutions(AKTU)",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Bhadohi, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions(AKTU)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "7.5 CGPA",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "Jawahar Navodaya Vidyalaya(CBSE)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "88 percent",
+        "field_of_study": "Science",
+        "startDate": ""
+      },
+      {
+        "school": "Jawahar Navodaya Vidyalaya(CBSE)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90 percent",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chat-App",
+        "description": "Empower users to connect, share, and collaborate seamlessly through real-time communication in a modern chat application. Implemented user authentication and authorization features using JWT for secure access control. Utilized React.js to create a responsive and interactive user interface for seamless user experience.",
+        "keywords": [
+          "NodeJS",
+          "HTML",
+          "TailwindCSS",
+          "ReactJS",
+          "MongoDB"
+        ],
+        "endDate": "May 2020",
+        "startDate": "April 2019",
+        "url": ""
+      },
+      {
+        "name": "CrowdNav",
+        "description": "Spearheaded a four-person team to develop an ML integrated web app. The app aims to enhance the travelling experience of the commuters. Powered with an ML model which is capable of telling the exact no. of available vacant seats in a bus at any point of time during its commute. Locates all the nearby available buses from a person on the UI, with the help of GPS access of the person and the bus.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "ReactJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "TailwindCSS",
+          "JavaScript",
+          "ReactJS",
+          "MaterialUI",
+          "Git"
+        ],
+        "endDate": "31st August 2023",
+        "company_name": "TechnoHacks Education Pvt Ltd.",
+        "description": "Collaborated with a three-person team to develop a web app TOURS SIMPLIFIED which is capable of locating all the hotels, restaurants and tourist places near a person. Powered by geolocation access of the user, the app uses Rapid API to fetch the required data near the geolocation. The app reflects all the available hotels, restaurants and tourist attractions near the person and that too based upon the filtered star rating of the venue.",
+        "location": "",
+        "links": "",
+        "startDate": "1st August 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MYSQL",
+      "TailwindCSS",
+      "ReactJS",
+      "ExpressJS",
+      "NodeJS",
+      "Object Oriented Programming",
+      "Data Structures and Algorithms",
+      "Database Management System"
+    ],
+    "soft_skills": [],
+    "name": "Siddharth Upadhyay",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "AWS Academy Graduate - AWS Academy Cloud Architecting",
+      "Winner of Case Clubs TRAILBLAZERS (case based presentation event)",
+      "Runner-Up, AKTU Zonal Volleyball 2k22",
+      "Winner of inter-district cricket tournament 2k19",
+      "Winner of inter-district quiz competition 2k18"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

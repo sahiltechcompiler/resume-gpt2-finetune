@@ -1,0 +1,165 @@
+{
+  "project_count": 3.0,
+  "designation": "MERN DEVELOPER",
+  "name": "Varun Gupta",
+  "college": "KIET Group of Institutions [AKTU]",
+  "locations": [
+    "Delhi-NCR, India",
+    "Etawah, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions [AKTU]",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi-NCR, India",
+        "ID": 0.0,
+        "grade_received": "8.3 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "Suditi Global Academy",
+        "endDate": "March 2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Etawah, India",
+        "ID": 1.0,
+        "grade_received": "94%",
+        "field_of_study": "CBSE",
+        "startDate": "April 2019"
+      },
+      {
+        "school": "Delhi Public School",
+        "endDate": "March 2018",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Etawah, India",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "CBSE",
+        "startDate": "April 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "WEDESIGNETEES - Frontend and Backend Development",
+        "description": "Developed MERN-based platform empowering local shops to sell online, expanding market reach. Designed interactive Dashboard with live data charts for sales, inventory, and user engagement insights, streamlining administrative tasks and decision-making by ChartJS. Implemented Real-time Chat system (Socket.io) enhancing user-vendor communication for efficient support. Created three intuitive UIs (User, Shop, Admin) optimizing user experience across devices.",
+        "keywords": [
+          "React.js",
+          "Tailwind",
+          "ChartJs",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Redux",
+          "Socket.IO"
+        ],
+        "endDate": "June 2024",
+        "startDate": "April 2024",
+        "url": "[LINK]"
+      },
+      {
+        "name": "EdTech Website - Frontend and Backend Development",
+        "description": "Developed a full-stack educational technology platform utilizing MERN Stack, enabling seamless interaction between students and teachers. Integrated Secure User Authentication and Payment Gateway for seamless transactions. Developed Dynamic course listing features for teachers to manage content effectively. Ensured responsive design for optimal user experience across devices.",
+        "keywords": [
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Redux",
+          "ReactJs",
+          "Tailwind CSS"
+        ],
+        "endDate": "December 2023",
+        "startDate": "October 2023",
+        "url": "[LINK]"
+      },
+      {
+        "name": "Wholesale Cloth Website",
+        "description": "Implemented an interactive static website for startup using HTML, CSS, and JavaScript. Crafted a visually appealing website design with HTML and CSS, featuring a dynamic homepage slider showcasing custom t-shirts and seamless navigation. This is the Live Project where you can order wholesale t-shirts and the team handles everything from design to delivery for your event or party. Developed a dynamic design lab with HTML, CSS, and JavaScript, enabling personalized t-shirt customization.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "July 2023",
+        "startDate": "June 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "IBM SkillBuild by Edunet Foundation",
+        "description": "Completed an internship on Frontend Development.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "September 2023",
+        "company_name": "EduSkills supported by AWS Academy",
+        "description": "Completed a virtual internship on AI-ML.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "September 2022",
+        "company_name": "IIPC of KIET Group of Institutions",
+        "description": "Completed an internship on Mini Project in Advanced C.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2022"
+      }
+    ],
+    "skills": [
+      "HTML5",
+      "CSS",
+      "SCSS",
+      "Tailwind",
+      "Bootstrap",
+      "Javascript",
+      "Typescript",
+      "ReactJS",
+      "Redux",
+      "JQuery",
+      "Node.js",
+      "Express.js",
+      "Mongoose.js",
+      "Rest API",
+      "Web Sockets",
+      "MongoDB",
+      "MySQL",
+      "Firebase",
+      "Java",
+      "Javascript",
+      "Python"
+    ],
+    "soft_skills": [],
+    "name": "Varun Gupta",
+    "position": "MERN DEVELOPER",
+    "interests": [],
+    "achievements_and_awards": [
+      "Selected for Innovation, Design and Entrepreneurship (IDE) Bootcamp at NITTTR, Chandigarh organized by MOEs Innovation Cell (MIC) & AICTE under Ministry of Education.",
+      "Achieved the position of first runner-up in the Hult Prize competition at the college level."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,158 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "MAYANK SINGH",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, Uttar-Pradesh",
+    "Bilaspur, India"
+  ],
+  "full_output": {
+    "summary": "Results-driven software engineer and web developer with expertise in IoT, edge computing, and cloud-based technologies. Proficient in multiple programming languages and skilled in designing scalable, efficient solutions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming for the Internet of Things",
+        "issuer": "University of California(Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "InternShala",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.00",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St Xaviers High School, Bilaspur",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 76%",
+        "field_of_study": "PCM",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI Virtual assistant",
+        "description": "Developed AI-based Virtual Assistant in Python, integrating speech recognition and NLP techniques for user query comprehension. Utilized libraries like speech recognition, Google Search, and PyAudio for efficient operation. Enhanced user experience with voice command interaction, ensuring accessibility and efficiency.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "Present",
+        "startDate": "Nov 2021",
+        "url": ""
+      },
+      {
+        "name": "Smart Helmet",
+        "description": "Integrated the MQ-4 Gas Sensor for prompt detection of hazardous gases, prioritizing worker safety within the operational environment.Utilized the ESP8266 microcontroller and wireless communication modules to facilitate efficient performance and real-time data transmission within the smart helmet system.",
+        "keywords": [
+          "IoT",
+          "Cloud Computing",
+          "NodeMCU",
+          "MQ-4"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Voice Controlled Wheelchair For Disable Person",
+        "description": "Pioneered Inclusive Innovation with a Voice-Controlled Wheelchair System, seamlessly integrating Hardware and Software components to empower individuals with disabilities, providing Unparalleled Mobility and Independence through an Intuitive Voice Command Interface, revolutionizing traditional joystick-based controls.",
+        "keywords": [
+          "C language",
+          "IOT",
+          "Cloud Computing",
+          "Node MCU"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "HEALTH TRACKER WEBSITE",
+        "description": "A health tracker website built with Tailwind CSS and AngularJS combines powerful front-end capabilities with modern UI design principles. It allows users to track various health metrics, set goals, visualize progress, and receive personalized insights, all while maintaining a responsive and intuitive user experience across different devices. This combination leverages AngularJSs data binding and component-based architecture along with Tailwind CSSs utility classes to create a scalable and maintainable web application for health monitoring and improvement.",
+        "keywords": [
+          "Angular.JS",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "AMVI SOFT TECH PVT LTD",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "Java",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Git",
+      "GitHub",
+      "ReactJS",
+      "NodeJS",
+      "Tailwind CSS",
+      "Bootstrap",
+      "ExpressJS",
+      "AngularJS",
+      "MySQL",
+      "MongoDB",
+      "Postgre SQL",
+      "NodeMCU",
+      "Arduino",
+      "Raspberry Pi",
+      "VS Code",
+      "Jupyter",
+      "Google Colab",
+      "Azure",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "MAYANK SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Greater Noida, Uttar-Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

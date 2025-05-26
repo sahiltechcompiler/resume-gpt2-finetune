@@ -1,0 +1,183 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Pavan Vitesh Kuncham",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh",
+    "Vijayawada"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Salesforce Developer Virtual Internship",
+        "issuer": "SmartInternz",
+        "certiLink": "View Certificate"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS for Beginners",
+        "issuer": "Great Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering Virtual Experience",
+        "issuer": "JPMC (Forage)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DBMS Course",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.5/10.0",
+        "field_of_study": "Computer Science and Engineering with Specialization in AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Jr College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary School",
+        "location": "Vijayawada",
+        "ID": 1.0,
+        "grade_received": "Percentage : 96.5/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Narayana High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary School",
+        "location": "Vijayawada",
+        "ID": 2.0,
+        "grade_received": "Percentage : 100/100",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "TENDERBC",
+        "description": "Developed a secure tendering platform using blockchain, increasing user trust by 75%. Carried out stringent privacy measures to keep bidders identities and bid details confidential and immutable. Enforced strict permission protocols, maintaining impartiality and fair bidding by denying unauthorized access. Operated extensive testing and debugging to ensure platform security and robustness, achieving a 98% user satisfaction rate. Integrated advanced security features, including encryption and secure access protocols, to protect sensitive data and ensure compliance with industry standards.",
+        "keywords": [
+          "Python",
+          "Django",
+          "GO",
+          "Ethereum",
+          "Solidity",
+          "SQL",
+          "HTML/CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Travel Buddy",
+        "description": "Travel Buddy is a web application designed to connect individuals within the same organization or university for shared travel experiences, resulting in a 40% reduction in individual transportation costs. The project aims to facilitate collaboration, achieving a 50% increase in carpooling instances, and promote environmental sustainability by minimizing carbon footprints, leading to a 35% decrease in carbon emissions.",
+        "keywords": [
+          "Java",
+          "SQL",
+          "HTML/CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Average Time Quantum Round Robin Process Scheduling Algorithm",
+        "description": "Designed and implemented to improve process scheduling efficiency by dynamically adjusting the time quantum based on the average burst time and remaining process time, resulting in a 20% decrease in context switching overhead. Led extensive testing of the ATQRR algorithm, achieving a 25% increase in CPU utilization and a 30% reduction in average turnaround time compared to traditional Round Robin scheduling.",
+        "keywords": [
+          "C"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Proposed Algorithm"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Jun 2024",
+        "company_name": "MiQ",
+        "description": "Conducted comprehensive data analysis on sports insights, utilizing various demographics to identify and target audience segments for programmatic advertising campaigns. Performed analytical techniques to optimize ad targeting, achieving a 30% increase in audience reach and a 15% boost in campaign efficiency.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2024"
+      },
+      {
+        "role_name": "Web Development Trainee",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Completed a comprehensive training focused on web development technologies including HTML/CSS, Python, and Django. Developed a Coupon sharing application, enabling users to trade unused coupons claimed from various online platforms. Integrated Razorpay payment system for wallet top-ups, improving user convenience and transaction efficiency by 35%, and fostering a collaborative coupon-sharing community that saw a 20% rise in transactions.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Django",
+      "MySQL",
+      "MongoDB",
+      "React",
+      "Node",
+      "Git",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "TensorFlow",
+      "Python",
+      "C",
+      "C++",
+      "Java",
+      "Javascript",
+      "HTML/CSS",
+      "SQL",
+      "Bash"
+    ],
+    "soft_skills": [],
+    "name": "Pavan Vitesh Kuncham",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received a 100% Merit Scholarship from SRM University AP to pursue B.Tech in CSE.",
+      "Secured 2nd position in the National Youth Day 2022 Quiz Competition organized by SRMU-AP."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

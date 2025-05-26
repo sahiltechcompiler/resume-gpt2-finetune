@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ABHAY SAXENA",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Dilshad Garden, Delhi-95",
+    "Sector 22, Rohini, Delhi"
+  ],
+  "full_output": {
+    "summary": "I am an undergraduate student in the Computer Science and Technology (CST) program, with a strong focus on software engineering and expertise in machine learning and full-stack development.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Greenway Modern School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary School Certificate",
+        "location": "Dilshad Garden, Delhi-95",
+        "ID": 0.0,
+        "grade_received": "90.5%",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Greenway Modern School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Certificate",
+        "location": "Dilshad Garden, Delhi-95",
+        "ID": 1.0,
+        "grade_received": "87.8%",
+        "field_of_study": "PCM",
+        "startDate": "2019"
+      },
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Sector 22, Rohini, Delhi",
+        "ID": 2.0,
+        "grade_received": "8.656 CGPA",
+        "field_of_study": "CST",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Phoneme Recognition",
+        "description": "Developed a phoneme recognition system using wav2vec2, focusing on data preprocessing, model training, and evaluation with Word Error Rate (WER) and Character Error Rate (CER).",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Speech Emotion Recognition",
+        "description": "Developed a speech emotion recognition classifier using deep learning, integrating multiple datasets. Focused on data preparation, feature extraction, and model training to identify emotions from speech.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ecommerce Website",
+        "description": "Developed a fully functional e-commerce website using HTML, CSS, and JavaScript with MongoDB for backend data management, enabling users to browse products, add items to the cart, and complete purchases.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "01/08/23",
+        "company_name": "Plasmid",
+        "description": "Created an SMS spam detector using Python, leveraging natural language processing and machine learning techniques to accurately classify and filter spam messages.",
+        "location": "",
+        "links": "",
+        "startDate": "01/06/23"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "01/09/23",
+        "company_name": "Tech-a-Intern",
+        "description": "Developed a stock price prediction model using Python, incorporating machine learning algorithms and historical data analysis to forecast future stock prices accurately.",
+        "location": "",
+        "links": "",
+        "startDate": "01/08/23"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "R",
+      "Ballerina",
+      "Git",
+      "HTML",
+      "CSS",
+      "Java Script",
+      "PHP",
+      "MongoDB",
+      "MySQL",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Lang Chain",
+      "LLM",
+      "Data Structures and Algorithms",
+      "Scikit-Learn",
+      "TensorFlow",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "soft_skills": [
+      "Self-Disciplined",
+      "Hardworking",
+      "Teamwork and Cooperation",
+      "Decision Making",
+      "Active Listening"
+    ],
+    "name": "ABHAY SAXENA",
+    "position": "",
+    "interests": [
+      "Problem Solving",
+      "Computer Science podcasts",
+      "Swimming",
+      "Running"
+    ],
+    "achievements_and_awards": [
+      "Completed Machine Learning and Deep Learning Specializations, enhancing expertise in advanced AI and data analysis techniques.",
+      "Actively participated in numerous tech seminars, winning multiple goodies in events hosted by Google, Microsoft, and WSO2, among others.",
+      "Successfully solved over 500 Data Structures and Algorithms (DSA) problems, demonstrating strong problem-solving and coding skills."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

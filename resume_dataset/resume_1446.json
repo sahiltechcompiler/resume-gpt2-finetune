@@ -1,0 +1,131 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Arekanti Siddartha",
+  "college": "SRM UNIVERSITY",
+  "locations": [
+    "AP",
+    "VIJAYAWADA"
+  ],
+  "full_output": {
+    "summary": "As a dedicated student at SRM University AP, Im an enthusiastic software developer with a passion for learning different technologies, especially in writing elegant and efficient code. Proficient in SQL and Python, with a strong understanding of data engineering and a keen interest in applying AI, ML, and DL. Excellent verbal and written communication skills. Possesses a collaborative mindset for working with clients, ecosystems, and internal teams.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering with specialization in AI/ML",
+        "startDate": "2021"
+      },
+      {
+        "school": "SRI CHAITANYA JUNIOR COLLEGE",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "VIJAYAWADA",
+        "ID": 1.0,
+        "grade_received": "89.2",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "INDUS SCHOOL",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-Time Language Translator",
+        "description": "Developed a real-time language translator using Flask, integrating text and voice translation with Google Translate API, SpeechRecognition, gTTS, and pyttsx3. Created a user-friendly GUI for seamless text-to-text and voice-to-voice conversation, including login and translation history features using SQLite3 database. Implemented JavaScript for voice recording and playback. Focused on collaboration, testing, and best practices to ensure optimal performance and reliability.",
+        "keywords": [
+          "Flask",
+          "Google Translate API",
+          "SpeechRecognition",
+          "gTTS",
+          "pyttsx3",
+          "SQLite3",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Tuberculosis Detection Using X-Ray",
+        "description": "Developed a real-time TensorFlow-based image classification pipeline for detecting Tuberculosis using a CNN model. The project includes data preprocessing with augmentation, model training, and evaluation through accuracy, loss metrics, classification reports, and confusion matrices. The code allows for the loading, preprocessing, and classifying of newly uploaded images using a trained CNN model, with predictions mapped to the original training class labels.",
+        "keywords": [
+          "TensorFlow",
+          "CNN",
+          "data preprocessing",
+          "model training"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "",
+        "description": "Detection of covid 19 using Federated Edge Learning Duration Utilized federated learning techniques to detect and classify the Disease, employing deep learning architectures GANs and CNNs for model development.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "Machine learning",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "SQLite3",
+      "Vs code",
+      "git",
+      "git-hub",
+      "Jupyter notebook",
+      "Tensor flow",
+      "Keras",
+      "Pytorch",
+      "back end developer",
+      "Image processing",
+      "voice processing",
+      "Artificial intelligence developer"
+    ],
+    "soft_skills": [
+      "Volunteering",
+      "Exploring",
+      "Team Work",
+      "Decision making"
+    ],
+    "name": "Arekanti Siddartha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

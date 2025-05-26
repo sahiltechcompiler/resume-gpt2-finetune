@@ -1,0 +1,134 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "NITIN KUMAR",
+  "college": "Netaji Subhas University of Technology, Delhi",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "Successfully completed foundation level and currently in Diploma level.",
+        "skillsLearned": [],
+        "title": "B.S in Data Science and its Applications (Foundation level)",
+        "issuer": "IIT Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "This is the 1st course of Meta Back-end Developer Professional Certificate program on Course Era.",
+        "skillsLearned": [],
+        "title": "Introduction to Back-End Development",
+        "issuer": "Course Era",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Netaji Subhas University of Technology, Delhi",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.01/10 CGPA",
+        "field_of_study": "Electronics and Communication Engineering (AI & ML)",
+        "startDate": "2020"
+      },
+      {
+        "school": "Jamia Millia Islamia, Delhi",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "76.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Jamia Millia Islamia, Delhi",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "8.71/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Spam Classification using ML",
+        "description": "Developed a spam classification system leveraging basic Natural Language Processing (NLP) techniques and Naive Bayes classification, using Python. Libraries like NLTK, Pandas, NumPy, Matplotlib and Sklearn used. Dataset source: Kaggle. Flask framework used for making user interface. Accuracy of 98% is achieved by Navie Bayes method for the given dataset. Application is deployed on render.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "App Link Repo"
+      },
+      {
+        "name": "Weather App",
+        "description": "A simple Weather web app which shows weather of your current location and user can also search for the specific city. This web app uses Open Weather API for getting the weather details such as Temp, humidity, windspeed etc. Tech stack used are HTML, CSS, JavaScript. The application is deployed on Netlify.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "App Link Repo"
+      },
+      {
+        "name": "Early Heart Diseases classification",
+        "description": "Dataset: UCI machine learning repository. Python and Libraries Pandas, NumPy, Matplotlib and Sklearn. Uses different ML classification model like Decision Tree, Random Forest, KNN etc. Random forest performs best with an accuracy of 82.89%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Resolve Students doubt regarding their academic studies",
+        "skillsUsed": [],
+        "endDate": "Dec 2022",
+        "company_name": "Filo EdTech Pvt. Ltd.",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "April 2022"
+      },
+      {
+        "role_name": "Volunteer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "National Service Scheme, NSUT",
+        "description": "Volunteer in different activities and programs conducted by NSS",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python (Beginner)",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "OOPS",
+      "DSA"
+    ],
+    "soft_skills": [],
+    "name": "NITIN KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

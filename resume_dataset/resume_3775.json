@@ -1,0 +1,122 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Yash Garg",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi - NCR, Ghaziabad",
+    "Deoband"
+  ],
+  "full_output": {
+    "summary": "A motivated college student with a strong interest in web development. I've completed several courses in HTML, CSS, JavaScript. Additionally, I'm proficient in Java for data structures and algorithms. Whether it's back-end development with Django or front-end work with React, I'm ready to dive in and create something awesome together!",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi - NCR, Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "8.56/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": "June 2021"
+      },
+      {
+        "school": "The Doon Valley Public School",
+        "endDate": "Mar 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Deoband",
+        "ID": 1.0,
+        "grade_received": "94.6%",
+        "field_of_study": "",
+        "startDate": "Mar 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "FlavorFusion",
+        "description": "Developed a modular Django project with separate apps for streamlined development and maintenance. Implemented user authentication and AJAX handling for dynamic and responsive user interactions. Demonstrated expertise in frontend-backend integration for efficient web application development.",
+        "keywords": [],
+        "endDate": "10th May 2024",
+        "startDate": "4th May 2024",
+        "url": "GitHub"
+      },
+      {
+        "name": "Health Suraksha",
+        "description": "Designed and implemented HealthSuraksha, leveraging Django, Developed HTML, and CSS for various healthcare functionalities and user functionalities using Django authentication secure registration. Harmonized diverse functionalities through Django backend integration for a unified user experience.",
+        "keywords": [],
+        "endDate": "September 2022",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Wasruk",
+        "description": "Crafted React-based interfaces for Wasruk, facilitating user engagement in a waste collection reward program. Engineered intuitive and responsive frontend designs using React. Utilized React to create an engaging user experience, supporting incentivizing waste management efforts.",
+        "keywords": [],
+        "endDate": "May 2022",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Development Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "IBM",
+        "description": "Successfully completed multiple courses during the IBM internship, enhancing expertise in diverse aspects of frontend development. Developed a mini project during the internship using HTML, CSS, and JavaScript.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Full-stack Development Intern",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "EY Global & AICTE",
+        "description": "Expanded skills in Full Stack Web Development, especially Django backend. Developed a mini project during the internship, applying backend skills to create a practical web application.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Django",
+      "Django Rest Framework",
+      "ReactJs",
+      "Bootstrap",
+      "Git",
+      "GitHub",
+      "MySQL",
+      "Rest API",
+      "Visual Studio Code",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "Yash Garg",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked 2-star on CodeChef",
+      "Highest Rating 1424 (2-star)",
+      "Solved 300+ problems on LeetCode and GeeksforGeeks",
+      "200+ contributions and streak of 37+ consecutive days of coding on GitHub",
+      "Sustained GPA of 8.65 throughout college."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

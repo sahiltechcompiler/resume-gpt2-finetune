@@ -1,0 +1,353 @@
+{
+  "project_count": 8.0,
+  "designation": "",
+  "name": "Kartik Joshi",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "Remote",
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "Versatile Full Stack Developer with extensive experience in mobile and web technologies. Proven track record of enhancing user engagement and streamlining backend operations. Eager to apply technical skills expertise to drive impactful projects.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "https://www.coursera.org",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advance React",
+        "issuer": "Meta",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://www.coursera.org",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Networks and Network Security",
+        "issuer": "Google",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech.",
+        "location": "New Delhi",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hostify",
+        "description": "A online cloud service such as Netlify.",
+        "keywords": [
+          "VueJS",
+          "NodeJS",
+          "Docker",
+          "AWS ECS",
+          "AWS EC2",
+          "AWS S3",
+          "Apache Kafka",
+          "Clickhouse",
+          "Prisma",
+          "PostgreSQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VideoShift",
+        "description": "Developed a video transcoding application that converts video files between different formats to ensure compatibility across various platforms and devices.",
+        "keywords": [
+          "FFmpeg",
+          "Linux",
+          "Python",
+          "AWS Lambda",
+          "S3",
+          "Fargate",
+          "Elastic Container Service",
+          "Registry",
+          "Docker",
+          "DynamoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "My portfolio",
+        "description": "Web based resume/portfolio (Do check this out).",
+        "keywords": [
+          "TypeScript",
+          "ReactJS",
+          "Framer Motion"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "K-witter",
+        "description": "Social media app.",
+        "keywords": [
+          "Flutter",
+          "dart",
+          "riverpod",
+          "appwrite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "K-Share",
+        "description": "Social media app to share arts publicly.",
+        "keywords": [
+          "Google OAuth",
+          "ReactJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "K-Movies",
+        "description": "Web and Mobile app with movies database.",
+        "keywords": [
+          "ReactJS",
+          "React Native"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "NewsToMobile",
+        "description": "Real time news web app.",
+        "keywords": [
+          "ReactJS (Class Based)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Easy-Trip",
+        "description": "Travel booking web app for hackathons.",
+        "keywords": [
+          "Firebase",
+          "Framer motion",
+          "ReactJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer (Android/IOS)",
+        "skillsUsed": [
+          "React Native",
+          "NodeJS",
+          "ExpressJS",
+          "Web3",
+          "AWS (EC2, S3, DynamoDB)",
+          "Redis"
+        ],
+        "endDate": "2023",
+        "company_name": "Anokha",
+        "description": "Led the development of a React Native app integrating Web3 technologies to enhance secure, decentralized user transactions. Implemented robust server-side solutions using NodeJS and Express, significantly improving backend efficiency and scalability.",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [
+          "NextJS",
+          "Tailwind CSS",
+          "NodeJS",
+          "ExpressJS",
+          "AWS (EC2)"
+        ],
+        "endDate": "Jan 2023",
+        "company_name": "Advance Sports Technology",
+        "description": "Developed and maintained dynamic admin panels for employee management, increasing operational efficiency by 30%. Enhanced user interface using NextJS and Tailwind CSS, achieving a 40% reduction in load times and a smoother user experience.",
+        "location": "New Delhi (Hybrid)",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [
+          "ReactJS",
+          "NodeJS",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "Jul 2023",
+        "company_name": "Pacecourt",
+        "description": "Engineered and deployed a fully functional website, which increased customer engagement by 50%. Integrated services with MongoDB, creating resilient data management and retrieval processes that supported high-traffic demands.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [
+          "ReactJS",
+          "NodeJS",
+          "Express",
+          "MSSQL"
+        ],
+        "endDate": "Apr 2023",
+        "company_name": "IOTEdu",
+        "description": "Single-handedly developed critical software components, leading to a 25% increase in project delivery speed under senior supervision. Mastered new technologies, specifically MSSQL and advanced security measures, to enhance application safety and data integrity.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Feb 2023"
+      },
+      {
+        "role_name": "Freelance Developer",
+        "skillsUsed": [
+          "NextJS"
+        ],
+        "endDate": "Apr 2024",
+        "company_name": "Perpetual",
+        "description": "Web app/ Dashboard for Crypto based app.",
+        "location": "",
+        "links": "",
+        "startDate": "Mar 2024"
+      },
+      {
+        "role_name": "Freelance Developer",
+        "skillsUsed": [
+          "ReactJS",
+          "NodeJS",
+          "AWS"
+        ],
+        "endDate": "Apr 2024",
+        "company_name": "Swayye",
+        "description": "Development of Admin panel and website.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "Freelance Developer",
+        "skillsUsed": [
+          "NextJS",
+          "Google OAuth",
+          "Sanity.io"
+        ],
+        "endDate": "Feb 2023",
+        "company_name": "Nestware",
+        "description": "Development of a full E-commerce webapp and backend panel to add products.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2022"
+      },
+      {
+        "role_name": "Freelance Developer",
+        "skillsUsed": [
+          "ReactJS",
+          "Framer motion",
+          "Sanity.io"
+        ],
+        "endDate": "Jan 2023",
+        "company_name": "Portfolio",
+        "description": "Single page portfolio website with backend panel for dynamic content.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "NextJS",
+      "ReactJS",
+      "AngularJS",
+      "NodeJS",
+      "ExpressJS",
+      "Django",
+      "Spring",
+      "Flask",
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "Tailwind",
+      "SCSS",
+      "VueJS",
+      "Svelte",
+      "ReactNative",
+      "Flutter",
+      "Kotlin",
+      "Java",
+      "XML",
+      "REST API",
+      "gRPC",
+      "WebSockets",
+      "Socket.io",
+      "Unity",
+      "Unreal",
+      "Blender",
+      "C#",
+      "SQL",
+      "GraphQL",
+      "MongoDB",
+      "PostgreSQL",
+      "Jest",
+      "React testing library",
+      "Cypress",
+      "Playwright",
+      "Python (Pandas, Numpy)",
+      "MatLab",
+      "SciLabs",
+      "Docker",
+      "Kubernetes",
+      "Yaml",
+      "Amazon Web Services (AWS)",
+      "Google Cloud Platform (GCP)",
+      "C",
+      "C++",
+      "Java",
+      "TypeScript",
+      "Firebase",
+      "Appwrite",
+      "Supabase",
+      "Sanity.io",
+      "Git",
+      "Github",
+      "Gitlab",
+      "BitBucket",
+      "Framer-Motion",
+      "Redux",
+      "Postman",
+      "Vs Code"
+    ],
+    "soft_skills": [
+      "Agile methodologies",
+      "problem-solving",
+      "team collaboration",
+      "time management"
+    ],
+    "name": "Kartik Joshi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 8.0,
+  "degree": "B. Tech."
+}

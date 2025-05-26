@@ -1,0 +1,126 @@
+{
+  "project_count": 3.0,
+  "designation": "MERN stack developer",
+  "name": "Ayush Chauhan",
+  "college": "KIET Group of Institution - Affiliated to AKTU",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Lucknow"
+  ],
+  "full_output": {
+    "summary": "MERN stack developer with expertise in building and designing websites. Proficient in frontend and backend development, UI, testing, and debugging. Eager to contribute to innovative projects and open source initiatives to deliver exceptional user experiences and make a positive impact.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institution - Affiliated to AKTU",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Lucknow",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Lucknow Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "ISC",
+        "location": "Lucknow",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      },
+      {
+        "school": "Lucknow Public School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "ICSE",
+        "location": "Lucknow",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "Class X",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Documate",
+        "description": "Developed Documate, a real-time collaborative text editor using Next.js, TypeScript, Tailwind CSS, Supabase, and DrizzleORM. Designed and implemented seamless real-time collaboration features for private and shared documents, ensuring a smooth collaborative work environment.",
+        "keywords": [
+          "NextJS",
+          "Typescript",
+          "Supabase",
+          "PostgresSQL",
+          "DrizzleORM"
+        ],
+        "endDate": "Present",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Load-it",
+        "description": "Load-It is a lightweight and easy-to-use React library designed to handle loading states in your web applications. Implemented Load-It in various React projects, significantly improving loading states and optimizing content presentation with the dynamic Skeleton Loader, enhancing overall user satisfaction.",
+        "keywords": [
+          "TypeScript",
+          "React"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Airbnb Clone",
+        "description": "Developed a full-stack Airbnb clone using React, JavaScript, and Redux for the frontend, and Node.js, Express, and MongoDB for the backend. Utilized Tailwind CSS for responsive and modern styling, allowing users to browse and book accommodations, and hosts to list their properties.",
+        "keywords": [
+          "React",
+          "Redux",
+          "NodeJS",
+          "MongoDB"
+        ],
+        "endDate": "Feb 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "NextJS",
+      "Redux",
+      "NodeJS",
+      "ExpressJS",
+      "Git",
+      "GitHub",
+      "MongoDB",
+      "Supabase",
+      "PostgresSQL",
+      "Drizzle ORM"
+    ],
+    "soft_skills": [],
+    "name": "Ayush Chauhan",
+    "position": "MERN stack developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Active Contributor in Innogeeks Winter of Code",
+      "300+ Leetcode Questions Solved",
+      "250+ GitHub Contributions"
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

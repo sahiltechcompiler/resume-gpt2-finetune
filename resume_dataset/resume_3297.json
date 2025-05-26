@@ -1,0 +1,122 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ISHITA",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.34",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Manav Sthali School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.2",
+        "field_of_study": "CBSE BOARD",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Personal Portfolio",
+        "description": "The model scrapes the news website from the provided URL using BeautifulSoup python library, extracts the text and provides a summary of the news to the user through Flask web app. The model effectively retains the essence and meaning of the text in the news articles. The NLP model calculates the significance score for each sentence based on the POS tagging.",
+        "keywords": [
+          "Python",
+          "Web Scraping",
+          "Natural language Processing",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Airfare Vision",
+        "description": "Model predicts the flight prices based on features like total stops, airline, month and date of travelling, Duration, Source and Destination. Accuracy Score: 98% Used Random Forest Regressor, Matplotlib, Scikit learn, GridSearch CV.",
+        "keywords": [
+          "Python",
+          "Random Forest Regressor",
+          "Matplotlib",
+          "Seaborn",
+          "Scikit-Learn",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developed Content-based movie recommendation system. Utilized the Bag-of-Words technique for Text vectorization. Libraries used: numpy, pandas, nltk, scikit learn, Streamlit, pickle, requests. Used Cosine similarity to find the similarity between movie. Model correctly recommends 5 similar movies to the movie selected by the user.",
+        "keywords": [
+          "Python",
+          "Streamlit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Infosys",
+        "description": "Built financial fraud detection model with my team, used Random Forest, XgBoost, Neural Network and K Nearest Neighbour Algorithms to train the model. Accuracy achieved : 98.5% Developed a web application and API using which user can analyze whether the transaction is fraudulent/not based on model's prediction.",
+        "location": "",
+        "links": "Fraud detection model",
+        "startDate": "Apr 2024"
+      },
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Personifwy",
+        "description": "Created real time Face mask recognition system to detect face mask in live video streams, leveraged OpenCV for computer Vision, achieved accuracy score of 96%. Implemented a Fake News classifier using NLP, ML algorithms, python to classify fake and genuine news. Accuracy score 97%. Built a vision transformer for Image classification using tensorflow, keras, neural networks, python. Accuracy Score 85%.",
+        "location": "",
+        "links": "Face Mask Recognition System, Fake news Classifier",
+        "startDate": "Oct 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "MYSQL",
+      "JavaScript",
+      "HTML/CSS",
+      "Bootstrap",
+      "Power BI"
+    ],
+    "soft_skills": [],
+    "name": "ISHITA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors of Technology"
+}

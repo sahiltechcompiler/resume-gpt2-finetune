@@ -1,0 +1,166 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Harshvardhan Rawat",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh, India",
+    "Saharanpur, Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Essentials in C++",
+        "issuer": "CPA",
+        "certiLink": "Certificate Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Solana Blockchain Bootcamp",
+        "issuer": "",
+        "certiLink": "Certificate Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C for Everyone: Programming Fundamentals",
+        "issuer": "",
+        "certiLink": "Certificate Link"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology(B.Tech)",
+        "location": "Ghaziabad, Uttar Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "7.89(upto 5th sem)",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "J V Jain Inter College",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate - UP Board",
+        "location": "Saharanpur, Uttar Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "78.2%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "J V Jain Inter College",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "High School - UP Board",
+        "location": "Saharanpur, Uttar Pradesh, India",
+        "ID": 2.0,
+        "grade_received": "86%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather Forecast Web Application",
+        "description": "A weather forecast application that can automatically detect and display weather for the users current location. The project also allows users to input any city name to retrieve and display the weather forecast for that city. Harnessing the power of the OpenWeather API to provide weather information for a certain location.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "OpenWeather API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "Online Library Management System",
+        "description": "An Online Library Management System allowing members and staff to manage book records, issue books, and list new additions to the librarys collection. The user interface is connected to the database using JSP (Java Server Pages), and the MySQL database is used for the data management of users and books. Ability for members to search for books, view their borrowing history, and reserve books.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Tailwind",
+          "JavaScript",
+          "JSP",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "Online Shopping Cart",
+        "description": "A web application harnessing the power of API calling to fetch data about different products and then listing them on the website and giving the functionality of adding and removing products in and out of a shopping cart. Project created by utilizing the Redux-Toolkit of ReactJS library.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Tailwind",
+          "React",
+          "Redux"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blog Website",
+        "description": "A web application that uses an API to fetch data about different blogs and different blog pages are showcased using the SPA approach. Project created by utilizing the concept of context API and routes in ReactJS library.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Tailwind",
+          "JavaScript",
+          "React",
+          "Context API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Tailwind",
+      "React",
+      "Redux",
+      "Git",
+      "Figma",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Harshvardhan Rawat",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated in the department-level project exhibition conducted by the IT department of my college. - 11/2022 - Certificate Link",
+      "Awarded first position in an online quiz event about Marvel and DC by quiz society of KIET Group of Institutions, Ghaziabad. - 12/2022"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology(B.Tech)"
+}

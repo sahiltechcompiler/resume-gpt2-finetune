@@ -1,0 +1,116 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "ROHAN SAI THANNIRU",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Khammam, Telangana, India - 507203",
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.37 / 10",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior college, Vijayawada",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 92.90 / 100",
+        "field_of_study": "BIEAP",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya International school",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.30 / 10",
+        "field_of_study": "BSET",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Credit card fraud detection using Shap for feature extraction and KNN",
+        "description": "This project explores the potential of SHAP (SHapley Additive exPlanations) to enhance fraud detection in the credit card domain. It utilizes a K-Nearest Neighbors (KNN) model for classifying fraudulent transactions. By incorporating SHAP for feature selection, the project achieved a significant 3% boost in the KNN model's precision compared to a model that employed all features. This improvement highlights SHAP's ability to pinpoint the most critical features for fraud identification, leading to a more precise KNN model. It's important to consider that SHAP's applicability extends beyond KNN models. It has the potential to improve the precision or recall of various other machine learning models employed in credit card fraud detection tasks.",
+        "keywords": [
+          "Machine learning",
+          "Interpretable AI",
+          "Data analysis",
+          "Feature Selection"
+        ],
+        "endDate": "26 Apr, 2024",
+        "startDate": "07 Feb, 2024",
+        "url": "https://github.com/ThanniruRohanSai/Credit-card-fraud-detection-using-Shap-for-feature-selection"
+      },
+      {
+        "name": "Building an interactive Amazon sales Dashboard with PowerBi",
+        "description": "Unleash the power of data-driven decisions for your Amazon business with this interactive Power BI dashboard. Visualize sales trends, analyze product performance, and uncover geographical variations. Leverage interactive filters to deep dive and gain actionable insights. Optimize marketing strategies, identify growth opportunities, and maximize your Amazon sales success all in a single, user-friendly platform.",
+        "keywords": [
+          "Data Analysis",
+          "Business Intelligence"
+        ],
+        "endDate": "18 Feb, 2024",
+        "startDate": "09 Jan, 2024",
+        "url": "https://github.com/ThanniruRohanSai/Amazon-sales-Dashboard-using-PowerBI"
+      },
+      {
+        "name": "Plant pathogen classification using Domain Adaptive Feature Extraction",
+        "description": "This project tackles plant pathogen classification with a transfer learning approach that emphasizes efficiency. A pre-trained ResNet-50, fine-tuned on a general image dataset, extracts informative features from plant images. These features are then fed into a smaller neural network specifically trained to identify different plant pathogens on a separate dataset. This two-step method achieves comparable performance to directly fine-tuning a new ResNet-50 on the pathogen dataset, suggesting a potentially more efficient strategy by reducing the overall training complexity.",
+        "keywords": [
+          "domain adaptive feature extraction",
+          "Deep Learning",
+          "digital Image Processing"
+        ],
+        "endDate": "27 Dec, 2023",
+        "startDate": "05 Jul, 2023",
+        "url": "https://github.com/ThanniruRohanSai/Plant-Pathogen-classification-using-domain-adaptive-Feature-Extraction"
+      },
+      {
+        "name": "Collaborative Filtering for Personalized Movie Recommendations",
+        "description": "Leverage the power of movie fans to personalize recommendations! This project utilizes collaborative filtering, a technique that analyzes user viewing habits. By identifying users with similar tastes, the system recommends movies you're likely to enjoy based on what others liked. No more scrolling endlessly discover hidden gems and favorites tailored to your preferences.",
+        "keywords": [
+          "Deep Learning",
+          "Recommendation system"
+        ],
+        "endDate": "11 Oct, 2023",
+        "startDate": "22 Sep, 2023",
+        "url": "https://github.com/ThanniruRohanSai/TMDB_Movie-Recommender-system-using-Collaborative-Filtering"
+      }
+    ],
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [],
+    "soft_skills": [],
+    "name": "ROHAN SAI THANNIRU",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "House no 1-815 ,Sundharaiah Nagar, Madhira, Khammmam district, Telangana, Flat no 107, shankara",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

@@ -1,0 +1,110 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Bhavishya Yarlagadda",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Community Development Volunteer, Unnat Bharat Abhiyan - Executed comprehensive surveys in nearby villages, identifying challenges faced by residents, particularly those from marginalized communities. Gathered and presented data on community issues to the university administration for strategic intervention."
+    ],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.33/10 till semester 6",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "92.7%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Viswabharati E.M High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.8/10",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Spam Review Detection Using Deep Learning",
+        "description": "Engineered a spam review detection model by concatenating text-based and feature-based models, analyzing over 10,000 Amazon reviews, achieving 90.58% accuracy. Implemented BERT embeddings and a BiLSTM architecture to capture contextual information and identify spam-like patterns. Developed a feature-based BiLSTM model incorporating sentiment analysis and other textual features, resulting in a 15% accuracy improvement. Incorporated temporal features to enhance understanding of review dynamics.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Flight Delay Analysis",
+        "description": "Analyzed flight delays using FAAs Airline On-Time Statistics and Delay Causes Dataset. Explored temporal trends, identified key factors contributing to delays, and investigated relationships between delay causes, carriers, and airports. Utilized Python and data visualization techniques to derive actionable insights into airline delay patterns.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "SRM University",
+        "description": "Conducted an extensive literature survey, analyzing over 50 research papers, to review existing approaches in fake news detection within Natural Language Processing (NLP). Developed a hybrid CNN-RNN model for fake news detection, integrating insights from the literature survey, and achieved 52% accuracy. Enhanced model performance using Word2Vec embeddings for semantic understanding.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Programming Languages",
+      "Data Analysis",
+      "Databases",
+      "Machine Learning & Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Power BI",
+      "Excel",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Bhavishya Yarlagadda",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Selected for Amazon ML Summer School 2024 among approximately 80,000 students in India.",
+      "Ranked in the top 5% among all participants in Adobe GenSolve 2024."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors of Technology"
+}

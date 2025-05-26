@@ -1,0 +1,179 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Priyadarshi Rajeev",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Kishanganj, Bihar",
+    "Bihar",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Computer vision, TensorFlow, ML",
+        "skillsLearned": [],
+        "title": "TensorFlow for AI, ML and Deep Learning",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "on Cisco Networking Academy: Networking",
+        "skillsLearned": [],
+        "title": "CCNAv7: Introduction to Networks",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Linux, Operating system",
+        "skillsLearned": [],
+        "title": "Red Hat System Administration I (RH124)",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 6.43",
+        "field_of_study": "CSE-AI ML",
+        "startDate": "2022"
+      },
+      {
+        "school": "Govt.Polytechnic",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Electronics Engineering",
+        "location": "Kishanganj, Bihar",
+        "ID": 1.0,
+        "grade_received": "CGPA: 8.43",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Bright Career School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Bihar",
+        "ID": 2.0,
+        "grade_received": "Percentage: 74",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fake-News-detection-using-LSTM-and-Deeplearning",
+        "description": "Developed a Fake News Detection system utilizing LSTM and deep learning techniques to classify the authenticity of news articles.",
+        "keywords": [
+          "LSTM",
+          "Deeplearning",
+          "TenserFlow",
+          "keras",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "School Management System",
+        "description": "A comprehensive platform streamlining administrative tasks, communication, and academic management for schools.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "django",
+          "python",
+          "PostgreSQL",
+          "firebase",
+          "iot"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sentiment-analysis-with-tweets",
+        "description": "A tool for analyzing and categorizing the emotional tone of tweets, helping to understand public opinion and trends.",
+        "keywords": [
+          "NLP libraries",
+          "NLTK",
+          "spaCy",
+          "TextBlob",
+          "machine learning frameworks",
+          "Scikit-learn",
+          "TensorFlow",
+          "data collection tools",
+          "Tweepy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Hindi: Native",
+      "English: Professional working proficiency"
+    ],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [
+          "Python",
+          "ML",
+          "Keras",
+          "Neural Network",
+          "scikit-learn"
+        ],
+        "endDate": "Feb 23",
+        "company_name": "AICAN Private Limited",
+        "description": "As a Machine Learning Intern, I had the opportunity to work on cutting-edge projects and contribute to the development of our machine learning algorithms. I worked closely with their engineers to develop and refine machine learning models, conducted research on machine learning techniques, and explored new approaches to problem-solving.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React js",
+      "Django",
+      "React JS",
+      "Firebase",
+      "PostgreSQL"
+    ],
+    "soft_skills": [
+      "Time management",
+      "Problem solving",
+      "leadership"
+    ],
+    "name": "Priyadarshi Rajeev",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

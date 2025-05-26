@@ -1,0 +1,110 @@
+{
+  "project_count": 2.0,
+  "designation": "Full Stack Developer Intern",
+  "name": "Justin T Joseph",
+  "college": "SRM Univeristy AP",
+  "locations": [
+    "Chennai, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM Univeristy AP",
+        "endDate": "present",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.39/10.0",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "The Aditya Birla Public School, Kharach (Gujarat)",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94.2%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Android App - Outpass",
+        "description": "Developed an Android app for generating and scanning Outpasses via QR code for hostel management, replacing the traditional paper outpass system and reducing manual processing time by 50%. Integrated Firebase-RTDB for seamless real-time database management, enhancing app responsiveness.",
+        "keywords": [
+          "Java",
+          "Android Studio",
+          "Firebase-RTDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Personal Finance Manager",
+        "description": "Built a full-stack app for managing personal finances, tracking expenses, and managing budgets, using MERN stack. Integrated a chatbot to assist with financial queries, enhancing user interaction.",
+        "keywords": [
+          "MongoDB",
+          "Express",
+          "Node.js",
+          "React"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [
+          "Angular",
+          "Spring Boot",
+          "Java",
+          "Power BI",
+          "Junit",
+          "Mockito",
+          "GitLab"
+        ],
+        "endDate": "Aug 2024",
+        "company_name": "BNY (Bank of New York)",
+        "description": "Deployed a Spring Boot App on App Engine, enhancing application performance by reducing response time by 30% and boosting user satisfaction by 15%. Executed UI development in Angular and backend development in Spring, leading to a 25% reduction in bug reports and a 30% increase in user engagement. Visualized critical business metrics using Power BI, enhancing data-driven decision-making processes across the team.",
+        "location": "Chennai, India",
+        "links": "",
+        "startDate": "Jun 2024"
+      },
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Applyin",
+        "description": "Developed a Chrome Extension using JavaScript, automating form-filling tasks and reducing completion time by up to 80%, increasing efficiency for end-users. Collaborated on the pricing strategy for ChatGPT and Whisper APIs, drafting comprehensive documentation to support a smooth product rollout. Gained experience with full-stack development using React and Django.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Justin T Joseph",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured the High Commendation award in UNGA MUN 2023, held at SRM University AP Nov 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

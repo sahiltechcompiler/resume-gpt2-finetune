@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "Backend Intern",
+  "name": "Abhay Pratap Singh",
+  "college": "Motilal Nehru National Institute Of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Motilal Nehru National Institute Of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ZenoPrep 2.0",
+        "description": "Enables gamers to stream their game play while simultaneously engaging in video calling and chat, providing an integrated communication and streaming experience for upto 4 friends. Implemented a mesh architecture using Simple-Peer to establish WebRTC connections among all participants in the game room while ensuring real time updates. Deployed on AWS server via reverse proxing through NGINX to serve 3 nodeJs processes on a single EC2 instance.",
+        "keywords": [
+          "WebRTC",
+          "Socket.IO",
+          "MongoDB",
+          "Express",
+          "React",
+          "Redux",
+          "JWT",
+          "Simple-Peer",
+          "MUI"
+        ],
+        "endDate": "Jun 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Zaytm 2.0",
+        "description": "Developed a web-based wallet enabling users and merchants to onramp money through a simulated bank account, integrating banking APIs for peer-to-peer transactions and streamlined expense sharing. Managed database schemas and interactions using PostgreSQL and Prisma, ensuring data integrity and optimizing query performance for efficiency.",
+        "keywords": [
+          "NextJs",
+          "Express",
+          "Node",
+          "Turborepo",
+          "PostgreSQL",
+          "Tailwind"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ZeroAccidentVision",
+        "description": "Trained a machine learning model from scratch using 1.6 million record dataset from the UK government, implementing various algorithms and selecting the most accurate model through hyperparameter tuning. Achieved an accuracy of 86.88 % after iterating through different machine learning algorithms while collecting input on factors such as geo-location, weather, road conditions, and previous history to predict accident severity in specific areas.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "Numpy",
+          "Pandas",
+          "Google Colab"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2024",
+        "company_name": "Shopmakasa",
+        "description": "Developed and maintained backend APIs using Node.js and Express, collaborating with front-end teams to integrate RESTful APIs, which improved server response times by 20% and enhanced overall user experience. Implemented database schemas and queries in MongoDB, and wrote unit tests using Jest, improving code reliability and data retrieval efficiency by 15%. Optimized WebSocket implementation for real-time data updates, reducing latency by 25% and enhancing the responsiveness of live features across the platform.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript/TypeScript",
+      "NextJs",
+      "React",
+      "Express",
+      "NodeJs",
+      "WebSockets",
+      "WebRTC",
+      "SQL",
+      "MongoDB",
+      "PostgreSQL",
+      "TailwindCSS",
+      "Material-ui",
+      "Shadcn",
+      "Git",
+      "Docker",
+      "AWS",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "soft_skills": [],
+    "name": "Abhay Pratap Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "AIR-2670 JEE : Scored 99.76 percentile, showcasing a strong aptitude for problem-solving.",
+      "NMTC, Pre-RMO Qualified",
+      "Winner in Culrav, Dramatics : Stage Play, Nukkad in Cultural Fest of MNNIT",
+      "Solved more that 1000 coding questions across all platforms : Leetcode, Codeforces, GFG, Codechef"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Computer Science and Engineering"
+}

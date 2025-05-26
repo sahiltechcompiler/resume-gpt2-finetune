@@ -1,0 +1,125 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ABHIJEET KUMAR",
+  "college": "Maharishi Markendeswar deemed to be University",
+  "locations": [
+    "mullana (Ambala)",
+    "makhdumpur",
+    "Bihar"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharishi Markendeswar deemed to be University",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "Btech",
+        "location": "mullana (Ambala)",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.5 (Till 6th sem)",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "S.p 10+2 school",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "BSEB",
+        "location": "makhdumpur",
+        "ID": 1.0,
+        "grade_received": "Aggregate: 52%",
+        "field_of_study": "Class 10th",
+        "startDate": "2016"
+      },
+      {
+        "school": "Gurua inter gaya",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "BSEB",
+        "location": "Bihar",
+        "ID": 2.0,
+        "grade_received": "Aggregate: 62%",
+        "field_of_study": "Class 12th",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Online Ebook System",
+        "description": "Developed with a Django",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sorting Visualizer Website Application",
+        "description": "Developed a Sorting Visualizer Web Application. It allows users to visualize various sorting algorithms in real time, helping them to understand the sorting process visually. Key Features:- It includes the soring algorithms (e.g. Selection sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort), real-time visualization of sorting process etc.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Task Manager Web Application",
+        "description": "Developed a task manager web application where users can create, organize and track their tasks and to-do lists. Key Features User authentication, Task creation and Management, Task status tracking etc.",
+        "keywords": [
+          "HTML",
+          "Bootstrap",
+          "JavaScript",
+          "MongoDB",
+          "React.js",
+          "Express.js",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "DSA",
+      "Java (Basic)",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "MySQL",
+      "Android Development (Basic)"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Problem-Solving",
+      "Teamwork",
+      "Adaptability",
+      "Time-Management"
+    ],
+    "name": "ABHIJEET KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Learned DSA in code help with love babbar",
+      "Participated in Google Cloud Skill Boost program organized by GDSC MMDU",
+      "Got certificates in Big Data, JavaScript etc. from Infosys Springboard.",
+      "Got certificates in flutter and kotlin",
+      "Got certificate from Cisco cyber security"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Btech"
+}

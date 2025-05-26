@@ -1,0 +1,137 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Harisha B.S",
+  "college": "Chennai Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internshala web development",
+        "issuer": "Internshala",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Csc OOPs using C++",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B TECH",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.77",
+        "field_of_study": "Computer Science and Business Systems",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "FOOD DELIVERY APPLICATION",
+        "description": "Developed a full-stack food delivery website using the MERN stack (MongoDB, Express.js, React.js, Node.js). Implemented React.js for building reusable UI components and managing state. Utilized Node.js for server-side scripting and handling multiple requests. Employed Express.js for building RESTful APIs and managing routes. Integrated MongoDB for efficient data storage and retrieval. Successfully implemented location tracking for food delivery.",
+        "keywords": [
+          "React.js",
+          "Express.js",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/harishasrinivasan/food_delivery_app"
+      },
+      {
+        "name": "CRYPTO PRICE TRACKING APP",
+        "description": "Developed a real-time crypto price tracking application using React.js and the CoinGecko API. The application displays current prices, charts, and market trends for various cryptocurrencies. Implemented React.js for a responsive and interactive user interface. Employed React Hooks for state management and efficient data fetching. Integrated the CoinGecko API for real-time crypto data.",
+        "keywords": [
+          "React.js",
+          "CoinGecko API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/harishasrinivasan/Crypto-price-tracking-app"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "DLK Technologies",
+        "description": "Developed and implemented machine learning and deep learning model to predict data eagerly. Conduct data analysis with given data, identifying trends and patterns that lead for process optimization. Collaborate with teams to create required data with the given dataset in our technologies.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "web development intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Internshala",
+        "description": "During my internship at Internshala, I learned web development through an online program. Familiarity with development tools like Git, Visual Studio Code. Proficient in building responsive and user-friendly web interfaces using HTML, CSS, and JavaScript.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Express.js",
+      "Node.js",
+      "MySql",
+      "MongoDB",
+      "Java",
+      "C",
+      "VScode",
+      "Figma",
+      "Jupyter notebook",
+      "React.js"
+    ],
+    "soft_skills": [],
+    "name": "Harisha B.S",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Leetcode 200+ problems.",
+      "Content lead in technical symposium.",
+      "Codechef 200+ problems"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B TECH"
+}

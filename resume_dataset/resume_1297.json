@@ -1,0 +1,132 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "HRITIK SRIVASTAVA",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "100",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "79.72",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Bharat Ram Global School, Gautam Buddha Nagar",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "80",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Bharat Ram Global School, Gautam Buddha Nagar",
+        "endDate": "2019",
+        "maximum_grade": "100",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "78",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CardioPredict",
+        "description": "Developed a heart disease prediction model using Logistic Regression, K-Nearest Neighbors, and Random Forest algorithms, achieving an 84 percent accuracy with the Random Forest model. Utilized Python and scikit-learn for data preprocessing, model development, and evaluation.",
+        "keywords": [
+          "Machine Learning",
+          "Logistic Regression",
+          "random Forest algorithm",
+          "k-nearest neighbour algorithm"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/hritik0910/Heart-Disease-Prediction"
+      },
+      {
+        "name": "JobMatchPro: Online Job System",
+        "description": "JobMatchPro is a Java-based Maven project that facilitates job searching and recruitment. Users can browse and search for jobs, while administrators can manage job listings with options to add, update, delete, hide, or show jobs.",
+        "keywords": [
+          "Maven",
+          "Java",
+          "Servlets"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/hritik0910/Job-Portal"
+      },
+      {
+        "name": "Sentiment Analysis of Twitter Data on Indias Education Policy 2020",
+        "description": "Conducted sentiment analysis on Twitter data related to Indias Education Policy 2020 using logistic regression. Achieved 96 percent accuracy in classifying tweets as negative, neutral, or positive. Provided valuable insights into public perceptions towards education reforms, aiding informed decision-making for policymakers.",
+        "keywords": [
+          "Machine Learning",
+          "Logistic Regression",
+          "AI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/hritik0910/Education-Policy-Sentiment-Analysis"
+      }
+    ],
+    "languages": [
+      "English",
+      "HIndi"
+    ],
+    "experiences": [
+      {
+        "role_name": "React Developer",
+        "skillsUsed": [
+          "React.js",
+          "HTML5",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "Present",
+        "company_name": "Celebal Technology",
+        "description": "I am currently interning as a React Developer at Celebal Technologies, where I am engaged in developing projects for the organization using React.js. This role involves: Building and maintaining user interfaces with React.js. Enhancing my proficiency in front-end development and gaining hands-on experience in a professional setting. This internship is providing me with valuable industry experience and deepening my understanding of React.js and web development best practices.",
+        "location": "",
+        "links": "",
+        "startDate": "03 Jun, 2024"
+      },
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [
+          "HTML5",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "10 Oct, 2023",
+        "company_name": "Bharat Intern",
+        "description": "Utilized HTML, CSS, and JavaScript to develop a responsive resume and a replica of the Netflix homepage. Demonstrated proficiency in front-end technologies by creating visually appealing and user-friendly web pages. Gained practical experience in responsive design and modern web development practices.",
+        "location": "",
+        "links": "",
+        "startDate": "10 Sep, 2023"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "HRITIK SRIVASTAVA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech."
+}

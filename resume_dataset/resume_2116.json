@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Grandhi Preetham",
+  "college": "SRM AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.02/10.0",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "APBIE",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Marks: 807/1000",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "APSSC",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 9.2/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI and ML-based Code Smell Detection",
+        "description": "Engineered a code smell detection system using ML, achieving 85% accuracy. Analyzed over 1,000 code quality issues to drive improvements. Decreased manual code review time by 40% with automated detection. Enhanced detection performance by 20% with advanced encoding techniques.",
+        "keywords": [
+          "Machine Learning",
+          "Python",
+          "Software Architecture"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Interactive Bus Reservation System",
+        "description": "Designed a bus reservation system in Java, handling 2000+ bookings. Improved reservation processing speed by 20% with optimized algorithms. Created a user-friendly interface and implemented backend logic. Integrated application with SQL database for robust data management.",
+        "keywords": [
+          "Java",
+          "GUI",
+          "Eclipse"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Python Helpdesk",
+        "description": "Developed a Python Helpdesk application to provide syntax and usage examples for user queries. Processed 500+ user queries with 90% accuracy in providing relevant information. Integrated with Python documentation for comprehensive support. Enhanced the user experience by providing 10 types of python functions for better understanding.",
+        "keywords": [
+          "Python",
+          "JupyterNotebook"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "SRM University AP",
+        "description": "Conducted research on global E-waste policies, analyzing data from 50+ countries. Contributed to an article: Policy Pathways to Sustainable E-waste Management. Generated policy recommendations reducing E-waste by 30%. Presented findings at 3 seminars, engaging with 100+ attendees.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C++",
+      "HTML",
+      "Machine Learning",
+      "Cloud Computing",
+      "DevOps",
+      "Eclipse",
+      "AWS",
+      "Azure",
+      "VS Code",
+      "MySQL",
+      "VirtualBox",
+      "Ubuntu",
+      "Git",
+      "Shell Scripting"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Presentation",
+      "Leadership",
+      "Team Collaboration"
+    ],
+    "name": "Grandhi Preetham",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

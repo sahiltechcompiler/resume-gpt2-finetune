@@ -1,0 +1,119 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Kartikey Chauhan",
+  "college": "Manipal University",
+  "locations": [
+    "Mumbai, MH"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering (Core)",
+        "startDate": "October 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Infrastructure recognition through satellite imagery using deep learning",
+        "description": "Implemented a Convolutional Neural Network (CNN) model for infrastructure detection on a 10 GB data set of satellite imagery using U-Net architecture. Trained and tested the Dataset over 400,000 parameters running over 100 epochs and 7 batches. Predicted masks with the infrastructures highlighted in the images with a training loss of less than 0.0475 and validation loss of less than 0.0580",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "CNN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Wordle Game",
+        "description": "Designed a terminal-based Wordle game where players guess a randomized 5-letter word, with color-coded feedback dynamically changing based on correct letters in the guesses. Managed word validation and game-play integrity by integrating file handling to verify player guesses against a predefined dictionary, ensuring accurate and challenging game-play experiences. Demonstrated problem-solving skills by managing game flow, user input, and feedback mechanisms effectively.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern (Sole Intern)",
+        "skillsUsed": [
+          "Python",
+          "Pandas",
+          "Seaborn",
+          "Matplotlib",
+          "Geo-Pandas",
+          "Folium",
+          "K-Means",
+          "DB-SCAN"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Bharat Petroleum Corporation Limited (BPCL)",
+        "description": "Analyzed and visualized over 8,000 data points across three key datasets from regional oil companies using Python libraries like (Pandas, Seaborn, Matplotlib), producing over 25 comprehensive visualizations to identify trends, patterns, and intricate relationships influencing sales volumes and distribution networks. Conducted advanced Geo-spatial analysis with Geo-Pandas and Folium, creating over 15 interactive maps and heat-maps to visualize the distribution and density of petroleum outlets across over 370 locations. Implemented K-Means and DB-SCAN clustering algorithms to analyze geographical and volume data, successfully identifying over 4 key clusters. This approach pinpointed areas along regional roadways suitable for new fuel stations, optimizing site selection for maximum profitability.",
+        "location": "Mumbai, MH",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [
+          "Machine Learning",
+          "Python",
+          "PyQt5",
+          "Vision Transformer",
+          "Azure",
+          "Dynamic Time Warping"
+        ],
+        "endDate": "September 2024",
+        "company_name": "Rezlytix",
+        "description": "Contributed to the implementation of machine learning and mathematical algorithms for sub-surface fault interpretation and horizon prediction in 2D and 3D seismic data. This included leveraging techniques from seismic research papers, such as optimal surface voting and Dynamic Time Warping, to enhance fault detection and horizon prediction for oil and gas exploration. Transitioned a JRE-based Java system to a Python framework, optimizing performance by eliminating conversion processes and reducing memory overhead, which significantly improved user experience. Acquired proficiency in PyQt5 as part of a task to integrate plugins for fault and horizon analysis into the application. This involved learning PyQt5 to support the implementation and functionality of seismic data visualization features. Led the integration and fine-tuning of a Vision Transformer (ViT) based model for computer vision tasks related to seismic model predictions, overseeing interpolation, denoising, and visualization tasks to refine model accuracy and performance. Worked within an Azure Virtual Desktop (AVD) environment and utilized SSH-based hosts for system access and operation, gaining experience in cloud-based and remote computing setups.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Rust",
+      "MySQL",
+      "JavaScript",
+      "HTML/CSS",
+      "C",
+      "pandas",
+      "NumPy",
+      "Matplotlib",
+      "TensorFlow",
+      "scikit-learn"
+    ],
+    "soft_skills": [
+      "Football",
+      "Semi-pro Esports",
+      "Chess",
+      "Avid reader"
+    ],
+    "name": "Kartikey Chauhan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors of Technology"
+}

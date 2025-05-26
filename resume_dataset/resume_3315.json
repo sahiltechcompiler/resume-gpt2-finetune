@@ -1,0 +1,174 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Sai Narasimharao Gadela",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Jalandhar, Punjab",
+    "Vijayawada, Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "Apna College",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "HRD | LPU",
+        "skillsLearned": [],
+        "title": "Application Development in Java",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Coursera",
+        "skillsLearned": [],
+        "title": "Bits and bytes of networking",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Computer Science and Engineering",
+        "location": "Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.23",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "April 2023",
+        "maximum_grade": "",
+        "degree": "12th with Science",
+        "location": "AP",
+        "ID": 1.0,
+        "grade_received": "Percentage: 92.7%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Saraswathi EM High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th with Science",
+        "location": "Vijayawada, Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.7",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "File Transfer Application",
+        "description": "Developed an application to transfer files between systems seemlessly using socket. Ensured efficient file transfer between peers. Leveraged Socket Programming to make application capable of seamless file transfer Enhanced understanding of network programming and GUI design.",
+        "keywords": [
+          "Java",
+          "Java IO",
+          "Socket",
+          "ServerSocket",
+          "Swing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/saigadela/FileTransfeApp"
+      },
+      {
+        "name": "Banking Application",
+        "description": "Develop the user interface using java swing for seamless user interaction Implement the backend using SQL and JDBC Demonstrated proficiency in backend development and UI design.",
+        "keywords": [
+          "Java",
+          "SQL",
+          "JDBC",
+          "Java Swing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/cs1919/Banking-Application"
+      },
+      {
+        "name": "Chatting Application",
+        "description": "Develop the user interface using kt, XML for seamless user interaction Implement the backend using Firebase by Google Demonstrated proficiency in backend development and UI design.",
+        "keywords": [
+          "Kt",
+          "Compose UI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Training Application Development in Java",
+        "description": "Developed GUI-based applications such as a Store Management/Billing System, Car Game/Flappy Bird Game, and a Chatting Application. Designed user interfaces using the Swing API. Learnt CRUD (Create, Read, Update, Delete) operations by connecting to a MySQL database using JDBC. Successfully developed and deployed multiple applications. Gained hands-on experience in Java application development.",
+        "keywords": [
+          "Java",
+          "Swing API",
+          "AWT",
+          "MySQL",
+          "JDBC"
+        ],
+        "endDate": "Jun 24",
+        "startDate": "Apr 24",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Training Application Development in Java",
+        "skillsUsed": [
+          "Java",
+          "Swing API",
+          "AWT",
+          "MySQL",
+          "JDBC"
+        ],
+        "endDate": "Jun 24",
+        "company_name": "HRD-LPU",
+        "description": "Developed GUI-based applications such as a Store Management/Billing System, Car Game/Flappy Bird Game, and a Chatting Application. Designed user interfaces using the Swing API. Learnt CRUD (Create, Read, Update, Delete) operations by connecting to a MySQL database using JDBC. Successfully developed and deployed multiple applications. Gained hands-on experience in Java application development.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 24"
+      }
+    ],
+    "skills": [
+      "Java",
+      "SQL",
+      "Python",
+      "HTML",
+      "CSS",
+      "Data Structures and Algorithms",
+      "Problem-Solving",
+      "Team Player"
+    ],
+    "soft_skills": [],
+    "name": "Sai Narasimharao Gadela",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved 4 Star ranking in Hackerrank",
+      "Participated and solved 50+ DSA questions in live Hackerrank Competitions"
+    ],
+    "publications": []
+  },
+  "current_location": "Vijayawada, Andhra Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Computer Science and Engineering"
+}

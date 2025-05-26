@@ -1,0 +1,138 @@
+{
+  "project_count": 3.0,
+  "designation": "Entry-level position",
+  "name": "Vikas Verma",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Gr. Noida, India",
+    "Gorakhpur, India"
+  ],
+  "full_output": {
+    "summary": "Dynamic and results-driven B.Tech Final year student with a Bachelor's degree in Information Technology. Proficient in programming languages such as Python, Java and SQL with a solid understanding of data structures and algorithms with hands-on experience through internships and academic projects. Strong problem-solving skills, a quick learner, and a team player with a passion for creating efficient and scalable software solutions. Seeking an entry-level position to apply technical skills and contribute to innovative projects in the software industry.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Mastered fundamental Python syntax, proficiently utilizing control flow, loops, functions, and data structures.",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learned about the HTML,CSS and JavaScript Functions and build Projects.",
+        "skillsLearned": [],
+        "title": "Introduction to Web Development with HTML, CSS, JavaScript (IBM)",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learned about the uses of NoSQL Database.",
+        "skillsLearned": [],
+        "title": "Introduction to NoSQL Databases (IBM)",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Gr. Noida, India",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.07",
+        "field_of_study": "Information Technology",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "ABC Public School",
+        "endDate": "April 2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary (10+2)",
+        "location": "Gorakhpur, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 82",
+        "field_of_study": "",
+        "startDate": "April 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CineStream",
+        "description": "Built a streaming platform using React.js, Node.js, Express.js, MongoDB Atlas, and Tailwind CSS. Integrated JWT-based authentication and designed a responsive UI for seamless user experience across devices. Developed features such as movie/TV show search, actor search, trailer viewing, and similar content recommendations. Implemented functionality for fetching movies, TV shows, search history, and more. Deployed the platform with scalability and performance enhancements using MongoDB Atlas.",
+        "keywords": [],
+        "endDate": "August 2024",
+        "startDate": "",
+        "url": "LINK"
+      },
+      {
+        "name": "WanderLust: Vacation Rental Destination",
+        "description": "Created a full-stack Airbnb clone using the MERN stack (MongoDB, Express.js, React.js, Node.js). Developed intuitive user interfaces with React.js for seamless property browsing and booking functionalities. Implemented secure user authentication using JWT (JSON Web Tokens) to protect user sessions. Utilized MongoDB for scalable data storage, ensuring optimal performance as the platform grows.",
+        "keywords": [],
+        "endDate": "April 2024",
+        "startDate": "February 2024",
+        "url": "LINK"
+      },
+      {
+        "name": "Potato Leaf Disease Detection",
+        "description": "Developed a system using machine learning and computer vision technique achieving over 98% accuracy in identifying diseases like late blight, early blight, and potato virus Y. Implemented a user-friendly interface allowing farmers to easily upload leaf images and receive disease diagnosis results. TensorFlow and OpenCV for model development and image processing, ensuring robust performance.",
+        "keywords": [],
+        "endDate": "March 2024",
+        "startDate": "January 24",
+        "url": "LINK"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "JAVA",
+      "Python",
+      "SQL",
+      "ReactJS",
+      "ExpressJS",
+      "Bootstrap",
+      "Pandas",
+      "Numpy",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Excel",
+      "PowerPoint",
+      "Knime",
+      "Tableau",
+      "MySQL",
+      "Git",
+      "Github",
+      "PyCharm",
+      "Jupyter Notebook",
+      "Visual Studio Code",
+      "Intellij IDEA"
+    ],
+    "soft_skills": [
+      "Rapport Building",
+      "Interpersonal Skills",
+      "People Management",
+      "Excellent communication"
+    ],
+    "name": "Vikas Verma",
+    "position": "Entry-level position",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed Internshala React training with a score of 92 percent and develop tic-tac-toe game.",
+      "Solving 150+ Problems on coding platforms like LeetCode, Coding Ninja, GFG.",
+      "Developing a Weather Forecast Device in Xmble-NIET, a tech-fest program and Secured 3rd rank.",
+      "Completed 6+ Coursera Certificates on Coursera."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

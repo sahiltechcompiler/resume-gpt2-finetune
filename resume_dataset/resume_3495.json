@@ -1,0 +1,156 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Anish Dubey",
+  "college": "Galgotias University",
+  "locations": [
+    "India",
+    "Agra, India",
+    "Remote, India"
+  ],
+  "full_output": {
+    "summary": "I'm Anish, a junior in Galgotias University pursuing BTech. in Computer Science and Engineering. I'm a passionate DevOps and OSS enthusiast crafting seamless development realms!",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
+        "issuer": "Microsoft Azure",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Galgotias University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology in CS",
+        "location": "India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Conrad's Inter College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Agra, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sky-Guardian",
+        "description": "A Weather Application built in Python. Django based web application. Utilizes OpenWeather API to display weather information. Leveraged containerization using Docker. Implements Infrastructure as Code using Terraform. Created Kubernetes manifests (deployment, service, etc.) specific to the Minikube environment. Implements a CI/CD pipeline: Source code managed on GitHub. Continuous Integration done using Jenkins. Deployment to DigitalOcean and AWS. Utilized GitHub Actions specifically for running unit tests as part of the CI/CD process.",
+        "keywords": [],
+        "endDate": "present",
+        "startDate": "2022/12",
+        "url": ""
+      },
+      {
+        "name": "AI-CLI",
+        "description": "A GPT Command Line Interface tool. Command Line Interface (CLI) project. Utilizes OpenAI's API. Built using the Golang programming language. Runs within a terminal environment. Uses GitHub for version control.",
+        "keywords": [],
+        "endDate": "present",
+        "startDate": "2023/01",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "DevOps Intern",
+        "skillsUsed": [
+          "Docker",
+          "AWS",
+          "Python",
+          "Django"
+        ],
+        "endDate": "2023/11",
+        "company_name": "Hiper Automotive",
+        "description": "Developing Comprehensive Dev Environments. Initiated Setup for Python Django Team. Future Implementation for ML Team. Utilizing Docker, AWS for Seamless Development.",
+        "location": "Remote, India",
+        "links": "",
+        "startDate": "2023/09"
+      },
+      {
+        "role_name": "Python/Django Development Intern",
+        "skillsUsed": [
+          "Python",
+          "AWS",
+          "Azure"
+        ],
+        "endDate": "2023/08",
+        "company_name": "Nyx Wolves",
+        "description": "Worked on a large python codebase of a UK based company. Figured out AWS dependencies. Worked on migrating the project to Azure Cloud.",
+        "location": "Remote, India",
+        "links": "",
+        "startDate": "2023/06"
+      },
+      {
+        "role_name": "Technical Lead",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Google Developer Students Club",
+        "description": "Gave a talk on 'Intro to DevOps' in an event hosted by GDSC attended by 650+ students. Served as a facilitator for 'Google Cloud Study Jams', assisting more than 75 students in learning google cloud technologies. Represented my club in more more than 10 offline events in the NCR region.",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Open Source Contributor",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "Script Winter Of Code-S, GSSoC', SSoC'",
+        "description": "",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Campus Ambassador",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Coding Ninjas, Internshala, Zuno by Monster",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "Golang",
+      "c/c++",
+      "Git",
+      "GitHub",
+      "Docker",
+      "Kubernetes",
+      "Amazon Web Services",
+      "Google Cloud Platform",
+      "DigitalOcean",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform"
+    ],
+    "soft_skills": [],
+    "name": "Anish Dubey",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 5.0,
+  "degree": "Bachelor of Technology in CS"
+}

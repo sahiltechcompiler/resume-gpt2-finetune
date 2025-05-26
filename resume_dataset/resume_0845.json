@@ -1,0 +1,180 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Development Engineer Intern",
+  "name": "Maninder Kumar Singh",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, Punjab",
+    "Najafgarh, Delhi",
+    "Gurugram, Haryana",
+    "Telangana, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DSA Self Paced",
+        "issuer": "GeeksforGeeks",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cybersecurity essentials",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DevOps",
+        "issuer": "CipherSchools",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Frontend",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Real Time Game Designing",
+        "issuer": "LPU",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Phagwara, Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.0",
+        "field_of_study": "CSE",
+        "startDate": ""
+      },
+      {
+        "school": "Adarsh Jain Dharmik Shiksha Sadan",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Najafgarh, Delhi",
+        "ID": 1.0,
+        "grade_received": "Percentage - 75%",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "M.D. Sr. Sec. School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Gurugram, Haryana",
+        "ID": 2.0,
+        "grade_received": "Grade Point - 9.0",
+        "field_of_study": "",
+        "startDate": "2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Netflix Clone - DevSecOps Project",
+        "description": "Implemented CI/CD pipeline using Jenkins for automated deployment. Integrated Trivy for vulnerability scanning and Dependency-Check for dependency analysis. Monitored application metrics using Prometheus and Grafana. Automated deployment using Docker and DockerHub.",
+        "keywords": [
+          "AWS",
+          "Jenkins",
+          "Github",
+          "Docker",
+          "SMTP"
+        ],
+        "endDate": "2023",
+        "startDate": "10",
+        "url": ""
+      },
+      {
+        "name": "VProfile: Multi Tier Web Application Stack",
+        "description": "Implemented and Automated web requests and responses of typical backend service. Tested and debugged the program to ensure accuracy and reliability. Gained an amazing learning experience while working on this project.",
+        "keywords": [
+          "Linux",
+          "AWS",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "2023",
+        "startDate": "02",
+        "url": ""
+      },
+      {
+        "name": "All in one Data Structures",
+        "description": "Engineered a synchronized implementation of core data structures and their Abstract Data Types (ADTs), ensuring optimized performance and seamless integration.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "2022",
+        "startDate": "08",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Engineer Intern",
+        "skillsUsed": [
+          "Selenium",
+          "Java",
+          "JBehave",
+          "Cucumber"
+        ],
+        "endDate": "Present",
+        "company_name": "Opentext",
+        "description": "Automated Testing: Developed and executed automated test scripts using Selenium and Java to ensure software quality and efficiency. Framework Implementation: Implemented and maintained testing frameworks with JBehave and Cucumber to streamline testing processes. Agile Collaboration: Actively participated in Agile methodologies, contributing to daily stand-ups, sprint planning, and team collaboration and KTs. Test Documentation: Created comprehensive test plans, test cases, and reports to document testing efforts and outcomes.",
+        "location": "Telangana, India",
+        "links": "",
+        "startDate": "04 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "Selenium",
+      "JBehave",
+      "MySQL",
+      "Gitlab",
+      "Testing Methodologies",
+      "Automated Testing"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Time Management",
+      "Presentation Skills"
+    ],
+    "name": "Maninder Kumar Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

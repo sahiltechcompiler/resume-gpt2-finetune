@@ -1,0 +1,121 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Developer Intern",
+  "name": "Sarthak Mittal",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "New Delhi, India",
+    "Jaipur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.318",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce",
+        "description": "Developed an e-commerce app with React and Redux, enabling product listing, dynamic price calculation, and interactive shopping cart management. Utilized React Router and @reduxjs/toolkit for efficient state management and seamless navigation, enhancing overall user experience.",
+        "keywords": [
+          "React",
+          "Redux"
+        ],
+        "endDate": "August 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Social Media Sentiment Analysis",
+        "description": "Constructed a data analysis pipeline with Pythons Pandas to process and visualize social media trends, delivering actionable insights that informed marketing campaigns; directly influenced content strategy for 5 major product launches. Utilized advanced data visualization tools (Matplotlib, Seaborn) to effectively present complex insights, enhancing clarity and impact.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Secure Vault",
+        "description": "Engineered a decentralized file system utilizing Pinata IPFS storage technology, integrated with the Tezos blockchain to significantly improve transaction efficiency and security. Implemented smart contracts using SmartPy, which significantly enhanced security and operational efficiency within the blockchain environment.",
+        "keywords": [
+          "Pinata",
+          "IPFS",
+          "Tezos",
+          "SmartPy"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "April 2024",
+        "company_name": "Cyrus Technoedge",
+        "description": "Collaborated with the web development team to learn advanced design techniques for creating visually appealing websites. Enhanced website performance by optimizing load times and improving code efficiency, resulting in a significant increase in site speed. Integrated RESTful APIs using [specific technologies, e.g., Node.js, Express, MongoDB] to dynamically fetch and display real-time data, boosting web application interactivity and enhancing user engagement by 30%.",
+        "location": "Jaipur, India",
+        "links": "",
+        "startDate": "September 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "JAVA",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "Node.JS",
+      "MongoDB",
+      "SQL",
+      "DBMS",
+      "Operating Systems",
+      "Data Structures",
+      "Algorithms",
+      "MySQL",
+      "Object Oriented Programming"
+    ],
+    "soft_skills": [],
+    "name": "Sarthak Mittal",
+    "position": "",
+    "interests": [
+      "Web Development",
+      "Creative Writing",
+      "Data Analysis",
+      "Quality Assurance",
+      "Software Testing"
+    ],
+    "achievements_and_awards": [
+      "Earned 2nd place in the Tezos India Sponsored Track."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": ""
+}

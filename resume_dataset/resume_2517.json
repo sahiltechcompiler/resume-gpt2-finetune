@@ -1,0 +1,115 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ANKIT MISHRA",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "Computer Science Engineer specializing in full-stack development with strong skills in data structures and algorithms. Proficient in MERN stack. Dedicated to creating efficient software solutions and continuous learning.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.7/10",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "DAV Public School, Bistupur",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "DAV Public School, Bistupur",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Flavour Fusion - The Foodcourt App",
+        "description": "Spearheaded the development of a robust Full-Stack MERN application, emphasizing secure authentication and dynamic menu management. Implemented advanced user registration and authentication systems, leveraging JWT tokens for secure user sessions, including refresh and access tokens, and successfully handled over 10,000 user authentications monthly. Integrated secure file upload functionality using Multer and Cloudinary, prioritizing a seamless user experience. Enhanced overall security measures with bcrypt, and employed React Redux and Tailwind CSS for efficient development practices, seamlessly integrating Razorpay for secure payment transactions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mystery Inbox",
+        "description": "Led the development of Mystery Inbox, an anonymous messaging app, utilizing NEST.js for the backend and NEST.js with ShadowCSS and TailwindCSS for the frontend, with TypeScript. Implemented robust user verification mechanisms, including Auth0 integration and OTP verification with resend mail functionality using Nodemailer. Leveraged MongoDB as the database backend, optimizing data processing efficiency and seamlessly integrating the OpenAI API for intelligent message suggestions to enhance user engagement.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SMS Spam Detection",
+        "description": "Developed a high-accuracy SMS spam detection model (LSTM in TensorFlow) achieving a classification accuracy of 92.4%, reducing spam message volume by 78.2%. Increased spam message classification accuracy by 30% using a Long Short-Term Memory (LSTM) neural network implemented in TensorFlow.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web3",
+      "Bootstrap",
+      "React",
+      "Nest.js",
+      "Express.js",
+      "Tailwind CSS",
+      "Node.js",
+      "MySQL",
+      "Oracle",
+      "MongoDB",
+      "Git",
+      "Microsoft Excel"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Problem-solving",
+      "Communication"
+    ],
+    "name": "ANKIT MISHRA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved over 800 data structure and algorithm questions across multiple platforms, including LeetCode, Coding Ninja, and Codeforces.",
+      "Demonstrated competitive prowess by achieving a notable ranking of 1100 in Codeforces.",
+      "Successfully secured the 150th rank in Campus Beats among 1000 participants."
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

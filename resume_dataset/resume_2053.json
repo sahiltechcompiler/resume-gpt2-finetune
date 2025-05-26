@@ -1,0 +1,152 @@
+{
+  "project_count": 3.0,
+  "designation": "Senior Coordinator",
+  "name": "Hari Bhajan Singh",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Ballia, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.676 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": "Dec 2020"
+      },
+      {
+        "school": "Manasthali Education Centre",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "76.6 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Inventory Management System",
+        "description": "Developed and implemented inventory management system to optimize stock control and streamline inventory process. Collaborated with cross-functional teams including procurement and sales to ensure adequate stock levels to meet customer demands as well as developed and maintained comprehensive inventory reports and dashboards for management, enabling data driven decision -making.",
+        "keywords": [
+          "React.js",
+          "Redux",
+          "NodeJs",
+          "Express Js",
+          "API",
+          "MongoDB",
+          "JWT",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Deployed Link"
+      },
+      {
+        "name": "MotionTalk",
+        "description": "Implemented machine learning algorithms through a user-friendly interface to recognize and interpret Indian Sign Language gestures, enabling seamless communication between hearing and non-hearing individuals.",
+        "keywords": [
+          "CNNs",
+          "Python",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Productivity List",
+        "description": "Developed a robust task log that maintains a list of your daily chores which can be categorized into two categories i.e. business or personal. Implemented object-oriented programming practices such as inheritance to create different account types and databases.",
+        "keywords": [
+          "VSCode",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Responsive Web Design",
+          "Netlify deployment"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Deployed Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [
+          "C++",
+          "Python",
+          "Data Structures and Algorithms",
+          "OOPs"
+        ],
+        "endDate": "Jun 2023",
+        "company_name": "FireBond",
+        "description": "Ensured robust security and protection of user data by implementing comprehensive authentication features across the entire website. Employed React Router to create dynamic routing techniques, enabling seamless navigation between various sections of the website enhancing the user experience. Developed APIs for multiple social media platforms including Discord, Telegram, Twitter and Twitch analytics, while also rigorously testing all functionalities through unit test cases.",
+        "location": "Ballia, Uttar Pradesh",
+        "links": "",
+        "startDate": "Mar 2018"
+      },
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [
+          "C++",
+          "Python",
+          "Data Structures and Algorithms",
+          "OOPs"
+        ],
+        "endDate": "Jul 2022",
+        "company_name": "Coding Ninjas & Chegg",
+        "description": "Resolved 125+ student inquiries on Data Structures & Algorithms, mentoring 30+ students in the course. Provided personalized debugging assistance, improving the student code accuracy by 20%.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "Object Oriented Programming (OOPs)",
+      "Python",
+      "SQL",
+      "C",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [
+      "Solution Architect",
+      "Presentation Delivery",
+      "Leadership",
+      "Anchor",
+      "Event and Time Management"
+    ],
+    "name": "Hari Bhajan Singh",
+    "position": "Senior Coordinator",
+    "interests": [],
+    "achievements_and_awards": [
+      "Contributor at GSSOC23,SSOC23 and worked on various tech such as C++, Python, React.js,Figma and web-content.",
+      "Community Volunteer and Event Management at a non-profit organization, Slum Swaraj Foundation (SSF), Ghaziabad.",
+      "Achieved first place in the National Level Technical Paper Presentation on CyberSecurity in The Age Of Blockchain.",
+      "Solved over 600+ DSA problems across multiple coding platforms.",
+      "Finalist at the national level hackathon, RAJ IT hackathon 2023.",
+      "Secured 2nd position in the debate competition at the AKTU zonal level."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2020.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

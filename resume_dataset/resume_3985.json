@@ -1,0 +1,94 @@
+{
+  "project_count": 3.0,
+  "designation": "Backend Developer",
+  "name": "Suru Abhisekh",
+  "college": "Vignans Institute of Information Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vignans Institute of Information Technology",
+        "endDate": "Jun. 2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.7/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ChitChatHub",
+        "description": "ChitChatHub is a comprehensive chat application featuring real-time messaging, allowing users to send and receive messages instantly. It includes an admin dashboard for tracking messages and user activities, providing administrators with valuable insights and control. Group chats enable users to create and manage group conversations effortlessly. Media sharing functionality allows users to share images, videos, and files seamlessly. Additionally, the notification system ensures users are promptly notified about new messages and activities.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Repo"
+      },
+      {
+        "name": "YouTube Studio",
+        "description": "Developed a YouTube Studio-like platform with a robust set of features, including user registration, profile management, and content management. Implemented key functionalities such as user authentication (JWT), token management (refresh and access tokens), password management, profile customization (avatar, cover image), and activity tracking (watch history). Used Node.js, Express, MongoDB, JWT, Multer, and Cloudinary for key functionalities.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Repo"
+      },
+      {
+        "name": "Collaborative Document Editing System",
+        "description": "Collaborative Editing: Effortlessly work with others on the same document. Database Connectivity: Connects to a database to store and retrieve user and task information, ensuring data persistence. Periodic Data Saving: Automatically saves document data every 2 seconds, providing a consistent and reliable user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Repo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Kushel Digi Solutions",
+        "description": "Developed and maintained backend components for multiple projects using the MERN stack (MongoDB, Express.js, React, Node.js). Led the development of an HR management system, including modules for announcements, user management, HR functionalities, admin controls, and attendance tracking etc. Performed code reviews, debugging, and optimization to ensure code quality and efficiency. Contributed to the design and architecture of new features, improving system scalability and maintainability.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "SQL",
+      "MongoDB",
+      "Redux",
+      "Next.js",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Problem solving",
+      "Git",
+      "Postman",
+      "AWS",
+      "Docker"
+    ],
+    "soft_skills": [],
+    "name": "Suru Abhisekh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

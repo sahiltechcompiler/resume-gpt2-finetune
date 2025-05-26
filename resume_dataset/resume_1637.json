@@ -1,0 +1,138 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shivam Mehta",
+  "college": "Guru Tegh Bahadur Institute of Technology, Delhi",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology, Delhi",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.3/10 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Bal Bharati Public School, New Delhi",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.4/100 percent",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bal Bharati Public School, New Delhi",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "95/100 percent",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CryptoX",
+        "description": "A dynamic and scalable project deployed on Netlify. It uses Api to fetch data and presents data in real time using various JavaScript libraries.",
+        "keywords": [
+          "ReactJs",
+          "ChartJS",
+          "HTML",
+          "CSS",
+          "MaterialUI",
+          "CoinGeckoAPI"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "Jan 2024",
+        "url": "Visit Project"
+      },
+      {
+        "name": "Nike Landing Page",
+        "description": "A responsive landing page deployed on Netlify. Designed and implemented to hone my styling and Reactjs skills.",
+        "keywords": [
+          "ReactJs",
+          "HTML",
+          "CSS",
+          "MaterialUI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Visit Project"
+      },
+      {
+        "name": "Dynamic Blog",
+        "description": "A state-managed blogging app that allows CRUD operations to the authenticated users only. Extensively uses Redux and React hooks to manage state.",
+        "keywords": [
+          "ReactJs",
+          "Redux",
+          "HTML",
+          "CSS",
+          "Tailwind"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "Jan 2024",
+        "url": "Visit Project"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern(frontend)",
+        "skillsUsed": [
+          "React.js",
+          "HTML",
+          "CSS",
+          "MongoDB"
+        ],
+        "endDate": "Mar 2024",
+        "company_name": "Web-Fixxer",
+        "description": "Worked on creating two freelance projects in reactJS. Finding leads and communicating with the clients for requirement specification. Stack used: React.js for UI, HTML, CSS(Tailwind), MongoDB for storage.",
+        "location": "Hybrid",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "java",
+      "html",
+      "c++",
+      "sql",
+      "Reactjs(Intermediate)",
+      "CSS",
+      "Tailwind",
+      "Bootstrap",
+      "APIs",
+      "MaterialUI",
+      "redux(beginner)"
+    ],
+    "soft_skills": [],
+    "name": "Shivam Mehta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "HeadBoy in School for the Senior Secondary wing from 2018 to 2019 leading a team of 15 office-bearers.",
+      "Head of Dramatics Society in high School",
+      "PR-head in College Theater Society - ETCETERA",
+      "Event Manager in College Debating Society - DLang Chaps"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

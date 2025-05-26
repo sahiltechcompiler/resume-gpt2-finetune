@@ -1,0 +1,106 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Pavan Kumar Gulimi",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "A fourth-year B.Tech student in Computer Science and Engineering at SRM University, AP, specializing in Artificial Intelligence (AI) and Machine Learning (ML). I have a strong passion for programming and developing innovative solutions using various languages and technologies.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "State Board",
+        "startDate": "2019"
+      },
+      {
+        "school": "Narayana EM High School",
+        "endDate": "2019",
+        "maximum_grade": "Marks: 948/1000 (GPA: 10.0)",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 8.27",
+        "field_of_study": "State Board",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Panoptic Segmentation for Medical Diagnosis",
+        "description": "The project named Panoptic Segmentation for Medical Diagnosis, aims to enhance segmentation accuracy through an innovative approach to nuclei segmentation in medical image analysis, utilizing panoptic segmentation techniques. I worked with datasets such as MoNuSeg, MoNuSAC, and the 2018 Data Science Bowl for nuclei segmentation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Full stack project",
+        "description": "Developed a comprehensive full-stack application using React for the frontend, Node.js for the back-end, and MySQL for the database. The application enables users to filter laptops based on various specifications such as brand, operating system, and RAM. Additionally, users are categorized into three groups - Beginner, Intermediate, and Pro - each with tailored specification filters.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Event Management System",
+        "description": "Created a Java GUI-based project that demonstrates basic event management principles through a user input program. Users authenticate themselves with details stored in a MySQL database. After the authentication, users can enter event types and details, with the system ensuring that only one event can be booked for a particular date, thereby enhancing the efficiency of event scheduling. These event details are then stored in the database.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "CodeSwap Solutions",
+        "description": "Developed and implemented web pages using HTML, CSS, JavaScript, and PHP during a two-month internship with CodeSwap Solutions, contributing to successful project completion and gaining valuable web development skills.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "MongoDB",
+      "Express.js",
+      "React",
+      "Node.js"
+    ],
+    "soft_skills": [],
+    "name": "Pavan Kumar Gulimi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

@@ -1,0 +1,203 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Naga Venkata Yaswanth Lankadasu",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Jalandhar, Punjab",
+    "Tadepalligudem, Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Mastered advanced competitive programming techniques and algorithms, enhancing problem-solving skills through hands-on challenges.",
+        "skillsLearned": [],
+        "title": "Competitive Programming Mastery",
+        "issuer": "Cipherschools",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Gained comprehensive knowledge of computational theory, including automata, formal languages, and complexity theory.",
+        "skillsLearned": [],
+        "title": "The Complete Theory of Computation",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Explored key concepts of memory management, process scheduling, and system architecture, foundation for system-level programming.",
+        "skillsLearned": [],
+        "title": "Introduction to Hardware and Operating Systems",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jalandhar, Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.61",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Bharatiya Vidya Bhavans Residential Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th with Science",
+        "location": "Tadepalligudem, Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "Percentage: 86%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Bharatiya Vidya Bhavans Residential Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th with Science",
+        "location": "Tadepalligudem, Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "Percentage: 67.6%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Comprehensive Stock Portfolio Analysis with Tableau",
+        "description": "Designed a comprehensive stock portfolio analysis tool in Tableau, integrating 500+ data points to track and visualize market trends; the tool is now utilized by 10+ investment analysts for strategic planning. Developed a financial metrics framework that tracked performance indicators like profit/loss and market value, which improved quarterly financial reporting accuracy by 25% and enabled more informed investment decisions.",
+        "keywords": [
+          "MySQL",
+          "Tableau"
+        ],
+        "endDate": "Aug 2024",
+        "startDate": "Jun 2024",
+        "url": "https://github.com/yaswanth-github/Stock-Portfolio"
+      },
+      {
+        "name": "Developed Project-Based Learning Platform for Enhanced Online Experience",
+        "description": "Developed and implemented real-world projects using Java and React.js, enhancing practical knowledge and application of these technologies. Strengthened programming skills by collaborating on complex projects, resulting in a 25% increase in code efficiency. Gained hands-on experience in full-stack development, contributing to projects that improved user engagement and functionality by 30%.",
+        "keywords": [
+          "Java",
+          "Full Stack",
+          "React"
+        ],
+        "endDate": "Jun 2024",
+        "startDate": "Oct 2023",
+        "url": "https://github.com/yaswanth-github/EchoXperience"
+      },
+      {
+        "name": "Symptom-based Disease Detection Algorithm",
+        "description": "Implemented an innovative website utilizing symptom-based disease detection algorithms, resulting in a 40% reduction in misdiagnosis and improved patient outcomes. Leveraged ML, Python, Django, and REST API for website development, contributing to a 40% reduction in response time and a 25% increase in user engagement through enhanced data analysis capabilities. Conducted rigorous testing and validation, increasing prediction accuracy and data-driven decision-making by 25%.",
+        "keywords": [
+          "Python3",
+          "Machine Learning",
+          "Linux",
+          "Django",
+          "REST API"
+        ],
+        "endDate": "Oct 2023",
+        "startDate": "Sep 2023",
+        "url": "https://github.com/yaswanth-github/AyurBharat"
+      },
+      {
+        "name": "Exploratory Data Analysis of Suicide Trends in India",
+        "description": "Analyzed sizable datasets using advanced statistical techniques, uncovering key insights that drove strategic decision-making and increased customer retention by 15%. Strengthened data analysis skills through effective management and analysis of large datasets, resulting in a 20% increase in accuracy and 30% improvement in efficiency.",
+        "keywords": [
+          "Exploratory Data Analysis",
+          "Python3",
+          "Machine Learning"
+        ],
+        "endDate": "Oct 2023",
+        "startDate": "Aug 2023",
+        "url": "https://github.com/yaswanth-github/EDA-on-Suicides-in-India"
+      },
+      {
+        "name": "Cross-Platform Mobile App Development with Flutter for iOS and Android",
+        "description": "Led the development of a cross-platform healthcare mobile app for iOS and Android, focusing on creating a comprehensive blood donation platform to address critical healthcare needs. Proficiently managed version control using Git throughout the development of lifecycle, resulting in 97% code stability and 30% faster issue resolution.",
+        "keywords": [
+          "Flutter",
+          "MySQL",
+          "Figma",
+          "Dart",
+          "GitHub"
+        ],
+        "endDate": "Jul 2023",
+        "startDate": "Jun 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Researcher",
+        "skillsUsed": [
+          "NLP",
+          "AI",
+          "Chatbot"
+        ],
+        "endDate": "Jul 2024",
+        "company_name": "Patient Sickness Predictive System Using Chatbot",
+        "description": "Designed an AI-driven medical chatbot for sickness prediction and medication recommendation using natural language processing (NLP). The study compared decision trees and support vector machine (SVM) algorithms, with SVM achieving superior accuracy of around 97%.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2024"
+      },
+      {
+        "role_name": "Researcher",
+        "skillsUsed": [],
+        "endDate": "Jan 2024",
+        "company_name": "Skin Cancer Classification using a Convolutional Neural Network: An Exploration into Deep Learning",
+        "description": "Optimized and enhanced CNN architectures for dermatoscopic image analysis, focusing on data preprocessing, model design, and performance tuning to achieve superior model accuracy and efficiency. Gained expertise in experimental design, data collection, and analysis, effectively deriving actionable insights and conclusions from research findings.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C",
+      "HTML and CSS",
+      "Bootstrap",
+      "NodeJS",
+      "React",
+      "MySQL",
+      "SQLite",
+      "Git/GitHub",
+      "Tableau",
+      "PowerBI"
+    ],
+    "soft_skills": [
+      "Team Collaboration",
+      "Project Management"
+    ],
+    "name": "Naga Venkata Yaswanth Lankadasu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "One among Deans top 10% students at University",
+      "Selected Among 120 Teams in Smart India Hackathon",
+      "Secured 2nd Prize in Ideathon",
+      "Google Crowdsource top contributors"
+    ],
+    "publications": []
+  },
+  "current_location": "Kovvur, Andhra Pradesh, 534350",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

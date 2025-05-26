@@ -1,0 +1,171 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "GOKUL R",
+  "college": "Chennai Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Complete Machine Learning and Data Science BootCamp-2023",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Certified Network Associate",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.99",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "Nov 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Shopping Store",
+        "description": "This MERN stack e-commerce application allows users to browse, add to cart, and purchase products with Braintree payment processing. Admins can manage products, categories, and view orders. Implemented advanced search functionality allowing users to find products based on categories, price range, and ratings. Built a secure user authentication system with JWT for user login, registration, and role-based access control.",
+        "keywords": [
+          "ReactJS",
+          "MongoDB",
+          "NodeJS",
+          "ExpressJS",
+          "Material UI"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Bite Buddy",
+        "description": "Developed a MERN stack food delivery application enabling users to search and order food from specific restaurants, with secure Stripe payment integration. Implemented features such as order tracking, order history, and a dedicated admin page to manage products, categories, and orders.",
+        "keywords": [
+          "ReactJS",
+          "ViteJS",
+          "MongoDB",
+          "NodeJS",
+          "ExpressJS"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Become Programmer",
+        "description": "Developed a web application, DSA ToDO Solver, to track progress and manage a list of solved problems in Data Structures and Algorithms (DSA). Implemented using ReactJS for user interface and functionality, providing features to track progress, manage problem-solving status, and maintain a list of solved problems.",
+        "keywords": [
+          "ReactJS",
+          "MySQL",
+          "NodeJS"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "VaxEase",
+        "description": "Developed a web application for COVID vaccine slot booking, enabling users to book slots and receive confirmation emails for successfully booked slots. Implemented features to generate tokens for slots with user-selected time and date, along with user data validation. Hosted the application on Render and AWS.",
+        "keywords": [
+          "ReactJS",
+          "MySQL",
+          "NodeJS"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJS"
+        ],
+        "endDate": "Dec 2023",
+        "company_name": "Codsoft pvt ltd",
+        "description": "Contributed to various projects, enhancing proficiency in web development. Acquired skills in HTML, CSS, JavaScript, and ReactJS, refining coding abilities, and gaining practical experience in front-end development. Learned about responsive design, web accessibility, and version control with Git.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov 2023"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "Oasis Infobyte",
+        "description": "Across all projects, achieved accuracies ranging from 75 to 98%, indicating robust performance in data analysis and predictive modeling tasks. Demonstrated consistent success in accurately classifying iris flower species, predicting sales prices, showcasing proficiency in various aspects of data science and machine learning techniques.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL",
+      "C",
+      "VS Code",
+      "Eclipse",
+      "AWS",
+      "Android Studio",
+      "Linux",
+      "Github",
+      "ReactJS",
+      "Git",
+      "NodeJS",
+      "Docker",
+      "TailwindCSS",
+      "Django"
+    ],
+    "soft_skills": [],
+    "name": "GOKUL R",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Finalist in Internal College Codathon [H@CIT-2024] - Feb 2024 - Mar 2024",
+      "400+ Problems in Leetcode and actively participating in weekly contests with a rating of 1500.",
+      "300+ Problems in Codechef and actively participating in weekly contests with a rating of 807.",
+      "50+ Problems in CodeForces and actively participating in weekly contests with a rating of 858.",
+      "50+ Problems in Coding Ninjas and actively participating in weekly contests with a rating of 1723."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

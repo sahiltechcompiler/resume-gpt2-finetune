@@ -1,0 +1,144 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sameer Ahmed",
+  "college": "IIIT ALLAHABAD",
+  "locations": [
+    "Noida, UP",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "IIIT ALLAHABAD",
+        "endDate": "Jun. 2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.3 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Kalka public school",
+        "endDate": "Apr. 2019",
+        "maximum_grade": "",
+        "degree": "Class 12 (CBSE)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83.6 Percentage",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kalka public school",
+        "endDate": "Apr. 2017",
+        "maximum_grade": "",
+        "degree": "Class 10 (CBSE)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "8.6 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Trading Bot",
+        "description": "Built a data-driven trading bot that automates strategies to boost execution speed, accuracy, and investment returns.",
+        "keywords": [],
+        "endDate": "Jun 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Medical Image Segmentation using Meta Transfer Learning",
+        "description": "Developed a medical image segmentation system using meta transfer learning, significantly improving accuracy and efficiency to support diagnostic and treatment processes.",
+        "keywords": [],
+        "endDate": "Apr 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Thai ID Recognition App",
+        "description": "Created a Thai ID recognition web app using the Google Vision API to accurately validate and verify the authenticity of Thai identification numbers.",
+        "keywords": [],
+        "endDate": "Oct 2023",
+        "startDate": "Sept 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Quant Developer",
+        "skillsUsed": [
+          "Computer Network",
+          "Network Security",
+          "Software Engineering",
+          "Machine Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Deep Learning",
+          "Artificial Intelligence"
+        ],
+        "endDate": "Jun 2024",
+        "company_name": "Mudraksh and McShaw",
+        "description": "Created and implemented cutting-edge quantitative models in Python and C++ to drive data-driven investment decisions. Enhanced model performance through backtesting and collaboration with traders while staying updated on advancements in quantitative finance and machine learning.",
+        "location": "Noida, UP",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "Custom GPT Developer",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "Upwork",
+        "description": "Crafted and fine-tuned tailored GPT models for clients, enhancing performance across applications like chatbots and content generation.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design",
+      "Git",
+      "HTTP/HTTPS",
+      "RESTful APIs",
+      "React",
+      "Node.js",
+      "SQL",
+      "Debugging",
+      "Python",
+      "R",
+      "Data Visualization",
+      "Statistical Analysis",
+      "Machine Learning",
+      "Data Cleaning",
+      "Exploratory Data Analysis (EDA)",
+      "Data Wrangling",
+      "Jupyter Notebooks"
+    ],
+    "soft_skills": [],
+    "name": "Sameer Ahmed",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "WorldQuant Silver Certificate",
+      "3-star rating on CodeChef, 1400+ rating on Codeforces, 450+ questions solved on LeetCode, 60+ on GeeksforGeeks, and 60+ on Coding Ninjas.",
+      "Achieved a JEE Main rank of 9473, demonstrating strong proficiency in physics, chemistry, and mathematics."
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi- 110062",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

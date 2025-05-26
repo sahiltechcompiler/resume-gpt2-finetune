@@ -1,0 +1,103 @@
+{
+  "project_count": 3.0,
+  "designation": "Mobile Developer intern",
+  "name": "Divyanshu Sharma",
+  "college": "AJAY KUMAR GARG ENGINEERING COLLEGE",
+  "locations": [
+    "GHAZIABAD",
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "AJAY KUMAR GARG ENGINEERING COLLEGE",
+        "endDate": "07/2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "GHAZIABAD",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "11/2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Zingvel Travels",
+        "description": "React Native Development: Built and optimized the travel app's UI using React Native and TypeScript, integrating and testing RESTful APIs for reliable backend communication. Testing and Optimization: Used JEST for comprehensive testing and employed advanced technologies like Redux and React Navigation to enhance app performance. Collaborative Development: Worked with Git for version control and coordinated with cross-functional teams to maintain code integrity and drive continuous improvement.",
+        "keywords": [
+          "React Native",
+          "TypeScript",
+          "RESTful APIs",
+          "JEST",
+          "Redux",
+          "React Navigation",
+          "Git"
+        ],
+        "endDate": "06/2024",
+        "startDate": "03/2024",
+        "url": ""
+      },
+      {
+        "name": "Password Generator",
+        "description": "Built a password generator using React-Native, with the integration of libraries such as formik, Yup packages, BouncyCheck box.",
+        "keywords": [
+          "React-Native",
+          "formik",
+          "Yup"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MovieZod",
+        "description": "Built a movie watching app using api integration with the feature of the casted actors personal details.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Mobile Developer intern",
+        "skillsUsed": [],
+        "endDate": "06/2024",
+        "company_name": "ZingVel",
+        "description": "",
+        "location": "Noida",
+        "links": "",
+        "startDate": "03/2024"
+      }
+    ],
+    "skills": [
+      "Android",
+      "CSS",
+      "JavaScript",
+      "Mobile Application Development",
+      "Programming",
+      "React Native",
+      "Software Testing(JEST)",
+      "TypeScript",
+      "RESTful APIs",
+      "REDUX",
+      "ETL Concepts",
+      "JavaScript/jQuery"
+    ],
+    "soft_skills": [],
+    "name": "Divyanshu Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

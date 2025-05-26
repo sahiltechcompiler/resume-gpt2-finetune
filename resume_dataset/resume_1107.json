@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anurag Kumar",
+  "college": "KIET Group of Institutions(AKTU)",
+  "locations": [
+    "Ghaziabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate",
+        "issuer": "AWS Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The complete 2022 web development BootCamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions(AKTU)",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CS",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "QuickBite",
+        "description": "Engineered a full-stack food ordering platform featuring essential functionalities such as a cart, comprehensive menu listings, and seamless order processing. Utilized Redux for efficient cart management, Stripe for secure payment processing, and demonstrated dynamic frontend skills by implementing React for the dynamic display.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "MongoDB",
+          "Redux",
+          "Stripe",
+          "Docker"
+        ],
+        "endDate": "Present",
+        "startDate": "Aug, 2023",
+        "url": ""
+      },
+      {
+        "name": "Eazy-Event",
+        "description": "Developed a fully responsive full-stack web application for event creation, management, task assignment, and tracking. Showcased my database proficiency by implementing MySQL, and seamlessly integrated an attendance marking system.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "MySQL",
+          "ExpressJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat-it",
+        "description": "Pioneered a user-friendly real-time chatting app with secure user login functionality and robust database integration, ensuring seamless communication and data management.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Mongodb",
+          "Express.js",
+          "Socket.io",
+          "JWT auth"
+        ],
+        "endDate": "Apr, 2023",
+        "startDate": "Dec, 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Operations and Web Coordinator",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Technocrats",
+        "description": "Conducted a React boot camp for a sizable group of over 75 students, delivering comprehensive instruction on fundamental concepts, including React basics, React components, hooks, and Redux. Organised a successful Web 3.0 Sangam event in collaboration with Sudans tech community, attracting over 100 enthusiastic students and featuring a lineup of distinguished speakers.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun, 2023"
+      },
+      {
+        "role_name": "Web Coordinator",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "DSC KIET",
+        "description": "Developed an event specific website for Hackathon (SprintHacks) organized by the community which attracted 14k+ users expanding the reach of the event. Supervised as the Student Management Coordinator for Sprinthacks, a national-level hackathon, overseeing leadership logistics and student engagement. Spearheaded the highly acclaimed WeMakeDevs Delhi Meetup with 400+ participants creating an engaging platform for collaboration and knowledge-sharing.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr, 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Javascript",
+      "Python",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Redux",
+      "Tailwind CSS",
+      "Jest",
+      "NodeJS",
+      "ExpressJS",
+      "MySQL",
+      "mongoDB",
+      "PostgreSQL",
+      "Docker",
+      "Git and GitHub",
+      "CI/CD",
+      "Linux",
+      "Visual Studio Code"
+    ],
+    "soft_skills": [],
+    "name": "Anurag Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved More than 200 DSA Problems in C++ across several platforms.",
+      "Authored more than 5 blogs, reaching over 5,000 readers."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

@@ -1,0 +1,138 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "AKHIL PONUGUBATI",
+  "college": "SRM University",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.83",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Jupiter Junior College",
+        "endDate": "Mar 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 92",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bhashyam High School",
+        "endDate": "Mar 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ecommerce Website",
+        "description": "Developed using the MERN stack enabling seamless integration between front-end and back-end components resulting in a 30% improvement in development efficiency. Established secure user authentication and authorization mechanisms with JWT and bcrypt, ensuring robust protection for user data and secure access control reducing unauthorized access attempts by 50%. Implemented a shopping cart system, allowing users to add, remove, and update items, and checkout process integrating with payment gateways with Razorpay for secure transactions.",
+        "keywords": [
+          "React JS",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "RazorPay"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Mini-voice-Assistant",
+        "description": "Developed a voice-activated personal assistant to perform various tasks using speech recognition. Utilized libraries and tools including SpeechRecognition, Pyttsx3, Google Text-to-Speech API capable of performing tasks such as setting reminders, fetching weather updates, and youtube videos.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Stock Management System",
+        "description": "Created an interactive and user-friendly Stock Management System using Java Swing to manage inventory efficiently, allowing users to perform CRUD (Create, Read, Update, Delete) operations on stock items. Utilized JDBC to connect the application to a MySQL database, ensuring robust data storage and retrieval, significantly improving data accuracy by 30%. Performed unit testing and debugging, resulting in 40% increase in application reliability and performance.",
+        "keywords": [
+          "Java",
+          "Java Swing",
+          "JDBC",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "APSSDC",
+        "description": "Developed and maintained a full stack web application using Django as the backend framework and HTML, CSS and Bootstrap for front end framework. Managed data storage with Django ORM implemented user authentication and authorization using Djangos built-in user model.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "React JS",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Postman",
+      "Data Structures and Algorithms",
+      "Problem Solving",
+      "Object-Oriented Programming",
+      "Operating systems",
+      "Computer networks",
+      "DBMS",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "AKHIL PONUGUBATI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "300+ problems solved across all coding platforms.",
+      "Hackerrank certified 3 stars in problem-solving and 4 stars in c, c++.",
+      "Secured 5434th rank in AP engineering entrance test among 1.75L students."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

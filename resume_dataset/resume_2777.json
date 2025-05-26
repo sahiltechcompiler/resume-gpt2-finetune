@@ -1,0 +1,131 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "Vyshnavi Sarvepalli",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "As a student pursuing Bachelors degree in Electronics and communication engineering , my aim is to advance my career with in IT or Core sectors by offering different ideas and high quality work to contribute to the growth of organizations in these fields.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "VLSI-Design and Verification",
+        "issuer": "Tessolve",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS - Cloud Computing",
+        "issuer": "APSSDC",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Electronics and communication engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "97.6/100",
+        "field_of_study": "State Board",
+        "startDate": ""
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.8/10",
+        "field_of_study": "SSC Board",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Bulk emailing system using AWS pinpoint Service",
+        "description": "Designing a streamlined approach for bulk email distribution involves first verifying the email address. Subsequently, the validate email recipient list will be stored in S3 in CSV format for convenient access. This stored filed can be seamlessly integrated into Amazon pinpoint for crafting emails, scheduling delivery and monitoring the timeline. This ensures that recipients listed in the CSV file receive email efficiently.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Digital Electronics",
+          "Verilog",
+          "Vivado",
+          "EDA Playground"
+        ],
+        "endDate": "July 2023",
+        "company_name": "VLSI-Design and Verification",
+        "description": "Proficiency in Digital Electronics and Verilog. Skilled in Sequential and Combinational Circuit Design. Adept at utilizing Vivado software and EDA online playground for design and simulation. Able to apply knowledge to effectively develop and analyze circuits for different applications.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "AWS",
+          "EC2",
+          "CloudWatch",
+          "SNS",
+          "website hosting"
+        ],
+        "endDate": "August 2023",
+        "company_name": "AWS - Cloud Computing",
+        "description": "Dynamic Website Hosting, EC2 instance with linux and Ubuntu. Static Website Hosting, IP Configurations, VPC Peering. Expertise in email verification, including AWS Pinpoint. Comprehensive understanding of AWS S3 storage management and CSV file handling. Knowledgeable in various AWS services: EC2, CloudWatch, SNS, and website hosting (static and dynamic).",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Linux",
+      "HDL",
+      "Verilog",
+      "VHDL",
+      "System Verilog",
+      "Cadence",
+      "Xilinix-Vivado"
+    ],
+    "soft_skills": [],
+    "name": "Vyshnavi Sarvepalli",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

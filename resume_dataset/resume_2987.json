@@ -1,0 +1,143 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Nikhil Jaiswal",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, India",
+    "Varanasi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Computer Society of India, AKGEC Chapter: Conducted Offline Coding competition CodeShell 3.0 engaging over 100 students. CodeShell is a Competitive Programming event complemented by workshops and seminars aimed at enhancing technical skills."
+    ],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "July 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.3",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "December 2020"
+      },
+      {
+        "school": "William Henry Smith Memorial School",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "Class 12",
+        "location": "Varanasi, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 92",
+        "field_of_study": "PCM",
+        "startDate": "April 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Campus Placement With Prediction",
+        "description": "The Campus Placements Prediction Web App is a tool designed to predict the likelihood of a student getting placed during campus placements based on various factors such as academic performance, skills, and other relevant data. The app can be utilized as a tool for the colleges placement officers to handle student placement information, which will cut down on human labor and paper use. The project contains a Mock Test Module that helps assess the knowledge and skills of candidates in various subjects or areas relevant to their field of study or the job they are applying for, and the marks of mock tests will help in prediction.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaSript",
+          "Python",
+          "Django",
+          "ML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Simon Game",
+        "description": "An electronic game of Memory Skill. The Buttons create a Series of tones and lights and require YOU to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Codsoft",
+        "description": "User Interface: Designed and Developed User interfaces for Product listings, Shopping Cart, and Checkout process using HTML, CSS, and JavaScript and Implemented client-side form validation for user registration and checkout forms. Server-Side Development: Developed Shopping Cart Backend using Concept of OOPs for smooth transaction.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Member",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "CSI-Computer Society of India",
+        "description": "Technical Event: Conducted Competitive Programming Contest for more than 100 students and Mentored them on topics such as Pointers, Recursion, Stacks,and Bit manipulation. Workshops and Competitions: Participated in Workshops, Seminars, and Training programs organized by CSI to enhance Technical skills.",
+        "location": "",
+        "links": "",
+        "startDate": "November 2022"
+      }
+    ],
+    "skills": [
+      "C++/C",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "React",
+      "Django",
+      "Tailwind",
+      "Bootstrap",
+      "MYSQL",
+      "SQLITE",
+      "MONGODB",
+      "Git/GitHub",
+      "VS Code",
+      "ChatGpt",
+      "AI Tools",
+      "MySQL",
+      "Oracle",
+      "Atom"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Event Management",
+      "Sports Management",
+      "Writing",
+      "Public Speaking",
+      "Time Management"
+    ],
+    "name": "Nikhil Jaiswal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved More than 1000 DSA/CP Question on Major Coding Platform such as Leetcode,GFG,Codechef.",
+      "Achieved 5 Star in C++, Python, SQL, Problem Solving at HackerRank.",
+      "Rated 3 Star at CodeChef and Achieved LeetCode Badge of Consistency.",
+      "State VolleyBall and Chess Winner."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

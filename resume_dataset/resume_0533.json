@@ -1,0 +1,157 @@
+{
+  "project_count": 4.0,
+  "designation": "Full Stack Developer",
+  "name": "MD SIBGHATULLAH",
+  "college": "IES College of Technology",
+  "locations": [
+    "Muzaffarpur",
+    "Bihar"
+  ],
+  "full_output": {
+    "summary": "Aspiring Full Stack Developer with a solid foundation in web development, demonstrated through the successful completion of over 8 diverse projects. Proficient in HTML, CSS, JavaScript, ReactJs, Redux, NodeJs, ExpressJs, REST API and MongoDB. Highly skilled in both front-end and back-end development, with a focus on creating user-friendly, efficient, and scalable web applications.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction To Java",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures In Java",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Frontend Backend using Node.js",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "IES College of Technology",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.6",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "LaxmiRaj Deo +2 Inter College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Muzaffarpur",
+        "ID": 1.0,
+        "grade_received": "Percentage: 60",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blogging System",
+        "description": "Enabled all users to browse and read published blog posts, improving user engagement by 30%. Implemented JWT for secure session management, increasing security by 40%. Allowed authenticated admins to create, edit, and delete posts, enhancing content control by 50%.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Mongoose",
+          "MongoDB",
+          "Axios",
+          "JWT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub live"
+      },
+      {
+        "name": "Employee Review System",
+        "description": "Established distinct privileges for administrators and employees, improving system security by 35%. Enabled users to create, read, update, and delete reviews, enhancing functionality by 40%. Used JWT to ensure safe access to the systems features, boosting security by 30%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "EJS",
+          "Node.js",
+          "Express.js",
+          "Mongoose"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Placement Cell Management",
+        "description": "Defined distinct roles for admins, students, and recruiters, increasing system security by 35%. Allowed students to update their profiles, including resumes, improving user engagement by 30%. Enabled recruiters to post job opportunities and students to apply, increasing application efficiency by 40%. Implemented Passport.js for secure access, enhancing security by 35%.",
+        "keywords": [
+          "Express.js",
+          "Node.js",
+          "EJS",
+          "MongoDB",
+          "Passport",
+          "Mongoose"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub live"
+      },
+      {
+        "name": "Meal App",
+        "description": "Utilized 'The MealDB API' to search for recipes by name or ingredient, increasing user satisfaction by 30%. Enabled saving of favorite recipes using localStorage, improving user retention by 25%. Provided detailed instructions and ingredients for each recipe, enhancing user experience by 35%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub live"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Bootstrap",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "Git",
+      "GitHub",
+      "RESTful API development",
+      "JWT",
+      "Passport.js"
+    ],
+    "soft_skills": [],
+    "name": "MD SIBGHATULLAH",
+    "position": "Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,194 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shorya",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Delhi NCR, India",
+    "Saharanpur, India",
+    "Raigarh, India",
+    "Ghaziabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi NCR, India",
+        "ID": 0.0,
+        "grade_received": "7.58",
+        "field_of_study": "Information Technology",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "St. Marys School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "86.6",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Thomas Academy",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "92.6",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Techno Conclave Website",
+        "description": "Crafted the website from scratch for Techno Conclave, organized by Team Conatus, to disseminate event information and streamline the registration process. Successfully processed over 250 registrations through the website, ensuring smooth and efficient participant onboarding.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link - Techno Conclave Website , Link -Github Repo"
+      },
+      {
+        "name": "AICTE Sahayak",
+        "description": "Transformed complex jargon into simplified information, improving understanding and compliance by 50% and reducing rework by 25%. Developed AICTE Sahayak to enable dynamic documentation and fee structure generation tailored to course requirements, boosting operational efficiency by 40% and integrating real-time AI support to enhance user satisfaction by 45%.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "LLM",
+          "NLP",
+          "OpenCV",
+          "FastAPI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link -AICTE Sahayak Website , Link -Github Repo"
+      },
+      {
+        "name": "Recruitment Test Portal",
+        "description": "Developed a recruitment test portal featuring diverse MCQ categories, an intuitive question palette, and an auto-submit timer. Enhanced user experience by 70% and boosted accuracy with automated result calculation, reducing processing time by 90%.",
+        "keywords": [
+          "React.js",
+          "Material UI",
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link -Recruitment Test Website , Link -Github Repo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Jul 2021",
+        "company_name": "All India Council For Technical Education (AICTE)",
+        "description": "Collaborated with the eGovernance team to develop and enhance application based on requirements.",
+        "location": "Saharanpur, India",
+        "links": "",
+        "startDate": "Apr 2020"
+      },
+      {
+        "role_name": "Team Member",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Smart India Hackathon",
+        "description": "Collaborated with a skilled team of 6 members, leveraging diverse expertise to develop an innovative solution.",
+        "location": "Raigarh, India",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Coordinator",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Programming Club AKGEC",
+        "description": "Organized a CP and DSA based workshop followed by a contest for 1st and 2nd-year students. Mentored over 150 students, fostering their skills and knowledge in competitive programming and data structures.",
+        "location": "Ghaziabad, India",
+        "links": "",
+        "startDate": "Nov 2022"
+      },
+      {
+        "role_name": "Core Team Member",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Google Developer Student Clubs - AKGEC",
+        "description": "Worked with a team of 40 members to organize diverse technical events and created/managed multiple websites. Additionally, engaged in and partnered with various events such as Devfest.",
+        "location": "Ghaziabad, India",
+        "links": "",
+        "startDate": "Oct 2022"
+      },
+      {
+        "role_name": "Web Developer & Senior Coordinator",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Team Conatus",
+        "description": "Worked with a team of 60 members for cultivating technical activities in the college. Organized programming contests for 300+ students on HackerRank, acquiring valuable experience in problem setting and test case generation. Also maintained various websites.",
+        "location": "Ghaziabad, India",
+        "links": "",
+        "startDate": "Oct 2022"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Typescript",
+      "C",
+      "C++",
+      "Solidity",
+      "ReactJs",
+      "Node.js",
+      "Express.js",
+      "Particle.js",
+      "Material UI",
+      "Git",
+      "Github",
+      "Visual Studio Code",
+      "Figma",
+      "Remix IDE",
+      "MongoDB",
+      "Windows",
+      "AWS"
+    ],
+    "soft_skills": [
+      "Effective Team Collaboration",
+      "Public Speaking and Presentation",
+      "Leadership and Mentorship",
+      "Adaptability in Dynamic Environments"
+    ],
+    "name": "Shorya",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winner of Smart India Hackathon 2023, in which 40,000+ teams participated each having 6 members.",
+      "AIR 442 out of 50,000+ participants in the Coding World Cup hosted by Coding Ninjas in collab with Logitech.",
+      "Successfully solved over 700 DSA problems across various platforms.",
+      "Shortlisted and actively engaged in over 10 in-person hackathons."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 5.0,
+  "degree": "Bachelor of Technology"
+}

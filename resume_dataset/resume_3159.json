@@ -1,0 +1,154 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "DAKSH TYAGI",
+  "college": "KIET GROUP OF INSTITUTIONS",
+  "locations": [
+    "Ghaziabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Mastered HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, SQL, and RESTful APIs for end-to-end web development.",
+        "skillsLearned": [],
+        "title": "Full Stack Web Developer",
+        "issuer": "PW Skills",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Gained practical experience in using AWS tools and services such as EC2, S3, IAM, and CloudFormation through labs, projects, and simulations in the AWS Academy Cloud Foundations course.",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundations",
+        "issuer": "Amazon",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed course covering Python, data analysis, machine learning, and data visualization. Mastered data gathering, identification, and cleaning for analysis preparation.",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET GROUP OF INSTITUTIONS",
+        "endDate": "June 2021",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": "August 2018"
+      },
+      {
+        "school": "MOUNT CARMEL SCHOOL (CISCE)",
+        "endDate": "June 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Ghaziabad, India",
+        "ID": 1.0,
+        "grade_received": "85%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "MOUNT CARMEL SCHOOL (CISCE)",
+        "endDate": "August 2025",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Ghaziabad, India",
+        "ID": 2.0,
+        "grade_received": "89%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Everyshop: E-Commerce Application",
+        "description": "Developed a full-fledged e-commerce platform using React and Firebase. Implemented user authentication, product management, and cart functionality for a seamless shopping experience. Integrated with backend APIs or services to fetch product data, manage user authentication, and handle cart functionality. Ensured responsiveness across various devices and screen sizes using media queries and responsive design techniques.",
+        "keywords": [
+          "React.js",
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "February 2024",
+        "startDate": "December 23",
+        "url": ""
+      },
+      {
+        "name": "Web Portfolio",
+        "description": "Designed and developed a personal portfolio website using JavaScript and React, showcasing a collection of projects, skills, and experiences in web development. Implemented responsive design principles for optimal viewing across devices and browsers. Incorporated interactive elements and animations to enhance user engagement and create a seamless browsing experience.",
+        "keywords": [
+          "React js",
+          "Javascript"
+        ],
+        "endDate": "October 2023",
+        "startDate": "September 23",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineering Virtual Experience Program",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Goldman Sachs",
+        "description": "Identified that the company was using an outdated password hashing algorithm by cracking passwords using Hashcat. Wrote a memo for my supervisor summarizing a range of proposed uplifts to increase the companys level of password protection including extending minimum password length and using a dedicated hashing algorithm.",
+        "location": "",
+        "links": "",
+        "startDate": "April 24"
+      },
+      {
+        "role_name": "Software Engineering Virtual Experience",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "J.P. Morgan",
+        "description": "Set up a local dev environment by downloading the necessary files, tools and dependencies. Fixed broken files in the repository to make web application output correctly. Used JPMorgan Chases open source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor.",
+        "location": "",
+        "links": "",
+        "startDate": "April 24"
+      }
+    ],
+    "skills": [
+      "JAVA",
+      "JavaScript",
+      "Visual Studio Code",
+      "Intellij IDEA"
+    ],
+    "soft_skills": [
+      "Rapport Building",
+      "Strong Stakeholder management",
+      "People Management",
+      "Excellent communication"
+    ],
+    "name": "DAKSH TYAGI",
+    "position": "",
+    "interests": [
+      "Travelling & Vlogs (Video-Editing)",
+      "Singing (Lyrics-Writing)"
+    ],
+    "achievements_and_awards": [
+      "Second Position in Photography Competition of Annual Cultural Fest of KIET GROUP OF INSTITUTIONS.",
+      "Third Position in International Model United Nations Conference 135, participated as the delegate of Saudi Arabia.",
+      "Participated at KIET Model United Nations 2023 as the delegate of India."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh, India - 201206",
+  "graduation_year": 2021.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

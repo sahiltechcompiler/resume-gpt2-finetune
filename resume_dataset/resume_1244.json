@@ -1,0 +1,153 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Geetika S",
+  "college": "Chennai Institute Of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming in Java",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Beginner to Advanced",
+        "issuer": "UDEMY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA1 and CCNA2 in Cybersecurity",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "RPA Citizen Developer",
+        "issuer": "UDEMY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "UDEMY",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "BE",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.6/10",
+        "field_of_study": "Electronics And Communication Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Flight ticket reservation",
+        "description": "Developed responsive, user-friendly interfaces for flight reservation systems. Managed and optimized databases for efficient booking and customer data retrieval. Implemented robust server-side logic for seamless communication between client and server.",
+        "keywords": [
+          "React",
+          "MySQL",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Flight ticket reservation.git"
+      },
+      {
+        "name": "Automatic Headlight Controller",
+        "description": "Designed and implemented an innovative automatic headlight controller system to enhance driving safety and optimize vehicle headlight intensity based on the conditions using the infrared transmitter and receiver. Created algorithms to dynamically switch between high and low beam headlights based on oncoming traffic, reducing glare and improving visibility for both drivers during the night time to reduce the accidents, enhancing user satisfaction by 50%.",
+        "keywords": [],
+        "endDate": "March 2022",
+        "startDate": "February 2023",
+        "url": "Automatic headlight dimmer.git"
+      },
+      {
+        "name": "Weather prediction",
+        "description": "Developed a dynamic weather prediction website using Angular, integrating real-time data and custom forecasting algorithms to enhance user experience by responsive UI and accuracy in predictions, boosting engagement by 30%. Implements predictive algorithms to deliver accurate short-term and long-term weather forecasts, reducing inquiries by 30%.",
+        "keywords": [],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": "Weather Prediction.git"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Product testing intern",
+        "skillsUsed": [
+          "Programming Languages: Java",
+          "SQL",
+          "Data Structures and Algorithm",
+          "HTML",
+          "CSS",
+          "Angular",
+          "Node.JS",
+          "Express.JS",
+          "MySQL",
+          "postgressSQL",
+          "Git"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "SCHENIDER ELECTRICS",
+        "description": "During my intern at Schneider Electric, I had the invaluable opportunity to immerse myself in real-world applications of electrical engineering and gain hands-on experience in various facets of the industry. At the Product Testing Liability Lab provided me with hands-on experience in a crucial aspect of ensuring product excellence and safety. It reinforced the importance of meticulous testing procedures and effective collaboration in delivering products that meet the highest industry standards and consumer expectations. Contributed to spot an error in the sector of finding number of defect products. Implemented a new method of finding defect products in the line of manufacturing mcb(miniature circuit braker).",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "SQL",
+      "Data Structures and Algorithm",
+      "HTML",
+      "CSS",
+      "Angular",
+      "Node.JS",
+      "Express.JS",
+      "MySQL",
+      "postgressSQL",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "Geetika S",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received 2 badges in DSA concepts on Coding Ninjas.",
+      "Intra-College SIH Hackathon Top 10",
+      "Solved 1280+ problems with a streak of 100 days solving daily challenges on SkillRack."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BE"
+}

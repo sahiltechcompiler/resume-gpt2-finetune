@@ -1,0 +1,115 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Veerendra Nadh Medikonduru",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "A self-driven CS undergrad at SRMAP skilled in programming languages including Python,Java,C++ and full-stack development.Implemented Block chain based crowdfunding platform utilizing the MERN stack showcasing my ability to develop robust software systems.Led a pioneering research using VGG-16(CNN) for retinal OCT images classification.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP Board",
+        "endDate": "2021",
+        "maximum_grade": "8.42/10",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.5%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "BLOCK CHAIN BASED CROWDFUNDING PLATFORM",
+        "description": "Developed a crowdfunding platform using modern web technologies to empower creators and entrepreneurs to secure funding for their innovative projects. Utilized React and Tailwind CSS for the frontend,while handling RESTful API with Expressjs for the backend. Enhanced trust and security through blockchain integration, ensuring transparent transactions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "KALPAVRIKSHAM E-COMMERCE BROKERAGE",
+        "description": "An e-commerce brokerage website that significantly reduced financial constraints for both producers and consumers by following all C2C business models. Led the front-end development to deliver seamless, responsive user interfaces using Reactjs, Tailwind CSS, and Flowbite React.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "OCT IMAGE CLASSIFICATION(VGG-16)",
+        "description": "This study presents a comprehensive VGG16(CNN) architecture in the classification of OCT images. Led pioneering research using CNN for retinal OCT images our primary focus of this research is to optimize hyperparameters to enhance and improve the overall performance of our trained model.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Assistant",
+        "skillsUsed": [],
+        "endDate": "Aug.2023",
+        "company_name": "SRMAP",
+        "description": "Led my role as a backend developer in building a text classification model from scratch using machine learning fundamentals and NLP techniques. Implemented a RESTful API to integrate the model with frontend applications, ensuring efficient data processing and retrieval to optimize search processes.",
+        "location": "",
+        "links": "",
+        "startDate": "July-2023"
+      },
+      {
+        "role_name": "Hackathon",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Unfold2023",
+        "description": "Led front end development for a robust e-commerce application at Unfold2023, a Web3 hackathon. Successfully delivered a user-friendly interface and seamless user experience.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "MongoDB",
+      "PostgreSQL",
+      "Git",
+      "Docker",
+      "HTML",
+      "Tailwind CSS",
+      "JavaScript",
+      "Node.js",
+      "Reactjs",
+      "Expressjs",
+      "Redux"
+    ],
+    "soft_skills": [
+      "Communication Skills",
+      "Critical Thinking",
+      "Problem Solving"
+    ],
+    "name": "Veerendra Nadh Medikonduru",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

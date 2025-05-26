@@ -1,0 +1,152 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ayush Poddar",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Bangalore, Karnataka",
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7 (Switching, Routing, and Wireless Essentials)",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7 (Enterprise Networking, Security, and Automation)",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DFo Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ADFo Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.31",
+        "field_of_study": "Computer Science and Engineering (Hons.)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automated Luggage Checker",
+        "description": "Implemented YOLOv3 for object detection, Darknet for framework, Python with Django, MySQL. YOLOv3 improves security efficiency by accurately identifying things in X-ray luggage photos with an average precision of about 28.2%.",
+        "keywords": [
+          "YOLOv3",
+          "Darknet",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Alzheimers Disease Detection",
+        "description": "Implemented Python for machine learning projects using TensorFlow for model development and pandas for data preprocessing and analysis. Built and integrated user interfaces with machine learning models using Django to create seamless and interactive applications. Demonstrated a CNN model with 89.8% training accuracy and 74.4% validation accuracy.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Pandas",
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Created six different forms of visualizations, including bar charts, pie charts, treemaps, choropleth maps, and word clouds. Analyzed and visualized a dataset containing over 8,000 Netflix titles to uncover insights about popular genres, release trends, and content distribution. Implemented TF-IDF vectorization on over 10,000 unique words and computed cosine similarity across over 60,000 pairwise comparisons, achieving over 85% accuracy in content-based recommendations.",
+        "keywords": [
+          "Pandas",
+          "Numpy",
+          "Matplotlib",
+          "Scikit-learn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [
+          "React",
+          "Vite",
+          "MySQL",
+          "PHP"
+        ],
+        "endDate": "Present",
+        "company_name": "Rollon Group",
+        "description": "Developed interactive user interfaces with React and Vite for a product configurator, enhancing user experience and engagement. Implemented efficient back-end solutions using MySQL and PHP, ensuring seamless data flow and robust performance for the product configurator.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "C language",
+      "Python",
+      "SQL",
+      "MySQL",
+      "Scikit-learn",
+      "TensorFlow",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "OpenCV",
+      "Seaborn",
+      "React",
+      "Vite"
+    ],
+    "soft_skills": [],
+    "name": "Ayush Poddar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans List for Academic Excellence: 3rd, 4th, 5th Semester",
+      "School of Computer Science and Engineering: Student Organizer",
+      "Student Club: Technical Moderator"
+    ],
+    "publications": []
+  },
+  "current_location": "Bangalore, Karnataka",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

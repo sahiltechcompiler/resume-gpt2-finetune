@@ -1,0 +1,112 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "RISHABH MISHRA",
+  "college": "AJAY KUMAR GARG ENGINEERING COLLEGE",
+  "locations": [
+    "GHAZIABAD",
+    "MIRZAPUR"
+  ],
+  "full_output": {
+    "summary": "To obtain a challenging position that best utilizes my skills and provides opportunities to grow my technical skills which would enable me to grow in my field while fulfilling organizational goals.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "AJAY KUMAR GARG ENGINEERING COLLEGE",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. TECH",
+        "location": "GHAZIABAD",
+        "ID": 0.0,
+        "grade_received": "70.11%",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "ST MARY'S SCHOOL &COLLEGE",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "INTERMEDIATE",
+        "location": "MIRZAPUR",
+        "ID": 1.0,
+        "grade_received": "80.00%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "ST MARY'S SCHOOL &COLLEGE",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "HIGH SCHOOL",
+        "location": "MIRZAPUR",
+        "ID": 2.0,
+        "grade_received": "83.8%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AUTOMATED ATTENDANCE SYSTEM",
+        "description": "This system aims to mark student's attendance automatically using cameras using Deep Learning Methods. InsightFace Model is used for Face Recognition and Detection (Buffalo_l). (Accuracy- 93.8%) Cosine Similarity used for Machine Learning Search Algorithm. Utilized Python and libraries like OpenCv, NumPy, Pandas and Database Redis is used.",
+        "keywords": [
+          "Deep Learning",
+          "Face Recognition",
+          "Python",
+          "OpenCv",
+          "NumPy",
+          "Pandas",
+          "Redis"
+        ],
+        "endDate": "September 2023",
+        "startDate": "August 2023",
+        "url": ""
+      },
+      {
+        "name": "IMAGE MANIPULATION",
+        "description": "Manipulation of an image using Python different Modules. Operations performed like Inverting, Flipping, Gray scaling, Rotating on different images. Utilized Python and libraries like OpenCv, NumPy, Pandas. Gained practical experience in image processing and manipulation techniques and improved understanding of array-based image manipulation and its application.",
+        "keywords": [
+          "Image Processing",
+          "Python",
+          "OpenCv",
+          "NumPy",
+          "Pandas"
+        ],
+        "endDate": "December 2022",
+        "startDate": "November 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "C/C++",
+      "Java (Basics)",
+      "Object Oriented Programming",
+      "SQL",
+      "Data Structures and Algorithms",
+      "HTML",
+      "CSS",
+      "React",
+      "DBMS",
+      "Operating Systems",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "RISHABH MISHRA",
+    "position": "",
+    "interests": [
+      "Watching movie",
+      "Playing cricket"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "MIRZAPUR, UTTAR PRADESH | INDIA",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B. TECH"
+}

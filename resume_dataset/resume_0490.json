@@ -1,0 +1,161 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Nitish Chaurasiya",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, UttarPardesh",
+    "Sant Kabir Nagar, UttarPardesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.73 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Surya International Academy",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Sant Kabir Nagar, UttarPardesh",
+        "ID": 1.0,
+        "grade_received": "83.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sign Go App",
+        "description": "Winner of Shankara Global Hackathon 2023, Organized by Shanakara Group of Institute, Jaipur, Rajasthan, IN I have built this app which helps us to communicate with hearing impaired people and vise versa. It converts the speech into sign language and sign language to Speech by using the ML model which is trained by Google teachable machine.",
+        "keywords": [
+          "Dart",
+          "Flutter",
+          "Firebase",
+          "Provider",
+          "ML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MedList",
+        "description": "Anveshna23 Finalist Developed and implemented MedList, an innovative medication management solution, catering specifically to individuals prone to forgetting to take their medications on time, particularly elder patients; integrated features to streamline medical care and connect users with their respective healthcare providers. Users can book an appointment and medicines and it also reminds to to take medicines through notifications.",
+        "keywords": [
+          "Dart",
+          "Flutter",
+          "Firebase",
+          "Provider"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Auto File Arranger",
+        "description": "Streamlined file management processes by creating a Windows software application that intelligently categorizes files according to their extensions, such as .pdf, .jpg, .wave, .mp3, .mp4, leading to a 40% increase in overall productivity.",
+        "keywords": [
+          "Python",
+          "Tkinter",
+          "OS module",
+          "shutil"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "App Developer Intern",
+        "skillsUsed": [
+          "Dart",
+          "Flutter",
+          "Getx",
+          "Rest API",
+          "MongoDB",
+          "Figma"
+        ],
+        "endDate": "July 2024",
+        "company_name": "France-Pay",
+        "description": "Developed a digital payment app called France-Pay which works on a wallet system. like Paytm, phone pay, etc. Spearheaded the implementation of static and dynamic QR code payment options, integrated f-pay ID, and enabled payment requests through the app; revolutionized the user experience and facilitated secure and efficient transactions.",
+        "location": "Ghaziabad, UttarPardesh",
+        "links": "",
+        "startDate": "Dec. 2020"
+      },
+      {
+        "role_name": "App Developer Intern",
+        "skillsUsed": [
+          "Dart",
+          "Flutter",
+          "Provider",
+          "Rest API",
+          "Firebase",
+          "Figma"
+        ],
+        "endDate": "31 July 2023",
+        "company_name": "Trip Builder",
+        "description": "Added more features in the traveling suggestions app named Trip Builder and improved the app efficiency by 70%. It provides personalized trip recommendations based on budget, location, hotel, and weather preferences.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "01 July 2023"
+      },
+      {
+        "role_name": "App Developer Intern",
+        "skillsUsed": [
+          "Dart",
+          "Flutter",
+          "Provider",
+          "Rest API",
+          "Adobe XD"
+        ],
+        "endDate": "Mar 2023",
+        "company_name": "Wise Choice",
+        "description": "Built a betting app named Wise Choice from scratch with a very interactive UI and animations. In this app user can predict scores of any live sport like cricket, football, hockey, badminton, etc, and earn money.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Dart",
+      "Python",
+      "SQL",
+      "JAVA",
+      "Data Structure"
+    ],
+    "soft_skills": [],
+    "name": "Nitish Chaurasiya",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winner - Shankara Global Hackathon",
+      "Finalist - Anveshna23",
+      "Solved 500+ DSA questions on various platforms.",
+      "Flipkart GRiD 4.0: Level 1 Qualifier - among the top 7 teams to qualify from college.",
+      "Got 3150 th rank in Google Kickstart",
+      "Finalist - Smart India Hackathon",
+      "Finalist - Rajasthan IT Day Hackathon"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

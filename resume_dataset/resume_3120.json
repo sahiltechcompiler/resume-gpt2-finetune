@@ -1,0 +1,133 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SNEHIL",
+  "college": "Dr.A.P.J. Abdul Kalam Technical University",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Delhi NCR, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Android Jetpack Compose: The Comprehensive Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enhancing Soft Skills and Personality",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr.A.P.J. Abdul Kalam Technical University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.5",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Reading Arena",
+        "description": "Dive into the world of reading with ReadingArena, your ultimate digital bookshelf! - Features : - Sleek and intuitive design for a seamless reading experience. - Secure user authentication with Firebase. - Real-time data storage and sync with Firebase Database. - Stay updated with the latest book releases via Retrofit REST API. - Efficient dependency management using Hilt and Dagger for smooth performance.",
+        "keywords": [
+          "Kotlin",
+          "Jetpack Compose",
+          "Firebase",
+          "Retrofit",
+          "Hilt",
+          "Dagger"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WeatherApp",
+        "description": "Stay ahead of the weather with WeatherApp, your go-to app for accurate and up-to-date forecasts! - Features : - Intuitive design for effortless navigation. - Real-time weather updates via Retrofit-powered REST API. - Efficient data storage and offline access with Room DB. - Smooth and reliable performance with dependency management using Hilt and Dagger.",
+        "keywords": [
+          "Kotlin",
+          "Jetpack Compose",
+          "Retrofit",
+          "Room DB",
+          "Hilt",
+          "Dagger"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "IntelligentCam",
+        "description": "Capture and explore the world with IntelligentCam , your smart camera companion! - Features: - User-friendly design for an enhanced camera experience. - High-quality image capture with CameraX integration. - Real-time landmark analysis using integrated TensorFlow models. - Effortlessly identify and learn about landmarks as you capture them.",
+        "keywords": [
+          "Kotlin",
+          "Jetpack Compose",
+          "CameraX",
+          "TensorFlow"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MyNote",
+        "description": "Organize your thoughts effortlessly with MyNote, your ultimate digital notebook! - Features : - Clean and intuitive design for a seamless note-taking experience. - Efficient data storage with Room DB for quick access and offline use. - Robust functionality to create, edit, and organize your notes easily.",
+        "keywords": [
+          "Kotlin",
+          "Jetpack Compose",
+          "Room DB"
+        ],
+        "endDate": "2023",
+        "startDate": "2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Kotlin",
+      "Python",
+      "SQL",
+      "Jetpack Compose",
+      "Android Development",
+      "Django Rest Framework",
+      "Android Studio",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "SNEHIL",
+    "position": "",
+    "interests": [
+      "Body Building",
+      "Weight Lifting"
+    ],
+    "achievements_and_awards": [
+      "Part of Organisation team during major events in college",
+      "Won an inter-class debate competition in school"
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi NCR, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

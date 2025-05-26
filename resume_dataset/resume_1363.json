@@ -1,0 +1,129 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Ayush Raj",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Holy Mission Senior Secondary School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "CBSE Board",
+        "startDate": "2018"
+      },
+      {
+        "school": "Holy Mission Senior Secondary School",
+        "endDate": "2018",
+        "maximum_grade": "Percentage 92",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 7.97",
+        "field_of_study": "CBSE Board",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Cloud Native Resource Monitoring App",
+        "description": "Implemented a cloud-native Flask application for system monitoring, Initially deployed locally with Flask and dockerized for portability using a Dockerfile and integrated with AWS ECR to store Docker images. Utilized Python, Flask, Docker, AWS ECR and Kubernetes for streamlined development and deployment of the application.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "Docker",
+          "AWS ECR",
+          "Kubernetes"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Voix the Voice Assistant",
+        "description": "Developed Voix, a voice assistant utilizing speech recognition and APIs for tasks such as send emails, web searches, and computations. Integrated Voix with WolframAlpha and ChatGPT, enhancing its functionality to provide comprehensive results directly within the console interface. Leveraged the use of Python to create an efficient and user-friendly voice assistant.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Salesforce Developer Virtual Internship",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "SmartBridge",
+        "description": "Certified Salesforce Developer with specialized training in Apex, Process Automation, and LWC and API modules.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Associate",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Ennovab, Entrepreneurial Innovation Lab",
+        "description": "Organizing member of events through the steps of Ideation, Validation, Market Research, Business Model Construction and Venture Capitalist Presentations.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "Java",
+      "C++",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JS",
+      "React"
+    ],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Communication Skills",
+      "Teamwork",
+      "Multi-Tasking"
+    ],
+    "name": "Ayush Raj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded with Elite certification in NPTEL examination for DBMS with SQL.",
+      "3 Star on CodeChef with the Current Rating of 1615",
+      "Certified Cloud Computing Badge from IBM",
+      "Developer SuperSet Badge on Salesforce.",
+      "Felicitation by the DG Police for being one of the School Toppers in Class 10th Board examinations.",
+      "Granted with a 100 percent Scholarship on tuition fee for Bachelors Degree"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

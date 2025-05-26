@@ -1,0 +1,167 @@
+{
+  "project_count": 4.0,
+  "designation": "Web Developer",
+  "name": "Vikesh Kumar",
+  "college": "Jaipur National University",
+  "locations": [
+    "Bihar",
+    "Bangalore"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Sarvodya High School",
+        "endDate": "2014",
+        "maximum_grade": "",
+        "degree": "SSLC [10th]",
+        "location": "Bihar",
+        "ID": 0.0,
+        "grade_received": "First Class (65%)",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sureshwari Devi +2 High School",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "PLUS 2",
+        "location": "Bihar",
+        "ID": 1.0,
+        "grade_received": "First Class (65%)",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Jaipur National University",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "BCA",
+        "location": "Bihar",
+        "ID": 2.0,
+        "grade_received": "First Class (73%)",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "B2Cship Word press Portal",
+        "description": "In this site integrated Tracking for third party Tracking API for the package of Amazon. India, UAE, Saudi Arabia & USA Package Tracking of Amazon orders.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "b2cship.us/tracking"
+      },
+      {
+        "name": "Mosh E-com Services (Internal Tool)",
+        "description": "Its a collection of multiple internal tools built on top of Laravel with MySQL as a primary Database, Mongo database as a secondary database & Redis as queue services. Worked with around 5 crore data in the project. Implemented Price exchange rate for import & export of products from one country to another country. Import & export of large data of 50lks - 1 crore with multiple constraints in CSV format. Used pusher for real-time progress bar & notification. Implemented courier tracking API for 8 courier service providers with in the project. Implemented Google Translation for label text translation (Arabic to English). Implemented Courier booking & tracking module with multiple courier service providers with in the project. Implemented Generation of single or multiple Label & Invoices with bulk export & download option. Implemented Custom Scheduler Management in the project to manage scheduling of Custom Laravel Artisan Commands. Implemented Custom File Tracking Management tool within the project where admin will get to know who imported & exported the file at what time. Worked with multiple databases on a single project. Implemented Order dumping & Catalog Dumping utilizing Amazons SP-API for Amazon sellers. Implemented Zoho Bulk CRM Lead data dump in Mongo DB. Integrated Slack notification for errors or for any other information from the system. Integrated Database Backup into drop box. Integrated Amazon S3 & digital ocean S3 Buckets to store view & download the files. Implemented Custom Commands, Jobs, Facades, Helpers.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mosh E-com Services (E-Commerce)",
+        "description": "Worked as a backend developer on OpenCart e-commerce platform. Optimized all backend process for improved performance and efficiency. Enhanced single database operations to ensure faster data retrieval and updates. Streamlined bulk operations to handle large datasets effectively. Improved backend functionality for the hamburger menu, ensuring quick loading and seamless user experience. Optimized the product page backend processes for faster product display and smooth user interactions. Enhanced the cart page backend operations for efficient cart updates and quick checkout process. Refined the category menu backend processes for faster category loading and better user navigation. Implemented various other backend optimizations across the platform to ensure a robust and high-performance e-commerce experience. Improved efficiency in handling bulk database operations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mosh E-com Services (Node js)",
+        "description": "Implemented functionality to send API requests to Amazon SP-API, ensuring secure and efficient communication. Handled API responses from Amazon SP-API, parsing and processing the data for further use. Managed authentication and authorization for Amazon SP-API requests, ensuring compliance with security protocols. Developed robust error handling mechanisms to manage API request failures and response errors. Worked on exporting data to CSV files in bulk, enabling large-scale data handling and reporting. Implemented efficient data transformation and formatting to ensure the exported CSV files met specific requirements. Optimized the CSV export process to handle large datasets without performance degradation. Ensured data accuracy and consistency during the export process, performing thorough validation checks.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Bhojpuri"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Mosh E-com Services Pvt. Ltd. (Logistics)",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "April 28th 2022"
+      },
+      {
+        "role_name": "Web Developer (Internship)",
+        "skillsUsed": [],
+        "endDate": "March 15th 2022",
+        "company_name": "Urgent It Solution (IT Services)",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "September 2021"
+      }
+    ],
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES5, ES6)",
+      "Ajax",
+      "PHP (7, 8)",
+      "Bootstrap (4, 5)",
+      "jQuery (3.x)",
+      "Laravel (8)",
+      "Node JS",
+      "MySQL",
+      "Maria DB",
+      "Mongo DB",
+      "Git",
+      "GitHub",
+      "Gitlab",
+      "Apache",
+      "Visual Studio Code",
+      "Sublime Text3",
+      "AWS S3 Bucket",
+      "Digital Ocean S3 Bucket",
+      "Redis Queue",
+      "Envoyer",
+      "Go Daddy Cpanel",
+      "Rest API",
+      "SOAP API",
+      "Email Sending",
+      "Laravel Horizon",
+      "Slack Integration",
+      "MySQL backup to Dropbox",
+      "API Integration",
+      "Amazon Business API",
+      "Amazon SP-API",
+      "Razor Pay Payment API",
+      "Tracking & Booking API",
+      "SMSA",
+      "Aramax",
+      "Bombino",
+      "SPL",
+      "BlueDart",
+      "Emirate Post",
+      "Delhivery",
+      "Google Text Translation API",
+      "Zoho CRM Bulk Read & Dump",
+      "Pusher API"
+    ],
+    "soft_skills": [],
+    "name": "Vikesh Kumar",
+    "position": "Web Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Bangalore",
+  "graduation_year": 2020.0,
+  "experience_count": 2.0,
+  "degree": "BCA"
+}

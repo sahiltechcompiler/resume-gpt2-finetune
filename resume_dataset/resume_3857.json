@@ -1,0 +1,131 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Satish reddy Tanguturi",
+  "college": "Sri Chaitanya college",
+  "locations": [
+    "Chennai",
+    "Vijayawada",
+    "Kadapa district",
+    "Obulavaripalli"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Hindustan institute of technology and sciences",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Industry Ready Certication in Full-stack Development",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "Apr 2022"
+      },
+      {
+        "school": "Sri Chaitanya college",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B Tech (Bachelor of Technology)",
+        "location": "Vijayawada",
+        "ID": 1.0,
+        "grade_received": "9.28 CGPA",
+        "field_of_study": "Computer Science Engineering (CSE)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Bhuvanagiri public school",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Kadapa district",
+        "ID": 2.0,
+        "grade_received": "95.7%",
+        "field_of_study": "MPC",
+        "startDate": "2019"
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary School Of Certicate",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "90.2%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Wikipedia Search Application",
+        "description": "Unlock the vast wealth of knowledge on Wikipedia with a custom search application that delivers relevant and curated results. Quick and easy access to information has never been easier. Beautifully presented search results with HTML list elements, styled with CSS, Bootstrap, and a responsive design that adapts to any device. Seamlessly access information with the power of asynchronous fetch GET HTTP API calls and the ability to open the desired result in a new tab for further reading.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "REST API Calls",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "project1_link"
+      },
+      {
+        "name": "Todos Application",
+        "description": "A task management solution, designed to make life easier. Streamlined task management through a combination of HTML, CSS, and Bootstrap for an intuitive interface. Seamless CRUD operations through JavaScript event listeners and dynamic UI updates. Secure task persistence with local storage methods, ensuring that your tasks are always available.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "project2_link"
+      },
+      {
+        "name": "Typing Speed Test",
+        "description": "An application to evaluate and improve your typing speed. Utilizes JavaScript and REST APIs to fetch and display the paragraph, and dynamically update the timer. Provides a user-friendly interface to display the typing speed and accuracy.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "REST API Calls",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "project3_link"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "React.js",
+      "Python",
+      "Express",
+      "Node.js",
+      "SQLite",
+      "AI / ML",
+      "Microsoft Power BI"
+    ],
+    "soft_skills": [],
+    "name": "Satish reddy Tanguturi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Obulavaripalli , Andhra Pradesh, 516108",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B Tech (Bachelor of Technology)"
+}

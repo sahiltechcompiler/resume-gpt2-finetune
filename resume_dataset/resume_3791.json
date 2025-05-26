@@ -1,0 +1,188 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sparsh Shandilya",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Delhi, India",
+    "Netherlands, Remote",
+    "India, Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "07/2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Netherlands, Remote",
+        "ID": 0.0,
+        "grade_received": "8.516",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "01/2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Versaile",
+        "description": "Developed an innovative, AI-driven online text editor that facilitated real-time collaboration and document sharing, driving a 30% reduction in project completion time and enhancing team efficiency. Enabled document enrichment through AI insights, facilitated collaboration through shareable links, and added a docx download feature upon completion.",
+        "keywords": [
+          "CSS",
+          "JavaScript",
+          "TypeScript",
+          "Tailwind CSS",
+          "ShadCN",
+          "React.js",
+          "Next.js",
+          "Quill.js",
+          "Mongoose",
+          "WebSockets",
+          "OpenAI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RestEZ",
+        "description": "Built web app using Gemini API to automate REST API backend code generation saving devs 66% of their time per project (eliminating boilerplate code). Empowers devs to focus on core logic by auto-generating backend structures improving development speed and project efficiency.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "TypeScript",
+          "Tailwind CSS",
+          "MDX",
+          "React.js",
+          "Next.js",
+          "Radix UI",
+          "GeminiAI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FolkFindz",
+        "description": "Led the 'FolkFindz' initiative, dedicated to preserving cultural traditions, resulting in a 30% increase in user engagement and a significant 25% boost in site traffic. Applied web development skills to create a fully functional website, overseeing every project lifecycle aspect, resulting in a seamless user experience and a 20% reduction in bounce rates.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Tailwind CSS",
+          "React.js",
+          "Next.js",
+          "Node.js",
+          "MongoDB",
+          "Mongoose"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Fullstack Developer Intern",
+        "skillsUsed": [
+          "MERN Stack"
+        ],
+        "endDate": "present",
+        "company_name": "The Curious Bunny",
+        "description": "Designed and developed web applications using the MERN stack and React Native, enhancing client satisfaction and reducing development time by 30% through agile methodologies. Conducted meticulous project planning and implemented unit and end-to-end tests, achieving a 95% code coverage and integrating CMS and serverless deployments.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "01/2024"
+      },
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "04/2024",
+        "company_name": "CodingNinjas",
+        "description": "Mentored students in web dev projects using MERN stack, resolving 50+ doubts (average rating 4.34, optimized 4.5) and empowering skill development. Thrived as a teaching assistant, exceeding expectations (3960 points) by resolving student doubts (implementation, coding, concepts) and fostering a collaborative learning environment.",
+        "location": "India, Remote",
+        "links": "",
+        "startDate": "02/2024"
+      },
+      {
+        "role_name": "Next.js Developer Intern",
+        "skillsUsed": [],
+        "endDate": "03/2024",
+        "company_name": "Web ProjectLinks",
+        "description": "Pioneered to the development of a comprehensive website listing web3 projects across 100+ blockchains, facilitating user discovery through coin chain sorting and search functionality. Collaborated in open-sourcing a Next.js-based project, promoting transparency and community engagement in web3 development while showcasing proficiency in modern frameworks.",
+        "location": "India, Remote",
+        "links": "",
+        "startDate": "02/2024"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "09/2023",
+        "company_name": "CODSOFT",
+        "description": "Crafted 'FolkFindz,' a digital hub fostering connections between artisans and enthusiasts, leading to a 30% increase in sales and substantial revenue growth for local businesses. Cultivated a deeper understanding of industry-leading practices, refining coding techniques, and contributed to the successful completion of 3+ projects within specified timelines.",
+        "location": "India, Remote",
+        "links": "",
+        "startDate": "08/2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "SQL",
+      "Python",
+      "Java",
+      "HTML5",
+      "CSS",
+      "Bootstrap",
+      "Tailwind CSS",
+      "JavaScript",
+      "TypeScript",
+      "jQuery",
+      "React.js",
+      "Next.js",
+      "React Router",
+      "Redux",
+      "Redux-toolkit",
+      "Recoil",
+      "Zod",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "PostgreSQL",
+      "Prisma",
+      "Firebase",
+      "MVC Architecture",
+      "RESTful API",
+      "WebSockets",
+      "Sanity",
+      "AWS",
+      "VS Code",
+      "Google Colab",
+      "Git",
+      "Github",
+      "Spline3D",
+      "Render"
+    ],
+    "soft_skills": [
+      "Algorithmic Thinking",
+      "Strong foundation in Data Structures & Algorithms"
+    ],
+    "name": "Sparsh Shandilya",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Showcased exceptional teamwork skills at HackWithMait 4.0's Tezos Sponsor Track, collaborating effectively to secure a top 3 finish amongst 230+ participating teams.",
+      "Attained a position within the top 15% nationwide out of 48k+ teams in the esteemed HackOn With Amazon-Season 3 competition.",
+      "Secured 29th position in ZS Campus Beats Tech Challenge 2024 out of 800+ teams."
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 4.0,
+  "degree": "B.Tech"
+}

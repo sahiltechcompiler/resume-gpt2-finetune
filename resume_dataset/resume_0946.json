@@ -1,0 +1,115 @@
+{
+  "project_count": 2.0,
+  "designation": "Front-end Developer",
+  "name": "Piyush Kumar Shukla",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Noida, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "Skilled Front-end Developer in designing, developing and maintaining front-end web Applications.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Solved 150+ coding problem on different Coding Platforms.",
+        "skillsLearned": [],
+        "title": "JAVA Programming",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Solved 50+ coding problem on different Coding Platforms.",
+        "skillsLearned": [],
+        "title": "Bacic Python programming",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence (AI)",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (B.Tech)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Internet of Things",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Amazon Clone",
+        "description": "User Authentication: Implementing Firebase Authentication to allow users to sign up, sign in, and securely manage their accounts. Product Listings: Displaying a wide range of products with details such as images, descriptions, prices, and ratings, mirroring the functionality of the real Shopping Cart: Enabling users to add products to their shopping cart, view their selected items, and adjust quantities before proceeding to checkout. Real-time Database: Utilizing Firebase Realtime Database to store and retrieve product information, user data, and order details, ensuring seamless data synchronization across devices. Payment Processing: Integrating payment gateways to facilitate secure and convenient transactions, providing users with multiple payment options. Responsive Design: Ensuring that the Amazon Clone is fully responsive, allowing users to browse and shop seamlessly across various devices.",
+        "keywords": [
+          "React",
+          "HTML",
+          "CSS",
+          "React Context API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Food Delivery Website",
+        "description": "User Authentication: We will create the user authentication system so that anyone can create an account and login this food order website. Shopping cart functionality: We will create the shopping cart functionality so that user can add food items in their cart and order food from this app. Payment gateway: We will also integrate the Stripe payment gateway to place the order and with online payment. Order status update: Then we will create the order status update features also.",
+        "keywords": [
+          "React JS",
+          "MongoDB",
+          "Express",
+          "Node JS",
+          "Stripe"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "HTML/CSS",
+      "REST APIs",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Firebase",
+      "Vs code"
+    ],
+    "soft_skills": [
+      "Analytical",
+      "Collaborator",
+      "Leader",
+      "Adaptable"
+    ],
+    "name": "Piyush Kumar Shukla",
+    "position": "Front-end Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Noida, Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology (B.Tech)"
+}

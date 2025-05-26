@@ -1,0 +1,154 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "VEDANT PORWAL",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Udaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development course",
+        "issuer": "John Hopkins University through Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React Basics",
+        "issuer": "Meta through Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "8.75",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "MDS Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Udaipur, Rajasthan",
+        "ID": 1.0,
+        "grade_received": "87%",
+        "field_of_study": "CBSE",
+        "startDate": "2019"
+      },
+      {
+        "school": "Maharana Mewar Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Udaipur, Rajasthan",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "CBSE",
+        "startDate": "2006"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Secret access Project",
+        "description": "Engineered a robust authentication system utilizing Node.js and middleware architecture that improved user access security by 40%, significantly decreasing unauthorized access attempts and enhancing overall platform integrity. Utilized Node.js for server-side logic and efficient request handling. Created a robust user authentication flow, including login, registration, and password hashing.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Node.Js"
+        ],
+        "endDate": "Jul 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Enhancing Crop Disease detection",
+        "description": "Developed a model using kaggle dataset for enhancing crop yield. Implemented a Convolutional Neural Network (CNN) architecture for image processing and analysis. Designed the neural network using tf.keras.models.Sequential for a streamlined model architecture.",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [
+          "React.Js"
+        ],
+        "endDate": "",
+        "company_name": "Celebal Technologies",
+        "description": "Successfully completed weekly projects, demonstrating practical skills in React.js. Covered topics such as component architecture, state management, and UI design. Demonstrated proficiency in front-end development and problem-solving.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Deputy Managing Director",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "Manipal University Jaipur",
+        "description": "Published Newsletter for whole college giving info about the recent advancement in the technical world. Hosted an AWS workshop event which impacted 500+ students and resulted in 30% more participation in the club. Spearheaded various tech events aim to educate 600+ freshers which clarified their choice of domain. Organized Web development workshop and got footfall of 150+.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "Oct 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "VS Code",
+      "Postman",
+      "Jupyter Notebook",
+      "Github",
+      "Git",
+      "Node.JS",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "VEDANT PORWAL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded Deans list for excellence in Academics in 5th semester.",
+      "Scored 9+ GPA in 1st and 5th semester."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

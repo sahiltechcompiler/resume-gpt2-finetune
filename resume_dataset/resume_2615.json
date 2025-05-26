@@ -1,0 +1,93 @@
+{
+  "project_count": 2.0,
+  "designation": "Front end Developer",
+  "name": "Mohd Suhel",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.8 till 7 sem",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dabzon-India (e-Commerce website)",
+        "description": "Developed the front end using Next.js and Tailwind CSS, resulting in a modern and responsive user interface, leading to a 20% increase in user engagement metrics. Integrated the tawk.to chatbot to improve user engagement and support features, resulting in a 15% increase in user satisfaction ratings. Designed and implemented RESTful APIs to support product management and user interactions, resulting in a 25% reduction in API response time and a 30% increase in system reliability. Carried out Server Side Rendering to render dynamic content on the server, reducing client-side processing and enhancing application responsiveness by 40%.",
+        "keywords": [
+          "Next.js",
+          "mongodb",
+          "tailwind CSS"
+        ],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Weather App Application",
+        "description": "developed a wearable app using by using front-end- development (Html ,Css and JavaScript), Real-Time Weather Integration, obtaining an API key, making HTTP requests, parsing the data, and handling errors and rate limits. API (Application Programming Interface, technology enabling apps to communicate and access data; utilized it to fetch live weather updates, User Interface and Experience Design, Created a visually appealing and user-friendly interface, enhancing usability and accessibility.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Javascript"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front end Developer",
+        "skillsUsed": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "React.js"
+        ],
+        "endDate": "Nov 2023",
+        "company_name": "Universal Justice Times",
+        "description": "Created user-friendly interfaces using HTML5, CSS3, JavaScript, React.js, Ensured compatibility across mobile and desktop devices. Used tools like Lighthouse to increase page load speed by 30. Worked closely with UX/UI designers to bring mockups to life. Collaborated with frontend and backend teams to design and implement REST API endpoints, eliminating paid API costs by 100% while enhancing system reliability.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "JavaScript",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "Mohd Suhel",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

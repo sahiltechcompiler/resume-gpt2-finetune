@@ -1,0 +1,125 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Arya Deopurkar",
+  "college": "K.J. College of Engineering and Management Research",
+  "locations": [
+    "Pune",
+    "Remote",
+    "On-Site"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "K.J. College of Engineering and Management Research",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor in Computer Engineering",
+        "location": "Pune",
+        "ID": 0.0,
+        "grade_received": "8.5/10 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "AISSMS Polytechnic",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Diploma in Computer Engineering",
+        "location": "Pune",
+        "ID": 1.0,
+        "grade_received": "8.6/10 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Credit Card Fraud Detection using Machine Learning",
+        "description": "The project aims to find potential Credit card fraud groups among a large number of financial transactions. In order to improve the efficiency of the framework, case reduction methods such as matching transaction detection and balance score filter are used to narrow down the list of potential ML accounts. Next by taking advantage of structural similarity, we can identify and group potential Credit card accounts. Our preliminary experimental results show a high degree of accuracy in detection of ML accounts.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Amazon Clone",
+        "description": "Developed a functional Amazon clone website, replicating core features and functionalities, including user authentication, product listings, cart management, and secure checkout processes. Implemented responsive design principles for optimal user experience across devices.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Login-Signup Form",
+        "description": "Build Login-Signup form using HTML,Bootstrap CSS and Javascript.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Netflix Clone",
+        "description": "Build a interactive Netflix Clone Website using HTML, CSS and Node.js.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Fullstack Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "2025",
+        "company_name": "MACNMAN Solutions",
+        "description": "Proficiency in full stack web development technologies including HTML, CSS, JavaScript, and frameworks used React.js/Node.js. Experience with Backend development using Node.js, Java. Familiarity with databases such as MySQL, MongoDB. Understanding of LORA protocol and its implementation in IoT (Internet of Things).",
+        "location": "Remote",
+        "links": "",
+        "startDate": "2022"
+      },
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Nov 2022",
+        "company_name": "Pushpam Computers & Software Pvt. Ltd",
+        "description": "Proficient in managing and maintaining network infrastructure, including routers, switches, firewalls, and other networking devices. Experience in implementing, and troubleshooting LAN/WAN solutions to ensure optimal performance and reliability, network monitoring and optimization techniques to proactively identify and resolve issues.",
+        "location": "On-Site",
+        "links": "",
+        "startDate": "Jun 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "Flutter",
+      "Node.js",
+      "Java",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Bootstrap",
+      "React.js",
+      "AWS",
+      "MongoDB",
+      "VS Code",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Arya Deopurkar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor in Computer Engineering"
+}

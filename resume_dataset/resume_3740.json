@@ -1,0 +1,109 @@
+{
+  "project_count": 2.0,
+  "designation": "Software Developer Intern",
+  "name": "Abhishek Kumar",
+  "college": "National Institute Of Technology, Warangal",
+  "locations": [
+    "Hyderabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute Of Technology, Warangal",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Tecnology (B.Tech)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Sri Chaitanya Jr Kalasala",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Kendriya Vidyalaya AFS Begumpet",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Visual Insight Generator",
+        "description": "Developed using HTML, CSS, Javascript, Node.js, AWS Lambda, Amazon Step Functions, API Gateway, S3, Amplify, Rekognition, Transcribe, and Bedrock. Efficient Note Generation: Summarized 30 hours of video content into notes costing $150, averaging 3 minutes and 30 seconds per segment, saving 99.89% of typical note-taking time. Utilized AWS Transcribe for audio transcription and Amazon Rekognition for segment analysis. Employed FFmpeg for generating thumbnail images to complement summarized text.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fullstack MERN Blog App",
+        "description": "Developed a full-stack blog application using the MERN stack: MongoDB, Express, React, and Node.js. Utilized CSS for a responsive and visually appealing user interface. Implemented features for creating, editing (using React Quill rich text editor), deleting, and viewing blog posts in reverse chronological order. Integrated JWT authentication for secure user authentication and authorization.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Indian Space Research Organization (ISRO)",
+        "description": "Developed an application that transcribes audio and video using Whisper AI and summarizes transcripts with the LLaMA 3 8B model. Implemented a full-stack solution using MongoDB, React, Express, and Node, with Material-UI for a responsive user interface, and utilized Axios for efficient handling of HTTP requests and API interactions. Integrated JWT authentication for secure user authentication and authorization, and used Nginx as a web server and reverse proxy. Hosted the application on GCP with HTTPS and SSL/TLS certificates for secure communication.",
+        "location": "Hyderabad",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Python",
+      "Matlab"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Decision Making",
+      "Teamwork",
+      "Critical Thinking"
+    ],
+    "name": "Abhishek Kumar",
+    "position": "",
+    "interests": [
+      "Web Development",
+      "Machine Learning and Artificial Intelligence"
+    ],
+    "achievements_and_awards": [
+      "Innovation Incarnate Youth Fest Winner for Creative Ingenuity - 2023",
+      "A-Certificate National Cadet Corps. (NCC)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Tecnology (B.Tech)"
+}

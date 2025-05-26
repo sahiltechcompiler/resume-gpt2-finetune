@@ -1,0 +1,134 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Developer",
+  "name": "Saksham Jain",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Introduction to Networks",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Member of Class Committee Information Technology",
+      "Orchestrated committee efforts to bridge gaps between over 60 students and faculty, resulting in improved coordination, effective communication, and a 15% increase in academic performance feedback.",
+      "Club Services Coordinator Rotaract",
+      "Managed club service initiatives of the Rotaract club for one year. Adapted flexibly to the changing circumstances and the needs of the club."
+    ],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025/07",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021/09"
+      }
+    ],
+    "projects": [
+      {
+        "name": "MediTrack Website based Medical Store Management System",
+        "description": "Developed an online medication system for secure purchases and timely deliveries, enabling pharmacists to efficiently manage inventory and orders, increasing efficiency.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Bootstrap",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real Estate Price Prediction",
+        "description": "Machine learning model deployment project using AWS EC2. Achieved a model accuracy of over 85% through effective feature engineering and hyperparameter tuning using GridSearchCV and k-fold cross-validation. Successfully deployed the machine learning model on AWS EC2 with Nginx, ensuring a scalable and reliable server architecture for handling real-time price predictions. Ensured real-time prediction requests handling with location-based data processing.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WeatherWise API Based Weather App",
+        "description": "Created a responsive weather app with HTML, CSS, and JavaScript, using a weather API. Delivers real-time, location-based weather updates with a clean and intuitive design.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Celebal Technologies",
+        "description": "Developed an advanced Loan Prediction System leveraging machine learning algorithms, optimizing loan approval processes and maintaining default rates below 5%, significantly enhancing decision-making for the financial institution. Completed comprehensive weekly tasks focused on data analysis, feature engineering, and model evaluation, improving project deliverables. Acquired hands-on expertise with industry-standard data science tools and methodologies, contributing to real-world applications and business impact.",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "HTML5",
+      "CSS",
+      "Machine learning",
+      "Data Analytics",
+      "AWS",
+      "Data Structure And Algorithms",
+      "OOPS",
+      "Computer Networking",
+      "Operating System"
+    ],
+    "soft_skills": [],
+    "name": "Saksham Jain",
+    "position": "Software Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

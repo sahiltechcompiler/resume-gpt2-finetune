@@ -1,0 +1,125 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anurag Singh",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Delhi",
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.53",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Aakash Public Sr. Sec. School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 76%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MyDukaan - E-commerce Application",
+        "description": "Designed and developed an e-commerce platform providing local businesses with a comprehensive online presence. Created a responsive and user-friendly interface, incorporating real-time updates and seamless navigation to enhance the user experience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Fire Fighter training using VR",
+        "description": "Created a immersive VR environment in Unity, including both first-person and third-person views. Incorporated a PASS(Pull, Aim, Squeeze, Sweep) method for using the extinguisher.",
+        "keywords": [
+          "UNITY",
+          "Blender",
+          "C#",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "PeerCode - Online Coding Platform for Peers",
+        "description": "Online Coding Platform where people can create contests with particular difficulty and topic and can participate whenever they want. REST API for fetching question data is used and Django ORM is used for handling Data and authentication.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [
+          "C++",
+          "Python",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Django",
+          "UNITY"
+        ],
+        "endDate": "April 2023",
+        "company_name": "DRDO",
+        "description": "Research Intern at CFEES (Centre for Fire, Explosive and Environment Safety) Developed a Virtual Training for Fire Fighters using UNITY Developed a Web Application Using HTML,CSS and JavaScript",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "January 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Django",
+      "UNITY"
+    ],
+    "soft_skills": [],
+    "name": "Anurag Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "2nd Position in IIT Delhi Hackathon",
+      "Top 30 in Bajaj FinServ and health Hackathon, went to Pune for Finals",
+      "Top 5 at HACK-A-MINER 2023, hosted by MSIT",
+      "Secured all Global rank of 108 in Codechefs Long Challenge in the month of june,2022 among 25k+ participants"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

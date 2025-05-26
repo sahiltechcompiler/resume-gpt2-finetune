@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Charishma Ankisetty",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B-Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 10/10",
+        "field_of_study": "MPC",
+        "startDate": "2019"
+      },
+      {
+        "school": "Bhashyam High School",
+        "endDate": "2019",
+        "maximum_grade": "Marks: 951/1000",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 8.87/10.0",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Credit Card Fraud Detection",
+        "description": "Built a robust model to detect credit card fraud using the Random Forest algorithm, achieving 99% accuracy despite severe class imbalance (0.17% fraudulent transactions). Implemented comprehensive data preprocessing and utilized evaluation metrics such as precision, recall, and F1-score. Leveraged Python, scikit-learn, and pandas for efficient data handling and model development.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "RandomForest"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blood Bank Management System",
+        "description": "Streamlined donor recruitment, mobile session coordination, and component preparation for efficient operations. Enhanced patient care and organizational effectiveness with comprehensive screening and inventory management. Covered all aspects of blood bank operations from donor management to patient registration and cross-matching.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Django",
+          "SQLite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Unraveling Plant Diseases: CNN-Based Leaf Spot Recognition with Inception v3",
+        "description": "Employed CNN Inception V3 for precise plant disease prediction and management. Organized a comprehensive database and rigorously tested for accuracy. Captured images for input, achieving a 74% accuracy rate in detecting diseases. Provided treatment recommendations to address agriculture industry challenges in disease detection and control.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Django",
+          "Bootstrap 4"
+        ],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "Developed web applications using Django, focusing on database management and responsive design with Bootstrap 4. Enhanced code efficiency and modularity using various packages and modules. Managed and manipulated databases effectively for robust data management. Integrated Bootstrap 4 for creating modern, visually appealing user interfaces.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "Linux",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "MySQL",
+      "DBMS",
+      "Django"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Problem Solving",
+      "Leadership",
+      "Project Management"
+    ],
+    "name": "Charishma Ankisetty",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B-Tech"
+}

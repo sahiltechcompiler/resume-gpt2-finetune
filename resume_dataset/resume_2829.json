@@ -1,0 +1,123 @@
+{
+  "project_count": 2.0,
+  "designation": "Aspiring Software Engineer",
+  "name": "MEKALA RAMESH",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, IN",
+    "Nandyal , Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "foundation Data Science Engineer with a passion for solving complex problems. With a computer strong in science, statistics, and machine learning, automated processes, and data-driven tools. Experienced in Python, SQL, and big data technologies like Hadoop and Spark. Proven ability to communicate complex data insights to non-technical stakeholders.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL & Database Management system",
+        "issuer": "BoardInfinity",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Operating Systems",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B. Tech.",
+        "location": "Phagwara, IN",
+        "ID": 0.0,
+        "grade_received": "7.75",
+        "field_of_study": "Computer Science and engineering",
+        "startDate": "Apr '20"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Contact Book",
+        "description": "Developed a Contact Book application using Java. Utilized binary search tree concept to organize and efficiently manage contact data. Enabled users to perform CRUD operations seamlessly, including creating, deleting, and updating contacts. Integrated binary search tree functionality to enhance the efficiency of contact data retrieval.",
+        "keywords": [
+          "Java",
+          "C",
+          "Python",
+          "JavaScript",
+          "Spring Boot",
+          "Spring MVC",
+          "JPA",
+          "hibernate",
+          "HTML5",
+          "CSS"
+        ],
+        "endDate": "Jan '24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Performance Analysis",
+        "description": "Utilized Exploratory Data Analysis (EDA) techniques to uncover patterns and relationships in student performance data from various countries. This analysis likely involved tasks like identifying key features such as demographics, socio-economic status, academic background, and studying habits, handling missing values, and visualizing data distribution to understand factors affecting student performance. Developed machine learning models for predicting student performance.",
+        "keywords": [
+          "EDA",
+          "Excel",
+          "Tableau",
+          "MySQL",
+          "MongoDB",
+          "Git",
+          "Github",
+          "Docker",
+          "Jenkins"
+        ],
+        "endDate": "Sep '23",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Engineer",
+        "skillsUsed": [
+          "SQL",
+          "MySQL"
+        ],
+        "endDate": "Jul '23",
+        "company_name": "BoardInfinity",
+        "description": "Gathered Data of Library of various books and magazines and analyzed data using SQL queries. Implemented features for cataloging books, managing user data, and tracking transactions. Maintained the database to ensure data integrity and efficient information retrieval. Developed a robust database structure for the Library Management System using MySQL.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun '23"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Hadoop",
+      "Spark"
+    ],
+    "soft_skills": [
+      "Public Speaking Skills"
+    ],
+    "name": "MEKALA RAMESH",
+    "position": "Aspiring Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "3 Star Rating in Java and Problem Solving on Hacker Rank",
+      "Solved problems on various coding platforms"
+    ],
+    "publications": []
+  },
+  "current_location": "Nandyal , Andhra Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech."
+}

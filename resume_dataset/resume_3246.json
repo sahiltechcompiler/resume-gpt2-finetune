@@ -1,0 +1,128 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SHUBHAM KUMAR",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Gurugram"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Azure AI Fundamentals",
+        "issuer": "Microsoft",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA 7.81",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "St. Michael's High School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Cryto-Transactions API",
+        "description": "Fetch and store Ethereum transactions. Regularly fetch Ethereum prices every 10 minutes. Robust backend developed using Node.js and Express. Data storage in MongoDB. Deployed on Render.",
+        "keywords": [],
+        "endDate": "08/2024",
+        "startDate": "",
+        "url": "https://cryto-transactions.onrender.com/"
+      },
+      {
+        "name": "HAM-SPAM CLASSIFICATION",
+        "description": "Developed a machine learning model to classify user data as ham (legitimate) or spam, enhancing data quality and user experience using Python. Achieved an accuracy of 98.12%, outperforming popular models like Naive Bayes (~92%), SVM (~95%), and Random Forest (~96%) in spam detection. The model demonstrated a precision of 97.87%, significantly higher than the Naive Bayes (~88%), SVM (~94%), and Random Forest (~95%), ensuring fewer false positives and more reliable spam detection.",
+        "keywords": [],
+        "endDate": "08/2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TEXT-SUMMARIZER APPLICATION",
+        "description": "Created an application that leverages AI APIs to provide concise summaries of long texts, enhancing information accessibility. Built using Node.js, with the Hugging Face API for summarizing text, and utilized Express for server-side development. Employed Postman for API testing and development, ensuring robust and efficient performance.",
+        "keywords": [],
+        "endDate": "03/2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Research Intern",
+        "skillsUsed": [],
+        "endDate": "07/2023",
+        "company_name": "6D TECHNOLOGIES",
+        "description": "Built Elasticsearch dashboard to visualize Anomaly Detection, saving 10 hours per week of manual work. Developed NLP ML Model for Spam Ham Text Classification with a precision of 97.8%.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": "05/2023"
+      },
+      {
+        "role_name": "Node JS Intern",
+        "skillsUsed": [],
+        "endDate": "07/2024",
+        "company_name": "Celebal Technologies",
+        "description": "Developed a comprehensive project that automated social media interactions for platforms such as Twitter and Facebook, including scheduled posts, user engagement, and data scraping to monitor trends and analytics, saving 6 hours per week. Gained practical experience in scalability, error handling, authentication, and other Node.js fundamentals through hands-on application in the project.",
+        "location": "Gurugram",
+        "links": "",
+        "startDate": "05/2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Node.js",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "Node.js",
+      "Express.js",
+      "RESTful API Development",
+      "MongoDB",
+      "SQL",
+      "Elasticsearch",
+      "Logstash",
+      "NLP",
+      "Machine Learning Model Development",
+      "Git",
+      "GitHub",
+      "Postman",
+      "Docker"
+    ],
+    "soft_skills": [],
+    "name": "SHUBHAM KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Engineering"
+}

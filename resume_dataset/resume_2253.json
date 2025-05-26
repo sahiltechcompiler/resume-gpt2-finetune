@@ -1,0 +1,96 @@
+{
+  "project_count": 3.0,
+  "designation": "ML Intern",
+  "name": "Ankit",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Noida, UP",
+    "Greater Noida, UP",
+    "Patna"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida, UP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering[AI]",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Breast Cancer Histopathology",
+        "description": "Developed a ML model which classifies Breast Cancer into Benign or, Malignant based on the input data provided to it.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fitfullness",
+        "description": "Built a ReactJS fitness app with detailed exercise and instructional videos to increase user engagement by 20%. Also , integrated RapidAPI , expanding database to 1000+ exercise encriching user experience.",
+        "keywords": [
+          "ReactJS",
+          "CSS",
+          "Rapid API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movieflix",
+        "description": "Crafted a movie recommendation system , lifting engagement 15% through intuitive title , actor, or director search. AI-powered recommendation system based on user interests. Integrated Alan AI into voice search , boosting accuracy by 30%.",
+        "keywords": [
+          "ReactJS",
+          "Material UI",
+          "Alan AI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "ML Intern",
+        "skillsUsed": [],
+        "endDate": "2024",
+        "company_name": "NIT",
+        "description": "Completed a 1 month internship from January to February where I developed machine learning models to classify breast cancer as benign or, malignant using Support Vector Machine[SVM].",
+        "location": "Patna",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Front-end Development",
+      "Machine Learning",
+      "Deep learning",
+      "Artificial Intelligence"
+    ],
+    "soft_skills": [],
+    "name": "Ankit",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Noida, UP",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

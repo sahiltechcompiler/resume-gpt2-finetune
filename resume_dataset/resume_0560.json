@@ -1,0 +1,158 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "KEERTHI VARMAN K",
+  "college": "Chennai Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "UI/UX",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI Fundamentals with Google Cloud",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web development",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science for Engineers (NTPEL)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Cybersecurity AI Path with Google Cloud",
+        "issuer": "Udacity",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA : 8.5",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gym_app",
+        "description": "Developed a modern Fitness Exercises App with a database of over 1,000 exercises categorized by muscle groups, increasing exercise discovery efficiency by 60%. Ensured detailed information is easily accessible. Implemented comprehensive details for each exercise, including instructions, benefits, and visual aids, improving user understanding by 50%. Enhanced the app with a user-friendly interface. Optimized user experience with responsive design and efficient navigation, reducing search time by 40%. Enabled users to quickly find and utilize exercises tailored to their needs.",
+        "keywords": [
+          "React",
+          "RapidAPI"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Lib_Man",
+        "description": "Developed a login system for both admin and regular users, with admin users having full CRUD capabilities on books, improving access control efficiency by 40%. Enabled regular users to exchange notes based on preferences, enhancing user engagement and collaboration by 50%. Optimized workflows for both user types, resulting in seamless operations and efficient data management, reducing processing time by 30%.",
+        "keywords": [
+          "React",
+          "Express",
+          "Node JS",
+          "Mysql"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI-Image-Generator",
+        "description": "Developed an AI Image Generator in React JS using OpenAI's API, achieving prompt-to-image generation in under 500ms. Implemented a user-friendly interface leveraging outputs. Enhanced API integration and performance, improving user experience with responsive design and reducing redundant computations by 30% through memoization. Optimized the application for efficient state management, ensuring seamless and fast interactions for users.",
+        "keywords": [
+          "React",
+          "OpenAI"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "JS"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Oasis",
+        "description": "Developed a dynamic and responsive To-Do list, ensuring seamless task management and user engagement with a 90% completion rate, significantly enhancing productivity and organization. Executed web projects employing frontend technologies, achieving an outstanding average user rating of 4.5/5, reflecting exceptional usability and user satisfaction, contributing to successful project outcomes. Utilized efficient coding practices and user-centered principles, resulting in interfaces and smooth functionality.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "Sep 2023",
+        "company_name": "Bharat",
+        "description": "Integrated input validation to ensure precise temperature conversions and reliable results, bolstering accuracy. Executed pioneering optimization methods, resulting in a remarkable 75% surge in efficiency, significantly enhancing overall performance, reliability, and user experience satisfaction. Implemented rigorous testing protocols to guarantee robust functionality, ensuring seamless user interactions.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "GitHub",
+      "Docker",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "KEERTHI VARMAN K",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Selected as a Semi-Finalist in the Techgig Code Gladiators 2023 Competition.",
+      "Completion For UiPath Academy RPA Citizen Developer Foundation Training credential on UIPATH Academy.",
+      "Achieved Cisco Certified Network Associate (CCNA) 1 & 2 certification."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

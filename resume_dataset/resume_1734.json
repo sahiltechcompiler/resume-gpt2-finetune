@@ -1,0 +1,117 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Jitesh Kumar",
+  "college": "KIET Group Of Institutions",
+  "locations": [
+    "Ghaziabad",
+    "New Delhi",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "Detail-oriented Python programmer with internship experience in developing and implementing efficient algorithms and solutions. Leveraging Python libraries and frameworks to deliver scalable and robust applications.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed comprehensive SQL Essential Training, gaining proficiency in database management, querying, and data manipulation techniques. Developing skills in database administration, data modeling, and structured query language implementation. Learning essential concepts such as database design, and SQL querying.",
+        "skillsLearned": [],
+        "title": "SQL Essential Training",
+        "issuer": "LinkedIn Learning",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "7.65/10 SGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya JNU Campus",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "90.6 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya JNU Campus",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "New Delhi",
+        "ID": 2.0,
+        "grade_received": "87.6 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather App",
+        "description": "Developed a comprehensive Weather App, utilizing APIs to provide real-time weather updates, forecasts, and interactive features for users. Engineered a Weather App with personalized features, allowing users to customize notifications, set location preferences, and access weather forecasts tailored to their needs. Incorporating data visualization tools to present meteorological data effectively, enhancing user experience and engagement.",
+        "keywords": [],
+        "endDate": "Sep 2023",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Parking Automation",
+        "description": "Developed a parking automation system using OpenCV for real-time identification and verification of users. Implemented facial recognition algorithms to match user identities with their driving license photos stored in a database. Generated real-time parking access passes upon successful verification, allowing authorized users seamless entry and exit.",
+        "keywords": [],
+        "endDate": "Sep 2022",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python Programming",
+        "skillsUsed": [],
+        "endDate": "31 August 2022",
+        "company_name": "YBI",
+        "description": "",
+        "location": "Remote",
+        "links": "",
+        "startDate": "18 August 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "VS Code",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Jitesh Kumar",
+    "position": "",
+    "interests": [
+      "Video Editing in Adope"
+    ],
+    "achievements_and_awards": [
+      "Solved 100+ DSA problems from leetcode platform"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

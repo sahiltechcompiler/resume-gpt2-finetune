@@ -1,0 +1,141 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Nithyanandaswarup Narayanam",
+  "college": "SRM University",
+  "locations": [
+    "Neerukonda, Amaravati, AP",
+    "Lakshmipuram, Guntur",
+    "Gorantla, Guntur",
+    "Amaravati, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "August 2023",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Neerukonda, Amaravati, AP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "April 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Lakshmipuram, Guntur",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Higher Secondary Education",
+        "startDate": ""
+      },
+      {
+        "school": "Oxford Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Gorantla, Guntur",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "Secondary Education",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Social Media App - Hobnob",
+        "description": "Ideated and developing a website where people can interact with each other by creating communities. Utilized MERN stack to develop and deploy authentication, search functionality, and messaging features, enhancing overall user experience.",
+        "keywords": [
+          "MERN stack",
+          "authentication",
+          "search functionality",
+          "messaging features"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Human Fall Detection Using ML (Research Project)",
+        "description": "Developed a ML-based human fall detection system using MediaPipe and OpenCV on the UR Fall Detection Dataset, enhancing accuracy in real-time fall identification. Implemented advanced computer vision techniques for efficient pose estimation, significantly improving emergency response times for fall incidents.",
+        "keywords": [
+          "MediaPipe",
+          "OpenCV",
+          "ML",
+          "computer vision",
+          "pose estimation"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Timetable Allocation System",
+        "description": "Developed a timetable allocation system that combines genetic algorithms for course sequencing with heuristic search for slot assignment, ensuring optimal resource use and lecturer availability. Designed and executed experiments to validate the systems effectiveness, achieving maximum fitness values indicating successful scheduling of all courses within specified constraints.",
+        "keywords": [
+          "genetic algorithms",
+          "heuristic search",
+          "timetable allocation"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Discord Bot",
+        "description": "Developed a real-time discord bot application using the Discord API, implementing mini-games and interactions within the Discord platform. Extended the bots features to implement other tasks on the same platform.",
+        "keywords": [
+          "Discord API",
+          "bot",
+          "mini-games"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [
+          "machine learning",
+          "data analysis",
+          "algorithm refinement"
+        ],
+        "endDate": "August 2023",
+        "company_name": "SRM University",
+        "description": "Spearheaded a rigorous research initiative focusing on pioneering advancements in stock market prediction through machine learning methodologies. Leveraged cutting-edge techniques to analyze historical stock data, resulting in a predictive model that showcased a 15% increase in accuracy compared to traditional methods. Collaborated with a multidisciplinary team to refine algorithms, contributing to an innovative research project with potential implications for financial markets.",
+        "location": "Amaravati, India",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "HTML/CSS",
+      "SQL",
+      "C++",
+      "C",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "Nithyanandaswarup Narayanam",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

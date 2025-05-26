@@ -1,0 +1,148 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Diswanth Sai Movva",
+  "college": "SRM AP University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "https://github.com/DiswanthSai",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analytics and Visualization Job Simulation",
+        "issuer": "Accenture North America",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management Systems (DBMS)",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM AP University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Computer Science Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.4",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitnya JR.College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.2%",
+        "field_of_study": "SSC Board",
+        "startDate": ""
+      },
+      {
+        "school": "Nalanda Vidya Niketan",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "CBSE Board",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Principal Component Analysis (PCA) on a Dataset",
+        "description": "Implemented PCA from scratch in Python to reduce dataset dimensionality, utilizing NumPy for matrix operations and computation of eigenvalues and eigenvectors. Validated custom PCA results against scikit-learns PCA, achieving consistent outcomes, demonstrating a strong grasp of mathematical principles and practical application of PCA.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blood Bank System",
+        "description": "Built a comprehensive Blood Bank System website using HTML, CSS, MongoDB, and Flask, enabling users to register as donors or receivers and facilitating efficient blood donation and transfusion processes. Created a secure user authentication, Database Management and a user-friendly interface.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "HR Exploratory Data Analysis (EDA)",
+        "description": "Conducted exploratory data analysis (EDA) on HR data using Python, utilizing tools such as Pandas, Matplotlib, Seaborn, and Jupyter Notebook to generate insights and visualizations. Identified key trends in employee demographics and performance. Applied machine learning algorithms to classify data, enhancing the analysis by predicting employee outcomes and improving the understanding of patterns within the HR dataset.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blackjack Game in Java",
+        "description": "Designed and developed a Blackjack game in Java, featuring player and dealer turns, as well as scoring, utilizing Object-Oriented Programming principles for reusable and modular code. Utilized core concepts such as classes, loops, and methods to ensure code maintainability and readability, enhancing the overall structure and functionality of the game.",
+        "keywords": [],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Survey Conducted",
+        "skillsUsed": [],
+        "endDate": "December 2023",
+        "company_name": "",
+        "description": "Conducted a survey on object detection technologies, covering deep learning methods like CNNs and YOLO, and region-based methods such as R-CNN and Fast R-CNN. Aimed to provide an in-depth understanding of the current landscape and advancements in object detection techniques for improving accuracy and efficiency in diverse applications.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      },
+      {
+        "role_name": "Developer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "University",
+        "description": "Developed an IoT project using Python and Object-Oriented Concepts, integrating sensors, diverse event data, and UAV technology for applications like monitoring and disaster response. Leveraged real-time data processing and automation to enhance operational efficiency and effectiveness across various scenarios. This approach significantly improved overall system reliability.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python(Pandas,Numpy,Matplotlib,Scikit-learn)",
+      "Java",
+      "Cpp",
+      "C",
+      "HTML",
+      "CSS3",
+      "JavaScript",
+      "React Js",
+      "Express Js",
+      "SQL",
+      "MongoDb"
+    ],
+    "soft_skills": [],
+    "name": "Diswanth Sai Movva",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Successfully participated in MesoHacks By Devfolio (2022)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Computer Science Engineering"
+}

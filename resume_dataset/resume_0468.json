@@ -1,0 +1,111 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Raj Kaneriya",
+  "college": "Charotar University of Science and Technology",
+  "locations": [
+    "Changa, India",
+    "Bangalore, India",
+    "Ahmedabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Charotar University of Science and Technology",
+        "endDate": "Jun 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Changa, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Technology",
+        "startDate": "Jun 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "TileMart, E-Commerce Application",
+        "description": "Build a full-fledged e-commerce mobile application (Tilemart) using Flutter for the front end and Django for the back end, enabling users to purchase tiles online. Implemented a user-friendly interface for browsing a vast tile catalog (e.g., 5,000+ tiles) with intuitive search filters by color, material, size, and other relevant attributes. It increased the average order value by 25% through the machine learning preview feature.",
+        "keywords": [
+          "Flutter",
+          "Django"
+        ],
+        "endDate": "Jun 2022",
+        "startDate": "May 2022",
+        "url": ""
+      },
+      {
+        "name": "Reddit Clone, Academic project",
+        "description": "Developed a social news application (Reddit Clone) using Flutter for a seamless mobile experience and Firebase for scalable backend functionalities and performance inclined by 15%. Built a user-friendly interface inspired by Reddit, allowing users to browse through various communities (subreddits), explore trending topics, and personalize their feeds based on their interests.",
+        "keywords": [
+          "Flutter",
+          "Firebase"
+        ],
+        "endDate": "Mar 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      },
+      {
+        "name": "PTT (push to talk), Motorola Solutions",
+        "description": "Optimized user interaction by implementing clear call-to-action buttons and intuitive design elements, resulting in a 20% decrease Led the migration of the PTT application from its original platform to Flutter, a modern mobile framework, resulting in a 20% reduction in reported bugs.",
+        "keywords": [
+          "Java",
+          "Flutter"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Sep 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [
+          "Flutter"
+        ],
+        "endDate": "May 2024",
+        "company_name": "Motorola Solutions",
+        "description": "Collaborated with multiple teams such as the product managers and developers to clarify requirements, draft design proposals, and implement the best option and as a result reduced the workload by 10%. Identified and rectified 10+ high-priority bugs that were impacting application stability and user experience. Applied my expertise in Flutter to rewrite portions of the PTT application codebase, resulting in performance enhancements of 20%.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "Sep 2023"
+      },
+      {
+        "role_name": "Android Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2022",
+        "company_name": "Raven Technolabs",
+        "description": "Collaborated with development teams to implement code maintainability best practices, leading to a 20% decrease in bug recurrence rate in subsequent releases. Independently developed and integrated a machine learning-powered recommendation system for a simulated e-commerce application. personalized product suggestions that increased click-through rates by 8%.",
+        "location": "Ahmedabad, India",
+        "links": "",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Dart",
+      "Flutter",
+      "Kotlin",
+      "MongoDB",
+      "MySQL",
+      "Django",
+      "Nodejs",
+      "Flask"
+    ],
+    "soft_skills": [],
+    "name": "Raj Kaneriya",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ahmedabad, Gujarat",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

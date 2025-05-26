@@ -1,0 +1,115 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "KUNDAN KUMAR",
+  "college": "Indian Institute of Information Technology",
+  "locations": [
+    "Kota, Rajasthan",
+    "Nalanda, Bihar"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Kota, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "GPA  7.00",
+        "field_of_study": "Electronics and communication Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "TranquilTales (Blog Website)",
+        "description": "Implemented user registration, authentication, and profile management, allowing users to create and personalize the profiles with photos, fostering a sense of identity and community within the platform. Developed robust blogging capabilities for registered users, enabling to create, edit, and publish blog posts, as well as engage with other users through comments, enhancing the overall user experience and interaction. Improved NodeJS web app by migrating to Connect-mongo for sessions, reducing errors and enhancing UX by 40%. Used Express-Session for managing session data and maintaining user information during interactions with the application which increases the UX by 50%. Implemented Bcrypt and Bcryptjs encryption algorithm to enhance data security and protect user passwords, reducing the risk of unauthorized access by 90%.",
+        "keywords": [
+          "Bcrypt",
+          "NodeJS",
+          "ExpressJS",
+          "Connect-mongo",
+          "EJS",
+          "Git",
+          "CSS",
+          "Multer",
+          "Cloudinary",
+          "Express-session"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub | Live Site"
+      },
+      {
+        "name": "MI Store Clone (E-Commerce Website)",
+        "description": "Designed an intuitive e-commerce platform with efficient product browsing and search capabilities, enhancing the customer's ability to discover and explore products effectively. Implemented a user-centric shopping experience with a visually appealing cart, profile management, and product rating features, fostering user satisfaction, engagement, and feedback for continuous improvement. Built frontend using React and used React Router for Routing to different pages. Made REST architectural style service with NodeJS. Implemented Authentication using JWT and cookies.",
+        "keywords": [
+          "React",
+          "NodeJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub | Live Site"
+      },
+      {
+        "name": "Personal Portfolio Website",
+        "description": "Added React-typical typewriter animation which increases the appearance by 80%.",
+        "keywords": [
+          "React",
+          "NodeJS",
+          "ExpressJS",
+          "Git",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub | Live Site"
+      },
+      {
+        "name": "Weather Predictor",
+        "description": "Created a weather predictor web application using HTML, CSS, and JavaScript and utilized JavaScript to handle user input, retrieve location or city names, and initiate weather predictions. Integrated a weather API OpenWeatherMap to fetch real-time weather data based on user input and data is correct over 90%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub | Live Site"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "Axios",
+      "JWT",
+      "Cloudinary",
+      "Multer",
+      "EJS"
+    ],
+    "soft_skills": [],
+    "name": "KUNDAN KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved more than 600 Questions on different platforms like LeetCode(Link), GFG and CodeStudio.",
+      "Contest rating of 1603 on LeetCode in weekly contest 354.",
+      "Got 3rd Position in Inter College work culture case study presentation held by SIES college (Link).",
+      "Achieved 7th Rank in Bihar Engineering in 2020."
+    ],
+    "publications": []
+  },
+  "current_location": "Nalanda, Bihar",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B. Tech"
+}

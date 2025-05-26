@@ -1,0 +1,158 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Harsh Kochgavey",
+  "college": "SRM UNIVERSITY",
+  "locations": [],
+  "full_output": {
+    "summary": "An undergraduate BTech student majoring in Computer Science Engineering, with a deep passion for AI and Machine Learning. Im on a mission to harness AIs potential to create innovative solutions. Seeking opportunities to contribute expertise and advance emerging technologies.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Fundamentals of Linux and Data Analytics",
+        "issuer": "VOIS",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python(Basic)",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "E-Business",
+        "issuer": "NPTL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Base Management System",
+        "issuer": "NPTL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "80.4 Percentage",
+        "field_of_study": "Computer Science And Engineering with Specialization in AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83.8 Percentage",
+        "field_of_study": "CBSE Board",
+        "startDate": ""
+      },
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "CBSE Board",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "WhoOwesWhome",
+        "description": "Developed Who Owes Whom, a Python-powered web app for splitting expenses among groups. Implemented user login, debt tracking, multiple rooms, and personal budgets using Flask/Django, MongoDB, and various Python libraries. Used HTML, CSS, JavaScript, and Bootstrap for the frontend.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Remaining Useful Life prediction of Lithium Batteries using Gaussian Process Regression",
+        "description": "This study aims to estimate RUL by utilizing indirect health indicators (IHIs) extracted from voltage, current, and time profiles during charge-discharge cycles. This research emphasizes the implementation of Gaussian Process Regression (GPR) and evaluates its effectiveness in comparison to various machine learning algorithms.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web development intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Python",
+          "Django",
+          "Flask",
+          "PostgreSQL",
+          "MongoDB",
+          "OAuth",
+          "JWT"
+        ],
+        "endDate": "July 2023",
+        "company_name": "OctaNet",
+        "description": "During my Web Development Internship at Octa Net, I gained hands-on experience in front-end (HTML, CSS, JavaScript) and back-end (Python, Django, Flask) development. I tackled complex Python concepts like asynchronous programming, Web Sockets, API development, database management (PostgreSQL, MongoDB), and secure authentication (OAuth, JWT), along with testing and debugging. This provided a comprehensive understanding of real-world web development and advanced Python programming.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "UI/UX",
+      "Graphic Designing",
+      "Frontend",
+      "Figma",
+      "Android Development",
+      "DSA",
+      "MS EXCEL",
+      "DBMS"
+    ],
+    "soft_skills": [],
+    "name": "Harsh Kochgavey",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

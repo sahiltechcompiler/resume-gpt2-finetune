@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aditya Kumar Singh",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Gopalganj"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic Computer Science student with a solid foundation in programming, algorithms, and data structures. Proficient in Java ,MERN stack . Strong problem-solving skills and a passion for learning and adapting to new technologies. Currently seeking internships/opportunities to apply academic knowledge in a practical setting and contribute effectively to innovative projects",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Essential Google Cloud Infrastructure: Foundation",
+        "issuer": "Google Cloud (CourseEra)",
+        "certiLink": "Link"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "7.45 CGPA",
+        "field_of_study": "Computer Science",
+        "startDate": "Sep. 2021"
+      },
+      {
+        "school": "Indra Gandhi Shivnath Singh college",
+        "endDate": "May. 2018",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Gopalganj",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "UMS bhagwanpur",
+        "endDate": "May. 2016",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "gopalganj",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Learning Management System (LMS)",
+        "description": "A comprehensive Learning Management System developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project facilitates online learning, including features such as user authentication, course management, content delivery. In this Web-app, you can create new courses, modules, and users. You can assign these modules to instructors and students. There are three roles: Students can only view and complete course material, Instructors can create and manage course content, and Admins have full access including user management and system settings. Implemented JWT Web-token for encryption and decryption purposes and used Redux Toolkit for state management.",
+        "keywords": [],
+        "endDate": "October 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Multiple Diseases Prediction System",
+        "description": "This is a simple web application where users can predict multiple diseases based on various input features. The app contains lots of features and functionalities including predictions for diseases such as Diabetes, Parkinsons disease, Heart disease, and Breast cancer. The machine learning models used in this application are trained on relevant datasets to make accurate predictions. I have used Streamlit for the frontend interface, various machine learning algorithms for prediction models, and Python for backend processing.",
+        "keywords": [
+          "Machine Learning",
+          "Streamlit"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "POKEDEX",
+        "description": "This is a full stack web application where users can search and view details about different Pokemon. The app contains features such as searching for Pokemon by name or ID, viewing detailed information about each Pokemon, and browsing through a list of all available Pokemon. The application uses the PokeAPI to fetch data and display it dynamically using React components. I have used React.js for the frontend, integrated with the PokeAPI for fetching data, and applied CSS for styling the components.",
+        "keywords": [
+          "React"
+        ],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "",
+        "description": "Created full-stack websites using the MERN stack Technology, utilizing MongoDB, Express.js, Node.js for backend Part, and React.js for the frontend Part. Progressively solving data structures and algorithm problems on platforms like LeetCode and and Codeforces, primarily using JAVA. Continuously learning and creating mini-projects, which can be found on my GitHub account.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep. 2021"
+      }
+    ],
+    "skills": [
+      "Java (DSA)",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "Redux Toolkit",
+      "Tailwind",
+      "DOM",
+      "Git",
+      "VSCode",
+      "Cloud Computing"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Kumar Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "solve 150 LeetCode problems"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

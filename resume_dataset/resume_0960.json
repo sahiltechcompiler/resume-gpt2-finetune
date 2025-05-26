@@ -1,0 +1,120 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Manmeet Singh",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA : 8.86/10",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Guru Harkrishan Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XII(Senior Secondary)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "84%",
+        "field_of_study": "Science",
+        "startDate": ""
+      },
+      {
+        "school": "Guru Harkrishan Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "X(Secondary)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "82%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "To Do List (Web Application)",
+        "description": "HTML document creates a simple \"To Do List\" that lets users add, check off, and remove tasks. It uses Bootstrap for styling and includes JavaScript for interaction. The layout is structured within a Bootstrap container, displaying tasks inside a card. Users can input tasks in the text eld and click \"Add\" to include them in the list. Existing tasks can be marked as checked by clicking on them, and the \"\" icon next to each task allows removal. Overall, this interactive \"To Do List\" offers basic task management features in a clean and organized manner.",
+        "keywords": [],
+        "endDate": "2021",
+        "startDate": "",
+        "url": "https://github.com/Manmeet07/OCTANET_AUGUST/tree/main/Task 2"
+      },
+      {
+        "name": "To Do List(Python Application)",
+        "description": "The Python script utilizes the Tkinter library to create a visually appealing to-do list application. Upon running the script, a window opens with a stylish background image, showcasing a user-friendly interface for task management. The interface features a title label in an Algerian font, a listbox for displaying tasks, an input eld for adding new tasks, and buttons to add, delete, and save tasks. Tasks are loaded from and saved to a \"tasks.txt\" le, ensuring persistent storage. Users can effortlessly add and remove tasks through the provided buttons, making task organization intuitive and efcient. Overall, the script offers a well-designed graphical to- do list application that enables users to manage tasks with ease.",
+        "keywords": [],
+        "endDate": "2019",
+        "startDate": "",
+        "url": "https://github.com/Manmeet07/To-Do-List-Python"
+      },
+      {
+        "name": "Landing Page(Hosthelper)",
+        "description": "Landing Page using design, HTML, and CSS. It displays my adeptness in creating captivating interfaces, enhancing user experience, and strategic calls to action. A showcase of my web development prowess and product presentation nesse.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Manmeet07/OCTANET_AUGUST/tree/main/Task 1"
+      },
+      {
+        "name": "Library Management System Using Python",
+        "description": "Python-MySQL based User Interactive Windows Application, thoughtfully designed using Tkinter. Seamlessly merging Python's prowess with MySQL's database capabilities, this application offers an intuitive interface for effortless data interaction. From data input and updates to quick retrievals, tasks are streamlined for efciency while upholding data security through robust encryption and authentication measures. Experience a compact, user-friendly solution ideal for various needs, where the power of real-time data management is at your ngertips.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Manmeet07/Library-Management-System"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Punjabi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "OctaNet",
+        "description": "As a Web Developer at OctaNet, I apply my Programming skills and Knowledge to Create and Maintain Websites that Meets the expectations of the Client.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C Language",
+      "C++",
+      "HTML",
+      "CSS",
+      "Java",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Manmeet Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "4 Star @ HackerRank",
+      "NCC Cadet"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

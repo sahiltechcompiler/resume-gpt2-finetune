@@ -1,0 +1,140 @@
+{
+  "project_count": 3.0,
+  "designation": "nal-year Computer Science Engineering student specializing in Articial Intelligence and Machine Learning",
+  "name": "Yaswanth Behara",
+  "college": "SRM University",
+  "locations": [
+    "Amaravati, Andhra Pradesh",
+    "Vijayawada, Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "I am a nal-year Computer Science Engineering student specializing in Articial Intelligence and Machine Learning at SRM University, with a strong commitment to leveraging advanced technologies to address real-world challenges. My academic background includes a robust foundation in algorithms, data structures, and programming languages, complemented by practical experience in machine learning, deep learning, and data analytics gained through various projects and internships. I possess strong skills in data visualization and Python, along with prociency in MS Ofce tools such as Excel and PowerPoint. Additionally, my excellent communication skills in English and Telugu enable effective collaboration and the clear articulation of complex ideas. I am seeking opportunities to contribute my expertise in a dynamic and challenging work environment, where I can further advance my skills in AI and ML while driving innovative solutions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "TATA DATA VISUALISATION",
+        "issuer": "In Forage",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AGILE METHODOLOGY",
+        "issuer": "Cognizant",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Btech.",
+        "location": "Amaravati, Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science, Articial Intelligence",
+        "startDate": "Aug 2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Vijayawada, Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "MPC",
+        "startDate": "Aug 2019"
+      },
+      {
+        "school": "Narayana English Medium School",
+        "endDate": "May 2019",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "Vijayawada, Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "Aug 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chat bot for mental health support",
+        "description": "Developed a chat bot for mental health support. It can take the input in NLP and gives the output in NLP using neural network module. Used MongoDB for the database and PyTorch as the library.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "Java Script",
+          "MongoDB",
+          "PyTorch"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Diabetic Care Taker",
+        "description": "Built a Diabetic Care Taker that show sthe data visually. Implemented a model that helps to keep track of the diabetic patients. Used the MY SQL as a database and Tableau for the data visualisation.",
+        "keywords": [
+          "Python",
+          "MY SQL",
+          "Tableau"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chess Game Using Minmax Articial Intelligence",
+        "description": "Built Chess Game using Minmax algorithm in AI. Implemented a chess game between boat and user, boat is controlled and steps are calculated by the algorithm. It uses min max algorithm to caluclate the moves againist the user mover.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "Java Script",
+          "HTML",
+          "NLTK"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "Python",
+      "C++",
+      "My SQL",
+      "C language",
+      "MS Word",
+      "MS excel",
+      "PowerPoint",
+      "Tableau"
+    ],
+    "soft_skills": [
+      "Excellent communication skills in English and Telugu"
+    ],
+    "name": "Yaswanth Behara",
+    "position": "nal-year Computer Science Engineering student specializing in Articial Intelligence and Machine Learning",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Btech."
+}

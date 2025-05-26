@@ -1,0 +1,161 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Akshat Verma",
+  "college": "KIET GROUP OF INSTITUTIONS,AKTU",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "New Delhi, Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Alibaba Cloud Certification",
+        "issuer": "Alibaba Cloud",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to SQL",
+        "issuer": "SimpliLearn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Scientific Computing with Python",
+        "issuer": "freeCodeCamp",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Data Analytics",
+        "issuer": "AWS Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Coordinated report for enhanced student tech opportunities at STC KIET",
+      "Represented HackerEarth Coding Community as the Campus Ambassador, promoting coding culture and facilitating coding competitions and events.",
+      "Contributed as a volunteer for the GeeksforGeeks Student Chapter, supporting activities and initiatives related to coding and computer science education."
+    ],
+    "education": [
+      {
+        "school": "KIET GROUP OF INSTITUTIONS,AKTU",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA of 7.45",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "KENDRIYA VIDYALAYA JNU",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XII SCIENCE (CBSE)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "78.8%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "KENDRIYA VIDYALAYA JNU",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "X (CBSE)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "74.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Voting System",
+        "description": "Created an E-Voting System with Django, enabling automated voting processes. Developed features including user authentication, candidate registration, and result visualization.",
+        "keywords": [
+          "Django",
+          "Python",
+          "SQLite"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Multithreaded Proxy Server",
+        "description": "Designed a Proxy Server to handle multiple client requests, with or without storing the response as Cache. Handled the requests using semaphores, locks, and an HTTP parser. Used LRU Cache, Linked Lists, and different structs to achieve Multithreaded Behaviour of different client requests on Multiprocessor systems.",
+        "keywords": [
+          "Computer Networking",
+          "Multithreading and Processing",
+          "C language"
+        ],
+        "endDate": "December 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SQL Data Exploration",
+        "description": "Crafted complex SQL queries to extract insights from large datasets, utilizing techniques like joins, subqueries, and window functions. Performed data cleaning and preprocessing tasks, handling missing values, duplicates, and data transformations within SQL. Generated visually appealing reports and dashboards from SQL query results, enabling effective data storytelling and communication of findings.",
+        "keywords": [
+          "Python",
+          "SQL",
+          "Tableau"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "2020",
+        "company_name": "EY GDS",
+        "description": "Developed an E-Voting System using Django framework, demonstrating proficiency in full-stack web development. Implemented key functionalities such as user authentication, candidate registration, and result visualization, showcasing expertise in backend development.",
+        "location": "New Delhi, Delhi",
+        "links": "",
+        "startDate": "2019"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Akshat Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

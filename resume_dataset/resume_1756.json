@@ -1,0 +1,182 @@
+{
+  "project_count": 4.0,
+  "designation": "Web Developer",
+  "name": "A D I T Y R O Y",
+  "college": "CBS Group of Institutions",
+  "locations": [],
+  "full_output": {
+    "summary": "Skilled web developer with expertise in crafting attractive and user-friendly websites that boost interaction and yield outcomes. Proficient in HTML, CSS, JavaScript, React, Redux, and the MERN stack. Demonstrated ability in efficient self-management for independent projects and effective teamwork in collaborative environments.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Devtown certificate for completing a bootcamp on \"Netflix Clone\" using HTML, CSS, and JavaScript.",
+        "skillsLearned": [],
+        "title": "Netflix Clone",
+        "issuer": "Devtown",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Lets Upgrade certificate for completing the \"React.js Essentials\" bootcamp.",
+        "skillsLearned": [],
+        "title": "React.js Essentials",
+        "issuer": "Lets Upgrade",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Lets Upgrade certificate for completing the \"Postman API Fundamentals\" bootcamp.",
+        "skillsLearned": [],
+        "title": "Postman API Fundamentals",
+        "issuer": "Lets Upgrade",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Lets Upgrade certificate for completing the \"JavaScript Essentials\" bootcamp.",
+        "skillsLearned": [],
+        "title": "JavaScript Essentials",
+        "issuer": "Lets Upgrade",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "CBS Group of Institutions",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "73%",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Lilawati Vidya Mandir Sr. Sec. School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "80%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Lilawati Vidya Mandir Sr. Sec. School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "94%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce Website",
+        "description": "Built a simple e-commerce website enabling users to browse products, add them to the cart or wishlist and complete the checkout process using Stripe. Developed a comprehensive REST API supporting essential ecommerce functionalities including product management, user authentication, order processing, and product management. Designed endpoints for adding, updating, and deleting products; managing customer profiles and orders. Optimized database interactions and ensured scalability using MongoDB, achieving high performance and data integrity.",
+        "keywords": [
+          "Nextjs",
+          "RestAPI",
+          "Stripe",
+          "MongoDB",
+          "Clerk",
+          "Tailwind CSS",
+          "Shadcn"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-commerce dashboard",
+        "description": "Created an e-commerce dashboard for admin users to manage products and collections. Enabled tracking of customers, their order details, total revenue, and orders. Optimized database interactions and ensured scalability using MongoDB, achieving high performance and data integrity. Integrated Stripe for secure payment processing. Implemented REST API for efficient data handling and communication. Used Clerk for authentication and user management.",
+        "keywords": [
+          "Nextjs",
+          "RestAPI",
+          "Stripe",
+          "MongoDB",
+          "Clerk",
+          "Tailwind CSS",
+          "Shadcn"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Coffee Shop",
+        "description": "Developed a platform where users can browse and select from different varieties of coffee. Implemented a table reservation feature where users can provide their details to reserve a table. Integrated EmailJS to send confirmation emails for table reservations. Utilized ReactJS to build an intuitive and responsive user interface.",
+        "keywords": [
+          "Reactjs",
+          "EmailJS"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Netflix clone",
+        "description": "Developed a Netflix clone utilizing the TMDB API for movie data retrieval. Implemented user authentication and data storage using Firebase. Enabled users to search for movies by genre and like or unlike them. Utilized Redux for state management to ensure a seamless user experience. Built a scalable backend with NodeJS and ExpressJS, and managed data with MongoDB.",
+        "keywords": [
+          "ReactJS",
+          "Redux",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Firesbase"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Team leader",
+        "skillsUsed": [],
+        "endDate": "Dec 2022",
+        "company_name": "VIRAL FISSION",
+        "description": "Adapted quickly to the role of youth ambassador upon joining. Efficiently managed 30+ ambassadors, ensuring seamless execution of tasks and responsibilities.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2020"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Next.js",
+      "Express.js",
+      "Redux",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Shadcn",
+      "MongoDB",
+      "VS Code",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "A D I T Y R O Y",
+    "position": "Web Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B Tech"
+}

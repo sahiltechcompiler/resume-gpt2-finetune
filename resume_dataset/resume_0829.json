@@ -1,0 +1,102 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "K Srinath Reddy",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.88/10.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "89.4%",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fruit Recognition using VGG-19",
+        "description": "The VGG-19 technology was employed to recognize the input image of the fruit. A standout feature of our project is its ability to accurately recognize fruits with over 90% precision, even when the input image is blurred. Significant changes have been implemented in the architecture of VGG-19 incorporating an unblurring layer after the first convolutional layer. This improvement led to an outstanding accuracy rate surpassing 90%.",
+        "keywords": [
+          "Python",
+          "VGG-19",
+          "Image Processing"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "Stream-Chat",
+        "description": "Engineered a secure chat application using React and Firebase, achieving 99.9 % uptime and supporting real-time messaging. Implemented 3 key features such as file attachments, message deletion, and friend search, enhancing user experience and engagement. Identified and documented 6 potential future improvements to boost user satisfaction and platform scalability. Leveraged React and Firebase to develop a robust application with a focus on security and usability, protecting user data with end-to-end encryption.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "React",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "NoteVault",
+        "description": "Designed a user-friendly interface with 4 key features: note creation, editing, deletion and searching. Integrated secure user authentication using Firebase Authentication, ensuring data security and seamless user interactions. Streamlined the user experience by enhancing UI responsiveness. Leveraged Firebase Realtime Database for real-time data synchronization and efficient data storage.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "React",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Python",
+      "JavaScript",
+      "Java",
+      "HTML",
+      "CSS",
+      "React",
+      "VS Code",
+      "Google Collab",
+      "MySQL",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "K Srinath Reddy",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

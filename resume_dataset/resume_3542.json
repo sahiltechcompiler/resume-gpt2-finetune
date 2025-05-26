@@ -1,0 +1,217 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Manvi Jain",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "REMOTE",
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Design and Analysis of Algorithms",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Software Engineering",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco - Introduction to Cybersecurity",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Coursera- AI for Everyone",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco - Cybersecurity Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft- Learn AI Cloud Skills",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco - Programming Essentials in Python",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.63",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "DAV Public School Sreshtha Vihar",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94.4",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "DAV Public School Sreshtha Vihar",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "95",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ProctorLess",
+        "description": "Developed an autonomous remote exam proctoring solution using Machine Learning and Deep Learning techniques. Built various AI Proctoring models which Included: Eye-Detection, Mouth open Detection, Malicious Object Detection, Plagiarism Checker, Headphones Detection and Speech Recognition Surveillance. Built a demo website for the deployment of AI solutions.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "TensorFlow",
+          "Keras",
+          "YoloV5",
+          "ReactJS",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Comparative Analysis of Recommendation Techniques",
+        "description": "Developed and implemented a popularity-based recommendation algorithm, achieving a precision of 0.528 and a recall of 0.201, which increased sales of trending items. Suggest items and users based on similar user and item preferences through memory-based collaborative filtering and applied model-based collaborative filtering model for better efficiency. Combined Gradient Boosting Decision Trees (GBDT) and Logistic Regression (LR) to enhance user-item recommendations, effectively addressing cold start and data sparsity issues, achieving an RMSE of 0.914 and MAE of 0.781.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "NumPy",
+          "Pandas",
+          "Matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "PCOS Detection using Visible Features",
+        "description": "Successfully detected PCOS using Principal Component Analysis (PCA) and ensemble learning techniques, achieving 82.22% accuracy with SVC, 93.2% accuracy with XGBoost, and 89.6% accuracy with Random Forest Classifier (RFC), thereby improving overall accuracy and F1 score.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "NumPy",
+          "Pandas",
+          "Matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Scientist Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "CELEBAL TECHNOLOGIES",
+        "description": "Utilized advanced machine learning algorithms to develop a loan prediction model. Consistently completed weekly data analytics and model evaluation tasks. Gained hands-on experience with various data science tools and techniques, including data preprocessing, feature engineering, and model validation.",
+        "location": "REMOTE",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Data Scientist Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "INNOVATIVIEW INDIA Pvt Ltd",
+        "description": "A Convolutional Neural Network (CNN) automatically analyzed each video frame to identify key elements relevant to the behaviour being studied. A Long Short-Term Memory Network (LSTM) processed the extracted features from the video sequence, capturing the order and relationships between them to identify complex behavioural patterns.",
+        "location": "Noida",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "Java",
+      "HTML",
+      "CSS",
+      "PHP",
+      "JavaScript",
+      "MySQL",
+      "Computer Vision",
+      "Pandas",
+      "NumPy",
+      "OpenCV",
+      "TensorFlow",
+      "Keras",
+      "Matplotlib",
+      "Seaborn"
+    ],
+    "soft_skills": [
+      "Conflict Management Abilities",
+      "Teamwork and Collaboration",
+      "Public Speaking"
+    ],
+    "name": "Manvi Jain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

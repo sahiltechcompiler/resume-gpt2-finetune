@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Yatin Sabikhi",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "New Delhi, Delhi",
+    "Noida, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "Aug 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi, Delhi",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.35 / 10.00",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Modern Era Convent School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XIIth Grade",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 95.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Modern Era Convent School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Xth Grade",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 92.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Retail Billing Software",
+        "description": "* Leaded the development of a fully functional billing software in Python, achieving a 30% increase in user engagement through Tkinters user-friendly GUI.\n* Implemented robust le handling, utilizing CSV les to manage user information, product details, and sta data eciently, resulting in a 25% reduction in data retrieval time.\n* Integrated MySQL database for ecient data management, contributing to a 20% improvement in overall application performance, and implemented bill printing using the OS module along with leveraging PIL for image-related operations within the application.",
+        "keywords": [
+          "Python",
+          "Tkinter",
+          "PIL",
+          "Random",
+          "OS",
+          "MySQL",
+          "File Handling"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Memes Website",
+        "description": "* Developed a dynamic Memes website using HTML, Bootstrap, ensuring an appealing and responsive user interface.\n* Implemented JavaScript and the Fetch API to dynamically fetch memes from a public API, contributing to a 25% increase in user engagement.",
+        "keywords": [
+          "HTML",
+          "Bootstrap",
+          "JavaScript",
+          "Fetch API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Food Delivery Website",
+        "description": "* Developed a visually appealing and responsive online food delivery platform using HTML and CSS, incorporating advanced styling concepts like Flexbox for optimal layout design.\n* Enhanced user experience by implementing Media Queries, ensuring seamless responsiveness across various devices and achieving a 30% improvement in overall website accessibility.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Flexbox",
+          "Media Queries"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Android Development Intern",
+        "skillsUsed": [],
+        "endDate": "Sept 2023",
+        "company_name": "Acxiom Consulting Pvt. Ltd.",
+        "description": "Took an active role in the development of Android applications, achieving a signicant 15% improvement in overall application performance through the optimization of Android Studio projects.\nCollaborated with cross-functional teams to enhance app functionality, incorporating mentorship and feedback, resulting in substantial improvements in project outcomes.\nSuccessfully built multiple Android projects during the internship, including engaging applications like Tic Tac Toe, Media Player, Unit Converter, and a News Application fetching real-time updates using the News API.\nPlayed a pivotal role in app testing and renement processes, ensuring the delivery of high-quality and functional experiences, contributing signicantly to the success of the dynamic learning internship.",
+        "location": "Noida, Uttar Pradesh",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "XML",
+      "Node.js",
+      "Express.js",
+      "SQL",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "VSCode",
+      "Bootstrap",
+      "Android Studio"
+    ],
+    "soft_skills": [],
+    "name": "Yatin Sabikhi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

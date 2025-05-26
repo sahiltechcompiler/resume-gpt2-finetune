@@ -1,0 +1,126 @@
+{
+  "project_count": 1.0,
+  "designation": "Software Engineer",
+  "name": "Rishabh Srivastava",
+  "college": "JAYPEE INSTITUTE OF IT",
+  "locations": [
+    "Noida (On-Site)",
+    "Noida (On-site)",
+    "Noida (Remote)"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "JAYPEE INSTITUTE OF IT",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA  7.6",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "BOYS HIGH SCHOOL",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Aggregate marks in High School:- 12th  93.75% | 10th  91.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Picaboo",
+        "description": "Developed a Python and Open-CV project for face-swapping, allowing users to swap faces with friends, celebrities, or animals. Utilized computer vision and image processing techniques to detect faces, align facial features, and seamlessly swap faces. Implemented additional features like image filters and face landmark overlays for enhanced customization.",
+        "keywords": [
+          "Python",
+          "ML",
+          "Computer Vision"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [
+          "Deep Learning",
+          "Incremental classification",
+          "PyTorch",
+          "TensorFlow",
+          "ResNets"
+        ],
+        "endDate": "Present",
+        "company_name": "Vehant Technologies",
+        "description": "Contributed to the UVSS product deployed across major airports in India, focusing on car model detection from inception. Successfully reduced classification time from an average inference of 5 seconds to 0.23 seconds. Developed a forward-compatible classification model from scratch, capable of incrementally learning new features. This innovation reduces the need for extensive dataset retraining during software updates, cutting retraining time by 50% and resource usage by 40%. Technologies utilized: Deep Learning, Incremental classification, PyTorch, TensorFlow, ResNets.",
+        "location": "Noida (On-Site)",
+        "links": "",
+        "startDate": "July 2024"
+      },
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [
+          "Deep Learning",
+          "Diffusion Models",
+          "Transformers",
+          "Various classification models"
+        ],
+        "endDate": "June 2024",
+        "company_name": "Vehant Technologies",
+        "description": "Enhanced generative AI model efficiency by 5% through the integration of advanced diffusion models, positively impacting multiple projects. Developed and implemented a GAN-based diffusion model for Synthetic Data Generation, resulting in a 10% enhancement in deep learning project outcomes. Technologies utilized: Deep Learning, Diffusion Models, Transformers, Various classification models.",
+        "location": "Noida (On-site)",
+        "links": "",
+        "startDate": "January 2024"
+      },
+      {
+        "role_name": "Software Engineer Intern (Certificate)",
+        "skillsUsed": [
+          "Flutter",
+          "Googles Firebase",
+          "Git"
+        ],
+        "endDate": "July 2023",
+        "company_name": "QSS Technosoft",
+        "description": "Engineered a cross-platform (Android & iOS) app using Flutter, enabling efficient database querying for any updates. Deployed Firebase for backend infrastructure, supporting a user base of over 10,000 accounts and storing upwards of 2TB of user-generated content. Technology used: Flutter, Googles Firebase, Git.",
+        "location": "Noida (Remote)",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "ML / DL",
+      "Python",
+      "MySQL",
+      "Java",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "PHP",
+      "Mac OS",
+      "Linux / Unix",
+      "Windows"
+    ],
+    "soft_skills": [],
+    "name": "Rishabh Srivastava",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "BTech"
+}

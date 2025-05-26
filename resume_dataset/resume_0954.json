@@ -1,0 +1,185 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "DHRUV GUPTA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Kota, Rajasthan",
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "click here",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Introduction to Networks",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "click here",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "click here",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "click here",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Java and Object-Oriented Programming",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "click here",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Case study : AKIRA A Ransomware Attack",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "click here",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP - Programming Essentials in Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "click here",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Privacy Law and Data Protection",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech. (Hons.)",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "8.55 CGPA",
+        "field_of_study": "Computer Science & Engg. with specialization in IoT and Intelligent Systems",
+        "startDate": "2021"
+      },
+      {
+        "school": "Children Sr. Sec. School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Kota, Rajasthan",
+        "ID": 1.0,
+        "grade_received": "82.8%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Modern Sr. Sec. School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Kota, Rajasthan",
+        "ID": 2.0,
+        "grade_received": "87.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "RULE BASED CHATBOT",
+        "description": "The Chat-Bot is built using Python, utilizing classes and methods to structure the code. Uses regular expressions to match user queries with predefined intents and provide appropriate responses. Engages users with random questions and predefined answers through a command-line interface, ensuring dynamic and relevant interactions.",
+        "keywords": [
+          "Python",
+          "Regular Expressions (re module)",
+          "Random Module"
+        ],
+        "endDate": "May24",
+        "startDate": "",
+        "url": "[GitHub]"
+      },
+      {
+        "name": "FINGER PAD The Air Canvas",
+        "description": "Implemented real-time hand gesture recognition to track the movement of the user's hand. Utilized OpenCV library in Python to capture video frames and process them for gesture recognition. Designed a user-friendly interface allowing users to draw, erase, and change colors on the virtual canvas.",
+        "keywords": [
+          "OpenCV",
+          "Python",
+          "NumPy",
+          "Collections (deque)"
+        ],
+        "endDate": "March24",
+        "startDate": "",
+        "url": "[GitHub]"
+      },
+      {
+        "name": "UNBEATABLE TIC-TAC-TOE",
+        "description": "Developed a command-line Tic Tac Toe game using Python, supporting both human and computer players. Includes an AI player using the Minimax algorithm to always make optimal moves. Features a user-friendly CLI for interactive gameplay, with a clear visual representation of the game board and intelligent move handling.",
+        "keywords": [
+          "Python",
+          "OOPS",
+          "Mini-Max Algo",
+          "Time & Math Module"
+        ],
+        "endDate": "December23",
+        "startDate": "",
+        "url": "[GitHub]"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Salesforce Developer",
+        "skillsUsed": [],
+        "endDate": "Aug24",
+        "company_name": "SmartInternz",
+        "description": "Completed Salesforce Administrator Virtual Internship with SmartInternz and Salesforce, covering Salesforce fundamentals, organizational setup, Sales & Service Cloud, Flow & Chatter, security, data management, and Apex.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "July24"
+      }
+    ],
+    "skills": [
+      "C",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "DHRUV GUPTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "'Deans List of Excellence in Academics', ranked in the Top 25 of the branch for outstanding academic performance.",
+      "Led and managed a team of content writers, coordinating tasks and ensuring timely delivery of high-quality content."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech. (Hons.)"
+}

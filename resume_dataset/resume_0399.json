@@ -1,0 +1,122 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Aluri Dev Ananth",
+  "college": "SRMAP College",
+  "locations": [],
+  "full_output": {
+    "summary": "Myself Aluri Dev Ananth, a proactive third-year undergraduate in Computer Science, excels academically and embraces emerging technologies. With a knack for rapid learning and practical application, I demonstrates adaptability and problem-solving through extracurricular projects. Proficient in programming languages, MERN Stacks and data structures.I thrives in collaborative environments, offering innovative contributions. Eager to apply my skills in dynamic professional settings and seeks opportunities for growth and challenges.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRMAP College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.53/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "TSBIE Board",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 96/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "CBSE Board",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 89/100",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Google Shopping Scraping",
+        "description": "This Python project allows you to scrape product information from Google Shopping and save the data in both Excel and JSON formats. You can specify search options such as minimum and maximum price, shipping availability, and product sorting.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Google Shopping Scraping"
+      },
+      {
+        "name": "Quiz Up Platform",
+        "description": "This MERN Stack project allows Students to take test both full test and short Rapid Fire rounds. The platform will allow teachers to create large courses with multiple sub sections and quizzes to test the students to there full extent.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Quiz Up Platform"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Internship",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Codeswap Solutions",
+        "description": "This is Full Stack Internship where I have Developed a fully functional e-commerce website with ejs, Nodejs, Expressjs and MongoDB.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Research Work",
+        "skillsUsed": [],
+        "endDate": "December 2023",
+        "company_name": "",
+        "description": "Conducted research on object detection using the YOLO-CNN technique. Demonstrated that the YOLO-CNN technique is less prone to false positives in unoccupied areas, despite having higher localization errors compared to other detection systems.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      },
+      {
+        "role_name": "Internship",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "SRMAP",
+        "description": "I have designed, developed and developed a MERN Stack placement Portal, which is to handle placement details, application, eligibility, shortlisting, phase transfer after every round of every company for every student which is show all relevant cohort and stakeholders to boost the placement result for all stakeholders.",
+        "location": "",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "Cpp",
+      "Java",
+      "Python",
+      "SQL",
+      "Web Development(MERN)",
+      "Compiler Design",
+      "Computer Networks",
+      "Cryptography",
+      "Network Security"
+    ],
+    "soft_skills": [],
+    "name": "Aluri Dev Ananth",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Presented a paper at the ICAAAI conference and published the paper in Taylor & Francis. The paper is about the YOLO CNN Approach for Object Detection, Segmentation, and Classification. It uses CNN and RESNET to achieve better results than existing methods."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelors Degree"
+}

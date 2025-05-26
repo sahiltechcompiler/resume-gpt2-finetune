@@ -1,0 +1,131 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "K Satya Narayana",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.60/10.0",
+        "field_of_study": "Computer Science and Engineering with Specialization in AI and ML",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage : 85.2/100",
+        "field_of_study": "Intermediate: MPC",
+        "startDate": "2019"
+      },
+      {
+        "school": "Baashyam high School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage : 9.3/10",
+        "field_of_study": "Senior Secondary School",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Public Photography contest live voting",
+        "description": "Creating a contest by Admin so that User can Participate in Photo Contest after registration and able to Vote Upto 3 votes to any Other Photos. Developed using Mern Stack(MongoDb,React Js, Express, Node js)",
+        "keywords": [
+          "node js",
+          "react",
+          "express",
+          "python",
+          "html",
+          "css"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Object detection on UAVs",
+        "description": "The project is about identifing the UAVs(Unmaned Aireal vehicles)and Tested in real time environment using Machine learning and Neural Networks Models like (Mask R-CNN, Fast R-CNN). Accurately it also detects the Real time Objects with boder lines.",
+        "keywords": [
+          "Tesorflow",
+          "numpy",
+          "Python",
+          "Federated Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "BackPack",
+        "description": "Backpack is like to do list were You can checkmark the tasks that you want to do or done like emailng, sheduling for meeting, time to take break... etc. Also assigns the things you want to get remembered, can be noted in the list.",
+        "keywords": [
+          "Android studio",
+          "java"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "2025",
+        "company_name": "Teach-Nook",
+        "description": "Done an Internship in Teach-Nook about Beginner to advance in python and Developed ecommerse website with Chat Bot. Which helps user to search faster and Reviews of product.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2021"
+      }
+    ],
+    "skills": [
+      "Django",
+      "MySQL",
+      "MongoDB",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Git",
+      "Git Bash",
+      "Pandas",
+      "NumPy"
+    ],
+    "soft_skills": [],
+    "name": "K Satya Narayana",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved the Summer Internship Offer in Django Framework from APSSDC.",
+      "Earned a Pyhton Certification in Teach Nook.",
+      "Done a AWS, Mern stack Developer certification in Udemy."
+    ],
+    "publications": [
+      "Object Detection On UAVs: A federated learning based approach Using Faster R-CNN."
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

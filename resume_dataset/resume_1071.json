@@ -1,0 +1,124 @@
+{
+  "project_count": 4.0,
+  "designation": "MERN STACK DEVELOPER",
+  "name": "S M I T T A N D E L",
+  "college": "Savitribai Phule Pune University",
+  "locations": [
+    "Navsari"
+  ],
+  "full_output": {
+    "summary": "Self-starting and resourceful full-stack web developer with experience implementing front-end and back-end coding. Astute and always-learning designer of user interactions on websites and databases that are sound and easy to use. Proven problem-solver with a solid grounding in data-driven applications and concepts. Communicates clearly with technical and non-technical team members and promotes drive for customer service.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "AB School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior/Secondary Education",
+        "location": "Navsari",
+        "ID": 0.0,
+        "grade_received": "SSC: 81%, HSC: 87%",
+        "field_of_study": "Science",
+        "startDate": "2020"
+      },
+      {
+        "school": "Savitribai Phule Pune University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors in Engineering",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA : 8.5",
+        "field_of_study": "",
+        "startDate": "2022"
+      }
+    ],
+    "projects": [
+      {
+        "name": "REST API",
+        "description": "Designed and implemented a RESTful API using Node.js and Express.js. Developed endpoints for CRUD operations on user data and integrated with MongoDB for efficient data storage and retrieval. Ensured API security with JWT authentication and authorization, and documented the API using Swagger for easy consumption by frontend developers.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Aptitude-quiz site",
+        "description": "Built an aptitude quiz web application using Django, HTML, CSS, and PostgreSQL. We have integrated live APIs to fetch diverse quiz questions dynamically. We ensured secure data handling and efficient database management with PostgreSQL.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-commerce website",
+        "description": "Developed an e-commerce web application using MongoDB, Express, React, and Node.js (MERN) stack. Built the frontend user interface with React to allow customers to view and search for products, add them to a cart, and process orders. Implemented user authentication and authorization using JSON Web Tokens to secure access to order history and profile details. Stored user and product data in MongoDB NoSQL database and accessed it via a Node/Express REST API server. Optimized site performance using React Hooks for managing state and effects. Leveraged React Context API for efficient state management across components.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Social media API",
+        "description": "Developed a social media API for users and blogs using Node.js and Express.js. Implemented user authentication and authorization with JWT. Designed endpoints for creating, reading, updating, and deleting posts. Ensured data consistency and security with robust error handling and validation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "German",
+      "Gujarati"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "WebStack Academy",
+        "description": "Intern at Webstack Academy in MERN stack development for 4 weeks. Developed front-end UI features using ReactJS and integrated APIs. Debugged and optimized page load times by 30% through component optimization. Contributed to new feature development in agile teams to deliver projects on schedule.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "React JS",
+      "Node JS",
+      "Express JS",
+      "MongoDB",
+      "Django",
+      "Data structure",
+      "OOP",
+      "Machine learning",
+      "MySQL",
+      "AWS",
+      "C",
+      "C++",
+      "JAVA",
+      "Python",
+      "Javascript"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Time management"
+    ],
+    "name": "S M I T T A N D E L",
+    "position": "MERN STACK DEVELOPER",
+    "interests": [],
+    "achievements_and_awards": [
+      "Google Cloud Skills boost certified.",
+      "Python full-stack certified from Udemy.",
+      "Published Deepfake detection research paper.",
+      "Chess Player Rank-1200"
+    ],
+    "publications": []
+  },
+  "current_location": "Navsari, Gujarat-396450",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors in Engineering"
+}

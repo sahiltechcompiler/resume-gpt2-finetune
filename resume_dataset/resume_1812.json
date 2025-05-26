@@ -1,0 +1,181 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Swarna Jha",
+  "college": "Sister Nivedita University",
+  "locations": [
+    "Kolkata, West Bengal",
+    "Hyderabad, Telangana"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mastered Python for Data Science",
+        "issuer": "NPTEL - IIT Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Analytics for Beginners",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advanced Google Analytics",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Graduate Certification",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Sister Nivedita University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 9.02",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI interaction chatbot in health care service",
+        "description": "Architected an AI-powered conversational chatbot, incorporating cutting-edge business logic. Configured AWS and MongoDB for secure, scalable data management, handling 10,000+ daily interactions. Integrated OpenAI for sentiment analysis in a full-stack Flutter web application, improving user experience by 40 percent.",
+        "keywords": [
+          "Python",
+          "Flutter",
+          "AWS"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "Crafted intuitive user interface for e-commerce platform, increasing user engagement by 35 percent. Constructed responsive frontend landing page using React.js, reducing load time by 25 percent. Devised robust database architecture with MongoDB, supporting 5000+ concurrent users.",
+        "keywords": [
+          "MERN",
+          "MongoDB"
+        ],
+        "endDate": "March 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Green Community",
+        "description": "Spearheaded development of an innovative solution to address hunger and food wastage issues. Conceptualized and executed a system capable of reducing food wastage by 30 percent. Incorporated machine learning techniques to predict food decay rates, enhancing resource management.",
+        "keywords": [
+          "Flutter",
+          "MongoDB"
+        ],
+        "endDate": "December 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer intern",
+        "skillsUsed": [
+          "MERN stack",
+          "React.js",
+          "MongoDB Atlas",
+          "AWS",
+          "Figma"
+        ],
+        "endDate": "June 2024",
+        "company_name": "Home Kuisines",
+        "description": "Engineered responsive landing and customer view pages using MERN stack, boosting user engagement by 30 percent. Implemented robust order placement system with React.js, resulting in a 25 percent increase in customer satisfaction. Optimized database management for 1000+ records using MongoDB Atlas, ensuring 99.9 percent data integrity. Leveraged AWS cloud services and Figma for UI/UX design, accelerating project workflows by 40 percent.",
+        "location": "Kolkata, West Bengal",
+        "links": "",
+        "startDate": "December 2020"
+      },
+      {
+        "role_name": "Frontend developer Intern",
+        "skillsUsed": [
+          "React.js",
+          "Redux",
+          "Express"
+        ],
+        "endDate": "September 2022",
+        "company_name": "Health for you",
+        "description": "Revamped frontend interface using React.js, enhancing user interaction and reducing bounce rate by 15 percent. Streamlined state management with Redux, improving application performance by 20 percent. Integrated Express server for efficient backend communication, reducing API response time by 30 percent. Delivered a cohesive web application using MERN stack, achieving 95 percent client satisfaction.",
+        "location": "Kolkata, West Bengal",
+        "links": "",
+        "startDate": "August 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "Oracle SQL",
+      "MongoDB",
+      "Figma",
+      "PowerBI",
+      "Excel",
+      "Git",
+      "GitHub",
+      "Linux",
+      "VS Code",
+      "AWS",
+      "REST APIs",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "WordPress",
+      "Redux",
+      "jQuery"
+    ],
+    "soft_skills": [
+      "Strategic Communication",
+      "Agile Methodology",
+      "Time Optimization",
+      "Advanced Problem Solving",
+      "Dynamic Team Collaboration",
+      "Rapid Adaptability",
+      "Exemplary Work Ethic"
+    ],
+    "name": "Swarna Jha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 31st position in ISOEH, Webel, HDCO, CSCOE cyber security centre of excellence, West Bengal",
+      "Winner of Udyog competition for excellent innovation (2023)",
+      "Finalist in Cyber Security category, SERB-INAE Hackathon 2022 (Organized by Jadavpur University)"
+    ],
+    "publications": []
+  },
+  "current_location": "Kolkata, West Bengal 700159",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

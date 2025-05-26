@@ -1,0 +1,118 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "J S P PREETHAM REDDY",
+  "college": "SRM UNIVERSITY",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 8.55/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE",
+        "endDate": "",
+        "maximum_grade": "390/500",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "939/1000",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Twitter Sentiment Analysis",
+        "description": "Developed a Logistic Regression model in Python to classify tweet sentiments. Achieved 94% accuracy by applying machine learning techniques and regular expressions. Compared model performance using SVM, achieving 82% accuracy during testing phases.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Mar 2024",
+        "url": ""
+      },
+      {
+        "name": "Online Food Ordering System",
+        "description": "Developed a full-stack online food ordering system using MongoDB, Express.js, React.js, Node.js (MERN), improving user experience through real-time order tracking and personalized menus. Developed and deployed the system in an Agile environment, iterating on feedback and improving the system progressively.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Student Addmission Management System",
+        "description": "Designed and implemented a student management system with authentication, CRUD operations, and admin-level control. Applied OOP principles to create a modular and maintainable codebase, ensuring long-term scalability.",
+        "keywords": [],
+        "endDate": "Dec 2022",
+        "startDate": "Aug 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Django Development Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Designed and implemented core backend features for a Vehicle Service Management system using Django, reducing system complexity by over 10%. Worked with MySQL for database design and management, ensuring data integrity, security, and performance. Led a cross-functional team in implementing a new feature using Python and Framework, resulting in a 20% increase in user engagement within the Internship period.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++(Oops)",
+      "Html",
+      "Css",
+      "React.js",
+      "SQL",
+      "DBMS",
+      "NOSQL-MongoDB",
+      "Pandas",
+      "Numpy",
+      "Power BI",
+      "Git",
+      "GitHub",
+      "Agile",
+      "SDLC",
+      "Scrum"
+    ],
+    "soft_skills": [
+      "Problem-solving",
+      "teamwork",
+      "effective communication"
+    ],
+    "name": "J S P PREETHAM REDDY",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

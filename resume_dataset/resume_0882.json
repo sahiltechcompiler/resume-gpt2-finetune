@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Lakshya Mishra",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi",
+    "Bhiwadi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.468 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "UCSKM Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "8.7 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "UCSKM Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "8.4 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Delivery Website - Next.js",
+        "description": "Developed a full-stack, responsive, and dynamic food delivery website using Next.js. Implemented SEO best practices with next/font for optimized typography and search engine visibility. Ensured cross-device compatibility and consistent user experience.",
+        "keywords": [
+          "Next.js",
+          "SEO",
+          "responsive design"
+        ],
+        "endDate": "Present",
+        "startDate": "Aug 2023",
+        "url": "GitHub"
+      },
+      {
+        "name": "Ecommerce Shopping Cart - React",
+        "description": "Crafted a scalable e-commerce shopping cart using React with Typescript and the Context API. Streamlined state management for product additions, removals, and quantity adjustments. Designed responsive layouts for a seamless shopping experience on various devices.",
+        "keywords": [
+          "React",
+          "Typescript",
+          "Context API"
+        ],
+        "endDate": "Website",
+        "startDate": "Aug 2022",
+        "url": "GitHub"
+      },
+      {
+        "name": "Eyesome - Eyewear Shopping Platform",
+        "description": "Engineered a comprehensive eyewear shopping platform using ReactJS and Tailwind CSS. Integrated Razorpay to facilitate secure and smooth online payment transactions. Focused on responsive design, creating an intuitive and user-friendly interface.",
+        "keywords": [
+          "ReactJS",
+          "Tailwind CSS",
+          "Razorpay"
+        ],
+        "endDate": "Website",
+        "startDate": "Aug 2022",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "StockInsights",
+        "description": "Spearheaded Stripe payment integration, enhancing financial transaction flow. Optimized API performance, resulting in a 30% improvement in system responsiveness. Integrated chatbots to assist users, improving user engagement. Developed a comprehensive referral system, driving platform growth.",
+        "location": "Delhi",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Blockchain Development Intern",
+        "skillsUsed": [],
+        "endDate": "Oct 2022",
+        "company_name": "Oak Paradise",
+        "description": "Developed minting sites (candy machine) using Smart Contracts for the Solana blockchain. Utilized Solana CLI, Node.js, and Next.js to build robust decentralized applications. Contributed to critical blockchain transaction management and security features.",
+        "location": "Bhiwadi",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "MongoDB",
+      "Solidity",
+      "Smart Contracts",
+      "Solana CLI",
+      "Git",
+      "Docker",
+      "Stripe API"
+    ],
+    "soft_skills": [],
+    "name": "Lakshya Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Hack-7 Hackathon Winner: Achieved first place at Hack-7, developing a Tezos blockchain NFT marketplace.",
+      "Solana NFT Project Funding: Successfully secured funding with smart contracts for a Solana blockchain NFT initiative.",
+      "Vihaan 6.0 Nomination: Nominated for the Best Web 3 Project at the Vihaan 6.0 hackathon"
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

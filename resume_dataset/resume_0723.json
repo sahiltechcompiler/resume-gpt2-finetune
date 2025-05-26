@@ -1,0 +1,184 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shreyansh Singh",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "UP India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Generative AI in Education",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Exploratory Data Analysis",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Model Building and Interpretation",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Production",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Deep Learning & Neural Networks with Keras",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "UP India",
+        "ID": 0.0,
+        "grade_received": "7.9 cgpa",
+        "field_of_study": "Computer Science(AI)",
+        "startDate": "Nov. 2021"
+      },
+      {
+        "school": "D.A.V. Centenary Public School",
+        "endDate": "June 2020",
+        "maximum_grade": "CBSE",
+        "degree": "SSC",
+        "location": "UP India",
+        "ID": 1.0,
+        "grade_received": "74%",
+        "field_of_study": "",
+        "startDate": "June 2018"
+      },
+      {
+        "school": "D.A.V. Centenary Public School",
+        "endDate": "August 2020",
+        "maximum_grade": "CBSE",
+        "degree": "HSC",
+        "location": "UP India",
+        "ID": 2.0,
+        "grade_received": "72%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Student Performance Prediction",
+        "description": "Achieved a 96% accuracy rate in forecasting student academic performance by developing and deploying a ML model. Managed data integrity by handling missing values and encoding categorical variables, enhancing quality by 33%. Identified and comprehended key factors influencing academic performance through thorough analysis.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Database Design",
+        "description": "Designed a relational database schema using SQL, ensuring efficient data storage and normalization. Optimized database performance with indexing and query tuning, improving query speed. Implemented data integrity rules with foreign keys and constraints, ensuring consistent data across tables.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Google Search Analysis with Python",
+        "description": "Implemented Google Search Analysis using the Pytrends API to extract and analyze search trends based on region and language. Visualized interest over time and by region for various search queries, providing insights into search popularity and trends. Leveraged Pytrends for keyword suggestions and related queries, supporting data-driven decision-making and marketing strategies.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "BUSINESS ANALYST INTERN",
+        "skillsUsed": [],
+        "endDate": "March 24",
+        "company_name": "Webriy",
+        "description": "Streamlined data collection and reporting procedures, reducing processing time by 20% enhancing efficiency. Implemented process improvements and automation solutions, resulting in 15% increase in productivity. Collaborated with 3+ cross-functional teams to gather requirements, define project scopes, and ensure alignment with business objectives, fostering effective teamwork and project success. Produced 15+ comprehensive reports and presentations summarizing findings and recommendations. Conducted in-depth market research and analysis, resulting in the identification of 10+ key trends and insights that informed strategic decision-making processes.",
+        "location": "",
+        "links": "",
+        "startDate": "January 23"
+      },
+      {
+        "role_name": "Data Analytics and Visualization Job Simulation",
+        "skillsUsed": [],
+        "endDate": "April 24",
+        "company_name": "Accenture",
+        "description": "Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture. Cleaned, modeled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions. Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.",
+        "location": "",
+        "links": "",
+        "startDate": "March 24"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "JAVA",
+      "R",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Pandas",
+      "Numpy",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Tenserflow",
+      ".NET",
+      "Power BI",
+      "Excel",
+      "PowerPoint",
+      "Tableau",
+      "MySQL",
+      "PyCharm",
+      "Jupyter Notebook",
+      "Visual Studio Code",
+      "Intellij IDEA"
+    ],
+    "soft_skills": [
+      "Repport Building",
+      "Problem Solving",
+      "Statistical Analysis"
+    ],
+    "name": "Shreyansh Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated in Smart-India-HACJATHON-2023, my role was to data interpretation, identifying patterns and anomalies to provide insights for decision making."
+    ],
+    "publications": []
+  },
+  "current_location": "Greater Noida-UP",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

@@ -1,0 +1,142 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "HRITIK SHARMA",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA - 8.3",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 92.6",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Nirmala Convent School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage - 96.5",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "PARKING REGISTRATION AUTOMATION",
+        "description": "Deployed a face detection model using open-cv for automated recognition of driving license with accuracy of 90. Designed a responsive webapp for parking registration process integrating ML models on the web. Generates an easily downloadable real time entry receipt within a time span of 5 sec,with a user friendly interface.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "open-cv",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MYSQL",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "MEDICARE",
+        "description": "Created a webapp providing 4 different services altogether from the medical sector at a single stop. Implemented services for ambulance tracking, disease detection, saving an average of 15 minutes per emergency. Achieves disease detection of 4 major diseases with an accuracy of 92 using various machine learning algorithms.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "Machine Learning",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "GITLAB",
+        "description": "Outlined a webapp for accessing information from over 1000 public GitHub repositories within a fraction of time. Integrated GitHub REST API, providing faster retrieval and access to 5 different categories of information regarding the repository.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "RESTAPI",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Problem Setter",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "VCriate",
+        "description": "Designed and Developed Complex Algorithms: Created challenging algorithmic problems that required advanced knowledge in data structures, algorithms, and computational theory. Authored Comprehensive Problem Statements: Wrote clear and concise problem statements that effectively communicated the requirements and constraints of each problem. Collaborated with Development Teams: Worked closely with developers and other problem setters to ensure problems are well-structured, logically coherent, and solvable within constraints.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "Javascript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "Flask",
+      "Beautiful-Soup",
+      "Git",
+      "VSCode"
+    ],
+    "soft_skills": [],
+    "name": "HRITIK SHARMA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Qualified GATE 2024.",
+      "Attained a global rank of 421 in TCS Code-Vita 2023.",
+      "Achieved a rating of 1895 on Code-chef globally.",
+      "Solved 1000+ data structure and algorithms-based questions across various platforms."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Of Technology"
+}

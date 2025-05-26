@@ -1,0 +1,153 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ayush Sachdeva",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Gurugram, India",
+    "Faridabad, India"
+  ],
+  "full_output": {
+    "summary": "An adept Computer Science student with a comprehensive understanding of programming languages, algorithms, and software development methodologies. Possessing a fervent drive for innovation and a commitment to excellence, I am poised to apply my technical prowess to real-world challenges, contributing effectively to progressive projects and advancing within the realm of technology.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Front-End Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Back-End Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Graphic Elements of Design: Color Theory and Image Formats",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Architecting Smart IoT Devices",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ethical Hacking Essentials (EHE)",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science in Internet of Things",
+        "startDate": "2021"
+      },
+      {
+        "school": "Drona Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Gurugram, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Modern Delhi Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "Faridabad, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Driving Behavior Prediction",
+        "description": "With the help of accelerometer and gyroscope that are in built in our phones, we record he driver's data, then with the help of CNN we classify data on different basis and assign the data in the preferable category they belong and provide the car insurance on the basis of the driving behavior, for example: if the driving is rash, then the insurance sum would me high.",
+        "keywords": [
+          "Data Structures and Algorithms",
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fraud Detection Research Project",
+        "description": "Using Machine Learning Preventing Credit Card Frauds with the help of Machine Learning algorithms.",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Gym Website",
+        "description": "For easy interaction between gym members and trainers as well as for better management of gym memberships.",
+        "keywords": [
+          "Front End Development",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Data Structures and Algorithms",
+      "Python",
+      "Machine Learning",
+      "C/C++",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [],
+    "name": "Ayush Sachdeva",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Faridabad, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

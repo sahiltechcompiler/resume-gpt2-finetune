@@ -1,0 +1,129 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Vaibhav Saran",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Bareilly,Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "7.50",
+        "field_of_study": "Computer Science Engineering(AI/ML)",
+        "startDate": ""
+      },
+      {
+        "school": "St. Francis Convent Sr. Sec. School",
+        "endDate": "April 2019",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Bareilly,Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "94.8",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Francis Convent Sr. Sec. School",
+        "endDate": "April 2017",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Bareilly,Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "90.6",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Personal Blog",
+        "description": "This is my personal blog which Ive made while learning HTML and CSS.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "May 2025",
+        "startDate": "August 2021",
+        "url": "https://github.com/vaibhavsaran03/Blog"
+      },
+      {
+        "name": "Real Estate Price Predictor",
+        "description": "This is a ML based project which estimates the price of a property based on certain numbers of features.",
+        "keywords": [
+          "ML",
+          "React",
+          "Python"
+        ],
+        "endDate": "November 2022",
+        "startDate": "",
+        "url": "https://github.com/vaibhavsaran03/Real-Estate-Price-Predictor"
+      },
+      {
+        "name": "Project Management system",
+        "description": "Talibised is a web-based tool with a GUI that enables easy submission and evaluation of projects and assignments between students, TAs, and professors. With a variety of capabilities, it serves as a form of communal repository that users may access via a set of three different user logins.",
+        "keywords": [
+          "Django",
+          "Python"
+        ],
+        "endDate": "January 2023",
+        "startDate": "",
+        "url": "https://github.com/vaibhavsaran03/Project-Management-System"
+      },
+      {
+        "name": "AR App",
+        "description": "This is a simple Vuforia image tracking app that demonstrates the usage of Vuforia SDK to track and augment virtual content onto real-world images.",
+        "keywords": [
+          "Vuforia SDK",
+          "Unity 3D",
+          "C#"
+        ],
+        "endDate": "February 2023",
+        "startDate": "",
+        "url": "https://github.com/vaibhavsaran03/Image-Targeting"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Coordinator",
+        "skillsUsed": [],
+        "endDate": "2025",
+        "company_name": "Team Conatus",
+        "description": "Conducted annual event of Team Conatus, involving more than 200 participants, which included field event and logical tests.",
+        "location": "",
+        "links": "",
+        "startDate": "2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "Python",
+      "JS"
+    ],
+    "soft_skills": [],
+    "name": "Vaibhav Saran",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

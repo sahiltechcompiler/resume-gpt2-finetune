@@ -1,0 +1,156 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "GARVIT SINGHAL",
+  "college": "Kiet Group Of Institutions",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Kiet Group Of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.3",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "TRM Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Examination",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 94.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "TRM Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Examination",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 92%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Learning Equality",
+        "description": "Created GitHub Actions for scheduled Morango integration tests and automated AUTHORS.md updates. Implemented feature of real-time task percentage in tab title and added automatic alphabetic sorting to the topic tree. Resolved multiple frontend issues and bugs, improving application stability.",
+        "keywords": [],
+        "endDate": "Mar 2024",
+        "startDate": "Jun 2023",
+        "url": "Link to Contributions"
+      },
+      {
+        "name": "Circuitverse",
+        "description": "",
+        "keywords": [],
+        "endDate": "April 2023",
+        "startDate": "Jan 2023",
+        "url": "Link to Contributions"
+      },
+      {
+        "name": "Passipy",
+        "description": "An end-to-end system that checks the strength of passwords using Machine Learning algorithm. Random Password Generator: Generate customized passwords with various constraints. Password Manager: Store and manage passwords in a database with CRUD operations.",
+        "keywords": [
+          "ML",
+          "Machine Learning",
+          "Python",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "BlissFit",
+        "description": "Eortlessly explore exercises targeting specic body parts and access step-by-step guides with YouTube recommendations for eective workouts. Leverage OpenCV technology, ensuring an impressive 85% accuracy for real-time posture feedback during exercises.",
+        "keywords": [
+          "Python",
+          "ML",
+          "Machine Learning",
+          "React",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "Susalabs (SusaKGjyo Business Private Limited)",
+        "description": "Contributed to an integrated solution, involving various frontend and backend components for both user and admin interfaces. Congured and deployed the application on IIS, addressing security issues and improving network robustness, leading to a 65% reduction in vulnerabilities. Implemented connector to consolidate data from three SQL databases, optimizing information ow for improved eciency.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      },
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "Sarathi",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Nov 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "React",
+      "Express.js",
+      "Node.js",
+      "Flask",
+      "Django",
+      "MongoDB",
+      "MySQL",
+      "Data Structures",
+      "Algorithms",
+      "OOPs",
+      "ML techniques",
+      "Deep Learning concepts",
+      "OpenCV"
+    ],
+    "soft_skills": [],
+    "name": "GARVIT SINGHAL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated in 15+ hackathons.",
+      "1st Innotech2021, 3rd Innotech22, Top 7 HackMait.",
+      "Track Winner HackTheMountain23 (MongoDB and Fastn).",
+      "2nd position in Cognizant Ideathon 23.",
+      "Selected in Amazon ML School 2023.",
+      "Secured a Global Rank of 2479 (AIR 440) out of 22819 participants in Leetcode Weekly Contest 318.",
+      "Secured Global Rank of 248 in Codechef Starters 85 (Div 2).",
+      "Secured Global Rank of 115 in Codechef Starters 68 (Div 3)."
+    ],
+    "publications": []
+  },
+  "current_location": "UP, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

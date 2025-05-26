@@ -1,0 +1,121 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "VAIBHAV RAI",
+  "college": "KIET Group Of Institution",
+  "locations": [
+    "Ghaziabad",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Successfully completed an essential learning certification in C++ programming. Demonstrated advanced proficiency in C++ language syntax, and object-oriented programming principles.",
+        "skillsLearned": [
+          "C++"
+        ],
+        "title": "C++ essential learning",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Acquired expertise in designing and implementing relational database schemas using SQL. Demonstrated proficiency in writing complex SQL queries to retrieve, manipulate, and analyze data efficiently.",
+        "skillsLearned": [
+          "SQL"
+        ],
+        "title": "Learning SQL Programming",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institution",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "8/10 CGPA",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Employee Management System",
+        "description": "Designed and developed a robust Employee Management System using Django framework. Implemented features for managing employee records, including CRUD (Create, Read, Update, Delete) operations. Integrated user authentication and authorization to control access levels for different user roles (e.g., admin, manager, employee). Designed a user-friendly interface using HTML, CSS, and JavaScript for seamless navigation and interaction.",
+        "keywords": [
+          "Python",
+          "MySQL",
+          "Django",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "Dec 2023",
+        "url": ""
+      },
+      {
+        "name": "Netflix clone",
+        "description": "Developed a Netflix-inspired streaming service clone using HTML, CSS, and JavaScript. Implemented a responsive user interface resembling the Netflix layout for browsing movies and TV shows. Integrated external APIs (e.g., TMDB API) to fetch movie and TV show data for display within the application. Utilized modern CSS techniques like Flexbox or Grid for layout design and media queries for responsive design.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "TMDB API"
+        ],
+        "endDate": "Jan 2023",
+        "startDate": "Dec 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "ServiceNow",
+          "Administration Fundamentals",
+          "Portfolios",
+          "Processes"
+        ],
+        "endDate": "Jun 2024",
+        "company_name": "ServiceNow - AICTE",
+        "description": "4 Weeks of Learning. Completed courses including ServiceNow Administration Fundamentals and Introduction to ServiceNow: Portfolios and Processes demonstrating comprehensive understanding of ServiceNow platform features and functionalities. Applied knowledge from coursework to complete projects in configuring service portfolios, designing workflows, and customizing forms within the ServiceNow environment during internship tenure.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Apr 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "VAIBHAV RAI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Conquering over 200+ LeetCode challenges, including 25+ hard questions, demonstrating dedication, tenacity, and proficiency in tackling complex coding problems, thereby sharpening skills and expanding the repertoire in algorithmic optimization.",
+      "Engaged in coding competitions hosted by LeetCode, effectively tackling numerous questions and honing expertise across various topics in data structures."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

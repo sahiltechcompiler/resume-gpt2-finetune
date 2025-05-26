@@ -1,0 +1,236 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "HARISH RAJ B",
+  "college": "St.Josephs Institute of Technology",
+  "locations": [
+    "Chennai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning",
+        "issuer": "Kaggle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis and Visualization",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Training",
+        "issuer": "IIT Bombay",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Reinforcement Learning",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning with Python",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Object Oriented Programming",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "R Programming",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "GitHub for Data Scientist",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Scientists Toolbox",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "St.Josephs Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "8.43/10",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Kendriya Vidyalaya IIT Campus",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "HSC, Class XII",
+        "location": "Chennai",
+        "ID": 1.0,
+        "grade_received": "88.6",
+        "field_of_study": "",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "IPL Powerplay Score Prediction",
+        "description": "Developed a model to predict scores during the powerplay phase of an IPL match using Adaboost Regressor, achieving a Mean Absolute Error (MAE) of 6.03. Ranked as a Top 10 model in the Guess the Score category at IIT Madras. Deployed and hosted the application on Streamlit Cloud.",
+        "keywords": [
+          "Python",
+          "Adaboost",
+          "Streamlit",
+          "Cloud",
+          "Data Analytics",
+          "Cloud Deployment"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face Recognition System",
+        "description": "Engineered a face recognition system for the IT department, achieving a 95% accuracy rate, resulting in a 20% reduction in unauthorized access incidents. Utilized OpenCV for precise face detection and recognition, with an average processing time of 0.2 seconds per face, speeding up identification processes by 25%. Enabled enrollment, training, and live identification, improving attendance tracking efficiency by 30%, leading to a 15% increase in overall productivity.",
+        "keywords": [
+          "Python",
+          "SQLite",
+          "OpenCV",
+          "Numpy",
+          "Face Recognizer",
+          "PIL (Python Imaging Library)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis of Amazon Reviews",
+        "description": "Conducted sentiment analysis of Amazon reviews to understand customer sentiment towards products, resulting in a 10% increase in positive customer feedback. Leveraged VADER and Roberta Model for analysis, enhancing sentiment analysis accuracy by 15%. Implemented Natural Language Processing (NLP) methodologies using TensorFlow for effective sentiment understanding, reducing analysis time by 20%.",
+        "keywords": [
+          "Sentiment Analysis",
+          "VADER",
+          "Roberta",
+          "Transfer Learning",
+          "NLP",
+          "TensorFlow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Spam Classification",
+        "description": "Achieved 92% accuracy in classifying spam and ham messages using BERT, leading to an 80% reduction in spam emails. Deployed and hosted the classification model on Streamlit Cloud, ensuring seamless accessibility for users. Implemented state-of-the-art techniques in text classification, leveraging deep learning with BERT and Streamlit for cloud deployment.",
+        "keywords": [
+          "Text Classification",
+          "NLP",
+          "Deep Learning",
+          "BERT",
+          "Streamlit",
+          "Cloud Deployment"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "June, 2023",
+        "company_name": "Precision Infomatic Pvt. Ltd",
+        "description": "Optimized response times at the Technical Research Centre (TRC) and ServiceDesk, reducing response time by 20%. Analyzed biometric devices and their functionalities, identifying inefficiencies and proposing improvements leading to a 15% increase in performance. Contributed to quality assurance and troubleshooting efforts, participating in the repair and testing of electronic devices, resulting in a 10% reduction in defect rates.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "May, 2023"
+      }
+    ],
+    "skills": [
+      "Programming Languages: Python, Java, C, R",
+      "Problem Solving: 300+ Problems in Leetcode, 1600+ Programs in Skillrack",
+      "Data Analysis and Visualization: Excel, Power BI, Looker Studio, Matplotlib, Seaborn, Pandas, NumPy",
+      "Machine Learning Frameworks: TensorFlow, Keras, Scikit-learn",
+      "Database Systems and Web Development: SQL, HTML, CSS, JavaScript",
+      "UI/UX Design: Wireframing, Prototyping, Interaction Design",
+      "Web Application Frameworks: Streamlit, Flask",
+      "Version Control: GitHub"
+    ],
+    "soft_skills": [],
+    "name": "HARISH RAJ B",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Code Debugging, Runner SIMATS Engineering College",
+      "Hybrid Hack, Finalist SRM University"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

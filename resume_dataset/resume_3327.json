@@ -1,0 +1,160 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Vansh Choudhary",
+  "college": "KIET GROUP OF INSTITUTIONS",
+  "locations": [
+    "Delhi-NCR",
+    "Ghaziabad, Uttar Pradesh",
+    "Gajraula, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Programming and Machine Learning",
+        "issuer": "YBI Foundation",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning With Python",
+        "issuer": "Linkedin Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Secure Your Data At Rest",
+        "issuer": "Microsoft",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET GROUP OF INSTITUTIONS",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi-NCR",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "ST. Marys Convent School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83%",
+        "field_of_study": "(CBSE)",
+        "startDate": ""
+      },
+      {
+        "school": "ST. Marys Convent School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "81%",
+        "field_of_study": "(CBSE)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Driver Drowsiness Detection System",
+        "description": "Developed a real-time drowsiness detection system using computer vision techniques and machine learning algorithms. Implemented a system to detect and alert the driver if they are showing signs of drowsiness, such as prolonged eye closure or lack of attention. Utilized OpenCV and dlib libraries in Python for real-time video processing and facial feature extraction.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Tensor Flow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Automatic Parking System",
+        "description": "Developed an automatic parallel parking system in a virtual environment, including path planning, path tracking, and parallel parking. Implemented sensor-based technology to detect vehicles and guide them to available parking spots, reducing congestion and improving traffic flow. Integrated machine learning models to predict parking availability and dynamically adjust parking strategies.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Internship",
+        "skillsUsed": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "R"
+        ],
+        "endDate": "Present",
+        "company_name": "AWS Academy",
+        "description": "Applied data analytics techniques to AWS cloud-based datasets, extracting valuable insights to inform business decisions and optimize operations. Participated in training sessions and workshops provided by AWS Academy, expanding knowledge of cloud-based data analytics technologies and best practices. Demonstrated expertise in data analysis techniques using Python (Pandas, NumPy) and R.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Nov.2021"
+      },
+      {
+        "role_name": "Internship & Industry placement Cell (IIPC)",
+        "skillsUsed": [
+          "Data science",
+          "Deep learning",
+          "NLP",
+          "TensorFlow",
+          "PyTorch"
+        ],
+        "endDate": "September 2022",
+        "company_name": "KIET",
+        "description": "Applied the skills and knowledge gained through my minor program in Data science & Deep learning to contribute to various projects. Also implemented NLP algorithms, utilizing frameworks like TensorFlow or PyTorch. Implemented Deep Learning techniques, including Neural networks, convolutional neural networks (CNNs).",
+        "location": "",
+        "links": "",
+        "startDate": "August 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Vansh Choudhary",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "First Runner-Up in Inter-Institutional Cultural Fest (EPOQUE@PRASTUTI23) - KIET",
+      "First Runner-Up in Inter-Institutional Cultural Fest (AGNITRAYA) - IIM KASHIPUR",
+      "Second Runner-Up in Annual Management Fest (WYSIWYG) - ITS MOHAN NAGAR"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,161 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "RAHUL RELHAN",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Uttar Pradesh, India",
+    "Jaipur, Rajasthan",
+    "Ghaziabad, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Supervised Machine Learning: Regression and Classification",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering (AI&ML)",
+        "startDate": ""
+      },
+      {
+        "school": "Seth Anandram Jaipuria School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "88%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Seth Anandram Jaipuria School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "89.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Image Classification using CNN",
+        "description": "Built and fine-tuned a Convolutional Neural Network (CNN) for image classification, enhancing precision, reducing training time and demonstrated strong skills in model design and training. Constructed a CNN for image classification, reaching high accuracy and notably decreasing image misclassification through advanced optimization techniques.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "CNN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Color Detection in BGR",
+        "description": "Designed a color detection system using Python and OpenCV, effectively identifying and distinguishing various colors in HSV format also applied this in real-time scenarios. Crafted a real-time color recognition feature, enabling the camera to identify colors based on predefined HSV values and provide accurate color information when an image is captured.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Color Detection Algorithm"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Python Voice Assistance",
+        "description": "Created a Python-based voice assistant capable of performing tasks such as setting alarms, searching the web, and sending emails. Boosted speech recognition accuracy and reduced response time through advanced natural language processing and machine learning techniques.",
+        "keywords": [
+          "Python",
+          "NLP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Road Sign Detection using YOLOv8",
+        "description": "Utilized a pre-trained YOLOv8 model for road sign detection, fine-tuning it with a larger dataset to boost accuracy and enhance detection performance. Achieved better accuracy for detecting and classifying road signs by leveraging transfer learning and advanced data augmentation techniques.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "YOLOv8"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Head Of Logistics",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "Olympism Club, MUJ",
+        "description": "As the Head of Logistics for the club, oversight was provided for all event logistics, employing advanced planning, efficient scheduling, and effective leadership.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Tensorflow",
+      "OpenCV",
+      "NLP",
+      "Standard ML Algorithms",
+      "YOLOv8"
+    ],
+    "soft_skills": [
+      "Effective communication",
+      "Cooperation",
+      "Ethical behavior",
+      "Creative problem-solving",
+      "Efficient task management"
+    ],
+    "name": "RAHUL RELHAN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Uttar Pradesh, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

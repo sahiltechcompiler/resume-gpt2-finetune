@@ -1,0 +1,157 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Dhanush A",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "chennai, India",
+    "cuddalore, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cyber Security Essentials",
+        "issuer": "cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Specialization",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:8.26",
+        "field_of_study": "Electrical and Electronics Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Krishnasamy Memorial Matriculation Higher Secondary School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "HSC",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.1%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Covid Vacination",
+        "description": "Developed a Covid vaccination website for vaccination booking. Developed a Covid vaccination website using the following technology stack(Mysql,React,Express,Node.js). The website is used for booking vaccination slot for the patients. The website have functionality to book and cancel slot in the vaccination centre through online. The website also have a admin functionality to add location and also to remove the datas including functions like adding dosages for the vaccination centres.",
+        "keywords": [
+          "Mysql",
+          "React",
+          "Express",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Data Management",
+        "description": "Developed a library data management website to track the library datas efficiently. Implemented and maintained a robust data management system, resulting in increase in the accessibility and retrieval speed of library resources. Developed and executed data classification and cataloging procedures, ensuring consistency and adherence to metadata standards.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Small Scale Wind Energy Device",
+        "description": "Designed a cost effective small sized wind turbine which can be installed in residential area and its completely eco-friendly.The Product with Technology Stack of YAW System, GearSystem,Generator.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Webdeveloper Intern(software)",
+        "skillsUsed": [
+          "Data management",
+          "QR Code Integration",
+          "Predictive Modeling"
+        ],
+        "endDate": "05/2024",
+        "company_name": "Shiash Infotech solutions",
+        "description": "Completed a 3 month internship in the company Shiash Info Solution.",
+        "location": "chennai, India",
+        "links": "",
+        "startDate": "09/2020"
+      },
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "12/2023",
+        "company_name": "",
+        "description": "Implemented a approach to data handling, with a key focus on QR code registration to eradicate and ensuring data integrity and efficiency in the system Successfully designed and implemented a predictive model for E-Ticket for Museum and Tourist sites, improving the efficiency and eliminating data loss issues.",
+        "location": "chennai, India",
+        "links": "",
+        "startDate": "09/2023"
+      }
+    ],
+    "skills": [
+      "UI Path",
+      "Academic Alliance Skill-A- Thon",
+      "RPA Citizen developer(UIPATH)",
+      "React Native",
+      "React Basics(coursera)",
+      "Programing Languages",
+      "Python",
+      "HTML",
+      "C++",
+      "C",
+      "Java",
+      "Javascript",
+      "CSS",
+      "Selenium testing(java)",
+      "RPA Frameworks and Software Development Tools",
+      "React.js",
+      "Express",
+      "Node.js",
+      "Angular(frontend)",
+      "VisualStudio Code",
+      "Git",
+      "Mysql"
+    ],
+    "soft_skills": [
+      "Excellent problem-solving and analytical abilities",
+      "Strong communication and teamwork skills",
+      "Ability to adapt quickly to new technologies and methodologies"
+    ],
+    "name": "Dhanush A",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 1st place in web development contest conducted by K.S.R group of institutions",
+      "secured 3rd place in Website designing contest"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.E"
+}

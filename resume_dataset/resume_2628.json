@@ -1,0 +1,141 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shivam Kumar",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "Recent graduate with a strong foundation in computer science and a deep passion for deep learning and Python development.Eager to apply technical expertise and analytical skills to contribute to cutting-edge projects in a dynamic and growth-oriented environment.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Geeta Sanjay Memorial Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "87.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Geeta Sanjay Memorial Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "72.4%",
+        "field_of_study": "CSE(AIML)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Demand Forecasting",
+        "description": "Developed a Tableau dashboard for forecasting food demand using machine learning models (Random Forest, Gradient Boosting, KNN). Achieved highest accuracy with Gradient Boosting (MAE: 64.72, R: 0.88). Enhanced inventory management and staffing decisions, reducing operational costs and improving customer satisfaction.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "C++",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Instagram Clone",
+        "description": "Developed a web application that replicates the front-end of Instagram Incorporated user preferences for theme customization. Built using Technologies like HTML, CSS, and JavaScript.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Graduate Admission Prediction",
+        "description": "Developed a predictive model to estimate the likelihood of graduate school admission using an Artificial Neural Network (ANN). Utilized Python libraries such as TensorFlow and Keras for model development and training. Implemented and tuned the ANN architecture, including the number of layers and neurons, to achieve the best predictive accuracy.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "iNeuron Intelligence Pvt Ltd",
+        "description": "Contributed to the Prescription Label Reading project. Involved in product development and proof of concepts (PoCs). Completed performance and learning goals specific to the project.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "05/2024"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Data Visualisation",
+      "Supervised learning algos",
+      "Unsupervised learning algos",
+      "Feature selection & extraction",
+      "Deep Learning- ANN,CNN,RNN",
+      "Python Libraries Scikit-Learn",
+      "Pandas",
+      "Numpy",
+      "Matplotlib",
+      "Tensorflow",
+      "Keras"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Time Management",
+      "Team Work",
+      "Fast learner"
+    ],
+    "name": "Shivam Kumar",
+    "position": "",
+    "interests": [
+      "Cricket",
+      "Music",
+      "Blogging",
+      "Geopolitics"
+    ],
+    "achievements_and_awards": [
+      "Shortlisted for Aspire Leadership Program",
+      "Certified in AI Primer course",
+      "Solved 100+ DSA question in C+"
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

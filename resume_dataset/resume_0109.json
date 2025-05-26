@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Mukul Malse",
+  "college": "National Institute Of Technology, Warangal",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute Of Technology, Warangal",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Master of Computer Application",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 6.37*",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sagar Institute Of Research and Technology, Indore",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Engineering",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA: 6.83",
+        "field_of_study": "CSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MultiDisease-Prediction-using-Machine-Learning",
+        "description": "Developed diverse ensemble of Machine Learning models for predicting multiple diseases, achieving over 85% plus average prediction accuracy. Designed and implemented a user-friendly Graphical User Interface (GUI) application, enhancing accessibility and ease of use for inputting medical data and receiving disease predictions. Implemented individual disease probability scores alongside predictions, boosting user confidence in the accuracy of the results.",
+        "keywords": [
+          "pandas",
+          "Matplotlib",
+          "NumPy",
+          "Scikit-Learn",
+          "Streamlit"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": "GitHub Repo"
+      },
+      {
+        "name": "Mobile Store",
+        "description": "Developed a responsive front-end using React to build interactive user interfaces for product listings, details, and shopping cart functionality. Implemented a back-end API using Express.js and Node.js to handle product data, user authentication, and order processing. Integrated MongoDB as the database to store product, category information, user data, and order details. Implemented user registration, Email verification, forgot password by sending OTP to the registered Email and authentication using JSON Web Tokens (JWT) to ensure secure access to user-specific features.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Bootstrap",
+          "Reactjs",
+          "Nodejs",
+          "ExpressJs",
+          "MongoDB"
+        ],
+        "endDate": "2021",
+        "startDate": "",
+        "url": "GitHub Repo"
+      },
+      {
+        "name": "Live News Website",
+        "description": "Efficiently delivered real-time news updates to users via an improved user interface, enhancing their overall experience. Leveraged a News API to efficiently retrieve up-to-the-minute articles and breaking news headlines. Enhanced user engagement and satisfaction by designing and implementing visually appealing and intuitive user interfaces.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "API"
+        ],
+        "endDate": "2021",
+        "startDate": "",
+        "url": "GitHub Repo"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "ReactJS",
+      "Pandas",
+      "Numpy",
+      "matplotlib",
+      "Power BI",
+      "VS Code",
+      "Git",
+      "Jupyter Notebook",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Teamwork",
+      "Communication",
+      "Critical Thinking"
+    ],
+    "name": "Mukul Malse",
+    "position": "",
+    "interests": [
+      "Data Analysis",
+      "Software Development",
+      "Problem Solving"
+    ],
+    "achievements_and_awards": [
+      "Ranked in Top 20 candidates in Brain Alphathon by WorldQuant at NITW.",
+      "Achieved Rank-59 in National Level MCA Entrance Test (NIMCET)",
+      "Achieved AIR-240 in BHU MCA Entrance Test.",
+      "Achieved AIR-478 in JNU MCA Entrance Test."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Master of Computer Application"
+}

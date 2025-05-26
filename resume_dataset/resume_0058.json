@@ -1,0 +1,93 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "NAVEEN BADISA",
+  "college": "KL Deemed to be University",
+  "locations": [
+    "Bengaluru, India"
+  ],
+  "full_output": {
+    "summary": "1 year of industry work experience with Frontend, Backend and DevOps technologies. Achieved a 4-star rating on Codechef and solved 370+ DSA coding problems.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KL Deemed to be University",
+        "endDate": "April 2024",
+        "maximum_grade": "10",
+        "degree": "Bachelor's Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.49/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "June 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "SHOPMELLA WEBSITE",
+        "description": "Developed a shopmella web application using ReactJS for the frontend and Spring Boot for the backend. Developed Spring Boot REST APIs that allow admins to add new categories and products via POST API request. Implemented test mode payment functionality for customers to enter their name and card details for secure payment. Hosted the application on AWS Elastic Beanstalk and integrated a Go-Daddy domain name for easy user access from any location and running the application 24/7 hours.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "(Project Link)"
+      },
+      {
+        "name": "SUPER MARKET BILL",
+        "description": "Developed a super market bill using Django and MySQL database to manage the products and order details. Implemented a dropdown list for adding products based on quantity units like kilograms, liters and individual items. Developed a PDF bill generator that displays customer details, product cost and date information within the invoice. Deployed the application on AWS EC2 instance, utilizing auto-scaling and a load balancer to distribute traffic among the instances, thereby enhanced system scalability and performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "(Project Link)"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Analog Devices",
+        "description": "Worked on Web development. Developed a web application using Angular and Golang to manage, monitor and redeploy 94 jenkins controllers significantly reduced 90% software support tickets related to jenkins controllers. Developed a notification banner to alert users before 1 week regarding downtime or maintenance of the application. Designed an efficient dropdown list to filter jenkins controllers according to regions, status and priority of controllers. Implemented Golang REST APIs to authorize employees to restart controllers using POST and DELETE requests. Developed UpdateVersion method to update jenkins controller version according to regions via a PUT API request. Created unit test cases for UpdateVersion method using GORM and SQLMock without relying on external database. Worked on Devops Tools. Managed Makefile tasks including linting, testing, build and push docker images and performed database cleanup. Utilized Jenkins and Docker for CI/CD, achieving an 97.17% reduction in docker image size optimization from 1.47GB to 42.7MB through efficient multi-stage builds, resulting in vast deployment speed and resource efficiency. Developed a public jenkins shared library for Devops teams to send notifications if the pipeline build successfully and clean the workspace regardless of pipeline outcome. Tested new Bitbucket server by git clone, push, open PR, merge PR automatically using python script and verify jenkins with git plugin and server integration for scm during data center migration from Wilmington to Ashburn. Deployed a web application on Kubernetes, providing secure global accessibility exclusively for Analog devices employees, ensuring efficient and easy access for the organization work.",
+        "location": "Bengaluru, India",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Angular",
+      "React",
+      "Spring Boot",
+      "Django",
+      "AWS",
+      "Docker",
+      "Jenkins",
+      "Kubernetes",
+      "Git",
+      "BitBucket",
+      "Jira",
+      "JFrogArtifactory",
+      "MySQL",
+      "MongoDB",
+      "Java",
+      "Python",
+      "OOPS",
+      "DBMS",
+      "Operating Systems",
+      "Data Structures",
+      "Algorithms"
+    ],
+    "soft_skills": [],
+    "name": "NAVEEN BADISA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor's Degree"
+}

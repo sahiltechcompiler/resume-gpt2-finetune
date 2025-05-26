@@ -1,0 +1,111 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Yadunandana kumar Kota",
+  "college": "SRM University - AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University - AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Board of Intermediate Education AP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 7.1/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of Secondary Education AP",
+        "endDate": "",
+        "maximum_grade": "GPA: 9.2/10.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Marks: 851/1000",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Citrus Canker Disease Detection",
+        "description": "Employed cutting-edge Python-based Convolutional Neural Network models, such as VGG16 and ResNet50, to transform the diagnosis of citrus canker in plant images, introducing an approach to combat agricultural diseases. Engineered a bespoke convolution-based architecture Planned specifically for the precise identification of intricate citrus canker symptoms, resulting in a substantial improvement in disease detection accuracy and efficiency.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "Gym Management System",
+        "description": "A user-friendly dashboard for admins, trainers, and members to interact with the system, possibly with separate login credentials. Maintains records of trainers, their schedules, and their assigned members. The system aims to reduce manual work, improve efficiency, and enhance the overall management of the gyms operations.",
+        "keywords": [],
+        "endDate": "Nov 2022",
+        "startDate": "Aug 2022",
+        "url": ""
+      },
+      {
+        "name": "Stock Market Prediction",
+        "description": "Established an innovative initiative, Stock Market Prediction with LSTM, employing advanced machine learning techniques with Python. This accurately predict to provide actionable insights(accurately by more than 70%) for investors, demonstrating a strong command of data analysis and machine learning methodologies.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern (Data Analysis)",
+        "skillsUsed": [
+          "Python",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "endDate": "August 2023",
+        "company_name": "",
+        "description": "Conducted a Screen Time Analysis project focusing on usage patterns of various smartphone apps. Utilized Python for data collection, cleaning, and preprocessing from smartphone usage logs. Analyzed app usage data to identify trends and patterns in screen time across different applications. Created visualizations using Matplotlib and Seaborn to present findings to stakeholders.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [
+      "Communication Skills",
+      "Dedication",
+      "Team-collaboration"
+    ],
+    "name": "Yadunandana kumar Kota",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

@@ -1,0 +1,192 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Reena Gupta",
+  "college": "Vidyalankar Institute Of Technology",
+  "locations": [
+    "Mumbai, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis with Python",
+        "issuer": "Cognitive Class",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "GUVI",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "UI/UX",
+        "issuer": "Great Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Tutorial",
+        "issuer": "Great Learning",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vidyalankar Institute Of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Mumbai, India",
+        "ID": 0.0,
+        "grade_received": "9.83/10",
+        "field_of_study": "Computer Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Vidya Prasark Mandal's Polytechnic",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Mumbai, India",
+        "ID": 1.0,
+        "grade_received": "95.19%",
+        "field_of_study": "Information Technology",
+        "startDate": "2018"
+      },
+      {
+        "school": "ST.John High School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "Mumbai, India",
+        "ID": 2.0,
+        "grade_received": "82.40%",
+        "field_of_study": "",
+        "startDate": "2006"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Violence Detection Using Video Surveillance",
+        "description": "Developed a violence detection system by utilizing a dataset comprising of 1000 violence and 1000 non-violence videos for training and validation obtained from kaggle, employed with Python libraries such as TensorFlow, Keras, and OpenCV for deep learning and video processing. Used Deep learning algorithms like CNN and LSTM to extract features, analyze temporal sequences, and segment videos, accurately identifying violent activities and triggering alerts for timely intervention and enhanced security.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "OpenCV",
+          "Deep Learning",
+          "CNN",
+          "LSTM"
+        ],
+        "endDate": "May'24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fake News Classifier",
+        "description": "Created a Fake News Classifier using machine learning techniques, including Logistic Regression, Decision Tree Classifier, and Random Forest Classifier, to accurately distinguish between real and fake news articles. Leveraged Python libraries such as NumPy, Pandas, Matplotlib, Regular Expressions, NLTK, and SKLearn for data processing, analysis, and model implementation, achieving accuracy through evaluation on a labeled dataset.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "Logistic Regression",
+          "Decision Tree",
+          "Random Forest",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "NLTK",
+          "SKLearn"
+        ],
+        "endDate": "Jan'24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face Mask Recognition",
+        "description": "Implemented a real-time face mask detection and recognition using Azure Cognitive Services, specifically the Face API, to perform accurate identification of the face mask on a website hosted on Azure App service. Used Python libraries such as PIL, NumPy, and matplotlib to preprocess and enhance images for optimal analysis.",
+        "keywords": [
+          "Azure",
+          "Face API",
+          "Python",
+          "PIL",
+          "NumPy",
+          "Matplotlib"
+        ],
+        "endDate": "Aug'23",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Car Price Prediction",
+        "description": "Contributed to the development and implementation of a car price prediction model by merging six datasets obtained from Craigslist via Kaggle using different Python libraries. Applied advanced machine learning algorithms such as Random Forest, Decision Tree Regressor, and Linear Regression to accurately forecast car prices by exploring and manipulating large datasets.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "Random Forest",
+          "Decision Tree",
+          "Linear Regression"
+        ],
+        "endDate": "Apr'23",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern - Software Developer",
+        "skillsUsed": [
+          "Android",
+          "User Interface Design",
+          "Project Management"
+        ],
+        "endDate": "Apr'23",
+        "company_name": "HEALTHNIERS-CARE FOR YOU",
+        "description": "Designed a user-friendly healthcare application aimed at improving patient engagement and facilitating remote consultations. Coordinated in managing end-to-end Android projects, ensuring efficient resource allocation, task coordination, and timely project completion. Assisted senior designers and developers to develop and refine the user interface of Android applications, ensuring a seamless and visually appealing user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan'23"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "PHP",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "MySQL",
+      "PostgreSQL",
+      "Microsoft Access",
+      "Azure Cloud",
+      "AWS Cloud"
+    ],
+    "soft_skills": [],
+    "name": "Reena Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

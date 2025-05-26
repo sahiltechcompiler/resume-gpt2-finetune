@@ -1,0 +1,152 @@
+{
+  "project_count": 4.0,
+  "designation": "Web Developer, Programmer",
+  "name": "Umang Sharma",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Udemy Course Certificate: React.js",
+        "issuer": "Udemy",
+        "certiLink": "Certificate"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.45",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "B.D.M Public School (12th)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 92.4",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Oasis",
+        "description": "Developed a comprehensive hotel management system with a user-friendly interface using React.js and styled-components. Built an inventory management system to monitor and manage hotel resources effectively, reducing inventory errors by 20%. Enhanced reporting and analytics tools with advanced visualization, resulting in a 30% increase in data-driven decision-making. Optimized the application for mobile devices, resulting in a 25% increase in mobile users.",
+        "keywords": [
+          "React.js",
+          "Styled-components",
+          "Supabase",
+          "APIs",
+          "Git",
+          "Tailwind CSS",
+          "VS Code"
+        ],
+        "endDate": "Nov. 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Holidays",
+        "description": "Engineered a modern booking website using the MERN stack with TypeScript for enhanced type safety. Implemented secure user authentication and authorization using JWT and bcrypt, achieving a 95% success rate in preventing unauthorized access. Integrated Stripe for secure online payments, achieving a 15% increase in successful transactions. Provided a seamless and intuitive booking experience with features like search, filtering, and booking history, resulting in a 40% increase in user satisfaction.",
+        "keywords": [
+          "MERN stack",
+          "TypeScript",
+          "MongoDB",
+          "Express",
+          "Node.js"
+        ],
+        "endDate": "Present",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Tours",
+        "description": "Created a full-stack web application for booking exciting tours. Developed dynamic tour listings showcasing various packages and destinations with detailed information. Implemented secure user authentication and role-based access control for users, admins, and tour guides, reducing unauthorized access attempts by 80%. Integrated a booking system with payment integration using Stripe, resulting in a 25% increase in successful bookings.",
+        "keywords": [
+          "Node.js",
+          "Express",
+          "Pug.js",
+          "CSS",
+          "API",
+          "Git",
+          "MongoDB",
+          "Stripe",
+          "VS Code"
+        ],
+        "endDate": "Aug. 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Foodie",
+        "description": "Engineered a food delivery website using the MERN stack with TypeScript, enhancing type safety and performance. Implemented real-time display of delivery status, providing users with up-to-date information on their orders using WebSockets. Designed an intuitive admin dashboard for managing orders, allowing administrators to update delivery statuses and view order details efficiently. Integrated Cloudinary for optimized image storage and retrieval, improving load times and user experience. Styled the application using Tailwind CSS, ensuring a responsive and visually appealing interface across all devices.",
+        "keywords": [
+          "MERN stack",
+          "TypeScript",
+          "MongoDB",
+          "Express",
+          "Node.js",
+          "Shadcn/UI",
+          "Cloudinary",
+          "Tailwind CSS"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "JavaScript/TypeScript",
+      "HTML/CSS",
+      "SQL",
+      "PostgreSQL",
+      "Python (Basics)",
+      "SASS",
+      "Git/GitHub",
+      "MS PowerPoint",
+      "VS Code",
+      "Postman",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Material-UI",
+      "FastAPI",
+      "Styled-components",
+      "Supabase",
+      "Three.js",
+      "Tailwind CSS"
+    ],
+    "soft_skills": [
+      "Attention to Detail",
+      "Adaptability and Flexibility",
+      "Creativity",
+      "Team Collaboration"
+    ],
+    "name": "Umang Sharma",
+    "position": "Web Developer, Programmer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,160 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Anreen Kour",
+  "college": "Vellore Institute of Technology, Bhopal",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MERN Full Stack",
+        "issuer": "ETHNUS",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AIML",
+        "issuer": "Smart Bridge",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vellore Institute of Technology, Bhopal",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.66/10",
+        "field_of_study": "CSE",
+        "startDate": "09/2021"
+      },
+      {
+        "school": "Central Academy, Kota",
+        "endDate": "05/2021",
+        "maximum_grade": "9.8/10",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "86.2",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St Joseph School, Baramulla",
+        "endDate": "03/2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Salary_prediction",
+        "description": "Orchestrated an innovative web application for personalized salary prediction, leveraging Python-3.12.3, Flask, and Scikit- Learn. Utilized pipelines for data processing with EDA and necessary modifications, and deployed the model with Pickle, trained on a dataset Machine Learning of 2,639 rows. Achieved a 97% increase in accuracy, enhancing user engagement and satisfaction. Integrated with a website using HTML, CSS, JS, and Flask, boosting user retention by 20%.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "Scikit-Learn",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "December 23",
+        "startDate": "December 23",
+        "url": "https://github.com/Anreen28/Salary-predictor"
+      },
+      {
+        "name": "Book_recommendation_system",
+        "description": "Developed an advanced platform for tailored book recommendations, leveraging Python-3.12.3 (Flask), HTML, CSS, and Bootstrap. Employed three datasets totaling 1,699,998 rows, processed through pipelines with exploratory data analysis and essential adjustments, to train a custom ML model. Accomplished 20%-time savings for users, significantly enhancing the recommendation accuracy and user satisfaction. Incorporated seamlessly with a web app using JS, CSS, HTML and Flask, ensuring a refined and engaging user experience.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "HTML",
+          "CSS",
+          "Bootstrap"
+        ],
+        "endDate": "September 23",
+        "startDate": "September 23",
+        "url": "https://github.com/Anreen28/book_recommender"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Punjabi",
+      "Urdu"
+    ],
+    "experiences": [
+      {
+        "role_name": "ML Intern",
+        "skillsUsed": [],
+        "endDate": "12/2023",
+        "company_name": "Mentorness",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "11/2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "November 23",
+        "company_name": "Hemastats(CBC analyser)",
+        "description": "Architected a highly responsive web application for clients to study their blood report with 10+ cell counts. Spearheaded System Design including the idea of horizontal scaling, followed by architecture design and data modelling to make website 2x responsive and stable. Engineered and optimized data for backend support of a high-traffic website, enhancing data integrity and system performance by 50%.",
+        "location": "",
+        "links": "https://amazing-gnome-e598ea.netlify.app/",
+        "startDate": "November 23"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Machine learning",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "React"
+    ],
+    "soft_skills": [],
+    "name": "Anreen Kour",
+    "position": "",
+    "interests": [
+      "Reading",
+      "Music Instruments",
+      "writing"
+    ],
+    "achievements_and_awards": [
+      "Championed a high-performing team, achieving finalist status amidst 700 participants at Hack it Out 2023, IIT Patna; showcased exceptional leadership and technical expertise, propelling team to success.",
+      "4 stars(java),HackerRank"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

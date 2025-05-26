@@ -1,0 +1,117 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anirudh Reddy",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "sri chaitanya Junior College",
+        "endDate": "2021",
+        "maximum_grade": "Percentage: 96.3%",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA: 8.86/10",
+        "field_of_study": "MPC",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Go-Volunteer",
+        "description": "Developed a volunteer recruitment platform facilitating communication between volunteers and organizations. Implemented MongoDB as the primary database for storing user details, enabling authentication, job posting, and job application functionalities. Designed and built the frontend using React.js, ensuring a responsive and user-friendly interface. Developed the backend using Express.js, providing robust API endpoints for seamless communication between the frontend and the database.",
+        "keywords": [
+          "MongoDB",
+          "React.js",
+          "Express.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Steganography Application",
+        "description": "Developed a Steganography tool integrating React.js for the frontend and Flask for the backend. Implemented encryption and decryption functionalities to embed and extract messages securely within images. Stored the secret key within the image pixels for transmission and retrieval at the receivers end, ensuring secure communication.",
+        "keywords": [
+          "React.js",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Decentralized Token Exchanger",
+        "description": "Developed a Decentralized Token Exchanger allowing users to exchange native tokens with faucet tokens. Utilized smart contracts for core functionalities such as adding, removing liquidity, and swapping tokens. Deployed the application on ThirdWeb for enhanced integration and decentralized operations.",
+        "keywords": [
+          "smart contracts",
+          "ThirdWeb"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Penteration Testing",
+        "skillsUsed": [
+          "vulnerability assessment",
+          "penetration testing",
+          "security analysis",
+          "Burp Suite"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Cestro Technologies",
+        "description": "Conducted external penetration testing as an intern at Cestro Technologies for three months. Developed skills in vulnerability assessment, penetration testing, and security analysis. Utilized tools such as Burp Suite for comprehensive evaluations of web applications and networks. Detected and mitigated security threats to enhance cybersecurity protocols. Produced detailed reports outlining findings and recommendations in the format of security Assessment Report.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Javascript",
+      "C++",
+      "Python",
+      "SQL",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Problem-solving",
+      "coding",
+      "Competitive Programming",
+      "Software Engineering"
+    ],
+    "name": "Anirudh Reddy",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed Junior Penteration Tester path and Solved over 10 rooms in TryHackMe",
+      "Solved more than 200 Problems in leetcode platform using Java, python, cpp",
+      "2 * in Codechef and participated over 40 contests."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

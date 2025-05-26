@@ -1,0 +1,177 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Dhruva Teja Vemulapalli",
+  "college": "SRM University - AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Webflow",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Servicenow Database Management System (Elite + Silver)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Webflow 101 Micro Certification",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University - AP",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.09",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Shastra College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 93.4",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Sai Siddhartha School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 85.5",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Secure Lab Access System with Face Recognition",
+        "description": "Developed an advanced two-step verification system utilizing face recognition technology, utilizing Flask, Python, HTML, CSS, JavaScript, and MySQL to craft a dynamic web app with separate admin and user portals. Orchestrated the development of a robust dual authentication system, combining card number input and facial recognition, and supervised the creation of an intuitive admin interface for streamlined user management.",
+        "keywords": [
+          "Flask",
+          "Python",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "JavaScript Compiler",
+        "description": "Engineered a compiler for a subset of the JavaScript language, implementing a lexical analyzer with the ply library in Python to execute Lex code for efficient tokenization of JavaScript code. Utilized the pyjsparser library to transform the JavaScript code into an Abstract Syntax Tree (AST), executing semantic analysis on the AST. Tracked variable declarations, types, and scopes, showcasing proficiency in language semantics and understanding of program structure.",
+        "keywords": [
+          "JavaScript",
+          "Python",
+          "AST"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Exam System",
+        "description": "Developed an interactive Java-based online quiz application utilizing AWT and Swing libraries for GUI design. Employed object-oriented programming principles for code modularity, effectively addressing challenges in question handling, and presenting results.",
+        "keywords": [
+          "Java",
+          "AWT",
+          "Swing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Process Manager",
+        "description": "Devised a system monitoring script in Python using the psutil library, delivering detailed insights into running processes, including PID, CPU and memory utilization, and I/O statistics. Implemented a process categorization feature, classifying processes as either CPU or I/O bound based on their I/O read and write bytes, contributing to system optimization efforts.",
+        "keywords": [
+          "Python",
+          "psutil"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Report Management System",
+        "description": "Conceptualized and developed a Student Report Management System using C++, proficiently managing student records, calculating grades, and generating tabular results. Demonstrated expertise in C++ programming and file handling for data management applications through a streamlined entry menu and result menu.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Insignia Consultancy Solutions",
+        "description": "Contributing to the development of an AI-driven job search platform that automates the application process by matching candidates with suitable job opportunities. Enhancing the platform's performance by annotating data to improve the accuracy and relevance of automated job matching. Conducting R&D to understand and implement machine learning models for natural language processing (NLP).",
+        "location": "",
+        "links": "",
+        "startDate": "May 24"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "C++",
+      "JavaScript",
+      "MySQL",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "Flask",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Git",
+      "Latex"
+    ],
+    "soft_skills": [],
+    "name": "Dhruva Teja Vemulapalli",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Vijayawada, AP, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors of Technology"
+}

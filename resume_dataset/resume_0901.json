@@ -1,0 +1,151 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Abhishek Nath Tiwari",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Gautam Buddh Nagar, India",
+    "Remote",
+    "Vasundhara, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Gautam Buddh Nagar, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.52",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-Time Weather Web App",
+        "description": "Designed a user-friendly weather application providing real-time weather information for improved planning. Building a responsive web interface using React.js. Displaying weather forecasts for the next seven days.",
+        "keywords": [
+          "Reactjs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Music Player",
+        "description": "Created a Music Player website with music playback, shuffle, and background play capabilities. Ensured a page with a simple and user-friendly interface. Utilized HTML for website layout, reducing page load time by 15%, and leveraged JavaScript to access music from the system, improving functionality by 30%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Vehicle and Electronic Price Prediction",
+        "description": "Implemented a user-friendly web interface for price prediction using machine learning algorithms, with separate sections for Electronic and Vehicle categories, resulting in a 25% increase in accuracy of pricing strategies and facilitating informed decision-making.",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "University Management System",
+        "description": "Designed and implemented a comprehensive University Management System (UMS) to streamline administrative processes, improving efficiency by 30% and enhancing user satisfaction through personalized student and faculty management, seamless fee transactions, and real-time result tracking.",
+        "keywords": [
+          "JAVA",
+          "MySQL",
+          "SpringBoot"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "Angular",
+          "SQL",
+          "BigQuery"
+        ],
+        "endDate": "Present",
+        "company_name": "Sehaj Solution Private Limited",
+        "description": "Full-Stack Development: Worked on both frontend and backend of various projects using Angular, SQL, and BigQuery, improving overall application performance by 25% and enhancing user experience through responsive design. Data Management with BigQuery: Implemented efficient data queries and management using Google BigQuery, leading to a 30% increase in query performance and ensuring data accuracy across multiple platforms. Angular Development: Developed and optimized dynamic and scalable web applications using Angular, resulting in a 20% improvement in load times and user engagement. SQL Optimization: Optimized SQL queries to reduce data retrieval time by 35%, contributing to faster analytics and reporting for business intelligence purposes.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "React",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "July 2023",
+        "company_name": "Fanden India",
+        "description": "Revamped Website: Improved the official website of FanDen India, resulting in a 40% increase in user engagement and a 50% improvement in website loading speed, ultimately leading to a 20% boost in online sales. Applied MERN Stack: Architected the frontend with React, developed the backend using Node.js, and integrated MongoDB for the database, resulting in a 40% faster page load time and 25% higher user engagement. Executed on-time: Orchestrated the swift creation and deployment of a fully functional website in just four weeks, surpassing project deadlines and exceeding stakeholder expectations by 20%.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "JavaScript",
+      "SQL",
+      "JAVA",
+      "Angular",
+      "ReactJS",
+      "Numpy",
+      "Django",
+      "NodeJS",
+      "Oracle",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Linux",
+      "Web",
+      "Windows",
+      "AWS",
+      "IBM Cloud"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Event Management",
+      "Writing",
+      "Public Speaking"
+    ],
+    "name": "Abhishek Nath Tiwari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated in ICPC 2023 and got rank 1 in college",
+      "Secured 610th place in LeetCode Weekly Contest 395.",
+      "Secured 69th place in CodeStudio Weekly Contest 64.",
+      "Python HackerRank Certified.",
+      "1876(knight) rating on Leetcode.",
+      "1441(specialist) rating on Codeforces.",
+      "Completed over 500 coding challenges on LeetCode, GeeksforGeeks, and Codeforces."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,191 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Sneha Aggarwal",
+  "college": "KIET Group of Institutions (Dr.A.P.J. Abdul Kalam Technical University)",
+  "locations": [
+    "Uttar Pradesh, India",
+    "Uttar Pradesh, India",
+    "Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Database Structures and Management with MySQL",
+        "skillsLearned": [],
+        "title": "Database Management",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Data Structures and Performance",
+        "skillsLearned": [],
+        "title": "Java Technology",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Building Web Applications in Django",
+        "skillsLearned": [],
+        "title": "Django Technology",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions (Dr.A.P.J. Abdul Kalam Technical University)",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Uttar Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "Current CGPA: 9.0",
+        "field_of_study": "Computer Science And Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Silver Bells Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Uttar Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 97%",
+        "field_of_study": "Senior Secondary Education (Science)",
+        "startDate": "2019"
+      },
+      {
+        "school": "Silver Bells Public School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Uttar Pradesh, India",
+        "ID": 2.0,
+        "grade_received": "Percentage: 95.2%",
+        "field_of_study": "Secondary Education",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Human Resource Management System",
+        "description": "Human Resource Management System (HRMS), is an online-based solution to administer the organizations human resources with 6000+ daily active users. Comprises academics, attendance, examination, leave, grievance, and appraisal accolade tracking modules.",
+        "keywords": [
+          "Django",
+          "Python",
+          "Angular",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "tech.kiet.edu/hrms/"
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "A movie recommendation system built using machine learning algorithms that suggest movies based on a movie name.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "May 22",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Examination System",
+        "description": "A website with dynamic exam form creation and respective student and teacher dashboards that automates the processes of exam conduction.",
+        "keywords": [
+          "Django",
+          "Angular JS"
+        ],
+        "endDate": "January 21",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Google Keeps Clone",
+        "description": "A clone of Google Keeps that implements your personal notes storage and retrieval functionality.",
+        "keywords": [
+          "Django",
+          "Angular JS"
+        ],
+        "endDate": "December 20",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [
+          "React JS",
+          "Django",
+          "PostgreSQL"
+        ],
+        "endDate": "Present",
+        "company_name": "AppSuccessor Media Pvt. Ltd.",
+        "description": "Web Portal: Worked on enhancing the organizations tracking portal by developing critical features and pages that modernized affiliate network processes, significantly improving business performance tracking. Technologies: React JS, Django, PostgreSQL",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Backend Developer Intern",
+        "skillsUsed": [
+          "MySQL",
+          "Django",
+          "Flutter"
+        ],
+        "endDate": "Dec 2023",
+        "company_name": "KIET",
+        "description": "Web Portal: Establishing the system for real-time data sensing and analysis, reducing unnecessary paperwork up to 90% and improving organization transparency. Database Handling: Designed and developed database models for different ERP modules on the MySQL database system. Android app: Developed a digital directory app for 5000+ students at KIET by utilizing Flutter SDK for coding, and Django API for the backend.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "Django",
+      "LAMP",
+      "Flutter",
+      "React JS",
+      "Git",
+      "Android Studio",
+      "Postman",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "soft_skills": [],
+    "name": "Sneha Aggarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 500+ questions on various coding platforms.",
+      "I obtained the highest percentage in my first year in my institute."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

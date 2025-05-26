@@ -1,0 +1,106 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Hari Prasath G",
+  "college": "Paavai Engineering College",
+  "locations": [
+    "Namakkal, Tamilnadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Paavai Engineering College",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Namakkal, Tamilnadu",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "Sep. 2020"
+      },
+      {
+        "school": "Nxtwave Disruptive Technologies",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Industry Ready Certification",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Full-stack Development",
+        "startDate": "Sep. 2022"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Munch Website",
+        "description": "Developed a fully responsive website providing a comprehensive list of food items and detailed information about each item. Implemented Selenium to create an instance of Chrome in order to interact with the correct elements of the web page. Implemented product videos to enhance customer engagement and provide a clear view of the food items.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap"
+        ],
+        "endDate": "September 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Smart Car Parking System",
+        "description": "Developed a Python-based smart car parking system utilizing OpenCV for License Plate Recognition (LPR) to automate vehicle identification at entry and exit points. Implemented automated image processing to detect and read license plates with OCR technology. Designed and managed a SQLite database to securely store vehicle entry/exit records and payment details. Integrated Stripe and PayPal APIs to enable seamless payment processing, enhancing the efficiency and convenience of the parking experience.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Stripe",
+          "PayPal APIs"
+        ],
+        "endDate": "December 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mini Chatbot Application",
+        "description": "Developed a chatbot application that greets users and responds to inputs based on a predefined list of answers. Displayed the conversation between the user and chatbot using HTML list elements, styled with CSS and Bootstrap. Implemented dynamic user input handling and chatbot responses using JavaScript DOM operations and Array methods.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "endDate": "March 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML/CSS",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "React.js",
+      "Bootstrap",
+      "MySQL",
+      "VS Code",
+      "Google Cloud Platform",
+      "Github",
+      "Figma",
+      "Node.js"
+    ],
+    "soft_skills": [],
+    "name": "Hari Prasath G",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "One-Day Web Development Hackathon by Google Development Students Club First Prize Sep-2023 Namakkal Participated in a one-day hackathon and won first prize. Collaborated with a team to conceive, design, and develop a fully functional E-commerce website from scratch. Developed a user-friendly interface, product catalog, shopping cart, and secure checkout process. Took on responsibilities including front-end and back-end development, database integration, and ensuring responsive design for seamless usability across various devices."
+    ],
+    "publications": []
+  },
+  "current_location": "Coimbatore, Tamilnadu - 641017",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Engineering"
+}

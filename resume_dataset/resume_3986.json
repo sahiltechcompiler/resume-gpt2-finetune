@@ -1,0 +1,144 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "KRISHNA KOUSHIK GUDURU",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Certified: Azure Data Scientist Associate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System [NPTEL]",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python [Hackerrank, IBM]",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Volunteered for Unnat Bharat Abhiyan household surveys in neighboring villages of SRM AP."
+    ],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Board of Intermediate Education Andhra Pradesh",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "94.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Product Recommendation by Customer Segmentation",
+        "description": "Cleaned the Online Retail transaction dataset and engineered a customer-centric dataset using Python. Clustered the customers using k-means clustering, built a system to recommend the top 3 products unpurchased by the customer from the top 10 popular products within the customers cluster.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "On Shelf Availability (Void Space) Detection",
+        "description": "Developed models utilizing Python, YOLO for detection of empty shelf spaces in retail environment. Curated a retail shelf images dataset and implemented YOLO model achieving mAP scores over 80%.",
+        "keywords": [
+          "Python",
+          "YOLO"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Study Abroad Information System",
+        "description": "Developed a system using Java and MySQL to provide information on educational institutions abroad. Compiled data on 200 universities from various online sources and enabled access to this information, providing an overview of international education opportunities.",
+        "keywords": [
+          "Java",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [
+          "Python",
+          "Pandas",
+          "Scikit-learn"
+        ],
+        "endDate": "May 2024",
+        "company_name": "Infosys Springboard",
+        "description": "Worked on a churn prediction project primarily using Python, Pandas, and Scikit-learn. Collaborated with fellow interns and mentor to preprocess a raw dataset with records of a telecom company customers, overcoming ambiguity, ensuring data quality and relevance. Built machine learning models, initially achieving an accuracy of 72% using decision tree, improved the accuracy to 80% by hyperparameter tuning. Also used logistic regression and random forest, achieving accuracies over 80%, which can aid in formulation of strategies to retain customers at risk of churning.",
+        "location": "virtual",
+        "links": "",
+        "startDate": "Apr 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "DBMS/SQL",
+      "OOPS"
+    ],
+    "soft_skills": [],
+    "name": "KRISHNA KOUSHIK GUDURU",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

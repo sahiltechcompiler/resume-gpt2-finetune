@@ -1,0 +1,197 @@
+{
+  "project_count": 3.0,
+  "designation": "Aspiring Software Developer",
+  "name": "T Anjani",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Mumbai, India",
+    "Phagwara,India",
+    "Hyderabad, India"
+  ],
+  "full_output": {
+    "summary": "Competitive Programmer, aspiring Data Analyst and backend developer with expertise in algorithms, coding and problem-solving. Passionate about innovative solutions and continuous learning. Demonstrated proficiency in designing and implementing scalable web applications and provided a meaningful insights for data in.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "R Programming",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Bits and Bytes of Computer Networking",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Unity and C# basics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Visualization with Tableau",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Greedy Algorithms, Minimum Spanning Trees and Dynamic Programming",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "Board Infinity",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Worked in Division of Student Organization in data management at Lovely Professional University"
+    ],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Phagwara,India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.3",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Aug 21"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "Mar 21",
+        "maximum_grade": "",
+        "degree": "Higher Secondary School (Class 12)",
+        "location": "Hyderabad, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 88%",
+        "field_of_study": "",
+        "startDate": "Mar 19"
+      },
+      {
+        "school": "St.Peters Model School",
+        "endDate": "Mar 19",
+        "maximum_grade": "",
+        "degree": "Secondary School (Class 10)",
+        "location": "Hyderabad, India",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.3",
+        "field_of_study": "",
+        "startDate": "Mar 18"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chat Application",
+        "description": "Developed a real-time chat application supporting user registration, login, and encrypted password storage with JWT authentication and MongoDB for data storage. Enabled users to search for contacts, retrieve chat history, and set their status to \"BUSY\" or \"AVAILABLE,\" affecting message receipt based on status. Integrated real-time communication with Socket.io and utilized Google Gemini for generating LLM responses.",
+        "keywords": [
+          "HTML",
+          "JS",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Socket.io"
+        ],
+        "endDate": "May `24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Cricket World Cup Analysis with Tableau",
+        "description": "Developed a comprehensive Tableau dashboard for the ICC Cricket World Cup 2023, providing real-time, interactive visualizations and detailed analysis of player performances and team statistics. Integrated and cleaned data from Kaggle to explore top batsmen, leading wicket- takers, and team statistics. Utilized advanced analytics to provide insights into match trends, player consistency, and stadium impacts.",
+        "keywords": [
+          "Tableau"
+        ],
+        "endDate": "Mar 24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Exam Management System",
+        "description": "Created a robust web-based Exam Management System facilitating seamless administration, organization, and monitoring of exams, improving overall efficiency. Implemented a user-friendly interface for the system, prioritizing an intuitive design that enhances the user experience for both administrators and exam takers Integrated stringent data security protocols into the system, ensuring the confidentiality and integrity of exam-related information, meeting the highest standards for secure online examination platforms.",
+        "keywords": [
+          "HTML5",
+          "CSS",
+          "Js",
+          "Node.js",
+          "Mongo Db"
+        ],
+        "endDate": "Jul23",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Anlayst Intern",
+        "skillsUsed": [
+          "Tableau",
+          "MS Excel"
+        ],
+        "endDate": "Mar 22",
+        "company_name": "Indika AI",
+        "description": "Produced vital insights via impactful visualizations, enhancing data-driven decision-making for teams. Ensured data accuracy by collaborating on cross-functional teams for quality.",
+        "location": "Mumbai, India",
+        "links": "",
+        "startDate": "Jan'22"
+      }
+    ],
+    "skills": [
+      "C++",
+      "R",
+      "Python",
+      "JavaScript",
+      "HTML5",
+      "CSS",
+      "Node.js",
+      "Express.js",
+      "Microsoft Excel",
+      "MySQL",
+      "MongoDb",
+      "Tableau",
+      "Unity",
+      "C#",
+      "DSA",
+      "Competitive Programming"
+    ],
+    "soft_skills": [],
+    "name": "T Anjani",
+    "position": "Aspiring Software Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 200+ leetcode questions",
+      "5 Star Coder in Problem Solving in HackerRank Platform",
+      "3 Star in Codechef Platform"
+    ],
+    "publications": []
+  },
+  "current_location": "Hyderabad,India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

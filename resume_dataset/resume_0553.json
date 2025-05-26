@@ -1,0 +1,163 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vikram Muchumarri",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh",
+    "Nandyal"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "Python",
+        "courseLink": "",
+        "description": "Earned certification improving data manipulation and visualization skills, and enhancing data analysis efficiency by 75% along with python programming and its application in data science improving data handling and processing capabilities.",
+        "skillsLearned": [
+          "Data manipulation",
+          "Data visualization"
+        ],
+        "title": "Python for Data Science and Data Analysis with Python",
+        "issuer": "Cognitive Class.ai by IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed comprehensive DBMS course, showcasing proficiency in database management.",
+        "skillsLearned": [
+          "Database management"
+        ],
+        "title": "DBMS course",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Secured a certificate enhancing database management and query optimization skills.",
+        "skillsLearned": [
+          "Database management",
+          "Query optimization"
+        ],
+        "title": "SQL",
+        "issuer": "Infosys springboard program",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.6/10.0",
+        "field_of_study": "Computer Science and Engineering with Specialization in Big Data",
+        "startDate": "2021"
+      },
+      {
+        "school": "Raos Jr College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Nandyal",
+        "ID": 1.0,
+        "grade_received": "95/100",
+        "field_of_study": "Senior Secondary School (Board: BIEAP)",
+        "startDate": "2019"
+      },
+      {
+        "school": "Good Shepherd (EM) High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Nandyal",
+        "ID": 2.0,
+        "grade_received": "10/10",
+        "field_of_study": "Secondary School (Board: BSEAP)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "HR-Analytics Dashboard",
+        "description": "Designed an interactive visualization and dashboard to present key insights on employee performance, retention trends, and recruitment effectiveness, increasing data-driven decision-making. Developed skills in interpreting HR data to provide actionable insights, significantly enhancing strategic decision-making accuracy within organizations. Applied data cleansing, transformation, and visualization techniques using Power BI, achieving a 75% reduction in data processing time and a good accuracy rate in final reports.",
+        "keywords": [
+          "PowerBi"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Blood Bond -A web based Application",
+        "description": "Led application development of a comprehensive web platform for blood donation management. Implemented features for donor registration, blood inventory management, and donation scheduling, resulting in a 70% increase in user engagement. Ensured secure handling of sensitive donor information, maintaining data privacy and compliance with industry standards, reducing administrative workload by 50%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Php"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Face recognition",
+        "description": "Explored various face recognition methods and Siamese neural networks to refine the approach, which enhanced the final results. Implemented a siamese neural network architecture using python, deep learning and openCv capabilities for image capturing and recognition tasks.",
+        "keywords": [
+          "Siamese Neural Networks"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analysis Intern",
+        "skillsUsed": [
+          "Python",
+          "Pandas",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "endDate": "Jul 2025",
+        "company_name": "APSSDC",
+        "description": ".Conducted comprehensive data analysis on rainfall patterns throughout 2022, utilizing Python (Pandas, Matplotlib, Seaborn) for statistical analysis and visualization. .Identified seasonal patterns and unusual occurrences in rainfall distribution, presenting these insights in detailed reports.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "JavaScript",
+      "HTML/CSS",
+      "MySQL",
+      "Git",
+      "Pandas",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "soft_skills": [
+      "Problem Solving"
+    ],
+    "name": "Vikram Muchumarri",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

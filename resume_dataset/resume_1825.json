@@ -1,0 +1,155 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Md Shezad Ansari",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "Delhi, India",
+    "New Delhi",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Government Sarvodaya Bal Vidyalaya Khahoori Khas",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "74.83%",
+        "field_of_study": "Science Stream (PCMB)",
+        "startDate": "2020"
+      },
+      {
+        "school": "Government Sarvodaya Bal Vidyalaya Khahoori Khas",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "New Delhi",
+        "ID": 2.0,
+        "grade_received": "75.2%",
+        "field_of_study": "Class X",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Social Media API",
+        "description": "Backend solutions for a social media platform. Features: user authentication, registration, liking, commenting, following users, and sharing status. Implemented JWT Spring Security for user data protection and MySQL database for data storage.",
+        "keywords": [
+          "Spring Boot",
+          "MySQL",
+          "Postman",
+          "GitHub"
+        ],
+        "endDate": "Live",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Job Portal API",
+        "description": "Backend solutions for a job portal platform. Developed a user-friendly Job Portal application, enabling registration, login, logout and interactive features like adding jobs by Employer and Job Seeker can apply for job and all CRUD operations.",
+        "keywords": [
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Postman",
+          "GitHub"
+        ],
+        "endDate": "Live",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Railway Ticket Generator API",
+        "description": "API for generating railway tickets, validating train and seat numbers. Developed RESTful APIs for generating railway tickets with features like user authentication and authorization. Implemented validation for train and seat numbers in the Mongoose schema for data integrity. Utilized custom error handling middleware for efficient error management in the application.",
+        "keywords": [
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Postman",
+          "GitHub"
+        ],
+        "endDate": "Live",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Backend Service",
+        "description": "Backend solutions for an e-commerce platform. Engineered robust backend solutions for managing product catalogs, user authentication, and order processing. Features include product browsing, shopping cart management, order placement, and an admin panel for managing products and orders. Enhanced security with JWT integration and improved performance by 40%.",
+        "keywords": [
+          "NodeJS",
+          "ExpressJs",
+          "MongoDB",
+          "Postman",
+          "GitHub"
+        ],
+        "endDate": "Live",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front-End Developer Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Fibrex Technical Services- Homedesignia",
+        "description": "Collaborated with the backend and design team to develop a seamless front-end web application. Actively contributed to enhancing site readability and responsiveness, ensuring seamless navigation and improved user interaction.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Javascript",
+      "C & CPP",
+      "Python",
+      "Spring",
+      "Spring Boot",
+      "ReactJs",
+      "NodeJs(ExpressJS)",
+      "RESTful APIs",
+      "JSON",
+      "XML",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Git & Github",
+      "Gradle",
+      "Maven",
+      "Figma",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "Md Shezad Ansari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Tech Hackathon Winner Achieved first place in the college hackathon and secured three wins.",
+      "Advanced Java Exam Topper IIT Kharagpur top 5% ranker."
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

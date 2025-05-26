@@ -1,0 +1,128 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Gnana Kartheek Tirumalasetti",
+  "college": "SRM UNIVERSITY",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Supervised Machine learning certification",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Computer Science with Specialization in Big data",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.71/10",
+        "field_of_study": "",
+        "startDate": "Aug 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Credit Card Recommendation",
+        "description": "Employed demographic classification, Used spending behavior analysis, Segmented customers efficiently. Identified key target groups for personalized credit card recommendations, Designed a Power BI dashboard featuring key performance indicators KPIs and utilized DAX formulas to create dynamic calculations and enhance data analysis.",
+        "keywords": [
+          "Power BI",
+          "DAX",
+          "Data Visualization"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Insights to Identify the Best Amazon Merchants",
+        "description": "Cleaned and extracted key seller data using SQL and Power BI. Analyzed and segmented sellers based on interactions, product counts, and rating metrics. Using Power BI, I identified the top 200 best-performing sellers and provided actionable insights, supporting decision-making through interactive visualizations.",
+        "keywords": [
+          "SQL",
+          "Power BI",
+          "DAX",
+          "Data Visualization"
+        ],
+        "endDate": "Aug 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Election Results Analysis",
+        "description": "Scraped and extracted election results from the Election Commission of India's website using Beautiful Soup. Built and analyzed datasets with Python and Excel, Leveraged statistical and analytical models for insights. Developed Power BI dashboards featuring KPIs, filters, and visual elements like pie charts.",
+        "keywords": [
+          "Python",
+          "BeautifulSoup",
+          "Pandas",
+          "Data Visualization",
+          "Power Bi",
+          "Excel"
+        ],
+        "endDate": "Jun 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "Django",
+          "DB-browser"
+        ],
+        "endDate": "Aug 2022",
+        "company_name": "",
+        "description": "Utilized Django to develop a fully dynamic job portal. Supported real-time updates for job listings, applications, user profiles, and application statuses. Implemented three distinct user roles: job seekers, job providers and admin. Implemented user roles: Job Seekers, Job Providers, and Admin, with secure user authentication. Leveraged Djangos ORM, authentication system, and admin panel for robust backend development.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Pandas",
+      "Excel",
+      "Statistics",
+      "Machine learning",
+      "web scraping",
+      "Django",
+      "Express.js",
+      "Node.js"
+    ],
+    "soft_skills": [
+      "Communication skills",
+      "Problem solving",
+      "Innovation",
+      "Analytical skills",
+      "Leadership"
+    ],
+    "name": "Gnana Kartheek Tirumalasetti",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved 5-star rating in SQL on HackerRank",
+      "Published a research paper on precision agriculture at the IEEE Conference."
+    ],
+    "publications": [
+      "An Empirical Study of Precision Agriculture"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Computer Science with Specialization in Big data"
+}

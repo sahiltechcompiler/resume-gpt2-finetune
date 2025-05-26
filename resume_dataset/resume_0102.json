@@ -1,0 +1,151 @@
+{
+  "project_count": 3.0,
+  "designation": "SOFTWARE ENGINEER",
+  "name": "ASHISH GUPTA",
+  "college": "LOVELY PROFESSIONAL UNIVERSITY",
+  "locations": [
+    "Pandav nagar , Delhi."
+  ],
+  "full_output": {
+    "summary": "Motivated software engineer with a strong foundation in data structures and algorithms, proficient in web development, and experience in programming with CPP, Java, and JavaScript. Skilled in creating server-side rendering using HTML, CSS, and framework Node.js. Eager to contribute to innovative projects and grow in a dynamic environment.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structure and Algorithms",
+        "issuer": "Geeksforgeeks",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "VMware vSphere 7.0 Boot camp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM Cloud Essentials",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CompTIA Linux+ preparation",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "LOVELY PROFESSIONAL UNIVERSITY",
+        "endDate": "MAY, 2024",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Pandav nagar , Delhi.",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Database, Back-end project",
+        "description": "Save username and password after encryption. Used Session for state persistence and security.",
+        "keywords": [
+          "JavaScript",
+          "NodeJS",
+          "MySQL",
+          "Bcrypt",
+          "session"
+        ],
+        "endDate": "MAY, 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "URL Shortener",
+        "description": "It is a responsive front-end interface for user-friendly URL input and short URL display. Utilized a MongoDB database to store and manage original and shortened URLs efficiently. Ensured robust error handling and validation for URL inputs.",
+        "keywords": [
+          "JavaScript",
+          "NodeJS",
+          "MongoDB",
+          "EJS",
+          "Shortid"
+        ],
+        "endDate": "April, 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Canteen management System",
+        "description": "It is a Database, Back-end Project. It manages Customers, Employees and their salaries, and Vendors and their product purchases.",
+        "keywords": [
+          "JavaScript",
+          "NodeJS",
+          "MySQL",
+          "EJS",
+          "bcrypt",
+          "session"
+        ],
+        "endDate": "Mar - May, 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "experiences": [],
+    "skills": [
+      "Programming Language (CPP, Java, JavaScript)",
+      "Frameworks (NodeJS)",
+      "Database (MySQL, MongoDB)",
+      "Version control (Git)",
+      "OOPs",
+      "Operating System (Linux, Windows)",
+      "Teamwork",
+      "Attention to detail",
+      "Communication Skill",
+      "Computer Networks",
+      "Data Structure and Algorithms",
+      "Source Contribution",
+      "Prompt Engineering",
+      "Analytics and Reasoning skill",
+      "Serialization",
+      "User Authentication"
+    ],
+    "soft_skills": [],
+    "name": "ASHISH GUPTA",
+    "position": "SOFTWARE ENGINEER",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Computer Science and Engineering"
+}

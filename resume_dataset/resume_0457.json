@@ -1,0 +1,196 @@
+{
+  "project_count": 3.0,
+  "designation": "Data Science Intern",
+  "name": "SIDDHARTH KUMAR JHA",
+  "college": "KIET GROUP OF INSTITUTIONS",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Ghaziabad, Uttar Pradesh",
+    "Ghaziabad, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud Foundations",
+        "issuer": "Amazon Web Services (AWS)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Become a Data Analyst",
+        "issuer": "Linkedin",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Networking Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem Solving in DSA and Fundamentals of Web Development",
+        "issuer": "Programming Pathshala",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Programming",
+        "issuer": "CodSoft",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI Using Python",
+        "issuer": "Ducat",
+        "certiLink": "Certificate No.  31122022884288040"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET GROUP OF INSTITUTIONS",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "CH. CHABBIL DASS PUBLIC SCHOOL",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "83%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "J.K.G PUBLIC SCHOOL",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "92%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Anti-Spoofing/Liveness Detection",
+        "description": "Implemented real-time liveness detection to distinguish between real users and spoofed attempts using videos and images. It helps to enhance security in facial recognition systems. 25% improvement in authentication accuracy 30% reduction in false acceptance rates. Utilized multiple techniques for liveness detection: Blink detection, Head movement analysis, Texture analysis, These methods increased the system's robustness by 20%.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Tensorflow",
+          "OS",
+          "Ultralytics",
+          "Flask"
+        ],
+        "endDate": "December, 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "House Price Prediction System",
+        "description": "Developed a house price prediction system to provide accurate real estate valuations. 20% increase in prediction accuracy and 15% reduction in mean absolute error. Implement Linear Regression model to analyze various factors influencing house prices such as Location, Property size and Number of bedrooms and bathrooms. These features enhanced the model's predictive power by 25%.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "Pandas",
+          "Scikit-Learn",
+          "Flask"
+        ],
+        "endDate": "May, 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "2D Face Recognition System",
+        "description": "It enhance security and streamline identity verification processes. 30% increase in recognition accuracy and 20% reduction in processing time. Utilized multiple stages for face recognition: Face detection, Face alignment, Feature extraction and Face matching. These stages improved the system's reliability by 25%.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "dlib",
+          "OS",
+          "PIL",
+          "Sklearn",
+          "Flask",
+          "CNN"
+        ],
+        "endDate": "June, 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "CodeClause",
+        "description": "Immersed myself in a stimulating learning environment at CodeClause, where I gained hands-on experience, throughout the internship, I was given two challenging real-world projects. These projects pushed me to enhance my technical skills. Each task presented unique challenges, giving me valuable insights into Data Science and its practical use in the software industry. Tasks are Customer Lifetime Value Prediction and House Price Prediction System.",
+        "location": "Off-site",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "SQL",
+      "JQuery",
+      "Flask",
+      "Django",
+      "Node.js",
+      "React"
+    ],
+    "soft_skills": [],
+    "name": "SIDDHARTH KUMAR JHA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 2nd Rank in Departmental Level Competitive Coding Contest CODE-IT.",
+      "650+ Questions on Leetcode (1600+ Rating), 600+ Questions on Coding Ninjas (Expert Level 7) and 5 Star on Hackerrank.",
+      "Former Member of KIET Martial Arts Club."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

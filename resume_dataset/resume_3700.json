@@ -1,0 +1,98 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Dilip Raj",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Cumulative GPA: 7.4/10.0",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Model Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 89/100",
+        "field_of_study": "CBSE",
+        "startDate": "2018"
+      },
+      {
+        "school": "Holy Faith International Public School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 87/100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Forkify App",
+        "description": "Developed API Integration: Utilized APIs to retrieve recipes from external sources, providing users with a vast culinary library. Implemented User Management: Enabled users to bookmark and edit recipes, personalizing their culinary experience. Facilitated User-Generated Content: Empowered users to contribute their own recipes, fostering a collaborative community. Users can search over 1000 recipes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blog Website",
+        "description": "Built a user authentication system using Appwrite, enabling secure user sign-in. Create new blog posts with rich text editing capabilities. Upload and integrate images to enhance blog visuals. Edit and modify existing blog posts for content updates.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mapty app",
+        "description": "Map visualization of running and cycling routes using GPS for accurate location data. Persistent workout history storage, even after app closure, allowing users to analyze progress and stay motivated.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C ++",
+      "Python",
+      "JavaScript",
+      "React",
+      "HTML/CSS",
+      "Sass",
+      "Tailwind CSS",
+      "Git",
+      "Figma",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "Dilip Raj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

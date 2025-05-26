@@ -1,0 +1,121 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "John Moshe Nayak Bhukya",
+  "college": "SRM University",
+  "locations": [
+    "Amaravathi, Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Active member of the coding club at my college, fostering collaboration and skill development within the coding community.",
+      "Participated in Hands on Web Development Workshop and other industry-ready webinars conducted in my university.",
+      "Led coordination of Guinness World Records event and managed cancer detection and treatment camp as part of Grace Cancer Foundation initiatives."
+    ],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Amaravathi, Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AR Discovery App",
+        "description": "Explore engaging augmented reality experiences that seamlessly integrate hidden virtual treasures and interactive elements into real-world settings, offering immersive adventures and unique exploration opportunities.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Practical AI Chatbot Development",
+        "description": "Developed a customized ChatGPT clone using the MERN stack, leveraging MongoDB for data storage, Express for API development, React for dynamic user interfaces, and Node.js for backend logic. Implemented advanced authentication features, including secure user login and registration with JWT tokens and HTTP-only cookies, ensuring robust security measures.",
+        "keywords": [
+          "JS",
+          "React.JS",
+          "Node.JS",
+          "Express.JS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Stock Price Prediction of High Frequency Data",
+        "description": "Trained a Python-based system for high-frequency data-driven stock price predictions using Linear Regression algorithms. Optimized investment decisions and fostered data driven strategies through the implementation of advanced algorithms.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "Pandas",
+          "Regression"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineering Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Infosys(Springboard)",
+        "description": "made a user-friendly app for instant disease diagnosis from uploaded images, increasing diagnostic accuracy. Developed an intuitive user interface utilizing TailwindCSS, significantly enhancing user engagement through streamlined design and enhanced user experience. Integrated machine learning algorithms reducing plant disease incidents.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Full Stack Developer Intern (MERN)",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "CodeSwap Solutions",
+        "description": "Developed a centralized platform for job postings and candidate management, enhancing recruitment efficiency and candidate engagement. Designed a streamlined job dashboard to improve candidate management and application tracking efficiency. Implemented advanced filters for tailored job searches, enhancing search efficiency and empowering users with precise job matching capabilities.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "JSON",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "Tailwind",
+      "Git",
+      "GitHub",
+      "Docker",
+      "Postman",
+      "REST APIs",
+      "MongoDB",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "John Moshe Nayak Bhukya",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Guntur,AP",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

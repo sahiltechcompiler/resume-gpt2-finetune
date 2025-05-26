@@ -1,0 +1,153 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Madamanchi Jhansy",
+  "college": "SRM University AP",
+  "locations": [
+    "Amaravati, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.0",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "Percentage: 91.4",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "ST.Anss English Medium High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "Percentage: 93.1",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sentiment Analysis Project: Amazon Reviews",
+        "description": "Engineered a sentiment analysis tool to classify over 10,000 Amazon reviews as positive or negative. Attained an accuracy rate of 85% using natural language processing techniques and machine learning models. Provided actionable insights into consumer sentiment to drive strategic business decisions.",
+        "keywords": [
+          "Python",
+          "Sentiment Analysis"
+        ],
+        "endDate": "2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developed a recommendation engine using Content-based filtering and Cosine Similarity to suggest movies based on user preferences. Implemented a system that accurately recommends the top 10 movies with a 92% accuracy rate. Enhanced user experience with personalized movie suggestions based on titles, genres, and overviews.",
+        "keywords": [
+          "Python",
+          "Content-based Filtering",
+          "Cosine Similarity"
+        ],
+        "endDate": "2024",
+        "startDate": "Mar 2024",
+        "url": ""
+      },
+      {
+        "name": "Online Service Management System",
+        "description": "Designed and implemented an Online Service Management System to streamline service requests and bookings. Established role-based access controls for individuals, communities, administrators, and service providers using Django. Improved user satisfaction by simplifying service listing and booking processes.",
+        "keywords": [
+          "Django"
+        ],
+        "endDate": "2023",
+        "startDate": "Mar 2023",
+        "url": ""
+      },
+      {
+        "name": "Weather Forecast Tool",
+        "description": "Engineered a Python application for real-time weather data analysis using APIs and data analysis libraries. Created visualizations to illustrate weather trends and predictions effectively. Achieved 90% accuracy in weather forecasting, showcasing proficiency in API integration and data manipulation.",
+        "keywords": [
+          "Python",
+          "APIs",
+          "Data Analysis"
+        ],
+        "endDate": "2022",
+        "startDate": "Jan 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [
+          "scikit-learn",
+          "TensorFlow",
+          "time series analysis",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "endDate": "May 2023",
+        "company_name": "SRM University AP",
+        "description": "Engineered predictive models using scikit-learn and TensorFlow, accurately forecasting stock market trends; achieved a 15% increase in portfolio returns and reduced forecasting errors by 20%. Analyzed over 5 years of historical stock data using time series analysis, improving model predictive accuracy by 20%. Created interactive visualization dashboards with Matplotlib and Seaborn, effectively communicating data insights to stakeholders and enhancing decision-making processes by 25%.",
+        "location": "Amaravati, India",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python(Pandas, NumPy, Scikit-learn)",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Firebase",
+      "PHP",
+      "Data Structures and Algorithms",
+      "Competitive Programming",
+      "Object-Oriented Programming",
+      "DBMS",
+      "Git",
+      "GitHub",
+      "Software Design",
+      "PowerBI"
+    ],
+    "soft_skills": [],
+    "name": "Madamanchi Jhansy",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed a web development internship with APSSDC, creating 3 web applications using Django, HTML, CSS, and JavaScript.",
+      "Successfully completed Deloittes Technology Job Simulation, showcasing advanced skills in Python, Pandas, and NumPy, as well as expertise in web development and cybersecurity protocols, ranking in the top 10% of participants.",
+      "Earned a Google certification in Machine Learning, demonstrating proficiency in TensorFlow, scikit-learn, and advanced data preprocessing techniques, and applied this knowledge to improve model accuracy by 15%."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

@@ -1,0 +1,139 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Akash Kumar Singh",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis with Python",
+        "issuer": "FreeCodeCamp",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mathematics For Machine Learning: Linear Algebra",
+        "issuer": "Imperial College London",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management Essentials",
+        "issuer": "University of Colorado System",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology(Hons.)",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8/10",
+        "field_of_study": "Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ScrapeX",
+        "description": "Enhanced users information retrieval experience by scraping articles based on a keyword or topic. Utilized the BERTSUM model for extractive summarization. Delivered efficient and user-friendly access to valuable insights.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image Style Transfer with incorporated Watermarking Model Minor Project",
+        "description": "Developed the integration of Image Style Transfer with advanced Watermarking. Addressed limitations in image processing for robust content protection and optimized visual appeal. Focused on championing creators rights and fostering responsible content creation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to ipynb File"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Tata Technologies",
+        "description": "Developed AI features for the Manufacturing Execution System (MES) in the steel pipe making industry using .NET for backend development. Designed and implemented a chatbot using NLP and Gemini for intent classification, enhancing user interactions. Utilized Flask (Python) for machine learning model development and SQL Server for database management. Analyzed sample datasets from pipe manufacturing, focusing on ladle composition and pipe rejection rates, and created data visualizations for decision-making. Developed machine learning models for predictive analytics to identify and address reasons for pipe rejection. Gained detailed knowledge of MES industry processes.",
+        "location": "",
+        "links": "Link to Github",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Python Django Development Intern (Developer)",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "Across the Globe (Banao Tech)",
+        "description": "Contributed to the backend development of the Watchout Android app during the internship at Across the Globe (Banao Tech). Designed a project management dashboard using Django and integrated ClickUp for Product Managers. Hands-on experience in Django development, API integration, and project management. Active engagement in bug-solving and troubleshooting.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "Feb 2023",
+        "company_name": "Suvidha Foundation",
+        "description": "Implemented the algorithm and model architecture in the research paper Neural Machine Translation by Jointly Learning to Align and Translate. Utilized PyTorch to develop and train a neural machine translation model with attention mechanism. Documented the process and presented findings to the team. Test Loss per Sentence: 46.421, Test PPL per Sentence: 144721150610455461888.000, Test Loss per Token: 2.504, Test PPL per Token: 12.226.",
+        "location": "",
+        "links": "Link to Github",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C#",
+      "Django",
+      "Flask",
+      "Scikit-learn",
+      "PyTorch",
+      "Tensorflow",
+      "MySQL",
+      "SQL Server",
+      "PostgreSQL"
+    ],
+    "soft_skills": [],
+    "name": "Akash Kumar Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology(Hons.)"
+}

@@ -1,0 +1,103 @@
+{
+  "project_count": 2.0,
+  "designation": "Student",
+  "name": "SAMARTH SHARMA",
+  "college": "Indian Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Technology",
+        "endDate": "August 2026",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Data Science and Application",
+        "startDate": "Sept 2022"
+      },
+      {
+        "school": "guru gobind singh indraprastha university",
+        "endDate": "Aug 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "Dec 2021"
+      },
+      {
+        "school": "D.A.V Public School",
+        "endDate": "Aug 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate(12th)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "Non-Med with CS",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "tweetergoes_brrrrr",
+        "description": "The code uses the Tweepy library to extract details of tweets containing a specic hashtag, and saves them to a CSV le. It then reads the CSV le, summarizes the tweets using OpenAIs text summarization API, generates an image related to the news story, and creates a video clip with audio from the summary and the image.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FlaskShopee",
+        "description": "Flask-shoppee is a relatively very simple online shopping store type app, It is designed as a multi-user app that has 2 logins one for admin and other for customers and alloys the Customers to add, modify delete products from their carts and after doing all that to purchase the cart items alongside this it also alloys the admin to add, modify delete products or product categories and shows the sales in a graphical way to the admin. This consist of two APIs for CRUD operations on Products and Category.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "JAVA",
+      "DSA",
+      "CSS",
+      "HTML",
+      "Vanilla.js",
+      "Statistical Analysis",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Hard-working",
+      "Eye for detail",
+      "Motivator & Leader",
+      "Analytical Thinker",
+      "Team player"
+    ],
+    "name": "SAMARTH SHARMA",
+    "position": "Student",
+    "interests": [
+      "Reading books",
+      "chess",
+      "Cooking and baking",
+      "listening Music"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Rohini Delhi",
+  "graduation_year": 2026.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Science"
+}

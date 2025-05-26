@@ -1,0 +1,171 @@
+{
+  "project_count": 4.0,
+  "designation": "Full Stack Developer",
+  "name": "VIVEK KUMAR",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, Uttar Pradesh",
+    "Patna, Bihar",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "Full Stack Developer with expertise in API architecture and database management, seeking to contribute to dynamic teams and innovative projects.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MongoDB and the Document Model",
+        "issuer": "From MongoDB -Open-",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Web Development (React SSR)",
+        "issuer": "From Udemy -Open-",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Python",
+        "issuer": "From Infosys",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Master Of Computer Application",
+        "location": "Greater Noida, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "07/2023"
+      },
+      {
+        "school": "Patna University",
+        "endDate": "06/2023",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Application",
+        "location": "Patna, Bihar",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "07/2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Stock Market Paper Trading Application (Web App)",
+        "description": "Developed an app for risk-free stock trading practice. Provided real-time stock updates for informed decision-making.",
+        "keywords": [
+          "React",
+          "FireBase",
+          "Realtime DB",
+          "Docker"
+        ],
+        "endDate": "03/2024",
+        "startDate": "10/2022",
+        "url": "https://app.trylity.com/"
+      },
+      {
+        "name": "Stock Market Paper Trading ( Android App )",
+        "description": "Developed a user-friendly Android app for simulated stock trading. Utilized React Native for a smooth interface.",
+        "keywords": [
+          "React Native",
+          "Expo",
+          "Firebase",
+          "API Integration"
+        ],
+        "endDate": "03/2024",
+        "startDate": "09/2023",
+        "url": ""
+      },
+      {
+        "name": "Web Scraping Application",
+        "description": "Initial version built with PHP to extract college data and movie details. Upgraded to Node.js, Puppeteer, and Cloud Functions for efficient data processing.",
+        "keywords": [
+          "Node js",
+          "PHP",
+          "Puppeteer",
+          "Firebse",
+          "Cloud Function"
+        ],
+        "endDate": "06/2021",
+        "startDate": "07/2020",
+        "url": ""
+      },
+      {
+        "name": "Autoll Chrome extension",
+        "description": "Created an extension to automatically fill form inputs. Designed a system to store user information (name, address, education details, etc.).",
+        "keywords": [
+          "HTML",
+          "JavaScript",
+          "Jquery"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Internship",
+        "skillsUsed": [
+          "Microsoft Azure",
+          "JavaScript",
+          "TypeScript",
+          "Python",
+          "Java",
+          "PHP",
+          "Shell Script"
+        ],
+        "endDate": "present",
+        "company_name": "Project Sukoon: Solving Mental Health using AI People+ai",
+        "description": "Frontend and backend bug fixing for Project Sukoon.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "05/2024"
+      }
+    ],
+    "skills": [
+      "React",
+      "FireBase",
+      "Realtime DB",
+      "Docker",
+      "React Native",
+      "Expo",
+      "Firebase",
+      "API Integration",
+      "Node js",
+      "PHP",
+      "Puppeteer",
+      "Firebse",
+      "Cloud Function",
+      "HTML",
+      "JavaScript",
+      "Jquery"
+    ],
+    "soft_skills": [],
+    "name": "VIVEK KUMAR",
+    "position": "Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Greater Noida, Uttar Pradesh",
+  "graduation_year": 2023.0,
+  "experience_count": 1.0,
+  "degree": "Master Of Computer Application"
+}

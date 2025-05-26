@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Lekkala Sravya",
+  "college": "Chennai Institute Of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Web Development BootCamp - MEAN Stack",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Frontend Development",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:9.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Justiport",
+        "description": "Designed and implemented a web application to facilitate an efficient lawyer search process. Enhanced client experience, resulting in 40% increase in user engagement and 35% rise in client inquiries about attorney services. Provided comprehensive information on various types of attorneys, case studies and sections information.",
+        "keywords": [
+          "Angular Js",
+          "Node Js",
+          "MySql"
+        ],
+        "endDate": "04/2023",
+        "startDate": "03/2023",
+        "url": "https://github.com/LekkalaSravya/justiport"
+      },
+      {
+        "name": "Horfan",
+        "description": "Created a Blog where we can find interested horror and fantasy stories with the summary and with bibliography record of the book with interesting anime effects in the blog. Developed with an elegant UI and robust database, resulting in a 20% increase in user interaction. Enhanced the blog's appeal by integrating visually captivating anime effects, contributing to its unique.",
+        "keywords": [
+          "Angular Js",
+          "Node Js",
+          "MySql"
+        ],
+        "endDate": "02/2023",
+        "startDate": "01/2023",
+        "url": "https://github.com/LekkalaSravya/horfan"
+      },
+      {
+        "name": "Design Flex",
+        "description": "Created a platform for seamless collaboration between client and developers. Streamlined the collaboration process, resulting in a 45% reduction in the time clients spend searching for developers. Integrated payment gateway (Gpay), achieving a 30% surge in completed transactions.",
+        "keywords": [
+          "Angular Js",
+          "Node Js",
+          "MySql"
+        ],
+        "endDate": "12/2023",
+        "startDate": "11/2023",
+        "url": "https://github.com/LekkalaSravya/designflex"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "09/2023",
+        "company_name": "Cadd Company",
+        "description": "Directed 50% of the frontend development for the Django website, ensuring timely deliverables and outcomes. Centralized all course inquiry data, reducing duplicate entries and facilitating 20% faster data retrieval. Attained faster data retrieval, boosting team productivity by 20% and enhancing access to 30+ courses.",
+        "location": "",
+        "links": "",
+        "startDate": "07/2023"
+      },
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [],
+        "endDate": "07/2023",
+        "company_name": "Intern Crowd",
+        "description": "Gained expertise in frontend development by working on three different tasks, to build real time projects effectively. Utilized modern framework Angular js to reduce development time by 40% and asset management. Increased user engagement by 25% through optimizing the code and implementing responsive design.",
+        "location": "",
+        "links": "",
+        "startDate": "06/2023"
+      }
+    ],
+    "skills": [
+      "Frontend Development: Angular Js",
+      "Html",
+      "Css",
+      "Javascript",
+      "Backend Development and Database: Node Js",
+      "Express Js",
+      "Django",
+      "Programming Languages and Development tools: Figma",
+      "Git",
+      "Docker",
+      "Java",
+      "MySql"
+    ],
+    "soft_skills": [],
+    "name": "Lekkala Sravya",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Research Paper Published - Analysis on space and time complexity of Array, linked list and linked array(hybrid) in linear search operation.",
+      "Runner up in college level hackathon - Developed warehouse system linking owners and farmers.",
+      "Leetcode - contest rating 1308 and solved around 350 problems.",
+      "Skillrack - solved more than 1100 problems.",
+      "CodeChef: solved more than 300 problems and with contest rating 1303."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.E"
+}

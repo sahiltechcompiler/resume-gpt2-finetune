@@ -1,0 +1,113 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Janaki Rama Siva Sesha Sai Tunuguntla",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "Enthusiastic software developer with Django expertise and a solid foundation in Java, C++, and Python. Skilled in developing scalable web applications and solving complex problems in data structures and algorithms. Experienced in conducting face recognition research using classification neural networks.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP Board",
+        "endDate": "2019",
+        "maximum_grade": "9.21",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "BIEAP Board",
+        "endDate": "2018",
+        "maximum_grade": "9.8",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "7.92",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Recommendation System",
+        "description": "Created an advanced movie recommendation engine employing collaborative and content-based filtering, elevating user satisfaction by 35 percent; utilized Python, Pandas, Scikit-learn, and Jupyter Notebook to deepen expertise in recommendation algorithms.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Automated Teller Machine",
+        "description": "This project implements a multi-factor authentication system combining PIN-based authentication with biometric identifiers like fingerprint or iris recognition. By integrating biometric data, the system enhances security, providing robust protection against unauthorized access to ATM services.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Face Detection/Recognition Using CNN",
+        "description": "Using Convolutional Neural Networks (CNNs) like AlexNet and ResNet-50, this project achieves 96 percent accuracy in biometric identification and security applications. Experiments on datasets such as Labeled Faces in the Wild (LFW) demonstrate significant advancements in recognition accuracy, showcasing proficiency in deep learning and computer vision.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Django Development Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Developed scalable web applications using Django during a two-month APSSDC internship, improving backend performance by 40 percent and enhancing frontend-backend communication, contributing to seamless user experiences and robust software development processes.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Express",
+      "React",
+      "Node.js",
+      "Django",
+      "BootStrap",
+      "Git",
+      "VS Code",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "Janaki Rama Siva Sesha Sai Tunuguntla",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

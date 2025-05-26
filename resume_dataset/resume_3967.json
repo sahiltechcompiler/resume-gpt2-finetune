@@ -1,0 +1,167 @@
+{
+  "project_count": 5.0,
+  "designation": "Full Stack Web Developer",
+  "name": "Mohammed Samee Shaikh",
+  "college": "Trinity academy of engineering",
+  "locations": [
+    "Pune",
+    "Solapur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "The training consists of React, DBMS, JS.",
+        "skillsLearned": [],
+        "title": "Certicate in Full Stack Web Development",
+        "issuer": "Internshala",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "The course consists of basic development using Django.",
+        "skillsLearned": [],
+        "title": "Certicate in Python and Django",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Trinity academy of engineering",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "BE",
+        "location": "Pune",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "pursuing",
+        "startDate": ""
+      },
+      {
+        "school": "Walchand college of science and arts",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Solapur",
+        "ID": 1.0,
+        "grade_received": "91%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "S.S.A urdu medium high school",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Solapur",
+        "ID": 2.0,
+        "grade_received": "80.40%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "TAE ERP",
+        "description": "I have been leading a team of approximately 20 students in the development of an ERP system for my college. This ongoing project utilizes Django as the primary framework.",
+        "keywords": [],
+        "endDate": "present",
+        "startDate": "",
+        "url": "https://github.com/samhk90/TAE_erp"
+      },
+      {
+        "name": "CareerFroge",
+        "description": "The job portal, developed using Django, includes features such as messaging, OTP authentication via email etc.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/samhk90/CareerForge"
+      },
+      {
+        "name": "Safar",
+        "description": "Safar is a website developed using Django that utilizes Prim's algorithm to provide the shortest path for tourism sites, ensuring an efficient and enjoyable travel planning experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/samhk90/Safar"
+      },
+      {
+        "name": "BookMyEvent",
+        "description": "This platform is essentially a clone of BookMyShow with a distinct user interface, developed using Django python and django framework and PostgreSQL for backend.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/samhk90/BookMyEvent"
+      },
+      {
+        "name": "Movie_lib",
+        "description": "This project is developed in React.js and showcases a movie library where users can access comprehensive information about various movies.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://movie-lib-black.vercel.app/"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Urdu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web developer intern",
+        "skillsUsed": [
+          "Frontend-Html",
+          "Css",
+          "Js"
+        ],
+        "endDate": "15 NOV 2023",
+        "company_name": "OASIS INFOBYTE",
+        "description": "I had the opportunity to apply theoretical knowledge gained in academic settings to real-world projects.",
+        "location": "",
+        "links": "",
+        "startDate": "15 OCT 2023"
+      },
+      {
+        "role_name": "Django intern",
+        "skillsUsed": [],
+        "endDate": "25 APR 2024",
+        "company_name": "EY-GDS / AICTE",
+        "description": "During my internship, I successfully developed a job portal using Django. My contributions were recognized and I received commendation for the quality of my work.",
+        "location": "",
+        "links": "",
+        "startDate": "28 FEB 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "MySql",
+      "PostgreSql",
+      "Mongodb",
+      "Django",
+      "React.Js",
+      "Git",
+      "Supabase",
+      "Docker"
+    ],
+    "soft_skills": [],
+    "name": "Mohammed Samee Shaikh",
+    "position": "Full Stack Web Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Next Gen Employability Program | My job-portal project got selected among 3000+ students and got 3rd rank.",
+      "ACES President | 300+ student elected me for student association president in my college"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "BE"
+}

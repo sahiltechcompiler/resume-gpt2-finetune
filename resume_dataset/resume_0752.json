@@ -1,0 +1,158 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vanshika Jaiswal",
+  "college": "KIET Group Of Institutions",
+  "locations": [
+    "Online"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Leadership Skills Course",
+        "issuer": "IIM Ahmedabad",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advanced Java with System Design course",
+        "issuer": "PWSkills",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java course",
+        "issuer": "SimpliLearn",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.8 CGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "ST. Thomas School(ICSE)",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "89%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hospital Management System",
+        "description": "Project with industry-level tech stacks. Optimize workflow, improve patient experience. (or) Streamline readmissions, enhance staff communication.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "JDBC",
+          "MYSQL"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Covid-19 Tracker",
+        "description": "Its a Application which tracks the number of Covid-19 patients in specific countries. It uses Rest API to fetch the data and used the Thymeleaf to design the content rich UI.",
+        "keywords": [
+          "Rest API",
+          "Spring Boot"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Sip & Swirl",
+        "description": "Developed a dynamic and user-friendly website, showcasing a wide range of refreshing drinks and beverages. Allowing customers to browse the menu, place orders, and get to know about new rewards.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cyber Security Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Virtual Internship By IBM",
+        "description": "Keylogger:-Developed an application that records and logs keystrokes typed by the user.",
+        "location": "Online",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Java Developer",
+        "skillsUsed": [],
+        "endDate": "August 2022",
+        "company_name": "IIPC of KIET Group Of Institutions",
+        "description": "Hospital Management System :-To streamline administrative tasks, patient records,and staff management. Simplified data entry and retrieval processes.",
+        "location": "Online",
+        "links": "",
+        "startDate": "June 2022"
+      }
+    ],
+    "skills": [
+      "Python(Basic)",
+      "Java(Advanced)",
+      "Spring Boot",
+      "JDBC",
+      "MYSQL",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "JS",
+      "VS Code",
+      "GitHub",
+      "IntelliJ Idea",
+      "Eclipse"
+    ],
+    "soft_skills": [],
+    "name": "Vanshika Jaiswal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Fashion Show Winner of Epoque-2024.",
+      "Participated in Project Exhibition at Inter-Institute Technical Fest INNOTECH 2023 & 2022.",
+      "Ex-Member Of Fossc Club(Open Source Club).",
+      "Member of Sparks Creation(Cultural Club).",
+      "Won 2 coding contests in college."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

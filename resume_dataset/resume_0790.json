@@ -1,0 +1,131 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kushagra Singh",
+  "college": "KIET Group Of Institutions",
+  "locations": [
+    "Delhi-NCR",
+    "Online"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi-NCR",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.01",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Web Based Facial Authentication(Liveness Detection)",
+        "description": "A website based facial authentication system, implemented using a Chrome Extension. Facilitating users logins to websites without having to remember their credentials. Used Live detection techniques to create high order security.",
+        "keywords": [
+          "Python",
+          "Reactjs",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Realtime Chat App",
+        "description": "A react based web application which allow users to chat in real time. Used Firebase Authentication(SDK) to facilitate authentication & Cloud Firestore to store data.",
+        "keywords": [
+          "Reactjs",
+          "Firebase",
+          "Bootstrap",
+          "HTML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Covid-19 Tracker",
+        "description": "Daily and weekly updated statistics tracking the number of COVID-19 cases, recovered, and deaths. Tracking world-wide cases using google maps and live API stats and datasets.",
+        "keywords": [
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Reactjs",
+          "Nodejs"
+        ],
+        "endDate": "July 2023",
+        "company_name": "IBM Skills-Build Virtual Internship",
+        "description": "Developed clone of NETFLIX using HTML, CSS, JavaScript during my internship. In-depth understanding of html, css, javascript, Reactjs, Nodejs and more. Proficient in designing, deploying, and managing fault-tolerant and highly available. Hands-on experience in designing website.",
+        "location": "Online",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "February 2023",
+        "company_name": "Palo Alto Cybersecurity Virtual Internship",
+        "description": "Learned the fundamentals of Security Operations Center (SOC). Learned basics of Network & Cloud Security.",
+        "location": "Online",
+        "links": "",
+        "startDate": "December 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "ReactJs",
+      "Nodejs",
+      "MongoDb",
+      "Firebase",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Self-learning",
+      "Presentation",
+      "Adaptability"
+    ],
+    "name": "Kushagra Singh",
+    "position": "",
+    "interests": [
+      "Web Design and Development",
+      "DSA"
+    ],
+    "achievements_and_awards": [
+      "Got 1st position in Code Wiz coding contest - KIET, Delhi-NCR",
+      "Won 3rd prize in Epoque23 - KIET, Delhi-NCR"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

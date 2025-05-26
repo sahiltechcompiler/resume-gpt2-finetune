@@ -1,0 +1,139 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Agaaz Aslam",
+  "college": "Manipal University, Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Siliguri, West Bengal",
+    "Dammam, Saudi Arabia",
+    "Hybrid, Gurugram",
+    "Manipal University Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University, Jaipur",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "7.27 CGPA",
+        "field_of_study": "I.T",
+        "startDate": "Sep. 2021"
+      },
+      {
+        "school": "Delhi Public School, Siliguri",
+        "endDate": "June 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Siliguri, West Bengal",
+        "ID": 1.0,
+        "grade_received": "10th: 90.2% | 12th: 87.8%",
+        "field_of_study": "",
+        "startDate": "April 2016"
+      },
+      {
+        "school": "Al-Khozama International School, Dammam",
+        "endDate": "March 2016",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Dammam, Saudi Arabia",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "April 2006"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Review and Recommender Website",
+        "description": "Utilized Python and Flask to create a backend system, handling data processing and serving recommendations. Integrated the OMDB API to fetch detailed movie information, enhancing the user experience with comprehensive data. Leveraged Pandas and Scikit-learn for machine learning tasks, specifically employing count vectorization for the recommendation system.",
+        "keywords": [
+          "React",
+          "Flask",
+          "Pandas",
+          "Scikit-learn"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "CO2 Emissions ML Project",
+        "description": "Implemented a Machine Learning project to predict CO2 emission levels using various algorithms including Linear Regression, Random Forest, and Gradient Boosting. Performed extensive data preprocessing to clean and prepare the dataset for training and testing the machine learning models. Visualized the correlation between different features and the target variable using Matplotlib, Seaborn, and Plotly to gain insights into the data. Optimized the hyperparameters of the models to achieve higher accuracy and better performance metrics.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Matplotlib",
+          "Plotly"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React"
+        ],
+        "endDate": "August 2024",
+        "company_name": "GSPANN Technologies",
+        "description": "Collaborated with a project manager to translate Figma designs into functional and visually appealing web applications using HTML, CSS, and JavaScript. Developed and optimized dynamic, responsive web pages with React, ensuring cross-browser compatibility, high performance, and adherence to requirements and design specifications. Participated in code reviews, debugging, and iterative development, which improved code quality, project maintainability, and contributed to a 20% increase in user engagement.",
+        "location": "Hybrid, Gurugram",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Consulting Director",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "180 Degrees Consulting MUJ",
+        "description": "Led and managed a team of 10 consultants, overseeing end-to-end consulting projects. Enhanced volunteer engagement for non-profit organizations by an average of 40% through strategic consulting initiatives. Conducted workshops and training sessions to improve junior consultants understanding of consulting methodologies, resulting in an 80% increase in project contribution efficiency.",
+        "location": "Manipal University Jaipur",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML/CSS",
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Redux",
+      "Next.js",
+      "Flask",
+      "Pandas",
+      "Scikit-Learn",
+      "Numpy",
+      "Git & GitHub",
+      "Vercel",
+      "Postman",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Agaaz Aslam",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

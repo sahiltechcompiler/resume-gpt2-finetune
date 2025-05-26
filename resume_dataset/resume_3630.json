@@ -1,0 +1,119 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "JIBRON ACIP",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, India",
+    "Chennai, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Programming",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence and Data Science",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Chennai, Tamil Nadu",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.21",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "Sep 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Furniture & Sofa Website",
+        "description": "Developed using Django with WebSocket integration for real-time updates. Utilized GraphQL for efficient data querying and manipulation. Collaborated cross-functionally to integrate backend functionalities with responsive frontend design.",
+        "keywords": [
+          "Django",
+          "WebSocket",
+          "GraphQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Talos 2023 National Level Technical Symposium",
+        "description": "Orchestrated an innovative symposium site enhancing user experience and implementing SEO. Automated registration, integrated SMTP notifications, reduced manual work, and improved efficiency. Employed ReactJS, Django, PostgreSQL, and custom REST APIs for a comprehensive solution.",
+        "keywords": [
+          "ReactJS",
+          "Django",
+          "PostgreSQL",
+          "REST APIs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "Purple Optics",
+        "description": "Gained insights about the Optical Field. Learnt and practiced fundamental design patterns and good coding standards for maintaining code quality. Observed Agile processes and Scrums, enhancing understanding of project management methodologies.",
+        "location": "Chennai, India",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Django",
+      "ReactJS",
+      "Express.js",
+      "Tailwind",
+      "MySQL",
+      "NodeJs",
+      "Git",
+      "Unix/Linux",
+      "Amazon Web Services",
+      "GraphQL",
+      "Node.js",
+      "REST API",
+      "Docker",
+      "Web Socket"
+    ],
+    "soft_skills": [],
+    "name": "JIBRON ACIP",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Chennai, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

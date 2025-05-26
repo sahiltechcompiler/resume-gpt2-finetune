@@ -1,0 +1,147 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Avdesh Kumar",
+  "college": "Guru Tegh Bahadur Institute Of technology",
+  "locations": [
+    "Delhi,India",
+    "Gurugram,Haryana",
+    "Delhi, New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute Of technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGP:8.7",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Rajokari Institute of Technology",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGP: 7.8",
+        "field_of_study": "Information Technology Enabled Services and Management",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Estate",
+        "description": "Implementing JWT, Firebase, and Google OAuth for secure and seamless user authentication. Enhancing state management with Redux for streamlined data flow in the React application Executing Create, Read, Update, and Delete operations on property listings using MongoDB Facilitating easy and cost-effective deployment on the render platform for seamless hosting.",
+        "keywords": [
+          "MongoDB",
+          "Express.js",
+          "React.js",
+          "Node.js"
+        ],
+        "endDate": "March 2024",
+        "startDate": "February 2024",
+        "url": ""
+      },
+      {
+        "name": "Social-MERN",
+        "description": "Developed Fullstack MERN Social Media Application from scratch. Implemented authentication with JsonWebToken for security. Designed responsive UI with Material UI and integrated MongoDB with Mongoose for data storage. Full CRUD Functionality: Enabled users to perform Create, Read, Update, and Delete operations on posts, facilitating comprehensive interaction with the social media platform.",
+        "keywords": [
+          "MongoDB",
+          "Express.js",
+          "React.js",
+          "Node.js"
+        ],
+        "endDate": "March 2024",
+        "startDate": "March 2024",
+        "url": ""
+      },
+      {
+        "name": "Code Editor",
+        "description": "Edit code for HTML, CSS, and JavaScript in one unified platform Visualize changes instantly with a real-time preview of your code. Enhance code readability with syntax highlighting for different languages. Intuitive design for an easy and efficient coding experience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "May 2023",
+        "startDate": "May 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "Webson infoTech PVT.LTD",
+        "description": "Engineered a cutting-edge estate website using the MERN stack, integrating MongoDB, Express.js, React.js, and Node.js; optimized front-end and back-end cohesion for seamless user experience and robust functionality. Enhanced user security by implementing cutting-edge authentication mechanisms, boosting user access and management capabilities, including streamlined registration, login processes, and password management functions. Designed sophisticated search features for efficient browsing and filtering. Created feature-rich, reusable components to enhance website functionality. Collaborated with team, managed Git for version control and seamless collaboration.",
+        "location": "Gurugram,Haryana",
+        "links": "",
+        "startDate": "February 2024"
+      },
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "Sarathi Foundation",
+        "description": "Maintained and updated websites, ensuring functionality and performance. Implemented new features and enhancements to improve user experience. Collaborated with cross-functional teams to gather requirements and plan development. Utilized modern technologies and frameworks to enhance website functionality and interactivity.",
+        "location": "Delhi, New Delhi",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "Dart",
+      "Java",
+      "Kotlin",
+      "C/C++",
+      "MongoDB",
+      "JavaScript",
+      "HTML/CSS",
+      "React",
+      "Express",
+      "Node.js",
+      "Spring Boot",
+      "Bootstrap",
+      "Material-UI",
+      "Tailwind",
+      "SQL",
+      "RestAPI",
+      "Git",
+      "Docker",
+      "Google Cloud Platform",
+      "Firebase",
+      "VS Code",
+      "PyCharm",
+      "IntelliJ"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Time Management",
+      "Teamwork",
+      "Good Learner",
+      "Focused",
+      "Leadership",
+      "Problem-Solving",
+      "Creative - Thinking"
+    ],
+    "name": "Avdesh Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

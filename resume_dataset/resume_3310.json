@@ -1,0 +1,179 @@
+{
+  "project_count": 4.0,
+  "designation": "ASPIRING SOFTWARE ENGINEER",
+  "name": "Amara Narayana",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, Punjab"
+  ],
+  "full_output": {
+    "summary": "I am an aspiring software engineer.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Testing",
+        "issuer": "Skill Stone",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL for Database",
+        "issuer": "Great Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and analysis of algorithms",
+        "issuer": "Human Resource Development Center",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor's Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "6.8",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "92%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Amara Jyothi School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Schooling",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10.0",
+        "field_of_study": "",
+        "startDate": "2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dancing Website",
+        "description": "Designed and implemented a front-end interface for a Dancing site using CSS and JavaScript. Performed a responsive layout that adjusts to different screen sizes using CSS. Applied JavaScript to execute dynamic functionality, such as play and stop dance selection through click, and user feedback.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "2021",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "Jewelry-Management-System",
+        "description": "Built a website with HTML, CSS, jQuery, TypeScript Using Angular. Utilized CSS to create a responsive and visually appealing design for the user interface. Applied Typescript code to execute dynamic functionality, such as play and stop dance selection through click, and user feedback. Included new Features checkout page cart page etc.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "TypeScript",
+          "AngularJS",
+          "Bootstrap",
+          "jQuery"
+        ],
+        "endDate": "2023",
+        "startDate": "2023",
+        "url": ""
+      },
+      {
+        "name": "Student Attendance Management System",
+        "description": "Created a Responsive Student Attendance Management System. By Using Java GUI Created an interactive site which Solves the real time problem of Managing the Student Attendance.",
+        "keywords": [
+          "Java",
+          "Java GUI"
+        ],
+        "endDate": "2022",
+        "startDate": "2022",
+        "url": ""
+      },
+      {
+        "name": "Food Ordering Website",
+        "description": "Developed Health Booking Application to book appointments with doctor or kind of specialist. Helps to manage our time efficiently and notify the appointment date in the portal. Stores the data using mongo and acts as real time application.",
+        "keywords": [
+          "NodeJS",
+          "ExpressJS",
+          "ReactJS",
+          "Mongo"
+        ],
+        "endDate": "2024",
+        "startDate": "2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FRONT END WEB DEVELOPER TRAINEE",
+        "skillsUsed": [
+          "JavaScript",
+          "Web Development"
+        ],
+        "endDate": "Jul '23",
+        "company_name": "Programming Pathshala",
+        "description": "Gained hands-on experience in developing, implementing, and maintaining internal web applications. Gained good command over JavaScript. Learnt How to design Interactive Webpages and Websites.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun '23"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C++",
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "React Js",
+      "SQL",
+      "NoSQL",
+      "Git&Github",
+      "Docker",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "Amara Narayana",
+    "position": "ASPIRING SOFTWARE ENGINEER",
+    "interests": [
+      "Attending Webinars",
+      "Participating in Hackathons",
+      "Innovation and Invention",
+      "Attending Workshops",
+      "Participating in cultural Events and Fests"
+    ],
+    "achievements_and_awards": [
+      "Participated CodeA-Fest-X Competition",
+      "Solved More than 50 Problems on Java, Dsa in HackerRank"
+    ],
+    "publications": []
+  },
+  "current_location": "Phagwara, Punjab",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor's Degree"
+}

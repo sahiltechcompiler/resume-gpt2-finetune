@@ -1,0 +1,146 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Heman Vikash K",
+  "college": "Chennai Institute Of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MERN FullStack Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud Computing",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA-1, CCNA-2",
+        "issuer": "Cisco",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Current GPA - 7.7/10",
+        "field_of_study": "Computer Science and Business Systems",
+        "startDate": "Oct 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AuctionHouse",
+        "description": "Enables users to place bids in real-time using WebSockets and a seamless bidding experience. Integrated a secure Stripe payment gateway to facilitate transactions for successful bids Load Tested with JMeter to handle more than 100,000 users and their bids simultaneously. Stored product images in Amazon S3 for scalable and reliable image hosting.",
+        "keywords": [
+          "React JS",
+          "Node JS",
+          "Javascript",
+          "Socket IO",
+          "AWS S3"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "ShopSync",
+        "description": "Enables users to browse various product and options between takeaway or delivery at checkout. Integrated a payment gateway to payment method, ensuring safe and secure transactions for users. Implemented an efficient real-time order management system with order tracking and notifications. Utilized Material UI components for creating dashboards on sales and inventory management.",
+        "keywords": [
+          "React JS",
+          "Node JS",
+          "Express JS",
+          "CSS",
+          "Material UI",
+          "Postgres DB"
+        ],
+        "endDate": "Jun 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "MiniGPT",
+        "description": "Utilized OpenAI's powerful NLP capabilities respond to user inputs to provide accurate responses. Leveraging OpenAI, enabling the chatbot to provide more relevant and coherent responses over time. Tailored the responses on user preferences, historical interactions, personalized experience for users. Integrated the chatbot into various platforms and scale it to handle a large number of concurrent users.",
+        "keywords": [
+          "React JS",
+          "Node JS",
+          "Express JS",
+          "CSS",
+          "Open AI API"
+        ],
+        "endDate": "Jul 2023",
+        "startDate": "Jun 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "Icontribute Infotech PVT LTD",
+        "description": "Collaborated with team members to develop and test web applications using MERN stack. Gained hands-on experience in database management and optimization. Participated in project planning, implementation, and deployment phases.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "C",
+      "C++",
+      "Python",
+      "MongoDB",
+      "Postgres SQL",
+      "HTML",
+      "CSS",
+      "React JS",
+      "Next JS",
+      "Git/GitHub",
+      "Docker",
+      "AWS",
+      "SpringBoot",
+      "Node JS",
+      "Express JS",
+      "JMeter",
+      "Selenium"
+    ],
+    "soft_skills": [],
+    "name": "Heman Vikash K",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "CodeVita Round 1 Global Rank-2847",
+      "LeetCode: Secured Contest Rating of 1354 and Solved 300+ problems",
+      "SkillRack: Solved 600+ problems, 150+ Bronze medals"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,118 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Davinderpal Singh",
+  "college": "Guru Tegh Bahadur Institute Of Technology",
+  "locations": [
+    "New Delhi, Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Complete Full Stack Web Development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute Of Technology",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi, Delhi",
+        "ID": 0.0,
+        "grade_received": "9.0 CGPA",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "S.S. Mota Singh School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "New Delhi, Delhi",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sociahub",
+        "description": "Developed a robust full-stack Social Networking site using react.js, node.js, express.js and mongodb. Implemented comprehensive CRUD operations for posts, comments, and likes, enabling users to interact fluidly with content while maintaining data integrity and security. Integrated Socket.IO to enable real-time communication between users, enhancing engagement and interactivity on the platform. Implemented secure user authentication and authorization mechanisms to ensure data privacy and protect user accounts from unauthorized access.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Socket.IO"
+        ],
+        "endDate": "2024",
+        "startDate": "2020",
+        "url": "LiveDemo"
+      },
+      {
+        "name": "Car-Rental",
+        "description": "Car Rental allow users to rent cars for their personal use on reasonable cost. It also includes variety of cars for different people. It is built using React and designed using Html and Css. Easy to use interface to rent a car one has to put date, time and location of the pickup.",
+        "keywords": [
+          "React",
+          "Html",
+          "Css"
+        ],
+        "endDate": "2024",
+        "startDate": "2020",
+        "url": "LiveDemo"
+      },
+      {
+        "name": "Sorting Algorithm Visualizer",
+        "description": "Sorting visualizer is a web application showcasing the inner working of sorting algorithms. It includes colored representation of different steps being executed. It also visualize time and space complexities.",
+        "keywords": [
+          "Javascript",
+          "Html",
+          "Css"
+        ],
+        "endDate": "2024",
+        "startDate": "2020",
+        "url": "LiveDemo"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "C",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Bootstrap",
+      "Sql",
+      "MongoDb"
+    ],
+    "soft_skills": [],
+    "name": "Davinderpal Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "600+ ques (1700+ Rating) on Leetcode",
+      "500+ ques on Codechef and Codeforces",
+      "3 star (1600+ Rating) on Codechef",
+      "Pupil on Codeforces"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2020.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

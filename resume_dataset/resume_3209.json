@@ -1,0 +1,149 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Dhruv Asthana",
+  "college": "Noida Institute of Engineering Technology",
+  "locations": [
+    "Greater Noida, UP, India",
+    "Online"
+  ],
+  "full_output": {
+    "summary": "Ambitious BTech Computer Science student skilled in C++, Python, and AI/ML, experienced in deep learning, computer vision, OC R, and web development, with leadership roles in a mental health club and internships.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed Udemy's 'Machine Learning A-Z' course, mastering ML algorithms in Python and R, with hands-on experience in model development and optimization, and certified expertise in AI and advanced analytics.",
+        "skillsLearned": [],
+        "title": "Machine Learning A-Z",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed a comprehensive course on Data Structures and Algorithms in C++ to tackle real-world challenges and advance expertise in algorithmic problem-solving.",
+        "skillsLearned": [],
+        "title": "Data Structure and Algorithms in C++",
+        "issuer": "Code Help",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Led a mental health club of 200+ students, raising awareness through dance, theatre, and art, and organized therapy sessions and events to break stigmas and promote open dialogue."
+    ],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida, UP, India",
+        "ID": 0.0,
+        "grade_received": "7.0",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Ryan International School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary School (Class XII)",
+        "location": "Greater Noida, UP, India",
+        "ID": 1.0,
+        "grade_received": "80%",
+        "field_of_study": "Minor in Physics, Chemistry and Maths",
+        "startDate": ""
+      },
+      {
+        "school": "Ryan International School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary School (Class X)",
+        "location": "Greater Noida, UP, India",
+        "ID": 2.0,
+        "grade_received": "82%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Body Posture Estimation for Playing Temple Run",
+        "description": "Enhanced Temple Run with body movement controls using OpenCV and Media Pipe, reducing latency by 30%, and gained expertise in human-computer interaction, health technology, and computer vision.",
+        "keywords": [
+          "OpenCV",
+          "Media Pipe",
+          "human-computer interaction",
+          "health technology",
+          "computer vision"
+        ],
+        "endDate": "February 2024",
+        "startDate": "December 2023",
+        "url": "GitHub"
+      },
+      {
+        "name": "Real Time Sign Language Detection",
+        "description": "Developed a system to detect and classify hand gestures ('hello,' 'thank you,' 'no,' 'yes,' and 'I love you') in real-time using Open CV, TensorFlow, and YOLO. The project integrates custom-trained models for accurate gesture recognition and has potential applications in accessibility and communication.",
+        "keywords": [
+          "Open CV",
+          "TensorFlow",
+          "YOLO",
+          "gesture recognition",
+          "accessibility",
+          "communication"
+        ],
+        "endDate": "November 2023",
+        "startDate": "September 2023",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Assisted in data collection, cleaning, and preprocessing for model training, performed EDA, and developed machine learning models. Collaborated on projects like customer segmentation and churn prediction, and created visualizations to present insights.",
+        "location": "Online",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Machine Learning Engineer",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "Bharat Intern",
+        "description": "Developed ML models for house price prediction (85% accuracy), led a team to deliver a project on time and within a 10% budget surplus, and optimized workflow efficiency by 20% through data preprocessing and model training.",
+        "location": "Online",
+        "links": "",
+        "startDate": "September 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java (Basic)",
+      "SQL (Basic)",
+      "Deep Learning",
+      "Data Structures",
+      "NLP/CV",
+      "APIs",
+      "Algorithms",
+      "HTML",
+      "CSS",
+      "JavaScript (Basic)"
+    ],
+    "soft_skills": [],
+    "name": "Dhruv Asthana",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

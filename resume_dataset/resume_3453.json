@@ -1,0 +1,149 @@
+{
+  "project_count": 4.0,
+  "designation": "Software Engineer",
+  "name": "Ayush Gupta",
+  "college": "MANIPAL UNIVERITY JAIPUR",
+  "locations": [],
+  "full_output": {
+    "summary": "Fueled by a passion for AI, Machine Learning, and Data Engineering, I am a forward-thinking B.Tech IT student ready to harness my technical acumen and project experience in a Software Engineer role, specializing in Digital Engineering and Data Analytics.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERITY JAIPUR",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.85",
+        "field_of_study": "IT",
+        "startDate": "Oct 2021"
+      },
+      {
+        "school": "The Assembly of God Church School",
+        "endDate": "Mar 2020",
+        "maximum_grade": "",
+        "degree": "AISSCE",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81.3%",
+        "field_of_study": "CBSE",
+        "startDate": "Mar 2019"
+      },
+      {
+        "school": "The Assembly of God Church School",
+        "endDate": "Mar 2018",
+        "maximum_grade": "",
+        "degree": "AISSE",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "87.6%",
+        "field_of_study": "CBSE",
+        "startDate": "Mar 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce Website",
+        "description": "Web Development project replicating the website of SuperKicks using HTML, CSS, JavaScript, PHP and SQL.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Digit Recognition System",
+        "description": "This project trains a neural network on the MNIST dataset to recognize handwritten digits, using a model with dense and flattened layers, and evaluates its performance on test data. Custom images are also predicted using the trained model. Libraries used - Tensorflow, Matplotlib, NumPy, OpenCV.",
+        "keywords": [
+          "Tensorflow",
+          "Matplotlib",
+          "NumPy",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image Classification",
+        "description": "ML project to classify images and identify overfitting then apply techniques to mitigate it, including data augmentation and dropout. Libraries used - Tensorflow, Matplotlib, NumPy, PIL, Pathlib.",
+        "keywords": [
+          "Tensorflow",
+          "Matplotlib",
+          "NumPy",
+          "PIL",
+          "Pathlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image Caption Generator",
+        "description": "This project develops a model to generate image captions using a VGG16 CNN for image features and an LSTM RNN for text generation, trained on an flickr_8k dataset and evaluated with BLEU scores. Libraries used - Tensorflow, Matplotlib, NumPy, PIL, tqdm, nltk.",
+        "keywords": [
+          "Tensorflow",
+          "Matplotlib",
+          "NumPy",
+          "PIL",
+          "tqdm",
+          "nltk"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Promotional Head",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "RPM-SAE, MUJ",
+        "description": "Strategically planned & promoted over 5 large-scale events including: BNDxRPM SAE MOTORSPORT EVENT with over 14,000 views across various platforms. Vehicle Development Event with HERO MOTOCORP LTD. Collaborated with cross-functional teams to ensure seamless execution of events and promotion on social media platforms. Led the media team to develop compelling content with over 200% growth in views & followers on instagram & other platforms.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2021"
+      },
+      {
+        "role_name": "Working Team",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "Aperture, MUJ",
+        "description": "Volunteered for content creation and designing Attended multiple workshops and events for content creation.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2021"
+      }
+    ],
+    "skills": [
+      "C",
+      "JAVA",
+      "Python",
+      "Data Analysis",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Data Structures and Algorithms",
+      "Data Science",
+      "Object Oriented Programming",
+      "Anaconda",
+      "GIT",
+      "MySQL",
+      "Social Media Management",
+      "Communication",
+      "Marketing"
+    ],
+    "soft_skills": [],
+    "name": "Ayush Gupta",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

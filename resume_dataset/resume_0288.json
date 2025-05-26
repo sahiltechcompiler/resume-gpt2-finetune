@@ -1,0 +1,138 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "VENKATASAI NUKALA",
+  "college": "SRM University AP",
+  "locations": [
+    "Andhra Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic and driven B.Tech student with a strong foundation in problem-solving and a passion for leveraging technology to drive positive change. Seeking an entry-level position where I can apply my analytical skills and creativity to contribute to innovative projects and learn from experienced professionals.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP Board",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 8.97/10",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "BSEAP Board",
+        "endDate": "2017",
+        "maximum_grade": "10/10",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "977/1000",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Civic Connect",
+        "description": "CivicConnect is a robust platform designed to foster community engagement and improve communication between residents and local government. Developed using React.js, Node.js, and MongoDB, this platform empowers citizens to actively participate in decision-making processes, access local services, and stay informed about community events.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student ERP(AWS)",
+        "description": "The Student ERP Portal is a web-based platform designed for university-level students. It provides essential functionalities such as uploading individual photos, viewing attendance records, and accessing individual academic results. The portal is built using Python Flask for the backend, MySQL for the database, and deployed on the Amazon Web Services (AWS) cloud platform.",
+        "keywords": [
+          "Python Flask",
+          "MySQL",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Management System - Enhanced Edition",
+        "description": "This full-stack Library Management System has been upgraded to provide an enriched experience for both students and administrators. In addition to the core functionalities of book borrowing and fine management. This comprehensive solution, developed with HTML/CSS, JavaScript, PHP, and SQL, leverages the robust capabilities of XAMPP for seamless deployment.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "SQL",
+          "XAMPP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC (AWS)",
+        "description": "- During my internship on AWS Cloud at APSSDC, I was part of the Cloud Services Department. The Cloud Services Department was responsible for managing and maintaining the organizations cloud infrastructure on the Amazon Web Services (AWS) platform.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Undergraduate Research Work",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "",
+        "description": "- During my undergraduate research program, I focused on implementing sentiment analysis using machine learning techniques specifically tailored for Twitter data. The project aimed to analyze sentiments expressed in tweets, providing valuable insights into public opinions, emotions, and trends on the platform. This project contributed to understanding the dynamic landscape of social sentiment.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "DSA",
+      "SQL",
+      "MongoDB",
+      "NodeJs",
+      "React.js"
+    ],
+    "soft_skills": [],
+    "name": "VENKATASAI NUKALA",
+    "position": "",
+    "interests": [
+      "Web Development",
+      "Machine Learning"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Andhra Pradesh, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

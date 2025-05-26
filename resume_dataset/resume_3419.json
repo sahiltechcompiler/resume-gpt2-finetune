@@ -1,0 +1,124 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shraddha Dayal",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction To The Internet Of Things And Embedded Systems",
+        "issuer": "University Of California, Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "5G For Everyone",
+        "issuer": "Qualcomm Wireless Academy, Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Wireless Communications For Everybody",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.63/10.0",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Podar International School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "80.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Accident detection system",
+        "description": "An IoT-based accident detection system employs interconnected sensors to monitor vehicle dynamics in real-time, detecting collisions and immediately alerting emergency services with crucial details. Designed and implemented a multi-sensor setup including accelerometers and GPS modules to accurately detect and analyze sudden vehicle impacts and irregular movements. Integrated wireless communication modules like Bluetooth and GSM module for instant alert notifications to emergency services and predefined contacts, ensuring prompt assistance.",
+        "keywords": [
+          "Arduino Uno",
+          "Python"
+        ],
+        "endDate": "July 2024",
+        "startDate": "June 2024",
+        "url": ""
+      },
+      {
+        "name": "IOT Based Flood Detection System",
+        "description": "Engineered an IoT-enabled flood detection system using Arduino to monitor and mitigate flood risks through real-time data collection and remote alerts. Integrated water level sensors and other environmental sensors with Arduino microcontrollers to continuously monitor water levels, rainfall, and soil moisture. Implemented IoT connectivity using Wi-Fi or GSM modules to transmit sensor data to a cloud-based server, enabling real-time data visualization and analysis via a web interface or mobile app.",
+        "keywords": [
+          "Arduino uno"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Trainee",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Montecarlo Pvt. Ltd.",
+        "description": "Completed one month training in networking fundamentals. Hands on experience with network configuration and troubleshooting. Learned different protocols, TCP/IP, DNS, DHCP etc.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "MySql",
+      "VS Code",
+      "Tableau",
+      "Microsoft Office",
+      "Power BI"
+    ],
+    "soft_skills": [
+      "Team Management",
+      "Communication Skills",
+      "Work Ethic",
+      "Adaptability"
+    ],
+    "name": "Shraddha Dayal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

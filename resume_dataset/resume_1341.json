@@ -1,0 +1,124 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "ANURAG KUMAR MAURYA",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Articial Intelligence and Machine Learning",
+        "startDate": "Nov 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Coin Scraper",
+        "description": "Engineered a cryptocurrency scraper using Django and Selenium, collecting real-time data from 10+ coin market websites for accurate market insights. Implemented Celery with Celery Beat and Redis to schedule scraping tasks every 15 minutes, ensuring 99.9% data reliability. Developed 2 RESTful APIs with Django Rest Framework, enabling integration into nancial tools, enhancing user experience for 1,000+ users.",
+        "keywords": [
+          "Django",
+          "DRF",
+          "Celery",
+          "Celery Beat",
+          "Redis",
+          "Selenium",
+          "SQLite"
+        ],
+        "endDate": "June 24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Data Visualization Tool",
+        "description": "Implemented 10+ interactive chart types using Chart.js for data visualization. Developed 15+ RESTful APIs for data management and user authentication using Express.js and Node.js. Utilized MongoDB for storing and managing 1000+ user data and uploaded JSON datasets.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "React.js",
+          "MongoDB",
+          "Chart.js",
+          "Redux",
+          "Axios"
+        ],
+        "endDate": "May 24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real Time Chat App",
+        "description": "Engineered and launched a dynamic chat platform using Django and WebSocket technologies, which reduced response time by 60% and boosted team collaboration efciency by 45%, improving overall project delivery times. Established room-based chat functionality, empowering users to create and join over 50+ designated rooms for condential exchanges, fostering privacy and targeted interaction. Enriched the application with user authentication, message history retrieval, and real-time notications.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Django Channels",
+          "SQLite"
+        ],
+        "endDate": "Mar 24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hospital Management System",
+        "description": "Orchestrated the development of an interactive digital platform enhancing doctor-patient communication and integrated a health blog repository, achieving a 30% rise in patient satisfaction and a 20% increase in appointments booked. User Authentication, Blogging System, Search Functionality.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Django",
+          "PostgreSQL"
+        ],
+        "endDate": "Oct 23",
+        "startDate": "Sep 23",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Team Leader",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Robotics Club - AKGEC",
+        "description": "Actively contributed as a member of the 30-person Robotics Club team, participating in various competitions, including the international robotics competition ABU Robocon. Collaborated on the development of robots aligned with designated themes, leading to multiple 1st place wins and prize amounts exceeding 1 lakh+. Gained practical experience in teamwork, scheduling, and analytical thinking through active participation in over 10+ robotics competitions.",
+        "location": "Ghaziabad, India",
+        "links": "",
+        "startDate": "Oct 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "JavaScript",
+      "SQL",
+      "PostgreSQL",
+      "Mysql",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "ANURAG KUMAR MAURYA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "All India Rank (23) in Robocon 2023: 1st Position in Scrolls24"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

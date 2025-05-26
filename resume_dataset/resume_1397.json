@@ -1,0 +1,156 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Adarsh Devashish",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Patna, Bihar",
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Server side JavaScript with Node.js",
+        "issuer": "NIIT",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Single Page Web Applications with AngularJS",
+        "issuer": "Johns Hopkins University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React Basics",
+        "issuer": "Meta",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "St. Karens High School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "Patna, Bihar",
+        "ID": 0.0,
+        "grade_received": "84.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Karens High School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "Patna, Bihar",
+        "ID": 1.0,
+        "grade_received": "80.4%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Jaipur, Rajasthan",
+        "ID": 2.0,
+        "grade_received": "CGPA - 8",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Full Stack E-Commerce + Dashboard & CMS",
+        "description": "The project offers a Dashboard & Content Management System(CMS) for an E-Commerce store. The project aimed to offer an easy-to-use content management system for individuals seeking to both create and manage their eCommerce website.",
+        "keywords": [
+          "Next.js 13 App Router",
+          "React",
+          "Tailwind",
+          "Prisma",
+          "MySQL",
+          "Shadcn/ui",
+          "Clerk Authentication",
+          "Railway.app",
+          "Cloudinary",
+          "Stripe API"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Small Basket",
+        "description": "This Project is a PHP based e-commerce website where a user can create account, order daily necessity items such as fruits, vegetables and dairy. The project runs locally on Apache Server using XAMPP and all the data is managed through PhpMyAdmin.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "endDate": "Apr 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hotel Booking Application",
+        "description": "This project was just a prototype software built in NetBeans IDE for a Hotel to manage its bookings from the reception. The project only have a frontend UI for reception staff and have validation features for incorrect entries.",
+        "keywords": [
+          "Java",
+          "Swing"
+        ],
+        "endDate": "Nov 2019",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Webmaster",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Cyber Space Club",
+        "description": "As Cyber Space Webmaster, I led website development, ensuring alignment with club goals. Additionally, I collaborated on event coordination, content management, and community engagement, fostering inclusively and growth within the college community.",
+        "location": "Manipal University Jaipur",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Adarsh Devashish",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

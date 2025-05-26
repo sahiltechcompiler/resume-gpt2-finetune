@@ -1,0 +1,114 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Saket Tiwari",
+  "college": "KIET Group of Institutions, AKTU",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Tatanagar, Jharkhand"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions, AKTU",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.05 sgpa",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Motitlal Nehru Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "89.2 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Resume Maker",
+        "description": "Developed a Resume builder website with 5+ template options responsive using core CSS. User can download his resume in the form of a PDF and can perform CRUD operation. Used MongoDB for storing user information.",
+        "keywords": [
+          "EJS",
+          "CSS",
+          "JAVASCRIPT",
+          "MONGODB"
+        ],
+        "endDate": "September 2022",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Deepika Prints",
+        "description": "Created a freelancing website with framework NEXT JS. Website consists of 12+ pages with different products listings. I utilized GoDaddy and Vercel for web hosting.",
+        "keywords": [
+          "NEXT JS",
+          "TAILWIND CSS"
+        ],
+        "endDate": "June 2022",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Co-Founder",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "BrainBits",
+        "description": "The primary objective of our community is to offer the finest resources and authentic guidance to individuals through our mentors who are already placed in reputable positions. We have organized over 20+ free sessions, hosted 3+ Hackathons, and established connections with more than 10+ skilled mentors. Achieved the top ranking on Google search (for thebrainbits) through effective codebase structuring and the strategic use of relevant tags. Effectively administered a Discord and WhatsApp group boasting over 600 members, consistently sharing valuable resources, solutions, and blog updates while providing regular updates on internships and other relevant opportunities.",
+        "location": "Ghaziabad, UP",
+        "links": "",
+        "startDate": "November 2022"
+      },
+      {
+        "role_name": "Co-Founder",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Raatbiraat",
+        "description": "Founded Raatbiraat franchise specializing in late-night food delivery near college campuses. Established 2+ outlets strategically located for easy access to college students. Utilized social media to expand brand presence, connecting with over 2000+ individuals across various platforms. Led recruitment processes, ensuring the selection of capable team members.",
+        "location": "Ghaziabad, UP",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "VS Code",
+      "Git and Github",
+      "Postman",
+      "React Js",
+      "Tailwind CSS"
+    ],
+    "soft_skills": [],
+    "name": "Saket Tiwari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Leetcode 600+ Problem solved.",
+      "Contest Rating 1791(max) at Leetcode top 10 % with 35k+ Solution Views.",
+      "Secured 3rd Rank in KICCS D HACK coding challenge organized by Coding Ninjas.",
+      "Developed a freelancing website using Next.js and secured an internship during my first year.",
+      "Founded Brainbits, successfully managed more than 3+ events and a team of 15+ members.",
+      "Founded the Raatbiraat franchise with 2+ outlets to solve the late-night food delivery system near campuses."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

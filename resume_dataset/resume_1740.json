@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SANYAM JAIN",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi - NCR",
+    "Ghaziabad, Uttar Pradesh",
+    "Online"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.6",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Salwan Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "89%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Salwan Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90.4%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Recipe App",
+        "description": "Developed a recipe web application utilizing Django framework for seamless back-end functionality, ensuring robust. Implemented HTML forms and Bootstrap for intuitive front-end design, enhancing user interaction and accessibility. Integrated recipe fetching and addition features, leveraging external APIs and custom database management to provide data handling and efficient user experience across various devices.",
+        "keywords": [],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Crime Detection System",
+        "description": "Contributed to the development of a Crime Detection System within a team of four, specializing in OpenCV for. Implemented video processing pipelines using OpenCV, facilitating real-time analysis of surveillance footage for. Demonstrated strong problem-solving skills and technical proficiency in computer vision, contributing to the projects efficient CCTV footage handling suspicious activities successful execution.",
+        "keywords": [],
+        "endDate": "April 2023 - Ongoing",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Text Compressor",
+        "description": "Designed and implemented a text compression algorithm in C++ based on Huffman Coding principles, showcasing proficiency in algorithmic development and data compression techniques. Developed a user-friendly application to demonstrate the effectiveness of the algorithm, enabling users to compress and decompress text files efficiently while maintaining data integrity.",
+        "keywords": [],
+        "endDate": "November 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "EY GDS - AICTE",
+        "description": "Developed a functional Car Rental Web Application using HTML, CSS, JS and Python. Utilized Bootstraps features to speed up the development process. Used the Django framework to create the websites back end. Gained proficiency with the Django template engine and learned how to create models and perform migrations.",
+        "location": "Online",
+        "links": "",
+        "startDate": "February 2024"
+      },
+      {
+        "role_name": "Business Analytics Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "YBI Foundation",
+        "description": "Designed Sales analysis models in Google Colab. Learned the concepts of ML and Data Science.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Django",
+      "STL",
+      "VS Code",
+      "GitHub",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "SANYAM JAIN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked 3-star on Codechef/sanyam0410",
+      "Highest Rating 1704 (3-star)",
+      "Solved 300+ Problems on Leetcode/sanyam0410",
+      "Won First Place in KICCS-D-HACK 2023 intra-departmental coding competition",
+      "Completed 400+ Algorithmic problems on various online platforms and judges",
+      "Obtained the Coding Ninjas Certificate of Excellence in DSA"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

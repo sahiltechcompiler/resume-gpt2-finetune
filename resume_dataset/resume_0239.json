@@ -1,0 +1,134 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "HARSH VARDHAN RANA",
+  "college": "Guru Tegh Bahadur Institute of Technology (GGSIPU)",
+  "locations": [
+    "New Delhi",
+    "Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology (GGSIPU)",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B. TECH.",
+        "location": "New Delhi",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "2020"
+      },
+      {
+        "school": "St. Xaviers Sr. Sec. School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "St. Xaviers Sr. Sec. School",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Xaviers Sr. Sec. School",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "St. Xaviers Sr. Sec. School",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Canine Breed Recognition",
+        "description": "Applied transfer learning in TensorFlow to classify diverse dog breeds. Fine-tuned pre-trained models for accurate canine breed recognition.",
+        "keywords": [
+          "Pandas",
+          "NumPy",
+          "TensorFlow",
+          "Transfer Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Heart Disease Classication",
+        "description": "Implemented heart disease classication using Pandas, NumPy, Matplotlib, and Scikit-Learn. Achieved high accuracy by analyzing cardiovascular data with modelling algorithms.",
+        "keywords": [
+          "Pandas",
+          "NumPy",
+          "Matplotlib",
+          "Scikit Learn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Bulldozer Saleprice Regressor",
+        "description": "Built bulldozer pricing model using ML, utilizing production data and attributes. Collaborated across teams for data-driven pricing strategy improvement.",
+        "keywords": [
+          "Pandas",
+          "NumPy",
+          "Matplotlib",
+          "Scikit Learn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "DRDO (Min. of Defense)",
+        "description": "Developed end-to-end face recognition system with diverse dataset collection. Applied ML skills for robust model training for real-world applications.",
+        "location": "Delhi",
+        "links": "",
+        "startDate": "Nov 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "OOPS",
+      "Data Science",
+      "Machine Learning",
+      "Problem Solving",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "HARSH VARDHAN RANA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "5 Star-rated coder on HackerRank (Java).",
+      "Secured a spot in the top 10 projects in the Tezos India Hackathon.",
+      "Secured a position among the top-performing teams at the Vihaan 6.0 Hackathon."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B. TECH."
+}

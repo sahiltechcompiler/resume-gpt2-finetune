@@ -1,0 +1,155 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vishal Prakash Raj",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Roorkee",
+    "Motihari"
+  ],
+  "full_output": {
+    "summary": "Motivated Computer Science student with a passion for problem-solving and technology. I have a strong foundation in programming, algorithms, and data structures, complemented by my ability to quickly learn new technologies",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internshala Web Development Training",
+        "issuer": "",
+        "certiLink": "Certicate no. : 7175BE9F-F964-DF41-94C6-A08AC3944BC3"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://olympus.mygreatlearning.com/courses/31723/certicate",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Great Learning OOPS training",
+        "issuer": "Great Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat System Administration I (RH124)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CISCO CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "8.56 GPA",
+        "field_of_study": "Computer and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Quatum University",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Roorkee",
+        "ID": 1.0,
+        "grade_received": "8.58 GPA",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Shantiniketan Jubilee School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary Education",
+        "location": "Motihari",
+        "ID": 2.0,
+        "grade_received": "88.4%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Employee Hourly Attendence System",
+        "description": "Employee Hourly Attendance System is a Business Management system where Employees must mark their hourly attendance by scanning barcodes that will appear on their desktops.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Firebase"
+        ],
+        "endDate": "March 2024",
+        "startDate": "January 2024",
+        "url": "https://github.com/arya17x/khrch_app"
+      },
+      {
+        "name": "Online Crime Reporting Portal",
+        "description": "The Online crime reporting system is a Web application designed in PHP that aims to provide crime management solutions such as ling of FIR and checking its status accessible to everyone.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP"
+        ],
+        "endDate": "June 2022",
+        "startDate": "April 2022",
+        "url": "https://github.com/arya17x/Crime-Reporting-Portal"
+      },
+      {
+        "name": "RoutX Self Project",
+        "description": "Routx is a Flutter Framework-based College Class Schedule Information Application and Server side Todo app. It uses Firebase Firestore as a Database to store and fetch Information and also store Todo It has the functionality to inform 5 minutes before class through Alarms.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Firebase"
+        ],
+        "endDate": "April 2022",
+        "startDate": "October 2021",
+        "url": "https://github.com/arya17x/RoutineX"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "FrontEnd-HTML",
+      "CSS",
+      "Javascript",
+      "C++",
+      "Java",
+      "Dart",
+      "Django(Python)",
+      "ReactJS",
+      "Adobe Create Cloud Suite Applications"
+    ],
+    "soft_skills": [],
+    "name": "Vishal Prakash Raj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 350+Problems leetcode,GeeksForGeeks"
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

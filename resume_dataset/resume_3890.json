@@ -1,0 +1,147 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Saurav Kumar Mishra",
+  "college": "Maharaja Agrasen Insitute of Technology, GGSIPU",
+  "locations": [
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Fundamentals",
+        "issuer": "IBM Skill Build",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Insitute of Technology, GGSIPU",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.5/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Guru Nanak Dev Institute of Technology, BTE Delhi",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage(%): 86.5/100",
+        "field_of_study": "Electrical Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blogging Platform",
+        "description": "Developed a full-stack blog platform with MERN and Redux Toolkit, achieving a 30% reduction in feature development time. Integrated Cloudinary for image management, increasing upload efficiency by 40%. Enabled users to post, read, update, and delete blogs, with a responsive UI built using Tailwind CSS, enhancing user engagement by 25%.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Cloudinary"
+        ],
+        "endDate": "July 2024",
+        "startDate": "",
+        "url": "www.github.com/Saurav-Kumar-Mishra/blog"
+      },
+      {
+        "name": "FullStack E-commerce",
+        "description": "Developed OneStopShop, an e-commerce application using React.js and Vanilla CSS, enhancing user experience and interface responsiveness by 40%. Implemented pagination, improving product browsing efficiency by 50%.",
+        "keywords": [
+          "React.js",
+          "Redux Toolkit"
+        ],
+        "endDate": "june 2024",
+        "startDate": "",
+        "url": "https://e-commerce-kappa-henna-84.vercel.app/"
+      },
+      {
+        "name": "Self-Portfolio",
+        "description": "Developed a dynamic portfolio using React, integrating EmailJS for direct communication, improving response time by 50%. Designed a responsive, visually appealing interface with smooth navigation and interactive elements, resulting in a 40% increase in user engagement.",
+        "keywords": [
+          "React.js"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": "saurav-kumar-mishra.github.io/Portfolio"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web Developer Intern",
+        "skillsUsed": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Redux Toolkit"
+        ],
+        "endDate": "June 2025",
+        "company_name": "Webstack Academy",
+        "description": "Developing a food ordering app using React, Node.js, Express, MongoDB, and Redux Toolkit. Enabled user authentication, profile management, and secure payment integration. Features include restaurant browsing, menu viewing, cart management, and order placement with responsive design.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "Nov. 2022"
+      },
+      {
+        "role_name": "Frontend Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "IBM SkillsBuild",
+        "description": "Participating in a 6-week virtual IBM SkillsBuild internship to gain experience in front-end web development.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "24 June 2024"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "25 Sept 2023",
+        "company_name": "CodSoft",
+        "description": "Developed a landing page using HTML, CSS, and JavaScript, enhancing visual appeal and user engagement. Created a portfolio website with HTML, CSS, and JavaScript to showcase skills and projects effectively. Built a calculator application using JavaScript, demonstrating proficiency in scripting and logic implementation.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "25 August 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Saurav Kumar Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Science"
+}

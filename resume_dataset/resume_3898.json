@@ -1,0 +1,108 @@
+{
+  "project_count": 2.0,
+  "designation": "Software Engineer",
+  "name": "Joshi Sri Vatsava",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "10/10",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.44/10",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Sri Chaitanya School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10/10",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blood Bank Management",
+        "description": "Designed and developed a comprehensive Blood Bank Management System. Utilized front-end technologies for an intuitive user interface, back-end expertise for robust data management, and JavaScript for dynamic functionality. Implemented features to streamline blood donation processes, inventory management, and donor tracking, enhancing operational efficiency.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Spam Detection",
+        "description": "Directed a project targeting spam detection utilizing K-Nearest Neighbors (KNN) and Random Forest machine learning models. Implemented KNN to classify emails by their similarity to labeled datasets, achieving notable accuracy in distinguishing spam messages. Deployed Random Forest for its ensemble learning approach, effectively discerning spam through the aggregation of multiple decision trees.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "",
+        "description": "Conducted impactful research on Resonant Tunneling Diode using Silvaco and Next Nano software, showcasing expertise in semiconductor device simulation. Utilized resonant tunneling diodes to enable terahertz imaging, showcasing proficiency in high-frequency applications for advanced image generation. Applied hands-on experience in electronic design automation tools, enhancing proficiency in semiconductor device modeling.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Computer networks",
+      "Operating Systems",
+      "Artificial Intelligence",
+      "Machine learning",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C++",
+      "DBMS",
+      "MySQL",
+      "Frontend developer",
+      "Cloud Computing"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Organizational skills",
+      "Coordination skills",
+      "Sportsmanship"
+    ],
+    "name": "Joshi Sri Vatsava",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

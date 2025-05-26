@@ -1,0 +1,194 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Veni Mallisetty",
+  "college": "SRM University",
+  "locations": [
+    "Vijayawada, Andhra Pradesh",
+    "Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science certificate",
+        "issuer": "Salesforce",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Micro-Certification - Welcome to ServiceNow",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DBMS certification",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "HTML certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CSS certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Javascript certificate",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "Vijayawada, Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Andhra Pradesh Intermediate Board",
+        "endDate": "2019",
+        "maximum_grade": "95",
+        "degree": "Class 12th",
+        "location": "Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "94.1",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Privacy Preserving Analytics Project",
+        "description": "Implemented a robust encryption system using Python (graphical user interface using Flask), HTML, CSS, and JavaScript for secure storage and private decryption of patient login details. Analyzed algorithms that enable secure data sharing and collaborative analysis, ensuring compliance with data protection regulations and enhancing trust among stakeholders.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Social Networking Platform",
+        "description": "Developed a social networking platform emphasizing a specific niche or industry. Include user profiles, content sharing, messaging, and analytics. Focus on scalability, security, and an engaging user experience. Technology uses Database management, User authentication, and Content sharing algorithms.",
+        "keywords": [
+          "C++",
+          "Database management",
+          "User authentication",
+          "Content sharing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Airline Reservation System",
+        "description": "The Airline Reservation System project in Java facilitates booking flights, managing reservations, and ensuring smooth customer interactions. Integrated a MySQL backend for efficient data management, ensuring scalability and high performance in handling flight and customer data. Developed a user-friendly GUI using Swing for seamless interaction, enabling flight searches, booking cancellations, and generating boarding passes and invoices.",
+        "keywords": [
+          "Java",
+          "MySQL",
+          "Swing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [
+          "NLP",
+          "intent recognition",
+          "entity extraction",
+          "context management"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Coincent",
+        "description": "Created an intelligent chatbot using natural language processing (NLP) techniques to facilitate user interactions and provide instant responses. Implemented key features such as intent recognition, entity extraction, and context management, enhancing user experience and engagement.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Undergraduate Researcher",
+        "skillsUsed": [
+          "web scraping",
+          "data cleaning",
+          "EDA",
+          "Python",
+          "machine learning"
+        ],
+        "endDate": "May 2024",
+        "company_name": "SRM University",
+        "description": "Extracted dataset on copper catalysts for hydrogen evolution using web scraping techniques; followed by meticulous data cleaning, preprocessing, and comprehensive exploratory data analysis (EDA). Engineered advanced data analysis models and Python algorithms in catalysis and electrochemistry research. Developed advanced machine learning models in Python to predict catalyst stability and overpotential.",
+        "location": "Vijayawada, Andhra Pradesh",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C/C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "DSA"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Analytical Thinking",
+      "Team Collaboration"
+    ],
+    "name": "Veni Mallisetty",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

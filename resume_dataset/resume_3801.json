@@ -1,0 +1,120 @@
+{
+  "project_count": 4.0,
+  "designation": "Web developer Intern",
+  "name": "Sameer Marathe",
+  "college": "Shah and Anchor Kutchhi Engineering College",
+  "locations": [
+    "Remote Mumbai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor Kutchhi Engineering College",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "IT",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Ordering Website",
+        "description": "Experience seamless food delivery with our React-based website, powered by Stripe for secure transactions and Firebase for realtime updates. Made this project in the group of 4 with the group leader role. Added functionality to the website and connected it to the backend.",
+        "keywords": [
+          "React",
+          "Recoil",
+          "Stripe",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Pictrend",
+        "description": "Made the website to sharpen my backend skills- Used NodeJS for routing, multer JS for file upload, MongoDb for storing the posts, passport-local mongoose for Authentication, Uuid for unique name for each post, Express Session, Connect-flash.",
+        "keywords": [
+          "NodeJs",
+          "ExpressJs",
+          "MongoDb"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Meet Website with Chat Option",
+        "description": "Developed an Online Meet Website with integrated chat functionality to facilitate seamless communication during virtual meetings. Designed and developed backend functionalities for user authentication, chat management, and real-time communication. Integrated AgoraRTC API to enable seamless audio and video streaming capabilities. Ensured data integrity and security by implementing robust database management practices.",
+        "keywords": [
+          "NodeJs",
+          "AgoraRTC",
+          "ExpressJS",
+          "HTML",
+          "CSS",
+          "Js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Car Price Predictor",
+        "description": "Developed a machine learning model to predict used car prices using Python, Scikit-learn, and XGBoost. Collaborated in a team of 4, taking on the role of group leader. Handled data preprocessing, feature engineering, and model training to enhance prediction accuracy. Implemented and evaluated various regression models to select the best-performing one. Utilized Pandas and NumPy for data manipulation and Matplotlib and Seaborn for data visualization.",
+        "keywords": [
+          "Python",
+          "Scikit-learn",
+          "XGBoost",
+          "Pandas"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "2025",
+        "company_name": "Oasisinfobyte",
+        "description": "Created 3 web pages according to the task given. Used HTML-CSS-Js for the webpages, added new functionality like for a temperature converter site added changing UI with response the temperature input.",
+        "location": "Remote Mumbai",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "Python"
+    ],
+    "soft_skills": [],
+    "name": "Sameer Marathe",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participant in Smart India Hackathon",
+      "Qualified for the second Round"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

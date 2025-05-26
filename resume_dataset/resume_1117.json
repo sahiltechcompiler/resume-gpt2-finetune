@@ -1,0 +1,120 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer Intern",
+  "name": "AMRISH",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "An undergraduate student with fundamental knowledge in data structure and algorithm , development. Seeking to utilize broad educational background with analytical ,technical and programming skills to thrive as an software Engineer.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem Solving using Python",
+        "issuer": "HackarRank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "Percentage:93.2",
+        "degree": "Electronics and communication Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.15",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage:93.3",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Notepad Application (Java GUI)",
+        "description": "Developed a custom Notepad application using Java Swing for the graphical user interface. Implemented key features including  Integrated standard file operations such as creating new files, opening existing files, saving files, and saving files with a new name.  Enabled users to customize text appearance with options for font styles (Arial, Comic Sans MS, Times New Roman) and font sizes (8, 12, 16, 20).",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "Huffman Coding Implementation (Java)",
+        "description": "Implemented Huffman Coding: Developed a text compression tool using Huffman Coding, including frequency map generation, tree construction, and binary code generation.  Text Encoding and Decoding: Efficiently encoded and decoded text, ensuring data integrity through lossless compression.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "Dijkstra-Shortest-Path-Project(Java)",
+        "description": "Implemented Dijkstras Algorithm: Developed a program to find the shortest path between cities using Dijkstras algorithm, efficiently calculating the minimal travel cost.  Dynamic Pathfinding: Enabled user input to dynamically select source and destination cities, ensuring the program can handle various scenarios and city networks.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "HackarRank",
+        "description": "",
+        "location": "",
+        "links": "HackarRank Profile Link",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "Java",
+      "JavaScript",
+      "Numpy",
+      "Scikit-Learn",
+      "React",
+      "SpringBoot(Fundamentals)",
+      "MySql",
+      "Data Structure and Algorithm",
+      "Machine Learning algorithm",
+      "LeetCode"
+    ],
+    "soft_skills": [],
+    "name": "AMRISH",
+    "position": "Software Engineer Intern",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Electronics and communication Engineering"
+}

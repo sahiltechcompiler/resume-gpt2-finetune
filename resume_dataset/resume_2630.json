@@ -1,0 +1,161 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "VANSH BHATT",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "An aspiring IT engineer, equipped with a solid foundation. Eager to contribute technical skills and a passion for problem-solving to a dynamic IT team. Seeking a responsible position where academic knowledge can be applied to real-world challenges, fostering professional growth and making meaningful contributions to organizational success.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "https://coursera.org/verify/XJXP6GEQ7XD2",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://coursera.org/verify/7D5F9JJFHS4B",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming: Arrays, Lists, and Structured Data",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://coursera.org/verify/WKWXPVSTRPJX",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Databases and SQL for Data Science with Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://coursera.org/verify/BKHXM4XQ9ER9",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Web Development with HTML, CSS, JavaScript",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://coursera.org/verify/EQYFG3QXJY9L",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Developing Cloud Apps with Node.js and React",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.85",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Lilawati Vidya Mandir Sr. Sec. School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "70.6",
+        "field_of_study": "CBSE",
+        "startDate": "2020"
+      },
+      {
+        "school": "Lilawati Vidya Mandir Sr. Sec. School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "82.6",
+        "field_of_study": "CBSE",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Face Recognition Attendance System",
+        "description": "This Python application automates attendance recording in an Excel spreadsheet by utilizing image recognition. It can capture images via webcam or process existing ones. Based on identified faces, the application automatically updates the spreadsheet, names, and other relevant data. This improves efficiency, reduces errors, and offers easy data storage including security for larger user bases.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "File Storage System using Hybrid Cryptography",
+        "description": "This project leverages a hybrid cryptographic approach, combining the strengths of symmetric and asymmetric encryption. It utilizes an automatic logic generator to enhance security and employs Fernet, a recognized cryptographic tool, to achieve robust data protection.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Predictive model for mental health analysis using ML",
+        "description": "This project utilizes a 10-point scale to gauge an individual's mental well-being by incorporating a holistic approach by considering various influencing factors. These factors encompass a person's family history indicating potential genetic predispositions, their surrounding environment which can impact stress levels, and even biological sex as research suggests hormonal differences may play a role. By considering these diverse aspects, this project aims to provide a more comprehensive picture of an individual's mental health.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "German"
+    ],
+    "experiences": [
+      {
+        "role_name": "Full-Stack Development Internship",
+        "skillsUsed": [],
+        "endDate": "31st July, 2024",
+        "company_name": "Invithi Software",
+        "description": "Developed Invithi Softwares privacy policy webpage using React.js. Created 2 webpages for a specified project using React.js and contributed to backend development by working on middleware, routes, and model creation as part of a team of 4.",
+        "location": "",
+        "links": "",
+        "startDate": "1st July, 2024"
+      }
+    ],
+    "skills": [
+      "Front-end HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Back-end SQL",
+      "DBMS",
+      "PHP",
+      "Node.js",
+      "Python",
+      "JAVA",
+      "Django",
+      "Machine Learning",
+      "Data Structures"
+    ],
+    "soft_skills": [],
+    "name": "VANSH BHATT",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Delhi",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": ""
+}

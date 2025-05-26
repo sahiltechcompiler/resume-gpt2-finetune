@@ -1,0 +1,141 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Challa Venkata Rama Sudheer",
+  "college": "GITAM University",
+  "locations": [
+    "Hyderabad, India",
+    "Bangalore, India",
+    "Vizag, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Dynamics NAV (formerly known as Navision) is an easily adaptable Enterprise Resource Planning (ERP) solution which helps small and medium-sized businesses to automate and connect their sales, purchasing, operations, accounting, and stock management. It covers all your business processes from finance and purchasing to warehouse management and general reporting. Plus, its super flexible and can be customized to fit your business no matter what your industry.I have used the Microsoft Dynamics NAV Development Environment (C/SIDE plus C/AL) to develop Microsoft Dynamics NAV applications. It allows you to change/customize the different objects in Dynamics NAV / Navision which includes Tables,Reports,XMLports,Codeunits,MenuSuits,Pages and Queries.",
+        "skillsLearned": [],
+        "title": "Microsoft Dynamics NAV Certification",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GITAM University",
+        "endDate": "May 2018",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "6.62/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Board of Intermediate Education",
+        "endDate": "May 2014",
+        "maximum_grade": "",
+        "degree": "12th Standard",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90.8 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of Secondary Education",
+        "endDate": "May 2012",
+        "maximum_grade": "",
+        "degree": "10th Standard",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.8/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Droid Detector",
+        "description": "Developed a web platform Droid Detector: Android malware characterization and detection using deep learning. Worked in a team to utilize deep learning techniques to associate statistical analysis with dynamic analysis of Android applications to characterize malware. Implemented an online deep learning based Android malware detection engine (Droid Detector) that can automatically detect whether an app is malware. Spearheaded the team in development, documentation, and meeting deadlines.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Distributed Chat Service Application",
+        "description": "Developed a distributed client/ server application to provide chat service providing communication transparency using Java RMI and multithreading.",
+        "keywords": [],
+        "endDate": "February 2015",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Authorship Attribution Analysis in Instant Messaging",
+        "description": "Developed Authorship Attribution Analysis in instant messaging by identifying stylometric and statistical features like urban slang using API calls, emoticons and special characters. Implemented to deduce the authorship, derive characteristics of an author and attribute authorship to an author.",
+        "keywords": [],
+        "endDate": "November 2016",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "HCL Technologies",
+        "description": "Worked as an engineer for banking and financial client on critical mission applications to resolve real time production issues. Developed a framework using Docker containers which reduces the time for database operations by inserting data all at once and performing all database manipulations and closing the connection all together. Developed efficient code for application functions with test framework for unit testing coverage.",
+        "location": "Hyderabad, India",
+        "links": "",
+        "startDate": "April 2022"
+      },
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [],
+        "endDate": "Oct 2021",
+        "company_name": "Experis IT",
+        "description": "Worked as consultant in a beverage industry to develop Microsoft .NET and Azure stack based applications. Deployed applications in Dev,QA and UAT to optimize the performance based on the user request by understanding new change requests, estimations, and deliverables, developed reports as per the client requirement.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "Oct 2020"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "June 2017",
+        "company_name": "Hewlett-Packard Company",
+        "description": "I had worked as an intern in a Sales Encore Project and developed a data access service which connects to a MySQL database. The service uses JDBC drivers and performs data formatting along with business logic to feed to a frontend program. Collaborated with the team to support an application in the software development lifecycle (SDLC) and various stages of software implementation.",
+        "location": "Vizag, India",
+        "links": "",
+        "startDate": "May 2017"
+      }
+    ],
+    "skills": [
+      "Java",
+      ".NET",
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "MYSQL",
+      "Dynamics 365 Business Central",
+      "Visual Studio",
+      "Eclipse"
+    ],
+    "soft_skills": [],
+    "name": "Challa Venkata Rama Sudheer",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2018.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

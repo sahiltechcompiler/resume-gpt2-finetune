@@ -1,0 +1,172 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "KISHORE E m",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Build a Backend Rest Api with Node js",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Skillathon Uipath citizen developer",
+        "issuer": "Uipath and ICT Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming in Java",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificates from Coursera Project Network",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "CGPA-8.9",
+        "field_of_study": "Computer science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "FARMEX",
+        "description": "Designed and developed a secure E-commerce platform with admin dashboard for valuable insights. Integrated with Stripe payment gateway and real-time message sharing capabilities through Twilio. Secure authentication system with Jwt for login and registration. Used react-redux to maintain the state of the user, cart items and Chart js for categorized purchase details.",
+        "keywords": [
+          "React Js",
+          "Node js",
+          "Mongo db",
+          "Express js",
+          "Twilio(Whatsapp integration)",
+          "Stripe(payment gateway)"
+        ],
+        "endDate": "Aug 2023",
+        "startDate": "",
+        "url": "liveurl"
+      },
+      {
+        "name": "STOCKINVESTO",
+        "description": "Developed a full-stack stock investment app using PERN stack for user interface, data management, and real-time updates. Integrated real-time stock market data feeds into the app, allowing users to make informed investment decisions based on up-to-date information and implemented stripe for payment. Using Chart.js to visualize stock values in real-time, enhancing user experience and data analysis.",
+        "keywords": [
+          "React Js",
+          "Node js",
+          "PostgreSQL",
+          "Express js",
+          "Stripe(payment gateway)",
+          "Chart Js"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "liveurl"
+      },
+      {
+        "name": "BLOGGOBUZZ",
+        "description": "Designed and developed a user-friendly blog website with intuitive navigation, responsive layout. Included features like seamless reading and effortless posting to enhance user experience and engagement. Used Material UI and pagination components for providing smooth user interface to the users. Used cloudinary third party cloud platform to store images and generates image links.",
+        "keywords": [
+          "React Js",
+          "Node js",
+          "Mongo db"
+        ],
+        "endDate": "Apr 2023",
+        "startDate": "",
+        "url": "liveurl"
+      },
+      {
+        "name": "MEDCARE",
+        "description": "Developed Medcare, a medical appointment booking application, to streamline the scheduling process for patients. Users can search for doctors by specialty, view real-time appointment availability, and book appointments directly through the form. Integrated with Node mailer for notifications regarding appointment booking and remainders about appointment.",
+        "keywords": [
+          "Html",
+          "css",
+          "Javascript",
+          "Node js",
+          "Mongodb"
+        ],
+        "endDate": "Aug 2022",
+        "startDate": "",
+        "url": "liveurl"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Buzzworks Business and Services Pvt Ltd",
+        "description": "Developed a user interface for the application form using React.js, Material-UI, and custom CSS, resulting in a responsive and visually appealing design. Collaborated with back-end developers to integrate the front-end with the Node.js server and MySQL database, ensuring seamless data flow. Integrated Material-UI to create responsive and visually appealing designs, ensuring consistency and accessibility.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "Mar 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "Html",
+      "Css",
+      "JavaScript",
+      "Bootstrap",
+      "React Js",
+      "Material UI",
+      "Redux js",
+      "Node js",
+      "Mysql",
+      "Mongodb",
+      "PostgreSql",
+      "React Native",
+      "SpringBoot",
+      "Git",
+      "GitHub",
+      "Linux",
+      "Docker",
+      "AWS(EC2,S3,RDS)",
+      "Intellij",
+      "Android Studio",
+      "Visual studio code"
+    ],
+    "soft_skills": [],
+    "name": "KISHORE E m",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

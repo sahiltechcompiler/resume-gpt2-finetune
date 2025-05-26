@@ -1,0 +1,124 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Developer (Trainee)",
+  "name": "DAKSH PRATAP SINGH",
+  "college": "Chandigarh University",
+  "locations": [
+    "Gurgaon"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chandigarh University",
+        "endDate": "Currently",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.40 CGPA",
+        "field_of_study": "CSE-IOT",
+        "startDate": "July 2020"
+      },
+      {
+        "school": "BBOSE",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "72%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "76.44%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Spotify Functional Clone",
+        "description": "This project showcases an array of functionalities including play, pause, mute, and seek bar controls, elevating the user experience to match industry standards. Implemented seamless song management capabilities, allowing users to organize their music library into distinct folders for easy access and navigation. Leveraged JavaScript efficiently to handle and manipulate the songs retrieved from the local storage, presenting it effectively on the website with the help of JavaScript.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub-Repository"
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "Developed a dynamic e-commerce website utilizing HTML, CSS, and JavaScript, ensuring a seamless user experience and intuitive interface for potential customers. Got proficient in DOM Manipulation and handling events in JavaScript. Integrated a functional shopping cart using JavaScript, allowing users to add products, update quantities, and manage their selections seamlessly within the website.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "E-Commerce Website-Link"
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Designed and developed a personalized portfolio website using HTML, CSS, and JavaScript to showcase skills, projects, and achievements. Utilized version control systems like Git for efficient collaboration and managed deployment processes to host the website, ensuring its availability online.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Portfolio Website"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer (Trainee)",
+        "skillsUsed": [
+          "JavaScript",
+          "React.js",
+          "Redux"
+        ],
+        "endDate": "Jun 2024",
+        "company_name": "Railworld India Pvt. Ltd",
+        "description": "Achieved proficiency in core JavaScript, focusing on ES6+ features, resulting in a 25% reduction in development time for new features. Developed and maintained two complex applications using React.js and Redux, improving state management efficiency and application performance by 20%. Worked on a project with my team on design and development of a fully functional website. Conducted code reviews and implemented continuous integration practices to ensure code quality.",
+        "location": "Gurgaon",
+        "links": "",
+        "startDate": "March 2024"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJs",
+      "Node.js",
+      "Express.js",
+      "Git",
+      "Github",
+      "SQL",
+      "C++",
+      "Database Management System",
+      "OOPS"
+    ],
+    "soft_skills": [
+      "Experienced in presenting technical topics to large groups, maintaining engagement and ensuring comprehensive understanding",
+      "Good Communication Skills",
+      "Ability to take initiative to solve problems"
+    ],
+    "name": "DAKSH PRATAP SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 300+ questions on LeetCode and CodeStudio",
+      "Level 7 (Expert) on CodeStudio",
+      "Spent more than 100 hours on development platform."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.E."
+}

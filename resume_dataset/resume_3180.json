@@ -1,0 +1,122 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "PRASHANT SHARMA",
+  "college": "GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi,India",
+        "ID": 0.0,
+        "grade_received": "8.7 CGPA",
+        "field_of_study": "Computer science and Engineering",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ELECTROMART",
+        "description": "Architected, designed, and implemented a full-stack e-commerce app with user authentication (JWT). Payment integration.authentication and Razorpay for payments. Designed and implemented a responsive UI using Next UI and Tailwind CSS. Enhanced security by implementing robust password hashing and salting techniques to protect user data.",
+        "keywords": [
+          "Next js",
+          "Node js",
+          "Tailwind css",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "live link"
+      },
+      {
+        "name": "MEETUP",
+        "description": "Built a real-time video calling web app using Next.js, Tailwind CSS, Socket.IO, and Peer.js. Optimized performance by using Next.js for efficient routing and server-side rendering, reducing load times. Integrated Socket.IO for smooth data exchange between clients and servers during calls. Implemented peer-to-peer connections with Peer.js, facilitating direct communication between users.",
+        "keywords": [
+          "Next js",
+          "Node js",
+          "Tailwind css",
+          "MongoDB",
+          "Socket.io",
+          "Peer.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "live link"
+      },
+      {
+        "name": "PROJECTNEST",
+        "description": "Engineered 'Project Nest' with Next.js, Node.js, MongoDB, and Tailwind CSS, creating a comprehensive project management tool. Integrated JWT and Firebase for Google authentication. Facilitated team collaboration with features like chat, task assignment, and member management, improving team productivity.",
+        "keywords": [
+          "Next.js",
+          "Node.js",
+          "Firebase",
+          "Tailwind CSS",
+          "MongoDB",
+          "Socket.IO",
+          "Chakra Ui"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "live link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "OPEN SOURCE CONTRIBUTOR",
+        "skillsUsed": [
+          "React",
+          "Firebase",
+          "Bootstrap"
+        ],
+        "endDate": "August 2023",
+        "company_name": "",
+        "description": "Significantly enhanced projects with React, Firebase, and Bootstrap by constructing dynamic, responsive interfaces, contributing to improved user engagement. Resolved development challenges by showcasing strong problem-solving skills, leading to a 20% reduction in bug reports. Implemented seamless integration of Firebase, elevating the functionality and interactivity of web applications, resulting in a 15% increase in user retention.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Javascript",
+      "React js",
+      "Next js",
+      "Node js",
+      "Express js",
+      "Fireabse",
+      "MongoDb",
+      "Mysql",
+      "Github",
+      "Canva",
+      "Postman",
+      "Data Structures and Algorithms",
+      "Object-Oriented Programming",
+      "Operating Systems",
+      "Networking"
+    ],
+    "soft_skills": [],
+    "name": "PRASHANT SHARMA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved a 1600+ rating and solved 800+ question on Leetcode",
+      "Solved 400+ questions on gfg",
+      "Earned a 5-star rating on HackerRank"
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

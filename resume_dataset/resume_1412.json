@@ -1,0 +1,207 @@
+{
+  "project_count": 5.0,
+  "designation": "SOFTWARE DEVELOPER",
+  "name": "AKSHAT JHA",
+  "college": "Pranveer Singh Institute of Technology",
+  "locations": [
+    "Kanpur, India"
+  ],
+  "full_output": {
+    "summary": "An AKTU University graduate student with good understanding of Data Science, Artificial Intelligence and Machine Learning programing. Dedicated to software engineering, and specializing in fullstack web development, algorithms, and machine learning. Searching mostly for Machine Learning, Data Engineer, and, Data Analyst position. Consistency and HardWork sum up the pillar of my work culture.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Mastered fundamental Python syntax, proficiently utilizing control flow, loops, functions, and data structures. Acquired expertise in procedural programming paradigms and associated logical concepts, enhancing capabilities.",
+        "skillsLearned": [],
+        "title": "Programming in Python (Meta)",
+        "issuer": "Google IT",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learned about the data ecosystem, including the ETL process and big data basics. Mastered data gathering, identification, and cleaning for analysis preparation.",
+        "skillsLearned": [],
+        "title": "Computer System Security",
+        "issuer": "Indian Institute of Technology",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Developed a comprehensive understanding of the data life cycle and various stages involved in the data analysis. Introduced to diverse applications designed to streamline and optimize the data analysis journey, enhancing efficiency and accuracy.",
+        "skillsLearned": [],
+        "title": "5 Star C++ Coder",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Developed a comprehensive understanding of the data life cycle and various stages involved in the data analysis. Introduced to diverse applications designed to streamline and optimize the data analysis journey, enhancing efficiency and accuracy.",
+        "skillsLearned": [],
+        "title": "The Web Developer Bootcamp",
+        "issuer": "Colt SteeleNoble Work Foundation",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Developed a comprehensive understanding of the data life cycle and various stages involved in the data analysis. Introduced to diverse applications designed to streamline and optimize the data analysis journey, enhancing efficiency and accuracy.",
+        "skillsLearned": [],
+        "title": "Database and SQL",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Developed a comprehensive understanding of the data life cycle and various stages involved in the data analysis. Introduced to diverse applications designed to streamline and optimize the data analysis journey, enhancing efficiency and accuracy.",
+        "skillsLearned": [],
+        "title": "HTML5, CSS3 and JavaScript",
+        "issuer": "Infosys",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Swaraj India Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate Highschool",
+        "location": "Kanpur, India",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.6/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Pranveer Singh Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Kanpur, India",
+        "ID": 1.0,
+        "grade_received": "GPA: 7/10",
+        "field_of_study": "Computer Science",
+        "startDate": "Dec 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Image Caption Generator",
+        "description": "Image caption generator is a process of recognizing the context of an image and annotating it with relevant captions using deep learning and computer vision. It includes labeling an image with English keywords with the help of datasets provided during model training. The image net dataset trains the CNN model called Xception. Managed data integrity by handling missing values and encoding categorical variables, enhancing quality by 33%. Xception is responsible for image feature extraction. These extracted features will be fed to the LSTM model, which generates the image caption. Identified and comprehended key factors influencing academic performance through thorough analysis.",
+        "keywords": [
+          "Python",
+          "Deep Learning",
+          "NLP",
+          "CNN",
+          "LLM",
+          "LSTM"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "Oct 2023",
+        "url": "LINK"
+      },
+      {
+        "name": "DFS/BFS Visualizer",
+        "description": "Use the O(V+E) DFS (DepthFirst Search) or BFS(BreadthFirstSearch) algorithm to traverse the graph and explore the features/properties of the graph. Each algorithm has its own characteristics, features, and sideeffects that we will explore in this visualization.",
+        "keywords": [
+          "Topological Sort algorithm",
+          "Bipartite Graph Checker algorithm",
+          "Cut Vertex and Bridge finding algorithm",
+          "Strongly Connected Components (SCC) finding algorithms",
+          "2SAT Checker algorithm"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Oct 2023",
+        "url": "LINK"
+      },
+      {
+        "name": "Tournament Manager",
+        "description": "The project is an attempt to fulfil my dream about creating a chess tournament manager: small, fast, portable, easy to use, easy to integrate to other systems, resumable, able to automatically generate all configurations, files which are needed for tournaments. Basically, from nothing, a user can configure automatically within few minutes then he can start running a total new tournament. About design: To manage engines, games and the complicated events / relationships between them, the app uses a timer with few c++ callback functions, believing it to be one of the simplest methods.",
+        "keywords": [
+          "R with ggplot2",
+          "tidyr",
+          "R Markdown"
+        ],
+        "endDate": "Dec 2022",
+        "startDate": "Oct 2022",
+        "url": "LINK"
+      },
+      {
+        "name": "Class Scheduler",
+        "description": "This system is intended to create and easily manage the class and examination schedule of an institution using C++. Easily tracking of conflicts on the teacher, students, and room schedule will be detected by the system to avoid redundancy and inconsistency. This will greatly ease the personincharge responsibilities in doing schedules at the start of the semester and examination. This Class and Exam Scheduling System has 2 modules which are the Admin Side and Faculty Side. The Admin side has access to manage and maintain the data that is stored in the system while the Faculty Side has only access to view their schedules and update its system accounts credentials.",
+        "keywords": [
+          "C++",
+          "HTML5",
+          "Genetic Algorithm"
+        ],
+        "endDate": "Dec 2021",
+        "startDate": "Nov 2021",
+        "url": "LINK"
+      },
+      {
+        "name": "Library Management System",
+        "description": "The Library Management System is an easytouse system with a centralized database programming procedure. This C library management project performs various operations such as verifying student information, reserving a book, changing book information, and checking allocated books. The project will assist you in mastering two important C concepts: file management and classes.",
+        "keywords": [
+          "C++",
+          "SQL",
+          "DBMS"
+        ],
+        "endDate": "Apr 2021",
+        "startDate": "Feb 2021",
+        "url": "LINK"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Python",
+      "SQL",
+      "JAVA",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Operating System",
+      "Machine Learning",
+      "Neural Network",
+      "Generative AI",
+      "Microsoft Office",
+      "Firebase",
+      "Git",
+      "PyCharm",
+      "Jupyter Notebook",
+      "Visual Studio Code"
+    ],
+    "soft_skills": [
+      "Critical Thinking",
+      "Leadership",
+      "Time Management",
+      "Teamwork",
+      "Problemsolving",
+      "Documentation",
+      "Presentation"
+    ],
+    "name": "AKSHAT JHA",
+    "position": "SOFTWARE DEVELOPER",
+    "interests": [
+      "Technical Writing",
+      "Art",
+      "Video Games"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

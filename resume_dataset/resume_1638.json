@@ -1,0 +1,122 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Siddhant Upadhyay",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Mumbai, India",
+    "Lucknow, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "CGPA : 7.97",
+        "field_of_study": "",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "Kendriya Vidyalaya",
+        "endDate": "Mar 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Lucknow, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "Apr 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Customer Segmentation",
+        "description": "Prepared a customer segmentation model using sophisticated machine learning techniques, enabling personalized marketing strategies and enhancing customer engagement. Performed comprehensive data analysis to identify distinct customer segments and Utilized data visualization tools like Matplotlib and Seaborn to create intuitive dashboards and reports, Implemented and refined clustering algorithms, such as K-means, to classify customers into meaningful groups based on their behavior and preferences.",
+        "keywords": [],
+        "endDate": "Jul 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "NexTDooR",
+        "description": "A buy/sell/rent website for college students Developed an online marketplace for college students to buy, sell, exchange, rent items securely and also promote their brands, art, collaborations. Implemented user authentication and item listings.",
+        "keywords": [],
+        "endDate": "Jul 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Volume control using hand gesture",
+        "description": "Authored a sophisticated volume control system using computer vision techniques and Python and it's libraries. Enabled users to adjust audio levels through natural hand gestures, enhancing user experience.",
+        "keywords": [],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Colleges official job portal",
+        "description": "Collaborated with a team of 4 to develop the frontend of the college's official job portal. Focused on making the homepage responsive to different devices, increasing accessibility.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2022",
+        "company_name": "SBI(Analytics department)",
+        "description": "Engineered a generative AI response bot for banking queries that enhanced customer interaction speed by 40%, successfully implementing RAG and fine-tuning concepts to streamline response accuracy and efficiency. Fine-tuned TinyLlama-1.1B-chat-v1.0 chat based model with Q&A datasets with guard rails, improving response accuracy by 25%. enabled QLoRA techniques to reduce memory footprints and gpu usage by 85%.",
+        "location": "Mumbai, India",
+        "links": "",
+        "startDate": "Jun 2022"
+      },
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "Jul 2022",
+        "company_name": "The Sparks Foundation",
+        "description": "Created a simple online banking system enabling users to transfer and receive funds efficiently. Devised a secure and reliable application with user-friendly interfaces, resulting in increased user satisfaction. resulting in a 15% increase in user satisfaction and handling over 50 users daily.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2022"
+      }
+    ],
+    "skills": [
+      "Php",
+      "Sql",
+      "Git",
+      "Python",
+      "Blender",
+      "Streamlit",
+      "C",
+      "Html",
+      "Javascript",
+      "Css",
+      "Project Management",
+      "Machine Learning",
+      "Django"
+    ],
+    "soft_skills": [],
+    "name": "Siddhant Upadhyay",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Btech"
+}

@@ -1,0 +1,147 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Jainil Shah",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Indore, Madhya Pradesh",
+    "Indore, MP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certified Ethical Hacker V12 (CEH)",
+        "issuer": "EC-Council",
+        "certiLink": "(Ongoing)"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundations of Cyber Security",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cyber Security",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:7.86",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Random Password Generator",
+        "description": "Developed a GUI-based tool for generating secure passwords with customizable lengths. Enabled creation of 1,000+ passwords with a mix of characters, improving security and user convenience. Added features to display and copy passwords, reducing login form entry time.",
+        "keywords": [
+          "Python",
+          "GUI",
+          "Security",
+          "UX Design"
+        ],
+        "endDate": "January 2023",
+        "startDate": "December 2023",
+        "url": ""
+      },
+      {
+        "name": "Malware Analysis Sandbox.",
+        "description": "Designed and implemented a secure malware analysis sandbox using virtualization technologies to isolate and analyze malicious code safely. Conducted behavioral analysis of malware samples, documenting actions such as file modifications, network communications, and registry changes to identify potential threats. Generated comprehensive reports on malware behavior, providing actionable insights for mitigation strategies and enhancing cybersecurity defenses.",
+        "keywords": [
+          "Malware Analysis",
+          "Scripting",
+          "Network Analysis"
+        ],
+        "endDate": "July 2023",
+        "startDate": "June 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cyber Security Intern",
+        "skillsUsed": [],
+        "endDate": "May 2025",
+        "company_name": "Crime Branch Indore",
+        "description": "Conducted comprehensive cybercrime investigations, identifying and mitigating threats using advanced methodologies and tools. Performed in-depth digital forensics to collect, analyze, and preserve electronic evidence for legal proceedings. Developed and executed public awareness campaigns to educate businesses and individuals on cybersecurity practices and threat prevention.",
+        "location": "Indore, Madhya Pradesh",
+        "links": "",
+        "startDate": "October 2021"
+      },
+      {
+        "role_name": "Python Intern",
+        "skillsUsed": [],
+        "endDate": "May 2021",
+        "company_name": "Oasis Infobyte",
+        "description": "Proficient in Python with expertise in syntax, data structures, and control flow. Experienced with NumPy, Pandas, Matplotlib, and Scikit-learn. Skilled in Git for collaborative coding and version management.",
+        "location": "Indore, MP",
+        "links": "",
+        "startDate": "April 2020"
+      }
+    ],
+    "skills": [
+      "Kali Linux",
+      "Ubuntu",
+      "Parrot OS",
+      "Wireshark",
+      "Python",
+      "C/C++",
+      "SQL",
+      "Java",
+      "HTML/CSS",
+      "Javascript",
+      "Git",
+      "VS Code",
+      "Visual Studio",
+      "PyCharm",
+      "Jupyter Notebook",
+      "Pandas",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "soft_skills": [],
+    "name": "Jainil Shah",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Co-authored an accepted review paper on detecting polymorphic malware using machine learning techniques. Worked with a 2-member team to conduct and present the research findings."
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

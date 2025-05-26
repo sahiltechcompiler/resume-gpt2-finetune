@@ -1,0 +1,193 @@
+{
+  "project_count": 3.0,
+  "designation": "Software developer",
+  "name": "Pratim Rana",
+  "college": "Brainware University",
+  "locations": [
+    "Barasat, Kolkata",
+    "Medinipur, West Bengal"
+  ],
+  "full_output": {
+    "summary": "Software developer with customer-driven nature and focus on working as part of team. Excellent communicator with ability to meet deadlines and quickly resolve issues. Motivated to imbibe new technical skills and expertise in order to grow eectively as a professional in IT industry.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java",
+        "issuer": "",
+        "certiLink": "https://certicate.codingninjas.com/view/aa268aac0d4942a0"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures in JAVA",
+        "issuer": "",
+        "certiLink": "https://certicate.codingninjas.com/view/f758081530bda6a4"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Front End",
+        "issuer": "",
+        "certiLink": "https://certicate.codingninjas.com/view/b640471de71d96e2"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System (DBMS)",
+        "issuer": "",
+        "certiLink": "https://certicate.codingninjas.com/view/0e7b135e7f59daea"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React Js",
+        "issuer": "",
+        "certiLink": "https://certicate.codingninjas.com/view/9e69d4ecd4d8017c"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Node Js",
+        "issuer": "",
+        "certiLink": "https://certicate.codingninjas.com/view/fa675d5be6044f79"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Brainware University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Master of Computer Applications",
+        "location": "Barasat, Kolkata",
+        "ID": 0.0,
+        "grade_received": "CGPA : 8.9 / 10",
+        "field_of_study": "",
+        "startDate": "05/2022"
+      },
+      {
+        "school": "Vidyasagar University",
+        "endDate": "04/2022",
+        "maximum_grade": "",
+        "degree": "Bsc-Mathematics",
+        "location": "Medinipur, West Bengal",
+        "ID": 1.0,
+        "grade_received": "CGPA : 8.4 / 10",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "West Bengal Council of Higher Secondary Education",
+        "endDate": "03/2019",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage : 86 %",
+        "field_of_study": "",
+        "startDate": "02/2018"
+      },
+      {
+        "school": "West Bengal Board of Secondary Education",
+        "endDate": "04/2017",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "Percentage : 78 %",
+        "field_of_study": "",
+        "startDate": "03/2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Disease Prediction Chatbot",
+        "description": "This chatbot aims to make healthcare more accessible, providing quick and reliable health assessments to users, especially those in remote areas or with limited access to medical facilities.",
+        "keywords": [
+          "ML",
+          "Python",
+          "Html",
+          "CSS",
+          "ReactJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://drive.google.com/le/d/1MEi5ML6FjtR2-jiPdCw7DKklQs27dfmZ/view?usp=drivesdk"
+      },
+      {
+        "name": "E-commerce Application",
+        "description": "This Node.js E-commerce backend project showcased a thorough approach to API development, emphasizing security, documentation, and ecient testing practices. By leveraging tools like Postman and Swagger, and implementing robust logging and error handling mechanisms, the project aimed to deliver a reliable and scalable backend solution for an E-commerce platform.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "EJS",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/pratim688/E-commerce-Application"
+      },
+      {
+        "name": "Blog Page using React and Firebase",
+        "description": "This project is a simple blog page where users can write, view, and delete blog posts. It utilizes React.js for the frontend and Firebase Firestore for the backend database. Users can add new blog posts by entering a title and content, and existing blog posts are displayed dynamically on the page. The page also dynamically updates the document title to the title of the latest blog post.",
+        "keywords": [
+          "React.js",
+          "Firebase Firestore",
+          "SQL",
+          "PHP",
+          "GIT & GITHUB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/pratim688/Blog-page-Firebase-React"
+      }
+    ],
+    "languages": [
+      "Bengali",
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "JAVA",
+      "JAVASCRIPT",
+      "REACTJS",
+      "NODEJS",
+      "OOPS",
+      "DATA STRUCTURE",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [],
+    "name": "Pratim Rana",
+    "position": "Software developer",
+    "interests": [
+      "Coding",
+      "Music",
+      "Web Development",
+      "Trading",
+      "Cricket"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Kolkata, India",
+  "graduation_year": 2022.0,
+  "experience_count": 0.0,
+  "degree": "Master of Computer Applications"
+}

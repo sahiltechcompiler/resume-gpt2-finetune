@@ -1,0 +1,187 @@
+{
+  "project_count": 2.0,
+  "designation": "SOFTWARE DEVELOPER",
+  "name": "SANDESH LINGAYAT",
+  "college": "Shah & Anchor Kutchhi Engineering College",
+  "locations": [
+    "Mumbai, India"
+  ],
+  "full_output": {
+    "summary": "Highly motivated and results-driven engineer with significant experience in Machine Learning and Web Development. Aiming to leverage my skills in a challenging role that allows me to contribute to the organizations success while continuing to develop professionally.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Certified: Azure AI Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate for the Completion of Python 3.4.3 Training",
+        "issuer": "Spoken Tutorial, IIT Bombay",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM SkillsBuild Certified: AI Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Generative AI Fundamentals",
+        "issuer": "Google Cloud Skills Boost",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah & Anchor Kutchhi Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering- BE",
+        "location": "Mumbai, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.70",
+        "field_of_study": "Electronics & Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Mumbai University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Honours/Minor Degree",
+        "location": "Mumbai, India",
+        "ID": 1.0,
+        "grade_received": "CGPA: 8.81",
+        "field_of_study": "Cyber Security",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Glaucoma Disease Detection WEB APP",
+        "description": "Developed an innovative web application leveraging Deep Learning and Convolutional Neural Networks (CNN) to detect early signs of glaucoma. The application utilizes image processing techniques to analyze Fundas images and identify potential indicators of the disease, contributing to early diagnosis and treatment.",
+        "keywords": [
+          "Deep Learning",
+          "Convolutional Neural Networks",
+          "image processing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Deepfake Audio Detection WEB APP",
+        "description": "Led the development of cutting-edge technology for detecting manipulated or synthetic audio using advanced artificial intelligence algorithms. Employed the Xception model and MFCC feature extraction method to create machine learning models capable of accurately distinguishing between authentic and manipulated audio recordings.",
+        "keywords": [
+          "Xception model",
+          "MFCC",
+          "machine learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "experiences": [
+      {
+        "role_name": "AI Intern",
+        "skillsUsed": [
+          "Python",
+          "TensorFlow",
+          "Keras"
+        ],
+        "endDate": "7/2023",
+        "company_name": "Edunet Foundation",
+        "description": "Conducted research on new technologies related to AI development. Assisted in developing machine learning pipelines for large datasets. Utilized Python TensorFlow, Keras.",
+        "location": "",
+        "links": "",
+        "startDate": "6/2023"
+      },
+      {
+        "role_name": "React Developer Intern",
+        "skillsUsed": [
+          "React",
+          "JavaScript"
+        ],
+        "endDate": "5/2022",
+        "company_name": "DOTMINDS LLP",
+        "description": "Created custom components, forms and interfaces for user interactions in React. Debugged and resolved issues related to React components.",
+        "location": "",
+        "links": "",
+        "startDate": "3/2022"
+      },
+      {
+        "role_name": "AIML Intern",
+        "skillsUsed": [
+          "Machine Learning",
+          "Data Analysis"
+        ],
+        "endDate": "12/2021",
+        "company_name": "YBI Foundation",
+        "description": "Engaged in hands-on projects to design, implement and test machine learning algorithms for various applications. Collected, preprocessed, and analyzed large datasets to extract valuable insights and improve model accuracy.",
+        "location": "",
+        "links": "",
+        "startDate": "11/2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "R",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "React JS",
+      "Machine Learning",
+      "Computer Vision",
+      "Microsoft Azure AI",
+      "Linux",
+      "Docker",
+      "Git/GitHub"
+    ],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Debugging",
+      "Troubleshooting",
+      "Team Leadership",
+      "Project Management"
+    ],
+    "name": "SANDESH LINGAYAT",
+    "position": "SOFTWARE DEVELOPER",
+    "interests": [],
+    "achievements_and_awards": [
+      "Shortlisted in GDSC Solution Challenge 2024 for Audio Deepfake Detection Project.",
+      "Shortlisted for Web Technologies Skill in India Skills Competition 2024.",
+      "Qualified in the top 25 teams in Code Odyssey 2.0 National level hackathon."
+    ],
+    "publications": [
+      "Title : Unmasking Deepfake Audio: A Study Using Xception Model Published in: International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET) DOI: https://www.ijirset.com/upload/2024/may/18_Unmasking.pdf"
+    ]
+  },
+  "current_location": "Mumbai, India",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Engineering- BE"
+}

@@ -1,0 +1,163 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Poorvi Agarwal",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Singapore",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "I am pursuing B.Tech in Computer and Communication Engineering at Manipal University Jaipur, with a strong foundation in C++,C,Python, OOPs and networking concepts. Skilled in machine learning,real-time image analysis with OpenCV,and expanding expertise in deep learning. Proficient in SQL , with basic knowledge of Java and actively solving coding problems on online coding platform to sharpen algorithmic thinking. Solved 300+ questions on LeetCode and earned 100 days badge in 2023 and 2024.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Database Foundations",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "certification offered by Cisco Academy",
+        "skillsLearned": [],
+        "title": "CCNAv7:Introduction to Networks",
+        "issuer": "Cisco Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithm - Nptel",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP: Programming essentials in python",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.94[Deans List]",
+        "field_of_study": "Computer and Communication Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Huddard High School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Kanpur",
+        "ID": 1.0,
+        "grade_received": "85.4",
+        "field_of_study": "ISC",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Facenroll (Smart attendance assistant)",
+        "description": "Advanced Facial Recognition Attendance System using Convolutional Neural Networks (CNN) with Keras for real-time face detection. This system collected and stored data on cloud platforms, capturing images and logging attendance with current date and time. Utilizing the openpyxl library, it exported attendance records to Excel spreadsheets. This project showcased my proficiency in Python, deep learning, and efficient data handling for attendance tracking.",
+        "keywords": [
+          "Python",
+          "deep learning",
+          "attendance tracking",
+          "CNN",
+          "Keras"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Anomaly Detection for Network Traffic",
+        "description": "Developed an Isolation Forest algorithm to detect anomalies in network traffic data, focusing on potential intrusions. Preprocessed data and evaluated the model using metrics such as ROC-AUC, achieving high precision. Utilized Python, Scikit-learn, Pandas, and Matplotlib for implementation.",
+        "keywords": [
+          "Python",
+          "Scikit-learn",
+          "Pandas",
+          "Matplotlib",
+          "anomaly detection"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "2020",
+        "company_name": "Stratquo",
+        "description": "Worked on a Market Basket Analysis project using the Apriori algorithm to mine transactional data, uncover frequent itemsets, and gain insights into consumer purchasing behaviors. The project focused on optimizing product placement and enhancing cross-selling strategies.Additionally,applied data analysis techniques to uncover the patterns,contributing to data-driven decision-making during this internship.",
+        "location": "Singapore",
+        "links": "",
+        "startDate": "2019"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Developed a spam email detection system using Logistic Regression, Random Forest, SVM, XGBoost, and Neural Networks. My work involved data preprocessing, feature engineering, and model evaluation using accuracy and F1 score, achieving superior results with Neural Networks and XGBoost.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "OOPs",
+      "DSA",
+      "Python",
+      "Java",
+      "SQL",
+      "C",
+      "OpenCV",
+      "machine learning models",
+      "Jupyter Notebook",
+      "VS code",
+      "google colab",
+      "cisco packet tracer",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Problem-solving",
+      "teamwork",
+      "communication",
+      "adaptable",
+      "thrives in dynamic environments"
+    ],
+    "name": "Poorvi Agarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded the Deans list for meritorious performance in Engineering exams in the 3rd,4th and 5th semester."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

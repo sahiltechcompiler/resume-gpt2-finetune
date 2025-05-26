@@ -1,0 +1,174 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Rama Rai",
+  "college": "NIET",
+  "locations": [
+    "Greater Noida ,UP",
+    "BARHALGANJ ,UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI Development",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NIET",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.TECH. IN CSE",
+        "location": "Greater Noida ,UP",
+        "ID": 0.0,
+        "grade_received": "CGPA : 7.55/10",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "ST JOSEPHS SCH",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "INTERMEDIATE",
+        "location": "BARHALGANJ ,UP",
+        "ID": 1.0,
+        "grade_received": "Percentage: 80.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "ST JOSEPHS SCH",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "HIGH SCHOOL",
+        "location": "BARHALGANJ ,UP",
+        "ID": 2.0,
+        "grade_received": "Percentage: 84%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Health Insurance Cost Prediction",
+        "description": "The Linear Regression Model to predict the insurance cost based on age, BMI, child number, the region of the person living, sex, and whether a client is smoking or not. These features contribute to our target variable prediction of insurance costs.",
+        "keywords": [],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mask Detection",
+        "description": "Detected a person is wearing mask or not using Haar Cascade Classifier algorithm with CNN model using OpenCV API. Successfully detected masked and unmasked faces in a photograph and in a video file.",
+        "keywords": [
+          "Linear Regression",
+          "Machine Learning"
+        ],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Personal Website",
+        "description": "Developed a read only Website with aim to explore about my education, skills, projects,etc. Implemented Using HTML,CSS JavaScript with Deployment via Github Webpages.",
+        "keywords": [
+          "Python",
+          "CV2",
+          "CNN"
+        ],
+        "endDate": "2021",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Snake Game",
+        "description": "Created Snake Game by Using Python.",
+        "keywords": [],
+        "endDate": "2021",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Organising Head Of GDSC Coding Club",
+        "skillsUsed": [],
+        "endDate": "2022",
+        "company_name": "",
+        "description": "Organises Multiple Coding Events Competition.",
+        "location": "",
+        "links": "",
+        "startDate": "NOW"
+      },
+      {
+        "role_name": "Basketball Captain",
+        "skillsUsed": [],
+        "endDate": "2021",
+        "company_name": "Basketball Sports Club",
+        "description": "Secure third place in District Competition.",
+        "location": "",
+        "links": "",
+        "startDate": "2018"
+      }
+    ],
+    "skills": [
+      "GNU/Linux",
+      "Windows",
+      "C/C++",
+      "Python",
+      "Html",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Webdevelopment",
+      "MySQL",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Rama Rai",
+    "position": "",
+    "interests": [
+      "Competitive Programming",
+      "Frontend Development",
+      "Backend Development"
+    ],
+    "achievements_and_awards": [
+      "2 Star at Codechef.",
+      "5 Star at CPP.",
+      "4 Star at Problem Solving."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.TECH. IN CSE"
+}

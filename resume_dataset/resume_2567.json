@@ -1,0 +1,202 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Arnov Paul",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA (Till 6th sem) : 8.66",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya No.1 Saltlake",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "Kolkata",
+        "ID": 1.0,
+        "grade_received": "Percentage : 86%",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya No.1 Saltlake",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Kolkata",
+        "ID": 2.0,
+        "grade_received": "Percentage : 88%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ViDoc (Virtual Doctor)",
+        "description": "Executed a solo project for Technological Business Hackathon 2.0 | AIESEC, advancing to the penultimate round. Designed and implemented a user-friendly website for the elderly population, emphasizing intuitive navigation and simplified interfaces; Github decreased user error rate by 40% and increased engagement by 50%, resulting in improved user satisfaction.",
+        "keywords": [
+          "HTML/CSS",
+          "Python",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Project DRISHTI",
+        "description": "Led the implementation of Project-Drishti, deploying Raspberry Pi, GPS, and webcams for real-time tracking, resulting in a 30% improvement in security through accurate monitoring of police personnel at crowded events. The project leverages IoT tools like Raspberry Pi, Python, Opencv, I2C, along with embedded systems (Neo-6m GPS, Mini-Mic, USB Web-Camera), and web technologies (HTML, CSS, JavaScript, Firebase, Google Maps). It achieves a 20% improvement in personnel position deviation detection through precise monitoring with OpenCV.",
+        "keywords": [
+          "Raspberry Pi-4",
+          "Python",
+          "OpenCV",
+          "HTML/CSS",
+          "API (Google Maps)",
+          "Firebase",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "DigiCLONE",
+        "description": "Developed a robust platform for simulating digital communication lab experiments, especially those involving hardware-based processes like companding, resulting in a 50% reduction in lab setup time for educational institutions. Built using the Flutter framework, the app ensures a seamless and interactive user experience on mobile devices.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Assistant",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Undergraduate Research Opportunity Program",
+        "description": "Spearheaded collaborative Quantum Electronics research project; utilized Silvaco and Nexnano tools for advanced modelling of high-frequency electronic devices, resulting in groundbreaking insights shaping future technological advancements.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov. 2023"
+      },
+      {
+        "role_name": "Research Assistant",
+        "skillsUsed": [],
+        "endDate": "Jan. 2024",
+        "company_name": "University Research",
+        "description": "Harnessed the Twitter API for real-time data in a machine learning project for the 2023 state elections in Rajasthan and Telangana. Achieved 70% accuracy in identifying fake accounts.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep. 2023"
+      },
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [],
+        "endDate": "Aug. 2023",
+        "company_name": "APSSDC",
+        "description": "Examined a years Seattle Airbnb trends using Python (NumPy, Pandas, Matplotlib, Seaborn). Identified customer patterns, preferences, and market dynamics, informing strategic decisions and enhancing market understanding.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun. 2023"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Dec. 2022",
+        "company_name": "OMACS",
+        "description": "Integrated Pixhawk and ArduPilot with AI/ML algorithms for leaf image processing in agricultural robotics. Enhanced plant health assessment accuracy by 25% and optimized crop management strategies.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun. 2022"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Java",
+      "Verilog",
+      "VHDL",
+      "HTML/CSS",
+      "Dart",
+      "I2C",
+      "SPI",
+      "UART",
+      "USB",
+      "CAN",
+      "TCP/IP",
+      "Bluetooth",
+      "WiFi",
+      "DBMS",
+      "Data Analysis",
+      "Machine Learning",
+      "Deep Learning",
+      "AI",
+      "App Development (Flutter)",
+      "Cadence Virtuoso",
+      "Cadence Genus",
+      "Cadence Innovus",
+      "Antenna/PCB Design (CST)",
+      "OpenCV",
+      "TensorFlow",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Scikit-Learn",
+      "SciPy",
+      "Seaborn",
+      "Selenium",
+      "Keras",
+      "Beautiful Soup",
+      "SQLAlchemy",
+      "Vivado",
+      "Next-Nano",
+      "Cadence",
+      "Silvaco",
+      "Git/GitHub",
+      "VS Code",
+      "IntelliJ",
+      "MATLAB",
+      "CST"
+    ],
+    "soft_skills": [
+      "Logical Thinking",
+      "Leadership",
+      "Public Speaking",
+      "Collaboration",
+      "Quick Learning"
+    ],
+    "name": "Arnov Paul",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Technological Business Hackathon 2.0 AIESEC, Semi-Finalist.",
+      "CSNT24, IEEE Conference, for research paper on Machine Learning.",
+      "ICCCNT24, IIT Mandi, IEEE Conference, for research paper on Natural Language Processing."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 4.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,147 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "BHANUPRIYA M",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Cloud Computing Certification - Elite + Silver",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CISCO - CCNA 1, CCNA 2, Cybersecurity Essentials, Introduction to Packet Tracer",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM - Introduction to Web Development with HTML, CSS & Javascript",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "CGPA - 9.4",
+        "field_of_study": "Computer Science and Business Systems",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "QueryPDF",
+        "description": "Engineered AI-Powered PDF Inquiry System that transforms PDF content into accurate, context-driven answers. Implemented using RAG,Streamlit, PyPDF2, langchain, langchain_google_genai, FAISS and googleapiclient. Added YouTube search to improve learning by 85%, with videos based on user queries for deeper comprehension.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Customer Segmentation",
+        "description": "Conducted detailed customer segmentation analysis on a mall dataset using K-Means, revealing customer clusters. Derived insights from cluster profiles, with 75% of customers falling into clusters with moderate to high spending. Focused on identifying high-yield clusters to devise targeted marketing strategies, ensuring maximum impact.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ActiveAura",
+        "description": "Developed a MERN fitness app with user authentication, generating tokens for secure navigation to dashboard. Implemented comprehensive dashboards for tracking, adding, and categorizing weekly and daily fitness workouts. Included an intuitive and interactive workouts page with search and date options, boosting engagement by 35%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "2023 Sep",
+        "company_name": "Nuratech Consultancy Services Private Limited",
+        "description": "Developed a website for video emotion detection system utilizing OpenCV, Deepface and Haarcascade classifier. Implemented features such as emotion detection,dominant emotion,timestamps and efficient MySQL data storage. Achieved 76% emotion accuracy, debugged for real-time processing and enabling downloading of detected videos.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "2023 Jun"
+      },
+      {
+        "role_name": "Front End Developer Intern",
+        "skillsUsed": [],
+        "endDate": "2022 Nov",
+        "company_name": "IBM SkillsBuild Program",
+        "description": "Crafted a responsive portfolio site using HTML, CSS and JavaScript featuring skills, projects and achievements. Implemented fluid layouts and media queries to ensure adaptability across various devices and screen sizes. Leveraged CSS frameworks like Bootstrap and Flexbox to streamline the design process and maintain consistency.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "2022 Sep"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "Streamlit",
+      "Computer Vision",
+      "Prompt Engineering",
+      "LLM",
+      "Langchain",
+      "Data Analysis",
+      "React JS",
+      "Express JS",
+      "Node JS",
+      "MySQL",
+      "MongoDB",
+      "UI/UX Design",
+      "Git",
+      "Github",
+      "MS Excel",
+      "AWS",
+      "VS Code",
+      "Juptyer"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Teamwork",
+      "Communication",
+      "Time Management",
+      "Adaptability",
+      "Determination"
+    ],
+    "name": "BHANUPRIYA M",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "IEEE EmotionTracker: Real-time Facial Emotion Detection with OpenCV and DeepFace"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

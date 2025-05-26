@@ -1,0 +1,132 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "KARMA SONI",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Vadodara, India",
+    "Bangalore, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "10.0",
+        "degree": "BTech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.42 / 10.0",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "BrailleBEE",
+        "description": "Built a userfriendly solution that can extract and process text and images from scanned academic textbooks and convert them into braille ready format with contextual descriptions for visually challenged students. Implemented a robust WebApp architecture supporting multiple PDF uploads and processing, multilingual capabilities, Bcrypt security, and digital inclusivity features. Integrated a Node application with a Python engine to achieve a processing time of 30 seconds for a 10page PDF. Provided users with output options including download and viewing of the generated document file. Leveraged technologies such as the MERN stack, Layout Parser, Tesseract, Hugging Face, OpenCV, and Salesforce IMC.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI Smart Board",
+        "description": "A virtual whiteboard platform leveraging hand gesture recognition technology to enhance remote collaboration and learning experiences. Integration of hand gesture recognition into the platform, allowing users to intuitively draw, erase, and manipulate content with simple gestures, revolutionizing traditional whiteboard interactions. Integrated a Personal Voice Assistant, enabling intuitive navigation and control through natural language commands, enhancing accessibility and user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Dynamic Expense Sharing Application - Convin Project",
+        "description": "Developed Django based application with PostgreSQL, handling user management, authentication and dynamic expense splitting methods among different users. Implemented and documented secure RESTful APIs: Facilitated user and expense management with features like dynamic balance sheet generation. Optimized data handling: Utilized streaming responses for large datasets and wrote comprehensive test cases to ensure application reliability.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "ALOIS Solutions",
+        "description": "Implemented License and Permission Module for ESS portal catering to a user base of over 5000 employees within the company. Strategically orchestrated and optimized various modules, resulting in a notable 50 percent reduction in Website Loading time. Developed and rigorously tested APIs using Postman, with a focus on utilizing MongoDB technology for robust database architecture. Undertook a personal assignment to conduct Accessibility Research for software products and user interfaces (UI/UX). Conducted comprehensive testing to ensure compliance with accessibility standards and guidelines.",
+        "location": "Vadodara, India",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Frontend Developer Trainee",
+        "skillsUsed": [],
+        "endDate": "Feb 2023",
+        "company_name": "Safcurl (Startup)",
+        "description": "Completed weekly tasks given and contributed to the Production code via Git and Github. Implemented JWT and Cookiebased authentication for seamless security across frontend and backend systems. Eiciently resolved Jira Scrum tickets while fostering clear communication and collaboration within the team.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "July 2022"
+      },
+      {
+        "role_name": "Freelancer",
+        "skillsUsed": [],
+        "endDate": "January 2024",
+        "company_name": "Instinkt and Cavalo",
+        "description": "Developed Instinkt.in and Cavalo.in, two freelance web projects for IT services Startup. Developed Frontend and Integrated advanced animations using Framer Motion, GSAP, and anime.js for enhanced user engagement along with SEO. Managed endtoend deployment for Instinkt, including domain purchase and GitHub repository connection, ensuring seamless online presence.",
+        "location": "",
+        "links": "",
+        "startDate": "October 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "JavaScript",
+      "Python",
+      "Java",
+      "Typescript",
+      "Visual Basic(.NET)",
+      "SQL",
+      "Machine Learning",
+      "Git",
+      "Github",
+      "Linux",
+      "Rest APIs",
+      "Docker",
+      "Vagrant",
+      "AWS",
+      "Firebase",
+      "Software Development",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "Django",
+      "MongoDB",
+      "PostgreSQL",
+      "Flask",
+      "Pandas",
+      "Numpy",
+      "Tensorflow",
+      "Matplotlib"
+    ],
+    "soft_skills": [],
+    "name": "KARMA SONI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winner(ACM HACKS Hackathon)",
+      "Winner(IEEE Hackathon)",
+      "In Top 100 among 2500 for DELL Hackathon"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "BTech"
+}

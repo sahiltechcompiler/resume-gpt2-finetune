@@ -1,0 +1,111 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "HARSHIT SHARMA",
+  "college": "Guru Gobind Singh Indraprashta University",
+  "locations": [],
+  "full_output": {
+    "summary": "I am a passionate and self-motivated individual with a burning enthusiasm for software development. While I may not have formal experience in the industry, my journey into the world of programming has been defined by a series of hands-on projects and a relentless drive to learn and grow.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprashta University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.93",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Montfort School Sr. Sec. School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "95%",
+        "field_of_study": "Non-med , Science Stream",
+        "startDate": "2009"
+      }
+    ],
+    "projects": [
+      {
+        "name": "time threats Antivirus",
+        "description": "Developed a basic antivirus for scanning against real",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Keylogger",
+        "description": "Python script to record keystrokes of target",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Snake game",
+        "description": "A basic snake game in python",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Backdoor",
+        "description": "Python script for creating a backdoor after exploitation for easy access",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Member",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "GDSC CYBERSECURITY TEAM",
+        "description": "-Participated in a lot of CTFs(TryHackMe)\n-Went to a lot of meets(nullcommunity ,BSide)\n-Taught juniors new skills and techniques(OSINT,Google dorking)",
+        "location": "",
+        "links": "",
+        "startDate": "2023"
+      },
+      {
+        "role_name": "Member",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "GDSC WEBDEV TEAM",
+        "description": "-Worked on a lot of projects\n-Participated in flutter, hack7days events and designed a crypto Faucet.\n-Lead a successful hackathon as a lead and mentor",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "Google Professional Cybersecurity Certification",
+      "Python",
+      "DSA",
+      "Problem Solving",
+      "Django",
+      "Penetration Testing"
+    ],
+    "soft_skills": [],
+    "name": "HARSHIT SHARMA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

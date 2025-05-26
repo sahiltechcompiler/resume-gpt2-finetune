@@ -1,0 +1,127 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Deepak Kumar",
+  "college": "KIET Group Of Institutions(AKTU)",
+  "locations": [
+    "Ghaziabad",
+    "Azamgarh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions(AKTU)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA : 9.0",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Children Senior Secondary School(CBSE)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Grade : 9CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CryptoPulse",
+        "description": "Developed and implemented robust real-time tracking algorithms for cryptocurrency prices, ensuring accuracy and reliability in the CryptoTracker app. Designed intuitive user interface features, facilitating seamless navigation and enhancing user experience, resulting in increased engagement and positive feedback. Utilized Chart.js library to create dynamic graphs showing how cryptocurrency prices changed last month, making it easier to understand the data.",
+        "keywords": [
+          "React.js",
+          "Javascript",
+          "API",
+          "Chart.js"
+        ],
+        "endDate": "March 2024",
+        "startDate": "February 2024",
+        "url": "Live"
+      },
+      {
+        "name": "Quiz Game",
+        "description": "Applied adaptive design methodologies within React.js, ensuring a flawless user experience across diverse devices, enhancing accessibility and usability. Implemented API calls to fetch quiz questions and answers from an external database. Engineered a comprehensive scoring system within the React.js based quiz application, enabling precise and real-time evaluation of user performance, fostering engagement and providing immediate feedback upon completion.",
+        "keywords": [
+          "HTML",
+          "CSS3",
+          "React.js",
+          "API"
+        ],
+        "endDate": "Oct 2023",
+        "startDate": "",
+        "url": "Live"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "June 2025",
+        "company_name": "IBM SkillsBuilds",
+        "description": "Developed and optimized responsive website layouts using HTML, CSS, and JavaScript, resulting in a seamless user experience across many devices and screen sizes. Created and maintained efficient code repositories on Git, enabling seamless version control. Initiated the design of intuitive interfaces, guaranteeing effortless navigation and enriched user interaction across various web applications.",
+        "location": "Ghaziabad",
+        "links": "",
+        "startDate": "Nov 2021"
+      },
+      {
+        "role_name": "Frontend Development Intern",
+        "skillsUsed": [],
+        "endDate": "March 2023",
+        "company_name": "Oasis Infobyte",
+        "description": "Designed and developed responsive web applications using HTML, CSS, and JavaScript to meet client requirements. Integrated third-party APIs and libraries to enhance the functionality and features of web applications. Spearheaded the development of user-friendly interfaces, ensuring smooth navigation and enhanced user experience on web applications.",
+        "location": "",
+        "links": "",
+        "startDate": "February 2023"
+      }
+    ],
+    "skills": [
+      "Data Structures and Algorithms",
+      "Operating System",
+      "DBMS",
+      "OOPS",
+      "SQL",
+      "Java",
+      "Python",
+      "C",
+      "C++",
+      "HTML",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Cascading Style Sheets",
+      "VS Code",
+      "Git & Github",
+      "MySql",
+      "Eclipse IDE"
+    ],
+    "soft_skills": [],
+    "name": "Deepak Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Coding Ninjas , KICCS-D-HACK 23.5 Round 16 First Rank Holder at Departmental Level",
+      "Secured AIR 30 in CODE COMBAT 3.0",
+      "Attained 4th place in Departmental rankings for academic performance.",
+      "LeetCode : Max Rating: 1532* | Solved over 300+ problems",
+      "GFG : College Rank :12* | Solved over 400+ problems",
+      "Codeforces : Solved over 150+ problems"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,104 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Hitin Sharma",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, Uttar Pradesh",
+    "Bulandshahr, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "80.4%",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2022"
+      },
+      {
+        "school": "Galgotias University",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Greater Noida, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "91.8%",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Nirmala Convent School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "CBSE, Class X",
+        "location": "Bulandshahr, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "83.3%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "-Sphere (Online Exam Portal)",
+        "description": "-Sphere, a online proctoring solution meticulously developed using HTML, CSS, JavaScript, PHP and MySQL. This dynamic platform is engineered to revolutionize online assessments by integrating robust security measures with user-friendly functionality.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "- (Food Waste Management System)",
+        "description": "Developed a dynamic and user-friendly web application to facilitate food donations using a tech stack comprising HTML, CSS, JavaScript, PHP, and SQL. The platform aims to connect donors with surplus food to local charities and organizations, ensuring a streamlined and efficient process for food redistribution.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cloud Intern",
+        "skillsUsed": [],
+        "endDate": "11 2023",
+        "company_name": "AICTE",
+        "description": "Hands-on experience with Amazon AWS. Implemented secure AWS configurations for infrastructure. Designed and deployed scalable cloud architectures. Ensured cloud security through best practices. Automated infrastructure provisioning using AWS CloudFormation. Configured and managed Virtual Private Clouds (VPCs) for network security. Applied DevOps practices to streamline deployments and enhance efficiency.",
+        "location": "Greater Noida, Uttar Pradesh",
+        "links": "",
+        "startDate": "09 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Data Structures & Algorithms",
+      "OOPS Concept",
+      "Web Development",
+      "Cloud Computing",
+      "Database Management System (DBMS)"
+    ],
+    "soft_skills": [],
+    "name": "Hitin Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded silver medal issued by Galgotias University for being the branch topper in diploma with 9.18 CGPA.",
+      "Secured 1st rank in website development competition during college tech fest.",
+      "Secured 1st rank in Tech Quiz Competition during college tech fest.",
+      "Solved 150+ coding problems on leetcode, GFG overall."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

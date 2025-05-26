@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sachin Kumar",
+  "college": "Motilal Nehru National Institute of Technology Allahabad",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Department Coordinator at Student Mentorship Program (SMP MNNIT)",
+      "Coordinator at Anokhi Pehel (NGO)",
+      "Hostel President at Hostel Committee"
+    ],
+    "education": [
+      {
+        "school": "Motilal Nehru National Institute of Technology Allahabad",
+        "endDate": "Expected May 2025",
+        "maximum_grade": "Percentage: 91.2",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CPI: 7.27 (till 6th sem)",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "M.D.J. Public School, Arrah",
+        "endDate": "2018 - 2020",
+        "maximum_grade": "",
+        "degree": "Class - XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "EduFlex",
+        "description": "Developed a secure platform facilitating financial education with features like users can discover, purchase, and enroll in a wide range of courses on various subjects and skill levels. Instructors can easily create, publish, and manage their courses, while learners can access course materials and track their progress seamlessly.",
+        "keywords": [
+          "MongoDB",
+          "ExpressJS",
+          "ReactJS",
+          "NodeJS",
+          "CSS",
+          "APIs",
+          "Material-UI"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Hostel Management system",
+        "description": "Created a comprehensive web application for hostel management, featuring secure user authentication, a robust complaint management system with voting and commenting, user moderation, and detailed financial management and analysis tools.",
+        "keywords": [
+          "MongoDB",
+          "ExpressJS",
+          "ReactJS",
+          "NodeJS",
+          "CSS"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Godel Numbering-Based Encryption/Decryption Algorithm",
+        "description": "Fast Encryption/Decryption: Can handle strings up to 1 million characters in less than a second. Prime Number Based Encoding: Utilizes prime numbers and Godel Numbering for unique character encoding. Diffie-Hellman Key Exchange: Secure key exchange using Diffie-Hellman for generating encryption keys. Buffer String for Security: Adds buffer strings to encrypted text for additional security and randomness.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "July 2024",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [
+          "Next.js",
+          "PostgreSQL",
+          "React.js",
+          "React Flow",
+          "Strapi CMS",
+          "Supabase",
+          "Apache Airflow"
+        ],
+        "endDate": "May-June 2024",
+        "company_name": "Autonmis.com",
+        "description": "Developed a React Flow-based financial data visualizer for 100+ tables, improving data access and query optimization. Built and managed data pipelines and automated task scheduling for 10+ workflows with Apache Airflow and Supabase, enhancing efficiency and generating automated MIS and scheduled reports. Integrated Role-Based Access Control (RBAC) for 100+ users, developed downloadable financial reports, and enhanced frontend user experience, achieving scalability and user engagement. Implemented content management with Strapi CMS, resulting in 50+ articles to enhance content strategy and audience engagement.",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "ReactJs",
+      "NodeJs",
+      "ExpressJs",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Data structure and Algorithm",
+      "OOPS",
+      "Operating System",
+      "DBMS",
+      "Visual Studio Code",
+      "Git/Github",
+      "Figma",
+      "MongoDb",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Sachin Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured Global Rank 137 among 10k+ participants in Starters 128 at Codechef",
+      "Max. Contest Rating of 1827 on Leetcode",
+      "Max. Rating of 1729 (3*) on Codechef",
+      "Max. Rating of 1295 (Pupil) on Codeforces",
+      "3rd Position in Code of the day event, Avishkar 2023 (A week long event related to DSA Problem Solution)",
+      "3rd Position in Quintathalon, Avishkar 2022 (A placement process simulation event with tests and interviews)",
+      "Qualified NSEJS 2018 (Stage 1 for the International Junior Science Olympiad, Organized by IAPT)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

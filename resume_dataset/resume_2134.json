@@ -1,0 +1,148 @@
+{
+  "project_count": 2.0,
+  "designation": "Java Programming Intern",
+  "name": "Shahbaz Shahid",
+  "college": "Noida Institute Of Engineering and Technology,AKTU",
+  "locations": [
+    "Gr. Noida, India",
+    "Patna, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Coursera",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Speak English Professionally: In Person, Online and on the Phone",
+        "issuer": "Georgia Institute of Technology",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Coursera",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundations: Data, Data, Everywhere",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Coursera",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ask Questions to Make Data-Driven Decisions",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Coursera",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Prepare Data for Exploration",
+        "issuer": "Google",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute Of Engineering and Technology,AKTU",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "M.C.A(Master of Computer Applications)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.96 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Anugrah Naryan College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.C.A(Bachelor of Computer Applications)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "66.9",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sky View (Weather Forecasting Application)",
+        "description": "Developed a Java-based weather application fetching real-time weather data via the OpenWeatherMap API. Designed a user-friendly GUI using HTML snd CSS for easy interaction and data visualization. Utilized JSON.simple for JSON parsing and HttpURLConnection for HTTP requests.",
+        "keywords": [
+          "Servlet",
+          "JSP",
+          "OpenWeatherMAPAPI",
+          "HTML",
+          "CSS",
+          "Tomcat Server"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "To-Do-List",
+        "description": "Developed a Java-based To-Do List application to help users manage tasks efficiently with features for creating, updating, and deleting tasks. Allows users to create, read, update, and delete (CRUD) tasks. Ensured data persistence using JDBC for database storage, enabling task data to be saved between sessions.",
+        "keywords": [
+          "Java",
+          "JDBC",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Java Programming Intern",
+        "skillsUsed": [
+          "Java",
+          "MySQL",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "April 2024",
+        "company_name": "CodSoft",
+        "description": "Gained hands-on experience in Java, MySQL, HTML, and CSS during the internship at Codsoft. Successfully applied Java programming techniques to solve real-world software challenges through projects like Student Management System,Currency Converter and ATM interface demonstrating practical skills in the field.",
+        "location": "Gr. Noida, India",
+        "links": "",
+        "startDate": "2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "OOPs Concept",
+      "JavaScript",
+      "MySQL",
+      "JDBC",
+      "JSP and Servlet",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "VS Code",
+      "Eclipse IDE",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Shahbaz Shahid",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "M.C.A(Master of Computer Applications)"
+}

@@ -1,0 +1,139 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SHRESTH GUPTA",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "New Delhi, India",
+    "Rohini, Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Rohini, Delhi",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Sachdeva Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "95.6% (Class XII) and 95.4% (Class X)",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Estate Mania",
+        "description": "Estate Mania helps you to search for properties based on your customizations by adding filters and list your own idle ones for sale or rent. Added authorization using JWT Tokens and Firebase for Google O-auth. Used technologies like ReactJs, ExpressJs, NodeJs, and MongoDb, this web app has other functionalities such as sharing the listing link, contacting the landlord through mail etc. Used Provider for state management in Redux, ensuring efficient and scalable application state handling.",
+        "keywords": [
+          "ReactJS",
+          "ExpressJS",
+          "NodeJS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Picbuzz Glimpse",
+        "description": "Conceptualized, designed, and developed a comprehensive social media platform lets you share your posts and experiences with the world. Homepage Feed: A scrollable user feed displaying posts with images, captions and like/comment functionalities. User Profiles: Display posts, followers & following count and switch between public/private profile modes. Explore: Explore popular content with the engaging feature of Infinite Scrolling implemented using AJAX request. Integrated robust authentication and authorization mechanisms to safeguard user privacy and data security using PassportJs.",
+        "keywords": [
+          "HandleBars",
+          "JavaScript",
+          "MongoDb Atlas",
+          "ExpressJs",
+          "NodeJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Writify",
+        "description": "Writify enables you to share your experiences, and thoughts with the world in the form of blogs and also explore various topics filtered to your needs. Implemented theme switching options for users to have a personalized experience. Used tech stacks such as ReactJs, ExpressJs, NodeJs, MongoDB, FireBase, Tailwind CSS.",
+        "keywords": [
+          "ReactJS",
+          "ExpressJS",
+          "NodeJS",
+          "MongoDB",
+          "FireBase",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Groupy Chat",
+        "description": "The project enables real-time communication between multiple users by establishing a persistent connection between the server and clients using Socket.IO, HTML-CSS, JavaScript, ExpressJs, NodeJs.",
+        "keywords": [
+          "Socket.IO",
+          "HTML-CSS",
+          "JavaScript",
+          "ExpressJs",
+          "NodeJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Teaching Assistant Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 23",
+        "company_name": "Coding Blocks",
+        "description": "Guided 70+ students through queries and doubt resolution and engaged in analyzing patterns for solving a diverse range of C++ DSA problems.",
+        "location": "",
+        "links": "",
+        "startDate": "Sept"
+      }
+    ],
+    "skills": [
+      "Data Structures and Algorithms (C++)",
+      "OOPs",
+      "ReactJS",
+      "Tailwind-CSS",
+      "JavaScript",
+      "HandleBars(HBS)",
+      "NodeJS",
+      "ExpressJS",
+      "MongoDB",
+      "FireBase",
+      "SQL",
+      "DBMS"
+    ],
+    "soft_skills": [],
+    "name": "SHRESTH GUPTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Knight at LeetCode, rated 1885+ placed among top 4.9% users.",
+      "Ranked 734 out of 25000+ participants in LeetCode weekly Contest 388 and 1343 in Codeforces round 946.",
+      "Solved 750+ problems on LeetCode and various other Coding platforms.",
+      "Selected among top 5 teams in the preliminary round of Smart India Hackathon23"
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

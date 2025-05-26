@@ -1,0 +1,147 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "PRINCE KESARWANI",
+  "college": "Shah and Anchor kutchhi Engineering college",
+  "locations": [
+    "Mumbai India",
+    "India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor kutchhi Engineering college",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Electronic and Computer Science",
+        "location": "Mumbai India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.44 (till sem 7)",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "BNN College",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "HSC (Class XII)",
+        "location": "India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 65.85%",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Kakatiya High School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "SSC (Class X)",
+        "location": "India",
+        "ID": 2.0,
+        "grade_received": "Percentage: 83%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Outbreak Prediction of Disease Using Machine Learning",
+        "description": "Developed a machine learning model to predict disease outbreaks like COVID-19, aiding authorities in proactive decision-making to mitigate the impact. Built a dashboard to visualize predictions and display overall outbreak conditions, including total cases, recoveries, and deaths.",
+        "keywords": [
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "Power BI",
+          "SQL",
+          "Azure Cloud"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Management System (Terminal-based)",
+        "description": "Developed a C++ application for efficient library resource management. Applied Object-Oriented Programming (OOP) concepts like classes and inheritance. Designed user-friendly terminal interface for staff tasks. Utilized file handling and exception handling for robustness.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Doodle Classifier Using ML5.js Library",
+        "description": "Implemented a Doodle Classifier using ML5.js to recognize and classify hand-drawn sketches. Integrated the classifier into games, educational tools, and drawing apps to enhance user creativity.",
+        "keywords": [
+          "VS Code",
+          "ML5.js",
+          "p5.js",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [
+          "SQL",
+          "Python",
+          "Power BI",
+          "MS Excel"
+        ],
+        "endDate": "",
+        "company_name": "Trainity",
+        "description": "Implemented projects including Instagram user analytics, hiring process analytics, and IMDB movie analysis. Utilized SQL, Python, Power BI, and MS Excel for data processing and visualization. Enhanced skills in data analytics, machine learning, and dashboard creation.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "company_name": "Vlab SAKEC, Mumbai",
+        "description": "Developed a frontend application using HTML, CSS, and JavaScript. Implemented a user-friendly simulation solution for electrical subjects on the website. Achieved substantial user engagement with over 2,000 active users.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "Machine Learning",
+      "Data Analytics",
+      "Web Development",
+      "MongoDB",
+      "PowerBI",
+      "MySQL",
+      "Git / Github"
+    ],
+    "soft_skills": [],
+    "name": "PRINCE KESARWANI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Sports (Cricket, Badminton)",
+      "Hobbies (Chess, Drawing, Traveling, Content Creation)",
+      "Certifications (Red Hat Linux - Paritech, Coding Ninja Competition, Google Unlocked - Digital Marketing, Competitive Coding with Data Structures - IIT Kanpur)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Electronic and Computer Science"
+}

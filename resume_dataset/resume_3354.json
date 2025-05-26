@@ -1,0 +1,113 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Chakradhar Kotagiri",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur , Rajasthan"
+  ],
+  "full_output": {
+    "summary": "Highly motivated and detail-oriented individual with a passion for continuous learning and a strong interest in software development. Adapt at quickly acquiring new skills and staying abreast of emerging technologies. Proven ability to tackle challenging problems and contribute effectively in collaborative team environments. Demonstrates a genuine enthusiasm for staying up-to-date with industry trends and adopting innovative approaches to problem-solving.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Object-Oriented Programming with Java",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Structured Query Language (SQL)",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur , Rajasthan",
+        "ID": 0.0,
+        "grade_received": "7.94",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Tripguide MERN App",
+        "description": "Successfully designed and developed a dynamic platform for users to showcase their travel memories through Images. Leveraged Google Geoencoding API to facilitate precise mapping of text location data shared by users. Implemented robust custom hooks and reducers to ensure superior form control and input validation, resulting in an enhanced user experience. Employed JWT authentication to deliver secure and seamless authorization procedures for users. Accomplished direct image uploading to local backend storage through Multer, enabling users to upload and share their pictures. Created a comprehensive RESTful API capable of performing all CRUD operations, elevating the platform's overall functionality and usability.",
+        "keywords": [],
+        "endDate": "June 2024",
+        "startDate": "May 2024",
+        "url": "tripguide-mern.netlify.app"
+      },
+      {
+        "name": "To do list",
+        "description": "Experience seamless task management with meticulously crafted to-do list built entirely using ReactJS. Effortlessly add new tasks with a user-friendly interface. Streamline organization by deleting completed tasks with a single click. Enjoy smooth navigation and responsiveness thanks to ReactJS's dynamic capabilities. Stay on top of your daily agenda with ease, empowering you to accomplish more efficiently.",
+        "keywords": [],
+        "endDate": "January 2024",
+        "startDate": "December 2023",
+        "url": "todo-react8783.netlify.app"
+      },
+      {
+        "name": "Calculator",
+        "description": "Created a sleek and functional calculator using HTML for the structure, CSS for a visually appealing design, and JavaScript to implement the interactive logic. Utilize JavaScript functions to handle arithmetic operations, creating a dynamic calculator that enhances both form and function on the web.",
+        "keywords": [],
+        "endDate": "December 2023",
+        "startDate": "November 2023",
+        "url": "chakradharkotagiri.github.io/Calculator/"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Gail",
+        "description": "Developed a client application for managing the company's IO portal. Enhanced customer experience by enabling real-time status updates and new order requests. Revamped the website's CSS to deliver an improved and more intuitive user interface. Implemented a feedback system allowing customers to review and rate the service received. Successfully met design and functionality requirements, signicantly boosting user satisfaction and operational efficiency.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "TailwindCSS",
+      "Bootstrap",
+      "ExpressJS",
+      "NodeJS",
+      "MongoDB",
+      "Git",
+      "Github",
+      "VS Code",
+      "StarUml",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "Chakradhar Kotagiri",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

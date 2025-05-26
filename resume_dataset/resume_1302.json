@@ -1,0 +1,180 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Abhishek Verma",
+  "college": "KIET Group of Institutions, AKTU University",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate",
+        "skillsLearned": [],
+        "title": "Programming Pathshala workshop",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate - AWS Academy Cloud Architecting",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate",
+        "skillsLearned": [],
+        "title": "Machine Learning Foundations: Probability",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate",
+        "skillsLearned": [],
+        "title": "Fundamentals of Dynamic Programming",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate",
+        "skillsLearned": [],
+        "title": "Python Data Structures by Charles Russell Severance",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions, AKTU University",
+        "endDate": "Jun. 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "SGPA: 8.228/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Mukularanyam English School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 90%",
+        "field_of_study": "PCM",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Video Transcripter",
+        "description": "Achieved a transcription accuracy rate of over 95%, resulting in a significant reduction in manual transcription time by 70% for users. Implemented efficient algorithms resulting in an average transcription speed of 200 words per minute, enhancing productivity and workflow efficiency.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Flask",
+          "OpenAI (Whisper)"
+        ],
+        "endDate": "Dec. 2023",
+        "startDate": "Nov. 2023",
+        "url": ""
+      },
+      {
+        "name": "Finance Tracker",
+        "description": "Built a finance tracker website with MERN stack for income, expense, and budget management. Enhanced user experience with real-time stock & crypto data feeds for informed investment decisions. Boosted user engagement by 5% through intuitive design and data visualization tools. Prioritized security by implementing best practices for data protection.",
+        "keywords": [
+          "MongoDB",
+          "Express",
+          "React",
+          "Node.js"
+        ],
+        "endDate": "July. 2024",
+        "startDate": "May. 2024",
+        "url": ""
+      },
+      {
+        "name": "DyslexiLens",
+        "description": "Led the development of a machine learning model using Python to identify potential reading and writing disabilities. Achieved an impressive 85% accuracy in predicting disabilities, significantly reducing false positives by 20% through data analysis and algorithm optimization. Analyzed a dataset of 2000 samples to identify key features indicative of reading/writing disabilities, informing model development.",
+        "keywords": [
+          "Flask",
+          "Mern Stack",
+          "Machine Learning"
+        ],
+        "endDate": "Present",
+        "startDate": "Feb. 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Coordinator at NSCC KIET CLUB (Data Structures & Algorithms)",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "KIET GROUP OF INSTITUTIONS",
+        "description": "Successfully instructed Data Structures & Algorithms at NSCC KIET CLUB, helping over 200 students gain the programming skills to thrive in their coding journeys.",
+        "location": "Ghaziabad",
+        "links": "",
+        "startDate": "Nov. 2022"
+      },
+      {
+        "role_name": "Virtual Internship for Python",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "",
+        "company_name": "Code Alpha",
+        "description": "Developed Language Translation Application & Built Currency Converter Tool. Enhanced Python Programming Skills.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "SQL",
+      "JavaScript",
+      "HTML/CSS",
+      "Node.js",
+      "Flask",
+      "Tailwind CSS",
+      "Git",
+      "VS Code",
+      "Visual Studio",
+      "PyCharm",
+      "IntelliJ",
+      "React"
+    ],
+    "soft_skills": [],
+    "name": "Abhishek Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Successfully solved 500+ problems on LeetCode.",
+      "Achieved a 2-star coding status on CodeChef, Highest Rating: 1426.",
+      "Secured Rank 2189 in TCS Codevita Season 11."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

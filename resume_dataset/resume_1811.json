@@ -1,0 +1,167 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Sourabh Singh Rawat",
+  "college": "Guru Tegh Bahadur Institute Of Technology",
+  "locations": [
+    "New Delhi, India",
+    "Gurugram, Haryana"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "2 month Online course on Data Science, teaching fundamentals of data science offered by IIT Madras",
+        "skillsLearned": [],
+        "title": "Data Science For Engineers",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "3 month online course on Python, offered by IIT Madras. Secured Silver Medal",
+        "skillsLearned": [],
+        "title": "The Joy of Computing using Python",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute Of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "GPA: 9.23",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "The Pine Crest School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Non Medical",
+        "location": "Gurugram, Haryana",
+        "ID": 1.0,
+        "grade_received": "GPA: 8.71",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chat Application",
+        "description": "Developed a real-time chat application utilizing MERN stack. Implemented Socket.io for real-time communication, enabling seamless and instantaneous messaging between users. Search functionality to search for a specific user. Handling 20+ concurrent users simultaneously.",
+        "keywords": [
+          "React",
+          "Tailwind CSS",
+          "Express",
+          "NodeJS",
+          "MongoDB",
+          "Socket.io"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Live"
+      },
+      {
+        "name": "VidTube Backend",
+        "description": "Developed backend for a Video Streaming Platform. leveraging JWT and Cookies, implemented user authentication. Implemented different routes for tracking Likes, Subscribers, Comments, Discussions. Used MongoDB Aggregation to join different documents. Videos and Images Storage using Cloudinary. Tested APIs using Postman.",
+        "keywords": [
+          "NodeJs",
+          "ExpressJs",
+          "MongoDb",
+          "Postman"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Youtube UI Clone",
+        "description": "Developed youtube clone using React, Tailwind CSS, MaterialUI. This clone replicates core functionalities of YouTube, offering features such as video playback, search capabilities to search for desired video. and a responsive user interface. Leveraged Youtube API to collect Video Details.",
+        "keywords": [
+          "React",
+          "Tailwind CSS",
+          "MaterialUI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Live"
+      },
+      {
+        "name": "JobsFound",
+        "description": "Developed a Web Application for different startups and companies to hire new talents. This web app helps freshers to apply for different job roles easily. Implemented the concept of React-Router for smooth transition between different pages.",
+        "keywords": [
+          "React",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Live"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer (Intern)",
+        "skillsUsed": [
+          "Angular",
+          "TypeScript",
+          "FastApi",
+          "MongoDB"
+        ],
+        "endDate": "Dec 2023",
+        "company_name": "DRDO",
+        "description": "Contributed to the development of a chatbot for DRDOs training website. Designed and implemented key features to enhance user interaction. Developed APIs to connect and save login, sign-up credentials to Backend server.",
+        "location": "Gurugram, Haryana",
+        "links": "",
+        "startDate": "Nov 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "TypeScript",
+      "C++",
+      "SQL",
+      "MongoDb",
+      "NodeJs",
+      "GIT",
+      "MySQL",
+      "Postman",
+      "React",
+      "Angular",
+      "Express",
+      "Tailwind CSS"
+    ],
+    "soft_skills": [
+      "Team Player",
+      "Self Motivated",
+      "Quick Learner",
+      "Problem Solving",
+      "Time Management"
+    ],
+    "name": "Sourabh Singh Rawat",
+    "position": "",
+    "interests": [
+      "Software Development",
+      "Fullstack Development"
+    ],
+    "achievements_and_awards": [
+      "Secured a top 30 spot out of 700+ teams in WIEHACK 5.0, a 36-hour hackathon."
+    ],
+    "publications": []
+  },
+  "current_location": "Gurugram, Haryana",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

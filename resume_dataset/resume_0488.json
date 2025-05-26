@@ -1,0 +1,150 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Saran P",
+  "college": "St Josephs College Of Engineering",
+  "locations": [
+    "Chennai, Tamil Nadu",
+    "Dindigul, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "St Josephs College Of Engineering",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.7(till 6th sem)",
+        "field_of_study": "EEE",
+        "startDate": ""
+      },
+      {
+        "school": "Cheran Vidhyalaya Matric Hr Sec School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "HSC",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "score - 87.5",
+        "field_of_study": "Maths Biology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Ordering Website",
+        "description": "Developed an online food ordering website with an admin panel providing users with a seamless ordering experience and comprehensive administrative control. Enhanced user experience and streamlined backend operations, ensuring efficient order management and data integrity.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "Postgresql",
+          "React js",
+          "Tailwindcss"
+        ],
+        "endDate": "ongoing",
+        "startDate": "July 2024",
+        "url": "https://github.com/SARAN1231/Food-Ordering-Website"
+      },
+      {
+        "name": "Personal Finance Tracker",
+        "description": "Developed a Personal Finance Tracker app with React, Chart.js, and CSS, providing users with an interactive dashboard to visualize income vs. expenses and track recent transactions, enhancing financial awareness and management.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "Postgresql",
+          "React js",
+          "Bootstrap"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": "https://github.com/SARAN1231/Personal-Finance-Tracker"
+      },
+      {
+        "name": "QUIZ APP",
+        "description": "Developed a responsive Quiz App with React.js, Spring Boot, and PostgreSQL, allowing users to create, play, and view quizzes with real-time score calculation, enhancing the interactive learning experience.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "Postgresql",
+          "React js",
+          "Bootstrap"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "https://github.com/SARAN1231/Spring-quiz-app"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JS",
+          "REACT JS",
+          "3rd Party Apis",
+          "NPM packages"
+        ],
+        "endDate": "Present",
+        "company_name": "Vernure",
+        "description": "Architected modular React components and streamlined state handling with ES6+ features; enhanced functionality and maintainability, leading to a 35% increase in development speed and a 20% reduction in codebase errors. Implemented third-party NPM packages to extend application capabilities and automate build tasks; improved development efficiency by 50% and achieved a 30% increase in code scalability and maintainability.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Front End Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JS",
+          "REACT JS",
+          "ANTDESIGN(React Library)"
+        ],
+        "endDate": "March 2024",
+        "company_name": "Hebesec Technologies Pvt Ltd",
+        "description": "Designed visually compelling and user-friendly interfaces for the Static Application Security Testing (SAST) tool, resulting in a 40% increase in user satisfaction and a 25% decrease in onboarding time. Collaborated with the front-end development team to design and implement UI/UX solutions; increased user engagement by 25% and reduced bounce rates by 15% through strategic brainstorming and alignment with project requirements.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "OOPS",
+      "DSA",
+      "React Js",
+      "HTML/CSS",
+      "JavaScript",
+      "Spring Boot",
+      "Node Js",
+      "Express Js",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "VS Code",
+      "IntelliJ IDEA",
+      "Git/GitHub",
+      "PostMan"
+    ],
+    "soft_skills": [],
+    "name": "Saran P",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart India Hackathon Finalist(SIH) - 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Engineering"
+}

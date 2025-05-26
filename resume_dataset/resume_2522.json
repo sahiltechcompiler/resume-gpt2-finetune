@@ -1,0 +1,122 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Apoorv Jain",
+  "college": "APJ TECHNICAL UNIVERSITY",
+  "locations": [
+    "DELHI , IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "APJ TECHNICAL UNIVERSITY",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "DELHI , IN",
+        "ID": 0.0,
+        "grade_received": "7.91",
+        "field_of_study": "Computer Science",
+        "startDate": "2018"
+      },
+      {
+        "school": "SUMMER VALLEY SCHOOL, DEHRADUN",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Class XII Grad",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.75 percent",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "SUMMER VALLEY SCHOOL, DEHRADUN",
+        "endDate": "2015",
+        "maximum_grade": "",
+        "degree": "Class X Grad",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "95.2 percent",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MASK DETECTION MODEL",
+        "description": "Used Transfer Learning with Pre-trained layers from MobileNet allowing the Model to recognize and isolate a humans face with a mask, veil or hat with appropriate label.  Due to shortage of labelled training data and limited resources using Pre-trained Layers was one of the best options to execute the task.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FLAPPY BIRD AI",
+        "description": "Built the game of Flappy Bird in Pygame from scratch to enable the model to extract the features with maximum efficiency.  Used the NEAT(NeuroEvolution of Augmenting Topologies) to build and train a Neural Net to learn the patterns in the game and adjust accordingly.  A generation of multiple agents was used and their neural nets were compared and combined based on a specially devised fitness function.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "AMAZON",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2022"
+      },
+      {
+        "role_name": "Deep Learning Intern",
+        "skillsUsed": [],
+        "endDate": "April 2020",
+        "company_name": "PUCHO CO",
+        "description": "Worked in a team of highly skilled individuals while creating a Abstractive Text Summarization Model with the help of Bi-directional RNNs alongwith Attention models.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2020"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "Javascript(basic)",
+      "Tensorflow",
+      "Keras",
+      "Matplotlib",
+      "Numpy",
+      "SciKit Learn",
+      "MySQL",
+      "Pandas"
+    ],
+    "soft_skills": [],
+    "name": "Apoorv Jain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Extended Abstract for a Research Poster concerning the use of AI in Digital libraries selected in KEDL 2019 organized by National Digital Library at IIT-D in collaboration with UNESCO and IIT-KGP.",
+      "Won an Intra college competitive coding event with more than 150 students participating.",
+      "Machine Learning Coordinator of Googles Student Chapter by the name of Developers Student Club (DSC).",
+      "Hosted several workshops and lectures in the domain of Web Development and Machine Learning.",
+      "Organized Inter College events in Management and Technical Domain."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2022.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

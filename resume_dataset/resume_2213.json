@@ -1,0 +1,204 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Hardik Agarwal",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, IN",
+    "Meerut, IN",
+    "New Delhi, IN",
+    "Remote, Hyderabad, IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mastering DSA using C/C++",
+        "issuer": "Abdul Bari (Udemy)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Infosys SpringBoard - DBMS Course",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering Job Simulation",
+        "issuer": "Goldman Sachs",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "August 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, IN",
+        "ID": 0.0,
+        "grade_received": "CGPA 8.45",
+        "field_of_study": "Computer Science",
+        "startDate": "September 2020"
+      },
+      {
+        "school": "Dewan Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 90.0",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Dewan Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 94.60",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AvatarCraft",
+        "description": "Leveraged CartoonGAN models to transform photos into cartoons, employing serverless architecture.",
+        "keywords": [
+          "CartoonGAN",
+          "AWS Lambda",
+          "AWS S3",
+          "Docker",
+          "Jupyter Notebook"
+        ],
+        "endDate": "October 2023",
+        "startDate": "October 2021",
+        "url": "Github-Link"
+      },
+      {
+        "name": "ChatON",
+        "description": "Developed real-time chatting application accommodating up to 50 users simultaneously.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Socket.io",
+          "Firebase"
+        ],
+        "endDate": "April 2023",
+        "startDate": "February 2023",
+        "url": "Project-Link"
+      },
+      {
+        "name": "CashTrack",
+        "description": "Created software to track expenses and control spending habits.",
+        "keywords": [
+          "React.js"
+        ],
+        "endDate": "June 2022",
+        "startDate": "May 2022",
+        "url": "Project-Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "HireXzo Solutions LLP",
+        "description": "Designed and developed the companys landing page and website. Created client applications with a simple user interface and clean architecture.",
+        "location": "Remote, Hyderabad, IN",
+        "links": "",
+        "startDate": "February 2024"
+      },
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [
+          "React.js",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Centre for Railway Information Systems(CRIS)",
+        "description": "Developed dynamic website for online ticket vending, reducing waiting time by 50 percent. Collaborated with Unreserved Tickets System group to design Automatic Ticket Vending System.",
+        "location": "New Delhi, IN",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Web Developer & Coordinator",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Big Data Centre of Excellence",
+        "description": "Build the official website and admin dashboard, increasing project tracking efficiency by 20 Percent. Planned and organized more than 6 events, workshops, hackathons, and coding contests, with average of 250 contestants. Learned about the different Big Data technologies like Hadoop, Map Reduce, kafka, spark.",
+        "location": "Ghaziabad, IN",
+        "links": "Website Link",
+        "startDate": "September 2021"
+      },
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Google Developers Student Club",
+        "description": "Selected among 18 out of 150 applicants for GDSC membership. Led a team of 40 members to promote technical activities in college.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "JavaScript",
+      "SQL",
+      "Java (Basics)",
+      "Python",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Mongoose",
+      "Express.js",
+      "Firebase",
+      "REST APIs",
+      "WebSockets",
+      "HTML/CSS",
+      "Tailwind",
+      "Git",
+      "GitHub",
+      "Docker",
+      "AWS S3",
+      "Bootstrap",
+      "Figma",
+      "Adobe Creative Cloud"
+    ],
+    "soft_skills": [],
+    "name": "Hardik Agarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Finalist Smart India Hackathon (edition 2022)",
+      "Runner Up in Anveshna 2023."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 4.0,
+  "degree": "Bachelor of Technology"
+}

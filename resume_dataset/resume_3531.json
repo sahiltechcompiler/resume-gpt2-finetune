@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Developer Engineer Intern",
+  "name": "OM GUPTA",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Lucknow",
+    "Orai, Jalaun, U.P.",
+    "Indore, Madhya Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Core Member, FOSSC (Free and Open Source Software Community) - Collaborated with colleagues and engaged with a community of 150+ members. Mentored 10+ junior members, guiding them to contribute to open-source platforms."
+    ],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Lucknow",
+        "ID": 0.0,
+        "grade_received": "7.47",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2018"
+      },
+      {
+        "school": "Maharishi Vidya Mandir",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Higher Secondary School (Class 12)",
+        "location": "Orai, Jalaun, U.P.",
+        "ID": 1.0,
+        "grade_received": "95",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Play-Ground: E-commerce Video Game Store",
+        "description": "Developed and deployed a dynamic e-commerce platform using Python and Django, featuring integrated Stripe payment processing. Integrated secure payment processing through the Stripe API, ensuring reliable transactions and fostering trust. Implemented advanced product search and filtering functionalities for enhanced user experience. Designed comprehensive product pages with interactive features, including user reviews and ratings.",
+        "keywords": [
+          "Python",
+          "Django",
+          "Stripe"
+        ],
+        "endDate": "Jun 2024",
+        "startDate": "Mar 2024",
+        "url": ""
+      },
+      {
+        "name": "ChatGPT Clone",
+        "description": "Led the development of a ChatGPT clone utilizing Django and JavaScript, integrating the OpenAI API, used fine-tuned API for personalized results. Integrated ChatGPTs API seamlessly into the platform, empowering users to receive contextually relevant responses in real-time. Implemented robust user authentication and chat storage functionalities, ensuring data privacy and security, implemented JWT for authentication, PostgreSQL for database management.",
+        "keywords": [
+          "Django",
+          "JavaScript",
+          "OpenAI API"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Customer Relationship Management (CRM) App",
+        "description": "Developed a comprehensive CRM app for businesses, facilitating customer management, product listing, order tracking, and delivery management using Django as the backend. Enhanced data accessibility and usability with efficient CRUD operations. Integrated order management system, allowing sellers to easily track and manage delivered and undelivered orders.",
+        "keywords": [
+          "Django",
+          "CRM"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "Sep 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Engineer Intern",
+        "skillsUsed": [
+          "Python",
+          "Django",
+          "JavaScript",
+          "HTML",
+          "AWS",
+          "Selenium"
+        ],
+        "endDate": "Present",
+        "company_name": "Signimus Technologies Pvt Ltd",
+        "description": "Contributed in a project for developing highly interactive ChatGPT-based application, integrating the OpenAI API tailored for a specific institution, resulting in an 80% improvement in desired responses. Utilized Python, Django, JavaScript, HTML, and AWS to ensure scalability, robustness, and deployment of the project. Designed and implemented data extraction and automation script using Selenium and Django, reducing manual work by 90% and enhancing testing efficiency by 60%.",
+        "location": "Indore, Madhya Pradesh",
+        "links": "",
+        "startDate": "Apr 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "SQL (Postgres, MongoDB)",
+      "JavaScript",
+      "HTML/CSS",
+      "Django",
+      "DRF(Django Rest Framework)",
+      "FastAPI",
+      "Git",
+      "Amazon Web Services",
+      "VS Code",
+      "Visual Studio",
+      "PyCharm",
+      "IntelliJ",
+      "Postman",
+      "Docker"
+    ],
+    "soft_skills": [],
+    "name": "OM GUPTA",
+    "position": "Software Developer Engineer Intern",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

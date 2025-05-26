@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "GOPISETTI PAVAN",
+  "college": "Srm University",
+  "locations": [
+    "Amaravathi, Andhra Pradesh",
+    "Anakapalle, Andhra Pradesh",
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Srm University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.47/10",
+        "field_of_study": "Artificial Intelligence and Machine Learning",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "9.66/10",
+        "field_of_study": "MPC",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "FACE RECOGNITION BASED SMART ATTENDANCE SYSTEM",
+        "description": "Developed and implemented machine learning models utilizing OpenCV and k-NN clustering. This project takes attendance based on face recognition. In this project, preprocessing was required.",
+        "keywords": [
+          "Python",
+          "Open-Cv",
+          "K-NN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Plant Disease Detection using CNN",
+        "description": "Employed convolutional neural networks (CNNs) including VGG16, ResNet50, and EfficientNetV2, with EfficientNetV2 achieving an overall accuracy of 96.06%.",
+        "keywords": [
+          "Tensorflow",
+          "Numpy",
+          "Pandas",
+          "Matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Crop Recommendation using ML",
+        "description": "Developed a crop recommendation system achieving an accuracy of 99.31% using the Random Forest algorithm. Implemented and compared three different machine learning algorithms - Decision Tree, Multi-Layer Perceptron, and Random Forest.",
+        "keywords": [
+          "Numpy",
+          "Pandas",
+          "Matplotlib",
+          "Scikit-learn",
+          "Pickle"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [
+          "AWS Cloud computing"
+        ],
+        "endDate": "December 2023",
+        "company_name": "SRM University",
+        "description": "Three-month research project: Worked on developing a machine learning model to predict future prices of vegetables. The project involved collecting and analyzing data from various sources, including market trends and historical price data, to build a predictive model. Utilized techniques such as data preprocessing, feature engineering, and model training to achieve accurate predictions, aiding farmers and vendors in making informed decisions.",
+        "location": "Amaravathi, Andhra Pradesh",
+        "links": "",
+        "startDate": "August 2023"
+      },
+      {
+        "role_name": "Training",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "Gained hands-on experience with various AWS services, including EC2, S3, RDS, and Lambda, through comprehensive training and practical applications.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Dsa",
+      "Python",
+      "Html",
+      "Css",
+      "MongoDB",
+      "MySQL",
+      "VScode",
+      "Git",
+      "GitHub",
+      "Jupyter Notebook",
+      "Power BI",
+      "MicroSoft Excel"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Event Management",
+      "Time Management"
+    ],
+    "name": "GOPISETTI PAVAN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked 5th in Anakapalle city in Intermediate Results.",
+      "Qualified among the top 15 out of 900 students in JEE Main at Sri Chaitanya College with an Rank 49334.",
+      "Presented at Viksit Bharat Ideathon and received a certificate."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

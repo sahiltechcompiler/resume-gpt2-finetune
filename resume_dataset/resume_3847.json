@@ -1,0 +1,219 @@
+{
+  "project_count": 3.0,
+  "designation": "SDE Intern",
+  "name": "Ritvik Agrawal",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Bhopal, Madhya Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+        "issuer": "AWS",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Software Engineering",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Enterprise grade AI",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat System Administration II (RH134)",
+        "issuer": "Red Hat",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Object-Oriented Programming with Java",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Current GPA: 8.05",
+        "field_of_study": "Computer Science",
+        "startDate": "Oct 2021"
+      },
+      {
+        "school": "Campion School",
+        "endDate": "Mar 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 90.0",
+        "field_of_study": "CBSE (12th PCM)",
+        "startDate": ""
+      },
+      {
+        "school": "Campion School",
+        "endDate": "Mar 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 88.6",
+        "field_of_study": "CBSE (10th)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Treasurer",
+        "description": "Developed a full-stack expense tracker using Spring Boot, React, and MySQL for real-time financial management. Integrated MySQL with JPA to store and query transaction data for expense and income analysis. Created REST APIs to serve financial data to the React dashboard, enabling live balance and spending insights.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "React.js",
+          "HTML",
+          "CSS",
+          "SQL",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Articulate",
+        "description": "Built an article writing site for 100+ accounts, enabling account management, article creation, and editing features. Integrated Passport middleware for authentication and session management, ensuring data security.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Shopkeeper X",
+        "description": "E-commerce website for 500+ products, using GSAP library for user friendly UI. Includes Passport, Multer, Nodemailer, Razorpay, and 7+ middleware/modules for enhanced functionality and UX.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "Java",
+          "JavaScript",
+          "HTML/CSS",
+          "AWS",
+          "Git/GitHub",
+          "MongoDB",
+          "mySQL",
+          "MS Office",
+          "Node.js",
+          "Express.js",
+          "Springboot"
+        ],
+        "endDate": "Aug 2024",
+        "company_name": "Netlink Software Group America Inc.",
+        "description": "Studied advanced Java concepts, Spring Boot framework, and MVC architecture to enhance backend development skills. Executed daily tasks, created REST APIs and developed clean, meaningful code following best practices.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "AWS",
+      "Git/GitHub",
+      "MongoDB",
+      "mySQL",
+      "MS Office",
+      "Node.js",
+      "Express.js",
+      "Springboot"
+    ],
+    "soft_skills": [],
+    "name": "Ritvik Agrawal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Bhopal, Madhya Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.tech."
+}

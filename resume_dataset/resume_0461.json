@@ -1,0 +1,125 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Yaram Sandeep Reddy",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP, Amaravati",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior Kalasala",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 95.4",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Dr KKRs Gowtham HS",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 10.0/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Autism Spectrum Disorder Using Deep Learning Techniques",
+        "description": "Developed a deep learning model using CNNs with TensorFlow in Python. Analyzed MRI data from the ABIDE II dataset, training on 8,000+ scans.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Deploying Web Server with RDS on AWS",
+        "description": "Set up a React.js website served by Nginx, with Node.js application tier. Managed data flow with AWS RDS and internal load balancer.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Car Shop",
+        "description": "Developed a MERN stack web app for car inventory management.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blood Bank Information System",
+        "description": "Created a MERN stack web app for blood donation and inventory management.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "SRM University",
+        "description": "Conducted vulnerability assessments on websites using tools like Nikto and Nmap to identify security weaknesses.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "Learned AWS features (EC2, VPC, Load Balancer, Auto Scaling Groups, AWS Lambda, Alexa Skills Kit). Deployed a web server using EC2 and RDS.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "C",
+      "AI",
+      "Machine Learning",
+      "HTML",
+      "CSS",
+      "MERN"
+    ],
+    "soft_skills": [],
+    "name": "Yaram Sandeep Reddy",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

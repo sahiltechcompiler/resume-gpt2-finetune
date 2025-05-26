@@ -1,0 +1,160 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Saurabh Tripathi",
+  "college": "KIET Group of Institutions",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.145",
+        "field_of_study": "CSIT",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "CBSE board",
+        "endDate": "March 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.8",
+        "field_of_study": "",
+        "startDate": "April 2019"
+      },
+      {
+        "school": "CBSE board",
+        "endDate": "March 2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "86.6",
+        "field_of_study": "",
+        "startDate": "April 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Crime Detection Using CCTV",
+        "description": "Designing and developing a user interface for real-time surveillance video streaming and event detection using modern web technologies. Integrating Apache Kafka to manage large-scale, real-time data streaming, facilitating robust communication between backend services and the frontend system. Employing responsive design principles to ensure functionality across multiple devices, optimizing the user experience for effective surveillance monitoring.",
+        "keywords": [
+          "Frontend Development",
+          "Kafka"
+        ],
+        "endDate": "Ongoing",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blog Application",
+        "description": "Developed a fully functional blog application with user authentication, CRUD operations for posts, and an interactive interface. Designed and implemented models, views, and templates, ensuring adherence to best practices and coding standards. Conducted debugging and troubleshooting to enhance performance and usability.",
+        "keywords": [
+          "Django",
+          "SQLite",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Developed a personal portfolio website to showcase projects, skills, and experiences. Implemented a responsive design and a contact form with email notifications. Ensured SEO-friendliness and optimized performance.",
+        "keywords": [
+          "Django",
+          "Bootstrap",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "July 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Netflix Clone",
+        "description": "Replicated the Netflix user interface as a personal project to refine skills in front-end development, focusing on layout, design, and user interactions. Developed a responsive web interface using HTML, CSS, and JavaScript, achieving high fidelity to the original Netflix platform and ensuring cross-device compatibility.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "July 2023",
+        "company_name": "CodeClause",
+        "description": "Collaborated with industry professionals in developing and maintaining web applications. Developed a personal portfolio website and a blog platform using HTML, CSS, and JavaScript, demonstrating proficiency in front-end development. Implemented a URL shortener application, enhancing skills in both front-end and back-end technologies, including PHP and MySQL.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "IBM-AICTE",
+        "description": "During my internship, I had the privilege of working on the Netflix Clone project as a frontend developer. Collaborating with dedicated mentors, fellow interns, and the exceptional team at IBM Skillsbuild, AICTE, and Edunet Foundation has been both rewarding and inspiring.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Django",
+      "React.js",
+      "Bootstrap",
+      "SQLite",
+      "MySQL",
+      "REST APIs",
+      "ORM",
+      "Web Development",
+      "User Authentication"
+    ],
+    "soft_skills": [],
+    "name": "Saurabh Tripathi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "100+ Questions on Leetcode Completed",
+      "200+ Algorithmic problems on various online platforms and judges",
+      "5-Star | HackerRank",
+      "Certificate of Excellence in DSA | Coding Ninjas"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

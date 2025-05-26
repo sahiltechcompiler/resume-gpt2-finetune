@@ -1,0 +1,79 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "Vikash Sharma",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.625",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Notre Dame School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "New Delhi, India",
+        "ID": 1.0,
+        "grade_received": "CGPA: 8.6",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI NEWS Web App",
+        "description": "Learnt how Alan AI utilizes NLP to understand user queries and provide relevant responses. Users can interact with the web app using voice commands making it accessible and convenient for a wider audience. Implemented data fetching from News API using Axios and utilizes Alan AI to analyze and present the information in a user-friendly format, demonstrating its versatility and integration capabilities.",
+        "keywords": [
+          "React JS",
+          "JavaScript",
+          "React-Router",
+          "News API"
+        ],
+        "endDate": "2024",
+        "startDate": "2020",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL",
+      "ReactJS",
+      "Git/GitHub",
+      "Vs Code",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Vikash Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 830 University Rank in GFG coding contest.",
+      "Secured 997 Rank in CodeVita contest of TCS.",
+      "Secured Global Rank 4888 at Google Kickstart Round D 2022."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "BTech"
+}

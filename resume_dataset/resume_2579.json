@@ -1,0 +1,107 @@
+{
+  "project_count": 2.0,
+  "designation": "Frontend Developer",
+  "name": "Anshu",
+  "college": "Dr. A P J Abdul Kalam Technical University (AKTU)",
+  "locations": [
+    "Ghaziabad, UP",
+    "Mathura, UP",
+    "Kolkata, West Bengal"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A P J Abdul Kalam Technical University (AKTU)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA - 7.76",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Army Public School Mathura Cantt",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class-12",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Army Public School Mathura Cantt",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class-10",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90.12%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "JANADHIKAR-Digital Assistance for legal Awareness and Designing a KYR framework",
+        "description": "Janadhikar is a groundbreaking initiative aimed at empowering marginalized communities in India by providing accessible legal information and resources. Spearheaded the implementation of a machine learning-powered search engine capable of predicting laws and rights by analyzing images, using Python and TensorFlow. This innovative feature enables users to access legal information effortlessly, even in the absence of literacy. Implemented intuitive interfaces and user-friendly features using HTML, CSS, and JavaScript to enhance the overall user experience. Orchestrated the creation of a digital assistant feature, providing comprehensive guidance and information on the Indian Constitution and related laws in regional languages, using natural language processing (NLP) algorithms implemented in Python.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github"
+      },
+      {
+        "name": "VIDILOOP-Redefining Video Sharing",
+        "description": "Vidiloop represents a groundbreaking endeavor aimed at transforming the video-sharing landscape by amalgamating the best features of leading platforms. Leveraged HTML, CSS, and JavaScript to craft a modern and visually appealing frontend interface for the Vidiloop platform, ensuring optimal performance and responsiveness across various devices and screen sizes. Utilized frontend frameworks such as React.js to streamline development processes and enhance code maintainability, enabling rapid iteration and continuous improvement of the platforms frontend features. Integrated multimedia elements and interactive features seamlessly into the frontend interface, including video playback controls, search functionalities, and social sharing options, to enhance user interaction.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Travelgram Company",
+        "description": "Collaborated with cross-functional teams to design and develop user-friendly interfaces for the Travelgram website, focusing on enhancing the overall user experience. Utilized HTML, CSS, JavaScript, and modern frontend frameworks such as React.js to implement responsive and visually appealing features. Contributed to the development of key website features, including the digital diary functionality, interactive map integration, and community messaging system. Worked closely with UI/UX designers to translate design mockups and wireframes into functional frontend components, ensuring consistency with the brands aesthetic and usability standards.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Anshu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart India hackathon- Finalist",
+      "Biggest Hackathon in India being conducted by the government of India selected for the grand finale out of estimated 2,64000 participants",
+      "Position of Responsibility Team Leader at Smart India hackathon Grand Finale",
+      "Member at Idealab",
+      "Volunteer at TEDX AKGEC"
+    ],
+    "publications": []
+  },
+  "current_location": "Remote",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

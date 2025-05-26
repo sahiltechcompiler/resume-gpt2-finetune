@@ -1,0 +1,110 @@
+{
+  "project_count": 3.0,
+  "designation": "Data Science Intern",
+  "name": "SHUBHAM KHATRI",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Packet Tracer",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Networking Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Information Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.85",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "iChat - Real Time Chatting Platform",
+        "description": "Developed and implemented a real-time chat application using Node.js and Socket.IO, optimizing WebSocket communication for low-latency messaging. Engineered a responsive and user-friendly interface using HTML, CSS, and JavaScript, ensuring cross-browser compatibility and an intuitive user experience. Integrated a custom notification sound feature to enhance user engagement by alerting users upon message arrival.",
+        "keywords": [],
+        "endDate": "2025",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "TripInfo - Travel Info Website",
+        "description": "Architected a dynamic travel information website by seamlessly integrating HTML, CSS, and JavaScript for the frontend, with PHP handling backend processes. Configured XAMPP as the server environment and PHPMyAdmin for efficient database management, ensuring robust application performance. Developed an interactive survey form that captures user preferences, utilizing inputs to algorithmically recommend personalized travel destinations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Amazon Website Front-End Clone",
+        "description": "Built a pixel-perfect, non-responsive front-end clone of the Amazon website using HTML and CSS, demonstrating advanced proficiency in web development. Structured complex web pages and applied intricate CSS styling techniques to accurately replicate the design and user interface of a leading e-commerce platform.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [
+          "Python",
+          "Pandas",
+          "NumPy"
+        ],
+        "endDate": "Present",
+        "company_name": "Celebal Technologies",
+        "description": "Gained hands-on experience with essential Python libraries (e.g., Pandas, NumPy) for data manipulation, analysis, and visualization, reinforcing core data science competencies. Exploring advanced image processing techniques and leveraging Azure AI services for scalable solutions in real-world applications. Completed weekly assignments to solidify understanding of data science concepts, applying learned skills to industry-relevant projects.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug24"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "Java",
+      "Bootstrap",
+      "NodeJS",
+      "git/GitHub",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "SHUBHAM KHATRI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Information Technology"
+}

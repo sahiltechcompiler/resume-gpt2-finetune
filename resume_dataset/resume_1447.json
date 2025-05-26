@@ -1,0 +1,133 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Kapuganti Gayatri Naga Prishita",
+  "college": "SRMAP University",
+  "locations": [],
+  "full_output": {
+    "summary": "Detail-oriented computer science student and proficient in MERN Stack so created spotify clone using mern stack and creating personalized movie recommendation systems.Skilled in C++,C,python,DBMS.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Link to Demo",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DBMS",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRMAP University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana N-120 Saraswathi bhavan",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Narayana e-techno school",
+        "endDate": "2019",
+        "maximum_grade": "Percentage: 98.4/100.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 10.0/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SPOTIFY CLONE",
+        "description": "I Developed a Spotify clone using MERN Stack (MongoDB Atlas, Express JS, React, Node JS),focusing on song search, playlist creation, and music playback with Spotify Web API integration. Managed MongoDB Atlas for database and utilized Node JS with Express JS for robust backend infrastructure. Demonstrates expertise in full-stack web development and delivers a functional music streaming platform.",
+        "keywords": [
+          "MERN Stack",
+          "MongoDB Atlas",
+          "Express JS",
+          "React",
+          "Node JS",
+          "Spotify Web API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CONTENT BASED MOVIE RECOMMENDATION SYSTEM",
+        "description": "I Developed a Movie recommendation system using Python and MovieLens dataset. Utilized Word2Vec model and cosine similarity to analyze genres, tags, and user ratings for personalized recommendations. Employed libraries: NumPy, pandas, Gensim. Demonstrates proficiency in machine learning and data analysis, delivering accurate movie recommendations.",
+        "keywords": [
+          "Python",
+          "MovieLens",
+          "Word2Vec",
+          "cosine similarity",
+          "NumPy",
+          "pandas",
+          "Gensim"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Artificial Intelligence - Self Paced Intern",
+        "skillsUsed": [
+          "TensorFlow",
+          "machine learning",
+          "computer vision"
+        ],
+        "endDate": "Mar 2024",
+        "company_name": "Wissenaire, IIT Bhubaneswar and 1Stop",
+        "description": "Completed AI internship with Wissenaire, IIT Bhubaneswar and 1Stop, focusing on TensorFlow-based text classification, pet face classification, and landmark detection projects. Gained practical experience in machine learning and computer vision, deepened under mentor guidance, and enhanced technical skills in AI applications.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "python",
+      "java concepts",
+      "MySql",
+      "Machine learning",
+      "DBMS",
+      "DSA",
+      "Computer Networks",
+      "Compiler Design",
+      "OS"
+    ],
+    "soft_skills": [],
+    "name": "Kapuganti Gayatri Naga Prishita",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "I have won first prize in district level competition for save electricity drawing competition.",
+      "I Played competitive chess and represented SRMAP College in tournaments in Btech Second year."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

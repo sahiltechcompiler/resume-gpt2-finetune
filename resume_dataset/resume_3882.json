@@ -1,0 +1,156 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kartik Chitranshi",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Bahraich, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Gaining expertise in data analysis, visualization, and data-driven decision-making.",
+        "skillsLearned": [],
+        "title": "Google Data Analyst",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Showcasing robust expertise in software engineering models and methodologies.",
+        "skillsLearned": [],
+        "title": "NPTEL Software Engineering",
+        "issuer": "IIT Kharagpur",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Achieved an overall score of 72%.",
+        "skillsLearned": [],
+        "title": "NPTEL Database Management System",
+        "issuer": "IIT Kharagpur",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Participated in educational capacity-building and community service projects in 8 slums, 4 orphanages, and 3 asylums, benefiting over 800 individuals."
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Sep 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.28/10 (Till 6th semester)",
+        "field_of_study": "Infromation Technology",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "Buddha Public School",
+        "endDate": "Mar 2020",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Bahraich, UP India",
+        "ID": 1.0,
+        "grade_received": "89%",
+        "field_of_study": "",
+        "startDate": "Mar 2019"
+      },
+      {
+        "school": "Buddha Public School",
+        "endDate": "Mar 2018",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "Bahraich, UP India",
+        "ID": 2.0,
+        "grade_received": "87.2%",
+        "field_of_study": "",
+        "startDate": "Mar 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Layoff data analysis during Covid-19 Pandemic",
+        "description": "Executed data preprocessing on a dataset comprising approximately 3000 data points, representing a 65% increase from the previous dataset size. Applied MySQL for data extraction and to gain insights and conduct in-depth analysis of layoff trends across 30 companies and 20 locations, enhancing forecasting accuracy by 15%. Created a comprehensive dashboard using Power BI, facilitating the clear visualization and presentation of insights, resulting in a 90% increase in client satisfaction.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Spotify Dashboard Power BI",
+        "description": "Deployed Gen-AI to integrate image URLs into multiple CSV files using a Python script, retrieving album cover URLs from the Spotify API and improving data accuracy by 30%. Crafted custom backgrounds in PowerPoint, enhancing presentation aesthetics and visual appeal. Developed a new measure for custom HTML scripts, enabling display of cover URLs using HTML visuals, improving user experience by 80%. Created variance charts with Deneb Visuals for 100+ songs, detailing energy percentages and highlighting fluctuations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Black Friday Sales Prediction",
+        "description": "Performed Data Preprocessing and Exploratory Data Analysis on the Black Friday sales dataset with 5,50,069 data points. Implemented multiple models for evaluation, including linear regression, decision tree, random forest, extra tree regressor, and XGBoost regressor, to forecast sales, with XGBoost delivering the highest predictive accuracy and an RMSE score of 2684. Evaluated and refined the models using techniques such as cross-validation and train-test split in an optimized model with an accuracy of 93%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "TULIP",
+        "description": "Collaborated with 15 industry experts within the municipal corporation to implement a waste management system, reducing operational costs by 20% and improving processing efficiency by 30%. Analyzed sewage data, uncovering that 45% of issues were concentrated in the eastern part of the city, leading to targeted solutions that decreased system failures by 25%. Provided assistance to health department based on insights gained, as 60% of health issues were linked to sewage problems.",
+        "location": "",
+        "links": "Link",
+        "startDate": "Apr 2023"
+      },
+      {
+        "role_name": "Data Analyst Trainee",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Trainity",
+        "description": "Conducted complex database manipulations using MySQL to optimize data handling and analysis. Utilized Pivot Tables and Charts in MS Excel to perform in-depth database analysis and create clear visualizations. Designed visually impactful dashboards with Power BI, driving data-driven decision-making and strategic insights. Solved Case-studies and worked on five different projects.",
+        "location": "",
+        "links": "Link",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Excel",
+      "Tableau",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "soft_skills": [
+      "Analytical skills",
+      "Business Acumen",
+      "Decision-Making",
+      "client-Focused Solutions",
+      "Assertive Communication"
+    ],
+    "name": "Kartik Chitranshi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded a Gold badge in SQL on Hackerrank, showcasing advanced proficiency in critical technical skills.",
+      "Achieved the Dean's List of Excellence twice in recognition of academic achievements in two semesters."
+    ],
+    "publications": []
+  },
+  "current_location": "Bahraich, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

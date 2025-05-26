@@ -1,0 +1,200 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aditya Raj",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "New Delhi",
+    "Bhagalpur",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ethical Hacking",
+        "issuer": "NPTEL, IIT Kharagpur",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Communications Specialization",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cryptography and Information Theory",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering",
+        "issuer": "NPTEL, IIT Kharagpur",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL, Chennai Mathematical Institute",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Organizing Committee, IEEE MUJ Student Chapter"
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "9.19 (Current)",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sidhhartha Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "80.4%",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "St. Josephs School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Bhagalpur",
+        "ID": 2.0,
+        "grade_received": "90.6%",
+        "field_of_study": "",
+        "startDate": "2006"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ease My Campus",
+        "description": "Created an Android Application to facilitate carpooling and leave management for Hostel Students. Designed the application UI in XML using Android Studio. Used Kotlin for backend development. Used firebase realtime database to perform CRUD operations and firebase authentication for user login and authentication.",
+        "keywords": [
+          "Android",
+          "Kotlin",
+          "Firebase",
+          "CRUD"
+        ],
+        "endDate": "April 2024",
+        "startDate": "January 2024",
+        "url": "Github"
+      },
+      {
+        "name": "Health and Fitness Website",
+        "description": "Built a website for a health club to advertise its membership plans and manage memberships online. Front-end development using HTML, CSS and JAVASCRIPT. Used PHP for back-end development and MySQL for database.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "May 2023",
+        "startDate": "February 2023",
+        "url": "Github"
+      },
+      {
+        "name": "Keylogger",
+        "description": "Implemented an email sending keystroke capturer using Java. It is a spyware which captures all the keyboard inputs of the target and sends a mail to attacker. Used the jnativehook library and its functions and used the javax.mail package for facilitating mail transfer.",
+        "keywords": [
+          "Java",
+          "Email",
+          "Spyware"
+        ],
+        "endDate": "February 2024",
+        "startDate": "January 2024",
+        "url": "Github"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Remote Data Engineering Intern",
+        "skillsUsed": [
+          "SQL Server",
+          "ETL",
+          "SCD"
+        ],
+        "endDate": "Jul. 2024",
+        "company_name": "Celebal Technologies",
+        "description": "I was alloted a project in which I had to create data model for sales data from a csv file. Then I was tasked to load data into the tables from specified source while maintaining lineage, and carry out ETL and SCD implementation. Used SQL Server and SQL Server Management Studio.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "Java",
+      "SQL",
+      "App development using Kotlin",
+      "Ethical Hacking",
+      "NMAP",
+      "Wireshark",
+      "Burpsuite",
+      "HTML",
+      "CSS",
+      "JAVASCRIPT",
+      "PhpMyAdmin",
+      "SQL Server Management Studio"
+    ],
+    "soft_skills": [
+      "Effective Communication",
+      "Proficient in English and Hindi",
+      "Able to manage team as a Leader",
+      "Excellent in building relationship with fellow teammates /colleagues"
+    ],
+    "name": "Aditya Raj",
+    "position": "",
+    "interests": [
+      "Singer",
+      "Guitarist",
+      "Flutist"
+    ],
+    "achievements_and_awards": [
+      "Deans List: Excellence in Academics Award, For GPA 9.63, 9.2 and 9.68 in 3rd, 4th and 5th Semester of Btech.",
+      "Distinct Student Award in Class 10th, St. Josephs School, Bhagalpur, 2017",
+      "State Rank 2 in National Cyber Olympiad, Organized by Science Olympiad Foundation in the year 2017",
+      "Runner Up in Inter House Singing Competition, St. Josephs School, Bhagalpur, 2017"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

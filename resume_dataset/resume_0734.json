@@ -1,0 +1,144 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "AKSHIT YADAV",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "IIT Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Vision & Image Processing",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+        "issuer": "DeepLearning.AI",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Student Ambassador at Manipal University Jaipur for the E-cell Ambassador program offered by UDGAM - IIT Guwahati."
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.35",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Oct 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "FRIDAY: An AI-Enabled Restaurant Management System",
+        "description": "Developed a comprehensive CRUD application for restaurant employee and customer registration, enabling functionalities such as table booking, appointment cancellation, and event rescheduling. Implemented role-based authentication with distinct permissions for Owner, Employee, and Customer roles, ensuring secure and controlled access. Integrated OpenAI's GPT-3.5 Turbo API to deliver an AI chatbot experience, providing nutritional information and food-related recipes. Deployed the project on AWS EC2 using Ubuntu 22.04 as the base image and containerized the application with Docker.",
+        "keywords": [
+          "Django",
+          "Crispy Forms",
+          "Bootstrap",
+          "SQLite",
+          "LangChain",
+          "Docker",
+          "AWS"
+        ],
+        "endDate": "July 2024",
+        "startDate": "June 2024",
+        "url": ""
+      },
+      {
+        "name": "BHAAVNA: A Sentimental and Textual Analysis of over 100 Web Articles",
+        "description": "Removed all the StopWords, created a Dictionary of Positive and Negative Words. Tokenized the text to extract derived variables such as: Positive Score, Negative Score, Polarity Score, Subjective Score. Calculated Analysis of Readability using the Gunning Fox Index Formula. Evaluated parameters such as Fog Index, %age of Complex Words, Syllable Count per Word, etc.",
+        "keywords": [
+          "BeautifulSoup",
+          "nltk",
+          "regex",
+          "Flask"
+        ],
+        "endDate": "May 2024",
+        "startDate": "April 2024",
+        "url": ""
+      },
+      {
+        "name": "Conversational Concierge: AI-Powered Automated Chat Response System",
+        "description": "Used OpenSubtitles 2018 Spanish-English parallel corpus as the dataset to construct synonym groups. Fine-tuned huggingfaces the Bert pretrained model for sequence classification and model training. The model gives suggestions by assigning highest probability to the most apt response.",
+        "keywords": [
+          "PyTorch",
+          "Pretrained Bert model",
+          "nltk",
+          "tqdm",
+          "hparams"
+        ],
+        "endDate": "July 2023",
+        "startDate": "June 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "NLP Voicebot Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Orevento Communication Pvt Ltd",
+        "description": "Developed an English-language NLP voice bot for cloud telephony engine to enable near-conversational interactions. Set up a UDP server to capture audio streams and send them to a speech-to-text engine. Queried the NLP bot for suitable responses based on the transcribed text. Converted text responses back into speech and streamed the audio over a UDP channel. Ensured real-time processing and seamless integration of speech-to-text and text-to-speech functionalities.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Mfluence Pvt Ltd",
+        "description": "Developed an NLP chatbot to provide auto-suggested replies, aiding the Sales and Support teams in responding to customer inquiries. Conducted data deduplication by grouping similar words using Cosine similarity with a threshold of 0.95. Executed data cleaning processes by filtering out responses with fewer than 100 tokens. Implemented machine learning algorithms to enhance the accuracy and relevance of suggested replies. Analyzed customer interaction data to identify patterns and improve the chatbot's performance.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Git",
+      "Docker",
+      "Django",
+      "Flask",
+      "LangChain",
+      "TensorFlow",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "AKSHIT YADAV",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

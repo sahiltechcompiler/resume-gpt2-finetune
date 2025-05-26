@@ -1,0 +1,162 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sajal Aggarwal",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, U.P., India",
+    "Hapur, U.P., India",
+    "Bengaluru, Karnataka, India",
+    "Hazaibagh, Jharkhand, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Course Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Infosys Springboard Web Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Course Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM SkillsBuild Web Development Learning",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Coding Shuttle MERN Stack Development",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, U.P., India",
+        "ID": 0.0,
+        "grade_received": "C.G.P.A. - 8.7/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "October 2021"
+      },
+      {
+        "school": "Dev Memorial Public School",
+        "endDate": "March 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Hapur, U.P., India",
+        "ID": 1.0,
+        "grade_received": "Percentage : 97.2%",
+        "field_of_study": "Class XII",
+        "startDate": "April 2020"
+      },
+      {
+        "school": "Christu Jyoti Convent Sr. Sec. School",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Hapur, U.P., India",
+        "ID": 2.0,
+        "grade_received": "Percentage : 94.6%",
+        "field_of_study": "Class X",
+        "startDate": "April 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Livechat",
+        "description": "Crafted a real-time chat app using MERN stack and Socket.io, supporting over 20+ users concurrently. Integrated JWT authentication for secure user sessions, ensuring 100 % encryption of data. Implemented real-time user tracking, displaying online/offline status of users, enhancing engagement of users.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Repo Deployed Link"
+      },
+      {
+        "name": "GitNest",
+        "description": "Created a GitHub clone app allowing users to view repositories, with search functionality for repositories. Integrated secure authentication for users using GitHub OAuth through Passport.js, ensuring robust and scalable access control. Created user profiles leveraging MongoDB with Mongoose for efficient data management and scalability.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Repo Deployed Link"
+      },
+      {
+        "name": "GPTalk",
+        "description": "Integrated OPENAI's GPT-turbo-3.5 model for seamless communication between client and server. Implemented JWT token-based login and authentication system for improved security throughout application. Assembled a responsive UI with React and enhance user satisfaction by 45%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "NullClass Technologies",
+        "description": "Developed REST-APIS using NodeJs and ExpressJs and made responses more than 60% faster. Integrated Nodemailer and enhanced Security Alerts by creating a system that sends email notifications after three consecutive failed login attempts. Leveraged ReactJS and TailwindCSS with DaisyUI to develop the interface of the website.",
+        "location": "Bengaluru, Karnataka, India",
+        "links": "",
+        "startDate": "January 2024"
+      },
+      {
+        "role_name": "Front End Developer",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "TechiesGateway IT Solutions",
+        "description": "Optimized front-end performance, reducing load time by 20%, ensuring accessibility. Enhanced user experience by designing intuitive web interfaces with ReactJs and Material UI, leading to a 30% rise in user retention and a 20% boost in customer satisfaction scores.",
+        "location": "Hazaibagh, Jharkhand, India",
+        "links": "",
+        "startDate": "April 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "SQL",
+      "NodeJs",
+      "ExpressJs",
+      "ReactJs",
+      "Bootstrap",
+      "Tailwind",
+      "Material UI",
+      "MongoDb",
+      "Git/Github",
+      "VSCode",
+      "Postman",
+      "Insomnia"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Team Work Skills",
+      "Public Speaking"
+    ],
+    "name": "Sajal Aggarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

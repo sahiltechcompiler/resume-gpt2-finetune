@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "GANGA SRINIVAS",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System (DBMS)",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP - Programming Essentials in Python",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "GPA-10",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA:8.93",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Narayana E.M School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "96.1 percentage",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real Time Weather App",
+        "description": "In this weather app project, users can enter any city name to get the 5-day weather forecast. Users can also Use Current Location button to get their current locations weather details, including temperature, wind speed, humidity, and more.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Brain Stroke Prediction",
+        "description": "Developed a machine learning model to predict brain strokes with high accuracy. Utilized Random Forest classifier with advanced data preprocessing and feature selection techniques, evaluating performance through multiple accuracy metrics for efficient predictions.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Research Project on Spatial Data Mining",
+        "description": "Developed machine learning model for earthquake classification using spatial data mining techniques. Analyzed the performance of machine learning models using metrics like accuracy, precision, recall, and F1-score. Achieved high accuracy in earthquake significance classification using Random Forest.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Salesforce Developer Virtual Internship",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "",
+        "description": "Completed an 8-week virtual internship focused on Salesforce platform fundamentals, automation, and development. Earned Salesforce Super Badges in Apex, Process Automation, and Developer Super Set, showcasing proficiency in Salesforce development tools and practices.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Javascript",
+      "Python",
+      "Git",
+      "HTML",
+      "Data Analysis",
+      "CSS",
+      "DBMS"
+    ],
+    "soft_skills": [],
+    "name": "GANGA SRINIVAS",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Published Research paper on Earthquake Significance Classification in 4th International Conference on Machine Learning (ICMIB-2024) conducted by Springer."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,132 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Adarsh Gupta",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning with python",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to deep learning and neural networks using keras",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE (Artificial Intelligence and Machine Learning)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Kala niketan International School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CBSE",
+        "location": "Delhi",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Standard 12, PCM",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Skin diagnosis system for hair health and STDs",
+        "description": "The system is based on deep learnings CNN model. The training model achieves an accuracy of 98.44% after training it with image dataset. The model accurately recognises disease with the help of training image dataset of 644 images.",
+        "keywords": [
+          "Deep Learning",
+          "Python",
+          "ReactJS",
+          "Saturn cloud",
+          "Jupyter notebook",
+          "Postman"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Plant leaf Disease Detection",
+        "description": "The system precisely detects the diseases early blight or late blight in the potato leaf. The training model achieves an accuracy of 97.26% after training it with image dataset.",
+        "keywords": [
+          "Deep Learning",
+          "Python",
+          "ReactJS",
+          "Saturn cloud",
+          "Jupyter notebook",
+          "Postman"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Description about my work, skill and achievements.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "VS Code",
+          "github"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JS",
+      "DSA",
+      "OOPS",
+      "DBMS",
+      "OS"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Problem Solving",
+      "Creativity",
+      "Teamwork"
+    ],
+    "name": "Adarsh Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "208,moh-Barrua Bazar Shahabad,Hardoi,Up-241124",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,175 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Balaji Y",
+  "college": "Hindustan Institute of Technology and Science",
+  "locations": [
+    "India"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic and dedicated Computer Science graduate with a keen eye for problem-solving. Eager to embark on a career where I can leverage my strong foundation in programming languages along with my knowledge of data structures and algorithms, Machine Learning and Data Science, to contribute effectively to dynamic and collaborative teams. Solved many problems on leetcode and HackerRank to enhance my programming knowledge. I am ready to tackle new challenges and make meaningful contributions to the world of computer science.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Nearing Completion",
+        "skillsLearned": [],
+        "title": "Java Full Stack Development",
+        "issuer": "Wipro TalentNext",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud Computing",
+        "issuer": "Learnwik solution.",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cyber Security(honors)",
+        "issuer": "Hindustan University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science",
+        "issuer": "Bharath Intern",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "internpedia.",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Hindustan Institute of Technology and Science",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.5",
+        "field_of_study": "Computer Science and Engineering (Specialized in AI & ML)",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mazze solver using Dijkstra Algorithm",
+        "description": "Maze solver using Dijkstra's Algorithm efficiently finds the shortest path through a maze by systematically exploring the nodes with the lowest accumulated cost, ensuring an optimal route. This algorithm is particularly effective for navigating through complex mazes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Psychological therapist chatbot using NLP and Transformers",
+        "description": "Built an advanced chatbot using NLP and Transformers like BERT. Implemented tokenization and cosine similarity for empathetic responses, offering personalized mental health support.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Smart Ring for the women safety",
+        "description": "Developed an IoT system integrated with a mobile application to monitor heart rate through a ring with a manual button. The system proactively alerts parents to any abnormal pulse rates and, upon button press, instantly shares the wearer's current location while providing live camera access for real-time visual confirmation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Java Full Stack Project",
+        "description": "Done a sample project and deployed a servlet to train Java Full Stack skills.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Various Data Handling and Data Science Projects",
+        "description": "Worked on Multiple Machine Learning Algorithms.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English (fluent)",
+      "Tamil (native)"
+    ],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "Bharath intern",
+        "description": "Developed a machine learning model to classify SMS messages as spam or ham using NLP techniques. Conducted time series analysis and forecasting using ARIMA models. Implemented a CNN to classify images of cats and dogs with TensorFlow/Keras.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Web development & Designing Intern",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "Internpedia",
+        "description": "Created a Netflix Clone, Amazon Clone, Logic page and Portfolio.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "PYTHON",
+      "JAVA",
+      "MACHINE LEARNING",
+      "DATA SCIENCE",
+      "ARTIFICIAL INTELLIGENCE",
+      "DEEP LEARNING",
+      "MySQL",
+      "JAVA Full Stack",
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "XML",
+      "JUnit",
+      "JDBC",
+      "PHP"
+    ],
+    "soft_skills": [
+      "TEAMWORK",
+      "PROBLEM SOLVING",
+      "LEADERSHIP",
+      "GOOD LISTENER",
+      "FAST LEARNER",
+      "EASY TO ADAPT TO NEW TECHNOLOGY AND LANGUAGE"
+    ],
+    "name": "Balaji Y",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

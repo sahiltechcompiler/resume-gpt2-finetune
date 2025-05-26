@@ -1,0 +1,150 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Kapil Singh Rathore",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "New Delhi",
+    "Rajasthan",
+    "Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "New Delhi",
+        "ID": 0.0,
+        "grade_received": "8.89 CGPA",
+        "field_of_study": "IT",
+        "startDate": ""
+      },
+      {
+        "school": "Maharana Pratap senior Sec. School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12",
+        "location": "Rajasthan",
+        "ID": 1.0,
+        "grade_received": "93.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Saint Greek School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Class 10",
+        "location": "Rajasthan",
+        "ID": 2.0,
+        "grade_received": "84.5%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "uHOST",
+        "description": "A hosting service for photographers to store high quality photos and provide Quick Access to them. Subscription model is added in this website design.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Viewtube",
+        "description": "A hosting service for photographers to store high quality photos and provide Quick Access to them. Subscription model is added in this website design.",
+        "keywords": [
+          "NODE",
+          "EXPRESS",
+          "MONGODB"
+        ],
+        "endDate": "",
+        "startDate": "Jan 2023",
+        "url": ""
+      },
+      {
+        "name": "React Blog Website",
+        "description": "Designed a blog website to create, read and delete blogs using react as a framework. Implemented react hooks, react routes and other react functionality.",
+        "keywords": [
+          "Css",
+          "JS",
+          "React Js"
+        ],
+        "endDate": "",
+        "startDate": "Jan 2023",
+        "url": ""
+      },
+      {
+        "name": "Natours REST API",
+        "description": "Developed a MERN stack REST API for a tour company website providing routes to perform CRUD operation on various resources like Users, Tours, reviews. Used MongoDB Atlas as cloud database and mongoDB compass to review and analyse the database. Implemented JWT token based authentication and session management.",
+        "keywords": [
+          "Express.js",
+          "MongoDB",
+          "postman",
+          "nodemailer"
+        ],
+        "endDate": "Dec 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SecureVault - decentralized file-sharing system",
+        "description": "Developed a file system on pinata IPFS storage technology and decentralized using blockchain. Used Tezos blockchain to conduct transactions and smartpy language for contracts.",
+        "keywords": [
+          "Tezos(blockchain)",
+          "smartpy",
+          "react JS",
+          "IPFS(pinata)"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2022",
+        "company_name": "Agprop - Real estate builders and construction company",
+        "description": "Developed frontend components using Vue.js to enhance user interface interactivity and responsiveness. Implemented backend functionality with Node.js, Express, and MongoDB to manage data storage and retrieval. Collaborated closely with developers to contribute to new code development. Analyzed user requirements to ensure alignment with project goals and timelines.",
+        "location": "Delhi",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "C",
+      "HTML/CSS",
+      "JS",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Kapil Singh Rathore",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Hack With MAIT 4.0. Winner (Blockchain Track)",
+      "Physics and Astronomy Club MAIT"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

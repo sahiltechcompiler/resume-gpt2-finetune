@@ -1,0 +1,158 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sukriti Maurya",
+  "college": "Dr. A. P. J. Abdul Kalam Technical University",
+  "locations": [
+    "Lucknow, India",
+    "Chennai, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A. P. J. Abdul Kalam Technical University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Lucknow, India",
+        "ID": 0.0,
+        "grade_received": "8.18",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Lucknow Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Lucknow, India",
+        "ID": 1.0,
+        "grade_received": "92.2%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Exam Portal",
+        "description": "Implemented an Exam Portal to serve as a recruitment test for students, with approximately 400 students appearing for it. Devised a user-friendly interface for displaying questions, where users were required to select correct answers within a specific time limit. Engineered APIs for seamless registration, login, instruction, test, and feedback.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Mongoose"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Scholar Pad",
+        "description": "Created backend of ScholarPad, a web-based platform that matches students with relevant scholarships based on criteria such as academic performance, gender, age, and other factors. Designed filtering system to sort scholarship data resulting in 70% faster search.",
+        "keywords": [
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Mongoose"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Quality Assurance Engineer Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "Jun 2024",
+        "company_name": "Amazon",
+        "description": "Collaborated with the Device OS team to conduct extensive test execution and debugging across various Bluetooth profiles on Amazon devices, ensuring high-quality performance and reliability. Automated 12 test cases for Bluetooth profile MAP(Message Access Profile) to streamline the testing process reducing manual testing time by 75% and increasing overall testing efficiency by 40%. Created a comprehensive test plan with 56 test cases, both functional and non-functional, for an internal AI tool to ensure comprehensive coverage and effective testing of new features and functionalities.",
+        "location": "Chennai, India",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Backend Developer Intern",
+        "skillsUsed": [
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Mongoose",
+          "AWS S3",
+          "EC2"
+        ],
+        "endDate": "Feb 2023",
+        "company_name": "Engineer Hub",
+        "description": "Architected and implemented a new backend system serving over 5,000 students with educational resources, courses, magazines, events, mentors, and other opportunities. Improved code quality and reliability by implementing unit testing and code coverage and continuous integration and deployment, resulting in a 20% decrease in production bugs. Conducted code reviews for 80% of the backend codebase, ensuring consistency and readability across the site.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Aug 2022"
+      },
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Mongoose",
+          "ReactJS",
+          "Digital Ocean"
+        ],
+        "endDate": "Oct 2022",
+        "company_name": "Property Bhavan",
+        "description": "Built RESTful APIs for user authentication, property listing, search, and booking and implemented best practices like proper error handling and security, resulting in a 30% enhancement in API performance. Improved the frontend of the platform resulting in enhanced user experience, that led to a 25% increase in mobile traffic.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "Linux",
+      "AWS",
+      "Postman",
+      "Jira",
+      "Confluence",
+      "VS Code"
+    ],
+    "soft_skills": [
+      "Agile Methodologies",
+      "Shell Scripting",
+      "Knowledge of SDLC and STLC"
+    ],
+    "name": "Sukriti Maurya",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Won the 2nd runner up position in UPES-Hackathon 7.0 and built an innovative ML model that determines a users age, gender, and live location and suggest various pension schemes to them accordingly.",
+      "Completed Keploy API fellowship.",
+      "Microsoft Learn Student Ambassadors (Beta).",
+      "Top contributor at open source program Girlscript Summer of Code (GSSoC22).",
+      "Mentor at Social Summer of Code (SSoC22).",
+      "Backend Developer and UX/UI Designer at the technical society of college, Computer Society Of India."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

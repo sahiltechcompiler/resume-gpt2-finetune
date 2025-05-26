@@ -1,0 +1,125 @@
+{
+  "project_count": 3.0,
+  "designation": "UI/UX Dev",
+  "name": "Mohammed Shazin Abbas",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.59/10.0",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "83.6",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI HealthBot Summarizer",
+        "description": "Created an AI health chatbot summarizer that generates insightful summaries of medical discussions, research, and patient forums to enhance engagement and understanding. Utilized natural language processing and topic modeling for accurate and prompt responses to medical queries, along with encouraging professional consultation for serious concerns.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "JS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Demo"
+      },
+      {
+        "name": "OutPass Android App",
+        "description": "Developed an Android app simplifying outpass management for hostel residents, facilitating easy application and tracking.",
+        "keywords": [
+          "Java",
+          "Android",
+          "Firebase",
+          "Figma"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Demo"
+      },
+      {
+        "name": "HackSRM 5.0 Hackathon 2024",
+        "description": "Participated & won Grand Prize of $600 in HackSRM 5.0. Successfully built WAVE.io from scratch in 24 hours, a multilingual audio diarization & analysis platform. Provides ability to upload, classify, and generate insights from your audio data (preferably conversation) in one click. Further, chat with your data for additional insights.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "JS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "UI/UX Dev",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Agumentik Group of Companies",
+        "description": "Proficient in creating wireframes, prototypes, and high-fidelity designs using Figma. Conducted user research, usability testing, and iterated on design solutions to optimize user-friendly applications.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Django",
+      "Java",
+      "C/C++",
+      "SQL",
+      "MongoDB",
+      "Leadership",
+      "Management"
+    ],
+    "soft_skills": [],
+    "name": "Mohammed Shazin Abbas",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

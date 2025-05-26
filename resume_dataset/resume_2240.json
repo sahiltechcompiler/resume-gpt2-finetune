@@ -1,0 +1,113 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "PARAS CHAWLA",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Outreach Member, Google Developers Student Club (GDSC)"
+    ],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "8.93(Till Sem 5)",
+        "field_of_study": "AI & Data Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Venkateshwar International School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Delhi",
+        "ID": 1.0,
+        "grade_received": "92.8%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Sri Venkateshwar International School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "Delhi",
+        "ID": 2.0,
+        "grade_received": "88%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Tenzies Game",
+        "description": "Developed a digital adaptation of Tenzies game using react.Implemented game logic, Ui components and responsive design using HTML,CSS, Javascript with the react framework.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "To-Do List Web App",
+        "description": "Developed a dynamic To-Do List Web App featuring distinct sections for home and office tasks; utilized Node.js backend and EJS, CSS with Bootstrap framework to ensure seamless functionality and user-friendly interface.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analysis Intern",
+        "skillsUsed": [
+          "Python",
+          "SQL"
+        ],
+        "endDate": "Aug 23",
+        "company_name": "Proeffico Pvt. Ltd.",
+        "description": "Contributed in building Data Analytics Driven Dynamic Credit Scoring for a Distribution Center. Utilized python to analyze customer credit histories, identifying key trends and patterns used in the credit limit assignment process. Leveraged SQL to query and manipulate large datasets from relational databases, ensuring data accuracy and integrity for credit assessment.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 23"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Javascript",
+      "Python(Basics)",
+      "Java(Basics)",
+      "SQL",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Bootstrap",
+      "Git",
+      "VS Code",
+      "REST APIs",
+      "Postman",
+      "DSA",
+      "DBMS",
+      "OOPs"
+    ],
+    "soft_skills": [],
+    "name": "PARAS CHAWLA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

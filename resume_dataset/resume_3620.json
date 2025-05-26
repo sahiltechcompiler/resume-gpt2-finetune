@@ -1,0 +1,115 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Manas Kumar Verma",
+  "college": "IIIT HYDERABAD",
+  "locations": [
+    "Singapore"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "IIIT HYDERABAD",
+        "endDate": "August 2020",
+        "maximum_grade": "",
+        "degree": "B.Tech.+M.S. by Research",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CS",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AUTOGRADER ONLINE JUDGE",
+        "description": "In production evaluated 50k+ codes  Built a platform that remotely compiles user submitted code for a programming problem, automatically grades the code as per efficiency & correctness.  Adopted at University, used by teachers to train 1k+ students.  Supports horizontal scaling, deployed on gunicorn + nginx combination.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SCALABILITY-4-ALL",
+        "description": "Founded Opensource Org Ongoing project to build an open source enterprise-scale chatbot.  Our organization got selected for prestigious RGSoC (Rails Girls Summer of Code) and we mentored 3 students under the programme.  We aim to build a marketplace of modules that powers chatbot so unlike traditional model enterprises do not have to share data to 3rd party or use APIs.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "KAGGLE | Dog Breed Identification Challenge",
+        "description": "Ranked 8th out of 965 contestants Challenge was to classify breed of given dog image in one of 120 breeds with mere 80 training images provided per class. Trained 2 fully connected layer in CNN combining it with pre-trained Inception V3 model using Transfer Learning. Applied conditional Laplace smoothing to optimize multi-log loss to get accuracy of 98.7%. Ranked in top 10 out of 965 Kaggle participants at the time of submission. Drawing insights from over 10 Kaggle contests, I have compiled my experience in my blog Introduction to Competitive Machine Learning.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Quant Trader - Intern",
+        "skillsUsed": [],
+        "endDate": "July 2019",
+        "company_name": "ALPHAGREP",
+        "description": "Worked on improvising profits using statistical learning to improve best split across existing mathematical models by 140% than baseline system. Encapsulated my work as a machine learning library which is now being extended to more markets.",
+        "location": "Singapore",
+        "links": "",
+        "startDate": "May 2019"
+      },
+      {
+        "role_name": "Co-founder",
+        "skillsUsed": [],
+        "endDate": "July 2018",
+        "company_name": "SIMPLERNOW",
+        "description": "Our platform connected high-school students to relevant university students for counseling and creating personalized learning paths.  Experience of building a fleet of around 200 counselors working for us.  Guided couple of interns and worked closely in a team of 6.  Joy of helping 5000+ students till date.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2017"
+      },
+      {
+        "role_name": "Software Engineering Intern",
+        "skillsUsed": [],
+        "endDate": "July 2015",
+        "company_name": "DIRECTI",
+        "description": "Got invited directly to onsite interviews after winning top 3 cash prize in National ACM-ICPC Training camp during my high school. Tasks accomplished :- Built Machine Learning models : Problem Recommendation System.  Algorithmic Problem Curation.  Became youngest Directi Intern at age 17.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2015"
+      }
+    ],
+    "skills": [
+      "PHP",
+      "C/C++",
+      "Python",
+      "mySQL",
+      "C#",
+      "Basic - Golang",
+      "Java",
+      "Haskel",
+      "Phalcon(PHP)",
+      "web2py",
+      "Bootstrap",
+      "OpenCV",
+      "MATLAB",
+      "TensorFlow",
+      "RabbitMQ",
+      "Kafka",
+      "Redis"
+    ],
+    "soft_skills": [],
+    "name": "Manas Kumar Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2020.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech.+M.S. by Research"
+}

@@ -1,0 +1,124 @@
+{
+  "project_count": 2.0,
+  "designation": "Web developer",
+  "name": "Tony babu Yelakapati",
+  "college": "SRM University",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "At SRM University AP, Im studying a Bachelor of Technology (B. tech) with a focus on CSE. Problem- solving, Java, JavaScript, React, MongoDB, Node.js, Express.js, and HTML/CSS are among my primary skills. I have a strong interest in creating web apps and resolving challenging issues.click here.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana junior College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Vidya Vikas EM School",
+        "endDate": "2019",
+        "maximum_grade": "10.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.5/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Newsmaniac",
+        "description": "Developed and maintained NewManiac, a dynamic news aggregation application leveraging the News-API for real-time news updates. Utilized modern technologies and frameworks such as React for the frontend, ensuring users receive up-to-date information. Integrated robust user authentication mechanisms using backend technologies.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Resume Maker",
+        "description": "Designed and implemented a comprehensive resume creation and management tool using modern web technologies. Integrated secure user authentication and authorization using Clerk, ensuring data privacy and secure access to user accounts. Built a robust backend using Node.js and Express.js, providing a well-structured API for handling CRUD operations on resume data. Created dynamic forms for managing professional experiences, allowing users to add, edit, and remove job experiences seamlessly.",
+        "keywords": [
+          "React.js",
+          "Tailwind CSS",
+          "Shadcn",
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Bootstrap",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Codeswap Solution",
+        "description": "Developed and maintained responsive websites using HTML, CSS, JavaScript, and various frameworks like React and Bootstrap. Implemented user interfaces, interactive elements, and dynamic features to enhance user experience. Experienced in backend development using Node.js, Express.js, and databases like MongoDB.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Node.js",
+      "Express",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Tony babu Yelakapati",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

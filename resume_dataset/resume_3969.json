@@ -1,0 +1,130 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Harshitha Burle",
+  "college": "SRM University",
+  "locations": [
+    "AP",
+    "Virtual Internship"
+  ],
+  "full_output": {
+    "summary": "Aspiring undergraduate dedicated to applying academic expertise in a growth-oriented organization, focused on contributing meaningfully and enhancing professional development.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Participated in a 24-hour C programming hackathon, organized by SRM Universitys CSE Department.",
+        "skillsLearned": [],
+        "title": "Hackathon",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed certification for Micro-Certification: Welcome to ServiceNow.",
+        "skillsLearned": [],
+        "title": "ServiceNow",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed 7-day DEV-TOWN bootcamp on facebook login page by using HTML and CSS.",
+        "skillsLearned": [],
+        "title": "Bootcamp",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sarada Educational Institutions",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 9.7/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bhashyam Educational Institutions",
+        "endDate": "2019",
+        "maximum_grade": "(Score: 860/1000)",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "(CGPA: 7.51/10.0)",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Glaucoma Detection Using Deep Learning Algorithms",
+        "description": "Developed a glaucoma detection model using Python and TensorFlow, with CNN and residual blocks. Augmented Kaggle dataset; extracted features; trained CNN model for optimal performance. Evaluated using various metrics, achieving 84 percent accuracy.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blood Bank Management System",
+        "description": "Streamlined operations and improved care by developing SRS and UML diagrams. Admin: Managed inventory. Donor: Registered and tracked. Patient: Streamlined blood requests. Increased operational efficiency, accuracy, and regulatory compliance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Internship Web Development Using Django",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "APSSDC",
+        "description": "Developed web applications with Django, enhancing back-end efficiency and code modularity. Gained skills in integrating and designing visually appealing, modern user interfaces.",
+        "location": "Virtual Internship",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JS",
+      "Django",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Harshitha Burle",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

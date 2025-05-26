@@ -1,0 +1,142 @@
+{
+  "project_count": 3.0,
+  "designation": "Student",
+  "name": "SHRASTI AGRAWAL",
+  "college": "Noida Institute of Engg. and Technology",
+  "locations": [
+    "Hybrid",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engg. and Technology",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.3",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th Class",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "80%",
+        "field_of_study": "CBSE Board",
+        "startDate": "2019"
+      },
+      {
+        "school": "",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th Class",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "72.3%",
+        "field_of_study": "CBSE Board",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ParallaX Website",
+        "description": "Build a responsive website using HTML, CSS, and JavaScript, incorporating a Parallax Scrolling effect that boosted user engagement by 15%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Driver Drowsiness Detection System",
+        "description": "Engineered a real-time drowsiness detection system with Pandas, OpenCV, PyGame, and Haarcascade, achieving 90% accuracy in detecting drowsy drivers and reducing accident risk.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CPU Scheduling Algorithms",
+        "description": "Developed a C++ project implementing various CPU scheduling algorithms, including FCFS, SJF, Priority, and Round Robin, enhancing understanding of process management in operating systems.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SEO Intern / Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "Wapventure",
+        "description": "Enhanced SEO strategies and frontend development, boosting organic traffic by 25%, search rankings by 30%, user engagement by 40%, and reducing bounce rate by 15%.",
+        "location": "Hybrid",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "July 2022",
+        "company_name": "Bharat Intern",
+        "description": "Developed a Titanic survival model with 78% accuracy and a stock prediction tool using Scikit-learn, improving forecasts by 20% and surpassing benchmarks.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2022"
+      },
+      {
+        "role_name": "Stem Connect Virtual Experience Program",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "Deloitte",
+        "description": "Completed practical modules in coding and data analytics, collaborating with a team to boost data processing speed by 25%, problem-solving efficiency by 30.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Java",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Google Cloud Platform",
+      "Visual Studio",
+      "Git",
+      "GitHub",
+      "PostgreSQL",
+      "Django",
+      "TensorFlow",
+      "Scikit-learn",
+      "NumPy",
+      "Pandas"
+    ],
+    "soft_skills": [],
+    "name": "SHRASTI AGRAWAL",
+    "position": "Student",
+    "interests": [],
+    "achievements_and_awards": [
+      "Finalist in national competitions, including Smart India Hackathon and Learnowx Ideathon.",
+      "Solved 200+ DSA problems in C++ and earned certifications from Coursera and Google Quick Labs.",
+      "Organized inter-college tournaments, increasing club membership by 20% and winning 3 championships.",
+      "Boosted online engagement as Social Media Manager for Geeks for Geeks Student Chapter NIET."
+    ],
+    "publications": []
+  },
+  "current_location": "Greator Noida",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Engineering"
+}

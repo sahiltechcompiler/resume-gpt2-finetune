@@ -1,0 +1,215 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Sanyam Saxena",
+  "college": "AJAY KUMAR GARG ENGINEERING COLLEGE",
+  "locations": [
+    "Ghaziabad, U.P.",
+    "Lucknow, U.P."
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Using C++",
+        "issuer": "INFOSYS SPRINGBOARD",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database and SQL",
+        "issuer": "INFOSYS SPRINGBOARD",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete Web Development Bootcamp",
+        "issuer": "UDEMY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Crash Course on Python",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Git & Github",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "AJAY KUMAR GARG ENGINEERING COLLEGE",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad, U.P.",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Lucknow, U.P.",
+        "ID": 1.0,
+        "grade_received": "8.19",
+        "field_of_study": "Electrical Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "MONTFORT INTER COLLEGE",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Lucknow, U.P.",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "MONTFORT INTER COLLEGE",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "Lucknow, U.P.",
+        "ID": 3.0,
+        "grade_received": "",
+        "field_of_study": "UPSBIHE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "HOSTEL MANAGEMENT SYSTEM",
+        "description": "Made a prototype for the management of student registrations, booking, and allocation of hostel rooms, satisfying the COVID norms. Initiates a contactless allocation process. Separate warden and student panel for better communication.",
+        "keywords": [
+          "Full Stack"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ONLINE LIBRARY MANAGEMENT SYSTEM",
+        "description": "Created a system to manage library resources, track borrow/return transactions, and handle user memberships. Developed SQL queries for database management and data retrieval.",
+        "keywords": [
+          "SQL",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI DESKTOP ASSISTANT",
+        "description": "A python-based AI desktop assistant. Performs both online & offline tasks on voice commands. Uses OpenAI API for online tasks.",
+        "keywords": [
+          "Python",
+          "OpenAI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TINDOG",
+        "description": "A website for pairing up dogs of various breeds. Dog owners can pair up with the breed they want, which helps in match-pairing and breeding. Front-end based on Html, css, bootstrap and js.",
+        "keywords": [
+          "Front-End"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "EMPLOYEE MANAGEMENT SYSTEM",
+        "description": "Designed and implemented a database for managing employee information, tracking attendance, and handling payroll. Developed complex SQL queries for data analysis and reporting.",
+        "keywords": [
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "English",
+      "French (Beginner)"
+    ],
+    "experiences": [
+      {
+        "role_name": "Member",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "TEAM OSS",
+        "description": "Member of a team involved in the management of web services of college. Made Hostel Management System Prototype.",
+        "location": "Ghaziabad",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Javascript",
+      "MySQL",
+      "React.js",
+      "Next.js",
+      "Tailwind",
+      "Typescript",
+      "Web Design/Development",
+      "VScode",
+      "Git",
+      "Sublime"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Time Management",
+      "Adaptability",
+      "Touch-typing"
+    ],
+    "name": "Sanyam Saxena",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Got NCC A Certificate - 2016",
+      "Got NCC B Certificate - 2018",
+      "Solved over 500 questions on different coding platforms."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

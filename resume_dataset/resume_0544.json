@@ -1,0 +1,137 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Kritika Choubey",
+  "college": "Noida Institute of Engineering And Technology",
+  "locations": [
+    "Noida,UP, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "Coursera, Authorised by University of Michigan",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to NoSQL Databases",
+        "issuer": "Coursera, Authorised by IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Human-Centred Design for Inclusive Innovation",
+        "issuer": "Coursera, Authorised by University of Toronto",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis with Python",
+        "issuer": "Coursera, Authorised by IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering And Technology",
+        "endDate": "August 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 6.5/10",
+        "field_of_study": "Computer Science Engineering (Data Science)",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "RSM International School",
+        "endDate": "April 2021",
+        "maximum_grade": "Class X Percentage: 65%",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Class XII Percentage: 85%",
+        "field_of_study": "",
+        "startDate": "March 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sentimental Analysis using ML",
+        "description": "Performed sentiment analysis on a large Twitter dataset, using NLP techniques like tokenization, stemming, and lemmatization. Implemented machine learning models (Logistic Regression, SVM, Random Forest), optimizing them for high accuracy. Visualized sentiment trends using Matplotlib and Seaborn. Leveraged Python libraries (Pandas, Scikit-learn, NLTK) to enhance computational efficiency.",
+        "keywords": [
+          "Python",
+          "NLP",
+          "Machine Learning",
+          "Data Visualization"
+        ],
+        "endDate": "",
+        "startDate": "6th semester",
+        "url": ""
+      },
+      {
+        "name": "Driver drowsiness detection system",
+        "description": "Developed a Driver drowsiness detection system with a load model function from Keras. Designed to help drivers stay awake while driving, in order to reduce the risk of accidents caused by drowsiness. Key Features: CNN: extract relevant features from images, OpenCV: Testing code, NumPy, and Matplotlib: display the test image, and to make predictions using the pre-trained CNN model.",
+        "keywords": [
+          "CNN",
+          "OpenCV",
+          "NumPy",
+          "Matplotlib",
+          "SVM",
+          "HMM"
+        ],
+        "endDate": "16th October 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "August 05, 2024",
+        "company_name": "Edunet Foundation",
+        "description": "4-week Internship",
+        "location": "",
+        "links": "",
+        "startDate": "July 08, 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript (Basic)",
+      "HTML",
+      "CSS",
+      "Database Basics",
+      "React.js",
+      "Machine Learning Algorithms"
+    ],
+    "soft_skills": [],
+    "name": "Kritika Choubey",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Noida,UP, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

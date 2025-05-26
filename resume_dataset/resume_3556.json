@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Abhiram Mujumdar",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Airoli",
+    "Jaipur",
+    "Bengaluru, Karnataka"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Responsive Web Design",
+        "issuer": "freecodecamp",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Object Oriented Programming with java",
+        "issuer": "coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science Bootcamp",
+        "issuer": "365 careers(Udemy)(On Going)",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "Current CGPA:- 8.96",
+        "field_of_study": "Information Technology",
+        "startDate": "June 2019"
+      },
+      {
+        "school": "DAV Public School, Airoli",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Airoli",
+        "ID": 1.0,
+        "grade_received": "Percentage:- 91",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SentiMotion",
+        "description": "A group project based on sentiment analysis by detecting facial expressions. A user friendly website made with the help of react and next.js and flutter as backend. Used a CNN deep learning model used to predict the emotion based on the facial expressions of user.",
+        "keywords": [
+          "Next.js",
+          "React",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "VSpend",
+        "description": "A spending tracker which helps the user keeps track of their expenses and their savings. Used HTML, CSS, JavaScript to make a user friendly front end and backend is made using the help of php.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Generative AI in medical imaging",
+        "description": "An ongoing research on the use and application of generative AI in the feild of medical imaging. Currently working on Generative Adversarial Networks to create brain MRI scan images using brain MRI dataset from kaggle. This ongoing application of Generative AI is based on DCGAN consisting of two Convolutional Neural Network models.",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Easylib Software Pvt. Ltd.",
+        "description": "Contributed to full-stack development of a library and campus management system using PHP and MS SQL. Designed and implemented multiple user interfaces to enhance system functionality. Developed features examples: Excel data import and database integration, System health check module for monitoring client URL status. Gained hands-on experience in both front-end and back-end web development.",
+        "location": "Bengaluru, Karnataka",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "HTML/CSS",
+      "JavaScript",
+      "PHP",
+      "MySQL",
+      "React"
+    ],
+    "soft_skills": [],
+    "name": "Abhiram Mujumdar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "1st place WebStorm by SCSE MUJ",
+      "2nd Place Decode by ACM MUJ",
+      "3rd Place DeCrypt by ACM MUJ",
+      "3rd Place CyberCrusade by SIGAI ACM"
+    ],
+    "publications": [
+      "Enhancing Edge-based Cardiovascular Diagnosis through Federated Leaning and IoT | Presented in Conference"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

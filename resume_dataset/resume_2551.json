@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ARYAN SINGHAL",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Dehradun, India",
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "Dedicated Computer Science undergraduate with experience as a Python developer. Proficient in Python, Flask, Mongodb, SQL, HTML, CSS and JavaScript. Strong foundation in RDBMS, OS, and OOPs principles. Committed to taking ownership of projects and leading teams to success.",
+    "certifications": [],
+    "social_work": [
+      "Active in college events, I've been part of the core committee for tech and cultural fests, and have contributed to social causes like blood donation camps."
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Science and Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA : 8.00 (Till VI Sem)",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Doon International School, Dehradun",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 88.4",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School, Roorkee",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 83.4",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Attendance Management System",
+        "description": "Developed an automated attendance management system using Embedded C++, MySQL, RFID, and NodeMCU, with data integration to Google Sheets. Got it patented for the innovation and authored a research paper accepted by the ICT4SD conference. This project enhances attendance tracking efficiency for educational institutions.",
+        "keywords": [
+          "C++",
+          "MySQL",
+          "Arduino",
+          "Internet of Things (IoT)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "(Try it here)"
+      },
+      {
+        "name": "Hotel Management Website",
+        "description": "Developed a comprehensive hotel management website using HTML, CSS, JavaScript, PHP, and MySQL. The system features an intuitive booking process, secure admin panel, easy cancellations, and integrated payment gateway. Enhanced the efficiency of hotel operations and customer satisfaction, leading to increased online bookings and streamlined management.",
+        "keywords": [
+          "HTML",
+          "MySQL",
+          "Cascading Style Sheets (CSS)",
+          "JavaScript",
+          "PHP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developed a movie recommendation system using Python, SQL and machine learning techniques, leveraging CountVectorizer for text processing. The system analyzes movie plots to suggest similar films, enhancing user experience with personalized recommendations based on content similarity.",
+        "keywords": [
+          "Python",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Trainee",
+        "skillsUsed": [
+          "Flask",
+          "Python",
+          "MongoDB",
+          "Streamlit",
+          "REST APIs",
+          "JSON",
+          "JWT",
+          "Git"
+        ],
+        "endDate": "Aug 2024",
+        "company_name": "WittyBrains Software Technology limited",
+        "description": "Led the development of an intelligent chatbot that recommends songs based on sentiment analysis. Ensured robust and scalable code while collaborating effectively with the team.",
+        "location": "Noida",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Html",
+      "CSS",
+      "Javascript",
+      "Mongodb",
+      "SQL",
+      "Advanced statistics",
+      "Regression and ML techniques",
+      "React.Js",
+      "C++"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Communication",
+      "Leadership"
+    ],
+    "name": "ARYAN SINGHAL",
+    "position": "",
+    "interests": [
+      "traveling",
+      "photography",
+      "playing pool",
+      "following financial markets"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Dehradun, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Computer Science and Engineering"
+}

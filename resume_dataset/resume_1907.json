@@ -1,0 +1,140 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Nandini Maheshwari",
+  "college": "KIET Group Of Institutions",
+  "locations": [
+    "Delhi NCR",
+    "Bareilly",
+    "New Delhi, Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certified in Azure cloud-native technologies through hands-on training in Ballerina and Choreo, demonstrating practical expertise in cloud-native development and orchestration.",
+        "skillsLearned": [],
+        "title": "Azure Cloud Native Tour",
+        "issuer": "Cloud Native Training Session",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Proficient in Postman API fundamentals, adept at leveraging its capabilities to streamline API development and testing processes with precision and efficiency.",
+        "skillsLearned": [],
+        "title": "Postman API Fundamentals Student Expert",
+        "issuer": "API Consumption and Application",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Delhi NCR",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.37",
+        "field_of_study": "CSE",
+        "startDate": "Nov. 2021"
+      },
+      {
+        "school": "GRM School",
+        "endDate": "March 2020",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Bareilly",
+        "ID": 1.0,
+        "grade_received": "Percentage: 82.8",
+        "field_of_study": "PCM",
+        "startDate": "April 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "DevTube",
+        "description": "Developed robust backend functionality, enabling features such as user authentication, profile management (avatar, cover image, name, username, email), and subscription handling (subscribers, subscribed to). Implemented MongoDb with Mongoose to design and manage the database schema and utilized aggregation pipelining for complex data queries and analytics. Enhanced user experience with comprehensive profiles and subscription features, mimicking YouTubes functionality.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Authorization Showcase Website",
+        "description": "Developed a full-stack authorization website using Next.js, employing both SSR and CSR for optimized performance and SEO. Integrated MongoDB for secure user authentication and data management, ensuring robust authorization mechanisms. Implemented NodeMailer for automated email notifications, enhancing user experience with account verification and password reset functionalities.",
+        "keywords": [
+          "Next.js",
+          "Tailwind CSS",
+          "MongoDB"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Personal Portfolio",
+        "description": "Built a personal portfolio using React.js, showcasing dynamic content and interactive components. Implemented advanced styling with Tailwind CSS for a modern, visually appealing, and consistent design. Utilized Redux for state management, ensuring a seamless and responsive user experience across all devices.",
+        "keywords": [
+          "React.js",
+          "Tailwind CSS"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Developer Intern",
+        "skillsUsed": [
+          "React Native",
+          "Figma",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "Present",
+        "company_name": "Corazor Technology Private Limited",
+        "description": "Successfully developed and deployed two mobile applications using React Native, enhancing user experience and ensuring cross-platform compatibility. Currently working on three diverse web service projects, focusing on both frontend and backend development, utilizing technologies such as React Native, Figma, Node.js, Express.js, MongoDB. Designed and implemented scalable architectures, developed RESTful APIs, integrated third-party services, and maintained code quality through continuous integration and testing.",
+        "location": "New Delhi, Delhi",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "JavaScript",
+      "TypeScript",
+      "MERN (MongoDB, Express.js, React.js, Node.js, Next.js, Tailwind.css, React-Native)",
+      "Git",
+      "VS Code",
+      "Postman",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Nandini Maheshwari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Contributor: Social Summer Of Code23",
+      "Global Nominee: NASA Space Apps22",
+      "Finalist: Offline hackathon Ideate to Sustain22 held in IGDTUW, New Delhi",
+      "Contributor: Hacktoberfest22"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

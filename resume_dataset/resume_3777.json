@@ -1,0 +1,110 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aayush Raj Verma",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Gorakhpur, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.35/10.0",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Autonomous Driving System with Road Sign Recognition",
+        "description": "Developed/Investigated Traffic Sign Recognition (TSR) for autonomous vehicles using deep learning techniques (Multilayer Perceptron) and machine learning (Random Forest Classifier) Optimized real-time performance of TSR algorithms for efficient autonomous navigation. Contributed to the development of a robust and reliable autonomous driving system",
+        "keywords": [],
+        "endDate": "Apr. 2024",
+        "startDate": "Jan. 2024",
+        "url": ""
+      },
+      {
+        "name": "Netflix Clone",
+        "description": "Developed a front-end web application replicating the core user interface of Netflix using HTML for structure and organization. Implemented responsive design principles using CSS to ensure the application adapts to various screen sizes and devices. Utilized JavaScript for dynamic features, potentially which includes interactive navigation elements (e.g.hover effects , on hovering the window it initalizes the video)",
+        "keywords": [
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Mar. 2023",
+        "startDate": "Feb. 2023",
+        "url": ""
+      },
+      {
+        "name": "Snake Game",
+        "description": "Built classic Snake game in Java using OOP, demonstrating game development skills. Implemented features such as player controlled snake movement, collision detection, food generation. scoring, and game over conditions. Leverages Javas Swing library for UI. Showcased problem-solving through game mechanics and edge cases.",
+        "keywords": [
+          "Java",
+          "OOPs"
+        ],
+        "endDate": "Oct. 2022",
+        "startDate": "Sep. 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [],
+        "endDate": "Nov. 2023",
+        "company_name": "TopperWorld",
+        "description": "Developed a probabilistic spell checker model using statistical methods to accurately predict and correct misspelled words. The model achieved an accuracy of 93.43%, significantly improving spelling correction by analyzing word frequency and context from a large text corpus. Integrated the model into an existing application, improving user experience by reducing manual correction efforts.",
+        "location": "Gorakhpur, Uttar Pradesh",
+        "links": "",
+        "startDate": "Oct. 2023"
+      },
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "Mar. 2021",
+        "company_name": "",
+        "description": "",
+        "location": "Gorakhpur, Uttar Pradesh",
+        "links": "",
+        "startDate": "Mar. 2020"
+      },
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "Mar. 2019",
+        "company_name": "",
+        "description": "",
+        "location": "Gorakhpur, Uttar Pradesh",
+        "links": "",
+        "startDate": "Mar. 2018"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "soft_skills": [],
+    "name": "Aayush Raj Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

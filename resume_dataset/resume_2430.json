@@ -1,0 +1,146 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Smeet Lodaya",
+  "college": "Shah And Anchor Kutchhi Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah And Anchor Kutchhi Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Mumbai",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.01",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Gurukul English School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary School",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "XIIth - 84",
+        "field_of_study": "C.B.S.E",
+        "startDate": ""
+      },
+      {
+        "school": "St. Anns School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Xth - 82.1",
+        "field_of_study": "I.C.S.E",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Web Based Streaming Platform(Netflix)",
+        "description": "Developed a Netflix clone web application using MERN stack to mimic the core functionality of Netflix. Implemented user authentication using JWT (JSON Web Tokens) for secure login and registration Integrated a video streaming feature using React.js and a custom video player component. Designed and developed a recommendation engine based on user viewing history and preferences, improving user engagement.",
+        "keywords": [
+          "JavaScript",
+          "Reactjs",
+          "Redux",
+          "MERN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Realtime Chat App",
+        "description": "A react based web application which allow users to chat in real time. Designed and implemented the frontend UI/UX using React.js, including chat rooms, message threads, and user profiles. Integrated Socket.io for real-time communication, allowing instant message delivery and live updates.",
+        "keywords": [
+          "JavaScript",
+          "Socket.io",
+          "MERN",
+          "JWT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Facial Emotion Recognition and Detection",
+        "description": "A system to accurately detect and recognize human emotions using advanced machine learning. Designed and implemented Convolutional Neural Network (CNN) architecture tailored for facial emotion recognition. Integrated OpenCV and Dlib libraries for real-time emotion detection from video streams.",
+        "keywords": [
+          "Python",
+          "Jupyter Notebook",
+          "Keras",
+          "OpenCV",
+          "Dlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Food Ordering Platform",
+        "description": "A react based web application which allow users to order food from local restaurants, place orders and track deliveries. Designed and implemented the frontend UI/UX using React.js, including user profiles, Restaurant page and menu listings. Integrated Socket.io for real-time updates and payments, allowing instant delivery details and live updates.",
+        "keywords": [
+          "JavaScript",
+          "MERN",
+          "JWT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "C/C++",
+          "Java",
+          "Javascript",
+          "HTML+CSS",
+          "Nodejs",
+          "VScode",
+          "Git",
+          "Github"
+        ],
+        "endDate": "",
+        "company_name": "ACM",
+        "description": "In-depth understanding of AIML Algoritms, including Logistic Regression, Random Forest, KNN, SVM and more Successfully designed and implemented a robust score prediction system, demonstrating proficiency in AI/ML concepts. Achieved RMSE of 85 percent on test data, showcasing the effectiveness of the predictive model. Collaborated with a team to collect and preprocess data, ensuring the quality and relevance of input features.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "ReactJs",
+      "MongoDb",
+      "Firebase"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Self-learning",
+      "Presentation",
+      "Adaptability"
+    ],
+    "name": "Smeet Lodaya",
+    "position": "",
+    "interests": [
+      "Web Design and Development",
+      "Data Structures & Algorithm"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

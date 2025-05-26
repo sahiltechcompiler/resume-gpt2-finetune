@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "Shreedhar Joshi",
+  "college": "Shah and Anchor Kutchhi Engineering College",
+  "locations": [
+    "Mumbai, Maharashtra"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor Kutchhi Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Chembur, Mumbai",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Heritage Explorer",
+        "description": "Revolutionized heritage tourism tech with dynamic features and streamlined access through QR codes, enhancing user engagement and experience.",
+        "keywords": [
+          "MERN Stack",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "BuzzChat",
+        "description": "Crafted BuzzChat, a dynamic Full Stack Chatting App with real-time communication, robust security, and a comprehensive suite of features, revolutionizing online interactions.",
+        "keywords": [
+          "MERN Stack",
+          "Socket.io"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image Colorization with GAN",
+        "description": "Engineered a sophisticated Image Colorization model utilizing the UNet architecture, showcasing adeptness in intricate neural network structures. Integrated Conditional GAN (CGAN) and Convolutional Neural Network (CNN) components for heightened colorization accuracy and robust dataset handling.",
+        "keywords": [
+          "Python",
+          "UNET",
+          "GAN",
+          "Neural Networks"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Bot2Do Technologies",
+        "description": "Developed advanced web applications using the MERN stack, Next.js, and TypeScript, integrating third-party APIs to enhance functionality. Developed and maintained server-side applications using Node.js, and designed and implemented RESTful APIs to enhance backend services. Improved application performance by resolving bugs, maintaining documentation, and utilizing Strapi CMS and Git for efficient development and project management.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "ML Developer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "HyperBoost AI Solutions",
+        "description": "Engineered sophisticated machine learning and generative AI models, significantly enhancing predictive analytics and automating content generation. Crafted intuitive and interactive user interfaces, streamlining the deployment and utilization of AI models for diverse user groups.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "MERN Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "Softwave Solutions",
+        "description": "Directed the development of dynamic websites using the MERN stack, improving overall application efficiency significantly. Spearheaded the integration of impactful features, enhancing user engagement with new functionalities developed using React and Node.js/Express.js. Additionally, streamlined MongoDB databases to optimize application performance and enhance user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node",
+      "Express",
+      "Next",
+      "Tailwind",
+      "Pandas",
+      "Numpy",
+      "Strapi CMS",
+      "Langchain",
+      "Git",
+      "GitHub",
+      "Postman",
+      "AWS",
+      "SQL/MySQL",
+      "MongoDB",
+      "Data Structures and Algorithms",
+      "Web Development",
+      "Problem Solving",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "soft_skills": [],
+    "name": "Shreedhar Joshi",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Mumbai, Maharashtra",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.E."
+}

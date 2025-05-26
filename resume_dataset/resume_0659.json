@@ -1,0 +1,187 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "SHRUTI SINGH",
+  "college": "Shah & Anchor Kutchhi Engineering College",
+  "locations": [
+    "Mumbai, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate for completion of python 3.4.3 training provided by the Spoken Tutorial Project, IIT BOMBAY.",
+        "skillsLearned": [],
+        "title": "Python 3.4.3 training",
+        "issuer": "Spoken Tutorial Project, IIT BOMBAY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate for completion of PHP and MySQL training provided by the Spoken Tutorial Project, IIT BOMBAY.",
+        "skillsLearned": [],
+        "title": "PHP and MySQL training",
+        "issuer": "Spoken Tutorial Project, IIT BOMBAY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate for completion of Data Analytics with grade B under Atos Prayas Foundation.",
+        "skillsLearned": [],
+        "title": "Data Analytics",
+        "issuer": "Atos Prayas Foundation",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate for completion of Python-Introduction to Data Science and Machine Learning provided by Udemy.",
+        "skillsLearned": [],
+        "title": "Python-Introduction to Data Science and Machine Learning",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah & Anchor Kutchhi Engineering College",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Navjeevan Education Societys Polytechnic",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94.69%",
+        "field_of_study": "Computer Engineering",
+        "startDate": "2018"
+      },
+      {
+        "school": "Little Flower English Medium High School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "80.60%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ChatBot",
+        "description": "As a part of the Third-year B.E project (Semester 5&6, team of four), we used RASA, NLU. Design, code, and build an application for customer support capable of handling complex conversations to enhance the customer experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "3D Forest Runner",
+        "description": "A game using Unity, we used UNITY, C# Code, 3D Core, Asset Store, Prefabs. Immerses players in a breathtaking 3D forest environment. The objective is to guide the character through this enchanting woodland while avoiding obstacles and challenges.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Driver Drowsiness Detection System",
+        "description": "As a part of the second-year B.E project (Semester 4, team of four), we used Python, OpenCV, keras, TensorFlow. The model we used is built with Keras using Convolutional Neural Networks (CNN). Enhances road safety by promptly detecting and alerting against driver drowsiness, reducing the risk of accidents.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face Mask Detection System",
+        "description": "As a part of the second-year B.E project (Semester 3, team of four). In this project, we have developed a deep learning model for face mask detection using Python, Keras, and OpenCV. We developed the face mask detector model for detecting whether person is wearing a mask or not. We trained the model using Keras with network architecture.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mood Based Music Player",
+        "description": "As a part of the final year diploma project (Semester 6, team of four), we used Dart, NodeJS, OpenCV to create an mood based music player application where user can play music with respect to their emotions. Overcome the time to search and select the song by user mood.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Student Intern",
+        "skillsUsed": [],
+        "endDate": "2024",
+        "company_name": "Minepro Minerals Pvt.Ltd",
+        "description": "Worked on a project titled Object Recolorization using Image Mapping, Developed a method to accurately re-colour grey-scale images using a coloured template. Leveraging image similarity and SIFT for precise image-mapping. Implemented parallel processing to enhance performance in image re-colourization tasks.",
+        "location": "Mumbai, India",
+        "links": "",
+        "startDate": "2023"
+      },
+      {
+        "role_name": "AIML Intern",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "KOFAX",
+        "description": "Worked on a project titled Chat Bot for customer support using RASA platform, Natural Language Processing (NLP) and Machine Learning (ML) algorithms. Design, code, and build an application for customer support capable of handling complex conversations to enhance the customer experience.",
+        "location": "Mumbai, India",
+        "links": "",
+        "startDate": "2022"
+      },
+      {
+        "role_name": "Online internship in Python",
+        "skillsUsed": [],
+        "endDate": "15/06/2020",
+        "company_name": "Moryaa Infusion Software solution",
+        "description": "Completed online internship focusing on Python, web scraping, and MySQL, showcasing expertise in data extraction, manipulation, and database management.",
+        "location": "Mumbai, India",
+        "links": "",
+        "startDate": "16/05/2020"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C++",
+      "C",
+      "MySQL",
+      "HTML",
+      "Latex",
+      "Adobe Illustrators",
+      "GitHub",
+      "Visual Studios",
+      "Django",
+      "Android Studio",
+      "AWS",
+      "Tableau"
+    ],
+    "soft_skills": [],
+    "name": "SHRUTI SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.E"
+}

@@ -1,0 +1,158 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Asish Manoj",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "10/10",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.56",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Tirumala College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "BIEAP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 96.3",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Predictive Health Care System",
+        "description": "Developed a full-stack web application to predict patient disease based on symptoms given. Applied six machine learning algorithms to identify the most accurate one for disease prediction. Features: doctor availability, medicine suggestions, hospital locations based on disease.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MySQL",
+          "MongoDB",
+          "Flask",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "git"
+      },
+      {
+        "name": "Spam Messages Classifier",
+        "description": "Developed a website leveraging a pre-trained machine learning model to distinguish between spam and genuine messages. Integrated the ML model with the Streamlit library in Python to create an interactive frontend interface.",
+        "keywords": [
+          "Streamlit",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "git"
+      },
+      {
+        "name": "Data Analysis on Titan Shipwreck Dataset",
+        "description": "Conducted exploratory data analysis on the original Titanic dataset using python and visualized plots. Gained insights of data analysis including observed survival rate, percentage of population and percentage of survival of different genders during shipwreck.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "git"
+      },
+      {
+        "name": "Ensemble models in Machine learning",
+        "description": "Implemented SVM and ANN models on 5 medical datasets and developed Ensemble methods (Boosting and Bagging). Increased accuracy observed across datasets.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "colab"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Research Intern",
+        "skillsUsed": [
+          "Python",
+          "C/C++",
+          "Java",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "Scikit-learn"
+        ],
+        "endDate": "Sep 2023",
+        "company_name": "SRM university",
+        "description": "Acquired practical experience in machine learning classification techniques using ensemble learning. Collaborated with professor to gain proficiency in machine learning methods: Artificial Neural Networks (ANNs), Naive Bayes Classifiers, and Support Vector Machines (SVMs).",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2023"
+      },
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [
+          "Python",
+          "NumPy",
+          "pandas",
+          "scikit-learn",
+          "matplotlib"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC organization",
+        "description": "Cleaned and prepared data for analysis using Python libraries (NumPy, pandas). Utilized Python with NumPy, pandas, scikit-learn, and matplotlib for data representation and visualization.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "Java",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Scikit-learn",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "SQL",
+      "MongoDB",
+      "Flask",
+      "NodeJs"
+    ],
+    "soft_skills": [],
+    "name": "Asish Manoj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

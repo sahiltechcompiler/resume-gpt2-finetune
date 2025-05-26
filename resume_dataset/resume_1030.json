@@ -1,0 +1,202 @@
+{
+  "project_count": 6.0,
+  "designation": "Present",
+  "name": "Prabhneet Singh",
+  "college": "Guru Gobind Singh Indraprastha University - GTBIT",
+  "locations": [
+    "Rajouri Garden, West Delhi",
+    "Vikaspuri, West Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Advanced Analytics",
+        "issuer": "Google Analytics Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Analytics for Beginners",
+        "issuer": "Google Analytics Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Amcat Certified Software Development Trainee",
+        "issuer": "",
+        "certiLink": "360009564486511"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Amcat Certified Data Processing Specialist",
+        "issuer": "",
+        "certiLink": "360009564486511"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Inbound Marketing Certified",
+        "issuer": "HubSpot Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University - GTBIT",
+        "endDate": "July. 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Rajouri Garden, West Delhi",
+        "ID": 0.0,
+        "grade_received": "C.G.P.A - 9.005",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Dec. 2020"
+      },
+      {
+        "school": "Banasthali Public School",
+        "endDate": "March. 2020",
+        "maximum_grade": "",
+        "degree": "High School Diploma",
+        "location": "Vikaspuri, West Delhi",
+        "ID": 1.0,
+        "grade_received": "Percentage - 89",
+        "field_of_study": "",
+        "startDate": "March. 2018"
+      },
+      {
+        "school": "Banasthali Public School",
+        "endDate": "March. 2018",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Vikaspuri, West Delhi",
+        "ID": 2.0,
+        "grade_received": "Percentage - 66",
+        "field_of_study": "",
+        "startDate": "March. 2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Loan Analysis Predictor",
+        "description": "Developed a Prototype which is used to Predict whether a Person is eligible for Loan or Not. Increased Performance Metrics by taking Applicant Income, Loan Amount, Credit History, Loan Tenor and Property Area. Hosted the application on StreamLit Platform.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "Google Collab",
+          "StreamLit"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Time Series Forecasting Using Machine Learning",
+        "description": "Time Series Prediction is a Predictive Technique For Analyzing Future Trends. Data was Taken From Kaggle and Malicious Present Code was Removed. This was Performed totally on DataSet containing Gold Prices.",
+        "keywords": [
+          "Excel",
+          "Numpy",
+          "Pandas",
+          "Seaborn",
+          "Matplotlib",
+          "Collab"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sales DashBoard Using Power-Bi",
+        "description": "Created a Sales DashBoard taking user analytics from scratch and showing them in a user centric approach. Hosted the DashBoard on GitHub.",
+        "keywords": [
+          "Power-Bi"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Drowsiness Detection Using Yolo",
+        "description": "When Integrated with Iot it detects whether the user is drowsy. Implementing drowsiness detection systems in vehicles to monitor drivers alertness and prevent accidents caused by drowsiness.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "Pandas",
+          "MatplotLIb",
+          "SeaBorn",
+          "Collab"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "End To End Data Analysis Hotel Reservation System",
+        "description": "Performed EDA on a Dataset containing user data from Hotels and Peak users. This was done fully on the collab Notebook. It Increased user efficiency of Data to be used.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "Pandas",
+          "MatplotLib",
+          "SeaBorn",
+          "Collab"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "StuBuddy | Final Year Research Project",
+        "description": "Worked with Dr.Amandeep Kaur in Creating StuBuddy Library for checking toxicity in schools,colleges and higher institutions. StuBuddy a Student Helper and mate who acts as a middleman between the Higher Institutions and Students to Convey student feelings. StuBuddy is a toxicity classifier and Lip reader.",
+        "keywords": [],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Incubation Student",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Q-Spiders",
+        "description": "Selected as Incubation Student by Q-Spiders from 105 students for their Internship and Placement integrated Program.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Mysql",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "Prabhneet Singh",
+    "position": "Present",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "West Delhi,Nangloi",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

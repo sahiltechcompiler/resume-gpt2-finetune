@@ -1,0 +1,185 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ujjawal Sinha",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Dhanbad"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic Data Science student with advanced skills in Python, machine learning, and statistical analysis. Skilled in Data visualization and extracting actionable insights from complex datasets. Adept at applying data-driven strategies to support strategic decision-making and solve complex challenges.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Visualization with Python",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science and Development",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Fundamentals using Python",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "Hacker Rank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Visualization, Empowering Business with Effective insights",
+        "issuer": "Tata",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Data Science",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "De-Nobili School, CMRI",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Rajkamal Saraswati Vidya Mandir",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Dhanbad",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2007"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Plant Disease Detection Using Keras and TensorFlow",
+        "description": "Developed a Convolutional Neural Network (CNN) model using Keras and TensorFlow for detecting Early Blight and Late Blight diseases in potato plants. Implemented data augmentation and preprocessing techniques to enhance model accuracy and generalization. Achieved high classification accuracy by optimizing model architecture and hyper parameters.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Book Recommendation System",
+        "description": "Designed and implemented a personalized book recommendation system using Python, leveraging collaborative filtering and content-based algorithms to enhance user engagement and satisfaction. Integrated data preprocessing, feature extraction, and model evaluation techniques to provide accurate and relevant book recommendations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "EDA on a Diwali Sales Dataset",
+        "description": "Performed in-depth analysis on a Diwali sales dataset to identify key insights, such as the city with the highest sales and gender-based purchasing trends. This analysis provided actionable insights for optimizing marketing strategies and understanding customer behavior.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "French (Basics)"
+    ],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Genpact",
+        "description": "Creating and integrating APIs to enhance data extraction processes. Collaborating with team members to identify and implement improvements. Gaining practical experience in data analysis and front-end development.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2024"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Sept 2023",
+        "company_name": "CodSoft IT Services",
+        "description": "Heart Disease Prediction: Developed a machine learning model to predict the risk of heart disease. Credit Card Fraud Detection: Designed a system to detect and prevent fraudulent transactions. Sales Prediction: Created a model to forecast future sales trends.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Python (Pandas, Numpy, Keras, Tensorflow)",
+      "Machine Learning",
+      "Data Structure Algorithms",
+      "Artificial Intelligence",
+      "Data Analytics",
+      "Statistical Analysis",
+      "Data Visualization (Matplotlib, Seaborn, Tableau, Power BI)",
+      "Streamlit",
+      "API framework",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "PHP",
+      "Java (Basics)"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Teamworking",
+      "Problem Solving",
+      "Decision Making",
+      "Design Thinking"
+    ],
+    "name": "Ujjawal Sinha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated in NIET Internal Smart India Hackathon organized on 16th Sept 2023.",
+      "Won 2nd Price in NIET College Tech Fest and Sports Meet in Bidding War Event.",
+      "Organized and led an event called Dataviz focusing on advanced Data visualization techniques using Power BI, Tableau, and Excel."
+    ],
+    "publications": []
+  },
+  "current_location": "Noida, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

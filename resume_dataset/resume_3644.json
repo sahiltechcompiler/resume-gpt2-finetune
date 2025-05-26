@@ -1,0 +1,142 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sarveshvar Mishra",
+  "college": "KIET Group Of Institution",
+  "locations": [
+    "Ghaziabad, Delhi-NCR",
+    "Raibareli, Uttar Pradesh",
+    "Unchahar, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CLA:Programming Essentials in C",
+        "issuer": "CISCO",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institution",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering with AIML",
+        "startDate": ""
+      },
+      {
+        "school": "Firoze Gandhi Polytechnic",
+        "endDate": "June 2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Raibareli, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "Nov. 2020"
+      },
+      {
+        "school": "L.E Chinmaya Vidyalaya(Central Board Of Education)",
+        "endDate": "March 2018",
+        "maximum_grade": "",
+        "degree": "AISSCE",
+        "location": "Unchahar, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "PCM and Physical Education",
+        "startDate": ""
+      },
+      {
+        "school": "DAV Public School(Central Board Of Education)",
+        "endDate": "March 2018",
+        "maximum_grade": "",
+        "degree": "AISSCE",
+        "location": "Unchahar, Uttar Pradesh",
+        "ID": 3.0,
+        "grade_received": "",
+        "field_of_study": "PCMB and Foundation Of I.T",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sentiment Analysis Of Product Reviews",
+        "description": "Spearheaded the creation of a comprehensive sentiment analysis platform capable of handling varied sentiments and expressions found in project reviews. The platform includes features for sentiment categorization, trend analysis, and real-time updates. Implemented Selenium to create an instance of Chrome in order to interact with the correct elements of the web page. Employed user-friendly design principles to ensure a seamless and intuitive user experience for interacting with the sentiment analysis platform. This included user interfaces that facilitate easy input of project review data and visualization tools for clear presentation of sentiment insights. Integrating cutting-edge data analysis methodologies with industry-standard Python libraries such as Pandas, the model correlates sentiment data with review counts.",
+        "keywords": [
+          "Python",
+          "Natural Language Processing",
+          "NLTK",
+          "TextBlob"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Utility Hub",
+        "description": "Utility Hub is a pioneering Android app created using Kotlin, XML, HTML, and CSS within Android Studio. It seamlessly integrates multiple e-commerce platforms through custom APIs, offering users a unified shopping experience. This project demonstrates proficiency in mobile app development, API integration, and user-centric design.",
+        "keywords": [
+          "JavaScript",
+          "Kotlin",
+          "XML",
+          "React.Js",
+          "HTML/CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Sep. 2023",
+        "company_name": "TechnoHacks EduTech",
+        "description": "Proposing ideas, participating in designing, implementing, and testing solutions to help the business while respecting standards. Supporting the production of relevant technical documentation (software, user guides). Collaborated with team members using version control systems such as Git to organize modifications and assign tasks. Basic understanding of writing clean, unobtrusive JavaScript/AJAX.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug. 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Feb. 2023",
+        "company_name": "CISCO",
+        "description": "Conducted thorough analysis that serves as a configuration tool for Cisco networking devices. Applied Socket Programming techniques to establish connections with Cisco networking devices, showcasing proficiency in networking protocols. Embarked upon Device Compatible Showcased proficiency in C programming language, leveraging skills acquired in the course to deliver a functional and valuable tool for network configuration tasks.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec. 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Sarveshvar Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Delhi-NCR",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,136 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "JOSEPH PETER J",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamilnadu",
+    "Bangalore, Karnataka",
+    "Coimbatore, TamilNadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Voltspot - EV Charging Station Locator",
+        "description": "Designed user-friendly interface for EV charging station locator app, enhancing accessibility and experience. Implemented efficient search algorithm, reducing EV charging station search time. Integrated real-time data updates, enhancing accuracy and reliability. Integrated an auto-cancellation feature in the app, optimizing resource utilization and enhancing user satisfaction.",
+        "keywords": [
+          "React Js",
+          "Express Js",
+          "Mongo DB"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "https://github.com/josephpeter231/EV-Project"
+      },
+      {
+        "name": "Application Configuration Management",
+        "description": "Designed a robust and flexible system for defining, managing, and categorizing configurations for any application. Enhanced scalability, empowering ACM users to manage additional configurations seamlessly. Successfully managed Service Catalog, emphasizing secure HTTP methods. Integrated real-time data updates, enhancing accuracy and reliability.",
+        "keywords": [
+          "React Js",
+          "Express Js",
+          "Mongo DB"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": "https://github.com/josephpeter231/Application-Conguration-Management"
+      },
+      {
+        "name": "Automatic Compensation System for Farmers",
+        "description": "Employed machine learning for estimation of crop field damage, resulting in a 26% error reduction. Analyzed disaster images, gauging severity and estimating compensation of 32% boost in relief efficiency.",
+        "keywords": [
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": "https://github.com/josephpeter231/Compensation-System-using-AIML.git"
+      },
+      {
+        "name": "Website - Vidyutrenz 2023, National Level Technical Symposium",
+        "description": "Led a comprehensive SEO approach, achieving a 75% improvement in the symposium site's search performance. Automated backend processes, leading to reduction in data entry errors and improved data accuracy.",
+        "keywords": [
+          "Vite Js",
+          "Node Js",
+          "PSQL"
+        ],
+        "endDate": "Oct 2023",
+        "startDate": "",
+        "url": "https://github.com/josephpeter231/VidyutrenzProject"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [],
+        "endDate": "May 2025",
+        "company_name": "Infosys",
+        "description": "Developed extensive question bank for an online contest, boosting participant knowledge retention. Showcased mastery in web technology with an advanced tool, saving time in score validation. Implemented Agile methodologies and conducted weekly Scrums, reducing project timelines, increasing team collaboration, and boosting overall efficiency.",
+        "location": "Chennai, Tamilnadu",
+        "links": "",
+        "startDate": "Sep. 2021"
+      },
+      {
+        "role_name": "FullStack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "MS - IT Park",
+        "description": "Enhanced website speed, yielding a 42% drop in page load times, increased user satisfaction. Designed and executed a mobile-first approach for a client's website, leading to increase in user interactions and decreasing bounce rates.",
+        "location": "Coimbatore, TamilNadu",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL",
+      "VS Code",
+      "Git",
+      "Node.js",
+      "REST API",
+      "Android Studio",
+      "ReactJS",
+      "Express.js",
+      "Tailwind",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "soft_skills": [],
+    "name": "JOSEPH PETER J",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart India Hackathon23 Attained Finalist status and ranked in the top 12.5% nationally.",
+      "Leetcode Achieved Global Rank of 753 and AIR of 148 in weekly-378 coding contest.",
+      "VIT Sparklight Ideathon Runners-Up in hackathon organised by TECHNOVIT.",
+      "Techgig CodeGladiators 2023 Seminalist illustrated proficiency in programming.",
+      "Linked In Awarded Top Programming Voice."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor"
+}

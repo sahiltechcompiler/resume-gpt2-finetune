@@ -1,0 +1,144 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "VINAY PAL",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Jalandhar, Punjab"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mern Stack developer",
+        "issuer": "Programming pathshala",
+        "certiLink": "Certificate Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Full-Stack developer",
+        "issuer": "Cypher school",
+        "certiLink": "Certificate Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction of Cyber security",
+        "issuer": "Coursera",
+        "certiLink": "Certificate Link"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Computer-Science and Engineering",
+        "location": "Jalandhar, Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.43",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ecommerce website",
+        "description": "Developed an e-commerce platform wherein users can buy clothes for children as well as for young and more. It offers dynamic data from MongoDB, responsive design, dynamic pagination based on data, and developer REST APIs for insertion, retrieval, deletion of data, user authentication, individual user data storage, and for other advanced tasks. Applied MERN stack knowledge successfully to create a fully functional MERN stack website.",
+        "keywords": [
+          "MERN Stack",
+          "Responsive Web Design"
+        ],
+        "endDate": "Aug 2022",
+        "startDate": "July 2022",
+        "url": "https://github.com/Vianypal/Ecommerce-platform"
+      },
+      {
+        "name": "Movie Review System",
+        "description": "Developed a movie review website where user can see trailer and write review about trailer. Implemented separation of concerns using React (frontend) and Java with Spring Boot (backend). Utilized MongoDB for efficient database management.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "Rest Api",
+          "Angular js",
+          "Mongo DB",
+          "Bootstrap"
+        ],
+        "endDate": "March 2023",
+        "startDate": "Feb 2021",
+        "url": "https://github.com/Vianypal/Movie-review-system"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Java Full-Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Aug 2022",
+        "company_name": "CYPHER SCHOOL",
+        "description": "Acquired a deep understanding of Java, Oops concept, Spring boot. which are foundational technologies for java development. Designed and implemented a full-stack project using Java Spring Boot as the backend. Honed problem-solving skills through real-world application of knowledge.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2022"
+      },
+      {
+        "role_name": "Trainning Mern Stack Development",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Programming pathshala",
+        "description": "Learned Mongo DB, Express JS, React JS , Node JS. Demonstrated proficiency in using version control systems like Git and GitHub for collaborative development. After learning these skills, I collaborated with a team to create a clone of the Programming Pathshala webpage as a project.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "JavaScript",
+      "Python",
+      "Angular",
+      "React JS",
+      "Node JS",
+      "Git",
+      "GitHub",
+      "Linux",
+      "Spring Boot"
+    ],
+    "soft_skills": [
+      "Data Structures and Algorithms",
+      "Computer Network",
+      "Operating System",
+      "DBMS",
+      "Oops",
+      "SQL",
+      "Problem-Solving",
+      "Responsive Web Design",
+      "Scripting in Python and JavaScript"
+    ],
+    "name": "VINAY PAL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Rank 3 in Kavach 2023 hackathon.",
+      "Solve 250+ problems on Leetcode and GFG platforms.",
+      "Golden badge in Java on Hacker Rank",
+      "Golden badge in C++ on Hacker Rank"
+    ],
+    "publications": []
+  },
+  "current_location": "Kanpur, U.P 208017",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Computer-Science and Engineering"
+}

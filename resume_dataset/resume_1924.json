@@ -1,0 +1,157 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ayan Ahmed",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, U.P",
+    "Meerut, U.P"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Cohort at 100X devs",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Fundamentals using Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Developing soft skills and personality",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, U.P",
+        "ID": 0.0,
+        "grade_received": "7.7 CGPA",
+        "field_of_study": "Computer Science And Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Dayawati Modi Academy",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Meerut, U.P",
+        "ID": 1.0,
+        "grade_received": "Percentage 95.6",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Dayawati Modi Academy",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Meerut, U.P",
+        "ID": 2.0,
+        "grade_received": "Percentage 95",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "To-Do App",
+        "description": "Developed and implemented a Fullstack To Do application utilizing React.js for the Frontend and Node.js with Express.js for the Backend. Implemented RESTful API endpoints using Express.js on the Backend to facilitate CRUD (Create, Read, Update, Delete) operations for To Do items, enabling seamless communication between the Frontend and Backend components of the application. Designed an intuitive user interface for efficient task management, employing HTML, CSS, and JavaScript. Integrated MongoDB for seamless data storage and retrieval, ensuring scalability and performance. Implemented user authentication and authorization using JSON Web Tokens (JWT) for secure access to the application. Utilized Docker for containerization and AWS/GCP/Azure for deployment, ensuring optimal performance and reliability.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "July. 2020",
+        "url": "Github | Live"
+      },
+      {
+        "name": "YouTubeClone-Version-2.0",
+        "description": "Robust video playback functionality which makes capable of smoothly streaming and playing high-quality videos, with features such as play/pause, volume control, and fullscreen mode. User-friendly interface having intuitive user interface, with easily navigable menus and search functionality. Responsive design: The YouTube clone is designed to be responsive and accessible across a range of devices, including desktop and mobile devices, ensuring that users can access and enjoy the platform on any device they choose.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "ReactJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github | Live"
+      },
+      {
+        "name": "World-Clock",
+        "description": "Developed a user-friendly web page allowing users to instantly check the current time of various countries with a single click, enhancing global time management and coordination. Leveraged the Fetch API to asynchronously retrieve time zone data from external APIs. Integrated SVG images to visually represent different time zones on the world map, enhancing user experience and providing intuitive navigation.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github | Live"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "C",
+      "JavaScript",
+      "Python",
+      "HTML",
+      "CSS",
+      "JQuery",
+      "TypeScript",
+      "ReactJs",
+      "NodeJs",
+      "ExpressJs",
+      "FireBase",
+      "REST APIS",
+      "Angular",
+      "Vue.js",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Ayan Ahmed",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "3 star @ LeetCode",
+      "Secured 9728 rank among 40k participants in Codeforces Round 923(Div. 3)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

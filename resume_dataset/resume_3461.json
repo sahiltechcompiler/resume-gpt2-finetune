@@ -1,0 +1,129 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Devika Raja",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelors",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "July 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fake Social Media Profile Detection",
+        "description": "Machine learning project to detect fake profiles on social media using SVM",
+        "keywords": [
+          "Scikit",
+          "Lime"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Postpartum Depression Diagnosis",
+        "description": "A machine learning model using SVM that would help new mothers understand the likelihood of their symptoms being a product of Postpartum Depression",
+        "keywords": [
+          "Scikit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bubble Sort Visualizer",
+        "description": "Front-end web app to visualize bubble sort using histogram",
+        "keywords": [
+          "React",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Managing Director (Executive Committee)",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "AI/ML Community, MUJ",
+        "description": "Headed the official AI/ML Community newsletter team. Managed a team of 15 people to successfully conduct tech events and talk shows.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Vice President (Executive Committee)",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Humans of Manipal",
+        "description": "Co-headed the first ever documentary about the biggest fest of Manipal University Jaipur. Co-led a donation drive for underprivileged kids. Managed a team of 45 people to successfully conduct major talk shows and events. Introduced and lead the first project by the club to recognise the LGBTQ+ community for Pride month. Increased the membership of the club from 6 students per year to about 50 students per semester. Successfully led and conducted events focusing on helping small business of my college and the city. Networked with other club heads and thus conducted several successful collaboration events.",
+        "location": "Jaipur, Rajasthan, India",
+        "links": "",
+        "startDate": "July 2022"
+      },
+      {
+        "role_name": "Content Writer (Senior Working Team)",
+        "skillsUsed": [],
+        "endDate": "Mar 2023",
+        "company_name": "Randomize, MUJ",
+        "description": "Wrote the content for the Randomize (Official Computer Science club of MUJ) newsletter as well as emails and messages.",
+        "location": "Jaipur, Rajasthan, India",
+        "links": "",
+        "startDate": "Oct 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "SQL",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bash scripting",
+      "Git",
+      "Machine Learning",
+      "Computer Vision",
+      "Visual Studio",
+      "Microsoft SQL Server",
+      "XCode"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Event Management",
+      "Writing",
+      "Public Speaking",
+      "Time Management"
+    ],
+    "name": "Devika Raja",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "University Startup Seed-funding : 2023 - Awarded by University to my team to turn our group project - Fake Social Media Profile Detection - into a startup",
+      "Google Code-In : 2019 - Successfully completed the first round"
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan, India",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelors"
+}

@@ -1,0 +1,184 @@
+{
+  "project_count": 5.0,
+  "designation": "Frontend Developer",
+  "name": "Vaibhav Gupta",
+  "college": "Manipal University, Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "Motivated and ambitious postgraduate student with a strong academic foundation, actively seeking to launch a career in a dynamic and growth-oriented environment. Eager to leverage academic knowledge and gain hands-on experience in a professional setting. A passionate Frontend Developer with a drive to create exceptional user experiences through the use of HTML, CSS, and JavaScript. Seeking a position to leverage strong technical and problem-solving skills and extensive web development knowledge to achieve organizational efficiency, reduce page load speeds, and optimize user interfaces.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Crash Course on Python",
+        "issuer": "Google",
+        "certiLink": "Coursera"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cybersecurity",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Internship Certificate",
+        "issuer": "Teachnook (Btech Walleh)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Front-End Development",
+        "issuer": "META",
+        "certiLink": "Coursera"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Internship Certificate",
+        "issuer": "CODSOFT",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Gen AI & PromptCon Workshop",
+        "issuer": "DAR MUJ",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharishi Arvind Institute of Science & Management",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "BCA",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Bachelor of Computer Applications",
+        "startDate": "2020"
+      },
+      {
+        "school": "Manipal University, Jaipur",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "Master of Computer Application",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA 9.57/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CraftHeven",
+        "description": "Built a web application using HTML, CSS, JavaScript, PHP, and MySQL, incorporating essential technologies for both front-end and back-end development. Developed an interactive user interface with JavaScript, which contributed to a 25% increase in user retention and improved satisfaction scores among target audiences in the first quarter. Enabled artisans to create profiles, list products, and manage transactions securely, focusing on a seamless experience for buyers. Implemented robust security measures, including user authentication, data encryption, and secure transaction processes to protect user information.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Google Drive"
+      },
+      {
+        "name": "CRUD Operations",
+        "description": "Implemented Create, Read, Update, and Delete (CRUD) operations using Node.js and MongoDB, ensuring robust functionality for data management. Utilized Node.js for server-side scripting, providing an efficient and scalable runtime environment for JavaScript applications. Employed MongoDB for flexible and scalable data storage, optimizing database performance and adaptability.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Login Page in Python using Django Framework",
+        "description": "Implemented a secure login page using the Django framework, enhancing proficiency in Django functionalities and best practices for web development. Developed and integrated an email verification feature to bolster security and improve user authentication processes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Voice Assistant using Python",
+        "description": "Developed a voice assistant application by leveraging various Python modules and libraries, including speech recognition, text-to-speech, and natural language processing tools. Implemented web automation and interaction using Selenium, enabling automated browsing, data extraction, and testing for enhanced efficiency.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Stock Price Prediction",
+        "description": "Developed a stock price prediction project using Python, incorporating libraries such as Pandas, NumPy, and Scikit-Learn for data analysis and machine learning. Utilized historical stock data to train predictive models, applying data analysis and forecasting techniques to generate future price predictions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python Programming intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "CODSOFT",
+        "description": "Weather Forecasting: Real-time weather updates using APIs. Password Generator: Tool for creating secure, customizable passwords. Calculator: Basic arithmetic operations with extended features. Todo List: Task management with add, update, and delete functionalities. Contact Book: System for managing and searching personal contacts.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "TEACHNOOK",
+        "description": "Leveraged a diverse technology stack including HTML, CSS, JavaScript, PHP, MySQL, Node.js, React.js, and MongoDB to build and enhance web applications. Developed an interactive layout, using HTML, CSS and JavaScript to generate an improved user experience and ensure high-quality design and cross-browser compatibility. Contributed to various projects during a fast-paced two-month internship, gaining experience in both minor and major development tasks. Created a fully functional e-commerce website, Craft Heaven, incorporating features for user registration and authentication, including seller and buyer SignUp/SignIn functionalities.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "Node.js",
+      "Django",
+      "SQL",
+      "MongoDB",
+      "Machine Learning",
+      "Data Analysis",
+      "Microsoft Word",
+      "Excel"
+    ],
+    "soft_skills": [],
+    "name": "Vaibhav Gupta",
+    "position": "Frontend Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 2.0,
+  "degree": "Master of Computer Application"
+}

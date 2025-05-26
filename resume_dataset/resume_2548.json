@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "Full Stack Developer Intern",
+  "name": "PRIYAL JAIN",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "9.54",
+        "field_of_study": "Computer Science",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Vchat",
+        "description": "Developed a dynamic Chat App using React.js, MongoDB, and Node.js, ensuring a robust and responsive user interface for seamless communication. Implemented real-time chatting functionality through Socket.IO, enabling users to engage in live conversations and check the online status of other users. Utilized TailwindCSS for a modern and visually appealing design, enhancing the overall user experience. Integrated a notification system, allowing users to receive and manage notifications, marking them as read or unread for efficient communication.",
+        "keywords": [
+          "React.js",
+          "MongoDB",
+          "Node.JS",
+          "Socket.IO",
+          "TailwindCSS"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Voyage Vue",
+        "description": "Developed a Full Stack Hotel Booking Application using Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS and Stripe. Implemented user authentication, allowing registration and login functionalities for users to manage bookings securely. Integrated Stripe API for payment processing, enabling users to confirm bookings through secure transactions. Designed and implemented features including hotel and room management, booking system, search and location filtering, and responsive design for optimal user experience.",
+        "keywords": [
+          "Next.JS",
+          "TypeScript",
+          "Prisma",
+          "PostgreSQL",
+          "TailwindCSS",
+          "Stripe"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Haemunity",
+        "description": "Developed a secure and scalable MERN stack blood donation management app with Redux for state management, implementing granular user roles with JWT authentication. Enabled hospitals and organizations to monitor blood inventory, user activity, and trends, optimizing donation processes. Built an automated donor notification system to reach out to matching blood group donors for urgent needs, increasing donation success rates.",
+        "keywords": [
+          "React.JS",
+          "MongoDB",
+          "Bootstrap",
+          "Node.JS",
+          "Express.JS",
+          "Redux"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "Success.ai",
+        "description": "Led the development of a dynamic Full Stack application using MERN stack, showcasing strong web application architecture skills. Managed Microsoft Azure for creating mail accounts, optimizing communication and email services. Configured DNS setups with Cloudflare, ensuring optimal performance and security. Spearheaded the DevOps team, supporting interns and demonstrating leadership for 1-1.5 months. Collaborated with the Python Automation Department, aiding in data retrieval from Appollo, showcasing cross-functional adaptability.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "HTML/CSS",
+      "JavaScript",
+      "Typescript",
+      "SQL",
+      "React.JS",
+      "Redux",
+      "Next.JS",
+      "Node.JS",
+      "Express.JS",
+      "TailwindCSS",
+      "Bootstrap",
+      "MaterialUI",
+      "MySQL",
+      "MongoDB",
+      "Firebase",
+      "VS Code",
+      "Git",
+      "Github",
+      "Postman",
+      "Prisma",
+      "Microsoft Azure"
+    ],
+    "soft_skills": [],
+    "name": "PRIYAL JAIN",
+    "position": "Team Member",
+    "interests": [],
+    "achievements_and_awards": [
+      "Led a team in Hack7DaysTIxGTBIT by Tezos India, a Web-3 hackathon where my team placed in the top 10 for a project we developed using the Tezos blockchain to save tigers, and we were also awarded Rs.1000 in prize money.",
+      "Our team finished in the top ten of the 60+ teams that took part in the Hack Unicorn tech hackathon.",
+      "Solved Data Structure and Algorithms questions across platforms like GeeksForGeeks and Leetcode."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

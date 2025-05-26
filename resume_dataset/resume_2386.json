@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anushka Wable",
+  "college": "Trinity College Of Engineering and Research",
+  "locations": [
+    "Pune",
+    "Maharashtra",
+    "Kopergaon",
+    "Rahata"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Trinity College Of Engineering and Research",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Pune",
+        "ID": 0.0,
+        "grade_received": "8.30 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sanjivani K.B.P Polytechnic",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Kopergaon",
+        "ID": 1.0,
+        "grade_received": "89.19%",
+        "field_of_study": "Information Technology",
+        "startDate": "2018"
+      },
+      {
+        "school": "St. John School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Secondary School Certificate(SSC)",
+        "location": "Rahata",
+        "ID": 2.0,
+        "grade_received": "76.20%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Public Ration Distribution Using Blockchain",
+        "description": "Developed a blockchain-based prototype for a ration distribution system using Java. Implemented features to record and log all transactions between various entities. Ensured transparency and security in the public distribution system.",
+        "keywords": [
+          "Java",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Amazon Clone",
+        "description": "Designed a website focused on clothing and accessories for easy access and shopping. Responsible for front-end design to provide a user-friendly shopping experience.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Credit Risk Assessment for Loan Approval",
+        "description": "Built a credit scoring model using historical data to evaluate the risk associated with loan applicants, leading to a more accurate and efficient approval process.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front-End Intern",
+        "skillsUsed": [
+          "React.js"
+        ],
+        "endDate": "",
+        "company_name": "LetsGrowMore",
+        "description": "Worked as a Web Application Intern, gaining hands-on experience in creating web applications. Created a Web application using React.js.",
+        "location": "Pune, Maharashtra",
+        "links": "[GitHub]",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "MySQL",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "Object Oriented Programming",
+      "Database Management System",
+      "Git",
+      "VS Code",
+      "IntelliJ",
+      "Android Studios",
+      "Jupyter Notebook"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Time Management",
+      "Problem Solving",
+      "Team Work",
+      "Creative",
+      "Adaptability"
+    ],
+    "name": "Anushka Wable",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved 5 Star On Hackerrank in C++ Programming Link",
+      "Achieved 3 Star On Hackerrank in MySQL Link",
+      "Solved Over 200+ Coding Questions on different Coding platforms"
+    ],
+    "publications": []
+  },
+  "current_location": "Pune, Maharashtra",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

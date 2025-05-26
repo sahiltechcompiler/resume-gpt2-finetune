@@ -1,0 +1,105 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "RACHNA",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "Delhi",
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Backend Development Course",
+        "issuer": "Physics Wallah",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.7",
+        "field_of_study": "Electronics And Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Meera Bai Institute Of Technology",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "Percentage - 82%",
+        "field_of_study": "Electronics And Communication Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ecommerce Website",
+        "description": "User Authentication: Implemented secure user authentication for signup, login, and logout. User Dashboard: Developed a user dashboard for managing account information and order history. Admin Dashboard: Created an admin dashboard for managing products, categories, and user accounts. Search and Filter: Added search and filter functionalities for easy product discovery. Responsive Design: Ensured accessibility across various devices and screen sizes.",
+        "keywords": [
+          "React",
+          "Express",
+          "Mongoose",
+          "NodeJs",
+          "VS Code"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio",
+        "description": "Designed and developed a responsive portfolio website to showcase personal information, skills, projects, and contact details. Utilized HTML for structure, CSS for styling, and JavaScript for interactivity. Integrated smooth scrolling and navigation for a better user experience. Applied responsive design principles for optimal display on various devices.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "React",
+      "MongoDB",
+      "Express",
+      "NodeJS",
+      "Tailwind CSS",
+      "VS Code",
+      "Postman",
+      "GitHub",
+      "IntelliJ"
+    ],
+    "soft_skills": [],
+    "name": "RACHNA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Rajouri garden, Delhi",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

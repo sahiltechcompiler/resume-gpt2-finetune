@@ -1,0 +1,105 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anshika Singh",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.99/10.0",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SmartNav-Navigation For Visually Impaired",
+        "description": "Engineered a voice-assisted smart navigation app for the visually impaired using Flutter, integrating the A* algorithm for optimal pathfinding. Implemented Flutter's TTS plugin for voice guidance and established client-server architecture with MongoDB for efficient storage and retrieval of location maps. Enhanced user experience by converting maps to VR, showcasing a commitment to inclusivity and innovative solutions for accessibility challenges.",
+        "keywords": [],
+        "endDate": "Dec23 - Jan24",
+        "startDate": "Oct2021",
+        "url": ""
+      },
+      {
+        "name": "DigitalDine: Streamlined Online Food Delivery System",
+        "description": "Led a project creating an Online Food Delivery System using HTML, CSS, and JavaScript for the front end, and JavaScript with PHP for the back end. Utilized MySQL for a secure database. Designed a user-friendly front end for easy navigation and order placement, complemented by a dynamic back end allowing seamless order processing and tracking. Boosted efficiency with a robust MySQL database and AWS deployment using Docker for scalable and reliable performance in the Online Food Delivery System.",
+        "keywords": [],
+        "endDate": "Aug23",
+        "startDate": "June23",
+        "url": ""
+      },
+      {
+        "name": "ChatHub: Real-Time Communication Platform for Universities",
+        "description": "Developed a Real-Time Chat App with Node.js and Socket.IO, utilized by over 1000 users within a university. Facilitated dynamic, real-time interactions on web and mobile platforms, enhancing engagement through custom messaging. Implemented HTML, CSS, JavaScript, and PHP for the front-end and back-end, coupled with MongoDB as the database.",
+        "keywords": [],
+        "endDate": "Feb23",
+        "startDate": "Dec22",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Senior Coordinator Of Programs",
+        "skillsUsed": [],
+        "endDate": "Aug23",
+        "company_name": "IEEE RAS MUJ",
+        "description": "Directed a 150+ member team as Senior Coordinator of Programs at IEEE RAS MUJ, showcasing strong leadership and organizational skills. Demonstrated effective communication and coordination, ensuring smooth event execution through delegation and motivation.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec22"
+      },
+      {
+        "role_name": "Content Head",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "QUREKA- Quizzing Club MUJ",
+        "description": "Content Head with expertise in various content management tools. Collaborated with cross-functional teams to ensure content resonates with target audiences.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "MERN Stack",
+      "AWS",
+      "Jupyter Notebook",
+      "Windows",
+      "Linux"
+    ],
+    "soft_skills": [],
+    "name": "Anshika Singh",
+    "position": "",
+    "interests": [
+      "Participating in Hackathons",
+      "Attending workshops for skill development",
+      "Playing Badminton",
+      "Painting & Sketching"
+    ],
+    "achievements_and_awards": [
+      "Received Deans Excellence Award for Highest Cumulative Grade Point"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

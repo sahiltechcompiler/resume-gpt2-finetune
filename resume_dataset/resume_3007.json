@@ -1,0 +1,165 @@
+{
+  "project_count": 4.0,
+  "designation": "Software Developer",
+  "name": "Chirag Goyal",
+  "college": "Guru Gobind Singh Indraprastha University, Delhi",
+  "locations": [
+    "Delhi, India",
+    "Gurugram, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learnt basics of Artificial Intelligence along with various algorithms like linear regression, k-cluster, etc. Made use of multiple libraries and tools like Sci-kit learn, Pandas, Matplotlib, etc.",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Developed knowledge of foundational AWS Cloud concepts with a focus on AWS Compute, Storage, Networking and Database services, security, architecture, pricing, and support.",
+        "skillsLearned": [],
+        "title": "Cloud Essentials",
+        "issuer": "AWS",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University, Delhi",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.48",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Credenager",
+        "description": "A credentials manager offering end-to-end encryption on both website and Android.",
+        "keywords": [
+          "NextJS",
+          "ExpressJS",
+          "MongoDB",
+          "Android Native"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Cinehub",
+        "description": "A social platform providing users information regarding thousands of TV shows and movies along with functionality to track them. Users can also follow other users to see what they are up to.",
+        "keywords": [
+          "NextJS",
+          "ExpressJS",
+          "MongoDB",
+          "Redux",
+          "JWT Tokens"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI - Tools",
+        "description": "Contains multiple AI tools: Animal classifier, Heart disease predictor, Spam detector, OCR",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Keras",
+          "NumPy",
+          "Sci-kit learn",
+          "Django",
+          "NextJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "BackItUp",
+        "description": "A tool that backups already selected multiple files and folders into a zip file automatically at a specified time or when triggered manually. Furthermore, uploads the local backup to linked Google Drive.",
+        "keywords": [
+          "C#",
+          "WinUI3",
+          "WPF",
+          "XAML",
+          ".NET Framework"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Truminds Software Systems",
+        "description": "Fixed critical bugs, reducing chances of software failures and improving user experience. Fixed security vulnerabilities, including reducing XSS attacks by 30%, improving encryption standards, and decreasing MIME-type sniffing attacks by 25%. Thoroughly understood and navigated a complex codebase of a years-long project, utilizing multiple tech stacks including C#, React, and Angular.",
+        "location": "Gurugram, India",
+        "links": "",
+        "startDate": "Mar 2024"
+      },
+      {
+        "role_name": "Android Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2022",
+        "company_name": "AnsrOne",
+        "description": "Worked on various Android Native projects written in Java/Kotlin. Designed User Interface using XML as per Figma designs. Linked Android apps with backend services like Firebase and REST APIs.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Oct 2022"
+      },
+      {
+        "role_name": "Full-stack Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Feb 2022",
+        "company_name": "Criada",
+        "description": "Worked on various projects based on MERN stack. Designed webpages as per Figma designs using CSS frameworks like Tailwind CSS and Bootstrap. Programmed backend REST APIs using ExpressJS.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2021"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "C#",
+      "Kotlin"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Team worker",
+      "Time Management"
+    ],
+    "name": "Chirag Goyal",
+    "position": "Software Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "12th-grade science stream topper of the batch.",
+      "Have a 350+ streak of LeetCode daily challenge.",
+      "Secured 1st position in under 17 roller skating 500m and under 17 roller skating 300m at the zonal level."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

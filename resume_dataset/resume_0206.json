@@ -1,0 +1,121 @@
+{
+  "project_count": 2.0,
+  "designation": "ASPIRING SOFTWARE ENGINEER",
+  "name": "Muhammed Anaz",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, IN",
+    "Kozhikode, IN"
+  ],
+  "full_output": {
+    "summary": "A B.Tech engineering student, working independently and with a strong sense of self-motivation, seeks to enhance professional abilities and skills in a company valuing hard work, entrusting with responsibilities and challenges, to utilize knowledge and experiences effectively.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "R - Programming",
+        "issuer": "Board Infinity",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Architecture and Computer Organization Masterclass",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Member at UNYC"
+    ],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Phagwara, IN",
+        "ID": 0.0,
+        "grade_received": "77%",
+        "field_of_study": "Computer Science",
+        "startDate": "Apr 24"
+      },
+      {
+        "school": "Rahmania HSS Kovoor",
+        "endDate": "Mar 21",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Kozhikode, IN",
+        "ID": 1.0,
+        "grade_received": "96.4%",
+        "field_of_study": "",
+        "startDate": "Jun 19"
+      },
+      {
+        "school": "Pleasant English School Omassery",
+        "endDate": "Mar 19",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Kozhikode, IN",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "",
+        "startDate": "Jun 18"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chatting Application using Java Swing",
+        "description": "Developed a chatting application using basic Tinker for server-client connectivity. Utilized Java Swing for the graphical user interface development. Implemented server and client programs to enable real-time communication. Created a user-friendly GUI allowing multiple users to connect, send, and receive messages in real-time.",
+        "keywords": [
+          "Java",
+          "Swing",
+          "Tinker"
+        ],
+        "endDate": "",
+        "startDate": "Jun 22",
+        "url": ""
+      },
+      {
+        "name": "Airbnb Price Analysis using R Language",
+        "description": "Collected and cleaned New York Airbnb listing data for analysis. Conducted statistical analysis to identify dependencies and correlations within the dataset. Applied linear regression to uncover patterns in Airbnb booking prices based on existing variables such as nearby landmarks.",
+        "keywords": [
+          "R",
+          "Statistical Analysis",
+          "Linear Regression"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "R"
+    ],
+    "soft_skills": [],
+    "name": "Muhammed Anaz",
+    "position": "ASPIRING SOFTWARE ENGINEER",
+    "interests": [],
+    "achievements_and_awards": [
+      "4 Star Rating in C++ on Hacker Rank",
+      "Rank 1483940 on leetcode"
+    ],
+    "publications": []
+  },
+  "current_location": "Kozhikode, Kerala",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

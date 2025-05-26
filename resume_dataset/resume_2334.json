@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Abhishek Verma",
+  "college": "Abdul Kalam Technical University",
+  "locations": [
+    "Ghaziabad, UP",
+    "Lucknow, UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Abdul Kalam Technical University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Lucknow, UP",
+        "ID": 0.0,
+        "grade_received": "GPA of 7.9",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "R.L.B Memorial Group of Schools",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Senior secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "89.4",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "U-Toob",
+        "description": "Developed a cutting-edge YouTube clone leveraging YouTubes robust API for seamless video data retrieval, enabling advanced search and flawless playback functionality. Implemented nested comments feature to mitigate issue of identifying replies, resulting in 50% reduction in confusion regarding origin of comments. Incorporated debouncing in search and live chat features, reducing search latency by 30% and optimizing performance. Engineered React Router for seamless navigation and URL handling within the application.",
+        "keywords": [
+          "React",
+          "Tailwind",
+          "Redux",
+          "React Router",
+          "REST API"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "KrikBuzz",
+        "description": "Crafted a cricket score website using React for the frontend, Tailwind for styling, and Axios for making API requests. Deployed nested destructuring of REST API endpoints to fetch real-time scores and news updates, resulting in over 100 score updates daily. Performed 200+ API tests using Postman for API testing and debugging during development.",
+        "keywords": [
+          "React",
+          "REST API",
+          "Tailwind",
+          "Git",
+          "Postman"
+        ],
+        "endDate": "December 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "KhaneWala",
+        "description": "A sleek food ordering platform with 15+ food options, enhanced with Redux for seamless user management. Implemented user registration, JWT-based authentication, utilized Redux for managing user data and application state. Utilized MongoDB to efficiently manage storage and retrieval of all orders, enhancing order management. Guaranteed a user-friendly experience by enabling customers to browse, order, and track Dish selection.",
+        "keywords": [
+          "Nodejs",
+          "Express",
+          "MongoDB",
+          "React"
+        ],
+        "endDate": "Present",
+        "startDate": "February 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Campus Ambassador",
+        "skillsUsed": [],
+        "endDate": "March 2023",
+        "company_name": "Beyond Exams",
+        "description": "As a Campus Ambassador organized 3+ awareness seminars and workshops. Guided 15+ students to develop first development projects and portfolio websites. Initiated collaborative efforts and fostered 50+ connections within an industry-specific startup.",
+        "location": "",
+        "links": "",
+        "startDate": "February 2023"
+      },
+      {
+        "role_name": "Coordinator",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "KIET Alumni Association",
+        "description": "As the Coordinator of the KAA, effectively coordinated 3 alumni engagement events, fostering meaningful connections and participation among the alumni community.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Web Development Coordinator",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Kinesis Technical Society",
+        "description": "As Web Development Coordinator for KTS, coordinated 2+ intensive bootcamps, furthermore conducted 5+ interactive classes, empowering students with practical knowledge and skills in React.",
+        "location": "",
+        "links": "",
+        "startDate": "September 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "C++",
+      "JavaScript",
+      "HTML/CSS",
+      "Tailwind CSS",
+      "Reactjs",
+      "Redux",
+      "Unit Testing using Jest/React testing Library",
+      "Nodejs",
+      "Express",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "Visual Studio",
+      "IntelliJ",
+      "Postman",
+      "Firebase"
+    ],
+    "soft_skills": [],
+    "name": "Abhishek Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

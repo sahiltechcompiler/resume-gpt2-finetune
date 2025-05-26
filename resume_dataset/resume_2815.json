@@ -1,0 +1,129 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "NAGESWARAO TALLURI",
+  "college": "Sri Ramaswamy Memorial University",
+  "locations": [],
+  "full_output": {
+    "summary": "Highly motivated Computer Science undergraduate with a passion for developing innovative solutions. Skilled in algorithm development, researching new technologies to improve team skillsets.I am good at adapting quickly, learn new concepts, and collaborate effectively in team environments. Eager to apply academic knowledge and contribute to tech industry. Seeking entry-level opportunities to learn and grow.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Sri Ramaswamy Memorial University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "The Board of Intermediate Education, Andhra Pradesh",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of Secondary Education Of Andhra Pradesh",
+        "endDate": "",
+        "maximum_grade": "10.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.8/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Developers Hub",
+        "description": "Our MERN app at Developing Hub leverages JWT for secure authentication and MongoDB for efficient data storage. The application integrates these technologies seamlessly to manage user sessions and protect sensitive data. This setup ensures a robust, scalable platform for delivering high-performance web solutions. This project ensures that will helps in project managements.",
+        "keywords": [
+          "MERN",
+          "JWT",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to APP"
+      },
+      {
+        "name": "Create an Operating System",
+        "description": "I have created an Operating System with basic operation such as folder and file creation and power on and off etc.., I have used WSL system for concurrent running of two different operating systems for execution of programs and Assembly language (Emu8086) is used for interacting with registers and Bash script for control over execution of files and BOCHS Software.",
+        "keywords": [
+          "Operating System",
+          "WSL",
+          "Assembly language",
+          "Bash script"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to source code"
+      },
+      {
+        "name": "Student Management System with Multi-File system",
+        "description": "I have done Multi File System and OOPS(object oriented program) is mostly used in this project and developed using c++ language. OOPs concept is used to provide more security and data encapsulation.",
+        "keywords": [
+          "Multi File System",
+          "OOP",
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to source code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "company_name": "Andhra Pradesh State Skill Development Corporation",
+        "description": "Interned at Andhra Pradesh State Skill Development Corporation, where I gained hands-on experience in web technologies using python. Worked on various projects involving python programming and web framework and url pattern matching, super user creation and mail sending concepts using django. Developed proficiency in web technologies utilizing HTML,CSS,BOOTSTRAP programs and python built in libraries that are supported to Django.",
+        "location": "",
+        "links": "",
+        "startDate": "2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "MYSQL",
+      "Django web technology",
+      "MERN fullstack development"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Time Management",
+      "Problem-Solving",
+      "Adaptability"
+    ],
+    "name": "NAGESWARAO TALLURI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

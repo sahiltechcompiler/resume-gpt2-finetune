@@ -1,0 +1,154 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Srijan Srivastava",
+  "college": "KIET Groups of Institutions",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Groups of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "92.8 %",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Patanjali Rishikul School (Senior Secondary)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dockit",
+        "description": "Developed a CLI tool to enable developers unfamiliar with Dockerfiles to easily dockerize their applications. Dockerized the application, published the image on ECR, and deployed it on EKS. Authored a comprehensive README to facilitate project navigation.",
+        "keywords": [
+          "Docker",
+          "Golang",
+          "Linux",
+          "GithubActions",
+          "DockerHub",
+          "Kubernetes",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Credit-Approval-system",
+        "description": "Designed and implemented a credit approval system for banks, utilizing historical loan records. Utilized Django and REST APIs to develop the backend, integrating PostgreSQL as the database. Explored Celery and RabbitMQ to implement background processing and message broker services. Implemented automated build and deployment pipelines for DockerHub using githubActions.",
+        "keywords": [
+          "Django",
+          "REST",
+          "Python",
+          "PostgreSQL",
+          "Celery",
+          "RabitMQ",
+          "Docker",
+          "Docker-compose",
+          "GithubAction"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "infra-k8s",
+        "description": "Automated the process of provisioning k8s on AZURE cloud. Created a terraform script to run Kubernetes on Azure(AKS).",
+        "keywords": [
+          "Terraform",
+          "kubernetes",
+          "hashicorp-packer",
+          "azurerm"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "DevOps(OpenSource Developer)",
+        "skillsUsed": [],
+        "endDate": "May, 2024",
+        "company_name": "Samagra",
+        "description": "Implemented Grafana dashboard for monitoring Kong API gateway, tracking error%, latency, and RPS. Created Dockerfile as base for 30 others, reducing build time and memory with optimized layer caching. Manually implemented Kubernetes on VMs without utilizing cloud-based K8s services, and used Packer. Implemented UptimeKuma for DevOps alert, monitoring uptime, avg.response, & notified at Discord.",
+        "location": "",
+        "links": "",
+        "startDate": "April, 2024"
+      },
+      {
+        "role_name": "DevOps and Backend Developer(Intern)",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "DoubtConnect",
+        "description": "Developed a robust backend using DRF to support an application serving thousands of users. Containerized multiple services in the project and created multilayered Dockerfiles for storage optimization. Implemented CI/CD pipeline to automate the process of integration test and deployment on AWS. Utilized ECR to set up Docker images, deployed them using EKS, and integrated with Amazon RDS for DB.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb. 2024"
+      },
+      {
+        "role_name": "OpenSource Contributor",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "Internet Health Report",
+        "description": "Dockerized multiple services for microservice architecture. Documented organizational projects and personal contributions across multiple repositories. Worked with Linux cron jobs for scheduling tasks and Apache Kafka for real-time data streaming.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "git",
+      "CI/CD",
+      "Jenkins",
+      "Prometheus",
+      "Grafana",
+      "Terraform",
+      "Linux",
+      "Python",
+      "GO",
+      "Bash Scripting",
+      "HTML",
+      "CSS",
+      "Django Rest Framework",
+      "Tailwind",
+      "PostgreSQL",
+      "SQL",
+      "RabitMQ",
+      "Kafka",
+      "HashiCorp Packer"
+    ],
+    "soft_skills": [],
+    "name": "Srijan Srivastava",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Led a team of 6 individuals and was awarded the title of Peoples Choice Winner at NASA Spaceapps Challange 2022 and were amongst 2 teams from INDIA to receive Global Nominee Honorable mention 2022"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelors of Technology"
+}

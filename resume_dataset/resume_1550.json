@@ -1,0 +1,110 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "VASUKI. P",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Chennai, Tamil Nadu",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.95",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "JOB PORTAL WEBSITE",
+        "description": "Developed a job portal website leveraging React for the frontend, Node.js for the backend, and SQL for the database, Features include easy job searches for users and streamlined recruitment processes for admins, improving efficiency and user experience.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "MySQL"
+        ],
+        "endDate": "Jan 2023",
+        "startDate": "",
+        "url": "https://github.com/Vasuki-P/Hire_Net"
+      },
+      {
+        "name": "LAB ALLOCATION SYSTEM",
+        "description": "Contributed to a team project developing a Lab Allocation System for college using HTML, CSS, JavaScript, SQL, and Django. The system optimized resource utilization by automating lab allocation processes. Implemented features for efficient resource utilization, lab scheduling, and PDF/Word generation for students and administrators, enhancing overall administrative processes.",
+        "keywords": [
+          "Html",
+          "CSS",
+          "JavaScript",
+          "Django"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": "https://github.com/Vasuki-P/Lab-allocation"
+      },
+      {
+        "name": "SKILL UP",
+        "description": "Developed a web application that provides detailed company recruiting processes and job roles. Implemented dynamic navigation to role-specific learning modules, guiding users through the essential skills needed for their desired positions.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "MySQL"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "",
+        "url": "https://github.com/Vasuki-P/Skill_Up"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FRONTEND WEB DEVELOPER",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Quazr Motor",
+        "description": "Completed 2-month internship at Quazr Motor as a Front-end Developer, contributing to the development of user interfaces and enhancing the overall user experience. Collaborated with the team to implement responsive designs and optimize website functionality.",
+        "location": "",
+        "links": "https://quazrmotors.web.app/",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Linux",
+      "Git",
+      "Docker",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "Figma",
+      "Canva"
+    ],
+    "soft_skills": [],
+    "name": "VASUKI. P",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "I have solved 1000+ problems in Skill Rack",
+      "I had solved 100+ problems in Leetcode",
+      "NCC 'B' Certificate holder",
+      "Cadet Under Officer in CIT NCC (2021-2024). I had attended 3 camps. 1. Special National Integration Camp (SNIC) - Srinagar 2. Annual training camp (ATC) 3. CATC cum Shooting selection camp"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.E."
+}

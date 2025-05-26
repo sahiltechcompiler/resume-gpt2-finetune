@@ -1,0 +1,156 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "ALIVIYA JANA",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Vidya Bharati Chinmaya Vidyalaya",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "AISSCE(Class XII)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 9.3/10.0",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "Vidya Bharati Chinmaya Vidyalaya",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "AISSE(Class X)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 9.6/10.0",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "NodeLock License System",
+        "description": "A sophisticated web application with use of HTML, CSS, AJAX, JavaScript, PHP, and Bootstrap, supported by a MariaDB database on an XAMPP server. The platform handled extensive user information submissions and .dat license file uploads, leveraging advanced database operations of 50,000 people to streamline the retrieval and distribution of critical resources via an interactive and responsive dashboard.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "T-Mart : Deliveries made easy",
+        "description": "Led the creation of a comprehensive full-stack goods delivery service app designed for cashiers and users. This app significantly improved order processing speed and boosted user satisfaction. By utilizing HTML, CSS, and JavaScript along with Django and Bootstrap, created a responsive and user-friendly interface, ensuring a smooth and efficient experience for all users.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Speech Emotion Recognition",
+        "description": "Developed a deep-learning model using LSTM and Python. Leveraged librosa, NumPy, scikit-learn, TensorFlow, and tkinter for audio processing, data handling, machine learning modeling, and GUI development.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Parkinsons Disease Early Detection using ML",
+        "description": "Conducted in-depth analysis of biomedical voice measurement datasets, achieving 100 % accuracy through an advanced algorithm. Utilized ADASYN, Min-Max Scaling, and XGBoost, integrated with Ensemble Learning techniques ensuring precise data handling and robust model performances.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Management System",
+        "description": "An user-friendly C++ application designed for efficient library database management. It supports comprehensive CRUD operations for both Users and Books, enabling librarians to add, read, update, and delete records. This application ensures effective management of library resources and user information, enhancing overall productivity and organization.",
+        "keywords": [],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Bluestock Fintech",
+        "description": "Developing a full-stack web application and REST API using Django and PostgreSQL, delivering comprehensive IPO-related data like company details, pricing, and listing information. Created a responsive frontend with Bootstrap, integrated features such as PDF downloads, and led the team in task management. The application serves both the Bluestock platform and client websites/apps. Utilized Postman for API testing and Git for version control.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2024"
+      },
+      {
+        "role_name": "Software Development Engineer Intern Certificate",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "Tata Motors Ltd.",
+        "description": "Developed an advanced web application using PHP, MariaDB, and Bootstrap to streamline the license request and approval process for a database of 30,000 users. Integrated automated email notifications for provisioning and approvals. The solution, now implemented in 6 branches, significantly improved administrative workflows and user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2024"
+      },
+      {
+        "role_name": "Web Developer Intern Certificate",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "Prodigy Infotech",
+        "description": "Led the development of a comprehensive end-to-end application using HTML, CSS, and JavaScript, leveraging front-end technologies to create responsive user interfaces.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Django",
+      "PHP",
+      "MySQL",
+      "MongoDB",
+      "React",
+      "Node.js",
+      "Express.js",
+      "MariaDB",
+      "Bootstrap5",
+      "PostgreSQL"
+    ],
+    "soft_skills": [],
+    "name": "ALIVIYA JANA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Jugaad Hacks by Ellenox : Certificate",
+      "HackOn with Amazon-Season 4 : Certificate",
+      "2-star coder in Codechef",
+      "SRMAPCET Rank 29 in competitive pool of 75,000"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

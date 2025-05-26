@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "Frontend Engineer",
+  "name": "Kireet Singh",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "Feb 2024",
+        "maximum_grade": "Percentage: 96",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Current CGPA: 9.14/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Expense Tracker",
+        "description": "Developed a full-stack web application for Expense Tracking to display and analyse yearly and monthly expenses. Created a REST API using Node and Express. Used ChartJs to visualize data gathered from API. Used Tailwind CSS and React for best user interface and interaction. Solved problems relating to asynchronous tasks.",
+        "keywords": [
+          "JavaScript",
+          "HTML/CSS",
+          "Node.js",
+          "ReactJs",
+          "TailwindCSS",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "August 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MyLib",
+        "description": "Developed a book management system, where a user can search for books using inbuilt search function which fetches books from GoogleBookAPI and can add book to his/her own library. Created auth routes in express and managed security of each user password using bcryptjs and JWT tokens. Used React / Tailwind CSS for good User Experience. Made REST API with Nodejs and Express. State Management with ContextAPI.",
+        "keywords": [
+          "JavaScript",
+          "GoogleBooksAPI",
+          "HTML/CSS",
+          "Node.js",
+          "ReactJs",
+          "TailwindCSS",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "August 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Todo",
+        "description": "Made a simple Todolist application. Created auth routes in express and managed security of each user password using bcryptjs and JWT tokens. Used React / Tailwind CSS for good User Experience. Made REST API with Nodejs and Express. Added feature where each user can add/change his own custom profile image using multer and fs packages of nodejs. State Management with Redux Toolkit using one store throughout the application and many features (Redux Slice).",
+        "keywords": [
+          "JavaScript",
+          "HTML/CSS",
+          "Node.js",
+          "ReactJs",
+          "TailwindCSS",
+          "Redux Toolkit",
+          "Git"
+        ],
+        "endDate": "September 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Engineer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Labops",
+        "description": "Migrated a website from vanilla JavaScript to React. Used ReactJS to make frontend. Used ContextAPI for state management. Used Tailwind CSS and React for best user interface and interaction. Helped integrating with Django backend and managed API Calls with React Hooks.",
+        "location": "",
+        "links": "",
+        "startDate": "September 2021"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML/CSS",
+      "LATEX",
+      "Git/GitHub",
+      "Command Line",
+      "Webpack",
+      "VS Code",
+      "IntelliJ IDEA",
+      "Atom",
+      "React",
+      "Node.js",
+      "Express",
+      "Material-UI",
+      "TailwindCSS",
+      "bcryptJS",
+      "jwt (auth)",
+      "d3js",
+      "chartjs"
+    ],
+    "soft_skills": [],
+    "name": "Kireet Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Codechef 3 star rated",
+      "Global Rank 133 in codechef starters 68",
+      "Global Rank 262 in codechef starters 66",
+      "Member in IEEE GTBIT"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

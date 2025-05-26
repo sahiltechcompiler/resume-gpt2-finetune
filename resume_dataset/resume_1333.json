@@ -1,0 +1,111 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Harshitha Kavya Gunnabathula",
+  "college": "SRM University AP",
+  "locations": [
+    "Amaravati, India"
+  ],
+  "full_output": {
+    "summary": "I am a female student born on February 4, 2004, currently enrolled in the Bachelor of Technology (B.Tech) CSE specializing in Artificial Intelligence Machine Learning at SRM University AP in Amaravati, India. Anticipating graduation in 2025, I am enthusiastic about gaining experience and exploring opportunities within my field of engineering. My academic journey fills me with excitement, and I am eager to apply the knowledge and skills I acquire to contribute meaningfully in the future.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "Amaravati, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE specializing in Artificial Intelligence Machine Learning",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior Kalasala",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 8.8",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Sri Chaitanya Schools",
+        "endDate": "2019",
+        "maximum_grade": "CGPA: 7.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 66.2",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MENTAL HEALTH CHATBOT",
+        "description": "Implemented a robust and user-friendly chatbot using Python and various libraries such as Tkinter for GUI development, scikit-learn for text processing, and SQLite for database management. The chatbot serves as a virtual mental health support system, providing confidential assistance and resources to individuals facing mental health challenges.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "GAME THEORY APPLICATION TO RESOURCE OPTIMIZATION",
+        "description": "Minority Game: Simplified model of resource competition. Focus: Statistical mechanics communitys efforts to understand behavior. Objective: Extract fundamental equations governing game dynamics. Interpretation: Using statistical mechanics for disordered systems. Emphasis: Clarify and comprehend models behavior. Aim: Understand adaptation dynamics in resource competition.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TEXT-TO-SPEECH CONVERTER",
+        "description": "Developed Java-based Text-to-Speech (TTS) Converter. Objective: Convert user input text to audible speech. Steps: Set up Java environment, install libraries, create UI, implement conversion logic, save output. Potential Improvements: Enhance UI, offer more customization options. Features: User text input, voice selection, speech rate/pitch control, audio file saving.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Internship",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "",
+        "description": "Analysing Malaria Spread: - Study Objective: Analyze malaria case distribution using Lorenz curve and Gini coefficient - Methodology: Utilize Lorenz curve to visualize inequality in malaria prevalence - Gini Coefficient: Measures inequality in malaria burden across regions - Purpose: Identify areas requiring targeted interventions for malaria control.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Management Skills",
+      "Decision Making",
+      "Problem Solving",
+      "C",
+      "C++",
+      "Python",
+      "MySQL",
+      "Java",
+      "DSA",
+      "Basics of Machine Learning",
+      "Data Science"
+    ],
+    "soft_skills": [],
+    "name": "Harshitha Kavya Gunnabathula",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

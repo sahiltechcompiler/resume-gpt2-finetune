@@ -1,0 +1,248 @@
+{
+  "project_count": 10.0,
+  "designation": "",
+  "name": "Atharv Goel",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Mumbai, Maharashtra",
+    "Pune, Maharashtra"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI Empowerment for CEOs",
+        "issuer": "Aditya Berlia",
+        "certiLink": "5th July 2024"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Essentials in Python",
+        "issuer": "Cisco",
+        "certiLink": "30th May 2024"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco",
+        "certiLink": "30th May 2024"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cryptography and Information Theory",
+        "issuer": "University of Colorado",
+        "certiLink": "20th Nov 2023"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enterprise Networking, Security and Automation",
+        "issuer": "Cisco",
+        "certiLink": "14th Nov 2023"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "SWAYAM-NPTEL",
+        "certiLink": "July - Sept 2023"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle",
+        "certiLink": "16th Mar 2023"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Object-Oriented Hierarchies in Java",
+        "issuer": "LearnQuest",
+        "certiLink": "24th Nov 2022"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.57",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Ryan International School, Kandivali",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Mumbai, Maharashtra",
+        "ID": 1.0,
+        "grade_received": "89.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Podar International School, Powai",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Mumbai, Maharashtra",
+        "ID": 2.0,
+        "grade_received": "96.4%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Facial Expression Recognition",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Titanic Passenger Survival",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "House Price Estimator",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Stock Price Data Analysis",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommender",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Picture Editor",
+        "description": "Application to edit images with functions like monochrome, blurring, adding a border, changing the brightness, inverting and rotating.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Remotely Controlled Car via Telegram",
+        "description": "A remote-controlled car which receives instructions like move ahead, reverse, left and right via a Telegram channel.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hangman Game",
+        "description": "Command prompt game where computer picks a word and user guesses the correct letters.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Calculator App",
+        "description": "Made a calculator with GUI which can perform addition, subtraction, multiplication and division.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online News Web Scraper",
+        "description": "Created a program to scrape the front page of the New York Times website daily and store the news in a database.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "RK Dewan & Co. Patent and Trademark Attorneys",
+        "description": "Developed a program that automated an important aspect in the patent drafting process which reduced task completion time by 96.7% and saves 200 working hours annually. Built an automated web-scraper to monitor 6000+ patents, enhancing data accuracy and retrieval. The tool extracts detailed patent information including renewal history and patentee details, storing it in an SQL database.",
+        "location": "Pune, Maharashtra",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Carnot Technologies",
+        "description": "Made a program to optimize gear shifts in cars. Identified relevant features in the dataset and trained an ML model with a 99% accuracy. Developed an ML model to alert farmers of the most probable crop diseases based on the type of crop, location of the field and historical and current weather data. The model achieved an accuracy of 95%.",
+        "location": "Mumbai, Maharashtra",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python (Data Science)",
+      "Java (OOP)",
+      "C",
+      "HTML"
+    ],
+    "soft_skills": [],
+    "name": "Atharv Goel",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "1st Position at Smart India Hackathon 2023 Topic: Regulation of Valves in Micro-Irrigation Systems using Artificial Intelligence to Predict Soil Moisture. - Created a system to maximise crop yield consisting of soil probes and a micro-processor with an ML model to automate irrigation of the field by predicting the soil moisture level one hour in the future. Achieved an accuracy of 90%. - Scored 40% more points than any of the other 5 teams in the competition, selected from 400+ applicants.",
+      "Grand Finalist at Smart India Hackathon 2022 Topic: Speed Measurement of Autonomous Underwater Vehicles. - Created a self-contained system to calculate the speed of a submarine. - One of six teams selected for the Grand Finale from 300+ applicants."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

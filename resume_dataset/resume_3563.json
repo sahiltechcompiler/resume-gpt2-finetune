@@ -1,0 +1,127 @@
+{
+  "project_count": 0.0,
+  "designation": "DevOps Engineer Intern",
+  "name": "Pratik Meshram",
+  "college": "Pune University, MH",
+  "locations": [],
+  "full_output": {
+    "summary": "Experienced DevOps Engineer with 0-1 years of hands-on experience in the creation of a complete DevOps CI-CD pipeline by integrating Git, Maven, Jenkins, Ansible, Docker, Tomcat, Terraform, Kubernetes and AWS Cloud in order to automate the deployment process completely.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Practitioner Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Technical Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Getting Started with Cloud Security",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Pune University, MH",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "6.54",
+        "field_of_study": "IT",
+        "startDate": ""
+      },
+      {
+        "school": "Defence Career Academy, MH",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "58.41",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Yashoda High School, MH",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "86.40",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [],
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "experiences": [
+      {
+        "role_name": "DevOps Engineer Intern",
+        "skillsUsed": [
+          "Git",
+          "Jenkins",
+          "Ansible",
+          "Maven",
+          "Tomcat",
+          "Linux",
+          "Terraform",
+          "AWS"
+        ],
+        "endDate": "Feb 2024",
+        "company_name": "Saidemy",
+        "description": "Continuous Integration and Continuous Delivery pipeline for application development using DevOps tools. CI-CD is implemented using Git, Jenkins, Ansible, Maven, and Tomcat apache. Managed ports and keys according to the requirements to ensure that there is no unauthorized access. Using GitHub as a secure means of storing and sharing Playbooks and Docker files with team members. Integrating Git with Jenkins in a CI-CD process by using Poll SCM to pull source code automatically whenever a Jenkins job is triggered. Used all Linux commands extensively when performing DevOps tasks. Managed the scaling up and scaling down of EC2 instances based on the requirements as needed when resources were becoming scarce. Used Terraform to manage AWS cloud infrastructure in the areas of EC2, S3, IAM, Load Balancer, Auto Scaling, and VPCs. Billing alarms were created for AWS accounts and suggested mechanisms for reducing charges and good practices.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2023"
+      }
+    ],
+    "skills": [
+      "GIT",
+      "Ansible",
+      "Docker",
+      "Jenkins",
+      "Kubernetes",
+      "Maven",
+      "Tomcat",
+      "Terraform",
+      "RedHat Linux",
+      "CentOS",
+      "Ubuntu",
+      "Amazon Linux",
+      "Windows"
+    ],
+    "soft_skills": [],
+    "name": "Pratik Meshram",
+    "position": "DevOps Engineer Intern",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.E."
+}

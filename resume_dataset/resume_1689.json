@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Mridul Verma",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.34/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Navrachana Sama School, Vadodara",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "XII Grade",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "82",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "ASN Sr Sec School, Delhi",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "X Grade",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "87",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Heart Disease prediction using Machine Learning",
+        "description": "Developed a machine learning model to predict the likelihood of heart disease using Python and various machine learning algorithms including Logistic Regression, K-nearest neighbors, Decision Tree Classifier, and Random Forest Classifier. Presented comprehensive findings and methodology in a detailed project report, showcasing strong analytical and communication skills in conveying technical concepts to diverse audiences.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Matplotlib",
+          "Seaborn",
+          "Numpy",
+          "Scikit Learn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CryptoCurrency Tracker",
+        "description": "Developed a web application to display trending crytpocoins using CoinGecko API to fetch the data and have used hooks like useState, useEffect and createContext. Experimented with CoinGecko API to display the coins in a responsive carousel and Features include Price, Market Cap, 24hr change which updates in every 24hrs.",
+        "keywords": [
+          "ReactJs",
+          "HTML/CSS",
+          "CoinGecko API",
+          "Material UI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sign Language Detection",
+        "description": "Developed a real-time hand sign detection system to convert American Sign Language (ASL) gestures into text using Python. Utilized NumPy for array manipulation and OS for file management within the project. Leveraged OpenCV for image preprocessing and capturing, TensorFlow for deep learning model development, and MediaPipe for hand landmark detection.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "OpenCV",
+          "TensorFlow",
+          "Mediapipe"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "July 2023",
+        "company_name": "MTAB Technology Center Pvt Ltd",
+        "description": "Collaborated with the web development team to maintain and update the companys main website using HTML, CSS, and JavaScript. Utilized Zoho Sites platform for content management and daily updates to ensure accurate and up-to-date information. Demonstrated strong problem-solving skills and attention to detail in resolving technical issues and ensuring website functionality across different browsers and devices.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C/C++",
+      "JavaScript",
+      "HTML/CSS",
+      "ReactJs",
+      "Git/GitHub",
+      "AWS",
+      "Docker",
+      "Bootstraps",
+      "Material UI",
+      "VS Code",
+      "Scikit Learn",
+      "Adobe Photoshop",
+      "MS Excel"
+    ],
+    "soft_skills": [],
+    "name": "Mridul Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Designed a newspaper for Atelier (Rajasthans biggest Digital Arts event)",
+      "Executive Committee member at MUJHackX Managed the whole event and helped the team to get sponsorships",
+      "International Press Head at BVJ MUN Guided fellow delegates in preparation for MUN conferences held by BVJ School"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

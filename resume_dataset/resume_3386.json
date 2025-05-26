@@ -1,0 +1,117 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Annanya Sood",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Professional Certificate Program in Blockchain",
+        "issuer": "Indian Institute of Technology Kanpur",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Aug. 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE, specializing in IoT and Intelligent Systems",
+        "startDate": "Oct. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blockchain-Based Cheque Verification and Clearance System",
+        "description": "Developed a blockchain-based Proof-of-Concept for instantaneous settlements and unprecedented security. Leverage the power of Solidity smart contracts, PHP, and Flask for a robust and efficient back-end. Implemented digital signatures, hashes, and certificate authorities for a multi-layered defense against unauthorized access and fraud.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Jan. 2024",
+        "url": ""
+      },
+      {
+        "name": "Deep Audio Classifier",
+        "description": "Developed a Deep Learning model to count Capuchin bird calls within an audio clip, the project is inspired by, Z by HP Unlocked Challenge 3: Signal Processing. Utilized a Convolutional Neural Network (CNN) for audio classification. Converted audio waveforms into spectrograms to leverage the power of CNNs for image-like analysis. Trained the CNN model on TensorFlow to differentiate between Capuchin bird calls and other sounds. Implemented a sliding window technique to segment the provided 3-minute audio clip for efficient classification and counting of Capuchin bird calls.",
+        "keywords": [],
+        "endDate": "Apr. 2024",
+        "startDate": "Jan. 2024",
+        "url": ""
+      },
+      {
+        "name": "IoT-enabled Decentralized E-Waste Tracking System",
+        "description": "Auditable e-waste tracking system, enabling real-time monitoring of device movement and data erasure actions. This fosters trust and accountability among stakeholders, promoting responsible e-waste management in smart cities. Designed and implemented a comprehensive e-waste tracking system for smart cities, ensuring seamless life-cycle management and secure data erasure from storage devices before they are recycled. Validated systems viability through extensive testing.",
+        "keywords": [],
+        "endDate": "Nov. 2023",
+        "startDate": "Aug. 2023",
+        "url": ""
+      },
+      {
+        "name": "Human Activity Recognition Using Smartphone Datasets",
+        "description": "Achieved activity classification of walking, climbing/going down stairs, sitting, standing, and lying with 30 volunteers smartphone data (accelerometer, gyroscope). Pre-processed and transformed sensor data using time and frequency domain analysis, separating gravity and body motion for accurate feature extraction. Trained and tested various models (decision tree, random forest, etc.) on 70/30 data split, achieving high accuracy in classifying diverse activities.",
+        "keywords": [],
+        "endDate": "Sep. 2023",
+        "startDate": "Aug. 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Volunteer",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "The Art of Living",
+        "description": "Organized and facilitated various courses and free meditation workshops, introducing participants to techniques for stress management, self-awareness, and inner peace. Provided assistance with workshop logistics, ensuring a smooth and welcoming experience for all participants. Actively participated in Project Pavitra, an initiative spreading menstrual education among underprivileged women. Contributed to workshops aimed at destigmatizing menstruation and equipping women with knowledge for better health and hygiene practices with Yoga and Pranayama.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2019"
+      }
+    ],
+    "skills": [
+      "Java",
+      "SQL",
+      "Solidity",
+      "Git",
+      "GitHub",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "Annanya Sood",
+    "position": "",
+    "interests": [
+      "Problem-Solving",
+      "System Design",
+      "Fintech",
+      "DeFi",
+      "Blockchian",
+      "Deep Learning",
+      "IOTA",
+      "Quantum Computing",
+      "Product Management",
+      "Internet of Things",
+      "Intelligent Systems",
+      "Geopolitics",
+      "Yoga",
+      "Adventure Sports"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

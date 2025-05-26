@@ -1,0 +1,158 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "PRANAV BEDI",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, India",
+    "India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA",
+        "issuer": "Cisco Network Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Academy Database Foundations",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundations",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "100xDevs Full Stack Development COHORT-1",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Foundations of UX Design",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.5",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "DAV Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "India",
+        "ID": 1.0,
+        "grade_received": "Aggregate: 92.6%",
+        "field_of_study": "CBSE (Class XII)",
+        "startDate": ""
+      },
+      {
+        "school": "D.A.V. Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "India",
+        "ID": 2.0,
+        "grade_received": "Aggregate: 93%",
+        "field_of_study": "CBSE (Class X)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Course Selling Platform",
+        "description": "Developed a course selling platform using React, MongoDB, and Express/Node.js, following SDLC guidelines. Designed separate modules for ADMIN and USER roles, simplifying management. Engineered robust user authentication mechanisms and optimized state management with Recoil, enhancing performance.",
+        "keywords": [],
+        "endDate": "APR24",
+        "startDate": "JAN24",
+        "url": ""
+      },
+      {
+        "name": "Twitter Clone",
+        "description": "Created a Twitter-inspired web application with React, Next.js, and Tailwind CSS, achieving a responsive and visually appealing user interface. Implemented NextAuth for streamlined user authentication and employed robust state management techniques, ensuring data integrity. Added tweet posting, commenting, and liking features, increasing user engagement by 25%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Video-Conferencing Platform",
+        "description": "Designed a video conferencing solution using WebRTC, enabling real-time interactions leveraging documentation and community support. Implemented secure room-based access control, ensuring efficient and protected communication channels.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "NODEJS DEVELOPER",
+        "skillsUsed": [],
+        "endDate": "2025",
+        "company_name": "TCONGS INFOTECH",
+        "description": "Enhanced and maintained an existing home decor website using Node.js and Next.js, increasing user engagement by 30%. Redesigned navigation and visual components, improving user experience and reducing page load time by 20%. Integrated new features for ADMIN USER and DESIGNER roles. Designed and implemented a RESTful API, facilitating integration with 3 external systems. Boosted performance and scalability with AWS integration, ensuring seamless operations during peak traffic periods. Continuously adopted and applied emerging technologies to propose and implement innovative solutions.",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "NodeJS",
+      "React",
+      "NextJS",
+      "Express.js",
+      "REST API",
+      "MongoDB",
+      "Git",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "PRANAV BEDI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

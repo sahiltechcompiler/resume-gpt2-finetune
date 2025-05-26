@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sai Mani Teja Ramisetty",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Developer Intern at APSSDC",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Data analytics Professional Certification",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "Percentage: 94%",
+        "degree": "B.tech",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.8",
+        "field_of_study": "Computer Science and Engineering with specialization in Big Data Analytics",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya College",
+        "endDate": "2021",
+        "maximum_grade": "Percentage: 84%",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "M.P.C",
+        "startDate": "2019"
+      },
+      {
+        "school": "DR. KKR Gowtham International School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "C.B.S.E",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Black Jack Game",
+        "description": "Created a blackjack game using HTML, CSS, and JavaScript, featuring real-time score updates and card displays. Developed core functionalities such as HIT, STAND, DEAL, and RESTART, resulting in a 100% user engagement rate during gameplay. Implemented robust state management for tracking wins, losses, and draws, with functionality to reset scores, enhancing long-term playability.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Market Place",
+        "description": "Designed and developed an online marketplace using Python and Django, incorporating essential features such as item listing, category filtering, price specification, and detailed item descriptions. Built user-friendly functionalities including item search, related item suggestions, and real-time status updates. Integrated a secure user authentication system with signup/login capabilities, alongside a robust messaging system for user-to-user inquiries and conversations.",
+        "keywords": [
+          "Django",
+          "Python",
+          "Tailwind CSS",
+          "HTML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Expense Tracker",
+        "description": "Created an Expense Tracker application using HTML, CSS, JavaScript, and React, enabling the addition and categorization of transactions as income or expenses. Implemented features allowing users to filter transactions by category or date range and sort by amount or date, enhancing user experience. Provided comprehensive financial statistics, including total income, expenses, and balance in effectively managing users finances.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "Python",
+          "Django"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Interned at APSSDC, where I gained proficiency in Python programming and Django, enhancing my web development skills. Utilized Python and Django to build and optimize back-end services.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "Django",
+      "NodeJS",
+      "Git",
+      "MySQL",
+      "PostgreSQL",
+      "VS Code",
+      "Google Colab",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Sai Mani Teja Ramisetty",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

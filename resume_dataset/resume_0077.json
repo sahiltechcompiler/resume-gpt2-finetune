@@ -1,0 +1,147 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rajiv Ranjan",
+  "college": "SRM UNIVERSITY",
+  "locations": [
+    "Amaravati, Andhra Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "Diligent Undergraduate Student pursuing Bachelors of Technology in Computer Science and Engineering with specialization in Cloud Computing. Strong analytical and communication skills. Ready to contribute to innovative solutions in a professional setting.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Service Now Certification",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "HackerRank Software Engineer Intern",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL Basic Database Management System",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Amaravati, Andhra Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "7.4/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data Visualization of Supermart",
+        "description": "The Data Visualization of Supermart project leverages SQL, Excel, and Power BI to analyze and visualize supermarket sales data. SQL is used for extracting and cleaning data from the database. This cleaned data is then analyzed in Excel using pivot tables and charts to summarize sales by various dimensions and perform basic statistical analysis. The final phase involves importing the data into Power BI to create interactive dashboards with visualizations like bar charts, line charts, and maps.",
+        "keywords": [
+          "SQL",
+          "Excel",
+          "Power BI"
+        ],
+        "endDate": "July 2024",
+        "startDate": "June 2024",
+        "url": "Github"
+      },
+      {
+        "name": "Bank Loan System",
+        "description": "The Loan Application System streamlines the process for both clients and managers. Clients submit applications and documents online, track status, and receive updates. Managers have a central dashboard to review applications, verify details, and communicate with clients. Secure storage, real-time notifications, and data management features enhance efficiency and transparency. Overall, this system improves the loan application experience for everyone involved.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Student Admission Management",
+        "description": "Designed and implemented a comprehensive Student Admission Management system using C++. Developed user-friendly interfaces for efficient data entry and retrieval.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "Dec 2022",
+        "startDate": "Oct 2022",
+        "url": "Github"
+      }
+    ],
+    "languages": [
+      "Fluent English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Virtual Internship",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "TATA - Association with Forage",
+        "description": "Framing the business scenario involves setting the stage for understanding and addressing key challenges or opportunities within an organization. It requires defining the problem statement clearly, identifying stakeholders, outlining objectives, and providing necessary context.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "SRM UNIVERSITY",
+        "description": "This paper proposes a novel approach for dynamic path planning and computation offloading in a Wireless Powered Unmanned Aerial Vehicle (UAV) - Internet of Things (IoT) network. Leveraging the capabilities of UAVs and IoT devices, our method optimizes energy consumption and computational efficiency, addressing challenges in resource-constrained environments.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Excel",
+      "Mongodb",
+      "Node Js",
+      "ExpressJs",
+      "Power BI",
+      "Data Visualization"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Coordination with Team"
+    ],
+    "name": "Rajiv Ranjan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded 100% merit scholarship for B. Tech in Computer Science and Engineering at SRM University AP"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

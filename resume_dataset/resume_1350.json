@@ -1,0 +1,190 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "Adarsh Kumar",
+  "college": "Noida institute of Engineering and Technology",
+  "locations": [
+    "Noida,Uttar Pradesh",
+    "Bokaro,Jharkhand",
+    "Ramgarh,jharkhand"
+  ],
+  "full_output": {
+    "summary": "Talented Software Developer with expertise in coding, debugging, and project management. Consistently achieves project goals through elegant and scalable code. Collaborates effectively within Agile and Scrum frameworks.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning for all",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Artificial Intelligence",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Blockchain Basics",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cryptography",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "D.A.V Sr. Sec. Public School",
+        "endDate": "04/2018",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "77.8 %",
+        "field_of_study": "",
+        "startDate": "05/2017"
+      },
+      {
+        "school": "Guru Gobind Singh Public School",
+        "endDate": "04/2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Bokaro,Jharkhand",
+        "ID": 1.0,
+        "grade_received": "70%",
+        "field_of_study": "",
+        "startDate": "05/2019"
+      },
+      {
+        "school": "Noida institute of Engineering and Technology",
+        "endDate": "05/2025",
+        "maximum_grade": "",
+        "degree": "bachelors of technology in Computer Science & Technology",
+        "location": "Noida,Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "64%",
+        "field_of_study": "",
+        "startDate": "11/2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Attendance System",
+        "description": "Developed a Smart Attendance System using Machine Learning to automate attendance tracking. Implemented facial recognition (or RFID, biometric, etc.) to accurately identify students/employees and record attendance in real-time.",
+        "keywords": [
+          "Machine Learning",
+          "facial recognition"
+        ],
+        "endDate": "03/2024",
+        "startDate": "01/2024",
+        "url": ""
+      },
+      {
+        "name": "Stock Market Prediction using Machine Learning Techniques",
+        "description": "Designed and implemented a Stock Market Prediction model utilizing machine learning techniques to analyze historical data and predict future stock prices. Employed algorithms such as Linear Regression, Random Forest, and LSTM for time-series forecasting.",
+        "keywords": [
+          "Machine Learning",
+          "Linear Regression",
+          "Random Forest",
+          "LSTM"
+        ],
+        "endDate": "08/2023",
+        "startDate": "07/2023",
+        "url": ""
+      },
+      {
+        "name": "Library Management System",
+        "description": "Developed a Library Management System using Java to automate book borrowing and returning processes. Implemented features for user registration, book search, and inventory management using Object-Oriented Programming (OOP) principles. Utilized Java Swing for GUI development and MySQL for backend data storage.",
+        "keywords": [
+          "Java",
+          "OOP",
+          "MySQL"
+        ],
+        "endDate": "07/2023",
+        "startDate": "05/2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [
+          "SQL",
+          "Excel"
+        ],
+        "endDate": "08/2024",
+        "company_name": "Sorbitol Transmission Pvt. Ltd.",
+        "description": "Performed exploratory data analysis on large datasets to identify trends and outliers. Assisted in analyzing and interpreting large datasets using SQL and Excel to support data-driven decision-making across various departments.",
+        "location": "Noida,Uttar Pradesh",
+        "links": "",
+        "startDate": "06/2024"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "01/2024",
+        "company_name": "Bharat Intern",
+        "description": "Developed web applications using HTML, CSS and JavaScript. Assisted in developing and creating portfolio for clients.",
+        "location": "",
+        "links": "",
+        "startDate": "01/2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JAVASCRIPT",
+      "SQL",
+      "Data Structures and Algorithm",
+      "Machine Learning"
+    ],
+    "soft_skills": [],
+    "name": "Adarsh Kumar",
+    "position": "Software Engineer",
+    "interests": [
+      "Web Development",
+      "Data Science and Analytics",
+      "AI/ML Research",
+      "Cybersecurity Trends"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Noida, india",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "bachelors of technology in Computer Science & Technology"
+}

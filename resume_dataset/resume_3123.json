@@ -1,0 +1,131 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "T Kumar Varma",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "Undergrad with a background in Computer Science, and proficiency in both Front-end and Back-end development. Incredibly committed and driven student with problem-solving and critical thinking mentality. Developer with a strong sense of curiosity and aptitude who loves creating and coding apps. Good level of interpersonal intelligence along with excellent communication skills makes me an ideal candidate.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "TSBIE",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "7.71/10.0",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2019",
+        "maximum_grade": "360/500",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "886/1000",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SRM Gym Management System",
+        "description": "Developed a software that oversees day-to-day operations of a gym. Implemented functions like class scheduling, membership administration, exercise equipment tracking.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Gold Mine Game Design",
+        "description": "Led a project aiming to maximise the efficiency of gold collecting using Q-learning techniques. Created an intelligent ML agent that can dynamically alter its strategies.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blood Bank Management Application",
+        "description": "Developed a Blood Bank Management connecting SQL to front-end website using php. Designed a dynamic website using HTML and CSS adding interactions and functionalities. Launched the application on an Apache XAMPP server.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "php"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Django",
+          "Python",
+          "MySQL"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Participated in APSSDC Web Development Internship using Django (python). Created a web application, designed front-end and interacted with databases efficiently. Strong grip over the basic idea of models, views, and templates. For project, built a Hospital Management System executing project structuring and database design. Integrated MySQL relational database alongside Djangos Object-relational mapper.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2023"
+      },
+      {
+        "role_name": "Undergraduate Research Project (UROP)",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "",
+        "description": "Comparative Analysis of Algorithmic Adoption in Machine Learning and Human Learning.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "php",
+      "JavaScript",
+      "MySQL",
+      "PL/SQL",
+      "MongoDB",
+      "Django",
+      "Node",
+      "React"
+    ],
+    "soft_skills": [],
+    "name": "T Kumar Varma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

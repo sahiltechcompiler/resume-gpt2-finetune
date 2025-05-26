@@ -1,0 +1,113 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Priyanshu Sharma",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.33",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Talecraft",
+        "description": "Developed an AI-driven platform for creative content generation, including headlines, podcast scripts, and stories. Integrated the Gemini API for AI-driven content generation, ensuring high relevance and creativity in the output. Achieved advanced content generation capabilities, demonstrating significant improvements in efficiency and creativity during testing and development.",
+        "keywords": [
+          "Next.js",
+          "Node",
+          "Express",
+          "Google Gemini"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Geofence Based System",
+        "description": "Designed and implemented a mobile application utilizing geofencing technology to automate the process of marking attendance based on students physical presence within a predefined area. Integrated GPS-based geofencing with the mobile app, allowing the system to detect when a student entered or exited the designated area. Reduced manual attendance errors by 90% and improved time efficiency by 50%. The project was well-received, earning positive feedback from both professors and students.",
+        "keywords": [
+          "Flutter",
+          "Google Maps",
+          "Express",
+          "Postgres"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Recommendation System",
+        "description": "Music and Movie recommender systems using collaborative filtering on public datasets.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Freelancer Flutter Developer",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Remote",
+        "description": "Developed cross-platform mobile applications using Flutter and Dart, ensuring seamless performance across iOS and Android devices. Collaborated with clients to gather requirements, design user interfaces, and implement custom features tailored to their needs. Optimized application performance, reducing load times and improving user experience through efficient coding practices and state management.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jan 2023"
+      },
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Software Development Center, Manipal University Jaipur",
+        "description": "Worked on the Geofence Based Attendance System as a team lead, gaining hands-on experience in coding, debugging, and project management. Utilized programming languages and tools relevant to project requirements, effectively applying theoretical knowledge to practical tasks.",
+        "location": "Manipal University Jaipur",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Data Structures & Algorithms",
+      "Version Control",
+      "Debugging",
+      "C",
+      "Java",
+      "Dart",
+      "Javascript",
+      "SQL",
+      "Flutter",
+      "NextJS",
+      "Express",
+      "Git",
+      "GitHub",
+      "Postgres"
+    ],
+    "soft_skills": [],
+    "name": "Priyanshu Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

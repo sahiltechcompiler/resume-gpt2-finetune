@@ -1,0 +1,96 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "ANANDA KUMAR A",
+  "college": "BANNARI AMMAN INSTITUTE OF TECHNOLOGY",
+  "locations": [],
+  "full_output": {
+    "summary": "Dedicated and passionate about Machine Learning and Deep Learning. Likes exploring and learning about new technologies and methods. Will adapt to any new AI technology and enjoy doing that.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "BANNARI AMMAN INSTITUTE OF TECHNOLOGY",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.1 | Upto 5th Semester",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": ""
+      },
+      {
+        "school": "VIVEKA MATRIC HR SEC SCHOOL",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "SSLC & HSC",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automatic Number Plate Detection",
+        "description": "Developed a Deep Learning model using YOLOv5, PyTorch, and OpenCV to detect and extract license plate numbers with high accuracy. Led end-to-end project implementation, including data preprocessing, model training, and deployment successfully with excellent results.",
+        "keywords": [
+          "YOLOv5",
+          "PyTorch",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Dark Pattern Detection",
+        "description": "Implemented a neural network model to detect dark patterns in user interfaces, improving user experience by identifying and mitigating deceptive design practices. Fine-tuned a BERT multiclass model to identify deceptive patterns, achieving impressive performance and accuracy.",
+        "keywords": [
+          "Dark Pattern Detection",
+          "BERT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "PYTHON TRAINER",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "",
+        "company_name": "BANNARI AMMAN INSTITUTE OF TECHNOLOGY",
+        "description": "Trained a batch of 50 students in the basics of Python. Facilitated engaging and interactive sessions.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "C (Basic)",
+      "Deep Learning",
+      "Neural Network",
+      "Natural Language processing"
+    ],
+    "soft_skills": [],
+    "name": "ANANDA KUMAR A",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Finalist of Dark Pattern Buster Hackathon 2023 Organizer - Ministry of Consumer Affairs",
+      "Winner of 36 hour Hackathon . (BITHACK22) Organizer-BIT"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

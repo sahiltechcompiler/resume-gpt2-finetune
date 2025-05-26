@@ -1,0 +1,154 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Vineet Kumar",
+  "college": "Noida Institute of Engineering & Technology",
+  "locations": [
+    "Delhi, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures & Algorithms",
+        "issuer": "Internshala",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "IBM(Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Build an Azure AI Vision solution",
+        "issuer": "Microsoft",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Create an intelligent document processing solution with Azure AI Document Intelligence",
+        "issuer": "Microsoft",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering & Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7/10 CGPA",
+        "field_of_study": "Computer Science Engineering (Data Science)",
+        "startDate": "Nov. 2021"
+      },
+      {
+        "school": "Dr. D Y Patil Pushapalata Patil International School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary School",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Dr. D Y Patil Pushapalata Patil International School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Secondary School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "82.8%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI ATTENDANCE USING OpenCV",
+        "description": "Developed an OpenCV-based model that records and marks attendance automatically. Scans and saves facial data in database and provides advanced functionality to attendance system.",
+        "keywords": [
+          "Python",
+          "Image Processing",
+          "OpenCV",
+          "dlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "DRIVER DROWSINESS DETECTION",
+        "description": "Created a system to detect driver drowsiness using image analysis and deep learning techniques. Collected and processed images and videos of drivers to train and test the detection model. Developed a Convolutional Neural Network (CNN) to identify signs of drowsiness from facial features. Achieved a prediction accuracy of 92% by optimizing model parameters.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2024",
+        "company_name": "Website Builders Shop",
+        "description": "Created detailed reports and dashboards using tools like Tableau, Power BI, and Excel to visualize key metrics and trends. Assisted in maintaining and updating SQL databases, ensuring data integrity and accessibility. Worked closely with cross-functional teams, Provided actionable insights that contributed to a 15% increase in marketing campaign effectiveness.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "Bharat Intern",
+        "description": "Developed a stock price prediction model using Long Short-Term Memory (LSTM) neural networks to forecast future stock prices. Trained the LSTM model using Python and TensorFlow, optimizing hyperparameters to improve prediction accuracy. Documented the entire project lifecycle, from data collection to model evaluation, ensuring reproducibility and clarity.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "OOPs",
+      "SQL",
+      "JavaScript(Basic)",
+      "HTML/CSS"
+    ],
+    "soft_skills": [],
+    "name": "Vineet Kumar",
+    "position": "",
+    "interests": [
+      "Data Analysis",
+      "Software Development",
+      "Web Design and Development"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

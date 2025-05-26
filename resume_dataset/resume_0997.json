@@ -1,0 +1,198 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Development Engineer, Data Analyst",
+  "name": "Pravartika Mishra",
+  "college": "Manipal University, Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan, India"
+  ],
+  "full_output": {
+    "summary": "Motivated B.Tech student majoring in Information Technology, proficient in coding and adept at problem-solving. Experienced in collaborative project development and eager to apply technical skills to drive innovation in the technology sector.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Front-End Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundations of Cybersecurity",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Data Analytics",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Introduction to Cybersecurity",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to structured query language",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "OPENEDG Programming Essentials in Python",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University, Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B-Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7/10",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "ST. MICHAEL SR. SEC. SCHOOL, Gurugram",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CBSE (Class XII)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "80.0%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "ST. MICHAEL SR. SEC. SCHOOL, Gurugram",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE (Class X)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "85.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Federated-Healthcare",
+        "description": "Created a shallow neural network (ANN) following comprehensive analysis of various ML model performances after Preprocessing of heart disease dataset for improved data quality & gained 91 % accuracy improving the accuracy of all others by 3%. Developed a simulation environment with server and client-side scripts for Federated Averaging by employing Flower framework. Therefore increased accuracy through decentralized, privacy preserving learning by 3% and ensured communication efficiency.",
+        "keywords": [],
+        "endDate": "November '23",
+        "startDate": "August '23",
+        "url": ""
+      },
+      {
+        "name": "Data Optimization & Advanced Salary Prediction",
+        "description": "Preprocessed data using Label Encoding and Standard Scaling, reducing anomalies by 30% & enhancing accuracy. Applied & deployed machine learning models for predictions, contributing to strategic decision-making, improving accuracy by 20%. Utilized Seaborn and Matplotlib for visualization, feature selection and hyperparameter tuning for better salary prediction.",
+        "keywords": [],
+        "endDate": "June '24",
+        "startDate": "June '24",
+        "url": ""
+      },
+      {
+        "name": "Health Guardian",
+        "description": "Developed 'HealthGuardian,' a comprehensive healthcare software for COVID-19 recovery. Key features include personalized health monitoring, exercise plans, community support, & consultation with doctors for medications. Prioritized data security, long-term well-being, & integrated wearable technology for real-time insights.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Punjab National Bank",
+        "description": "Enhanced skills in data preprocessing, probability, and statistics essential for machine learning applications. Processed & analyzed 5-6 customer support audio files, improving transcription accuracy with VOSK and Whisper models. Compared VOSK plus google api transcription with Whisper model, achieving a 20-30% increase in accuracy by using Whisper. Measured dB levels of audio segments for detailed quality insights & evaluating transcription before and after. Used spectral subtraction, Wiener filtering for noise reduction, cutting processing time by 25% & improving Word Error Rate by 25%. Developed a Python-based credit risk model addressing frauds and Anti-Money Laundering concerns within banking operations. Implemented solution aimed at optimizing manual efforts, resulting in an estimated 80 percent reduction in workload for the manual review team.",
+        "location": "Jaipur, Rajasthan, India",
+        "links": "",
+        "startDate": "June '24"
+      },
+      {
+        "role_name": "Summer Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "IPPB",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "2023"
+      },
+      {
+        "role_name": "Community Manager",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "IEEE muj",
+        "description": "Managed club members in the IEEE chapter, ensuring everyone stayed connected and involved. Organized various events like hackathons, webinars, and tech-fests, making our IEEE club exciting and engaging for all.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "Sql",
+      "OOPS",
+      "DSA",
+      "Android Dev",
+      "Machine Learning",
+      "Data preprocessing",
+      "System Design",
+      "Security",
+      "Git",
+      "Linux",
+      "Kaggle",
+      "Network Programming",
+      "TCP-IP"
+    ],
+    "soft_skills": [
+      "Debate",
+      "Public Speaking",
+      "Athletics",
+      "Teaching"
+    ],
+    "name": "Pravartika Mishra",
+    "position": "Software Development Engineer, Data Analyst",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan, India",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B-Tech"
+}

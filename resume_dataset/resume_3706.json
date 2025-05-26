@@ -1,0 +1,117 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Alka Gupta",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "ghaziabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "ghaziabad",
+        "ID": 0.0,
+        "grade_received": "8.3",
+        "field_of_study": "CSE AIML",
+        "startDate": ""
+      },
+      {
+        "school": "Meerut Public Girls School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "97.2",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fashion Product Recommender System",
+        "description": "Built a fashion product recommender system using a ResNet architecture for feature extraction from a massive dataset of over 44,000 images. Executed a recommendation engine using KNN algorithms, recommending relevant fashion items to users based on their preferences.",
+        "keywords": [],
+        "endDate": "Nov 2023",
+        "startDate": "Oct 2023",
+        "url": ""
+      },
+      {
+        "name": "Emotion Detection",
+        "description": "Created an emotion detection system using RNN architecture (specifically LSTM) for efficient sequence processing in emotion detection. Trained on various machine learning algorithms (Logistic Regression, SVM, Random Forest, Naive Bayes) to analyze text and identify emotions behind sentences 85 accuracy.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ASL Sign Language Detection",
+        "description": "Made a system to recognize hand signs of the English alphabet (A-Z) using MediaPipe and OpenCV Computer vision library for image processing and for hand landmark detection with 85 accuracy.",
+        "keywords": [],
+        "endDate": "Mar 2023",
+        "startDate": "Feb 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Omdena Real world AI Community",
+        "description": "Developed and deployed a machine learning model to assess water quality in Rwandan rivers, achieving an accuracy of 85. Learned web scraping techniques using Beautiful Soup library, enhancing data acquisition capabilities for future projects.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Edutech",
+        "description": "Implemented a Convolution Neural Network (CNN) architecture for early forest fire detection, reducing simulated response time by 20. Gained expertise in image processing techniques, equipping me for tasks involving image analysis and manipulation.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Nov 2022",
+        "company_name": "YBI Foundation",
+        "description": "Completed an internship in Python and Machine Learning, demonstrating proficiency in Python programming for data analysis and modeling tasks. Mastered fundamental machine learning algorithms, data visualization libraries (Seaborn, matplotlib), and numerical computing tools (NumPy, pandas, scikit-learn), gaining the technical foundation for a successful career in AI.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2022"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "soft_skills": [],
+    "name": "Alka Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winner Innotech22 - KIET annual Technical Fest Nov 2022",
+      "Research Paper Publication Fashion Product Recommender system, under Sayani Goyal) Dec 23- Present"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

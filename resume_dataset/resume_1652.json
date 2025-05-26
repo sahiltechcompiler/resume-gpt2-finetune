@@ -1,0 +1,209 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Priyanshu Pandey",
+  "college": "Sant Longowal Institute of Engineering and Technology",
+  "locations": [
+    "Sangrur, Punjab",
+    "Bengaluru, Karnataka, India",
+    "Orlando, Florida, United States",
+    "Mumbai, Maharashtra, India",
+    "Patna, Bihar, India",
+    "Guwahati, Assam, India",
+    "Gandhinagar, Gujarat, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Sant Longowal Institute of Engineering and Technology",
+        "endDate": "Jun. 2024",
+        "maximum_grade": "10",
+        "degree": "Bachelor of Engineering",
+        "location": "Sangrur, Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.29/10",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": "Jul. 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pan Card Tampering Analysis",
+        "description": "Image Processing based tampering detection using computer vision for identifying whether the given ID is valid or not, PAN card has been specifically used here.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Python Image Library",
+          "Scikit-Image",
+          "Image Processing",
+          "Structural Similarity Index Measure"
+        ],
+        "endDate": "Sep. 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis",
+        "description": "Derived the logistic regression model for analyzing the sentiment of a particular tweet using Natural Language ToolKit with the accuracy of 100% almost.",
+        "keywords": [
+          "Python",
+          "NLTK",
+          "NLP",
+          "Tokenization",
+          "Stemming",
+          "Numpy",
+          "Scikit-learn",
+          "Regular Expression",
+          "Stemming",
+          "Gradient Descent",
+          "Logistic Regression"
+        ],
+        "endDate": "Sep. 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Diabetes Prediction",
+        "description": "Derived KNN model for the diabetes prediction using the data of criteria having Glucose, Blood Pressure, Insulin, Skin Thickness, etc. further analyzed it on finding accuracy as well as mis-classified values and implemented Logistic Regression and Decision Tree model to reach the high accuracy of the result.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Seaborn",
+          "Scikit-learn",
+          "KNN",
+          "Logistic Regression",
+          "Decision Tree",
+          "Confusion Matrix"
+        ],
+        "endDate": "May 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Kerala Flood Prediction",
+        "description": "Implemented Decision Tree model for the flood prediction in Kerala State of India used the Data Preprocessing technique for deriving the algorithms and used Random Forest to compare the best accuracy for the prediction.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Numpy",
+          "Matplotlib",
+          "Scikit-learn",
+          "Decision Tree",
+          "Random Forest"
+        ],
+        "endDate": "May 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Nyun AI",
+        "description": "Implemented a solution for Retrieval Augmented Generation application for complex PDFs using Langchain, FAISS, and ChromaDB combining which increases 30% faster retrieval. Fine-tuned large corpus JSON on LoRA, GLoRA, implementing Llama2 7b/13b text models with Google Cloud VM instance. Making AI efficient, affordable, and fast with quantization, pruning, and distillation.",
+        "location": "Bengaluru, Karnataka, India",
+        "links": "",
+        "startDate": "Dec. 2023"
+      },
+      {
+        "role_name": "Machine Learning Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Dec. 2023",
+        "company_name": "The Green AI Foundation",
+        "description": "Engineered the solution for climate change misinformation detection on the corpus JSON data of more than 10000+ lines with 1000+ paragraphs through binary classification. Incorporated NLTK, BERT, Pytorch-NLP for utilization of tokenization, model training, tensor conversion, and improving the baseline with validation accuracy of 95.70%, precision of 83.6%, recall of 92%, and f1-score of 87.6% on test data. Integrated climate change information dataset of 1535 claims, 7675 claim-evidence pairs, leveraging haystack library to preprocess and store documents in-memory, implemented BM25 retriever for context retrieval and utilized google/flan-t5-large model through Prompt Node for answer generation.",
+        "location": "Orlando, Florida, United States",
+        "links": "",
+        "startDate": "Nov. 2023"
+      },
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Oct. 2023",
+        "company_name": "IEEE Bombay Section",
+        "description": "Innovated a WHOIS module using Svelte and TailwindCSS, enhancing functionality through REST API with a 20% reduction in code redundancy. Orchestrated efficient frontend-to-backend data flow, optimizing WHOIS operations and achieving a 15% boost in overall performance. Improved UI aesthetics by implementing TailwindCSS, streamlining codebase with refined classes and loops, resulting in 25% increased code efficiency.",
+        "location": "Mumbai, Maharashtra, India",
+        "links": "",
+        "startDate": "Sep. 2023"
+      },
+      {
+        "role_name": "Research Intern - Prof. Sriparna Saha",
+        "skillsUsed": [],
+        "endDate": "Oct. 2023",
+        "company_name": "Indian Institute of Technology",
+        "description": "Explored the bioinformatics, medical imaging, and imaging analysis and synthesis for computer aided diagnostic. Read 20+ journals, articles, and conference papers on leukemia disease, cervical cancer, breast tumor, cervical histopathology, and breast cancer. Applied DeepLabV3+, UNet, Attention UNet, Mask RCNN, Deep UNet, UNet++ while implementing classification heads of CoAtNet, CoTNeXt, EfficientViT, and EVA with ensemble technique for BUSI dataset.",
+        "location": "Patna, Bihar, India",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Summer Research Intern - Prof. Rusha Patra",
+        "skillsUsed": [],
+        "endDate": "Aug. 2023",
+        "company_name": "Indian Institute of Information Technology",
+        "description": "Performed data pre-processing and provided visualizations on new plant diseases dataset with around 70k train, 17k validation, and 33 test images having 38 classes for the overall dataset. Applied 3 ConvNet, 5 ConvNet, VGG16, and Vision Transformer resulting has 99.9% accuracy from ViT, studied 30+ related journals, paper, and articles for drafting a conference paper. Deployed the MobileNet fine-tuned classification model having 98.5% accuracy using Streamlit framework for real-time user inference.",
+        "location": "Guwahati, Assam, India",
+        "links": "",
+        "startDate": "Jun. 2023"
+      },
+      {
+        "role_name": "Winter Research Intern - Prof. Yogesh K. Meena",
+        "skillsUsed": [],
+        "endDate": "Jul. 2023",
+        "company_name": "Indian Institute of Technology",
+        "description": "Augmented unique 33 digital real-world electrical architecture floor plan original images, annotated dataset using LabelImg tool of 38+ individual keys and approx 45+ labels in each image. Programmed Tensorflow Object Detection, YOLOv4, YOLOv7, and YOLOv8 for service key/symbol spotting, also presented comparative analysis of mAP, AP, precision, recall, and f1-score while reading 40+ papers on digital architectural floor plans, drafting conference paper for it. Deployed YOLOv4, YOLOv7, and YOLOv8 by utilizing model weights on the web for real-time inference and user experience using streamlit framework.",
+        "location": "Gandhinagar, Gujarat, India",
+        "links": "",
+        "startDate": "Jan. 2023"
+      },
+      {
+        "role_name": "Product Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Feb. 2023",
+        "company_name": "EJY Health",
+        "description": "Engineered a secure authentication system and real-time chat app, impacting over 1000 users, using NodeJS, ExpressJS, MongoDB, NextJS, and Upstash. Integrated Pusher for real-time message sync, resulting in a 20% improvement in message delivery speed, and employed SWR library for data efficiency, reducing data load times by 30%. Collaborated for an LLM Chatbot using HuggingChat API using the Streamlit framework, contributing to a 25% increase in query resolution speed, while researching healthcare applications with Blockchain, ML, DL, CV, resulting in analysis of case studies.",
+        "location": "Patna, Bihar, India",
+        "links": "",
+        "startDate": "Aug. 2022"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "HTML/CSS",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "LATEX",
+      "MATLAB",
+      "PyTorch",
+      "Tensorflow"
+    ],
+    "soft_skills": [],
+    "name": "Priyanshu Pandey",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured AIR 15566 in GATE(DA)-2024, AIR 17961 in GATE(EC)-2024, and AIR 19190 in GATE(CS)-2023.",
+      "Got Full-Time Engineer offer from TCS after World Rank 1089 and 1141 in round I and round II of TCS CodeVita Season 11 challenge.",
+      "Selected in prestigious Amazon ML Summer School 2023 and Climate Change AI Summer School 2023.",
+      "Successfully completed the HacktoberFest 2022, HackSquad 2022, and JWOC 2023 open-source challenge.",
+      "Rated 3 Star (Max. 1760) on CodeChef, Pupil (Max. 1268) on Codeforces, and Kaggle 2X Expert (Notebook, Discussion).",
+      "Department Rank 1 in Fifth and Sixth Semesters End Term Examinations.",
+      "Received rank in the top 2.5% of the appearing candidates in Joint Entrance Examination (JEE) Mains & appeared for JEE - Advanced, 2020.",
+      "Got selected for the award of Scholarship for Higher Education (SHE) under Innovation in Science Pursuit for Inspired Research (INSPIRE) by virtue of performance within top 1% of the School Board at Class XII level.",
+      "All India Rank 1 in All India Culture Knowledge Competition - 2019 conducted by All India Vidya Bharti Indian Education Committee."
+    ],
+    "publications": [
+      "Priyanshu Pandey and Rusha Patra, A Real-time Web-based Application for Automated Plant Disease Classification using Deep Learning, 2023 IEEE International Symposium on Smart Electronic Systems (iSES), pp. 230-235, 2023. DOI: 10.1109/iSES58672.2023.00055."
+    ]
+  },
+  "current_location": "Ballia - 277001, Uttar Pradesh, India",
+  "graduation_year": 2024.0,
+  "experience_count": 7.0,
+  "degree": "Bachelor of Engineering"
+}

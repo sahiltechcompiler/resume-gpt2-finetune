@@ -1,0 +1,118 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Ankit Kumar Rai",
+  "college": "I.T.S. Engineering College",
+  "locations": [
+    "Greater Noida",
+    "UP BOARD"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "ADARSH INTER COLLEGE",
+        "endDate": "March 2015",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "UP BOARD",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "BAIJNATH INTER COLLEGE",
+        "endDate": "March 2017",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "UP BOARD",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "I.T.S. Engineering College",
+        "endDate": "Aug 2025(Expected)",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 2.0,
+        "grade_received": "73%",
+        "field_of_study": "Computer Science And Engineering",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Virtual Mouse Using Hand Gesture",
+        "description": "Implemented computer vision techniques to track hand movements and gestures for controlling the virtual mouse. Utilized OpenCV library for real-time video processing and gesture recognition.",
+        "keywords": [],
+        "endDate": "Feb 23",
+        "startDate": "Dec 22",
+        "url": ""
+      },
+      {
+        "name": "Gate Pass Management System",
+        "description": "Developed a Gate Pass Management System using Django framework with HTML and CSS for the user interface. Designed and implemented a user-friendly interface for gate pass requests, approvals, and tracking. Integrated database management for storing and retrieving pass information efficiently.",
+        "keywords": [],
+        "endDate": "Aug 23",
+        "startDate": "Jun 23",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "IT Intern",
+        "skillsUsed": [
+          "Python",
+          "Django",
+          "My SQL",
+          "Html",
+          "CSS"
+        ],
+        "endDate": "May 24",
+        "company_name": "Basket hunt",
+        "description": "Collaborated with a team of developers to implement new features and improve existing functionality. Developed And maintained web application. Automated monitoring and alerting system through Python. Alerting on logs.",
+        "location": "",
+        "links": "",
+        "startDate": "March 24"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "Problem Solving",
+      "Machine Learning",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Django",
+      "Microsoft Visual Studio",
+      "Dev C++",
+      "PyCharm",
+      "Windows",
+      "iOS"
+    ],
+    "soft_skills": [],
+    "name": "Ankit Kumar Rai",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "5 starred an account on Hacker rank.",
+      "Solved 500+ coding problems on various platforms."
+    ],
+    "publications": []
+  },
+  "current_location": "Greater Noida , India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

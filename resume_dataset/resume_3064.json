@@ -1,0 +1,166 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Abhishek Soni",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Udaipur, India"
+  ],
+  "full_output": {
+    "summary": "As a technology enthusiast and competitive coder, I bring a powerful combination of technical expertise, business acumen, and a passion for solving complex problems. My experience in algorithmic challenges enhances my ability to deliver innovative solutions in any professional setting.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Artificial Intelligence (AI)",
+        "issuer": "IBM (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle Acadamy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete Python Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "java Spring Framework 6 with Spring Boot 3",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "BTech (hons.)",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "8.1/10",
+        "field_of_study": "Computer Science and Engineering Artificial Intelligence and Machine Learning(AI&ML)",
+        "startDate": ""
+      },
+      {
+        "school": "Central Academy Senior Secondary School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90.80%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Central Academy Senior Secondary School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90.40%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Bird Voice Recognition using EDA and audio FE",
+        "description": "Designed and implemented a Bird Voice Recognition system using advanced Deep Learning and Audio Signal Processing techniques. Created model using ANN to identify and classify birdcalls in audio recordings.",
+        "keywords": [
+          "Tensorflow",
+          "Scikit-Learn",
+          "Numpy",
+          "Pandas",
+          "Python"
+        ],
+        "endDate": "2021",
+        "startDate": "2019",
+        "url": ""
+      },
+      {
+        "name": "Signature Forgery Detection",
+        "description": "Developed a robust Machine Learning project which allowed users to register their authentic signatures, and efficiently detect and flag fake signatures attempting to mimic the registered ones. This underscored my expertise in machine learning, fraud detection, and data security.",
+        "keywords": [
+          "Tensorflow",
+          "Scikit-Learn",
+          "Numpy",
+          "Pandas",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "Sign Language Recognition System",
+        "description": "Developed a project, which involved converting sign language gestures made by deaf individuals into corresponding alphabets using CNN. Gained knowledge about deep learning algorithms, computer vision and data processing.",
+        "keywords": [
+          "Tensorflow",
+          "Scikit-Learn",
+          "Numpy",
+          "Pandas",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Job portal",
+        "description": "Developed a full-stack job portal website using HTML, CSS for the front-end, and Java, Spring, Spring Boot, PostgreSQL, and MVC architecture for the back-end, ensuring a responsive and maintainable application. Implemented features allowing clients to add and manage their skills, which were stored in the PostgreSQL database, and dynamically displayed job posts and client skills.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Java",
+          "Spring",
+          "Spring Boot",
+          "PostgreSQL",
+          "MVC"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "C++",
+      "HTML",
+      "CSS",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "Abhishek Soni",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Udaipur, India",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "BTech (hons.)"
+}

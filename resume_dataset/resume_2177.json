@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "AMIT GUPTA",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad UP",
+    "Jalaun UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript",
+        "issuer": "LearnVern",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Actively contributed to the Slum Swaraj Foundation as a dedicated member, supporting their mission of providing education to slum students through teaching."
+    ],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Ghaziabad UP",
+        "ID": 0.0,
+        "grade_received": "7.04",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "S S K LAL A MEM BAL VIDYA MANDIR",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Jalaun UP",
+        "ID": 1.0,
+        "grade_received": "85.2",
+        "field_of_study": "Mathematics, Physics, Chemistry",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Netflix Clone",
+        "description": "Developed a fully functional Netflix clone using React.js, HTML, CSS, and JavaScript. The application features a dynamic and responsive user interface, mirroring Netflix's design and functionality. Integrated various API services to fetch and display real-time movie data.",
+        "keywords": [],
+        "endDate": "DEC 2022",
+        "startDate": "OCT 2022",
+        "url": ""
+      },
+      {
+        "name": "Online Fraud Detection using ML",
+        "description": "Developed a machine learning model using Python, Numpy, Pandas, and Matplotlib to detect online fraud with high accuracy. Conducted extensive data preprocessing and feature engineering to enhance model performance. Implemented various algorithms to identify fraudulent activities, achieving significant detection rates. Visualized results and model metrics using Matplotlib for comprehensive analysis.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Page Of Wonder",
+        "description": "Developed custom APIs for CRUD operations (Create, Read, Update, Delete) on posts/blogs in the 'Page Of Wonder' MERN blog website. Implemented with Node.js and Express.js, ensuring efficient data management and seamless integration with React.js frontend. Incorporated authentication and authorization for secure operations, enhancing user experience and data integrity.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machin Learning Intern",
+        "skillsUsed": [],
+        "endDate": "JULY 2023",
+        "company_name": "Intrainz Edutech",
+        "description": "I refined my Android development skills using Java, acquired proficiency in integrating SQL databases, and deepened my understanding of networking and database fundamentals. authentication, payment integration, inbox management, and profile functionality to ensure a seamless user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "MAY 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "ReactJs",
+      "MySQL",
+      "MongoDB",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Git",
+      "VS Code",
+      "Power BI",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Problem-Solving",
+      "Leadership",
+      "Project Management"
+    ],
+    "name": "AMIT GUPTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 500+ problems on Codechef, Leetcode, Hacker Rank, GFG and SPOJ.",
+      "Recognized as a Team Leader during a final year project in college for exemplary leadership and project management skills."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

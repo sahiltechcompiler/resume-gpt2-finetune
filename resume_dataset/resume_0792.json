@@ -1,0 +1,150 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vasu",
+  "college": "Narsee Monjee Institute of Management Studies",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Great Lakes University",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "PG Program in Data Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "October 2023"
+      },
+      {
+        "school": "Narsee Monjee Institute of Management Studies",
+        "endDate": "May 2020",
+        "maximum_grade": "",
+        "degree": "B.Sc. Finance",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "July 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Steel Fault Classification using XGBoost Algorithm",
+        "description": "Developed a multi-class classification model utilizing XGBoost algorithm to predict steel fault types, achieving an average accuracy of 88% on test data, validated using confusion matrices and ROC-AUC scores.",
+        "keywords": [
+          "Machine Learning",
+          "XGBoost",
+          "Classification"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Big Mart Sales Project",
+        "description": "Regularizing Y Variable Using Lasso and Ridge Regression Implemented Lasso and Ridge regression techniques to predict sales of products at Big Mart. Utilized linear regression, feature selection, and regularization methods to improve model performance. Achieved an R^2 score of approximately 0.49 on the test data, showcasing effective regularization of the target variable.",
+        "keywords": [
+          "Lasso Regression",
+          "Ridge Regression",
+          "Sales Prediction"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Insurance Claim Prediction Project",
+        "description": "Employing Logistic Regression, Decision Tree, Random Forest, and KNN Models Leveraged logistic regression, decision tree, random forest, and K-nearest neighbors algorithms to accurately classify insurance claim data. Applied feature engineering techniques including SMOTE oversampling to address class imbalance. Utilized statistical tests such as chi-squared test and t-test for feature selection and model evaluation.",
+        "keywords": [
+          "Logistic Regression",
+          "Decision Tree",
+          "Random Forest",
+          "KNN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "experiences": [
+      {
+        "role_name": "Investment Manager (Part Time)",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Task Tracker Suit",
+        "description": "Assisted startup in raising funds from investors, family offices and VCs; successfully raised a pre-seed round of 80 L. Guided startups in creating effective pitch decks and MIS Reports for investor presentations. Fostered collaborations with national and international startup events, driving significant business growth.",
+        "location": "",
+        "links": "",
+        "startDate": "October 2023"
+      },
+      {
+        "role_name": "Entrepreneur in Residence",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "IA India Accelerator",
+        "description": "Helped 10+ SaaS startups to scale & fundraise by providing them access to business connections/clients and investors. Evaluated 500+ startups from growth and investment perspective based on their financials, use case, value proposition, competitive landscape, and revenue models. Spearheaded B2B SaaS vertical, fostering a dynamic ecosystem of startups, investors, mentors, corporates, and funds for synergistic growth exploration. Managed relationship with 100+ C level Executives and Industry Stakeholders. Collaborated with co-founders on 5+ strategic initiatives, achieving 40-60% growth via clients introduction & pivots. Assisted 10 B2B SaaS startups in achieving product-market fit for IA's Silicon Valley Acceleration program.",
+        "location": "India",
+        "links": "",
+        "startDate": "May 2022"
+      },
+      {
+        "role_name": "Personal Wealth Management Intern",
+        "skillsUsed": [],
+        "endDate": "October 2020",
+        "company_name": "Azulo Wealth Pvt Ltd",
+        "description": "Created IPS of 10 investors by suggesting and educating them about mutual funds, Insurance, Equity based on evaluation of various funds and their assets. Evaluated individual assets/equity from the financials and credit reports. Crafted financial projections for equity/assets, incorporating EBITDA analysis and targeted market growth. Also using these projections analyzed the growth rate of investment which would be around (10-25%).",
+        "location": "",
+        "links": "",
+        "startDate": "September 2020"
+      },
+      {
+        "role_name": "Project Management Team",
+        "skillsUsed": [],
+        "endDate": "June 2019",
+        "company_name": "Cheil India Pvt Ltd",
+        "description": "Worked in a Fund Management project, overseeing client-vendor relations and data management while collaborating with other company departments to achieve project goals.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2019"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Exploratory Data Analysis",
+      "Python",
+      "MySql",
+      "MS Office",
+      "Tableau",
+      "Visualization",
+      "Financial Statement Analysis",
+      "Financial Modeling",
+      "Pitch Decks",
+      "Valuations",
+      "Projection"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication & negotiations",
+      "Self-learner",
+      "Team Management"
+    ],
+    "name": "Vasu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2020.0,
+  "experience_count": 4.0,
+  "degree": "B.Sc. Finance"
+}

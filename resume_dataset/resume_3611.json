@@ -1,0 +1,145 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "AMRITANSHU",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Hyderabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.91/10",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Fiitjee Junior College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "RecAPP: Discover like-minded people",
+        "description": "Created a social media application which recommends people to follow based on similar media consumption history and taste. Also worked on a research paper focusing on comparative analysis of kNN based algorithms present in Surprise.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "OpenCourseWare Learning Application",
+        "description": "Developed an online learning platform using NextJS, TypeScript, Prisma and MongoDB. Used next-auth for user authentication.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Project Management Website",
+        "description": "Used React and Firebase. Implemented authentication and chat/comment section.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Youtube Web Scraping",
+        "description": "Length of Youtube playlist calculated using web scrapping. Used Puppeteer, NodeJS, JavaScript.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "MERN Stack Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "AirCampus",
+        "description": "Managed and resolved queries of over 60+ students from different age groups.",
+        "location": "Jaipur, India",
+        "links": "",
+        "startDate": "2020/08"
+      },
+      {
+        "role_name": "FrontEnd Lead",
+        "skillsUsed": [],
+        "endDate": "2019/03",
+        "company_name": "ACM, MUJ",
+        "description": "Collaborated with and mentored three other frontend developers. Made wireframe of event portal and executed it using React. Coordinated with backend development team.",
+        "location": "Hyderabad, India",
+        "links": "",
+        "startDate": "2017/04"
+      },
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "2022/02",
+        "company_name": "SoftDodge",
+        "description": "Helped in UI development of the main upload dashboard and several web pages.",
+        "location": "",
+        "links": "",
+        "startDate": "2022/01"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "NodeJS",
+      "NextJS",
+      "PHP",
+      "MongoDB",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "AMRITANSHU",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "10 CGPA IN 5th Semester, MUJ",
+      "1st position in Codeathon, IEEE MUJ",
+      "Google Summer Camp Finalist, Google, India"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2022.0,
+  "experience_count": 3.0,
+  "degree": "BTech"
+}

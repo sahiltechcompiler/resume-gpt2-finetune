@@ -1,0 +1,111 @@
+{
+  "project_count": 3.0,
+  "designation": "Internship",
+  "name": "ATISHAY JAIN",
+  "college": "Dr. APJ Abdul Kalam Technical University",
+  "locations": [
+    "Delhi, India",
+    "Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "Aspiring software engineer with ability to think and decide, seeking an internship to contribute to innovative solutions and gain hands-on experience. Eager to collaborate and enhance user experiences through cutting-edge applications.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam Technical University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "NVM Sr.Sec.School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94.6 Percent",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Face Recognition System",
+        "description": "A face recognition system that accurately identifies and recognises individuals based on their facial features with the help of Python, Tkinter, Open CV.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Git Hub"
+      },
+      {
+        "name": "Iris Prediction",
+        "description": "The Iris Prediction project utilizes machine learning to classify iris flower species based on sepal and petal measurements. Developed with Python, it employs a trained model to predict species with high accuracy, demonstrating proficiency in data analysis and model deployment.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Git Hub"
+      },
+      {
+        "name": "Password Generator",
+        "description": "Designed to create secure and random passwords based on user-defined criteria. Users can specify the length of the password and choose from various options such as including uppercase letters, lowercase letters, numbers, and special characters.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Git Hub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Head Co-Ordinator",
+        "skillsUsed": [
+          "Python",
+          "Machine Learning",
+          "SQL"
+        ],
+        "endDate": "Present",
+        "company_name": "Big Data Centre of Excellence",
+        "description": "Mastered Python and its libraries, employing a deep understanding of fundamental concepts. Applied machine learning techniques proficiently, showcasing their real-world applications, Integrated SQL seamlessly with Python, demonstrating comprehensive knowledge. Led a team of more than 30 members, planned, executed, managed over six events, facilitated smooth coordination in between departments.",
+        "location": "Uttar Pradesh, India",
+        "links": "",
+        "startDate": "Dec 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "CSS",
+      "Django",
+      "Git/Github",
+      "HTML",
+      "Javascript",
+      "Machine Learning",
+      "Python",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Event management",
+      "Team Leadership"
+    ],
+    "name": "ATISHAY JAIN",
+    "position": "Internship",
+    "interests": [],
+    "achievements_and_awards": [
+      "CODE-A-Thon Winner. First position out of 153 registered teams",
+      "Innohacks 2.0 Finalist. Shortlisted from a total of 2200 registered teams",
+      "PROD-G Winner organised by IIT Roorkee"
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

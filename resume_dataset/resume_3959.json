@@ -1,0 +1,111 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "AASHITA DESAI",
+  "college": "SHAH AND ANCHOR KUTCHHI ENGINEERING COLLEGE",
+  "locations": [
+    "Mumbai University",
+    "State Board"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SHAH AND ANCHOR KUTCHHI ENGINEERING COLLEGE",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.TECH",
+        "location": "Mumbai University",
+        "ID": 0.0,
+        "grade_received": "8.9(Current)",
+        "field_of_study": "ARTIFICIAL INTELLIGENCE & DATA SCIENCE",
+        "startDate": "2020"
+      },
+      {
+        "school": "KJ SOMAIYA JUNIOR COLLEGE OF SCIENCE AND COMMERCE",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "HIGHER SECONDARY EDUCATION IN SCIENCE",
+        "location": "State Board",
+        "ID": 1.0,
+        "grade_received": "66.4%",
+        "field_of_study": "ELECTRONICS",
+        "startDate": "2018"
+      },
+      {
+        "school": "DOMINIC SAVIO VIDYALAYA",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "SECONDARY EDUCATION",
+        "location": "State Board",
+        "ID": 2.0,
+        "grade_received": "86.4%",
+        "field_of_study": "",
+        "startDate": "2005"
+      }
+    ],
+    "projects": [
+      {
+        "name": "WEALTH WISHPERERS : A FINANCIAL LLM",
+        "description": "Advanced assistant website designed to provide personalized financial assistance and keep Indian users up to date. Efficient communication using Layman as well as Financial terms Integrated with financial data sources and news feeds",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CHORD : REAL-TIME TUNE RECOGNITION SYSTEM",
+        "description": "software will act as a song identifier based on their melodies by classifying tunes . guiding the users in finding a song just by using a tune. Making use of Deep Learning and ANN such as Siamese Network",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FIT-AI : YOGA POSE DETECTION MODEL",
+        "description": "A model designed to assist users in performing yoga poses accurately by providing real-time feedback on their posture. using opencv and mediapipe, Classification of yoga poses using x, y and z co-ordinates and heuristic angles.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SIGN LANGUAGE INTERPRETER",
+        "description": "An LSTM and Tensorflow-based Real-time Sign Language Interpretation model that translates sign language into textual representation",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "R",
+      "C",
+      "MySQL",
+      "PowerBI",
+      "MS Excel",
+      "Data Warehousing",
+      "AI",
+      "ML",
+      "Neural Networks",
+      "Data Analytics"
+    ],
+    "soft_skills": [],
+    "name": "AASHITA DESAI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "WEALTH WHISPERERS: A Financial LLM DOI: 10.55041/IJSREM31097 https://ijsrem.com/download/wealth-whisperers-a-financial-llm/"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.TECH"
+}

@@ -1,0 +1,165 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Anurag Chaudhary",
+  "college": "KIET GROUP OF INSTITUTIONS(AKTU)",
+  "locations": [
+    "Ghaziabad,UP",
+    "Meerut,UP",
+    "Bulandshahr,UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Become a Data Analyst",
+        "issuer": "LinkedIn Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Alibaba Cloud Certification: Certified Developer",
+        "issuer": "Alibaba Cloud",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Supervised Machine Learning",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET GROUP OF INSTITUTIONS(AKTU)",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "80%",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "VIDYA GLOBAL SCHOOL(CBSE)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "91%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "B.D.M PUBLIC SCHOOL(CBSE)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "94.4%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "BRAIN TUMOR DETECTION",
+        "description": "Used Convolutional Neural Networks (CNN) such as AlexNet, ResNet, and VGG19 for early brain tumor detection. Optimized various models achieving a high accuracy of 97% in medical image analysis.",
+        "keywords": [],
+        "endDate": "November 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "A.N MESSENGER",
+        "description": "Developed Real-time Chat App with Android Studio, integrating messaging functionalities and user authentication. Utilized Firebase Realtime Database for efficient data synchronization.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "YTTranscribe",
+        "description": "Generates concise summaries from YouTube video transcripts, with a 250-word limit.",
+        "keywords": [
+          "Google Generative AI",
+          "Streamlit"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ChatPDF",
+        "description": "Employs LangChain and FAISS to process and query PDF documents, enhancing document understanding.",
+        "keywords": [
+          "LangChain",
+          "Streamlit"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AI-ML Virtual Internship",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "AICTE-EDUSKILLS",
+        "description": "Completed the AI-ML Virtual Internship with AICTE-Eduskills, involving a comprehensive 8-week program focused on foundational Machine Learning concepts and deploying on cloud platforms. Executed hands-on tasks involving the implementation of ML models on cloud services like Amazon SageMaker, played a pivotal role in project accomplishments.",
+        "location": "Ghaziabad,UP",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Java Internship",
+        "skillsUsed": [],
+        "endDate": "August 2022",
+        "company_name": "IIPC-KIET",
+        "description": "Engaged in an IIPC-KIET facilitated internship spanning over 4 weeks, receiving extensive training encompassing Java programming language fundamentals and Object-Oriented Programming (OOP) concepts. Applied acquired knowledge to actively engage with core Object-Oriented Programming (OOP) concepts, enhancing practical skills in Java development during the internship tenure.",
+        "location": "Meerut,UP",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "C",
+      "HTML",
+      "Dart",
+      "JSwing",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Anurag Chaudhary",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved 1st place in GIT HACKATHON, sponsored by HACK2SKILL. Demonstrated superior performance among 100+ competitive teams by crafting an innovative solution for sustainable environmental impact.",
+      "Clinched 1st place in the JIET HACKATHON for spearheading an innovative healthcare solution developed within 24 hours. Proficiently utilized tools such as LLM, Blender, and Eleven Labs to overcome challenges and deliver robust solutions."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

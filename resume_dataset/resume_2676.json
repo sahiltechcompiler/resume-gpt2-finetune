@@ -1,0 +1,107 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Vandanapu Pavan Kumar",
+  "college": "SRM AP University",
+  "locations": [],
+  "full_output": {
+    "summary": "I am Vandanapu Pavan Kumar, a B.Tech Computer Science student at SRM, Andhra Pradesh, with a CGPA of 7.6. I am proficient in programming languages such as C, C++, Python, and Java, and have developed projects like a Flight Ticket Reservation system and a Hostel Management system. I have completed an internship at INTRNFORTE, where I developed a Hangman game in Python. I possess excellent soft skills, including creative thinking, teamwork, and group discussions. I am an active participant in extracurricular activities, with interests in badminton, events, and photography. I am committed to achieving my goals with hard work and dedication.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM AP University",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.6",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Telangana State Board of Intermediate Education",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Class 12th 96",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Telangana State Board of Secondary Education",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.7",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SRM Hostel Management System",
+        "description": "Developed a C++ program to manage a hostel, allowing users to book rooms, view student records, and list all the rooms that have been allotted. Used object-oriented programming concepts such as classes, objects, and inheritance to design the program. Implemented functions to add, edit, and delete student records. Used file I/O to store and retrieve data from a file. Tested the program using unit testing and debugging techniques.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Flight Ticket Reservation System",
+        "description": "Developed a Python program that allows users to book flight tickets online, making their travel easier. Implemented a user interface that allows users to enter their travel details, such as the date of travel, number of passengers, and class of travel. Calculated the ticket price based on the users input and displayed the result. Implemented functionality for both single and round-trip bookings. Tested the program using unit testing and debugging techniques.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Internship",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "INTRNFORTE",
+        "description": "Developed a Hangman game in Python, which randomly selects a word from a list of words and allows the user to guess the word by guessing one letter at a time. Utilized object-oriented programming concepts such as classes, objects, and inheritance to design the game. Implemented functions to add, edit, and delete words from the list. Tested the game using unit testing and debugging techniques.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "PyCharm",
+      "VSCode",
+      "Linux",
+      "Windows",
+      "MacOS"
+    ],
+    "soft_skills": [
+      "Creative Thinking",
+      "Teamwork",
+      "Group Discussions"
+    ],
+    "name": "Vandanapu Pavan Kumar",
+    "position": "",
+    "interests": [
+      "badminton",
+      "events",
+      "photography"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

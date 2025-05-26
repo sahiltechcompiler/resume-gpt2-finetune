@@ -1,0 +1,125 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "KRISH SHAH",
+  "college": "Shah & Anchor Kutchhi Engineering College",
+  "locations": [
+    "Chembur",
+    "Mulund",
+    "Airoli"
+  ],
+  "full_output": {
+    "summary": "Motivated fresher aspiring to excel as a software developer. Seeking a dynamic role in an innovative company to apply programming skills, problem-solving, and a dedication to continuous learning for contributing to cutting-edge software solutions.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah & Anchor Kutchhi Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Chembur",
+        "ID": 0.0,
+        "grade_received": "Average CGPA: 8.97",
+        "field_of_study": "Computer",
+        "startDate": "2021"
+      },
+      {
+        "school": "Friends College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "High School Certificate (HSC)",
+        "location": "Mulund",
+        "ID": 1.0,
+        "grade_received": "Percentage : 92%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "New Horizon Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Central Board of Secondary Education (CBSE)",
+        "location": "Airoli",
+        "ID": 2.0,
+        "grade_received": "Percentage : 95%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blogging Website",
+        "description": "Designed and developed a blog website using PHP Laravel framework. Implemented features such as user authentication, blog post creation and commenting, along with an admin panel to manage the content on the website. Utilized MVC architecture for organized code structure and efficient development.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "StackOverflow Replica",
+        "description": "Built a replica of Stack Overflow using PHP Laravel. Made use of Policies to manage authorization, and implemented Mutators and Accessors in order to maintain data consistency. Utilized MVC architecture for organized code structure and efficient development.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website in React",
+        "description": "Implemented Reducer and Context API to eliminate prop-drilling. Used json-server for backend and json-server-auth for authentication.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie and TV-Series Recommender in React",
+        "description": "Used various react hooks to create a functional UI. Used a free API to fetch data using custom useFetch hook. Hosted on netlify: bingefiesta.netlify.app.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "bingefiesta.netlify.app"
+      },
+      {
+        "name": "WhatsApp replica using Java",
+        "description": "Created a replica of WhatsApp, using Socket Programming and Multithreading. Used XML format for transfer of messages between client and server. Made the UI using NetBeans IDE.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "Java",
+      "Python",
+      "PHP",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Laravel",
+      "React",
+      "Node",
+      "Netbeans",
+      "Git",
+      "Microsoft Office",
+      "Postman",
+      "MySQL",
+      "ORACLE SQL",
+      "Selenium",
+      "Cypress"
+    ],
+    "soft_skills": [],
+    "name": "KRISH SHAH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Engineering"
+}

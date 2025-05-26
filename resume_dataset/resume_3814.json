@@ -1,0 +1,194 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Abishek S",
+  "college": "Chennai Institute of Technology(CIT)",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA1 certification",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA2 certification",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL Beginner and Intermediate",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Beginner and Intermediate",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Automate an e-commerce web application using Selenium & Java",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Linux Terminal",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology(CIT)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA -8.4",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CovidApp",
+        "description": "Developed this web application for booking vaccine through online to provide customized user experience by utilizing react. Facilitated admin control for project and configuration, resulting in 17% reduction in unauthorized modifications in real-time. Enables user to book vaccine based on admin's real-time updation of vaccination centres with 30% better user engagement. Secured authentication features with 90% safer navigation to pages and instant updates of the data fetched from the user.",
+        "keywords": [
+          "ReactJS",
+          "Node JS",
+          "Express",
+          "MySQL",
+          "Tailwind CSS"
+        ],
+        "endDate": "Feb/2024",
+        "startDate": "Jan/2024",
+        "url": "https://github.com/Abishek571/CovidApp"
+      },
+      {
+        "name": "Task Assigner",
+        "description": "Developed for the usage of real time task assignation for providing user with better user interface utilizing data binding. Enables faster reloading of data by 50% increase in data storage and provides secure navigation for the user without lag. Facilitated user control with 20% improved authentication using firebase because of its rapid real time updation in cloud. Tested with 100 different users which showed 95% performance without any crash of application with quick responses.",
+        "keywords": [
+          "Kotlin",
+          "Java",
+          "XML",
+          "Firebase",
+          "Android Studio"
+        ],
+        "endDate": "April/2024",
+        "startDate": "March/2024",
+        "url": "https://github.com/Abishek571/TaskAssigner"
+      },
+      {
+        "name": "ExpenseTracker",
+        "description": "Expense Tracker is an application which allows user to keep track on the expenditure spent on a daily basis for a week. Categorical structure with improvised user interface by 19% with sectionalized data storage system offered using firebase. Facilitates the user to keep track on expenses made on a day by providing real time updates with 33% better user engagement. Flexible to run in multiples platforms by 100% efficiency of code usages and tested on mutiple devices.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Firebase",
+          "HTML",
+          "C++",
+          "CMake",
+          "C",
+          "Swift"
+        ],
+        "endDate": "Jun/2024",
+        "startDate": "May/2024",
+        "url": "https://github.com/Abishek571/ExpenseTracker"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [
+          "React",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "company_name": "Oasis Infobyte",
+        "description": "Developed three basic web applications which includes portfolio website , Library management application and blog website. Applications are developed by increasing user engagement by 18% and with 30% more responsive because of added features. Utilized ReactJS and Tailwind CSS for responsive interfaces , with 19% improvement in conversion and reduced bounce rates.",
+        "location": "",
+        "links": "github.com/Abishek571",
+        "startDate": ""
+      },
+      {
+        "role_name": "App developer",
+        "skillsUsed": [
+          "Android Studio",
+          "Kotlin",
+          "Firebase"
+        ],
+        "endDate": "",
+        "company_name": "Codsoft",
+        "description": "Developed android mobile applications which includes Todo list app and basic chat application using Android Studio(Kotlin). Responsive user interface by 20% improvement in layout design using data binding and secure authentication using firebase. Achieved 90% better user experience and load performance when integrated in 100 android mobile devices without crashing.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "C",
+      "C++",
+      "React",
+      "Node JS",
+      "Python",
+      "Git",
+      "Linux",
+      "Kotlin",
+      "Express JS",
+      "Flutter",
+      "Docker",
+      "Javascript",
+      "MongoDB",
+      "MySQL",
+      "Dart",
+      "Android Studio",
+      "Firebase"
+    ],
+    "soft_skills": [],
+    "name": "Abishek S",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Rewarded with Kosalai Mary Award which will be given to 100 students in a district by the IVDP Founder in Krishnagiri.",
+      "Team lead of the Hackathon team which got selected in the top 10 teams in the college based on ML Image classification.",
+      "Zone level disc throw player having the longest throw under junior category and zone level school kabaddi team captain."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

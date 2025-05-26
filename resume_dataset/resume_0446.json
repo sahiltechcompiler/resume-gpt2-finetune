@@ -1,0 +1,123 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Saket Parashar",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "Detail-oriented backend developer skilled in Python, C++, and AWS with experience in building and maintaining scalable applications. Proven ability to optimize system performance, troubleshoot complex technical issues, and improve system reliability. Passionate about contributing to high-performance platforms and solving real-world problems in dynamic environments.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Secured 74% score in the NPTEL course, covering essential algorithm design techniques such as greedy algorithms, divide and conquer, and dynamic programming.",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "Sept. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Vartalaap Project Demo",
+        "description": "Developed a feature-rich video conferencing platform with secure authentication and real-time video capabilities. Utilized Clerk for secure authentication, and GetStream.io for real-time video streaming and essential functionalities such as recording sessions, screen sharing, emoji reactions, and detailed participant management. Created a user-friendly interface using Shadcn/ui and TailwindCSS, enabling smooth interactions and navigation.",
+        "keywords": [
+          "NextJS",
+          "TypeScript",
+          "GetStream.io"
+        ],
+        "endDate": "Sept. 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sorting Visualizer",
+        "description": "Developed an interactive tool to visualize sorting algorithms, demonstrating proficiency in using React to build dynamic web applications. Enhanced user engagement with intuitive controls and smooth animations for better learning experience.",
+        "keywords": [
+          "React",
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Aug. 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Oochi App",
+        "description": "Developed a responsive and animated application that provides an engaging user experience through smooth transitions and interactive elements.",
+        "keywords": [
+          "React",
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "March. 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Event Management System",
+        "description": "Built a system to manage and organize events, implementing a balanced binary search tree for event search and optimization. Used backtracking algorithms to ensure conflict-free event scheduling.",
+        "keywords": [
+          "C++",
+          "AVL Tree",
+          "Hash Map"
+        ],
+        "endDate": "Jan. 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Python",
+      "SQL",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "AWS (EC2, S3, Lambda)",
+      "Docker",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Saket Parashar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Competitive Programming Milestone: Solved 300+ questions on platforms like Codechef, Leetcode, Codeforces, and GeeksforGeeks.",
+      "2nd Place in College Coding Competition: Achieved 2nd place in a competitive coding contest, showcasing quick problem-solving and algorithmic skills."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

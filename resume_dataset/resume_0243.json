@@ -1,0 +1,162 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Mohammed Anees N",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, TamilNadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Chennai, TamilNadu",
+        "ID": 0.0,
+        "grade_received": "8.59 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Website For CADD Organization",
+        "description": "Created a fully functioning website for CADD using Django for backend and HTML and Javascript for front end. It provides full admin site flexibility and scalability.",
+        "keywords": [
+          "Django",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Sqlite",
+          "Git",
+          "Django Summernote"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TaskMaster",
+        "description": "Developed a robust task management application to efficiently assign and track tasks for users, with an intuitive admin interface for comprehensive task oversight. Designed user-friendly task dashboards and progress tracking features, improving task completion rates by 35% and user productivity by 20%.",
+        "keywords": [
+          "React Js",
+          "Node Js",
+          "Mysql"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "My Portfolio",
+        "description": "Developed a comprehensive portfolio website to showcase my diverse web development and other skills and professional experiences, utilizing modern web technologies and best practices for performance and user experience.",
+        "keywords": [
+          "React Js",
+          "Node Js",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Git"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Academix",
+        "description": "Student Management: Enables staff to efficiently manage student details, including personal information, enrollment status, and academic records, in a centralized system. Dynamic Visualization: Utilizes advanced visualization techniques to dynamically present student accomplishments through intuitive and informative graphs and charts. Offers visual tracking of student progress over time.",
+        "keywords": [
+          "React Js",
+          "SpringBoot",
+          "PostgreSql"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Verzeo",
+        "description": "Designed an NLP model to analyze customer reviews of Alexa products, accurately predicting their sentiment as positive or negative. Achieved an impressive accuracy rate of 89%, showcasing the effectiveness of the model in discerning sentiment patterns from textual data.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Web Developer intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "CADD Organization",
+        "description": "Served as the team lead and a front end developer for a web development project during internship at CADD. Enhanced web development skills through hands-on experience and practical application. Led a team of developers as the team lead and contributed as a front-end developer for a pivotal web development project at CADD during my internship, resulting in a 20% increase in project efficiency.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "IT & Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Basket Hunt",
+        "description": "Worked collaboratively with the IT team to develop the website for Baskethunt, an ecommerce platform and also worked in optimizing user interface design, resulting in a 25% increase in user engagement. Conducted regular maintenance and updates to the website and chatbot functionalities, ensuring optimal performance and responsiveness, and achieving a 95% uptime rate.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "Python",
+      "Springboot",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "PHP",
+      "React JS",
+      "Bootstrap",
+      "Next JS",
+      "Node JS",
+      "Django",
+      "Firebase",
+      "Express JS",
+      "MySql",
+      "PostgreSql",
+      "Sqlite",
+      "Mongo DB",
+      "AWS",
+      "Postman",
+      "Docker",
+      "Git",
+      "C++",
+      "PrismaOrm"
+    ],
+    "soft_skills": [],
+    "name": "Mohammed Anees N",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Build-a-thon 2023 - Winners",
+      "IITM Hackathon 2024 -Finalist",
+      "Internal College SIH - Finalist",
+      "Solved 450+ problems in leetcode",
+      "Top 20% in CodeStudio with rating of Maximum(1944)",
+      "CodeForces Contest Rating -Maximum(906)"
+    ],
+    "publications": []
+  },
+  "current_location": "Chennai, TamilNadu",
+  "graduation_year": 0.0,
+  "experience_count": 3.0,
+  "degree": "B.E."
+}

@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Dev Varshney",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, Delhi NCR",
+    "Aligarh, Uttar pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Served as the Core Committee Student Coordinator, successfully managing and organizing the Frescos 2022 fresher party for the college community.",
+      "Holder of C Certificate in NCC (National Cadet Corps), demonstrating leadership, discipline, and commitment to community service."
+    ],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Delhi NCR",
+        "ID": 0.0,
+        "grade_received": "7.8 CGPA",
+        "field_of_study": "Computer Science",
+        "startDate": "OCT 2022"
+      },
+      {
+        "school": "Aligarh Muslim University",
+        "endDate": "JUL 2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Aligarh, Uttar pradesh",
+        "ID": 1.0,
+        "grade_received": "78%",
+        "field_of_study": "Civil Engineering",
+        "startDate": "AUG 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "BillWise Pro",
+        "description": "Team Project: Team Size of 4. As a full-stack developer, I designed an efficient, user-friendly billing and accounting website with extensive functionality, ensuring easy financial administration for enterprises and individuals. Implemented shop owner features: added customers, items, generated/displayed invoices. Achieved seamless management through an intuitive front-end interface in the project. Architected and deployed a series of backend APIs to efficiently fetch and display customer data, product information, and sales/purchase transactions; resulted in a 50% decrease in loading time and improved user experience.",
+        "keywords": [
+          "ReactJS",
+          "Tailwind-CSS",
+          "NodeJS",
+          "ExpressJS",
+          "MySQL"
+        ],
+        "endDate": "Present",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "KietConnectX STC Portal",
+        "description": "Team Project: Team Size of 3. As frontend developer, crafted a student-centric portal, presenting comprehensive placement data to aid college students in effective preparation for successful job placements. Built a responsive React.js web page using Material-UI, fetching dynamic data via API. Employed Redux store to efficiently manage and display real-time information, enhancing the user experience for students.",
+        "keywords": [
+          "ReactJs",
+          "Material UI"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "Jan 2024",
+        "url": "Project Link"
+      },
+      {
+        "name": "PlayView",
+        "description": "Personal Project: Created PlayView, a functional YouTube clone with search functionality, video playback using YouTube API, and an intuitive UI displaying video cards. Enhances user experience by replicating key features seamlessly. Implemented debouncing for the search feature, optimizing input delays for a smoother experience. Incorporated a live chat feature using Redux store, ensuring real-time communication. Supports infinite nested comments for comprehensive and dynamic discussions.",
+        "keywords": [
+          "ReactJs",
+          "Tailwind-CSS",
+          "Redux Toolkit"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "Dec 2023",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Core Member",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Google Developer Student Clubs: GDSC-KIET",
+        "description": "Organised a national-level 18-hour long Hackathon SprintHacks2023 hosted by DSC-KIET, 1200+ participants. Organised a Tech event Tech Connect by DSC-KIET, 500+ participants.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "HTML/CSS",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "VS Code",
+      "ATOM",
+      "Postman",
+      "SQL Workbench",
+      "Linux",
+      "GitHub",
+      "Tailwind-CSS",
+      "Bootstrap",
+      "NodeJS",
+      "ReactJs",
+      "ExpressJs",
+      "OOPS",
+      "DBMS"
+    ],
+    "soft_skills": [],
+    "name": "Dev Varshney",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 650+ problems on LeetCode, a premier platform for honing Data Structure and Algorithm skills.",
+      "Earned the Expert Badge at Coding Ninjas for outstanding problem-solving and coding skills by tackling 205 problems.",
+      "Secured 1st position at the department level in the Kicks-D-Hacks coding contest organized by SD&FS Department at KIET Group of Institutions."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

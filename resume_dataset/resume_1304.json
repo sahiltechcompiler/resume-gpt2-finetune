@@ -1,0 +1,143 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Yash Goswami",
+  "college": "KIET GROUP OF INSTITUTIONS",
+  "locations": [
+    "Delhi-NCR, Ghaziabad, India",
+    "Orai, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA: Introduction to Networks",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Back End Development and APIs",
+        "issuer": "freeCodeCamp",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hands-on Introduction to Linux Commands and Shell Scripting",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Volunteered during cyber awareness month to make people aware about two factor authentication",
+      "Participated in Entrepreneurship competition: Pitch Tank and ended up among top 4 teams in the final round."
+    ],
+    "education": [
+      {
+        "school": "KIET GROUP OF INSTITUTIONS",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi-NCR, Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": ""
+      },
+      {
+        "school": "Ramshree Public School",
+        "endDate": "March 2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Orai, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "CBSE",
+        "startDate": "April 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "WanderLust",
+        "description": "Created a comprehensive web platform for listing hotels globally, enhancing accessibility for vacation planning. Utilized modern technologies like MongoDB, Express.js, React.js, and Node.js for backend development. Implemented RESTful APIs to facilitate seamless communication between frontend and backend components.",
+        "keywords": [
+          "Javascript",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "RESTful API"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "EmailHarvest",
+        "description": "Developed an Email Scraper Chrome Extension using JavaScript and Chrome Extension API. Designed a user-friendly popup UI with HTML/CSS for enhanced accessibility and usability. Integrated local storage management for storing scraped email data.",
+        "keywords": [
+          "Javascript"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Honeypot",
+        "description": "Developed a project named Honeypot focused on cybersecurity and network defense. Utilized Raspberry Pi, networking principles, and Bash scripting for implementation. Aimed to detect and analyze hacker attacks, acting as a simulated target on the internet to inform defenders about unauthorized attempts.",
+        "keywords": [
+          "Raspberry Pi",
+          "Networking",
+          "Bash Scripting"
+        ],
+        "endDate": "November 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Edutech Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Technohacks",
+        "description": "Completed an internship organized by Technohacks by covering the real world experience of Cybersecurity. Explored a variety of hacking tools including Burp Suite, John the Ripper, Hydra, and numerous others.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "IIPC-KIET",
+        "description": "Learned the basic concepts of Java during my internship. Created a mini project using the concept of OOPS.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Yash Goswami",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

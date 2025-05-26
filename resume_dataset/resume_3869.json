@@ -1,0 +1,126 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sparsh Agarwal",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Master of Computer Applications",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "Aug. 2023"
+      },
+      {
+        "school": "Delhi University",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Commerce (Honors)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "Aug. 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "TO-DO List",
+        "description": "Task Management: Users can add new tasks by entering a description in a text field and clicking the 'Add Task' button. Task Deletion: Users can select a task from the list and remove it by clicking the 'Remove Task' button. This action updates the task list dynamically. Event Handling: Action listeners are used to handle user interactions with buttons (Add Task, Remove Task). This ensures responsiveness and interactivity in the application.",
+        "keywords": [
+          "Java core"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Craft Heaven",
+        "description": "- Built with HTML, CSS, JavaScript, and PHP, MySQL. - Enables artisans to create profiles, list products, and manage transactions securely. Focuses on providing a seamless experience for buyers. - Security measures include user authentication, data encryption, and secure transactions.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Banking System",
+        "description": "Simulate a simple banking system using Java and Graphic User Interface. Create and manage accounts. Deposit and withdraw money. Track account balances of User. Transfer money between accounts.",
+        "keywords": [
+          "Java core"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Java programming",
+          "debugging",
+          "problem-solving",
+          "object-oriented programming",
+          "version control",
+          "project management"
+        ],
+        "endDate": "May 2022",
+        "company_name": "CodSoft Company",
+        "description": "During my internship, I successfully completed three projects utilizing Java, gaining hands-on experience in software development. These projects involved designing and implementing key features, writing clean and efficient code, and collaborating with a team to deliver solutions on time. I enhanced my skills in Java programming, debugging, and problem-solving while working in a fast-paced environment. This experience provided me with practical knowledge of object-oriented programming, version control, and project management.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "Aug. 2019"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "SQL (Postgres)",
+      "HTML/CSS",
+      "Spring boot",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "VS Code",
+      "Visual Studio",
+      "PyCharm",
+      "IntelliJ",
+      "Eclipse",
+      "Android studios",
+      "pandas",
+      "NumPy",
+      "Matplotlib",
+      "Firebase"
+    ],
+    "soft_skills": [],
+    "name": "Sparsh Agarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Master of Computer Applications"
+}

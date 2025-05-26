@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer Intern",
+  "name": "Rohit Rawat",
+  "college": "Centre for Development of Advanced Computing (GGSIPU)",
+  "locations": [
+    "Noida",
+    "Greater Noida",
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Centre for Development of Advanced Computing (GGSIPU)",
+        "endDate": "July 2024",
+        "maximum_grade": "",
+        "degree": "MCA",
+        "location": "Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "June 2022"
+      },
+      {
+        "school": "Ambedkar Institute of Technology (GGSIPU)",
+        "endDate": "May 2022",
+        "maximum_grade": "",
+        "degree": "BCA",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "CGPA: 8.54",
+        "field_of_study": "Computer Science",
+        "startDate": "June 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Shopping Time",
+        "description": "Developed a Women's Fashion shopping web application with features for adding, removing, and adjusting product quantities, with a detailed cart overlay displaying product attributes. Implemented category filtering, attribute selection, and a multi-step checkout process with form validations for error prevention and smooth transactions. Enabled multiple currency options to cater to a global customer base, ensuring a flexible and user-friendly shopping experience.",
+        "keywords": [
+          "React",
+          "HTML5",
+          "CSS3",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Video-Caption-Generator",
+        "description": "Developed and implemented a cutting-edge video captions generator application from scratch using the latest technologies, including React.js, Tailwind.css, NLP, and Web Assembly. Implemented the solution using Python and TensorFlow, processing over 10,000 videos.",
+        "keywords": [
+          "HTML",
+          "React.js",
+          "Tailwind.css",
+          "Web Assembly"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Parallelizing-RSA-cryptosystem",
+        "description": "Parallelized RSA implementation to leverage distributed or multi-core systems. Proposed a method incorporating the Montgomery Reduction algorithm and designed the Parallel Indexed List to be thread-safe and shareable among multiple worker threads, facilitating encryption and decryption processes. Achieved a speedup factor of up to 4.5 compared to a standard RSA implementation.",
+        "keywords": [
+          "Python",
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Cloud Science Labs",
+        "description": "Conducted thorough testing, debugging, and development of Salesforce and Odoo software applications, ensuring high-quality releases and reducing bug reports by 20%. Collaborated with development teams to design, develop, and implement test plans, test cases, and application features, optimizing performance and scalability in a cloud environment, and enhancing the overall efficiency of both the QA and development processes.",
+        "location": "Greater Noida",
+        "links": "",
+        "startDate": "Aug 2024"
+      },
+      {
+        "role_name": "Full Stack Trainee",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "QSpiders",
+        "description": "Enhanced user engagement by 30% through improved UI/UX design and implemented robust backend services using Node.js and Express.js, reducing response time by 25%. Designed and executed unit tests, increasing code coverage to 85%, and leveraged Git and Jenkins for version control and continuous integration, streamlining the deployment process by 40%.",
+        "location": "Noida",
+        "links": "",
+        "startDate": "Mar 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "REST API",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Solution-oriented professional",
+      "Technology Enthusiast",
+      "Rapid and Adaptive Learner",
+      "Skilled Collaborator"
+    ],
+    "name": "Rohit Rawat",
+    "position": "Software Engineer Intern",
+    "interests": [
+      "Football player and follower",
+      "Cricket enthusiast",
+      "Avid DC comic book reader"
+    ],
+    "achievements_and_awards": [
+      "Scored 104th rank in CodeHaven 2023 Central Indias Biggest Coding Contest.",
+      "150+ DSA Questions solved on LeetCode and Level 7 coder on Code360."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "MCA"
+}

@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "A I / M L E N G I N E E R",
+  "name": "Meet Kataria",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [],
+  "full_output": {
+    "summary": "Driven individual with a fervor for advancing the horizons of technology. Enthusiastic about enhancing my expertise and understanding in Artificial Intelligence and Machine Learning. Skilled in Pandas, Numpy, Scikit-Learn, OpenCV, MatPlotLib, TensorFlow, PyTorch, and SciPy. Dedicated to continuous learning and venturing into new areas within the field to foster innovation and generate significant impact.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI Course",
+        "issuer": "Microsoft",
+        "certiLink": "[Certificate]"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Current GPA- 8.6",
+        "field_of_study": "Artificial Intelligence & Machine Learning",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Object Detection on Custom Dataset",
+        "description": "Self created a dataset of 60 guitar images downloaded from Google and annotated using MakeSense.ai to detect guitars. Dataset was split into 35 training images and 15 testing images. YOLOv8 was employed for its real-time object detection capabilities, and OpenCV was used for visualizing the results. Trained on 20 epochs, Mean Average Precision (MAP) of 0.79 was achieved.",
+        "keywords": [
+          "Python",
+          "MatPlotLib",
+          "os",
+          "Numpy",
+          "Ultralytics",
+          "YOLOv8",
+          "OpenCV"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Apr 2024",
+        "url": "[Github]"
+      },
+      {
+        "name": "Movie Genre Prediction",
+        "description": "This project involves creating a rule-based chatbot using NLTK and TensorFlow to answer college-related queries. It provides accurate information on admissions, courses, facilities, and events. The chatbot uses NLTK for tokenization and lemmatization with WordNetLemmatizer, and TensorFlow enhances its capabilities.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Spacy",
+          "Numpy"
+        ],
+        "endDate": "Aug 2023",
+        "startDate": "",
+        "url": "[Github]"
+      },
+      {
+        "name": "Image Captioning using Lstm",
+        "description": "This project involves developing an image caption generator using the Flickr dataset, where VGG16 serves as the encoder and an RNN as the decoder. Trained over 50 epochs, the model achieves an accuracy of 0.65. VGG16 extracts features from the images, which are then utilized by the RNN to generate descriptive captions. Implementing beam search during prediction ensured more accurate descriptions.",
+        "keywords": [
+          "Python",
+          "VGG16",
+          "LSTM",
+          "TensorFlow",
+          "Keras",
+          "Numpy",
+          "Pandas",
+          "MatPlotLib"
+        ],
+        "endDate": "Aug 2023",
+        "startDate": "",
+        "url": "[Github]"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [
+          "Numpy",
+          "Pandas",
+          "Tensorflow",
+          "NLP",
+          "Machine Learning",
+          "Deep Learning",
+          "CNN"
+        ],
+        "endDate": "Sept 2023",
+        "company_name": "CODSOFT",
+        "description": "Successfully completed a 4-week internship program with CodSoft, focusing on AI development and software project implementation using Python and completed 4 different projects. Designed and trained machine learning models using Scikit-learn, TensorFlow and OpenCv libraries implementing data preprocessing techniques, evaluating model performance, and fine-tuning hyperparameters for optimal results.",
+        "location": "",
+        "links": "[Github]",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JAVA",
+      "SQL",
+      "C/C++",
+      "NLP",
+      "ReactJs",
+      "Data Science",
+      "Deep Learning",
+      "Gen AI",
+      "TensorFlow",
+      "Machine Learning",
+      "Data Analysis",
+      "Jupyter Notebook",
+      "Google Colab",
+      "Github",
+      "Netlify"
+    ],
+    "soft_skills": [
+      "Exceptional interpersonal skills",
+      "Problem solving skills",
+      "Time management skills",
+      "Adaptability"
+    ],
+    "name": "Meet Kataria",
+    "position": "A I / M L E N G I N E E R",
+    "interests": [
+      "Participating in Hackathons / Contests",
+      "Freelancing for React and development projects",
+      "Project Management",
+      "PowerBi and other data analytics tools",
+      "Learning GenAI",
+      "Cloud Computing",
+      "Big Data"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

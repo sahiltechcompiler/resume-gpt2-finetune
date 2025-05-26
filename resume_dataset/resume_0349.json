@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SURAJ GUPTA",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.92 CGPA",
+        "field_of_study": "Computer and Communication",
+        "startDate": "2021"
+      },
+      {
+        "school": "St.Annes High School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "74.6%",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Krishna Public High School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "87.4%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "File Sharing Website - StreamKrate",
+        "description": "Implemented a full stack website using HTML, CSS, and js for the frontend and nodejs, express js for the backend. Allows user to share file of size upto 5gb for a faster upload and download implemented it with AWS s3 solution. Contributions: Designed and implemented the frontend, developed RESTful APIs, integrated AWS S3 for scalable file storage, and implemented real-time notifications using Socket.io. Outcome: Successfully reduced file upload and download times, improving user experience and satisfaction.",
+        "keywords": [
+          "Socket.io",
+          "MongoDB",
+          "Express",
+          "AWS"
+        ],
+        "endDate": "June 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Recommendation System",
+        "description": "Implemented a recommendation system for recommending similar type of restaurants in a given area to judge the competition and plan your business strategy according to it. Contributions: Developed and trained machine learning models, performed data analysis and preprocessing, and wrote a research paper selected for IEEE Asiacon. Outcome: Enhanced business decision-making processes by providing accurate and relevant recommendations.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "Pandas",
+          "scikit library"
+        ],
+        "endDate": "April 2024",
+        "startDate": "January 2024",
+        "url": ""
+      },
+      {
+        "name": "Multiplayer real-time TIC TAC TOE",
+        "description": "Build a real-time tic-tac-toe board game which allows user to play it with their friends.",
+        "keywords": [
+          "React js",
+          "CSS",
+          "Nodejs",
+          "Socket.io",
+          "Express js"
+        ],
+        "endDate": "October 2023",
+        "startDate": "August 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Full Stack Development",
+      "Frontend Development",
+      "Backend Development",
+      "Database Management",
+      "REST APIs",
+      "Version Control (Git)",
+      "Agile Methodologies",
+      "C++",
+      "Javascript",
+      "Python",
+      "C",
+      "React js",
+      "Expressjs",
+      "Bootstrap",
+      "Numpy",
+      "Pandas"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Time Management",
+      "Stress Management"
+    ],
+    "name": "SURAJ GUPTA",
+    "position": "",
+    "interests": [
+      "Cricket",
+      "FootBall",
+      "Stop Motion Animation",
+      "Arts"
+    ],
+    "achievements_and_awards": [
+      "Developed and trained machine learning models, performed data analysis and preprocessing, and wrote a research paper selected for publish in IEEE Asiacon 2024."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

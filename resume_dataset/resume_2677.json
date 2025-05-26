@@ -1,0 +1,153 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Hemang Jiwnani",
+  "college": "Vellore Institute of Technology",
+  "locations": [
+    "Bhopal, India",
+    "Hyderabad, Telengana",
+    "Gurugram, Haryana",
+    "Remote,Bengluru",
+    "Pune,Maharashtra"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Founder/President MozFox India (January 2021 - November 2022) President of Mozfox India, Conducted 7+ Eventes with top 16Lakh Views and 600+ Registration, Team of 100+",
+      "Vice-President Codecademy VIT Bhopal chapter (December 2020 - October 2022) Managed team of 30+ and organized 3+ successful events, Focused on building team culture and collaboration"
+    ],
+    "education": [
+      {
+        "school": "Vellore Institute of Technology",
+        "endDate": "September 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Bhopal, India",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.44",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "September 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ReMeAITree - The One Stop AI HealtCare System",
+        "description": "- Transformed healthcare via creation of AI-powered Medical Management Platform. This platform incorporates over 30+ ML models for accurate disease classification with 97% accuracy, seamless online consultations, and centralized record management. Achieved a 98% reduction in paperwork and usage - Enhanced efficiency and patient care by automating prescription delivery through NLP interpretation, significantly reducing manual processing time by 80%.",
+        "keywords": [
+          "Python",
+          "Node.js",
+          "React.js",
+          "PostgreSQL",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RPAISlate - The Modern White-Black Board Class",
+        "description": "- Transformed any classroom into a smart classroom featuring air-write technology and double-faced boards, reducing costs by 90% while achieving over 87% accuracy. Added advanced features such as Automatic Attendance Monitoring with 98% accuracy and a Wireless file network with a range of 128M - The innovation was recognized nationally by the Government of India, selected among 20,000 ideas in the Smart India Hackathon (SIH).",
+        "keywords": [
+          "Python",
+          "Node.js",
+          "React.js",
+          "PostgreSQL",
+          "AWS",
+          "RPi",
+          "Unix",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Engineer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Vectramind Technologies",
+        "description": "RAG Development: Worked on cutting-edge chatbot using Azure AI Cognitive Search, Vector Embeddings, Azure OpenAI, trained on a dataset of 1000+ files including PDFs, Excel sheets, and images, achieving an impressive accuracy rate of around 89% in answering topic-based queries [Afib]. Backend & DataBases: Desgined over 10+ microservices for robust application management, achieving sub-second API responses. Established a seamless data pipeline using Redis for Azure, Azure Service Bus, and Cosmos DB. Enhanced 13+ MySQL and Cosmos DB tables with RAID and indexing for optimal querying.",
+        "location": "Hyderabad, Telengana",
+        "links": "",
+        "startDate": "March 2024"
+      },
+      {
+        "role_name": "SDE Intern (Internship)",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "KIVI CAPITAL HFT",
+        "description": "Optimization and Compatibility: Reduced computation time by 40% and added compatibility for 2+ platforms by migrating from netFramework to netCore. Reduced data gaps by 90%, enhancing historical analysis accuracy, and improved data completeness by 95%. Streamlined file preparation, saving 80% of manual effort using DAGs. Fault Tolerance and Data Recovery: Reduced data loss by 80-90% during outages. MongoDB for quick data recovery with a boot time of 3 seconds and a write time of 600 ms per entry.",
+        "location": "Gurugram, Haryana",
+        "links": "",
+        "startDate": "October 2023"
+      },
+      {
+        "role_name": "AI - Intern (Internship)",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Iassist Inovations Labs",
+        "description": "Data Analysis and Engineering: Created 7+ dashboards to provide customers with market overviews and utilized insights to develop an ML model with 90-95% accuracy. Scraped over 20,000 data points and converted to data pipeline to warehouse the data. Implemented structured handling to store data in a schema format, reducing storage size by 20%. Full Stack Development: Worked on backend and frontend components, deploying them on AWS. Leveraged serverless tools like Lambda, API Gateway, and other AWS services to reduce maintenance costs by over 70%. Optimized performance, cutting response time by 30%.",
+        "location": "Remote,Bengluru",
+        "links": "",
+        "startDate": "November 2022"
+      },
+      {
+        "role_name": "Research & Development Internship (Internship)",
+        "skillsUsed": [],
+        "endDate": "October 2022",
+        "company_name": "Armament Research and Development Establishment - DRDO",
+        "description": "Dataset Collection and Augmentation: Collected 4000 data samples using robotic sensors (LIS331HH) and Beaglebone processor. Generated over 16,000 synthetic data points from the samples, applying advanced audio processing and introducing over 20 types of background noise to enhance variability. Deep Learning Model Development: Developed a 1D-CNN model with 97% accuracy for audio classification. Utilized a batch size of 32 and achieved target accuracy within 100 epochs. Implemented advanced techniques for feature extraction and noise reduction, optimizing the models performance and robustness in diverse audio environments.",
+        "location": "Pune,Maharashtra",
+        "links": "",
+        "startDate": "July 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "JAVA",
+      "C",
+      "Node.js",
+      "React.js",
+      "MongoDB",
+      "Spacy",
+      "NLTK",
+      "Pytorch",
+      "Scikit",
+      "TensorFlow",
+      "Keras",
+      "Flask",
+      "FastAPI",
+      "Django",
+      "NoSQL",
+      "Tableau",
+      "PowerBI",
+      "MS Excel",
+      "AWS",
+      "Azure"
+    ],
+    "soft_skills": [
+      "Event Management",
+      "Public Speaking",
+      "Time organization"
+    ],
+    "name": "Hemang Jiwnani",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart India Hackathon 2022s national champions among 15000 indivituals PSID is [AK1091]",
+      "National Runner-Up Enosium Hackathon among 1500 indivituals Organized by IIT Indore",
+      "International Finalist UNESCO India Africa Hackathon 10,000 indivituals PSID is [HELC51]"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 4.0,
+  "degree": "Bachelor of Technology"
+}

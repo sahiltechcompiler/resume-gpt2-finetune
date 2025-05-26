@@ -1,0 +1,124 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Mansi Agrawal",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Faridabad, Haryana, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "5G for Everyone",
+        "issuer": "Qualcomm Academy - Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Electronics",
+        "issuer": "Georgia Institute of Technology - Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Senior Coordinator, IEEE RAS MUJ Jan 2023 - Nov 2023",
+      "UI/UX Designer, Rotaract MUJ Feb 2023 - Nov 2023",
+      "Social Media Manager, Startup Weekend Jaipur Oct 2022 - Nov 2022"
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Current CGPA : 9.13",
+        "field_of_study": "Electronics and Communication",
+        "startDate": "September 2021"
+      },
+      {
+        "school": "Presidium, Indirapuram",
+        "endDate": "Mar 2021",
+        "maximum_grade": "",
+        "degree": "Highschool Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "12th CBSE board: 91.8% | 10th CBSE board: 96.6%",
+        "field_of_study": "",
+        "startDate": "Mar 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Military Surveillance Robot",
+        "description": "Secured 1st prize at RoboExpo for crafting a military surveillance robot. Implemented GSM module, GPS, and smoke detector for advanced functionality. Demonstrated expertise in strategic planning, hardware integration, and software development. Enhanced operational efficiency and situational awareness through innovative design.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Rain Alert System",
+        "description": "Created a rain alert system using Python. Utilized Twilio client for messaging functionality. Incorporated OS module for system-level interactions. Employed Requests module for retrieving weather data. Seamlessly integrated modules to provide timely rain alerts to users.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Low Price Alert System",
+        "description": "Developed an Amazon low price alert system using Python. Utilized smtplib for sending email notifications. Leveraged Requests library to fetch data from Amazon's website. Employed BeautifulSoup for parsing HTML content and extracting relevant information. Seamlessly integrated these modules to create an efficient and effective alert mechanism for users.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Project Trainee",
+        "skillsUsed": [],
+        "endDate": "15th July 2023",
+        "company_name": "Tata Teleservices Ltd",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "15th June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "Java",
+      "Arduino",
+      "Analog and Digital Electronic Design",
+      "Circuit Design",
+      "PCB Design"
+    ],
+    "soft_skills": [],
+    "name": "Mansi Agrawal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Faridabad, Haryana, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

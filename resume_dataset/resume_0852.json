@@ -1,0 +1,117 @@
+{
+  "project_count": 1.0,
+  "designation": "Full Stack Developer",
+  "name": "Surya Pratap",
+  "college": "Gurukul Kangri (Deemed To Be) University",
+  "locations": [
+    "Haridwar, Uttrakhand,GFTI",
+    "South delhi,Delhi (India)"
+  ],
+  "full_output": {
+    "summary": "Im a Full Stack Developer with 1.5 years of experience, where Ive worked on projects like Maustats,SDG, IEMI, and JSSS. Im skilled in using MongoDB, Express.js, Angular/React, and Node.js to build web applications. I enjoy working on both the front-end and back-end, always aiming to create scalable solutions that meet and often exceed expectations.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "",
+        "issuer": "internshala",
+        "certiLink": "Certification no:-3D2F1094-05FC-1FE7-2649-3E6D49B47DD5"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Gurukul Kangri (Deemed To Be) University",
+        "endDate": "May 2023",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Haridwar, Uttrakhand,GFTI",
+        "ID": 0.0,
+        "grade_received": "8.6 cgpa",
+        "field_of_study": "Computer Science And Engineering",
+        "startDate": "Aug. 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "SOCIAL NETWORKING APPLICATION",
+        "description": "Developed and maintained a monolith project with CRUD and authorization functionalities. Developed REST APIs for Users,and Posts feature. Integrated library for user authentication. Thunder and Postman tool commonly used for API testing. It provides a framework for automating the testing of APIs, ensuring that the endpoints and functionalities work as intended. Utilized a tech stack that included JavaScript, NodeJS, ExpressJS, MongoDB, Mongoose, Json Web Token (JWT), showcasing proficiency in a wide range of modern software development technologies.",
+        "keywords": [
+          "JavaScript",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Mongoose",
+          "Json Web Token (JWT)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Solution developer",
+        "skillsUsed": [
+          "Express.js",
+          "REST APIs",
+          "AWS",
+          "RabbitMq",
+          "Angular",
+          "GridSlick",
+          "Highcharts"
+        ],
+        "endDate": "Present",
+        "company_name": "Itech Misson Pvt.Ltd",
+        "description": "created REST APIs for the backend server using the frameworks Express.js utilized in web and mobile screens. Developed a calculation API that generates calculations based on the given data and includes an automatic download functionality. Created multiple APIs for Indicators,IUs and Report generation for charts displayed on the frontend dashboard of the application. Developed numerous test cases using the frameworks Swagger, Mocha, and Chai. Also worked on deploying the project on AWS both manually and using CI/CD integration. Applyed message queue framework RabbitMq in my backed show the multitask or process handle one by one. Implemented charts in the Angular framework using GridSlick and Highcharts. I worked onrole and permission of user in front end.",
+        "location": "South delhi,Delhi (India)",
+        "links": "",
+        "startDate": "March 2023"
+      },
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [
+          "Angular",
+          "React",
+          "Node.js"
+        ],
+        "endDate": "Sept 2023",
+        "company_name": "Itech Misson Pvt.Ltd",
+        "description": "Added features in two projects (GDP and TERS applications) using Angular, React, and Node.js. Features included pop-ups, open/close functionality, and search/download APIs. Contributing in solving various bug fixes, adding features to the platform and redesigning Backend and Frontend of the projects.",
+        "location": "South delhi,Delhi (India)",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Javascript",
+      "Typescript",
+      "React",
+      "Angular",
+      "NodeJs",
+      "ExpressJs",
+      "Mongoose",
+      "Docker basic",
+      "Aws",
+      "Chai",
+      "Mocha",
+      "Swager",
+      "MySql",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Surya Pratap",
+    "position": "Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

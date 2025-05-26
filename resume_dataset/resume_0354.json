@@ -1,0 +1,165 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ARUNDATHI K",
+  "college": "Jeppiaar Institute of Technology",
+  "locations": [
+    "Chennai",
+    "India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM Artificial Intelligence Fundamentals Badge",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Data Analytics with Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Joy of Computing",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Deep Learning",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Technology",
+        "endDate": "2027",
+        "maximum_grade": "",
+        "degree": "B.S",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Data Science and its Applications",
+        "startDate": "2024"
+      },
+      {
+        "school": "Jeppiaar Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.S",
+        "location": "Chennai, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Data Science and its Applications",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "NOAA Satellite - AI PROJECT",
+        "description": "Analysed audio signals received from NOAA satellites, extracting spectrogram images from corresponding .wav files. Engineered a process to convert audio .wav files into grayscale satellite images, integrating graphical user interface (GUI) capabilities. Designed and implemented artificial colorization techniques to transform grayscale satellite images into RGB format, enhancing visual representation.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Generating Poem Texts using RNN",
+        "description": "Designed and implemented a Recurrent Neural Network (RNN) to generate original poem texts. Trained the model on a large dataset of poems to capture stylistic and thematic elements. Fine-tuned hyperparameters and utilized techniques like dropout to improve model performance and creativity.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Success Rate Prediction",
+        "description": "Developed a predictive model to estimate movie success based on factors like genre, budget, cast, director, release date, and marketing efforts. Analysed historical movie data using machine learning techniques, including regression, classification, and ensemble methods.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Founder",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Unbound Journal by Aru",
+        "description": "Established a retail company specializing in handcrafted gifts, cultivating entrepreneurial skills in business development, marketing, and customer service.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "February 2024"
+      },
+      {
+        "role_name": "Product Management Intern",
+        "skillsUsed": [],
+        "endDate": "February 2024",
+        "company_name": "Inkarto",
+        "description": "Leveraged product management internship to cultivate core skills for future entrepreneurial endeavors. Actively participated in managing existing products, fostering collaboration across teams, and making data-driven decisions. Gained a strong foundation in core product management principles, which will be instrumental in launching a successful business venture aligned with personal interests.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "December 2023"
+      },
+      {
+        "role_name": "AI Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Re-Tech Solutions",
+        "description": "Proficient in Python programming and its data science/machine learning libraries (NumPy, scikit-learn, Keras, Seaborn, NLTK). Applied expertise in projects: analyzed movie data and built a text generation model using NLP techniques.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis and Manipulation",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Deep Learning Framework",
+      "Pytorch",
+      "TensorFlow",
+      "Keras",
+      "Computer Vision",
+      "Open CV",
+      "Machine Learning",
+      "NLP",
+      "Scikit-Learn",
+      "NLTK"
+    ],
+    "soft_skills": [],
+    "name": "ARUNDATHI K",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Chennai, Tamil Nadu",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.S"
+}

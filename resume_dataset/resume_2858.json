@@ -1,0 +1,148 @@
+{
+  "project_count": 4.0,
+  "designation": "Full Stack Developer",
+  "name": "Aditya Pratap Singh",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad"
+  ],
+  "full_output": {
+    "summary": "Motivated computer science student with a passion for solving complex problems through innovative technology solutions. Seeking a challenging internship position to apply and further develop my programming skills, analytical mindset, and teamwork abilities. Committed to contributing to cutting-edge projects while learning and growing within a dynamic and collaborative environment",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web-Development-Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Learn AI Skills Challenge",
+        "issuer": "Microsoft",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "7.6",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Shri Ram Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 86%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Blooming Buds",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage - 85.2%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Rich Text Editor",
+        "description": "Leveraged Express.js backend with a remarkable uptime of 99.9%. Employed MonacoEditor for advanced text editing, reducing latency to less than 50 milliseconds. Integrated WebSocket for real-time collaboration, achieving 95% uptime and 100ms latency for 100 users.",
+        "keywords": [
+          "Express.js",
+          "Monaco-editor",
+          "Web Socket"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Password Generator",
+        "description": "React-based generator ensures secure passwords. Load time: lesthan-2s. Tailwind CSS for streamlined design. CSS size: 10KB, optimizing performance.",
+        "keywords": [
+          "React",
+          "Tailwindcss"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Social-media-API",
+        "description": "A backend API catering to social media platforms, focusing on user management and post functionalities. Facilitates user registration, password recovery, and post management, encompassing 90% of essential social media operations.",
+        "keywords": [
+          "Express.js",
+          "MongoDB",
+          "JSON Web Tokens",
+          "bcrypt"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blog-analytic-tool",
+        "description": "Utilizes Express.js for 80% of server-side development, ensuring efficient and scalable backend operations. Calculates essential metrics including total blog count (80%), longest blog title (85%), and the count of blogs with privacy-related titles (75%), offering valuable insights into blog data trends.",
+        "keywords": [
+          "Express.js",
+          "Axios",
+          "Loadash"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Typescript",
+      "GitHub",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "TailwindCSS",
+      "VS Code",
+      "GitHub",
+      "Atom",
+      "MongoDB",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Pratap Singh",
+    "position": "Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

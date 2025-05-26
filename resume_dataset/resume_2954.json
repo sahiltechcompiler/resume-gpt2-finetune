@@ -1,0 +1,204 @@
+{
+  "project_count": 3.0,
+  "designation": "AI Performance Analyst Intern",
+  "name": "Krishna Sai Raj Ponneboina",
+  "college": "SRM University, AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL certification in Database Management System",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "gained skills in ETL and Big Data technologies.",
+        "skillsLearned": [],
+        "title": "Data Engineering Boot Camp",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "demonstrating strong proficiency in SQL queries.",
+        "skillsLearned": [],
+        "title": "SQL on HackerRank",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "enhancing skills in Python programming.",
+        "skillsLearned": [],
+        "title": "Data Analysis Using Python",
+        "issuer": "APSSDC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "for hands-on AWS services and cloud concepts expertise.",
+        "skillsLearned": [],
+        "title": "AWS Cloud Practitioner",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.45",
+        "field_of_study": "Computer Science, Big Data Analytics",
+        "startDate": "2021"
+      },
+      {
+        "school": "TSBIE Excellent Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.4%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "TSBSE Narayana Concept School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "92.0%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AWS Driven Sales Performance Outlook",
+        "description": "Real time stream processing, connecting seamlessly between DynamoDB and Kinesis through Event Bridge for event-driven integration, facilitating the capture and processing of sales data. Crafted effective Change Data Capture (CDC) in DynamoDB, enabling streamlined tracking.",
+        "keywords": [
+          "Python",
+          "DynamoDB",
+          "Event Bridge",
+          "Kinesis",
+          "S3",
+          "Glue",
+          "Athena"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Kafka Driven Logistics Data Ingestion into MongoDB",
+        "description": "Orchestrated a comprehensive solution for logistics data processing through Kafka messaging, seamlessly managing data flow from efficient ingestion to storage in MongoDB. Avro schema for structured data serialization, ensuring a standardized format throughout the logistics data processing pipeline, preserving data integrity.",
+        "keywords": [
+          "Python",
+          "Kafka",
+          "MongoDB",
+          "Docker"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Job App",
+        "description": "The application is implemented using Spring Boot and JPA (Java Persistence API) which includes modules such as Jobs, Companies, and Reviews. Also included Docker support with PostgreSQL and pgAdmin.",
+        "keywords": [
+          "Spring Boot",
+          "RESTful API",
+          "JPA(Java Persistence API)",
+          "PostgreSQL",
+          "pgAdmin",
+          "Docker"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AI Performance Analyst Intern",
+        "skillsUsed": [
+          "Spring Boot",
+          "Java",
+          "Python",
+          "Replit",
+          "Loom"
+        ],
+        "endDate": "08/2024",
+        "company_name": "Mercor",
+        "description": "Evaluated LLM responses based on Accuracy, Correctness, Instruction Following, Readability and Documentation. Provided clear, grammatically correct feedback on model preferences for client reports. Conducted code execution verification using Replit and provided video evidence using Loom for unsupported tasks. Wrote prompts for various task categories like Optimizing, Refactoring and Testing code.",
+        "location": "",
+        "links": "",
+        "startDate": "07/2024"
+      },
+      {
+        "role_name": "Data Engineer - Freelancer",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Upwork",
+        "description": "Big Data Development Tools",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Hadoop",
+      "Hive",
+      "Spark",
+      "DynamoDB",
+      "Event Bridge",
+      "Kinesis",
+      "S3",
+      "Glue",
+      "Java",
+      "REST API",
+      "SQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Docker",
+      "Spring Boot",
+      "Kafka",
+      "Git",
+      "Tableau",
+      "Google Looker Studio",
+      "Javascript",
+      "Pyspark",
+      "AWS",
+      "API"
+    ],
+    "soft_skills": [],
+    "name": "Krishna Sai Raj Ponneboina",
+    "position": "AI Performance Analyst Intern",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Development Engineer",
+  "name": "SNEHA GARG",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Rohini,Delhi",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "Hey there! I'm a tech enthusiast who loves turning ideas into code. I believe in the power of teamwork, integrity, and a good cup of coffee to fuel creativity. Whether it's solving coding puzzles or creating a positive work vibe, I'm all in.I am a dedicated and adaptable individual with a passion for learning and problem-solving. I thrive in dynamic environments where I can apply my development skills, and I am committed to achieving high standards of excellence in everything I undertake.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Attained skills in statistical analysis, advanced Python proficiency, and understanding of diverse machine learning algorithms.",
+        "skillsLearned": [],
+        "title": "Machine learning course",
+        "issuer": "1stop",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed comprehensive C and C course, covering advanced topics and practical exercises, enhancing programming proficiency and problem-solving skills.",
+        "skillsLearned": [],
+        "title": "DSA course by Love Babbar on codehelp",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "As the Social Media Head for ISTE Society, I orchestrated dynamic strategies that propelled our online presence to new heights. Through meticulous content creation, I cultivated engaging social media feeds that captivated our audience and fostered vibrant online communities."
+    ],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "Bachelor of Technology",
+        "location": "Rohini,Delhi",
+        "ID": 0.0,
+        "grade_received": "8.2",
+        "field_of_study": "Electronics & Communication Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-State-Website",
+        "description": "Developed and implemented a responsive real estate website using React, demonstrating proficiency in front-end web development. The website aimed to provide users with a comprehensive view of available properties, including detailed listings, high-quality images, and interactive maps for location visualization.",
+        "keywords": [
+          "React",
+          "React Hooks",
+          "Redux"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://real-estate-website-ahn.pages.dev/"
+      },
+      {
+        "name": "Social-Media-app",
+        "description": "Designed and implemented user authentication and authorization systems using Node.js and MongoDB for secure user access. Create a dynamic and engaging social media platform that fosters meaningful connections between users, facilitates seamless communication and collaboration.",
+        "keywords": [
+          "HTML/CSS",
+          "JavaScript",
+          "React",
+          "React Hooks",
+          "Redux",
+          "Node.js",
+          "MongoDB",
+          "Socket.IO"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/snehagarg11/Social-Media-app"
+      },
+      {
+        "name": "Predicting Diabetes using Machine Learning",
+        "description": "Developed a predictive model to detect the likelihood of diabetes in individuals using machine learning techniques.",
+        "keywords": [
+          "NumPy",
+          "Pandas",
+          "Scikit-learn",
+          "Matplotlib",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/snehagarg11/ML-projects"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "11/2023",
+        "company_name": "1stop",
+        "description": "During my internship at 1stop, I had the opportunity to work on a project aimed at developing a predictive model for identifying individuals at risk of developing diabetes. The project involved machine learning techniques to analyze healthcare data and create a predictive model.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "10/2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Javascript",
+      "Python",
+      "HTML/CSS",
+      "React.js",
+      "Node.js",
+      "MySQL",
+      "MongoDB",
+      "DBMS",
+      "Operating Systems",
+      "Redux"
+    ],
+    "soft_skills": [],
+    "name": "SNEHA GARG",
+    "position": "Software Development Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

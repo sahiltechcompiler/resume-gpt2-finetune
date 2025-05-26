@@ -1,0 +1,161 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Bhuvanesh Raj K P",
+  "college": "Chennai Institute Of Technology",
+  "locations": [
+    "Chennai, TamilNadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete 2023 Web Development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cybersecurity",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA-1",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA-2",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Networking Basics",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Roles, Processes & Operating System Security",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cybersecurity Tools",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Chennai, TamilNadu",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Student ID v 1.0",
+        "description": "A student profile webpage where any student from the campus can register themselves with their academic details to have a inhand id that can be easily updated and viewed anytime by the user. Admin can view every students academic details like CGPA by using students registernumber. JWT for authentication , authorization and session management which can prevent 95 % of the site threats. Student portal also includes GPA calculater where admin can post the gpa template for an exam and student can calculate their GPA by entering their subject grades and data is updated in the centralised database.",
+        "keywords": [
+          "MERN STACK"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Bhuvanesh-raj/STUDENT-ID"
+      },
+      {
+        "name": "Chat IO",
+        "description": "A Real time chat App built using websockets with personal chat and group chat features. Real Time update on end users activity using instant unique event calls such as User is typing ,User disconnected. Interactive UI for user attraction and user comfort.",
+        "keywords": [
+          "ExpressJS",
+          "Websockets.io"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Bhuvanesh-raj/Chat-IO"
+      },
+      {
+        "name": "Private Cloud Network",
+        "description": "Built my very own cloud network using CasaOS on a ubuntu server to host my services in the server and to make it accessible across the devices in my network. Installed Splunk for VAPT incase of any breach or threat happens on the cloud service. Enabled port forwarding to be able to access the service from any part of the world using the public ip address of the router on which the cloud server is hosted. Configured the Firewall to prevent unwanted access to the server and i hosted my projects in this server so they are always active and can be accessed using other devices on the network.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "Python",
+      "C++",
+      "JavaScript",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "JWT",
+      "MongoDB",
+      "MYSQL",
+      "Linux",
+      "Cisco Packet Tracker",
+      "Docker",
+      "Git",
+      "GitHub",
+      "VAPT"
+    ],
+    "soft_skills": [],
+    "name": "Bhuvanesh Raj K P",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Chennai",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Engineering"
+}

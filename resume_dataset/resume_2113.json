@@ -1,0 +1,146 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Arshleen Bhandari",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Hyderabad, India",
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Supervised Machine Learning: Regression and Classification",
+        "issuer": "Coursera | Stanford University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advanced Learning Algorithms",
+        "issuer": "Coursera | Stanford University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+        "issuer": "Coursera | Stanford University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate of Excellence in Data Structures and Algorithms in C++",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certification Course on Cloud: AWS",
+        "issuer": "ICT Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.87/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Jul 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Indeed Job Miner",
+        "description": "Leveraged web scraping to extract job postings from Indeed, utilizing Python library BeautifulSoup for efficient data retrieval. Employed Natural Language Processing (NLP) to preprocess the scraped data, NLTK (Natural Language Toolkit) for text mining and skill extraction to identify key skills and qualifications within job postings. Implemented K-means clustering algorithm to group similar job postings based on extracted skills, facilitating targeted job search and analysis for users.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SMS Spam Classifier",
+        "description": "Created a software that uses NLP (Natural Language Processing) and Machine Learning for classifying a message as either spam or not-spam. Used Pythons Natural language toolkit (NLTK) library for data processing and cleaning, Scikit-learn for feature extraction. Used Naive Byes Algorithm for classification, successfully classifying the spam messages with 98% accuracy.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Dataset link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Summer Apprenticeship",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "AMAZON",
+        "description": "In-depth knowledge on key Machine Learning, deep learning topics and data preprocessing techniques from Amazon Scientists. Used libraries like Scikit-learn, TensorFlow and Keras to implement various machine learning and deep learning algorithms such as Artificial Neural Network. Platform to interact with Scientists and learn about break-through innovation.",
+        "location": "Hyderabad, India",
+        "links": "",
+        "startDate": "Sep 2023"
+      },
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [],
+        "endDate": "Sept 2023",
+        "company_name": "TELECOMMUNICATION CONSULTANT INDIA LIMITED",
+        "description": "Developed a Bidder Management System (BMS) using PHP and SQL, eliminating manual paperwork and automating processes for bidder data management. The software performs CRUD (Create, Read, Update, Delete) functionality, enabling authorized access to bidder information promoting data integrity and confidentiality. Implemented Agile methodologies to ensure efficient project delivery and collaborate effectively with team members to deliver high-quality software solutions on schedule.",
+        "location": "New Delhi, India",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "SQL",
+      "Data Structures and Algorithms",
+      "Operating Systems",
+      "Computer Networks",
+      "Object Oriented Programing (OOPs)",
+      "Database Management System (DBMS)",
+      "Agile",
+      "Scrum",
+      "Scikit-learn",
+      "NLTK",
+      "Pandas",
+      "NumPy",
+      "Machine learning",
+      "Natural Language Processing (NLP)",
+      "Computer Vision",
+      "Data Science",
+      "Data Analytics"
+    ],
+    "soft_skills": [],
+    "name": "Arshleen Bhandari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,154 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Balaji S",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamil Nadu",
+    "Chennai, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete Web Developer Zero to Mastery",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Front-end Development with ReactJS",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Workshop",
+        "skillsLearned": [],
+        "title": "IIT Madras Full Stack Development",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BE",
+        "location": "Chennai, Tamil Nadu",
+        "ID": 0.0,
+        "grade_received": "CGPA-8.08",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "HavenEstate",
+        "description": "Built a high-traffic property platform with user-friendly navigation and categorized listings. Developed an intuitive interface for property listings with image uploads, pricing, and detailed descriptions. Implemented robust search with filters for efficient property discovery. Integrated Stripe for payment processing, which handles transactions, ensuring secure and swift financial transactions.",
+        "keywords": [
+          "Reactjs",
+          "nodejs",
+          "mysql"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "Mar 2024",
+        "url": ""
+      },
+      {
+        "name": "InsureWise",
+        "description": "InsureWise is a comprehensive insurance platform offering 4 types of insurance: home, life, health, and vehicle. User Authentication is implemented using JWT tokens, ensuring secure and efficient login for users. Integrated Stripe for secure and seamless payment processing on the insurance platform. Added an API called Twilio(message api) to send real-time SMS messages to contact the admin through helpdesk.",
+        "keywords": [
+          "TailwindCSS",
+          "Reactjs",
+          "Nodejs",
+          "MySQL"
+        ],
+        "endDate": "Jun 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "OverFlowhub",
+        "description": "Created a tech Q&A platform with over active users for knowledge sharing with industry experts. Secured the platform with Node.js authentication with jwt serving over registered users. Designed a ranking system influenced by monthly votes & expert validation, increasing content reliability. Utilized MongoDB for efficient data management, supporting real-time updates for questions, answers, and user profiles.",
+        "keywords": [
+          "MERN stack"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "Sep 2023",
+        "url": ""
+      },
+      {
+        "name": "Track-Wave",
+        "description": "Engineered a attendance app (Next.js, Drizzle, PostgreSQL) for students with day-based tracking. Implemented robust authentication and role-based access control with Kinde, securing the platform for active teachers. Enhanced database operations using Drizzle ORM, improving performance & reliability in handling complex queries. Streamlined UI for teachers (faster navigation, higher satisfaction).",
+        "keywords": [
+          "NextJs",
+          "Drizzle ORM",
+          "PostgreSQL"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Apr 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web Development",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "NULL CLASS PRIVATE LTD",
+        "description": "Engaged in an immersive internship focused on honing skills and expertise in Full-Stack development using the MERN stack Contributed actively to diverse projects, gaining hands-on experience in both front-end development while collaborating within a team of 5 developers. Delivered high-quality code within project timelines, ensuring the developed applications met functional requirements and achieving a 95% client satisfaction rate. Adapted quickly to new technologies and tools, showcasing a proactive approach to learning.",
+        "location": "Chennai, India",
+        "links": "",
+        "startDate": "Jul 2023"
+      }
+    ],
+    "skills": [
+      "ReactJS",
+      "Bootstrap",
+      "TailwindCSS",
+      "NextJS",
+      "HTML/CSS",
+      "NodeJS",
+      "ExpressJS",
+      "JavaScript",
+      "SpringBoot",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Drizzle ORM",
+      "Java",
+      "Git",
+      "GitHub",
+      "Docker",
+      "VSCode",
+      "IntelliJ",
+      "Figma",
+      "CMD"
+    ],
+    "soft_skills": [],
+    "name": "Balaji S",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 300 problems in leetcode",
+      "Solved 1000 Skillrack problems"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BE"
+}

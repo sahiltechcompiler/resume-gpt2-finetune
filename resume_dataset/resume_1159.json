@@ -1,0 +1,162 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ARPAN GUPTA",
+  "college": "Dr. A.P.J. Abdul Kalam Technical University",
+  "locations": [
+    "Ghaziabad, India",
+    "Budaun"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A.P.J. Abdul Kalam Technical University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.47/10 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "De Paul School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Budaun",
+        "ID": 1.0,
+        "grade_received": "94.75 %",
+        "field_of_study": "ISC",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Algo Trading App",
+        "description": "Engineered and launched a cutting-edge Algorithmic Trading product with real-time 100% Profit/Loss tracking. User can add upto 6 strategies at a time as per choice, and upto 10 legs per strategy.",
+        "keywords": [
+          "React.JS",
+          "Material UI",
+          "ReactStrap",
+          "Javascript",
+          "MongoDB",
+          "Node.JS",
+          "Express.JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Website"
+      },
+      {
+        "name": "Go-Kart",
+        "description": "Engineered and implemented a robust backend system optimizing User Login/Logout and Signup processes, resulting in a 40% reduction in loading times and a 25% increase in user retention rate. Admin panel functionalities, and product registration for an E-Commerce website.",
+        "keywords": [
+          "Node.JS",
+          "Express.JS",
+          "MongoDB",
+          "Restful API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Stack Overflow Clone",
+        "description": "Developed a Full-Stack website clone of Stack OverFlow. It has Login, Signup facilities. Worked on the authentication of upto 10 rounds using Bcrypt module.",
+        "keywords": [
+          "React.JS",
+          "Node.JS",
+          "Express.JS",
+          "MongoDB",
+          "ReactStrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Website"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [
+          "React.JS",
+          "CSS",
+          "Bootstrap",
+          "ReactStrap",
+          "ANT.Design",
+          "HTML",
+          "MongoDB",
+          "Node.JS"
+        ],
+        "endDate": "Mar 2024",
+        "company_name": "Automate Algos",
+        "description": "Architected and implemented the front-end infrastructure for the organizations website and core product, leveraging cutting-edge technologies to optimize user experience, resulting in a 50% reduction in bounce rates. Spearheaded the design and development of the UI/UX utilizing a combination of FrontEnd Libraries like Material UI, Reactstrap.",
+        "location": "",
+        "links": "Website",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "BackEnd Developer Intern",
+        "skillsUsed": [
+          "Node.JS",
+          "Express.JS",
+          "RESTful APIs",
+          "HTML",
+          "MongoDB"
+        ],
+        "endDate": "Apr 2023",
+        "company_name": "QuadB Technologies",
+        "description": "Developing an authentication system of upto 12 salt rounds, implementing middleware for authentication. Connecting frontend APIs, implementing refresh token rotation along with a team of 6 interns.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "Python",
+      "C++",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "ES6",
+      "Git",
+      "GitHub",
+      "Windows",
+      "Node.js",
+      "Express.js",
+      "React.js",
+      "RDBMS",
+      "MongoDB",
+      "MySQL",
+      "RestAPI",
+      "Bootstrap"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Team-Work",
+      "Problem Solving",
+      "Adaptability",
+      "Creativity"
+    ],
+    "name": "ARPAN GUPTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Selected at the Regional Level for the KAVACH HACKATHON 2023 by the INDIAN GOVERNMENT.",
+      "Achieved the 9th global rank in the CodeChef Long Challenge."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ayush Kumar",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "Percentage : 100",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA : 8.69",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Josephs High School, Gorakhnath",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage : 86.0",
+        "field_of_study": "ISC",
+        "startDate": ""
+      },
+      {
+        "school": "St. Josephs High School, Gorakhnath",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage : 88.8",
+        "field_of_study": "ICSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SmartMail",
+        "description": "Developed a web-based email application with AI features using React.js, Node.js, Express.js, and MongoDB, reducing email composition time by 55%. Implemented paraphrasing functionality enabling users to rephrase their emails effortlessly, ensuring clear and effective communication. Integrated Redis caching, resulting in a 45% reduction in database query times and a significant improvement in overall application performance. Added an email summarization feature that provides concise summaries, increasing user email management efficiency by 55%.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Link"
+      },
+      {
+        "name": "Code Share",
+        "description": "Built a collaborative coding platform with React.js, Node.js, Express.js, and Socket.io, supporting real-time code sharing among multiple users. Integrated video, audio, and chat features to enhance communication and collaboration during coding sessions, eliminating the need for external communication tools. Saves significant internet data as compared to conventional screen-sharing methods.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Socket.io"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Link"
+      },
+      {
+        "name": "Pro Focus",
+        "description": "Developed ProFocus, a Chrome extension, removing all recommendations while watching YouTube video, displaying recommendations only related to the current video being watched, and providing a time tracking timer. It aims to enhance user productivity and helps in significantly reducing distractions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Contributor, Web Developer",
+        "skillsUsed": [
+          "React.js",
+          "JavaScript",
+          "Git"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "GirlScript Summer of Code 2023",
+        "description": "Enhanced technical skills through collaboration and hands-on experience, contributing to React.js and JavaScript projects with 27 pull requests merged. Acquired proficiency in Git, version control, issue tracking, and resolution.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Bootstrap",
+      "MongoDB",
+      "MySQL",
+      "Tailwindcss",
+      "Socket.io",
+      "Material-UI",
+      "RESTful APIs",
+      "Visual Studio Code",
+      "Git",
+      "GitHub",
+      "Postman",
+      "Netlify",
+      "Data Structures and Algorithms",
+      "Software Development",
+      "Linux",
+      "Operating Systems",
+      "OOPS",
+      "DBMS",
+      "Computer Networks"
+    ],
+    "soft_skills": [],
+    "name": "Ayush Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved over 700 Data Structures and Algorithms problems across multiple platforms, showcasing problem-solving skills and algorithmic proficiency.",
+      "Secured a rank of 90 out of 1557 GSSoC23 Contributors with at least one PR merged.",
+      "Received a 100% Merit Scholarship from SRM University AP to pursue B.Tech in Computer Science and Engineering."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

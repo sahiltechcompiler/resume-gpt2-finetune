@@ -1,0 +1,128 @@
+{
+  "project_count": 3.0,
+  "designation": "Web developer",
+  "name": "Aditya Jagtap",
+  "college": "TRINITY COLLEGE OF ENGINEERING AND RESEARCH",
+  "locations": [
+    "Pune, Maharashtra"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "TRINITY COLLEGE OF ENGINEERING AND RESEARCH",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "bachelor",
+        "location": "Pune, Maharashtra",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.26",
+        "field_of_study": "",
+        "startDate": "August 2020"
+      },
+      {
+        "school": "KARMAVEER BHAURAO PATIL JR COLLEGE",
+        "endDate": "April 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Pune, Maharashtra",
+        "ID": 1.0,
+        "grade_received": "HSC Percentage: 61%",
+        "field_of_study": "Science",
+        "startDate": "August 2018"
+      },
+      {
+        "school": "ABHINAV ENGLISH MEDIUM SCHOOL",
+        "endDate": "July 2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Pune, Maharashtra",
+        "ID": 2.0,
+        "grade_received": "SSC Percentage: 86.80%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SIGN LANGUAGE RECOGNITION",
+        "description": "With this project I was aiming to solve the problem of dumb and deaf people who cant communicate. It interpret and translate sign language gesture into spoken and written language.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "MySQL",
+          "ML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TIC - TAC - TOE GAME",
+        "description": "A simple two player game that involves a 3x3 grid. It is implemented as a Web-based game or a graphical desktop application.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "NEWS APPLICATION",
+        "description": "In this project news data is fetched from the api and it displays news articles in the tabular format. This news application is built using React, CSS and ant design library.",
+        "keywords": [
+          "HTML",
+          "Javascript",
+          "React",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front-End developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "March 2023",
+        "company_name": "CASCODE",
+        "description": "Travel survey form using HTML and CSS. Validating survey form using HTML and CSS. BMI calculator using HTML, CSS and Javascript.",
+        "location": "Pune, Maharashtra",
+        "links": "",
+        "startDate": "February 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "OOP",
+      "Web Development (HTML CSS Javascript)",
+      "Javascript",
+      "React js",
+      "VS code",
+      "Git",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Jagtap",
+    "position": "Web developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "bachelor"
+}

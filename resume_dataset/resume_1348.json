@@ -1,0 +1,187 @@
+{
+  "project_count": 6.0,
+  "designation": "Full Stack Developer",
+  "name": "Aryan Bhat",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Rohini, Delhi",
+    "Sector - 6, Dwarka",
+    "Gurugram, India"
+  ],
+  "full_output": {
+    "summary": "As a Full Stack Developer with a strong background in Machine Learning and expertise in Data Structures and Algorithms using Java, I offer a unique blend of technical skills and problem-solving abilities. My experience in both client-side and server-side development enables me to create seamless, user-friendly applications. I'm passionate about integrating advanced machine learning models into software solutions and am committed to continuous learning and innovation. I'm eager to contribute to dynamic projects and drive technological advancements.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate of Participation in Codekaze-June'23 Round-2",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JAVA Online Course by Coding Blocks",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Backend by Coding Blocks",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Supervised Machine Learning: Regression and Classification by Coursera",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System from NPTEL",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Rohini, Delhi",
+        "ID": 0.0,
+        "grade_received": "8.808",
+        "field_of_study": "Information Technology and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Vishwa Bharati Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th Grade",
+        "location": "Sector - 6, Dwarka",
+        "ID": 1.0,
+        "grade_received": "90.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce Website",
+        "description": "Built with Node.js and Express.js. Frontend created with HTML, CSS, jQuery, and JavaScript. Features user authentication, product searches, and manufacturer login.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Handwritten-Digit-Detector",
+        "description": "Machine learning model for handwritten digit recognition. Utilizes TensorFlow for model building and OpenCV-Python for preprocessing. Data manipulation with NumPy; visualizations with Matplotlib.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Age & Gender Detector",
+        "description": "Predicts age and gender from images using TensorFlow and Keras. Neural network with Conv2D, MaxPooling2D, Flatten, and Dense layers. Data handling with NumPy; performance visualizations with Matplotlib and Seaborn.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Delhi Metro Shortest Route and Time Calculator",
+        "description": "Java program for fare calculation and shortest route finding on Delhi Metro. Uses data structures like Graphs and algorithms like Dijkstra's.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Travel Booking App",
+        "description": "Web app for booking flights, hotels, and vacation packages. Frontend with HTML and CSS; backend with Flask for authentication and booking.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat App",
+        "description": "Real-time chat application using the MERN stack (MongoDB, Express.js, React.js, Node.js). Features user authentication, chat rooms, direct messaging, and WebSocket for instant messaging. Data managed with MongoDB; UI created with React.js; server-side logic with Express.js.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English: Upper Intermediate",
+      "Hindi: Proficient",
+      "Kashmiri: Upper Intermediate"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "04/2024",
+        "company_name": "BenchOnDemand LLP",
+        "description": "Developed and maintained the back-end of the company's website, ensuring robust performance and seamless integration with front-end functionalities. Utilized Express with Node.js for creating efficient and scalable server-side applications. Managed database operations using PostgreSQL and Prisma, ensuring reliable data storage and retrieval. Implemented APIs for various functionalities, including user authentication, data retrieval, and third-party integrations. Collaborated with the front-end team to enhance user interface components using HTML, CSS, and JavaScript, ensuring a cohesive and responsive user experience. Conducted testing and debugging to ensure optimal performance and security of the website. Gained hands-on experience in version control using Git and participated in code reviews to maintain code quality and standards.",
+        "location": "Gurugram, India",
+        "links": "",
+        "startDate": "08/2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "Express.js",
+      "React.js",
+      "Flask",
+      "NumPy",
+      "Matplotlib",
+      "TensorFlow",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Postman",
+      "Git & GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Aryan Bhat",
+    "position": "Full Stack Developer",
+    "interests": [
+      "Artificial Intelligence and Machine Learning",
+      "Web Development",
+      "New Technologies"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, India 110059",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

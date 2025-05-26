@@ -1,0 +1,131 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Saniya Devale",
+  "college": "KJ College of Engineering and Management Research",
+  "locations": [
+    "Pune, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KJ College of Engineering and Management Research",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Pune, India",
+        "ID": 0.0,
+        "grade_received": "8.86/10 (SGPA)",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Trinity Polytechnic Pune",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Pune, India",
+        "ID": 1.0,
+        "grade_received": "86.74%",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Abhinav Education Society and English Medium School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "Pune, India",
+        "ID": 2.0,
+        "grade_received": "78.40%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Rain alert notification app",
+        "description": "Implemented an application that notifies user if it is going to rain today. The app analyzes weather data gathered from OpenWeatherAPI and with the help of TwilioAPI sends message to registered user.",
+        "keywords": [
+          "Python",
+          "OpenWeatherAPI",
+          "TwilioAPI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Job Portal Web Application",
+        "description": "Developed a Web application that offers a seamless platform for job hunting and job posting. This web application simplifies candidates task to search for their dream job and also for the recruiters to find the best candidate for their firm.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Predicting crop-yield production",
+        "description": "Implemented a model that predicts the crop production ha/hg in India. The model takes several parameters such as average rainfall, pesticides in tones, average temperature etc. For this project, Decision Tree Regressor was employed as a predictive modeling technique.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "intern",
+        "skillsUsed": [],
+        "endDate": "06/06/24",
+        "company_name": "UniConverge Technologies",
+        "description": "Worked as a Data Science Intern at UniConverge Technologies Pvt. Ltd. Successfully developed a model that predicts crop production in India. Implemented the project using Decision Tree Regressor Model.",
+        "location": "",
+        "links": "",
+        "startDate": "25/04/24"
+      },
+      {
+        "role_name": "intern",
+        "skillsUsed": [],
+        "endDate": "25/04/24",
+        "company_name": "EY Global Delivery Services",
+        "description": "Developed a Job Portal Web Application with Django Framework that serves as a bridge between employers and job seekers. It offers a seamless and efficient solution for recruitment and job hunting. The project is made using technologies like HTML, CSS, JavaScript, Python with Django framework.",
+        "location": "",
+        "links": "",
+        "startDate": "28/02/24"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "HTML",
+      "JavaScript",
+      "SQL",
+      "PHP",
+      "Data Structures",
+      "Full Stack Development",
+      "OOPs",
+      "MS Azure",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "Saniya Devale",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.E"
+}

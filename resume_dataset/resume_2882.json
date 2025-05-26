@@ -1,0 +1,144 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "RIYA SINGH",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithm",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Enterprise-grade AI",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate- AWS Academy Cloud Foundations",
+        "issuer": "CREDLY",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA-7.99",
+        "field_of_study": "Computer science engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Boston Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage- 90",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Francis Convent School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage- 91.8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hardware Inventory System",
+        "description": "Developed a system to manage hardware assets, user roles, and assignments with features for adding, updating, issuing, and returning hardware. Implemented secure authentication and role-based access control. Built a responsive frontend using HTML, CSS, and JavaScript, and integrated it with a Spring Boot backend using JDBC Template and PostgreSQL.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "JDBC Template",
+          "PostgreSQL",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "RESTful APIs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Home Prices Prediction",
+        "description": "Developed and deployed a machine learning model to predict home prices in Bangalore using Linear Regression and using Bangalore home prices dataset from kaggle.",
+        "keywords": [
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "scikit-learn",
+          "Flask",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "AWS (Amazon Web Services)"
+    ],
+    "soft_skills": [],
+    "name": "RIYA SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Paper Title: Title: Exploring Deep Learning Architectures for Enhanced Traffic Sign Recognition: A Comparative Analysis Comparative analysis of four deep learning models for traffic sign recognition. Conference: 2024 International Conference for Advancement Technology (submitted). Models and Accuracies: AlexNet: 88.84% DenseNet: 95.12% VGGNet: 85.03% Generic CNN: 97.31%"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

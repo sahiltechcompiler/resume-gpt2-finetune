@@ -1,0 +1,139 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Saurabh Kushwaha",
+  "college": "Allahabad State University",
+  "locations": [
+    "Kanpur, UP"
+  ],
+  "full_output": {
+    "summary": "Motivated and detail-oriented Computer Science student with a strong foundation in web development. Passionate React developer with practical experience in creating dynamic and responsive web applications. Proficient in state management, component-based design and API integration. Ready to apply my project experience and skills to contribute to company.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "UpGrad & Woolf University",
+        "endDate": "Aug '25",
+        "maximum_grade": "",
+        "degree": "Master of Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Allahabad State University",
+        "endDate": "Sep '19",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "NetflixGPT",
+        "description": "Integrated ChatGPT API to enable users to ask movie-related questions and receive intelligent responses. Designed and implemented algorithms for sequential API calls and data combination, optimizing data retrieval and processing for improved application performance. Developed a robust user authentication and authorization system with secured routes. Utilized forwardRef to fetch and control child components' state from parent components, demonstrating expertise in both controlled and uncontrolled components.",
+        "keywords": [
+          "ReactJS",
+          "Firebase",
+          "Redux ToolKit",
+          "TMDB API",
+          "ChatGPT API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      },
+      {
+        "name": "Movix Web App",
+        "description": "Developed a movie search application using React and TMDB API. Implemented user authentication, dynamic content loading, and pagination for seamless navigation. Optimized image loading using lazy load techniques to enhance performance.",
+        "keywords": [
+          "ReactJS",
+          "SCSS",
+          "Firebase",
+          "AJAX",
+          "Axios",
+          "React Player",
+          "Redux"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      },
+      {
+        "name": "Google Gemini Clone",
+        "description": "Integrated Gemini API for fast and accurate search results. Developed real-time dynamic content display with a focus on user experience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Context API",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      },
+      {
+        "name": "Figma To Code",
+        "description": "Translated Figma designs into pixel-perfect, responsive web pages. Employed modern CSS techniques for dynamic and reusable component creation.",
+        "keywords": [
+          "React",
+          "Figma",
+          "HTML5",
+          "CSS3",
+          "Tailwind"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "React Ecosystem",
+      "Tailwind CSS",
+      "DOM Manipulation",
+      "AJAX",
+      "Async JavaScript",
+      "REST APIs",
+      "CRUD Operations",
+      "User Authentication & Authorization",
+      "Redux ToolKit",
+      "Git",
+      "GitHub",
+      "Webpack",
+      "Babel",
+      "NPM/Yarn",
+      "NodeJS",
+      "Firebase",
+      "MongoDB",
+      "Firestore",
+      "Responsive Web Design",
+      "Cross-Browser Compatibility",
+      "Performance Optimization"
+    ],
+    "soft_skills": [],
+    "name": "Saurabh Kushwaha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Cleared 2 Times Service Selection Board Screening Test."
+    ],
+    "publications": []
+  },
+  "current_location": "Kanpur, UP",
+  "graduation_year": 2019.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Science"
+}

@@ -1,0 +1,164 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ojusav Agarwal",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India"
+  ],
+  "full_output": {
+    "summary": "Languages: Frameworks:",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms: Deep Dive Using Java",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundations",
+        "issuer": "AWS",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Software Engineering",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "IEEE Robotics and Automation Society Advisor | Treasurer | Joint Head of Electronics Subsystem: Led a team of over 50 people to organise a series of Hackathons, Events and Workshops",
+      "Director of Techfest, Genesis 3.0"
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.01",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Maharaja Sawai Man Singh Vidyalaya (CBSE)",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Jaipur, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 94.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Image Insight- AI Image Captioning and OCR",
+        "description": "Program to perform OCR and Generate Captions for Images",
+        "keywords": [
+          "Langchain",
+          "Docker",
+          "PyTorch",
+          "Gymnasium",
+          "NLTK",
+          "HuggingFace",
+          "Obsidian"
+        ],
+        "endDate": "May 24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Document Summariser and RAG Chatbot",
+        "description": "A chatbot application which summarises a file and provides interface for QnA over custom dataset",
+        "keywords": [
+          "Beautiful Soup",
+          "Langchain",
+          "Groq API",
+          "Gemini",
+          "Streamlit"
+        ],
+        "endDate": "Aug 24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Robotics- Quadcopter, Robotic Arm",
+        "description": "Drone- Using KK2.1.5 Flight Controller, Flysky FS-i6, BLDC Motors and ESCs Arm- Using Arduino, Motor Driver Module and DPDT Switches",
+        "keywords": [],
+        "endDate": "May 20",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "July 24",
+        "company_name": "ShodhAI",
+        "description": "Alpha Model Development: Designed and optimized transformer-based model architecture, implemented word embeddings, and fine-tuned hyperparameters for enhanced model performance. ved Framework for Chatbot Application: Developed robust data pipelines utilizing open-source LLMs, Langchain, VectorDB, HuggingFace, and Ollama. Successfully processed over 15,000 PDFs for image captioning and OCR. nev Framework for Interview Tool: Engineered a pipeline for keyword extraction from large text files and developed a reinforcement learning environment using Gymnasium for automated Q&A response grading.",
+        "location": "Jaipur, India",
+        "links": "",
+        "startDate": "Dec 23"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Ojusav Agarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans List for Excellence in Academics, MUJ - Dec, 2022",
+      "Student Excellence Award, MUJ - May, 2024",
+      "Braveheart of the Year, MSMSV - Dec, 2019"
+    ],
+    "publications": [
+      "Article: Time Crystal : Physics Defying Phase of Matter",
+      "Article: String Theory : The Theory of Everything with Plenty of Strings Attached",
+      "Survey Paper: Autonomous Revolution- A Survey on Self Driving Technologies: Research in Progress",
+      "Research Paper: Quantum Decryption using Shors Algorithm: Under Review by IEEE"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

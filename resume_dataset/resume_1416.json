@@ -1,0 +1,115 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Vishal Vats",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "New Delhi, Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate Of Completion",
+        "skillsLearned": [],
+        "title": "Introduction To C++",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate Of Excellence provided to students securing 90 percent and above in their course",
+        "skillsLearned": [],
+        "title": "Introduction To C++",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate Of Completion",
+        "skillsLearned": [],
+        "title": "Data Structures In C++",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi, Delhi",
+        "ID": 0.0,
+        "grade_received": "8.50",
+        "field_of_study": "Computer Science and engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-Time-City-Forecasts",
+        "description": "Developed a weather application using JavaScript and the OpenWeatherMap API to fetch and display real-time data, including temperature, wind speed, and humidity, for any city based on user input, providing users with quick and accurate weather updates to assist in daily planning and decision-making. Implemented optimization techniques to enhance API call efficiency and reduce data fetch times, ensuring a seamless and responsive user experience.",
+        "keywords": [
+          "Javascript",
+          "CSS",
+          "HTML",
+          "Fetch API",
+          "openWeatherMap",
+          "Bootstrap"
+        ],
+        "endDate": "12/2022",
+        "startDate": "08/2022",
+        "url": ""
+      },
+      {
+        "name": "Chore-Robot",
+        "description": "Created an interactive web-based game called Chore Robot, where players choose between three doors to avoid finding the robot and win by successfully opening two non-robot doors. Project highlights the efficiency and optimization, particularly in minimizing load times and resource usage, as well as enhancing my proficiency in JavaScript and game logic design.",
+        "keywords": [
+          "HTML",
+          "Javascript",
+          "CSS",
+          "jQuery",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development",
+        "skillsUsed": [],
+        "endDate": "Oct 2023",
+        "company_name": "Code Alpha",
+        "description": "Completed an internship in web development with Code Alpha, gaining hands-on experience in building and maintaining web applications using modern technologies and best practices. Developed three impactful projects: a Temperature Converter, a Background Changer, and a dynamic Front Page, showcasing my proficiency in web development and UI/UX design.",
+        "location": "New Delhi, Delhi",
+        "links": "",
+        "startDate": "Sept 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Javascript",
+      "C"
+    ],
+    "soft_skills": [],
+    "name": "Vishal Vats",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

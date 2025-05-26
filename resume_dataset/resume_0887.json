@@ -1,0 +1,144 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Harshit Goel",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Meerut, UP",
+    "Ghaziabad, UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "US Health Care 101",
+        "issuer": "Innovacer",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "Eduonix",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Aggregate cgpa: 8.01",
+        "field_of_study": "CSE",
+        "startDate": ""
+      },
+      {
+        "school": "Godwin Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 97%",
+        "field_of_study": "PCM",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pizza Delivery Application",
+        "description": "Streamline pizza orders with a user-friendly interface for customers, while empowering admins with comprehensive management tools. Seamlessly process transactions using Stripe, ensuring safe and reliable payment processing for users. Utilize the power of the MERN stack and Redux to deliver a robust and scalable pizza delivery application, catering to both user and admin needs effectively.",
+        "keywords": [
+          "MERN Stack",
+          "Redux",
+          "Stripe"
+        ],
+        "endDate": "July 2023",
+        "startDate": "June 2023",
+        "url": "Repo link"
+      },
+      {
+        "name": "Spam Email Classifier",
+        "description": "Seamlessly distinguish spam from legitimate emails using our full-stack application. Built with React for a sleek frontend and Flask to integrate a powerful machine learning model, ensuring efficient email classification. Enhance productivity with our spam email classifier, combining a user-friendly React frontend with a robust Flask backend. Seamlessly integrated machine learning algorithms help accurately filter out spam, keeping inboxes clutter-free.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "React",
+          "Integration"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": "Repo link"
+      },
+      {
+        "name": "Portfolio",
+        "description": "Architected a data management system leveraging MongoDB, resulting in a 50% increase in database efficiency and seamless integration across platforms. Engineered a dynamic frontend using React and Flask for backend operations, optimizing load time by 40% and reducing bounce rate by 25% for enhanced user engagement.",
+        "keywords": [
+          "React",
+          "Flask",
+          "MongoDb"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "Repo link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "JavaScript",
+          "DOM manipulation",
+          "event handling",
+          "asynchronous programming"
+        ],
+        "endDate": "07/2023",
+        "company_name": "CodeClause",
+        "description": "Developed two JavaScript projects- Timer and Stopwatch, and a unit convertor. Implemented advanced JavaScript concepts through hands-on projects focused on DOM manipulation, event handling, and asynchronous programming, enhancing proficiency in building interactive web applications.",
+        "location": "Ghaziabad, UP",
+        "links": "",
+        "startDate": "06/2023"
+      }
+    ],
+    "skills": [
+      "C++/C",
+      "Python",
+      "Javascript",
+      "HTML",
+      "SQL",
+      "Machine learning techniques",
+      "Node.js",
+      "MongoDb",
+      "CSS",
+      "React.js",
+      "Flask",
+      "VS Code",
+      "Git/Github"
+    ],
+    "soft_skills": [],
+    "name": "Harshit Goel",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 250+ DSA questions across the coding platforms like Leetcode, GFG and Codechef.",
+      "2-star coder at Codechef",
+      "4-star at cpp hackerrank."
+    ],
+    "publications": []
+  },
+  "current_location": "Meerut, UP",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of technology"
+}

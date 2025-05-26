@@ -1,0 +1,122 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Pragati Madhav",
+  "college": "Noida Institute of Engineering & Technology",
+  "locations": [
+    "Greater Noida"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms using Python",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering & Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.TECH. IN CSER",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "7.07/10",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Apeejay International School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Greater Noida",
+        "ID": 1.0,
+        "grade_received": "83.8%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Apeejay International School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Greater Noida",
+        "ID": 2.0,
+        "grade_received": "85.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Student Information Updation System",
+        "description": "Developing a platform to ease the workload of student administration and management cell in college. The system allows for the creation and maintenance of detailed student profiles, including personal information, academic records, attendance history and extracurricular activities.",
+        "keywords": [
+          "DBMS",
+          "CSS",
+          "Javascript",
+          "Springboot",
+          "PowerBi",
+          "Ux/Ui"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI Personal Assistant",
+        "description": "The development and implementation of an AI personal assistant leveraging the python programming language. The assistant integrates python libraries to understand user queries, execute tasks, and provide personalized recommendations. AI personal assistant offers a versatile and efficient solution for enhancing productivity and convenience in daily life.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Talking Chatbot",
+        "description": "The chatbots architecture encompasses modules for speech recognition, text preprocessing, sequence to sequence modeling, and response generation. Through TensorFlows deep learning capabilities, the chatbot learns from large datasets to generate coherent and contextually relevant responses, Training data is processed using Numpy arrays to efficiently handle large scale computations, enhancing the chatbots performance and scalability.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "Tensorflow"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "OS Windows",
+      "Java",
+      "Python",
+      "JavaScript",
+      "Webdevelopment",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Pragati Madhav",
+    "position": "",
+    "interests": [
+      "Dancing",
+      "Painting"
+    ],
+    "achievements_and_awards": [
+      "Achieved 3rd position in Tech Sprint (Coding Competition)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.TECH. IN CSER"
+}

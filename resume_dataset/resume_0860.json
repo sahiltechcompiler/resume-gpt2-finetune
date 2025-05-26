@@ -1,0 +1,144 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shivendra Singh H",
+  "college": "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+  "locations": [
+    "Remote, Noida",
+    "Remote, Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "It offers foundational knowledge in database concepts, SQL, and data management practices, equipping learners with essential skills for efficient database handling and administration.",
+        "skillsLearned": [],
+        "title": "Database and Management System",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "This course teaches key data analysis techniques and visualization skills for practical business applications.",
+        "skillsLearned": [],
+        "title": "Data Analytics and Visualization Experiences",
+        "issuer": "Forage",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.9/10",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": "2020"
+      },
+      {
+        "school": "City Montessori School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermidiate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "91.75%",
+        "field_of_study": "ISC",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Medi-Consult",
+        "description": "Developed and implemented a medical app for patients with chronic diseases. The app allows patients to track their symptoms, medications, and appointments. The app was developed using Java, Firebase, Android Studio and MySQL.",
+        "keywords": [
+          "Java",
+          "Firebase",
+          "Android Studio",
+          "MySQL"
+        ],
+        "endDate": "Sept 2022",
+        "startDate": "March 2022",
+        "url": "GITHUB"
+      },
+      {
+        "name": "AR Education",
+        "description": "Developed and implemented an AR Educational App that teaches and allow children to interact with 3D models. Implemented 3D modelling, AR framework and Ui/Ux models using Figma to design the project. App was developed using the following technologies like Java, Unity, Vuforia, Figma Software and MySQL Database.",
+        "keywords": [
+          "Java",
+          "Unity",
+          "Vuforia",
+          "Figma",
+          "MySQL"
+        ],
+        "endDate": "May 2023",
+        "startDate": "February 2023",
+        "url": "GITHUB"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Java Intern",
+        "skillsUsed": [
+          "Java",
+          "OOPs concept",
+          "API",
+          "User Interface Design"
+        ],
+        "endDate": "2024",
+        "company_name": "Shape My Skills",
+        "description": "Designed and built a Weather Application( Weather Report) using Application programming interface(API). The app provides you with the details of weather elements i.e.temperature and phases of moon. The app also come with animated sunrise and sunset modules.",
+        "location": "Remote, Noida",
+        "links": "",
+        "startDate": "2020"
+      },
+      {
+        "role_name": "Java Programming Intern",
+        "skillsUsed": [
+          "Java programming",
+          "Object-oriented programming",
+          "Databases",
+          "Git/GitHub"
+        ],
+        "endDate": "July 2023",
+        "company_name": "CodSoft",
+        "description": "Intern in Java programming with a solid command of the language and the concepts of object-oriented programming. Knowledgeable about dealing with databases and online technologies, as well as creating and debugging Java programs. Created several efficient standard operation procedures (SOPs) including ATM interface and Address Book System.",
+        "location": "Remote, Delhi",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "SQL",
+      "Html",
+      "CSS",
+      "JS",
+      "Bootstrap",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Android Studio",
+      "VS Code",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Shivendra Singh H",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,110 @@
+{
+  "project_count": 4.0,
+  "designation": "Passionate Developer",
+  "name": "Jenish Savaliya",
+  "college": "MIT World Peace University",
+  "locations": [
+    "Pune"
+  ],
+  "full_output": {
+    "summary": "I am a Computer Science student who is here to obtain a challenging and rewarding position in the company that utilize my Interest and skills to contribute to the company. I am eager to apply my relevant education to exceed expectations and grow both professionally and personally. I am a process-oriented individual with a diverse background and persist talent for adapting new challenges.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MIT World Peace University",
+        "endDate": "06/2024",
+        "maximum_grade": "",
+        "degree": "MCA",
+        "location": "Pune",
+        "ID": 0.0,
+        "grade_received": "8.88",
+        "field_of_study": "",
+        "startDate": "06/2022"
+      },
+      {
+        "school": "GLS University",
+        "endDate": "06/2022",
+        "maximum_grade": "",
+        "degree": "BCA",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "7.84",
+        "field_of_study": "",
+        "startDate": "06/2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce Application with AR",
+        "description": "Created a feature-rich Flutter e-commerce application, integrating Firebase as the backend solution and seamlessly incorporating various APIs. The app facilitates a user-friendly shopping experience, offering robust features such as product browsing, cart management, secure payments, and order tracking.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AdBot",
+        "description": "Developed a versatile chatbot leveraging the ChatGPT API to provide comprehensive answers to user queries. Additionally, integrated Firebase to enable on-demand image generation, offering a wide range of image customization options.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Crop Yield Prediction Model",
+        "description": "Successfully designed and implemented a robust crop yield prediction model using advanced machine learning techniques. Leveraged historical weather data, soil information, and crop-specific features to create a predictive model with a high degree of accuracy. The model's performance was validated through rigorous testing and achieved an impressive 91% accuracy.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Caarify",
+        "description": "Developed an Android Car Service App in Kotlin with Firebase Authentication for secure user access, Firebase Realtime Database for real-time updates, and Google Maps integration for location-based services. Achieved optimal code efficiency, passing all test cases and ensuring exceptional app performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer",
+        "skillsUsed": [
+          "Flutter",
+          "Swift",
+          "Python",
+          "MySQL"
+        ],
+        "endDate": "06/2024",
+        "company_name": "Drodify",
+        "description": "Developed robust Flutter and iOS applications using Swift, enhancing user experience and performance with responsive UI components using AutoLayout and UIKit. Utilized architectural patterns such as MVC and MVVM to ensure clean, maintainable, and scalable codebases. Gained hands-on experience in developing, maintaining, and testing RESTful APIs using Flask, ensuring robust backend services. Proficient in managing MySQL databases on AWS RDS, focusing on data integrity, security, and performance optimization. Implemented CI/CD pipelines for automated deployment using tools like GitHub Actions, streamlining the development and release process. Deployed applications on the Google Play Store, following best practices to ensure high availability and seamless updates.",
+        "location": "",
+        "links": "linkedin.com/in/jenish-savaliya-53b19b22a",
+        "startDate": "01/2024"
+      }
+    ],
+    "skills": [
+      "Flutter",
+      "Swift",
+      "Python",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Jenish Savaliya",
+    "position": "Passionate Developer",
+    "interests": [
+      "Sports",
+      "Traveling",
+      "Movies/Shows"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Pune, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "MCA"
+}

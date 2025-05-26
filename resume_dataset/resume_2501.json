@@ -1,0 +1,118 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shanthi Reddy Yannapoosala",
+  "college": "SRM University,AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Im Shanthireddy, hailing from a nuclear family of four. My hometown, Anantapur, is where I completed my schooling. For my intermediate education, I attended Sri Chaitanya Institutes in Vijayawada. I possess a natural curiosity and enthusiasm for learning new things. I take pride in my ability to grasp unfamiliar concepts effectively, focusing more on understanding rather than speed.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University,AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.00/10",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "AP Board",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "97.8",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "AP Board",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10GPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Instant Wave",
+        "description": "Developed Instant Wave, an advanced online communication platform that revolutionizes virtual meetings, utilizing cutting-edge technologies such as Tailwind CSS, TypeScript, and Next.js. Implemented robust user authentication with Clerk JS and ensured seamless audio and video streaming with Stream.io. Built a performant backend using Node.js and Express.js, and crafted an intuitive and responsive UI with Shad CN. The platform enables high-quality audio and video meetings, comparable to industry standards like Zoom, enhancing user experience and productivity.",
+        "keywords": [
+          "Tailwind CSS",
+          "TypeScript",
+          "Next.js",
+          "Clerk JS",
+          "Stream.io",
+          "Node.js",
+          "Express.js",
+          "Shad CN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Sentimental Analysis",
+        "description": "I have done a Twitter sentiment analysis project, employing NLP techniques like tokenization and lemmatization for data preprocessing. Utilizing Logistic Regression, SVM, and Navie Bayes algorithms, I classified sentiments as positive or negative, revealing intricate user behaviors. Through this analysis, I deciphered patterns in sentiment trends, offering profound insights into user engagement dynamics on Twitter. This project showcased my proficiency in NLP, machine learning, and data analysis, highlighting my ability to derive actionable insights from social media data.",
+        "keywords": [
+          "NLP",
+          "Logistic Regression",
+          "SVM",
+          "Navie Bayes"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Amazon Clone Website",
+        "description": "Developed a functional clone of the Amazon website using HTML and CSS. Implemented responsive design principles for seamless adaptation across devices.Used HTML and CSS skills to copy how Amazon looks. Added buttons and ways to find products like on Amazon. Made it look nice using styles with CSS.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "NodeJS",
+      "ExpressJS",
+      "ReactJS",
+      "SQL",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "Shanthi Reddy Yannapoosala",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

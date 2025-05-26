@@ -1,0 +1,160 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "RAJAT GUPTA",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad",
+    "Uttar Pradesh",
+    "INDIA"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic software developer with expertise in C++ and full-stack development,proficient in both front-end and back-end technologies.Skilled in building responsive and scalable web applications using HTML,CSS,JavaScript, Re- act, Node.js and Express.Committed to delivering high-quality code and continuously enhancing my expertise in both C++ programming and web development frameworks to drive project success and contribute effectively to team objectives.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for data analysis",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google cloud computing foundation",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering with Data Science",
+        "startDate": ""
+      },
+      {
+        "school": "VKS Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "VKS Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Health Webpage Template",
+        "description": "Developed a responsive and user-friendly health webpage using HTML,CSS and Bootstrap framework.(View Project)",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Login Page with Validation",
+        "description": "Developed a secure and user-friendly login page with validation using HTML,CSS and JavaScript for the front-end,and MongoDB for the back-end database. Implemented client-side and server- side validation to ensure data integrity and prevent unauthorized access.(View Project)",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Amazon Clone",
+        "description": "Developed a full-stack e-commerce web application including user authentication,product listings,shopping cart functionality, and checkout process. Implemented form validation to ensure data integrity and enhance user experience.(View Project)",
+        "keywords": [
+          "MongoDB",
+          "Express.js",
+          "React.js",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [
+          "DSA",
+          "C++",
+          "BASIC PYTHON",
+          "HTML",
+          "CSS",
+          "OOPS",
+          "MERN",
+          "SQL",
+          "JavaScript"
+        ],
+        "endDate": "Jan 2024",
+        "company_name": "Drivenest Services",
+        "description": "Assisted the data analytics team in collecting, cleaning, and analyzing large datasets using tools such as Excel,and Python Libraries.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov 2023"
+      }
+    ],
+    "skills": [
+      "Data Science Tools",
+      "Web Scraping",
+      "Development Tools",
+      "Operating Systems",
+      "Software Packages"
+    ],
+    "soft_skills": [
+      "Problem-solving",
+      "Team-work",
+      "Critical Thinking",
+      "Time Management"
+    ],
+    "name": "RAJAT GUPTA",
+    "position": "",
+    "interests": [
+      "Providing guidance in Mathematics",
+      "Acquiring new skills",
+      "Badminton",
+      "Gaming"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ghaziabad,Uttar Pradesh,INDIA",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

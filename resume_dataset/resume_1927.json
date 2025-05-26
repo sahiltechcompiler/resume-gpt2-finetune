@@ -1,0 +1,249 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "POOJA SUDESAN",
+  "college": "Shah & Anchor Kutchhi Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java training",
+        "issuer": "Spoken Tutorial Project, IIT Bombay",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MySQL",
+        "issuer": "Spoken Tutorial Project, IIT Bombay",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analytics certificate",
+        "issuer": "ICT Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Cloud Platform (GCP) Skills Boost",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Salesforce Certified Developer",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Apex Specialist",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Process Automation Specialist",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah & Anchor Kutchhi Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.52/10",
+        "field_of_study": "Information Technology",
+        "startDate": "2020"
+      },
+      {
+        "school": "Maharashtra State Board",
+        "endDate": "February 2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87.08 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Maharashtra State Board",
+        "endDate": "March 2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93.20 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Skin Lesion Classification",
+        "description": "Implemented an ensemble stacking deep learning model for accurate classification of various types of skin lesions, complemented by a user-friendly GUI interface for image upload and classification.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Health Risk Estimator",
+        "description": "Implemented ensemble stacking machine learning model for predicting heart disease and diabetes, providing binary classification outcomes and probability estimates based on user-entered parameters.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Learning web-based application",
+        "description": "Designed and developed a system that includes built-in Q&A and online course capability.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Employee Management System",
+        "description": "Developed a system that keeps records of employee details and attendance through the database.",
+        "keywords": [
+          "Java",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [
+          "React",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "March 2023",
+        "company_name": "Edunet Foundation",
+        "description": "Developed a visually appealing e-commerce website using React, HTML, CSS, and JavaScript, focusing on user interface design and functionality across multiple platforms.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2023"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [
+          "Python",
+          "OpenCV"
+        ],
+        "endDate": "March 2023",
+        "company_name": "Sustainable Living Lab (SL2)",
+        "description": "Demonstrated proficiency in developing and implementing various AI/ML models for real-world problem-solving, including model selection, training, and evaluation. Developed a computer vision model using Python and OpenCV to collect customer demographic information at an automated car wash, expanded the dataset with web scraping for 9 common car brands, and successfully trained the model to identify both brands and customer demographics from car wash images.",
+        "location": "",
+        "links": "",
+        "startDate": "February 2023"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "November 2022",
+        "company_name": "Shah & Anchor Kutchhi Engineering College",
+        "description": "International joint internship with the Department of Architecture (DiARC), University of Naples Federico II, Italy. Developed a Land-Use Land-Cover Classification model utilizing the Classification and Regression Tree Algorithm on the Google Earth Engine cloud platform to determine the trend of land use and land cover changes and published a research paper based on the experimental results.",
+        "location": "",
+        "links": "",
+        "startDate": "September 2022"
+      },
+      {
+        "role_name": "Salesforce Developer Intern",
+        "skillsUsed": [
+          "Apex"
+        ],
+        "endDate": "September 2022",
+        "company_name": "AICTE - Salesforce",
+        "description": "Developed, maintained and created validation rules, custom workflows, custom objects, fields, and formulas. Enhanced efficiency through automated workflows, including time-triggered tasks, email alerts, and field updates. Utilized Apex coding skills to address complex business logic and integration requirements, including scheduling routine maintenance checkups, and performing effective software development and testing.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "Nodejs",
+      "Git"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Presentation",
+      "Team Management",
+      "Leadership",
+      "Analytical and Problem solving"
+    ],
+    "name": "POOJA SUDESAN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart India Hackathon 2023 Grand Finalist",
+      "attended NETSCOUT Tech for Good Hackathon 2023",
+      "Public Relations Officer at Institutions Innovation Council (IIC 5.0) of my college"
+    ],
+    "publications": [
+      "\"Land Use Land Cover Classification using Machine Learning,\" 2022 International Conference on Automation, Computing and Renewable Systems (ICACRS), Pudukkottai, India, 2022, pp. 708-711, doi:10.1109/ICACRS55517.2022.10029176. IEEE"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 4.0,
+  "degree": "Bachelor of Engineering"
+}

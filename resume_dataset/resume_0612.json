@@ -1,0 +1,160 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "GLASTON VELVARTS",
+  "college": "Maharaja Agrasen Institute Of Technology (GGSIPU)",
+  "locations": [
+    "New Delhi",
+    "Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "GDSC MAIT | MAIT, Delhi - Participated in events to expand knowledge and network within the tech community. Contributed to cross-functional initiatives for project success."
+    ],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute Of Technology (GGSIPU)",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Current GPA: 8.7/10.0",
+        "field_of_study": "ECE",
+        "startDate": "Aug 2021"
+      },
+      {
+        "school": "St Columbas School",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "91.2%",
+        "field_of_study": "CBSE",
+        "startDate": "Jun 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "BookDash (Ticket booking site)",
+        "description": "Designed a site to aggregate fares from multiple platforms, directing users to the best prices. Integrated frontend and backend for streamlined travel bookings.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Node.js",
+          "Express.js",
+          "MySQL"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Brain Tumor Detection",
+        "description": "Developed an MRI Brain Tumor Detection System using image processing and deep learning.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Tensorflow",
+          "CNN",
+          "VGG-16"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ebola Virus Analysis",
+        "description": "Conducted SVM analysis on Ebola data using Julia for advanced processing and visualization.",
+        "keywords": [
+          "Julia"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "UK-Bank Analysis",
+        "description": "Analyzed the UK banking sector using Tableau, extracting actionable insights.",
+        "keywords": [
+          "Tableau"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Credit Card Fraud Detection",
+        "description": "Performed data cleaning and outlier removal. Used feature engineering to develop an XGBoost model, enhancing fraud detection accuracy.",
+        "keywords": [
+          "Python",
+          "XGBoost"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "Delhi Metro Rail Corp",
+        "description": "Analyzed metro system operations, focusing on signaling and operational expertise. Gained practical insights into metro network complexities.",
+        "location": "New Delhi, On-Site",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "MAIT",
+        "description": "Developed an MRI Brain Tumor Detection System, improving accuracy by 10% through CNN and VGG architectures. Reviewed and analyzed existing literature. Tested models on diverse datasets, achieving significant accuracy enhancement.",
+        "location": "Delhi, Remote",
+        "links": "",
+        "startDate": "Jul 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C/C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Julia",
+      "Node.js",
+      "Express.js",
+      "SQL",
+      "Machine Learning",
+      "FastAPI",
+      "BeautifulSoup",
+      "Git/GitHub",
+      "SQL Server",
+      "Tableau"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Critical Thinking",
+      "Communication",
+      "Problem Solving",
+      "Analytical Skills"
+    ],
+    "name": "GLASTON VELVARTS",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

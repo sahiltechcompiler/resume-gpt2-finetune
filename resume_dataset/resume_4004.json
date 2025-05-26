@@ -1,0 +1,128 @@
+{
+  "project_count": 7.0,
+  "designation": "Data Analyst",
+  "name": "ASHUTOSH KUMAR",
+  "college": "Chitkara University",
+  "locations": [
+    "Solan (H.P)"
+  ],
+  "full_output": {
+    "summary": "Detail-oriented and analytical Data Analyst with a strong foundation in Computer Science Engineering. Proficient in leveraging data analysis techniques, SQL, and business intelligence tools to extract actionable insights and drive strategic decision-making. Experienced in gathering requirements, analyzing complex datasets, and presenting findings to stakeholders effectively. Committed to continuous improvement and innovation, with a keen eye for detail and a passion for solving business problems through data-driven solutions.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chitkara University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Computer Science Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "GSSS-Gullarwala",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "Solan (H.P)",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Car Price Prediction",
+        "description": "Predict car prices using Machine Learning techniques. Analyzed features, trained Random forest model with R2 Score of 95.83 for accurate predictions, offering valuable insights for buyers/sellers.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Taxi Fare Prediction",
+        "description": "Developed a model for taxi fare prediction using Random forest. Trained models to accurately predict fares for passengers.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Heart Disease Risk",
+        "description": "Utilized data science to predict heart disease risk. Analyzed medical features, trained models to aid in early detection and prevention.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Vaccine Prioritization Project",
+        "description": "Implemented logistic regression for vaccine prioritization. Analyzed demographic & health data to suggest optimal vaccination sequences for population health.",
+        "keywords": [],
+        "endDate": "2020",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Name Match Scoring",
+        "description": "Implemented name matching algorithm to compare Aadhar card names with PAN card names. Calculated similarity scores to quantify the level of match between the two strings, aiding in identity verification processes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MPIN Security",
+        "description": "Developed an MPIN strength assessment system to evaluate security levels. Analyzed complexity and uniqueness to ensure robustness, safeguarding customer accounts from common and easily guessed MPINs.",
+        "keywords": [],
+        "endDate": "2018",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Loan Eligibility",
+        "description": "Predicting loan eligibility using data analysis. Assessing applicant profiles to determine creditworthiness and inform lending decisions accurately.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "German",
+      "English"
+    ],
+    "experiences": [],
+    "skills": [
+      "Data Analysis",
+      "SQL",
+      "Excel",
+      "Tableau",
+      "Power BI",
+      "Machine Learning",
+      "Python"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Critical Thinking",
+      "Communication",
+      "Curiosity",
+      "Quick Learner",
+      "Proactive problem solving"
+    ],
+    "name": "ASHUTOSH KUMAR",
+    "position": "Data Analyst",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Bhadsali DIstt. Una HP",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Computer Science Engineering"
+}

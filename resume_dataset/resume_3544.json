@@ -1,0 +1,144 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SAURABH MAURYA",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad",
+    "Sikandarpur",
+    "Ambedkar Nagar, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "GPA:7.2",
+        "field_of_study": "Information Technology",
+        "startDate": "2020"
+      },
+      {
+        "school": "New Light Academy",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage:75.80 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "New Light Academy",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage:81.67 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Study Notion",
+        "description": "Created online education platform student can buy dierent courses. Admin created category of courses and manage student,instructor account. Integrated payment functionality to allow users to make payment. Integrated Restful api with help of express.js. Instructor create courses,upload lecture and add study material content.",
+        "keywords": [
+          "React.js",
+          "Tailwind",
+          "Express.js",
+          "Node.js",
+          "MongoDB",
+          "Payment GateWay"
+        ],
+        "endDate": "Present",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "online Shopping website",
+        "description": "Its seems to simple shopping website. user can view product and add to cart the product. user also checkout product in add cart section.",
+        "keywords": [
+          "React JS",
+          "tailwind",
+          "Redux-toolkit",
+          "Api"
+        ],
+        "endDate": "Feb 2023",
+        "startDate": "Oct 2022",
+        "url": ""
+      },
+      {
+        "name": "Weather App",
+        "description": "It provides temperature, wind speed, humidity, cloud information. It Gives two option to find weather option. First is current location. Second is Search bar to search specific location.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "API use",
+          "Geo Location Api"
+        ],
+        "endDate": "Jun 2022",
+        "startDate": "Mar 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Internship",
+        "skillsUsed": [
+          "javascript",
+          "html",
+          "css"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Digital Bhem!",
+        "description": "Web Development With javascript. Learn html, css, javascript more depth. digital bheem provide dierent type of task to create that particular pages.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Basic Java",
+      "HTML",
+      "CSS",
+      "Tailwind",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "SQL",
+      "MongoDB",
+      "RESTfulAPIs",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "SAURABH MAURYA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "6th rank in college on GFG",
+      "3* coder on codechef",
+      "8th rank in college on codecaze contest",
+      "850+ problem solve in various platform"
+    ],
+    "publications": []
+  },
+  "current_location": "Ambedkar Nagar, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

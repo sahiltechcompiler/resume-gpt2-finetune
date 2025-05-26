@@ -1,0 +1,186 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Harsh Raj",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Noida, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Member and active participant in coordination of ISTE(Indian Society For Technical Education).",
+      "Organized a coding fest Terror of Error and a technical debate competition LogicLore Debate at my college."
+    ],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Noida, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "AN College Patna",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "77",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Patliputra Central School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "81",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "On Road Vehicle Breakdown Assistant",
+        "description": "A website connecting users with nearby mechanics for vehicle breakdowns using location services. Users can pin their location, receive mechanic notifications, and access self-assistance for minor vehicle issues. Built with HTML5, CSS3, JavaScript, and Firebase.",
+        "keywords": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real Time chat Application",
+        "description": "A real-time chat application built with Spring Boot and WebSocket, offering robust, scalable architecture. Users can join, chat, and leave rooms seamlessly, enabling interactive real-time communication.",
+        "keywords": [
+          "Spring Boot",
+          "WebSocket"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Driver Drowsiness Detection",
+        "description": "A deep learning-based project for detecting driver drowsiness. It utilizes advanced algorithms to monitor and identify signs of fatigue, enhancing road safety by alerting drivers before drowsiness affects their driving performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "College Management System",
+        "description": "A comprehensive online platform for seamless communication, academic performance tracking, and resource management for students, teachers, and administrators. Built with Django, Bootstrap, Javascript, Python, HTML5, CSS3.",
+        "keywords": [
+          "Django",
+          "Bootstrap",
+          "Javascript",
+          "Python",
+          "HTML5",
+          "CSS3"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [
+          "React.js",
+          "Redux"
+        ],
+        "endDate": "",
+        "company_name": "Celebal Technologies",
+        "description": "Developed and maintained user interfaces with React.js and related libraries. Worked with the design team to convert mockups into responsive UIs. Assisted in debugging and performance optimization. Utilized Redux for state management to handle complex application states effectively.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [
+          "HTML5",
+          "CSS3",
+          "JAVASCRIPT"
+        ],
+        "endDate": "",
+        "company_name": "Baskethunt Pvt Ltd",
+        "description": "Worked as Web Developer and created new websites using HTML5, CSS3, JAVASCRIPT. Based on my performance I was promoted to Trainer.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [
+          "HTML5",
+          "CSS3",
+          "JAVASCRIPT"
+        ],
+        "endDate": "",
+        "company_name": "CodSoft",
+        "description": "Worked as Web Developer and created new websites using HTML5, CSS3, JAVASCRIPT.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Django",
+      "React",
+      "Nodejs",
+      "MYSQL",
+      "MongoDB",
+      "Data Structures",
+      "Algorithms",
+      "OOPs",
+      "OS",
+      "Database",
+      "Problem-Solving"
+    ],
+    "soft_skills": [
+      "Planning",
+      "Organizing",
+      "Commitment",
+      "Self-Motivation",
+      "Discipline",
+      "Willingness to Work",
+      "Open to Feedback"
+    ],
+    "name": "Harsh Raj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Got certified in Microsoft AI Odyssey Challenge 2024.",
+      "Got certified in Python on HackerRank.",
+      "Have been an active participant in the extra-curricular activities organized at school and have won prizes for debate and various sports competitions."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

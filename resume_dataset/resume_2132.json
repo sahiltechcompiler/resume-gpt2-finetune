@@ -1,0 +1,159 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "AKSHAY LOHAR",
+  "college": "University Of Mumbai",
+  "locations": [
+    "Navi Mumbai, Kharghar",
+    "Kharghar, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis",
+        "issuer": "Amazon",
+        "certiLink": "[Link]"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis with Python",
+        "issuer": "IBM",
+        "certiLink": "[Link]"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "White Hat Hacker And Pen Tester",
+        "issuer": "",
+        "certiLink": "[Link]"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CompTIA A+",
+        "issuer": "",
+        "certiLink": "[Link]"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "University Of Mumbai",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Science And Engineering",
+        "location": "Navi Mumbai, Kharghar",
+        "ID": 0.0,
+        "grade_received": "CGPA  7.45/10 ( VII-Sem )",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Gargoti",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Diploma in Electrical Engineering",
+        "location": "India",
+        "ID": 1.0,
+        "grade_received": "Marks  ( 62.61 % )",
+        "field_of_study": "",
+        "startDate": "2015"
+      },
+      {
+        "school": "",
+        "endDate": "2014",
+        "maximum_grade": "",
+        "degree": "10Th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Marks  (62.49 % )",
+        "field_of_study": "",
+        "startDate": "2013"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Industrial IOT Automation",
+        "description": "The IoT Industrial Automation System represents a groundbreaking convergence of digital technology and industrial processes. This system harnesses the power of a MERN (MongoDB, Express.js, React, and Node.js) web application with REST API Implementation to create a comprehensive and user-friendly dashboard for monitoring and controlling sensor(ESP8266) data and relay actuators over the internet. The hardware driving this system is centred around the NodeMCU ESP8266, a versatile microcontroller, paired with sensors like the DHT11, which records temperature and humidity, and the BMP180, responsible for capturing atmospheric pressure and altitude data.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "June 2023",
+        "url": ""
+      },
+      {
+        "name": "Country Guide Web Web Application",
+        "description": "This app consists of a search bar. The user enters the name of the country to be searched for in this input field and clicks on the search button. On hitting search, we display a list of common information about that country including an image of the countrys flag. This page Build on HTML, CSS, JS and FireBase, Api Student may different country information at a one platform. In this website Easy learn , easy to understand by in anyone.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "June 2022",
+        "url": ""
+      },
+      {
+        "name": "Historical Information Web Web Application",
+        "description": "This page build on HTML, CSS, Js . This app consist of a getting Main country information for the in web page and click this country and get the full historical information on web page. There are getting full historical information on this site.",
+        "keywords": [],
+        "endDate": "2022",
+        "startDate": "June 2021",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "UI-UX Internship",
+        "skillsUsed": [],
+        "endDate": "6/23",
+        "company_name": "PHN Technology pvt. Ltd.",
+        "description": "This program was designed to provide valuable hands-on experience and practical knowledge in Designing (UI/UX, Graphic Design). Through active participation and dedication, he/she has demonstrated exceptional skills, commitment, and a strong work ethic. actively contributed to Designing (UI/UX, Graphic Design) and exhibited professionalism, adaptability, and a willingness to learn. Their enthusiasm and positive attitude have made a significant impact on the overall success of the program.",
+        "location": "Kharghar, India",
+        "links": "[Link]",
+        "startDate": "4/23"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "Css",
+      "JavaScript",
+      "Python",
+      "C++",
+      "C",
+      "SQL",
+      "MySQL",
+      "Bash Scripting (Shell scripting)",
+      "Excel",
+      "Gantt Chart",
+      "Pie Chart",
+      "CCNA",
+      "CCNP",
+      "QoS",
+      "VLAN",
+      "Network Security",
+      "Palo-Alto Firewall",
+      "UI-UX",
+      "IOT",
+      "Data Analysis"
+    ],
+    "soft_skills": [],
+    "name": "AKSHAY LOHAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Computer Science And Engineering"
+}

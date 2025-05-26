@@ -1,0 +1,151 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Nishant Lamichhane",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "8.46 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Doon Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CBSE",
+        "location": "Delhi, India",
+        "ID": 1.0,
+        "grade_received": "95.60%",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      },
+      {
+        "school": "Doon Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE",
+        "location": "Delhi, India",
+        "ID": 2.0,
+        "grade_received": "88.44%",
+        "field_of_study": "Class X",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "PayTM - online wallet platform",
+        "description": "Integrated React Router DOM in the frontend to enable client-side routing, enhancing the user experience with smooth page transitions and URL handling. Ensured data integrity and consistency by implementing transactions in DBMS, using mongoose library.",
+        "keywords": [
+          "React js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "JWT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "[Link]"
+      },
+      {
+        "name": "BlogBuster - blogging web app",
+        "description": "Used Cloudflare workers with Hono library in Typescript for serverless backend operations (deployed on Cloudflare). Implemented user authentication, blog creation, viewing and updating functionalities, and user profile management.",
+        "keywords": [
+          "React js",
+          "Typescript",
+          "Tailwind",
+          "Cloudflare",
+          "PostgreSQL",
+          "Prisma ORM"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "[Link]"
+      },
+      {
+        "name": "Video Calling website - WebRTC calling",
+        "description": "Facilitated real-time direct peer to peer communication between 2 users, leveraging WebRTC for audio and video streaming and Socket.io for signaling. Integrated native WebRTC for audio and video streaming, utilized client and server side Socket.io for signaling to facilitate communication and coordinate video call initiation.",
+        "keywords": [
+          "HTML",
+          "JavaScript",
+          "WebRTC",
+          "Node.js",
+          "Socket.io"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "[Github Link]"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "PHP Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Miracuves Solutions Pvt. Ltd.",
+        "description": "Worked on 10+ web solutions for businesses to enhance business online presence and functionality. Created user-friendly, visually appealing and responsive frontends for various business websites, ensuring optimal performance across different screen sizes. Promptly modified and updated frontend designs based on provided references with 90% accuracy, improving the efficiency of design implementation. Collaborated with team members to deliver high quality solutions on time. Seamlessly integrated backend functionalities with the frontend, ensuring efficient data retrieval and display.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Java",
+      "JavaScript/TypeScript",
+      "Python",
+      "OOPs",
+      "DBMS",
+      "SQL",
+      "Data Structures & Algorithms",
+      "Computer Networks",
+      "Operating Systems",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Tailwind",
+      "JavaScript",
+      "EJS Templating engine",
+      "ReactJS",
+      "Recoil",
+      "Next js",
+      "Node.js",
+      "Express.js",
+      "TypeScript",
+      "Hono Library for Cloudflare workers",
+      "MongoDB/Mongoose",
+      "PostgreSQL/Prisma",
+      "WebRTC",
+      "WebSockets with Socket.io",
+      "Docker"
+    ],
+    "soft_skills": [],
+    "name": "Nishant Lamichhane",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated and reached the final round of college hackathon - HackWithMait 5.0",
+      "Participated in Flipkart Grid 5.0"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

@@ -1,0 +1,140 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Developer",
+  "name": "TUSHAR SAHANI",
+  "college": "KIET Groups of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Gorakhpur, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Currently serving as a Web Developer at Innogeeks, contributing to web development projects and initiatives.",
+      "Successfully managed club activities and actively volunteered in events such as Hackathons and Bootcamps."
+    ],
+    "education": [
+      {
+        "school": "KIET Groups of Institutions",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Center Hindu School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Score: 85.4%",
+        "field_of_study": "Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Youtube Clone",
+        "description": "Developed a YouTube web app using React.js, Redux, and Tailwindcss. Optimized performance with caching, debouncing, API polling, and routing techniques. Implemented features such as a search bar, comments, and live chat on YouTube.",
+        "keywords": [
+          "ReactJs",
+          "Redux",
+          "Tailwindcss",
+          "APIs"
+        ],
+        "endDate": "Oct 2023",
+        "startDate": "Sep 2023",
+        "url": ""
+      },
+      {
+        "name": "Portfolio",
+        "description": "Crafted portfolio website using ReactJs and Tailwindcss, optimized with React Router DOM for seamless navigation. Leveraged Docker for streamlined setup, deployed on Netlify. Implemented responsive design to elevate cross-device viewing, and interface drive user engagement.",
+        "keywords": [
+          "ReactJs",
+          "MaterialUI",
+          "Tailwindcss",
+          "Netlify",
+          "Docker"
+        ],
+        "endDate": "Jul 2023",
+        "startDate": "Jun 2023",
+        "url": ""
+      },
+      {
+        "name": "RANN Sports Fest",
+        "description": "Developed a website for an Inter College Sports Fest, excelling as the Frontend Developer in creating the UI. Achieved 1500+ student registrations from various colleges in various sports, demonstrating effective outreach and engagement strategies. Demonstrated proficiency in frontend development, delivering a seamless user experience for the event.",
+        "keywords": [
+          "HTML",
+          "SCSS",
+          "JavaScript",
+          "Django",
+          "MySQL",
+          "AWS EC2"
+        ],
+        "endDate": "Mar 2023",
+        "startDate": "Feb 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Protut",
+        "description": "Developing the frontend of Protuts edtech platform using React.js and Tailwindcss, enhancing user experience, and optimizing functionality.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Nov 2021"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "CISCO Virtual Internship",
+        "description": "Acquired knowledge in Cyber Security fundamentals during the internship. Evaluated college network, pinpointed vulnerabilities and recommended enhanced cybersecurity framework. Designed a college campus network blueprint using Cisco Packet Tracer.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "HTML/CSS",
+      "JavaScript",
+      "Reactjs",
+      "Tailwindcss",
+      "Nextjs",
+      "Django",
+      "MySQL",
+      "Java",
+      "Rest API",
+      "Docker",
+      "TypeScript"
+    ],
+    "soft_skills": [
+      "Data Structures and Algorithm",
+      "Operating Systems",
+      "Strong organizational and teamwork skills"
+    ],
+    "name": "TUSHAR SAHANI",
+    "position": "Web Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Contributed to open-source djangoproject.com with 2 merged PRs.",
+      "Contributed to Layer5 website.",
+      "Achieved 1st Runner-up position in an Inter College Cultural Fest, demonstrating excellence in cultural activities."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

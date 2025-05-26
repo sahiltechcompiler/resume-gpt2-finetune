@@ -1,0 +1,183 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ALOK ANKIT",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA Switching, Wireless and Routing Essentials",
+        "issuer": "Cisco academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Networking Essentials",
+        "issuer": "Cisco networking academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Intro to OOP",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ordered Data Structures",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C for everyone",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "oracle database foundation",
+        "issuer": "Oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SE virtual Experience",
+        "issuer": "Forage",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Expected May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE IOT and IS (Hons.)",
+        "startDate": "Oct 2021"
+      },
+      {
+        "school": "St. Michael's High School",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "Jun 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Topic Modeling and Grouping Similar Documents",
+        "description": "Using Clustring algorithms Latent Dirichlet Allocation (LDA) and K-means for grouping similar documents in large text corpora. The process involves preparation, Choosing K, Model Training and Interpretation. Both LDA and K-means have their strengths and are chosen based on the specific needs of the analysis, such as the desire for probabilistic topic distribution (LDA) or hard clustering (K-means).",
+        "keywords": [],
+        "endDate": "July 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Metro Rail",
+        "description": "Program is implemented using Graph and Heap data structures.The graph has nodes and edges. Nodes represent a metro station that will be containing certain information regarding that station like its name, its metro corridor, and the lines which it connects. Edges (the connection between two nodes) represent the distance between the two stations and the cost of each edge will be equal to the distance between the two of its connecting stations(nodes). using different algorithms like Dijkstra, breadth-first search, depth-first search, etc, the shortest path between the source station and the destination station is determined, and accordingly, the fare is being calculated on the basis of it.",
+        "keywords": [],
+        "endDate": "Mar 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Vehicle Detection and counting System",
+        "description": "Using OpenCV is to develop a robust and efficient solution for automated monitoring of traffic. Image Processing techniques by OpenCV to accurately detect vehicles. Ensure Real time processing, AWS IoT manages data transmission, Management and storage. MySQL is used for database system. User interface and dashboard using HTML and CSS.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "Sep 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Internship",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Learned about the basic concepts of data science using python, basic ML and different clustering techniques. Created house price prediction model using AI and basic concepts of ML. Use Latent Dirichlet Allocation (LDA) and K-means for topic modeling and grouping similar documents in large text corpora.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Content researcher and Developer Internship",
+        "skillsUsed": [],
+        "endDate": "Mar 2023",
+        "company_name": "TeensNEST",
+        "description": "Helped in Improving the reach of the community using effective content for audience attraction. Wrote more than 10 articles for increasing the engagement of the website. Used technical skill such as HTML, CSS to optimize website functionality. Learned about web development projects.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "Data science",
+      "Data Structure and algorithms",
+      "Python",
+      "C++",
+      "Basic ML",
+      "HTML",
+      "CSS",
+      "OOPS",
+      "RDBMS",
+      "MySQL",
+      "OS"
+    ],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Strategic Planning",
+      "Problem Solving",
+      "Pressure Handling"
+    ],
+    "name": "ALOK ANKIT",
+    "position": "",
+    "interests": [
+      "Fitness",
+      "Cricket",
+      "Podcasts (Ranveer Allahbadia)",
+      "Table Tennis",
+      "Politics"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

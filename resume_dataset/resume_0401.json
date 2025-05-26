@@ -1,0 +1,127 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Abhinav Sairam",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Developer",
+        "issuer": "Salesforce",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Micro Certification",
+        "issuer": "ServiceNow",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI Skills Challenge Certification",
+        "issuer": "Microsoft",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "",
+        "maximum_grade": "10",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.19/10",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "",
+        "maximum_grade": "10",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "9.0/10",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Narayana School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Secured chat application",
+        "description": "Developed a chat application using socket programming and encrypted message using AES key encryption protocol.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bike sharing demand prediction using ML",
+        "description": "Used machine learning model to predict the number of bike rentals.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AWS (APSSDC)",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Amazon",
+        "description": "Designed and implemented scalable AWS solutions, ensuring seamless migrations, peak performance, and optimized resource usage. Provided expertise in cloud-native architecture and security, leveraging AWS automation tools to enhance infrastructure provisioning efficiency while staying current with AWS innovations.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Pyth",
+      "SQL",
+      "Java",
+      "Web Development",
+      "Data Structures",
+      "Cloud Computing",
+      "Software Engineering"
+    ],
+    "soft_skills": [],
+    "name": "Abhinav Sairam",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

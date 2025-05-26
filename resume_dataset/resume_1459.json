@@ -1,0 +1,169 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "DHRUV UPADHYAY",
+  "college": "KIET Group Of Institutions",
+  "locations": [
+    "Ghaziabad(AKTU)",
+    "Rudrapur",
+    "Mohali"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Alibaba Cloud Certified Developer",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript Essentials 1",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming",
+        "issuer": "Great Learning Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad(AKTU)",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.35",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "R.A.N Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Rudrapur",
+        "ID": 1.0,
+        "grade_received": "Percentage - 89%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Peters Sr. Sec. School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Rudrapur",
+        "ID": 2.0,
+        "grade_received": "Percentage - 95 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Parkinsons Disease Detection",
+        "description": "The primary objective of the project is to develop a reliable and accurate machine learning model for the early detection of Parkinsons disease. Using PaHaW Dataset to classify various handwriting and detect Parkinsons disease. Applying various CNN Algorithms and Support Vector Machine classifier.",
+        "keywords": [
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "Ongoing",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Restaurant Services Web App",
+        "description": "Organized frontend components into a modular structure (e.g., Menu, Reservation Form, Order Summary) for re-usability and maintainability. Implemented server-side logic for handling CRUD operations, authentication, and authorization, following RESTful API principles. Utilized middleware functions for request validation, error handling, and authentication checks on the server-side.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "React",
+          "Node.js"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sneaker Shop Web App(.sneakers)",
+        "description": "A display page consisting of a collection of sneakers with images, names, prices, and brief descriptions. Provided a detailed information about each sneaker, including size options, color variants, and customer reviews. Ensured that the web application is fully responsive and optimized for various devices and screen sizes.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "GROPRO MEDIA",
+        "description": "Getting hands-on experience while working on live projects with tech professionals. Understanding various frontend technologies like HTML, CSS, Javascript, React, Bootstrap, and many more.",
+        "location": "Mohali",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "MongoDB",
+      "Node.js",
+      "MySQL",
+      "React",
+      "Bootstrap",
+      "VS Code",
+      "Git",
+      "Github",
+      "Eclipse",
+      "Excel",
+      "Jupiter",
+      "Figma",
+      "Canva"
+    ],
+    "soft_skills": [],
+    "name": "DHRUV UPADHYAY",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 200+ Problems on Leetcode.",
+      "Earned 50 Days 2024 Badge and many Monthly Badges on Leetcode.",
+      "Achieved 1st Runner Up in Basketball Zonals(2023).",
+      "Achieved 32rank in the National Level SUDUKO competition.",
+      "Captain of College Basketball team."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

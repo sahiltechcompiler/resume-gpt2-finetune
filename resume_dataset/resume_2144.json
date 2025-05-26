@@ -1,0 +1,162 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "ADITYA TRIPATHI",
+  "college": "SRM IST Delhi NCR Campus",
+  "locations": [
+    "Noida, India",
+    "Remote, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM IST Delhi NCR Campus",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.5 CGPA",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "St.Andrews.Scots.SR.Sec.School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary School",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St.Andrews.Scots.SR.Sec.School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "72.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Your Prompts",
+        "description": "Full Stack Next.js Web App in which you can find best prompts for using in your AI Journey. 10 prompts per query is our initial target.",
+        "keywords": [
+          "Next.js",
+          "SSR",
+          "SCG",
+          "ISR"
+        ],
+        "endDate": "Present",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Nike Shoe Store",
+        "description": "Cloudinary setup with Strapi, creations in Strapi, Content Population in Strapi Pagination Functionality for detailed shoes according to the type Redux Toolkit setup for cart 10+ payment by STRIPE PAYMENT GATEWAY.",
+        "keywords": [
+          "Next.js",
+          "Strapi",
+          "Prisma",
+          "API"
+        ],
+        "endDate": "May 2024",
+        "startDate": "April 2024",
+        "url": ""
+      },
+      {
+        "name": "OBJECT DETECTOR",
+        "description": "Building an AI Object Detector, playing alarm on person detection. Successfully crafted and implemented Webcam Logic TensorFlows COCO-SSD for object detection model.",
+        "keywords": [
+          "Next.js",
+          "TensorFlow"
+        ],
+        "endDate": "March 2023",
+        "startDate": "March 2023",
+        "url": ""
+      },
+      {
+        "name": "VIRTUAL ART GALLERY",
+        "description": "Utilized Next.js and Three.js to create a virtual art gallery with 3D art models, enhanced by AI for caption, color, and positioning suggestions. Enabled direct interaction between the public and artists, allowing updates, thoughts, and responses to questions, managed through a comprehensive admin panel. Implemented tools for artists to share paintings and for viewers to visualize artworks in their homes using AI, including 3D model assessment for suitability.",
+        "keywords": [
+          "Next.js"
+        ],
+        "endDate": "Present",
+        "startDate": "June 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Dot Net Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Inventive Software Solutions Pvt.Ltd.",
+        "description": "Managed CRUD Operations: Efficiently executed CRUD (Create, Read, Update, Delete) operations on the backend using .NET and ASP.NET CORE, ensuring high data integrity and seamless user interactions. Advanced SQL Query Development: Expertly engineered and implemented complex SQL queries, optimizing database performance and enabling advanced data retrieval, significantly boosting system efficiency.",
+        "location": "Noida, India",
+        "links": "",
+        "startDate": "Sep 2021"
+      },
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "ConnectUp",
+        "description": "Enhanced Web Design and Components: Successfully revamped and optimized the design and components of a job portal website, improving user experience and interface responsiveness. Developed and Integrated Authentication APIs: Engineered and implemented two robust authentication APIs, rigorously tested using Postman, and seamlessly integrated with the backend to ensure secure and efficient user authentication.",
+        "location": "Remote, India",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Javascript",
+      "Go",
+      "Python",
+      "TypeScript",
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Next.js",
+      "React.js",
+      "Express",
+      "Node",
+      "Django",
+      "PHP",
+      "API",
+      "Docker",
+      "TailwindCSS",
+      "HTML/CSS",
+      "OOPS",
+      "Github",
+      "Postman",
+      "Figma",
+      "Prisma"
+    ],
+    "soft_skills": [],
+    "name": "ADITYA TRIPATHI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Team Leader, NASA Space Hackathon: Led my team to a top 16 finish, showcasing exceptional leadership and strategic thinking.",
+      "Team Leader, Rajasthan IT-Day: Guided my team to the final round, demonstrating strong organizational and motivational skills.",
+      "Team Leader, National Level Tech Fest: Achieved a top 6 position, highlighting my ability to lead teams to success in competitive environments."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

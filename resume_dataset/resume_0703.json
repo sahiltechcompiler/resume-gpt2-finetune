@@ -1,0 +1,179 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Luv Pandit",
+  "college": "NIET",
+  "locations": [
+    "Greater noida",
+    "RAMSINGHPURAM BAGWALA ETAH",
+    "HIMMATPUR KAKAMAI ETAH"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Html,CSS,Javascript course",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science,AI Development",
+        "issuer": "School of Future Skills",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Global Design Thinking Challenge",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Segue 2.0",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NIET",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.TECH.",
+        "location": "Greater noida",
+        "ID": 0.0,
+        "grade_received": "CGPA : 7/10",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "SHREE RAMSINGH SMARAK PUBLIC SCHOOL",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "INTERMEDIATE",
+        "location": "RAMSINGHPURAM BAGWALA ETAH",
+        "ID": 1.0,
+        "grade_received": "Percentage: 67%",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "S N INT COLL",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "HIGH SCHOOL",
+        "location": "HIMMATPUR KAKAMAI ETAH",
+        "ID": 2.0,
+        "grade_received": "Percentage: 67%",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "health insurance Cost Prediction",
+        "description": "The Linear Regression Model to predict the insurance cost based on age, BMI, child number, the region of the person living, sex, and whether a client is smoking or not. These features contribute to our target variable prediction of insurance costs.",
+        "keywords": [
+          "Linear Regression",
+          "Machine Learning"
+        ],
+        "endDate": "2022",
+        "startDate": "2022",
+        "url": ""
+      },
+      {
+        "name": "Mask Detection",
+        "description": "Detected a person is wearing mask or not using Haar Cascade Classifier algorithm with CNN model using OpenCV API. Successfully detected masked and unmasked faces in a photograph and in a video file.",
+        "keywords": [
+          "Python",
+          "CV2",
+          "CNN"
+        ],
+        "endDate": "2022",
+        "startDate": "2022",
+        "url": ""
+      },
+      {
+        "name": "Personal Website",
+        "description": "Developed a read only Website with aim to explore about my education, skills, projects,etc. Implemented Using HTML,CSS JavaScript with Deployment via Github Webpages.",
+        "keywords": [],
+        "endDate": "2021",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "Snake Game",
+        "description": "Created snake Game by Using Python",
+        "keywords": [],
+        "endDate": "2021",
+        "startDate": "2021",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "OS Linux",
+      "Windows",
+      "Python",
+      "HTML",
+      "CSS",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "Node.js",
+      "Django",
+      "MySQL",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Luv Pandit",
+    "position": "",
+    "interests": [
+      "Reading",
+      "Sports",
+      "Technology",
+      "Traveling",
+      "Cooking"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.TECH."
+}

@@ -1,0 +1,156 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sangram Singh",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Deoria, Uttar Pradesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Practitioner Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MuleSoft Certified Developer - Level 1",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "72/100",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Government Polytechnic Deoria",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "79/100",
+        "field_of_study": "Electronics Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "FaceRoll Call",
+        "description": "Created a user-friendly and precise attendance system that records attendance through facial recognition without the need for external hardware. Used Python libraries including OpenCV for image processing, Flask for the web framework, and NumPy for numerical computing. Led a team of four, allocated tasks based on individual skills, created a dedicated communication group, and held weekly meetings to ensure progress. Achieved 85% accuracy using KNN algorithms and high image sampling, surpassing other face attendance software.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Flask",
+          "NumPy"
+        ],
+        "endDate": "2023",
+        "startDate": "2023",
+        "url": ""
+      },
+      {
+        "name": "Resume Master",
+        "description": "Created a user-friendly tool for crafting professional resumes with ease and flexibility. Developed the application using React and CSS.",
+        "keywords": [
+          "React",
+          "CSS"
+        ],
+        "endDate": "2023",
+        "startDate": "2023",
+        "url": ""
+      },
+      {
+        "name": "FilmFusion",
+        "description": "Developed a movie website providing up-to-date information about movies and web series. Implemented with the help of HTML, CSS, JavaScript, and utilized the TMDB API for data.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "TMDB API"
+        ],
+        "endDate": "2022",
+        "startDate": "2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development and Content Marketing Intern",
+        "skillsUsed": [
+          "SEO",
+          "Google Keyword Planner",
+          "SEMrush",
+          "TubeBuddy",
+          "VidIQ"
+        ],
+        "endDate": "July 2024",
+        "company_name": "Root2Fame",
+        "description": "As a Web Development and Content Marketing Intern at Root2Fame, I enhanced the companys online presence and brand reputation. Demonstrated creativity by editing engaging articles, blogs, and social media posts, optimizing them for SEO using tools such as Google Keyword Planner, SEMrush, TubeBuddy, and VidIQ, resulting in a 30% increase in web traffic and a 25% boost in social media engagement.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Dec 2021"
+      },
+      {
+        "role_name": "Participant",
+        "skillsUsed": [],
+        "endDate": "Mar 2022",
+        "company_name": "Devsnest Coding Bootcamp",
+        "description": "Solved a variety of data structures and algorithms (DSA) problems, enhancing problem-solving skills and technical knowledge through practical, project-based learning. Engaged in active learning and mentorship, benefiting from recorded classes, live doubt sessions, and career preparation resources, including mock interviews and job placement assistance.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jan 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "VS Code",
+      "GitHub",
+      "PostMan",
+      "STL",
+      "JQuery",
+      "SEO",
+      "CDNs",
+      "WORDPRESS",
+      "Software Development Life Cycle Concepts"
+    ],
+    "soft_skills": [],
+    "name": "Sangram Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Created and grew an entertainment website from scratch during lockdown, to deliver news and monetize content.",
+      "Led a team of four students in the development of a facial recognition-based attendance system application, resulting in an A+ grade."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Science"
+}

@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kanhainya Agrawal",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.tech (IT)",
+        "location": "New Delhi",
+        "ID": 0.0,
+        "grade_received": "8.662",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "RBSE(XII)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "91.0%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Sony Tower Sr. Sec. School,Bharatpur(Raj.)",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "RBSE(X)",
+        "location": "Bharatpur(Raj.)",
+        "ID": 2.0,
+        "grade_received": "86.67%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ArkaEve - Crafting Your Dream Events",
+        "description": "I developed a comprehensive event management platform using MongoDB, Express.js, Node.js, React, Redux, and RestAPI. The platform provides 60 different themes and over 20 vendor options to optimize the operations of large-scale event organizers. Created an Administrative dashboard for System Administrators to oversee Dealers, Event Planners, Transactions and other Backend tasks improving overall platform efficiency and management.",
+        "keywords": [
+          "MongoDB",
+          "Express.js",
+          "Node.js",
+          "React",
+          "Redux",
+          "RestAPI"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "Sep 2023",
+        "url": "Github"
+      },
+      {
+        "name": "Twooter",
+        "description": "It is a social media platform used to upload your daily life updates. It allows you to post, comment, and create an account. It has the ability to save your posts and search your account. The Front End is built with ReactJS, CSS, and HTML to showcase all the features. Node.js, Express.js, and MongoDB power the backend to handle data storage, updates, and APIs. It also uses dummy JSON to fetch sample data from the website.",
+        "keywords": [
+          "React",
+          "Express",
+          "API",
+          "MongoDB"
+        ],
+        "endDate": "June 2024",
+        "startDate": "Mar 2024",
+        "url": "GitHub"
+      },
+      {
+        "name": "SideCup Family Golf",
+        "description": "Dive into the captivating world of Sidecup Family Show with this immersive web experience! This project is a showcase of my skills in web development, bringing to life a modern and engaging interface inspired by the essence of Sidecups familyfriendly content. Technologies Utilized: HTML, CSS, JavaScript. Key Features: Visually stunning design for an enchanting user experience. Dynamic elements powered by HTML, CSS, and JavaScript.",
+        "keywords": [
+          "JavaScript",
+          "CSS",
+          "HTML"
+        ],
+        "endDate": "May 2023",
+        "startDate": "Feb 2023",
+        "url": "Website"
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "HackerRank",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "ReactJS",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Tailwind",
+      "git",
+      "github",
+      "postman"
+    ],
+    "soft_skills": [],
+    "name": "Kanhainya Agrawal",
+    "position": "",
+    "interests": [
+      "Coding",
+      "chess",
+      "badminton",
+      "a little bit involved in external affairs"
+    ],
+    "achievements_and_awards": [
+      "1604 rating on leetcode with 450+ questions",
+      "Achieved top 16th position in HackOverFlow Hackathon at Aarohan 2024 over more than 600 teams",
+      "I got 55 rank out of 16,000 students worldwide START143D CodeChef contest."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.tech (IT)"
+}

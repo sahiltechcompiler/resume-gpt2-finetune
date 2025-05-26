@@ -1,0 +1,156 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Kunal Jagadale",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Object-Oriented Programming with Java",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning: AI, Python and R",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Enterprise-grade AI",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internship Certificate",
+        "issuer": "Wictronix",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.02",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "FinDash",
+        "description": "Developed a dynamic Finance Dashboard app using the MERN stack, incorporating Machine Learning to provide predictive analytics. The frontend is built with Vite, Redux Toolkit, Material UI, and Recharts for an interactive user experience. Implemented a robust backend with Node.js, Express.js, and MongoDB for seamless data management and real-time insights.",
+        "keywords": [
+          "Typescript",
+          "MERN",
+          "MUI",
+          "Deployment",
+          "Machine Learning"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CraftResume - An AI Resume Builder Tool",
+        "description": "CraftResume is an AI-powered resume builder that streamlines the creation of professional resumes using React.js, Vite for fast development, Strapi as a headless CMS, Clerk for user authentication, and Tailwind CSS for sleek, responsive design. With seamless integration and a user-friendly interface, CraftResume ensures that job seekers can easily create, edit, and delete their resumes, enhancing their chances of landing the perfect job.",
+        "keywords": [
+          "ReactJS",
+          "Vite",
+          "Tailwind CSS",
+          "Strapi",
+          "Clerk"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AI/ML Developer Intern",
+        "skillsUsed": [
+          "Python",
+          "YOLOv8",
+          "Data Visualization"
+        ],
+        "endDate": "August 2023",
+        "company_name": "WictroniX",
+        "description": "Developed scripts using Python and used a custom-trained YOLOv8 model, enabling real-time identification of leader-follower pairs of detected vehicles in video data. Engineered data visualization components and CSV file to display the identified leader-follower pairs and their relative positions over time, providing insights into traffic dynamics. Worked in an agile environment, adapting to changing requirements and collaborating closely with mentors and peers to achieve project milestones.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "Typescript",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "VS Code",
+      "Kaggle",
+      "Google Colab",
+      "Docker",
+      "Data Structures and Algorithms",
+      "Machine Learning",
+      "OOPs",
+      "Computer Networks",
+      "Node.js",
+      "React",
+      "Flutter",
+      "Express.js",
+      "Redux",
+      "Clerk"
+    ],
+    "soft_skills": [],
+    "name": "Kunal Jagadale",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked in top 5 teams at AI Bot Development Manipal University (MU), Jaipur",
+      "CodeChef (Rating: 1436)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

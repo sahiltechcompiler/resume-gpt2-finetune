@@ -1,0 +1,103 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shreyansh Shukla",
+  "college": "KIET Group Of Institution",
+  "locations": [
+    "Ghaziabad",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Successfully completed an essential learning certification in C++ programming. Demonstrated advanced proficiency in C++ language syntax, and object-oriented programming principles.",
+        "skillsLearned": [],
+        "title": "C++ essential learning",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Acquired expertise in designing and implementing relational database schemas using SQL. Demonstrated proficiency in writing complex SQL queries to retrieve, manipulate, and analyze data efficiently.",
+        "skillsLearned": [],
+        "title": "Learning SQL Programming",
+        "issuer": "LinkedIn",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institution",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "8.06/10 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Employee Management System in Django",
+        "description": "Designed and developed a robust Employee Management System using Django framework. Implemented features for managing employee records, including CRUD (Create, Read, Update, Delete) operations. Integrated user authentication and authorization to control access levels for different user roles (e.g., admin, manager, employee). Designed a user-friendly interface using HTML, CSS, and JavaScript for seamless navigation and interaction.",
+        "keywords": [],
+        "endDate": "Jan 2024",
+        "startDate": "Dec 2023",
+        "url": ""
+      },
+      {
+        "name": "Netflix clone using Frontend development",
+        "description": "Developed a Netflix-inspired streaming service clone using HTML, CSS, and JavaScript. Implemented a responsive user interface resembling the Netflix layout for browsing movies and TV shows. Integrated external APIs (e.g., TMDB API) to fetch movie and TV show data for display within the application. Utilized modern CSS techniques like Flexbox or Grid for layout design and media queries for responsive design.",
+        "keywords": [],
+        "endDate": "Jan 2023",
+        "startDate": "Dec 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Apr 2024",
+        "company_name": "EY GDS - AICTE Internship",
+        "description": "4 Weeks of Learning with some minor projects. 5th week final Mega Project Submission Implemented performance optimization techniques to enhance website speed and user engagement, resulting in 50 boost in overall site performance. Facilitated mentorship programs with Engineers from EY and Edunet Foundation, gaining practical insights into software development practices and scalability principles, enhancing my expertise in real-world application development.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Django",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Shreyansh Shukla",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Conquering over 200+ LeetCode challenges, including 40+ hard questions, demonstrating dedication, tenacity, and proficiency in tackling complex coding problems, thereby sharpening skills and expanding the repertoire in algorithmic optimization.",
+      "Rated 2 star on Codechef with Rating 1200+.",
+      "Engaged in coding competitions hosted by LeetCode, effectively tackling numerous questions and honing expertise across various topics in data structures."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

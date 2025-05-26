@@ -1,0 +1,156 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Paresh Kharche",
+  "college": "JSPMs Imperial College of Engineering and Research",
+  "locations": [
+    "Pune, India"
+  ],
+  "full_output": {
+    "summary": "To secure a challenging position in software development where I can leverage my skills in frontend and backend technologies, along with my proficiency in machine learning, to contribute effectively to innovative projects and achieve professional growth.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete Java Course (Basics to Advanced)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Complete Guide for Front-end Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem Solving - HackerRank",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL - HackerRank",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering Job Simulation - Forage",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "JSPMs Imperial College of Engineering and Research",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Pune",
+        "ID": 0.0,
+        "grade_received": "8.94 CGPA",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Government Polytechnic Yavatmal",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "72.63%",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Advanced E-commerce Application",
+        "description": "Developed a platform for showcasing products with attributes, variations, and customer reviews. Implemented a shopping cart system with quantity adjustments and integrated PayPal for secure transactions. Designed a robust user management system with email verification, token-based password resets, and secure access controls.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "SQLite",
+          "PayPal API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub: Ekart-Django"
+      },
+      {
+        "name": "DeliveryTrackerAPI",
+        "description": "Developed a scalable delivery tracking system using Django and Django Rest Framework. Integrated ReactJS for a dynamic and responsive user experience. Leveraged the FedEx API to provide real-time delivery updates.",
+        "keywords": [
+          "Django",
+          "Django Rest Framework",
+          "ReactJS",
+          "Vite",
+          "FedEx API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub: DeliveryTrackerAPI"
+      },
+      {
+        "name": "Stock Market Prediction",
+        "description": "Achieved in between 85% to 90% accuracy in predicting stock market movements using advanced machine learning models. Developed a user-friendly, responsive interface using HTML, CSS, and JavaScript for displaying predictions and historical data. Optimized TensorFlow models for better prediction accuracy and performance. Utilized Python's Flask framework to integrate the machine learning models with the web application for real-time prediction results.",
+        "keywords": [
+          "Python (Flask)",
+          "TensorFlow",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub: StockMarketPrediction"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Core Java",
+      "JavaScript",
+      "MySQL",
+      "SQL",
+      "Django Rest Framework",
+      "Django",
+      "Bootstrap",
+      "Reactjs",
+      "Git",
+      "GitHub",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "Paresh Kharche",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Pune, India",
+  "graduation_year": 2022.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Engineering"
+}

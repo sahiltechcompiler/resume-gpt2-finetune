@@ -1,0 +1,124 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anshveer Singh",
+  "college": "MANIPAL UNIVERSITY JAIPUR",
+  "locations": [
+    "Faridabad, Haryana, India"
+  ],
+  "full_output": {
+    "summary": "Software Developer with a passion for creating innovative solutions and enhancing user experiences. Proficient in Python, web development, and data analysis. Experienced in developing interactive applications and integrating APIs to build robust and user-friendly systems. Strong problem-solving skills and a continuous learner dedicated to staying up-to-date with the latest technologies and best practices.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY JAIPUR",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.89/10",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "APJ, Faridabad",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "74.40 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "APJ, Faridabad",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "86 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Recommendation System",
+        "description": "-Content based recommendation system used to recommend movies based on any Movie, Actor or Genre searched.\n-Displays posters of any movie searched using TMDB API.\n-Watch trailer preview for any movie that is recommended.\n-Faster loading times every time a movie is searched again.",
+        "keywords": [
+          "ML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MUJ clone website",
+        "description": "-Full stack Manipal Jaipur clone website displaying college details, reviews, facilities offered.\n-Contains a login page which opens up a Student Database Management System.\n-Teachers can add/edit/view/update student details according to will.",
+        "keywords": [
+          "Html",
+          "CSS",
+          "JavaScript",
+          "PHP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "A Travel Website",
+        "description": "-A frontend only project displaying various sections such as a Navigation bar, Tours-displaying various travel destinations, Upcoming Events, upcoming tours and destinations, A login section, About Us section,etc.",
+        "keywords": [
+          "Html",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "experiences": [
+      {
+        "role_name": "Business Intelligence Developer(Intern)",
+        "skillsUsed": [
+          "Python",
+          "Salesforce REST API",
+          "pandas",
+          "csv"
+        ],
+        "endDate": "30th June 2023",
+        "company_name": "Whirlpool",
+        "description": "During the internship, a Python script was developed to automate the extraction of Salesforce (SFDC) data to Qlik Sense, streamlining data accessibility and analysis for the company. By leveraging the Salesforce REST API and implementing efficient data handling techniques, no records were missed. Python libraries such as pandas and csv were utilized to transform the data, ensuring accuracy and quality. This automation enabled seamless data transfer for visualization and analysis in Qlik Sense, saving time and reducing manual effort for colleagues. The work improved data reliability and accessibility, allowing team members to make more informed decisions based on accurate and timely data.",
+        "location": "",
+        "links": "",
+        "startDate": "5th June 2023"
+      }
+    ],
+    "skills": [
+      "Software Engineering",
+      "Web Development",
+      "Machine Learning",
+      "Python",
+      "C/C++"
+    ],
+    "soft_skills": [],
+    "name": "Anshveer Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "House Number 1071 Sector 14, Faridabad, Haryana, India - 121007",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

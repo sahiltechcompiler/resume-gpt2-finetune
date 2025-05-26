@@ -1,0 +1,158 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Jigyasa Bhayana",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Data Analyst Associate",
+        "issuer": "Honeywell",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete 2023 Web Development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Complete C language course",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA : 8.9",
+        "field_of_study": "IT",
+        "startDate": ""
+      },
+      {
+        "school": "Siddhartha Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE (Class XII)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage : 77.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bal Bharti School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "CBSE (Class X)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA : 8.8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Twitter Sentiment Analyzer",
+        "description": "Developed a Twitter sentiment analyzer using NLP techniques to assess sentiment (positive, negative, neutral) in tweets. Utilized the Twitter API to gather real-time tweets and preprocessed data by removing stop words, special characters, and URLs for analysis. Deployed the sentiment analyzer as a local application, enabling users to input keywords and receive real-time sentiment analysis results. Designed and implemented the frontend of the application using React.js, HTML, and CSS. Collaborated with a four-member team to ensure project success and timely delivery.",
+        "keywords": [],
+        "endDate": "Dec 2022",
+        "startDate": "Oct 2022",
+        "url": ""
+      },
+      {
+        "name": "Yoga Tracker",
+        "description": "Developed an innovative yoga training model using deep learning techniques to enhance users' yoga postures, form, and timings. Curated a diverse dataset of yoga images, encompassing various poses and angles, to ensure the model's efficacy in recognizing diverse body positions. Implemented Convolutional Neural Networks (CNN) to extract features from yoga images and accurately identify key body landmarks for precise pose estimation. Employed transfer learning with pre-trained models (e.g., TensorFlow, VGG16) to enhance model performance and expedite training. Designed and implemented the frontend of the local application using React.js, HTML, and CSS to facilitate user interaction and visualization.",
+        "keywords": [],
+        "endDate": "Jun 2023",
+        "startDate": "Mar 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Product Operations Executive",
+        "skillsUsed": [
+          "MongoDB",
+          "MySQL",
+          "API",
+          "Postman",
+          "Jira",
+          "Node.js"
+        ],
+        "endDate": "present",
+        "company_name": "MYWAYS.ai",
+        "description": "Collaborated with product managers and cross-functional teams to support the development and launch of new products or features. Conducted data analysis to track KPIs and provide insights to inform decision-making processes. Prepared reports and presentations summarizing findings. Assisted in quality assurance activities, including testing new product features, identifying bugs or issues, and collaborating with development teams to resolve them. Contributed to user acceptance testing (UAT) processes to validate product functionality.",
+        "location": "",
+        "links": "",
+        "startDate": "2019"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2022",
+        "company_name": "THINK FUTURE TECHNOLOGIES",
+        "description": "Developed a full-stack IMDB clone using React, Node.js, and MongoDB to provide users with a movie database and review platform. Implemented front-end features such as search functionality, movie listings, and user reviews using React. Designed and developed the back-end API endpoints for user authentication, movie data retrieval, and review submissions using Node.js and Express.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov 2021"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2021",
+        "company_name": "PAAVI FOUNDATION",
+        "description": "Developed and maintained responsive WordPress website for Paavi, showcasing work of organisation in detail. Collaborated with design team to ensure seamless integration of visual elements and user-friendly navigation. Conducted website testing and debugging to ensure cross-browser compatibility and error-free user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2021"
+      }
+    ],
+    "skills": [
+      "Frontend React.js",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "C",
+      "C++",
+      "OOPS",
+      "MS Excel"
+    ],
+    "soft_skills": [],
+    "name": "Jigyasa Bhayana",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Team Lead of Innovation Research Society Organised and managed the team to conduct research with drafting content for future purposes",
+      "Participated in HacktoberFest'20, '21, '22",
+      "Part of 16 Visionaries NGO Helped people with lost sight by reading them books of their interest"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

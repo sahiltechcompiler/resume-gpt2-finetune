@@ -1,0 +1,134 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Harsha Vardhan Raju",
+  "college": "SRM University-AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University-AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "APSSC",
+        "endDate": "2019",
+        "maximum_grade": "CGPA: 10/10",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.8/10",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Spotify-Clone",
+        "description": "Developed a web application emulating Spotifys functionalities with some famous songs. Implemented features allowing users to play songs, create playlists, and explore music based on artists. Utilized HTML, CSS, and JavaScript to ensure a responsive design and enhance user interaction.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Project"
+      },
+      {
+        "name": "Hotel Reservation Management",
+        "description": "Developed a Django-based web application managing hotel room reservations with 50+ bookings monthly. Implemented secure login and admin approval system ensuring 96% data accuracy and 24/7 availability. Used Django, Python, SQLite, HTML, CSS, JavaScript, Bootstrap, Git, and GitHub for project development.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Project"
+      },
+      {
+        "name": "Anonymous Chat Application",
+        "description": "Developed a scalable platform for anonymous real-time communication with good user experience. Implemented robust security measures and ensured 90% uptime, prioritizing user privacy and experience. Leveraged MERN stack (MongoDB, Express.js, React, Node.js) for efficient data handling and seamless user interaction.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Project"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Front-End Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Jul 2023",
+        "company_name": "",
+        "description": "Developed responsive web interfaces for client projects using HTML, CSS, and JavaScript. Collaborated with senior developers to improve user experience and boosted my front-end skills and performances. Applied industry best practices that enhanced web development skills in a professional setting.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Back-End Developer Intern",
+        "skillsUsed": [
+          "Django",
+          "Python"
+        ],
+        "endDate": "Aug 2022",
+        "company_name": "",
+        "description": "Developed scalable web applications using Django Framework. Implemented user authentication and database management solutions, enhancing security and performance. Successfully deployed applications, achieving 90% uptime and maintaining 95% user satisfaction.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "Java",
+      "SQL",
+      "OOPS",
+      "React.js",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Collaboration",
+      "Adaptability",
+      "Leadership",
+      "Communication"
+    ],
+    "name": "Harsha Vardhan Raju",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

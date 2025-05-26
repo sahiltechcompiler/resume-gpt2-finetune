@@ -1,0 +1,134 @@
+{
+  "project_count": 3.0,
+  "designation": "Android Developer",
+  "name": "ANKIT SINGH",
+  "college": "Dr. A.P.J Abdul Kalam Technical University",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh, India",
+    "Ghaziabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A.P.J Abdul Kalam Technical University",
+        "endDate": "expected Aug - 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA :- 7.9",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "DAV Public School, Sahibabad",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 83",
+        "field_of_study": "Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ShareSphere",
+        "description": "Developed a full stack social media application for Android with Backend of Node.js. Implemented core features like user registration, authentication, and social interaction. Integrated social functionalities like feed, photos posting, chat, etc for user engagement. Used Clean Architecture + MVVM, Jetpack Compose, Coroutines, Flows, Hilt, Navigation, Node.js (MVC).",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ShelterSpot",
+        "description": "Android Application for Online Hotel Booking System. Facilitating customer hotel reservations and enabling hotel reservation management. Used Google Maps for hotel location views and Razorpay payment gateway for secure transactions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CSI",
+        "description": "Android Application for Computer Society of Indias AKGEC chapter - Technical society of College. Used Retrofit library to implement REST APIs, interfacing with a Node.js backend.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Android Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Computer Society Of India (AKGEC Chapter)",
+        "description": "Created diverse projects with efficient and thoroughly tested code. Collaborated closely with other team members and resolved numerous software bugs. Managed various college events.",
+        "location": "Ghaziabad, Uttar Pradesh, India",
+        "links": "",
+        "startDate": "Sep 2022"
+      },
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "May 2019",
+        "company_name": "",
+        "description": "",
+        "location": "Ghaziabad, India",
+        "links": "",
+        "startDate": "May 2018"
+      }
+    ],
+    "skills": [
+      "Kotlin",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "C",
+      "C++",
+      "Android",
+      "Git/Github",
+      "Node.js",
+      "Android Architecture Components",
+      "Android Jetpack",
+      "Compose",
+      "Material Design",
+      "Coroutines",
+      "Retrofit",
+      "Hilt",
+      "Picasso",
+      "Glide",
+      "GSON",
+      "Room",
+      "MongoDB",
+      "MySQL",
+      "Firebase",
+      "OOPS",
+      "DBMS",
+      "DSA",
+      "OS"
+    ],
+    "soft_skills": [],
+    "name": "ANKIT SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded 1st Runner Up at Hackathon 8.0, UPES Dehradun.",
+      "Placed among the top 10 teams (300+ teams) at HackWithMait 3.0 Hackathon.",
+      "Placed among the top 10 teams (100+ teams) at Blockverse 2.0 Web development contest.",
+      "Solved 200+ coding challenges across various platforms (100+ day LeetCode streak)."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

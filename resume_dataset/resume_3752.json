@@ -1,0 +1,114 @@
+{
+  "project_count": 4.0,
+  "designation": "Python Developer",
+  "name": "C Lokesh Swarup",
+  "college": "",
+  "locations": [],
+  "full_output": {
+    "summary": "Python Developer with experience in web development frameworks, data analysis, and web-scraping.",
+    "certifications": [],
+    "social_work": [],
+    "education": [],
+    "projects": [
+      {
+        "name": "AI HealthBot summarizer",
+        "description": "Revolutionizing healthcare information delivery by seamlessly integrating advanced NLP and cutting- edge healthcare technology. Developing an AI-powered health chatbot that condenses complex medical information into concise summaries, empowering doctors to diagnose their patients better.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "JS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Code"
+      },
+      {
+        "name": "Inverse-Cooking",
+        "description": "Developed an application that generates recipes from food photos, focusing on Indian cuisine. Utilized Django for backend, MongoDB for database, and HTML, CSS, and JavaScript for frontend. Improved image recognition algorithms to accurately interpret and process diverse Indian food items.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "JS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Code"
+      },
+      {
+        "name": "Stock-Assist",
+        "description": "Developed an application to analyze and provide insights on stock market trends using historical data and real-time updates. Utilized Python and Pandas for data processing, Flask for backend, and React for frontend. Implemented predictive algorithms to forecast stock prices and provide investment recommendations.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "JS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Code"
+      },
+      {
+        "name": "ChattyBot - A Personal Document Assistant",
+        "description": "FastAPI-based application that serves as a personal document assistant. Allows users to upload PDF files, ask questions based on the content of the PDF, and receive responses from ChattyBot.",
+        "keywords": [
+          "FastAPI",
+          "Python",
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python Developer",
+        "skillsUsed": [
+          "Python",
+          "Flask",
+          "Django",
+          "FastAPI",
+          "pandas",
+          "numpy"
+        ],
+        "endDate": "August 2023",
+        "company_name": "GAIT Labs India Pvt Ltd",
+        "description": "Developed robust web applications using Python frameworks such as Flask, Django, and FastAPI, improving scalability and performance. Utilized Python libraries such as pandas and numpy for data processing, leading to a 20% reduction in processing time.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "MySQL",
+      "MongoDB",
+      "Android app development",
+      "Django",
+      "FastAPI",
+      "Web Scraping",
+      "Good Communication"
+    ],
+    "soft_skills": [],
+    "name": "C Lokesh Swarup",
+    "position": "Python Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": ""
+}

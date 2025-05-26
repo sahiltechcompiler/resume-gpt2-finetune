@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Dheeraj Sharma",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "Searching for a challenging position to utilize my tech and design skills for software program development, testing and quality management.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed a training course on ReactJS training that included learning React in-depth diving into all the core basics and also introduction to advanced concepts as well.",
+        "skillsLearned": [],
+        "title": "ReactJS Training",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "88.10%",
+        "field_of_study": "Information Technology",
+        "startDate": "Jan 2021"
+      },
+      {
+        "school": "Rukmini Devi Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Delhi, India",
+        "ID": 1.0,
+        "grade_received": "79.50%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Rukmini Devi Public School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Delhi, India",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.80",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Website-Like-Youtube",
+        "description": "Full Stack project of a realtime website like Youtube, along with Redux for State management. Additional Features like OTP Login, Google Sign In Uses Firebase Storage to upload videos",
+        "keywords": [
+          "MERN",
+          "Firebase",
+          "Redux",
+          "CSS"
+        ],
+        "endDate": "Sep 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "Task-Manager App",
+        "description": "Used the MERN stack for implementation MVC structure in the backend using NodeJs Added interactive icons to beautify the app",
+        "keywords": [
+          "MERN",
+          "Javascript",
+          "CSS"
+        ],
+        "endDate": "Jul 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "React JS Blog",
+        "description": "Developed a Blog Application using ReactJS Used Axios for making API request for the blog posts Refactored the application using Easy Peasy Redux",
+        "keywords": [
+          "ReactJS",
+          "API",
+          "CSS",
+          "HTML"
+        ],
+        "endDate": "May 2023",
+        "startDate": "Mar 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "NullClass",
+        "description": "Completed Internship at NullClass in Full Stack Web Development using MERN stack",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Javascript",
+      "ReactJs",
+      "CSS",
+      "HTML5",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Firebase",
+      "MERN Stack",
+      "Data Structures",
+      "Problem Solving",
+      "Development"
+    ],
+    "soft_skills": [],
+    "name": "Dheeraj Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2021.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

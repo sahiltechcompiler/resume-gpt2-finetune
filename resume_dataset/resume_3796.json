@@ -1,0 +1,111 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "HARSHIT MISHRA",
+  "college": "DR. APJ ABDUL KALAM TECHNICAL UNIVERSITY",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "DR. APJ ABDUL KALAM TECHNICAL UNIVERSITY",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:7.6",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "S.S.J.S Namdhari College (Affiliated to JAC Board)",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage:74.8",
+        "field_of_study": "Science",
+        "startDate": ""
+      },
+      {
+        "school": "DAV Public School (Affiliated to CBSE Board)",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Matric",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage:74.8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AQI MONITORING SYSTEM",
+        "description": "Created an application to take the readings of sensors to check air quality. It provides information about physical and mental health effects based on readings, also suggests safety measures according to each AQI level.",
+        "keywords": [
+          "IOT",
+          "Kotlin",
+          "Firebase"
+        ],
+        "endDate": "present",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "HEALTHCARE MANAGEMENT APPLICATION",
+        "description": "Developed an application to receive readings from sensors related to pulse rate, body temperature and blood pressure. Data could be collected on daily basis and user could share data to any person through any medium. He could connect with available doctors in the nearby area and get consultancy.",
+        "keywords": [
+          "IOT",
+          "Kotlin",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "HISAB KITAB APPLICATION",
+        "description": "Built an android app to track the daily savings and expenses. User can add daily savings and expenses (with purpose), also track record through transaction history. The application also provides analysis upon the expenses based upon the purpose.",
+        "keywords": [
+          "Java",
+          "SQLite",
+          "XML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Kotlin",
+      "SQLite",
+      "SQL",
+      "Python"
+    ],
+    "soft_skills": [],
+    "name": "HARSHIT MISHRA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received recognition for significant contributions in Hacktoberfest 2022.",
+      "Successfully deployed a website in a workshop conducted by WSO2.",
+      "Attained 5-star rating in C++ language on Hackerrank.",
+      "Certified as Basic Problem Solver on Hackerrank."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 0.0,
+  "degree": "BTech"
+}

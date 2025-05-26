@@ -1,0 +1,139 @@
+{
+  "project_count": 2.0,
+  "designation": "Full Stack Developer Intern",
+  "name": "DANIEL RAJ F R E S H E R",
+  "college": "Madras Christian College",
+  "locations": [
+    "Chennai"
+  ],
+  "full_output": {
+    "summary": "Aspiring full-stack web devloper with a strong foundation in front-end and back-end technologies. Excited to contribute to a dynamic team and further develop my skills in a real-world environment.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Madras Christian College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Master of Computer Application",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "91%",
+        "field_of_study": "",
+        "startDate": "2022"
+      },
+      {
+        "school": "PERI College of Arts and Science",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Application",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "84%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "St. Thomas Matriculation Higher Secondary School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "HSC",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "49%",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Model Matriculation Higher Secondary School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "SSLC",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "88%",
+        "field_of_study": "",
+        "startDate": "2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CBIR - Content Based Image Retrieval",
+        "description": "Developed a Content-Based Image Retrieval (CBIR) software using Python Flask and image processing techniques. Implemented a database-driven system to compare image features and cluster similar images using the K-means algorithm.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "Sqlite3",
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "University Management",
+        "description": "Designed and developed a comprehensive University Management system using ADO.NET, C#, and SQL. This system efficiently manages student records, faculty information, student marks, and grades.",
+        "keywords": [
+          "ADO.NET(C#)",
+          "SQL"
+        ],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [
+          "React js",
+          "ASP .NET",
+          "Entity Framework",
+          "PostgreSQL",
+          "MongoDB"
+        ],
+        "endDate": "Present",
+        "company_name": "Ideassion Technology Solutions",
+        "description": "Interned as a Full Stack Developer, collaborating in a team to explore and implement technologies including ASP .NET Entity Framework, React.js, PostgreSQL, and MongoDB.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "2024"
+      },
+      {
+        "role_name": "Image Processing Intern",
+        "skillsUsed": [
+          "Python",
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "endDate": "2023",
+        "company_name": "Vellore Christian Medical College",
+        "description": "Conducted Image Processing using Python, applying K-means clustering to White Blood Cell (WBC) images for shape, size and texture analysis.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "React js",
+      "C#",
+      "Asp .net",
+      "Entity Framework",
+      "PostgreSQL",
+      "MongoDB",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "DANIEL RAJ F R E S H E R",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Master of Computer Application"
+}

@@ -1,0 +1,98 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "Riya Pal",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.0",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Josephs School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Greater Noida, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "79.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Josephs School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Greater Noida, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "73.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Online Job Portal",
+        "description": "Developed a comprehensive online job portal, enabling job seekers to search and apply for jobs, and employers to post job openings and manage applications. Implemented admin panel to enable administrators to customize job postings and to manage job postings.",
+        "keywords": [
+          "Maven",
+          "Java",
+          "JSP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "[GitHub]"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "Zscaler Academy",
+        "description": "Recognized the importance of shifting from a legacy network and security architecture zero trust architecture in a new world of digital transformation. Explored the mechanisms by which secure connections are established to and from Zscalers Zero Trust Exchange.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Data Structures & Algorithms",
+      "Operating Systems",
+      "Database Management System (DBMS)",
+      "OOPS Concept",
+      "Web Development"
+    ],
+    "soft_skills": [],
+    "name": "Riya Pal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved total of 879 problems on CodingNinjas.",
+      "Achieved Excellent grade in Zero Trust Cloud Associate",
+      "2-Star Problem Solver on HackerRank"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

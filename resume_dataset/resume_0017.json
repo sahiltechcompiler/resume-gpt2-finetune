@@ -1,0 +1,132 @@
+{
+  "project_count": 4.0,
+  "designation": "Frontend Developer",
+  "name": "Aditya Shivhare",
+  "college": "Jaypee University of Engineering and Technology",
+  "locations": [
+    "Gwalior, Madhya Pradesh, India",
+    "Guna, Madhya Pradesh, India",
+    "Madhya Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Gwalior Glory High School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Gwalior, Madhya Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "CGPA-9.4",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kiddys Corner Hr. Sec. School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Gwalior, Madhya Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "Percentage-80%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Jaypee University of Engineering and Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Guna, Madhya Pradesh, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real Time Chat Application",
+        "description": "Designed and implemented engaging user interfaces utilizing React.js and JavaScript for dynamic frontend experiences. Leveraged JavaScript to enhance real-time communication functionalities, including instant messaging, notifications, and user presence indicators. Designed and crafted an intuitive user interface and responsiveness using Sass (scss). Integrated features such as real-time messaging, authentication, and multimedia file sharing using Firebase.",
+        "keywords": [
+          "HTML5",
+          "CSS",
+          "React JS",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Live Demo"
+      },
+      {
+        "name": "E-commerce",
+        "description": "Designed a 100% responsive Full-stack application utilizing Python Django for backend functionality and JavaScript for frontend interactivity. Developed robust backend functionalities using Django framework, implementing features such as user authentication, guest checkout functionality, and payment gateway through Paypal Rest API. Utilized JavaScript for frontend development, ensuring seamless user experiences through interactive interfaces and responsive design.",
+        "keywords": [
+          "JavaScript",
+          "Python",
+          "Django",
+          "Rest API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Live Demo"
+      },
+      {
+        "name": "Slide Puzzle Game",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Live Demo"
+      },
+      {
+        "name": "Tax- Calculator",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Live Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "June 2023",
+        "company_name": "Allentis Pharmaceuticals Pvt. Ltd.",
+        "description": "Developed 100% responsive and visually appealing websites using HTML, CSS, and JavaScript. Collaborated with design and back-end teams to implement user interface designs. Implemented animations and transitions to enhance user experience. Stayed up-to-date with the latest web development trends and technologies.",
+        "location": "Madhya Pradesh, India",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "React js",
+      "Django"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Shivhare",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

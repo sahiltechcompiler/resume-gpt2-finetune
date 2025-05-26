@@ -1,0 +1,124 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sajith Salu",
+  "college": "SRM university",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "An online non-credit course authorized by Google and offered through Coursera.",
+        "skillsLearned": [],
+        "title": "Foundations of Cybersecurity",
+        "issuer": "Google",
+        "certiLink": "Servicenow - Micro Certification"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM university",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "A.P",
+        "ID": 0.0,
+        "grade_received": "7.61/10",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "932/1000",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "SSC",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.5/100",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Housing data Analysis on metropolitan cities",
+        "description": "Gained hands-on experience in data analysis with Python to extract insights and visualize effectively. Worked on projects involving data collection, preprocessing, visualization, and analysis. Developed proficiency in Python programming and utilized libraries such as Pandas, NumPy, and Matplotlib for data manipulation and visualization.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "Matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sequence Prediction using Deep-Learning technique",
+        "description": "Developed an LSTM-based deep learning model to predict the next block ID in file sequences within a distributed file system, using synthetic log data of 100,000 entries. Implemented extensive preprocessing techniques including text-to-CSV conversion, categorical variable encoding, and frequency column addition to enhance data quality. Achieved 86.53 percent accuracy, 0.99 precision, and 0.85 recall, showcasing the models effectiveness in capturing long-range dependencies and complex patterns in sequence prediction tasks.",
+        "keywords": [
+          "Deep Learning",
+          "LSTM",
+          "Data Preprocessing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Jul 2023",
+        "company_name": "CodeSwap Solutions",
+        "description": "Learned front-end technologies including HTML, CSS, JavaScript through daily virtual meetings. Collaborated with team members in virtual meetings to discuss project objectives and progress. Developed the frontend of a food delivery app, implementing responsive design and ensuring cross-browser compatibility.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "OOPS",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "VS Code",
+      "Sql Workbench",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Sajith Salu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

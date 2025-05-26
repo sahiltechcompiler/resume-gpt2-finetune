@@ -1,0 +1,141 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Simarjeet Singh",
+  "college": "Guru Tegh Bahadur Institute of Technology (GGSIPU)",
+  "locations": [
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology (GGSIPU)",
+        "endDate": "July 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.1",
+        "field_of_study": "COMPUTER SCIENCE AND ENGINEERING",
+        "startDate": "Dec 2021"
+      },
+      {
+        "school": "S.S Mota Singh Model School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "Percentage: 86.80",
+        "field_of_study": "SCIENCE",
+        "startDate": ""
+      },
+      {
+        "school": "S.S Mota Singh Model School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Secondary Education",
+        "location": "New Delhi",
+        "ID": 2.0,
+        "grade_received": "Percentage: 90.83",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-Time Chat App",
+        "description": "Developed a full-stack Web application to display Chat messages. Messages appear in real-time, ensuring instant communication. Quick access to start private conversations. Push notifications for new messages and chat updates. Users can create or join group chats with multiple participants.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "React",
+          "MongoDB",
+          "Socket.io",
+          "Git",
+          "Postman"
+        ],
+        "endDate": "APRIL 23",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Netflix Clone",
+        "description": "Implemented a responsive frontend using React.js, ensuring seamless navigation and an intuitive interface. Created a robust backend using Express.js and Node.js to handle user authentication, video streaming, and database operations. Implemented user authentication and authorization features, enabling secure access to the platform. A CRUD application exposed using a RESTful API made with Node.js and React.js.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Firebase",
+          "Postman"
+        ],
+        "endDate": "MARCH 23",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Admin Dashboard",
+        "description": "Integrated Syncfusion UI components for user authentication, interactive charts, dynamic forms, and data tables within the dashboard. Employed advanced optimization techniques like lazy loading and streamlined data retrieval, significantly enhancing dashboard load times and overall performance. Delivered an impactful dashboard with enriched data visualization, resulting in improved user engagement and satisfaction.",
+        "keywords": [
+          "React.js",
+          "Syncfusion",
+          "Git"
+        ],
+        "endDate": "MARCH 23",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "WEB DEVELOPER INTERN",
+        "skillsUsed": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "Git"
+        ],
+        "endDate": "MAY 22",
+        "company_name": "CuriousJr",
+        "description": "Collaborated with the development team to design and implement engaging and interactive games aimed at teaching coding concepts to young learners. Participated in code reviews to ensure the quality and efficiency of the software, with a focus on optimization and best coding practices. Created detailed documentation for codebases, making it easier for team members to understand and maintain the projects.",
+        "location": "",
+        "links": "",
+        "startDate": "FEB 22"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "C++",
+      "ReactJs",
+      "HTML",
+      "CSS",
+      "NodeJs",
+      "ExpressJs",
+      "REST API",
+      "MongoDB",
+      "SQL",
+      "Git/GitHub",
+      "Linux",
+      "Postman",
+      "Firebase",
+      "JWT"
+    ],
+    "soft_skills": [],
+    "name": "Simarjeet Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,160 @@
+{
+  "project_count": 4.0,
+  "designation": "WebMaster",
+  "name": "Shubh Mittal",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech Honours",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.98 CGPA",
+        "field_of_study": "CSE with IOT&IS",
+        "startDate": ""
+      },
+      {
+        "school": "Boston Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "78%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St.Conrads Inter College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93.3%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI SaaS Platform",
+        "description": "A full-stack website that allows users to connect to and use cloud-based apps over the Internet. Software provided is through the Cloudinary API providing Image editing capabilities. Visualized GitHub data to show collaboration.",
+        "keywords": [
+          "NextJS",
+          "Typescript",
+          "Stripe"
+        ],
+        "endDate": "",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "Ship Repairing Company",
+        "description": "Developed a full-stack web application for a client that provides ship services Pan India. Visualized GitHub data to show collaboration. Used Recoil and LazyLoading for asynchronous tasks.",
+        "keywords": [
+          "ReactJS",
+          "Typescript",
+          "MongoDB",
+          "NodeJS",
+          "Recoil"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "alnashwan.me"
+      },
+      {
+        "name": "BigWigMedia AI",
+        "description": "Developed a full-stack web application for a client which is a one stop solution for all AI needs. Visualized GitHub data to show collaboration. Used GraphQl for designing fast, flexible & Developer-friendly APIs.",
+        "keywords": [
+          "ReactJS",
+          "Typescript",
+          "MongoDB",
+          "GraphQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://bigwigmedia.ai"
+      },
+      {
+        "name": "Fitness Studio WebApp",
+        "description": "A Fully Customizable WebApp which can be actively rebranded to operate as a functional Portal for A Gym. Ensured complete responsiveness by using Tailwind. Published for sale and available for re-branding of the deployable website.",
+        "keywords": [
+          "ReactJS",
+          "JavaScript",
+          "TailwindCSS",
+          "Git"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Training Program",
+        "skillsUsed": [],
+        "endDate": "Jun 2024",
+        "company_name": "PWC",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Freelancing",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "SQL (Postgres)",
+      "JavaScript",
+      "TypeScript",
+      "ReactJS",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "NextJS",
+      "Node.js",
+      "ExpressJS",
+      "GraphQL",
+      "RestAPI",
+      "SaaS",
+      "Git",
+      "Docker",
+      "VS Code",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Shubh Mittal",
+    "position": "WebMaster",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans List Excellence In Academics Award",
+      "Deans List Excellence In Academics Award"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech Honours"
+}

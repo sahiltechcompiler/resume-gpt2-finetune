@@ -1,0 +1,154 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rajesh Kumar Jashti",
+  "college": "SRM University AP",
+  "locations": [
+    "Bangalore",
+    "Hyderabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.42",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 94",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 86",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ecommerce Website",
+        "description": "Developed using the MERN stack enabling seamless integration between front-end and back-end components resulting in a 30% improvement in development efficiency. Established secure user authentication and authorization mechanisms with JWT and bcrypt, ensuring robust protection for user data and secure access control reducing unauthorized access attempts by 50%. Implemented a shopping cart system, allowing users to add, remove, and update items, and checkout process integrating with payment gateways with Razorpay for secure transactions.",
+        "keywords": [
+          "React JS",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "RazorPay"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Zoom Clone",
+        "description": "Implemented a polished and intuitive user interface using Flutter to replicate the functionality of the Zoom video-conferencing application. Developed a comprehensive real-time video conferencing platform featuring seamless video calling, screen sharing, and integrated chat functionality.",
+        "keywords": [
+          "Flutter",
+          "FireBase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Stock Management System",
+        "description": "Created an interactive and user-friendly Stock Management System using Java Swing to manage inventory efficiently, allowing users to perform CRUD (Create, Read, Update, Delete) operations on stock items. Utilized JDBC to connect the application to a MySQL database, ensuring robust data storage and retrieval, significantly improving data accuracy by 30%. Performed unit testing and debugging, resulting in 40% increase in application reliability and performance.",
+        "keywords": [
+          "Java",
+          "Java Swing",
+          "JDBC",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "UI/UX Designer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Agumentik Group of Companies",
+        "description": "Designed 10+ UI/UX responsive projects for web and mobile applications using Figma. Received positive feedback from users and stakeholders on the improved usability and visual appeal of the Real Estate Management System. Streamlined the design handoff process by creating detailed design specifications and guidelines, reducing development time by 15%.",
+        "location": "Bangalore",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Frontend Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "May 2022",
+        "company_name": "Hoozor Tech Services",
+        "description": "Collaborated with a team of 5 developers and designers to create responsive, user-friendly web applications using HTML, CSS, and JavaScript. Gained hands-on experience with version control systems like Git, collaborating with team members through 50+ pull requests and branches.",
+        "location": "Hyderabad",
+        "links": "",
+        "startDate": "Feb 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Flutter",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Firebase",
+      "PHP"
+    ],
+    "soft_skills": [
+      "Data Structures and Algorithms",
+      "Competitive Programming",
+      "Object-Oriented Programming",
+      "Operating Systems",
+      "DBMS",
+      "Git",
+      "Software Design",
+      "Exposure in Unix environment"
+    ],
+    "name": "Rajesh Kumar Jashti",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 450+ problems across LeetCode and GeeksforGeeks.",
+      "Hackerrank certified 3 stars in problem-solving and 4 stars in C, C++.",
+      "Secured 2903rd rank in AP engineering entrance test among 1.75L students."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

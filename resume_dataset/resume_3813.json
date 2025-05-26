@@ -1,0 +1,107 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ASTITVA KUMAR RAI",
+  "college": "Dr. APJ Abdul Kalam Technical University (AKTU)",
+  "locations": [
+    "Ghaziabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam Technical University (AKTU)",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "November 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Whisper",
+        "description": "Developed Whisper, a social media API enabling anonymous sharing and CRUD operations for posts and comments. Implemented GraphQL for ecient data querying and manipulation. Secured user data with bcrypt-protected passwords and JWT tokens, ensuring robust authentication and authorization mechanisms. Achieved seamless scalability and enhanced security by deploying on AWS EC2 with Docker containerization, supported by security groups and ELB for optimal performance.",
+        "keywords": [
+          "Node Js",
+          "Express Js",
+          "MongoDB",
+          "GraphQL",
+          "Docker",
+          "AWS EC2"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Quizo",
+        "description": "Established Quizo, a dynamic quiz API leveraging Docker and Redis for ecient management and scalability. Streamlined administration processes, enabling seamless creation of quizzes and questions for diverse user engagement. Enhanced user experience by providing interactive quiz-taking features and insightful feedback mechanisms, promoting continuous learning and growth.",
+        "keywords": [
+          "Node Js",
+          "Express Js",
+          "MongoDB",
+          "Redis",
+          "Docker"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Musik",
+        "description": "Facilitated seamless music discovery with Musiks playlist creation and editing features, empowering users to curate personalized listening experiences. Empowered artists to connect with their audience by enabling album creation, fostering engagement and loyalty among listeners. Enhanced user interaction and satisfaction by implementing like and unlike functionalitie, song management with Cloudinary integration for ecient uploading, ensuring smooth content delivery.",
+        "keywords": [
+          "Node Js",
+          "Express Js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Designing and Photography",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Team Footprints",
+        "description": "Led a team of 60 members in designing and photography, orchestrating successful execution of diverse events. Spearheaded event organization, showcasing strong management skills and fostering collaboration among team members for seamless coordination.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "Django",
+      "Node Js",
+      "Express Js",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "ASTITVA KUMAR RAI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Earned AWS Cloud Essentials badge certication, demonstrating prociency in foundational cloud computing principles and AWS services.",
+      "Excelled at futsal at a national level and demonstrated prowess in football at the state level, showcasing versatile athletic abilities."
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2021.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

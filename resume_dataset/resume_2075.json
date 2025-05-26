@@ -1,0 +1,174 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Aravinth",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React Complete Guide",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Workshop",
+        "issuer": "IIT Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Development",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.96",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "SafeSecure",
+        "description": "Engineered a full-stack insurance web application, elevating user experience, optimizing accessibility Utilized Axios APIs, LocalStorage for JSON Tokens to fetch user data and ensure secure authentication. Integrated Stripe for seamless, secure policy payments, enhancing user convenience and transaction efficiency.",
+        "keywords": [
+          "React JS",
+          "Node",
+          "Express JS",
+          "APIs (AXIOS)",
+          "Tailwind CSS",
+          "MySQL",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Rentify",
+        "description": "Developed a real estate platform with secure Local Storage and responsive design by using Tailwind CSS. Elevated user interaction with Clerk API, ensuring secure and responsive authentication flow. Integrated RazorPay API in Rentify for robust, secure, and seamless transaction between sellers and buyers.",
+        "keywords": [
+          "React JS",
+          "Tailwind CSS",
+          "Clerk",
+          "RazorPay",
+          "Node",
+          "Express JS",
+          "APIs (AXIOS)",
+          "MySQL",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Dronage",
+        "description": "Utilize Leaflet API to display real-time drone location for enhanced tracking. Calculate rental prices based on distance and travel time, ensuring fair pricing by Stripe Payment Gateway. Integrate user-friendly Routing system for smooth drone rental process using React Routing.",
+        "keywords": [
+          "React JS",
+          "Node JS",
+          "Express JS",
+          "APIs(Stripe, Leaflet, AXIOS)",
+          "MongoDB",
+          "Git",
+          "Github",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Social-Community",
+        "description": "Crafted a MERN stack platform with User Authentication, MULTER for media uploads, and Follow/Unfollow system, fostering seamless content engagement. Elevating UI and interactivity with Local Storage JSON for seamless User Authentication and engagement. Responsive Design Ensure the platform is accessible across various devices with a responsive design.",
+        "keywords": [
+          "React",
+          "Tailwind CSS",
+          "Node",
+          "Express JS",
+          "APIs (AXIOS)",
+          "MongoDB",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern Full Stack Development",
+        "skillsUsed": [],
+        "endDate": "Jun 2023",
+        "company_name": "NullClass Private Ltd",
+        "description": "Trained and led a team that tackled 35% more bugs, significantly enhancing code quality and reliability. Slashed deployment times by 12%, ensuring on-time delivery and surpassing client expectations for the Cheers Team. Accelerated response times by 30% on 2 projects, driving a 20% increase in customer satisfaction! Conquering Node/Express/React/Hooks, deployed 2 projects & boosted deployment skills by a whopping 53%!",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "React JS",
+      "Next JS",
+      "Tailwind CSS",
+      "Node JS",
+      "Express JS",
+      "MySQL",
+      "Adobe - Photoshop",
+      "Premier Pro",
+      "After Effects",
+      "Illustrator",
+      "Figma",
+      "Docker",
+      "Selenium",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Aravinth",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "950+ Problems Solved, Skillrack",
+      "250+ Problems Solved, Leetcode",
+      "Design, Media Team Lead, Hackerz Department Symposium",
+      "Achieved 2nd Place in CodeRelay and cash price of 1000, VIT Chennai (TechnoVIT'22)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.E."
+}

@@ -1,0 +1,232 @@
+{
+  "project_count": 7.0,
+  "designation": "",
+  "name": "Aishwarya Verma",
+  "college": "Agra College, Agra University",
+  "locations": [
+    "Bengaluru, KN",
+    "Remote",
+    "New Delhi",
+    "CURAJ, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "A Data Scientist with over 3 years of experience in crafting and deploying data-driven solutions to tackle intricate business challenges. Passionate about harnessing the power of data for informed decision-making and championing its transformative benefits. A diligent and quick learner, committed to continuously expanding my capabilities, skills, and knowledge. Proven leader with a talent for mentoring teams, communicating effectively with stakeholders, and consistently delivering high-quality results on time.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Central University of Rajasthan, School of Mathematics, Statistics and Computational Sciences",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Master of Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.92",
+        "field_of_study": "Computer Science, Big Data Analytics",
+        "startDate": ""
+      },
+      {
+        "school": "Agra College, Agra University",
+        "endDate": "June 2020",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 68.2%",
+        "field_of_study": "",
+        "startDate": "June 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Banking Analytics: DOPING",
+        "description": "Generative Data Augmentation for Unsupervised Anomaly Detection with GAN.",
+        "keywords": [],
+        "endDate": "DEC 2019",
+        "startDate": "JUL 2019",
+        "url": ""
+      },
+      {
+        "name": "Healthcare Analytics",
+        "description": "Machine Learning Applications in cancer prognosis and prediction.",
+        "keywords": [],
+        "endDate": "DEC 2019",
+        "startDate": "JUL 2019",
+        "url": ""
+      },
+      {
+        "name": "Market Analytics",
+        "description": "Improved nu-support vector regression model based on variable selection and Brainstorm Optimization for Stock Price Forecasting.",
+        "keywords": [],
+        "endDate": "DEC 2019",
+        "startDate": "JUL 2019",
+        "url": ""
+      },
+      {
+        "name": "Supply Chain Analytics",
+        "description": "Vehicle routing scheduling for cross-docking in the supply chain.",
+        "keywords": [],
+        "endDate": "DEC 2019",
+        "startDate": "JUL 2019",
+        "url": ""
+      },
+      {
+        "name": "Natural Language Processing",
+        "description": "Information extraction from Resume Documents.",
+        "keywords": [],
+        "endDate": "DEC 2019",
+        "startDate": "JUL 2019",
+        "url": ""
+      },
+      {
+        "name": "Exploratory Data Analysis",
+        "description": "University Feedback Survey.",
+        "keywords": [],
+        "endDate": "DEC 2019",
+        "startDate": "JUL 2019",
+        "url": ""
+      },
+      {
+        "name": "Database Management",
+        "description": "Restaurant Database Management System.",
+        "keywords": [],
+        "endDate": "DEC 2019",
+        "startDate": "JUL 2019",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Scientist",
+        "skillsUsed": [
+          "Machine Learning",
+          "Regression",
+          "Tress-based models",
+          "Time-Series Forecasting",
+          "Demand Forecasting",
+          "Demand Sensing",
+          "Supply Chain",
+          "Recommendation Algorithms",
+          "Matrix Factorization",
+          "Collaborative Filtering",
+          "Content-Based Filtering",
+          "Deep Learning",
+          "Python",
+          "Github",
+          "Airflow",
+          "MLFlow",
+          "AzureML",
+          "Model Explainability(SHAP)",
+          "Adstock Transformations",
+          "Excel",
+          "Streamlit"
+        ],
+        "endDate": "PRESENT",
+        "company_name": "CREST AI (MATELABS)",
+        "description": "Played a key role in institutionalizing Data Science within the International Business Groups (IBG), enabling data-driven demand planning and optimizing inventory management. Designed and implemented a robust forecast engine tool, utilized by various sub-teams for diverse forecasting activities. Led End-to-End demand forecasting projects for Bangladesh and Vietnam, improving prediction accuracy and enhancing responsiveness to market changes. Led and managed a recommendation engine for retailers, for boosting sales through personalized product suggestions.",
+        "location": "Bengaluru, KN",
+        "links": "",
+        "startDate": "MAY 2022"
+      },
+      {
+        "role_name": "Associate Data Scientist",
+        "skillsUsed": [
+          "Machine Learning",
+          "Python",
+          "API creation & handling",
+          "Python-based apps",
+          "worked with sockets"
+        ],
+        "endDate": "APR 2022",
+        "company_name": "MACHINE HACK",
+        "description": "Developed a hackathon system to accommodate diverse AI/ML problem statements. Managed Python development, implemented new tools, and developed independent products to enhance data processing and analysis capabilities. Created 200+ notebooks for hands-on practice problems for data science beginners. Conducted workshops and created technical content.",
+        "location": "Bengaluru, KN",
+        "links": "",
+        "startDate": "APR 2021"
+      },
+      {
+        "role_name": "Data Science Content Writer",
+        "skillsUsed": [],
+        "endDate": "MAR 2021",
+        "company_name": "ANALYTICS INDIA MAGAZINE",
+        "description": "Served as a technical writer focusing on distilling complex Data Science advancements into clear, accessible content.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "JAN 2021"
+      },
+      {
+        "role_name": "Machine Learning Engineer Intern",
+        "skillsUsed": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "SOTA algorithms",
+          "Python"
+        ],
+        "endDate": "MAR 2021",
+        "company_name": "MYWAYS LIFE LAYOUTS PVT. LTD",
+        "description": "Developed recommendation system models and managed production infrastructure, databases, and application architecture as part of the core technical team, also developed a resume-parser tool. Implemented advanced NLP using State of the art algorithms for tasks such as classification and Question-Answering Systems. Supervised and mentored interns to support their professional growth and development.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "JAN 2021"
+      },
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "OCT 2019",
+        "company_name": "Central University of Rajasthan",
+        "description": "Assisted Dr. Manas Patra, Head of Department, in conducting Python programming courses, providing students with hands-on practical sessions.",
+        "location": "CURAJ, Rajasthan",
+        "links": "",
+        "startDate": "JUL 2019"
+      },
+      {
+        "role_name": "Leader",
+        "skillsUsed": [],
+        "endDate": "PRESENT",
+        "company_name": "GEek Session",
+        "description": "Led sessions on various Data Science topics for the broader Marico Data Science team, fostering knowledge sharing and continuous learning.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "APR 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "R",
+      "C++",
+      "C",
+      "Snowflake",
+      "Azure (ML, Key Vault, Blob)",
+      "Airflow",
+      "AWS (EC2, SQS)",
+      "MongoDB",
+      "Pandas",
+      "Numpy",
+      "Scikit-Learn",
+      "Prophet",
+      "Statsmodels",
+      "SHAP",
+      "Hyperopt",
+      "Optuna",
+      "Streamlit",
+      "PyTorch",
+      "Tensorflow",
+      "Flask",
+      "FastAPI",
+      "HuggingFace"
+    ],
+    "soft_skills": [],
+    "name": "Aishwarya Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Bengaluru, Karnataka (560102)",
+  "graduation_year": 2020.0,
+  "experience_count": 6.0,
+  "degree": "Bachelor of Science"
+}

@@ -1,0 +1,141 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "NAROTTAM KUMAR",
+  "college": "Noida Institute of Engineering and Technology ( AKTU )",
+  "locations": [
+    "Greater Noida"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic CSE graduate skilled in Web Development, DSA, OOPS, Java and Python. Experienced in diverse projects and internships. Passionate about continuous learning and eager to contribute to a dynamic environment.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology ( AKTU )",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "6.5/10",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2022"
+      },
+      {
+        "school": "Accurate Institute of Polytechnic (UPBTE)",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Greater Noida",
+        "ID": 1.0,
+        "grade_received": "78.6%",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather Forecast Web Application",
+        "description": "Developed a web application to display 3-day weather forecasts using OpenWeatherMap, including details like weather conditions (clouds, sun, rain), temperature, humidity, sunrise, and sunset times. Implemented features using OpenWeatherMap API to display weather forecasts based on city name input, city search via a form, and city search via URL, enabling easy sharing of weather links.",
+        "keywords": [
+          "Bootstrap",
+          "JavaScript",
+          "API",
+          "MySQL"
+        ],
+        "endDate": "Dec 2022",
+        "startDate": "Nov 2022",
+        "url": ""
+      },
+      {
+        "name": "Task Scheduler : TO-DO List",
+        "description": "An interactive project used to Schedule Daily Tasks. This is a web application, that lists all the tasks and sends notifications about the pending and completed task.",
+        "keywords": [
+          "Spring Boot",
+          "JDBC",
+          "MySQL",
+          "Advance Java"
+        ],
+        "endDate": "June 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Auto Typer",
+        "description": "Types the exact prompt and content with precise spacing and indentation in any editor, IDE, or application.",
+        "keywords": [
+          "Python",
+          "Tkinter"
+        ],
+        "endDate": "July 2024",
+        "startDate": "June 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "Basket Hunt",
+        "description": "Assisted in the development of a dynamic shopping website, contributing to its design and functionality. Worked closely with the design team to translate mockups and wireframes into fully functional web pages.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      },
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [],
+        "endDate": "September 2023",
+        "company_name": "Upskill Campus",
+        "description": "Created a bank management system that performs all CRUD operations and maintains records. Developed a link shortener that converts links into bit.ly and other formats.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "March 2022",
+        "company_name": "Coding Ninjas",
+        "description": "Taught new problem-solving approaches, assisted in debugging, and facilitated practical learning. Guided students in DSA, OOPS, and Java, helping them understand core concepts.",
+        "location": "",
+        "links": "",
+        "startDate": "November 2021"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "MySQL",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "API",
+      "React",
+      "Data Structures and Algorithm",
+      "Linux"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Effective Communication",
+      "Time Management",
+      "Design Thinking",
+      "Adaptability"
+    ],
+    "name": "NAROTTAM KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved Runner-Up position in an Inter-College Hackathon.",
+      "Secured 2nd Position in Delhi Zonals Boxing Competition."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

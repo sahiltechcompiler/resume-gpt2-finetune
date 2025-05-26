@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Polu Siva Sai Cherish",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Some Board",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "State Board",
+        "endDate": "2019",
+        "maximum_grade": "10.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.5/10.0",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Appstore SRMAP CRCS TrackR",
+        "description": "Developed a career management app in Flutter for university which is utilized used by 1200+ students, enhancing efficiency and real-time updates. implemented OAuth-based login, device-based authentication, and QR code attendance, making academic management 100% paperless",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Insightfy",
+        "description": "Developed an AI-powered content summarization and analysis full stack application, featuring AI-driven summarization, sentiment analysis, keyword extraction, named entity recognition, and parts of speech tagging to provide concise summaries and key insights from text content.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Pixel Plank",
+        "description": "Developed Pixel Pslank, a real-time collaborative whiteboard app using React, Tailwind CSS, Socket.io, Ex- press, and MongoDB. implemented Real-time drawing, user presence tracking, anonymous guest mode, and secure JWT authentication for user management and seamless interaction.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Intern",
+        "skillsUsed": [],
+        "endDate": "Oct 2023",
+        "company_name": "COUPLESQUAD",
+        "description": "Contributed to the development of Version 2 of the primary website, focusing on UI enhancements using Material-UI. Optimized the backend codebase and integrated Socket.IO for real-time messaging, seamlessly integrating various APIs and developing new APIs to enhance overall system functionality.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Front End Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "BRAGTECH",
+        "description": "Supervised a team of four developers to create high-performance web pages with Next.js and Tailwind CSS, resulting in a 30% improvement in user experience. Developed a custom Content Management System (CMS) using Firebase, optimizing blog and content management processes.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Open Source Contributor",
+        "skillsUsed": [],
+        "endDate": "Apr 2023",
+        "company_name": "",
+        "description": "Contributed to over 12+ successfully merged PRs across Mozilla, enhancing functionality, improving the codebase, and resolving frontend issues. Played a pivotal role in 6 successful PRs across Zulip and ZuHub, focusing on frontend development, including implementing shortcut features, cleaning code, and resolving CSS bugs to enhance user interface and experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Mar 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "SQL",
+      "React.js",
+      "Redux",
+      "Next.js",
+      "Tailwind CSS",
+      "SCSS",
+      "Material-UI",
+      "Express.js",
+      "Node.js",
+      "Django",
+      "Firebase",
+      "Flutter",
+      "AWS",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "Polu Siva Sai Cherish",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Won in C Square 24-Hour Hackathon out of 43 Teams. Hackathon Club, SRM University. AP. Link",
+      "Participated in FOSSASIA 2024 Hackathon. Link"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelors Degree"
+}

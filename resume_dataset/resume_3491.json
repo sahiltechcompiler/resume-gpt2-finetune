@@ -1,0 +1,126 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Abhinav Yadav",
+  "college": "ABES Engineering College",
+  "locations": [
+    "Ghaziabad",
+    "Canada - Remote",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "GeeksForGeeks ABESEC Chapter Technical Lead and Open Source Coordinator: Conducted events and helped students with Open Source contributions. Planned weekly events and sessions, providing mentorship for various technologies."
+    ],
+    "education": [
+      {
+        "school": "ABES Engineering College",
+        "endDate": "July 2023",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "7.1/10 CGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Vidify",
+        "description": "This is a Django video processing app that uses the FFMPEG library at the backend to extract audio and add watermark to the uploaded video. The application also implements custom watermark overlay feature where the user can either supply exact x,y coordinates or use predefined places to put watermark on. Utilises User model of Django and JWT authentication for user sign up and login before using the API for video processing. The application also stores the details of the Videos and the Processed videos and the user who uploaded them in the PostgreSQL db.",
+        "keywords": [
+          "Python",
+          "Django",
+          "FFMPEG",
+          "DRF"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Youtube - Listener",
+        "description": "Designed and developed a video synchronisation service using Django to fetch and store YouTube videos in a PostgreSQL database. Employed Django framework along with Celery and RabbitMQ for asynchronous task management, enhancing the applications performance and scalability. Implemented efficient database operations, including bulk create operations and indexing, to enhance data handling and overall system performance. Configured API endpoints with pagination, filtering capabilities, and support for multiple YouTube API keys, ensuring a smooth and efficient user experience.",
+        "keywords": [
+          "Python",
+          "Django",
+          "Celery",
+          "RabbitMQ",
+          "DRF"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer Intern",
+        "skillsUsed": [],
+        "endDate": "September 2023",
+        "company_name": "Tholos Inc.",
+        "description": "Developed serverless AWS Lambda functions to create and manage various endpoints, executing scripts and performing tasks for an advanced crypto wallet. Integrated multiple web3 services to retrieve and process blockchain information. Integrated multiple third-party APIs into the Tholos backend, enhancing the crypto wallet by incorporating transaction and blockchain data, thereby creating new user features and improving overall functionality. Utilized Prisma and Prisma Client Python for database management, adding new functionalities and tables in PostgreSQL to store and retrieve wallet IDs and transaction details from third-party APIs.",
+        "location": "Canada - Remote",
+        "links": "",
+        "startDate": "2020"
+      },
+      {
+        "role_name": "Open - Source Developer",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Google Summer of Code: Django Software Foundation",
+        "description": "Developed an internal JSON Parser for Django, enabling automatic conversion of JSON data to Python dictionaries for requests with application/json content-type, simplifying data access and reducing the need for custom parsing logic. Designed and developed a Configurable Content Parser API, solving a 12-year community challenge by allowing users to add custom parsers for different content types, streamlining parser addition and reducing boilerplate code while maintaining backward compatibility. Modernized the http.request object by updating naming conventions from PHP-inspired to more Pythonic names, improving code readability and maintainability. Recognized in the Django Author list for significant contributions to the framework, showcasing expertise and impact within the open-source community.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Open Source Contributor",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Django",
+        "description": "Collaborated across the globe and contributed with 5+ merged pull requests. Developed new features and resolved bugs in multiple Django modules such as ORM, Signing, HTTP, and database, improving the robustness and functionality of the framework. Increased test coverage by writing unit tests for patches. Authored over 500 lines of code reviewed and approved by global maintainers, reflecting adherence to high coding standards and practices.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Golang",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "Shell Script",
+      "Django",
+      "FastAPI",
+      "GitHub",
+      "Docker",
+      "BeautifulSoup",
+      "Flask",
+      "Prisma Python Client",
+      "PostgreSQL",
+      "SQLite",
+      "MongoDB",
+      "AWS",
+      "Docker",
+      "Socket.IO",
+      "Redis",
+      "RabbitMQ"
+    ],
+    "soft_skills": [],
+    "name": "Abhinav Yadav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

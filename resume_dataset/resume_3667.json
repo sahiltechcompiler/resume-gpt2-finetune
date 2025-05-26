@@ -1,0 +1,105 @@
+{
+  "project_count": 3.0,
+  "designation": "Deputy Head of Logistics",
+  "name": "Aaditya Singh",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "9.17 CGPA",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Medication Management App for geriatric Patients",
+        "description": "Developed a Medication Reminder App: Built a mobile app using TensorFlow Lite and Flutter to assist elderly individuals in remembering their medications through tailored Guardian and Patient modes. Implemented YOLOv8 Model for Medication Detection: Integrated a YOLOv8 model to enable accurate detection and verification of medications using the phone camera. Guardian and Patient Functionality: Designed the app with two distinct modesGuardian Mode for adding medication details and Patient Mode for detecting medications and notifying guardians upon consumption.",
+        "keywords": [],
+        "endDate": "2025",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "Full-Stack Course Marketplace with React and Node.js Integration",
+        "description": "Developed a Course Selling Website: Built a full-stack web application using Express for the backend and React with JavaScript for the frontend, integrated seamlessly with Node.js. Enhanced Functionality with Custom Hooks: Implemented custom hooks to improve the functionality and interactivity of the website, providing a more dynamic user experience. Gained Insights into React Hooks and Integration: Acquired valuable experience in React hooks and the integration of backend and frontend components through this learning project.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real Time Chat Messaging App",
+        "description": "Developed a Communication Platform for Medical Professionals: Built a robust app using Express, React, and Node.js, designed specifically to enhance collaboration and efficiency among medical professionals. Implemented Messaging Features: Enabled direct and group messaging, allowing users to edit and delete messages, and integrated support for GIFs and emoji reactions to enrich conversations. Real-Time Responsiveness: Ensured the platform is fully responsive across devices, utilizing webhooks and an API stream for real-time communication.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Deputy Head of Logistics",
+        "skillsUsed": [
+          "React.js"
+        ],
+        "endDate": "",
+        "company_name": "ACM Student Chapter, MUJ",
+        "description": "Collaborated with members of ACM SIGBED in Projects & Research team to develop and execute various initiatives related to Embedded Systems. Utilized React.js to enhance the frontend design of the website, resulting in an improved user experience and increased traffic.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "JAVA",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "PHP",
+      "Git",
+      "Bootstrap",
+      "Tailwind CSS",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Passport.js",
+      "MongoDB",
+      "MySQL",
+      "EJS",
+      "Numpy",
+      "Pandas",
+      "AWS",
+      "Machine Learning",
+      "OpenCV"
+    ],
+    "soft_skills": [],
+    "name": "Aaditya Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "AWS Cloud Foundational Certification",
+      "Deans List Excellence Award"
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

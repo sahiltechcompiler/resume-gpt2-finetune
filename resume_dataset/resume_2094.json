@@ -1,0 +1,119 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shabber Shaik",
+  "college": "SRM University - AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University - AP",
+        "endDate": "present",
+        "maximum_grade": "10.00",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.65/10.00",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Krishna Chaitanya Junior College",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "Class 12",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage : 94.5/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Vivekananda High School",
+        "endDate": "2019",
+        "maximum_grade": "10.0",
+        "degree": "Class 10",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA : 8.8/10.0",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Doctor Appointment Web-Application",
+        "description": "Online-consultation with a doctor could be useful in scenarios where the patient cant visit the hospital physically due to some reason. Provides various features to the patient which includes the ability to choose doctor and the appointment slot of their choice and doctor can update the available slots time-to-time.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJS",
+          "ExpressJS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Person Authentication using EEG",
+        "description": "EEG could potentially help in achieving secure, reliable & effective way of authenticating an individual. Built Machine-Learning models which use different algorithms (Random Forest, SVM, Artificial Neural Network - ANN), that are trained on the PhysioNet - EEG MMI Dataset - contains EEG signals captured from 109 individuals. Developed using various libraries in python like numpy, pandas, scikit-learn and also used matplotlib to visualize the results in various forms.",
+        "keywords": [
+          "Machine Learning",
+          "Random Forest",
+          "SVM",
+          "Artificial Neural Network",
+          "numpy",
+          "pandas",
+          "scikit-learn",
+          "matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [
+          "Data Mining",
+          "Python",
+          "YouTube API"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Internships",
+        "description": "Generated a dataset containing details regarding top trending videos on YouTube with the help of a YouTube API. Performed various data-mining techniques and found the hidden patterns and correlation amongst the features of dataset using different python libraries.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "JavaScript",
+      "Visual Studio Code",
+      "NodeJS",
+      "HTML",
+      "CSS",
+      "ReactJS"
+    ],
+    "soft_skills": [],
+    "name": "Shabber Shaik",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

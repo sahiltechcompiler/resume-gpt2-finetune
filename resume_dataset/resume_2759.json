@@ -1,0 +1,127 @@
+{
+  "project_count": 2.0,
+  "designation": "MERN Stack Developer",
+  "name": "Ajay Prajapati",
+  "college": "VIT",
+  "locations": [
+    "Vellore, Tamil Nadu",
+    "Bhopal, Madhya Pradesh",
+    "Ahmedabad, Gujarat"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "VIT",
+        "endDate": "06 2024",
+        "maximum_grade": "",
+        "degree": "MCA",
+        "location": "Vellore, Tamil Nadu",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.65",
+        "field_of_study": "",
+        "startDate": "06 2022"
+      },
+      {
+        "school": "MCRPV University",
+        "endDate": "06 2021",
+        "maximum_grade": "",
+        "degree": "BCA",
+        "location": "Bhopal, Madhya Pradesh",
+        "ID": 1.0,
+        "grade_received": "CGPA - 7.96",
+        "field_of_study": "",
+        "startDate": "06 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "PM SuryaGhar Muft Bijli Yojana (Gov. Portal)",
+        "description": "Contributed to the PM Suryaghar Muft Bijli Yojana, a government initiative installing rooftop solar systems across one crore households, providing up to 300 units of free electricity monthly.",
+        "keywords": [
+          "React Js",
+          "Node.js",
+          "Express.js",
+          "MySQL",
+          "Postman",
+          "Git",
+          "GitLab",
+          "Docker"
+        ],
+        "endDate": "Present",
+        "startDate": "March 2024",
+        "url": ""
+      },
+      {
+        "name": "Pizza Application - Personal Project",
+        "description": "Developing a Pizza Web Application with an Admin Panel using React.js and Next.js, integrating microservices and technologies like Docker, Kubernetes, and AWS S3 for future scalability.",
+        "keywords": [
+          "React.js",
+          "Next.js",
+          "Docker",
+          "Kubernetes",
+          "AWS S3"
+        ],
+        "endDate": "Present",
+        "startDate": "June 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "MERN Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "AHASolar Technologies Ltd.",
+        "description": "",
+        "location": "Ahmedabad, Gujarat",
+        "links": "",
+        "startDate": "July 2024"
+      },
+      {
+        "role_name": "MERN Stack Developer - Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "AHASolar Technologies Ltd.",
+        "description": "",
+        "location": "Ahmedabad, Gujarat",
+        "links": "",
+        "startDate": "September 2023"
+      }
+    ],
+    "skills": [
+      "Frontend: React Js",
+      "Redux",
+      "Material UI",
+      "Tailwind CSS",
+      "JavaScript",
+      "Responsive Web Design",
+      "Backend: Node Js",
+      "Express Js",
+      "MySQL",
+      "Sequelize/Drizzle ORM",
+      "MongoDB",
+      "Procedures",
+      "DevOps & Tools: Git",
+      "GitHub",
+      "GitLab",
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipeline",
+      "Other Skills: Data Structure & Algorithms"
+    ],
+    "soft_skills": [],
+    "name": "Ajay Prajapati",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ahmedabad, Gujarat",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "MCA"
+}

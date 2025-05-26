@@ -1,0 +1,132 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ADITYA ANAND",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Punjab, India",
+    "Patna, Bihar"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Punjab, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.23",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Teresa International Academy",
+        "endDate": "March 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Patna, Bihar",
+        "ID": 1.0,
+        "grade_received": "Percentage: 69%",
+        "field_of_study": "",
+        "startDate": "April 2019"
+      },
+      {
+        "school": "Keshav Saraswati Vidya Mandir",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Patna, Bihar",
+        "ID": 2.0,
+        "grade_received": "Percentage: 74%",
+        "field_of_study": "",
+        "startDate": "April 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AWS GLUE ETL PROJECT: CSV TO PARQUET",
+        "description": "Create an S3 bucket, upload a CSV file, and configure an IAM role for AWS Glue. Set up a database and table in AWS Glue using a crawler to infer the CSV schema. Configure and run an ETL job to transform the CSV file to Parquet format, then verify the output in S3",
+        "keywords": [
+          "AWS S3",
+          "IAM",
+          "GLUE"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "3-TIER ARCHITECTURE DEPLOYMENT ON AWS",
+        "description": "Includes presentation, application, and data tiers for UI, processing, and storage. Reduces development time, improves scalability, and enhances reliability and security. Promotes better teamwork and resource utilization.",
+        "keywords": [
+          "AWS EC2",
+          "ELB",
+          "RDS",
+          "VPC"
+        ],
+        "endDate": "October 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "UNIVERSITY MANAGEMENT SYSTEM",
+        "description": "Developed key features to boost student retention and faculty productivity. Enhanced security, reducing data breaches. Delivered a user-friendly system, improving productivity and query performance.",
+        "keywords": [
+          "JAVA",
+          "SQL"
+        ],
+        "endDate": "July 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AWS Intern",
+        "skillsUsed": [
+          "AWS ( EC2, S3, ELB, RDS, CloudFormation)"
+        ],
+        "endDate": "February 2024",
+        "company_name": "HAPPIELOOP TECHNOLOGY",
+        "description": "Deployed EC2, S3, and Elastic Load Balancers, reducing server downtime by 50% and improving reliability. Used AWS CloudFormation to cut deployment time by 50% and enhance scalability. Accelerated provisioning and scalability with AWS CloudFormation, reducing deployment time by 40%",
+        "location": "",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "SQL",
+      "AWS",
+      "GIT",
+      "Hadoop(HDFS",
+      "MapReduce)",
+      "Selenium"
+    ],
+    "soft_skills": [
+      "Problem-Solving Skills",
+      "Team Player",
+      "Adaptability",
+      "Attention to Details"
+    ],
+    "name": "ADITYA ANAND",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "HackerRank SQL 3 Star: Solved 25+ Easy and Medium Questions",
+      "HackerRank JAVA 2 Star: Solved 75+ Easy and Medium Questions",
+      "One among Deans top 10 % students at university: For good academic performance and extra-curricular activities at university.",
+      "TCS NQT: Marks : 1433.14/1800",
+      "AWS Academy Cloud Foundations Badge: Provided by Amazon Web Services Training and Certification upon completing all the labs in the AWS Academy."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

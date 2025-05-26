@@ -1,0 +1,177 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "HARSH NAIK",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Mumbai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Certification in Design and Analysis of Algorithms",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certification in Enterprise Networking Security and Automation",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certification in Switching, Routing and Wireless Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certification in Agile virtual Experience by JPMorgan Chase and Co",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certification in Database Design by Oracle",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certification in Database Foundation",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (Hons.)",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Aug 2021"
+      },
+      {
+        "school": "Nirmala Institute of science and commerce",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary School Certificate (HSC)",
+        "location": "Mumbai",
+        "ID": 1.0,
+        "grade_received": "Overall Percentage: 92",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Search Engine",
+        "description": "The project aims to develop a system for efficiently organizing and searching a document collection using natural language queries. It will utilize entity recognition and tokenization to identify keywords, index PDFs by reading and categorizing their content, and provide accurate, intuitive search results. The project aims to develop a search engine that tracks employee attendance and working hours. Using natural language processing and tokenization, the system will interpret user queries, search relevant records, and generate detailed Excel reports on attendance patterns and working hours.",
+        "keywords": [],
+        "endDate": "26 July 2024",
+        "startDate": "27 May 2024",
+        "url": ""
+      },
+      {
+        "name": "Face identification",
+        "description": "The project aims to develop a system for efficiently organizing and searching a document collection using natural language queries. It will utilize entity recognition and tokenization to identify keywords, index PDFs by reading and categorizing their content, and provide accurate, intuitive search results. The project aims to develop a search engine that tracks employee attendance and working hours. Using natural language processing and tokenization, the system will interpret user queries, search relevant records, and generate detailed Excel reports on attendance patterns and working hours.",
+        "keywords": [],
+        "endDate": "Nov 2022",
+        "startDate": "Aug 2022",
+        "url": ""
+      },
+      {
+        "name": "Research on multiple methods under Time Forecasting",
+        "description": "Spearheaded a time forecasting project utilizing advanced statistical models and machine learning techniques. Developed predictive models including ARIMA (AutoRegressive Integrated Moving Average) and LSTM (Long Short-Term Memory) networks for time series forecasting. Pre-processed data to handle missing values, outliers, and seasonality. Engineered features for better model performance, and validated accuracy through cross-validation and back testing.",
+        "keywords": [],
+        "endDate": "Nov 2022",
+        "startDate": "Aug 2022",
+        "url": ""
+      },
+      {
+        "name": "Algorithmic Trading Bot",
+        "description": "Developed an algorithmic trading bot leveraging the Fyers API and trading view for seamless integration with the stock market. Implemented automated trading strategies using Python, incorporating technical indicators and machine learning models for decision-making. Utilized Selenium for web automation, enabling the bot to interact with the Fyers trading platform programmatically.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "26 July 2024",
+        "company_name": "Larsen and Toubro",
+        "description": "collaborated on developing a search engine system, focusing on improving search accuracy and efficiency. Designed and implemented features to extract keywords from queries provided by the user and perform search operations on attendance Excel sheets and index documents using natural entity recognition and tokenization.",
+        "location": "",
+        "links": "",
+        "startDate": "27 May 2024"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Naye Pankh Foundation",
+        "description": "Raised Fund for the foundation. Volunteered in Food providing campaigns for people and animals. Promoted to team manager of multiple interns.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "HTML",
+      "SQL",
+      "CSS",
+      "Data Science",
+      "AI",
+      "ML",
+      "Agile Methodology",
+      "Pandas",
+      "Numpy",
+      "TensorFlow"
+    ],
+    "soft_skills": [],
+    "name": "HARSH NAIK",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology (Hons.)"
+}

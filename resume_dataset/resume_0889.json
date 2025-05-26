@@ -1,0 +1,278 @@
+{
+  "project_count": 6.0,
+  "designation": "",
+  "name": "Aditya Kumar Pandey",
+  "college": "Manipal Institute Of Technology",
+  "locations": [
+    "Manipal, India",
+    "Bihar, India",
+    "Udupi, India",
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science ToolsBox",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "R Programming",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Reproducible Research",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Exploratory Data Analysis",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting And Clean Data",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "HTML,CSS,JAVA SCRIPT FOR Web Devlopers",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Neural Networks And Deep Learning",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python And Pandas For Data Engineering",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Practicle Machine Learning",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Statical Inferance",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal Institute Of Technology",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Manipal, India",
+        "ID": 0.0,
+        "grade_received": "CGPA- 7.52",
+        "field_of_study": "Civil Engineering With Minor in Data Science",
+        "startDate": "Oct. 2020"
+      },
+      {
+        "school": "Dssv College Simri Buxar",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Bihar, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fashion Recommender System",
+        "description": "Developed a Fashion Recommendation System leveraging Convolutional Neural Networks (CNNs) and ResNet architecture. Achieved significant improvements in recommendation accuracy through advanced feature extraction and classification techniques.",
+        "keywords": [
+          "Deep Learning(CNN)",
+          "Transfer Learning(ResNet50)",
+          "Tensorflow",
+          "pycharm"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Django-Ecommerce-Web",
+        "description": "Developed a comprehensive e-commerce platform with the goal of providing a seamless online shopping experience. The website incorporated essential features for user-friendly navigation, secure transactions, and efficient order management.",
+        "keywords": [
+          "Django",
+          "python",
+          "Bootstrap",
+          "React",
+          "Data base",
+          "Authentication and Authz"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WhatsApp chat Analyzer",
+        "description": "Developed an end-to-end data analysis pipeline to analyze WhatsApp chat data. Built an interactive dashboard using Streamlit, enabling non-technical users to explore chat data insights.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "Pandas",
+          "Matplotlib",
+          "Streamlit",
+          "Git",
+          "NLP",
+          "Jupyter Notebook"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "House Price Predictor",
+        "description": "A Webapp that predicts the price of your house in chennai after taking input certain variables. The webpage passes on your information to a flask server (hosted on EC2 UBUNTU instance on Aws) that performs calculations for you in accordance with a tried and tested out linear regression model on testing dataset retrieved from kaggle and returns an estimate back to the webpage.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Machine Learning(Linear Regression)",
+          "EC2 ON AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Olympics Data Analysis",
+        "description": "Developed an interactive web application for analyzing and visualizing historical Olympics data using Python and Streamlit. Created interactive and static plots using Seaborn and Plotly to provide insights into various aspects of the Olympics, such as medal counts, athlete performance, and country-wise statistics.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "Pandas",
+          "Seaborn",
+          "Plotly",
+          "Streamlit",
+          "Heroku",
+          "Git"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolios Website",
+        "description": "Built Personal portfolios website.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Java script",
+          "Bootstraps"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://adityakrpandeyportfoli.netlify.app"
+      }
+    ],
+    "languages": [
+      "ENGLISH",
+      "HINDI"
+    ],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Distric Health Office (DHO)",
+        "description": "Designed and implemented Janani, a Flutter app aimed at providing vital information and assistance to expectant mothers. Worked with Google Firebase to manage user inputted data across multiple platforms including web and mobile apps. Collaborated with team members using version control systems such as Git to organize modifications and assign tasks. Use Android Studio as a development environment in order to visualize the application in both iOS and Android. Utilized Flutter framework and Dart programming language to build the cross-platform Jananai app.",
+        "location": "Udupi, India",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "NITI AAYOG",
+        "description": "Applied machine learning algorithms to analyze healthcare data and predict disease outbreaks, contributing to proactive public health measures. Analyzed healthcare datasets related to patient demographics, disease prevalence, treatment efficacy, and healthcare infrastructure to support evidence-based decision-making. Created interactive dashboards and reports to communicate complex healthcare data effectively to stakeholders, including government officials and public health experts. Documented database processes and procedures, creating a comprehensive reference for future team members.",
+        "location": "New Delhi, India",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "c++",
+      "Python",
+      "C",
+      "Dart Programming",
+      "Swift",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "problems and people management",
+      "public speaking"
+    ],
+    "name": "Aditya Kumar Pandey",
+    "position": "",
+    "interests": [
+      "SWIMMING",
+      "READING"
+    ],
+    "achievements_and_awards": [
+      "Secured 97.234 Percentile In JEE MAIN And Qualified For JEE ADVANCE.",
+      "Amongst Top 1000 Students across Patna Bihar to qualify pre- RMO and appear for Regional Mathematics Olympiad."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

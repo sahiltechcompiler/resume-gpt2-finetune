@@ -1,0 +1,143 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Navya Rajvanshi",
+  "college": "K.I.E.T Group of Institutions",
+  "locations": [
+    "Delhi-NCR",
+    "Jhansi, U.P",
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to natural language processing",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL for beginners: Learn SQL using MySQL and database design course",
+        "issuer": "Scaler Topics",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "K.I.E.T Group of Institutions",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi-NCR",
+        "ID": 0.0,
+        "grade_received": "8.0 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "Blue Bells Group of Schools",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermidate",
+        "location": "Jhansi, U.P",
+        "ID": 1.0,
+        "grade_received": "81 Percentage",
+        "field_of_study": "ISC",
+        "startDate": ""
+      },
+      {
+        "school": "Blue Bells Group of Schools",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Jhansi, U.P",
+        "ID": 2.0,
+        "grade_received": "88 Percentage",
+        "field_of_study": "ICSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Agri-Go",
+        "description": "Engineered an end-to-end solution for plant disease detection utilizing Convolutional Neural Networks (CNNs) and Support Vector Machines (SVMs). Employed Python alongside TensorFlow, Keras, and Scikit-learn libraries for model construction and deployment. Integrated Soil-driven modules recommend crops, predict fertilizer needs.",
+        "keywords": [
+          "CNNs",
+          "SVMs",
+          "Decision trees",
+          "Random forests"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Financia",
+        "description": "Created a comprehensive fintech platform for expense tracking, budget planning, and real-time assistance through a chat-bot interface. Implemented the front-end using HTML, CSS, and JavaScript to create intuitive user interfaces for seamless navigation and interaction and PHP for back-end.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "CNN",
+          "Firebase"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Edunet Foundation | EY-GDS AICTE",
+        "description": "Developed a note-sharing platform leveraging Djangos MVC architecture. Implemented RESTful APIs for seamless integration with frontend frameworks. Employed Djangos built-in admin interface for easy content management.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "Technohacks EduTech Pvt. Ltd.",
+        "description": "Completed three key projects: House price prediction, Wine quality prediction and Iris flower classification. Developed predictive models using Scikit-learn and TensorFlow, resulting in a 20% increase in customer retention. Optimized data by prepossessing, feature selection, and model evaluation; achieved 40 % increase in predictive accuracy.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "February 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Navya Rajvanshi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated at GIT, Jaipur",
+      "Codefiesta 2.0"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,120 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Harshit Rai",
+  "college": "Dr. A. P. J. Abdul Kalam Technical University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A. P. J. Abdul Kalam Technical University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.75",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "ISC board",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "92",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "ICSE board",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "91.2",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "NEXUS",
+        "description": "Made a portal to track and analyze student rankings in various coding contests on platforms such as CodeChef and Codeforces and find their college-level rank through web scraping. Developed an admin portal for the department, allowing real-time result tracking and making announcements. Designed APIs using RESTful principles adhering to industry best practices. Implemented secure and robust JWT and cookies-based authentication for user access, prioritizing data integrity and user privacy. Implemented CI/CD pipelines using Docker, streamlining the development, testing, and deployment processes for increased efficiency. Deployed the backend on AWS EC2 and with S3 bucket.",
+        "keywords": [
+          "JavaScript",
+          "React.js",
+          "Express",
+          "MongoDB",
+          "Docker",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real Estate Marketplace",
+        "description": "Built a real estate marketplace from scratch, showcasing proficiency in MongoDB, Express.js, React, and Node.js. Implemented JWT, Firebase, and Google OAuth for secure and seamless user access. Implemented features like image sliders, contact landlord functionality, and a user-friendly header search form to improve the overall user experience. Implemented user-friendly features like image uploads and property management.",
+        "keywords": [
+          "React",
+          "Redux",
+          "Express.js",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SaaS-based PDF Analyzer",
+        "description": "Built a comprehensive Software as a Service (SaaS) platform allowing users to upload PDFs and raise queries related to the PDF content with integrated chat functionality. Implemented free and pro subscription plans with seamless payment processing through Stripe integration. Incorporated a highly functional PDF viewer for users to interact with documents seamlessly. Integrated LangChain for infinite AI memory and Pinecone as the vector storage solution. Utilized Prisma as the ORM for database interactions, ensuring efficient and reliable data management.",
+        "keywords": [
+          "Tailwind",
+          "TypeScript",
+          "Next.js 13",
+          "Prisma"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Development Intern",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "EasyEd",
+        "description": "Developed RESTful APIs for uploading documents and videos, enhancing the platforms content management capabilities. Participated in code review sessions identified critical issues with the team. Deployed and optimized backend systems on AWS EC2, ensuring scalability to handle over 1,000 requests per second.",
+        "location": "",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Harshit Rai",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

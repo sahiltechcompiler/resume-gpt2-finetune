@@ -1,0 +1,122 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sujitha D",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Demonstrated proficiency in React.js fundamentals, adeptly building interactive user interfaces with components and state management.",
+        "skillsLearned": [],
+        "title": "ReactJS",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Developed skills in Node.js and Express.js essentials, constructing server-side applications, RESTful APIs and explored middleware handling, routing optimization to improve application performance.",
+        "skillsLearned": [],
+        "title": "NodeJS, ExpressJs",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Chennai, Tamil Nadu",
+        "ID": 0.0,
+        "grade_received": "9.27",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Aid",
+        "description": "Introduced innovative features including a user-friendly food donation form, enabling donors to contribute surplus food to those in need through a streamlined delivery process facilitated by delivery personnel. Pioneered data visualization techniques for administrators, offering 75% insights into the number of food donors through graphical representations, while leveraging a chatbot interface to enhance user interaction. Added 5-6 new features like organize the user interface of the delivery Home Page. Handle the database and integrated the module with mysql Databases efficiency to 20%.",
+        "keywords": [
+          "Reactjs",
+          "Nodejs",
+          "Expressjs",
+          "Mysql"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Book-Bridge",
+        "description": "Developed and implemented a dynamic library management system facilitating seamless interaction between users and administrators. Empowered users to explore a collection of books, allowing them to search, and view details of over 1000 books. Administered the systems backend, enabling efficient management of book inventory through functionalities for adding, updating, and deleting books. This streamlined inventory management by 40%. Reduced administrative overhead by 25% through automated book tracking and report generation.",
+        "keywords": [
+          "Reactjs",
+          "Nodejs",
+          "Expressjs",
+          "Mysql"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "JS",
+          "Reactjs",
+          "Nodejs",
+          "Expressjs",
+          "Mysql"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Lets Grow More",
+        "description": "Developed a full-stack application employing React.js and Node.js via Express.js, achieving a 20% reduction in data processing. Elevated application performance through optimization of server-side logic and RESTful APIs, producing a 25% improvement in overall efficiency. Executed MySQL database solutions for scalable data storage, yielding a 20% increase in data retrieval speed. Successfully deployed the application onto cloud platforms such as Vercel and Netlify, cutting deployment time by 30% and ensuring high availability with a 99% uptime rate.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "Express.Js",
+      "React.Js",
+      "NodeJS",
+      "Docker",
+      "Github",
+      "Tailwindcss",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "VS Code",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Sujitha D",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured a top position in LeetCode Contest 1478 with a contest rating of 3000, outperforming over 3000 participants.",
+      "Solved 350 problems on LeetCode, showcasing a strong grasp of coding and problem-solving skills.",
+      "Participated in a hackathon with our team being shortlisted among 1000 teams across India."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

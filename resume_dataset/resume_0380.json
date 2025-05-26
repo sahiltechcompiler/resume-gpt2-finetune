@@ -1,0 +1,99 @@
+{
+  "project_count": 1.0,
+  "designation": "Job Title",
+  "name": "Your Name",
+  "college": "School Name",
+  "locations": [
+    "Location"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "School Name",
+        "endDate": "MONTH 20XX",
+        "maximum_grade": "",
+        "degree": "Degree",
+        "location": "Location",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "MONTH 20XX"
+      },
+      {
+        "school": "School Name",
+        "endDate": "MONTH 20XX",
+        "maximum_grade": "",
+        "degree": "Degree",
+        "location": "Location",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "MONTH 20XX"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Project Name",
+        "description": "Detail Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet. Consectetuer adipiscing elit. Sed diam nonummy nibh euismod tincidunt. L aoreet dolore magna aliquam erat volutpat.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Lorem ipsum",
+      "Dolor sit amet",
+      "Consectetuer"
+    ],
+    "experiences": [
+      {
+        "role_name": "Job Title",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Company",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.",
+        "location": "Location",
+        "links": "",
+        "startDate": "MONTH 20XX"
+      },
+      {
+        "role_name": "Job Title",
+        "skillsUsed": [],
+        "endDate": "MONTH 20XX",
+        "company_name": "Company",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.",
+        "location": "Location",
+        "links": "",
+        "startDate": "MONTH 20XX"
+      },
+      {
+        "role_name": "Job Title",
+        "skillsUsed": [],
+        "endDate": "MONTH 20XX",
+        "company_name": "Company",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.",
+        "location": "Location",
+        "links": "",
+        "startDate": "MONTH 20XX"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Your Name",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Lorem ipsum dolor sit amet Consectetuer adipiscing elit, Sed diam nonummy Nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+      "Lorem ipsum dolor sit amet Consectetuer adipiscing elit, Sed diam nonummy Nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+    ],
+    "publications": []
+  },
+  "current_location": "Your City, ST 12345",
+  "graduation_year": 0.0,
+  "experience_count": 3.0,
+  "degree": "Degree"
+}

@@ -1,0 +1,117 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Faisal Shaikh",
+  "college": "Shah and anchor kutchhi Engineering college",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Machine learning",
+        "issuer": "coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python programming",
+        "issuer": "Nptel",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "internshala",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and anchor kutchhi Engineering college",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.36",
+        "field_of_study": "Computer science",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "IPL statistics API",
+        "description": "The API offers historical data on player performances, team statistics, match results, and various cricket-related metrics. Developers and enthusiasts can integrate this API into their applications, websites, or analytical tools to retrieve up-to-date IPL statistics. The project aims to serve as a convenient and reliable source for IPL-related information, catering to cricket fans, fantasy sports platforms, and data analysts. To enhance my understanding of API usage, I transformed the IPL Statistics API into a functional website using Streamit. This initiative not only solidified my comprehension of API integration but also resulted in a practical and interactive web model. By leveraging Streamit, I successfully translated the APIs wealth of IPL statistics into a user-friendly and visually appealing website, contributing to both my learning experience and the accessibility of IPL-related information for users.",
+        "keywords": [
+          "Python",
+          "Jupyter notebook",
+          "streamlit",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Placement Pal",
+        "description": "Our hackathon project, developed by a team of three, focused on enhancing the campus placement experience. My role was to create the Company Information Portal, providing students with valuable insights into visiting companies, their job roles, and past placement statistics. Features include Interactive Placement Calendar, Company Information Portal, Preparation Material Aggregator, and Quick Query Forum. A centralized hub streamlines the campus placement process for students by organizing company schedules, job roles, and preparation materials, improving their overall experience.",
+        "keywords": [
+          "Reactjs",
+          "NodeJs",
+          "MangoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "TruValue-Two wheelers price predictor",
+        "description": "In India where two-wheelers are used on large-scale, it becomes important for one to know the real price of their purchase/selling. The Second-Hand Two-Wheeler Price Predictor website is a specialized online platform designed to assist individuals in the market for pre-owned motorcycles and scooters. Leveraging sophisticated algorithms and comprehensive historical pricing data for used two-wheelers, the website offers predictions on future prices. Users can input specific details such as make, model, year, mileage, and condition to receive accurate estimates, empowering them to anticipate potential price changes in the second-hand market. This innovative tool enables buyers to make well-informed decisions, plan their budgets effectively, and navigate the dynamic landscape of pricing fluctuations for used two-wheelers.",
+        "keywords": [
+          "Python",
+          "scikitlearn",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "C++",
+      "javascript",
+      "React",
+      "NodeJs",
+      "OpenCV",
+      "Numpy",
+      "Pandas",
+      "Flask",
+      "MySQL",
+      "MangoDB"
+    ],
+    "soft_skills": [],
+    "name": "Faisal Shaikh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.E."
+}

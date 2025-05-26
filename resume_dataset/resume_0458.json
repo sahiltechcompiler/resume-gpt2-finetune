@@ -1,0 +1,124 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Pawankumar Nandagiri",
+  "college": "Vidyalankar Institute of Technology",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vidyalankar Institute of Technology",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "SIES College",
+        "endDate": "April 2019",
+        "maximum_grade": "",
+        "degree": "12th grade",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "75%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CF-Knockout",
+        "description": "Introduced a new style of contests for competitive programming. Implemented Authentication and Authorization using Firebase service and react-router-dom library. Devised room feature where people can create and join private rooms, using Socket.io (Websockets).",
+        "keywords": [
+          "ReactJs",
+          "JS",
+          "NodeJs",
+          "MongoDb"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "RENT-IT",
+        "description": "A Home Renting Platform. Implemented Cookie based Authentication and Authorization for Landlords and Tenants. Used Firebase Storage for storing images.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "ReactJs",
+          "NodeJs",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "AVL Tree Visualizer",
+        "description": "Built a comprehensive visualizer which shows how AVL trees work. Speed control over the visualization, responsive and user-friendly UI and all operations on tree are supported with detailed information.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript",
+          "p5.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "React Native",
+          "NodeJS"
+        ],
+        "endDate": "July 2023",
+        "company_name": "Azzet",
+        "description": "Implemented Stop Loss and Limit order system for the Application using latest System Design principles. Employed MixPanel to generate User Activity insights and understand the areas which needs more focus. Conducted thorough testing and debugging to identify and resolve bugs, resulting in a robust and reliable application.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "TLE ELIMINATORS",
+        "description": "Resolved 350+ Doubts of many students related to Competitive Programming and DSA. Took 10+ lectures on various concepts like Binary Search and Dynamic Programming.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Pawankumar Nandagiri",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked 92nd globally out of 15,000 in Codeforces 934(Div. 2). - Standings",
+      "Ranked 9th globally in CodeChef STARTERS 78 Standings",
+      "Ranked 50th in ICPC Amritapuri Regionals 2022",
+      "Expert (rated 1862) on Codeforces.",
+      "5-stars (rated 2014) on Codechef."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.E."
+}

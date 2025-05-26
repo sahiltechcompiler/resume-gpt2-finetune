@@ -1,0 +1,142 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Tanmay Singh",
+  "college": "KIET GROUP OF INSTITUTIONS",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCSK V4.1 Cloud Foundation Training",
+        "issuer": "Cloud Security Alliance",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advanced HTML and CSS",
+        "issuer": "Codedamn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Fundamentals of Digital Marketing",
+        "issuer": "Google Digital Garage",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET GROUP OF INSTITUTIONS",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.23",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": "Oct 2021"
+      },
+      {
+        "school": "Sacred Hearts Sr Sec School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary School",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 82",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Lucknow Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage - 88.33",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Parking System",
+        "description": "Collaborated a Smart Parking System which provides real time data on vacant parking slots in a parking. Arduino UNO, proximity sensors, and additional hardware components were used for real time monitoring. Used Arduino IDE to code and collect sensors data for useful output.",
+        "keywords": [
+          "IOT"
+        ],
+        "endDate": "2022",
+        "startDate": "2018",
+        "url": ""
+      },
+      {
+        "name": "Car Rental Web Application",
+        "description": "Created a web platform where user can browse,search and rent cars from a rental service. Features such as user registration and authentication, browsing available cars, viewing car details, making reservations, and managing user profiles were added. User authentication and authorization were implemented using Djangos authentication system, with role-based permissions to control access to certain features.",
+        "keywords": [
+          "Bootstrap",
+          "CSS",
+          "Django",
+          "SQL"
+        ],
+        "endDate": "2023-24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Intrusion Detection System",
+        "description": "Trained various classifiers based on NSL-KDD dataset. Applied foundational machine learning techniques to analyze network traffic and identify potential intrusions.",
+        "keywords": [
+          "Machine Learning",
+          "Neural Networks"
+        ],
+        "endDate": "Ongoing",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "Django",
+      "React",
+      "Bootstrap",
+      "VS Code",
+      "PyCharm",
+      "Canva",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Tanmay Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Merit award winner in PolyHack Ideathon by Hong Kong Poly. University",
+      "Departmental winner of Innotech 2022",
+      "Member of Innogeeks"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

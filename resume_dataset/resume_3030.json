@@ -1,0 +1,158 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vivek Kumar",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi NCR, Ghaziabad",
+    "Aligarh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Algorithm Analysis & Design Using Coding Platform",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science and Machine Learning",
+        "issuer": "Linkedin Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP: Programming Essentials in Python",
+        "issuer": "CISCO Netacad",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi NCR, Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "74.87",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "Wisdom Public School",
+        "endDate": "April 2021",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Aligarh",
+        "ID": 1.0,
+        "grade_received": "89.2",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Wisdom Public School",
+        "endDate": "April 2019",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "Aligarh",
+        "ID": 2.0,
+        "grade_received": "89.4",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CATARACT DETECTION USING DEEP LEARNING",
+        "description": "Developed a high-performing model to detect cataracts in eyes, utilizing advanced techniques including the VGG19 architecture and ImageNet dataset. Achieved an outstanding accuracy rate of 98.5% in identifying cataracts through object recognition. Implemented the model deployment using Flask, ensuring accessibility and maximizing user-friendliness.",
+        "keywords": [
+          "Deep Learning"
+        ],
+        "endDate": "February 2024",
+        "startDate": "December 2023",
+        "url": "[Github]"
+      },
+      {
+        "name": "ANOMALY DETECTION",
+        "description": "Leveraged CNN architecture to train on video data for anomaly detection in computer vision, attaining an impressive 90% accuracy in the identification of any anomaly in the area. Constructed the CNN architecture to specifically train the model on a large video dataset.",
+        "keywords": [
+          "Computer Vision",
+          "Deep Learning"
+        ],
+        "endDate": "December 2023",
+        "startDate": "October 2023",
+        "url": "[Github]"
+      },
+      {
+        "name": "AUTOMATED SMART VEHICLE SURVEILLANCE",
+        "description": "Enhanced a Smart Vehicle System capable of monitoring Overspeed and detecting Number Plates. Utilized the supercomputer Paramshavak to train the architecture, improving the accuracy and efficiency of the computer vision algorithm. Integrated the trained architecture with the CCTV system, enabling real-time monitoring and analysis of vehicle speed.",
+        "keywords": [
+          "Computer Vision"
+        ],
+        "endDate": "November 2023",
+        "startDate": "August 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst in Health Care",
+        "skillsUsed": [
+          "Power BI"
+        ],
+        "endDate": "April 2024",
+        "company_name": "EY GDS",
+        "description": "Utilized Power BI for comprehensive data analysis, enabling informed decision-making in the healthcare sector. Performed comprehensive data analysis to identify patterns and insights, optimizing healthcare processes and resource allocation.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2024"
+      },
+      {
+        "role_name": "Minor Specialization in Machine Learning",
+        "skillsUsed": [
+          "Flask",
+          "Machine Learning"
+        ],
+        "endDate": "September 2023",
+        "company_name": "KIET Group of Institutions",
+        "description": "Developed a web application using Flask framework, applying expertise in machine learning algorithms to create an intuitive user interface, enhancing accessibility and streamlining cataract detection diagnosis.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "MySQL",
+      "DSA",
+      "AI/ML",
+      "Deep Learning"
+    ],
+    "soft_skills": [],
+    "name": "Vivek Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Executed a comprehensive program in DSA [Programming Pathshala] February 2024 - April 2024",
+      "Secured 2nd position in Department Exhibition[InnoTech] December 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

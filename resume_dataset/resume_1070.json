@@ -1,0 +1,180 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "JAYASURYA A",
+  "college": "Dr.M.G.R. Educational and Research Institute",
+  "locations": [
+    "Chennai, Tamil Nadu",
+    "Trichy, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analytics and Visualization Job Simulation",
+        "issuer": "Accenture North America",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence Job Simulation",
+        "issuer": "Cognizant",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis Essential",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Excel skill job simulation",
+        "issuer": "JPMorgan Chase & Co.",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "TCS ION Career Edge- Young Professional",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Analysis",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr.M.G.R. Educational and Research Institute",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Chennai, Tamil Nadu",
+        "ID": 0.0,
+        "grade_received": "CGPA - 9.31/10",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "ST.James Matriculation Higher Secondary School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Certificate Examination",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 71.83%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Loan Status Prediction",
+        "description": "The dataset is cleansed using Python, and various machine learning algorithms such as Random Forest Classifier, SVC, and Logistic Regression are applied. The Random Forest Classifier achieves the highest accuracy. A GUI is created for predicting loan status based on this model.",
+        "keywords": [
+          "Python",
+          "ML Algorithm"
+        ],
+        "endDate": "May 2024",
+        "startDate": "March 2020",
+        "url": ""
+      },
+      {
+        "name": "Supply Chain Analysis",
+        "description": "This project involves cleaning, analyzing, and visualizing supply chain data across various stages, including sourcing, manufacturing, transportation, inventory management, sales, and customer demographics. Data preprocessing will be performed using MySQL, analysis will be conducted in Python, and Power BI will be used for visualization.",
+        "keywords": [
+          "MySQL",
+          "Python",
+          "Power BI"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [
+          "MySQL",
+          "Python",
+          "Power BI"
+        ],
+        "endDate": "Present",
+        "company_name": "Analytics Avenue for Research and Development",
+        "description": "Conducted thorough supply chain analysis, preprocessing data with MySQL, analyzing with Python, and visualizing insights using Power BI, leading to streamlined processes. Developed predictive models for loan status assessment, enhancing decision-making accuracy and operational efficiency by leveraging machine learning techniques and historical data. Applied predictive analytics to BPO performance analysis, identifying key performance drivers and implementing data-driven strategies for improved efficiency and customer satisfaction.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "Mar 2024"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [
+          "Python",
+          "K-means clustering"
+        ],
+        "endDate": "Mar 2024",
+        "company_name": "Enlight Wisdom",
+        "description": "Developed a customer personality analysis project using K-means clustering in Python, identifying distinct customer segments based on behavioral patterns and preferences. Presented actionable insights from the customer personality analysis project to stakeholders, facilitating strategic decision-making and enhancing the companys understanding of customer behavior and preferences.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Database Management",
+      "Data Wrangling",
+      "Microsoft Office - System (DBMS)",
+      "Cleaning"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Critical Thinking"
+    ],
+    "name": "JAYASURYA A",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Chennai, Tamil Nadu",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

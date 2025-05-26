@@ -1,0 +1,150 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Hitesh Rajain",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Jalandhar, Punjab",
+    "Dhaula Kuan, New Delhi",
+    "Jhajjar, Haryana"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Self Paced Course",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Springboard, Infosys Certificate",
+        "skillsLearned": [],
+        "title": "Database Management System",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jalandhar, Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.56",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2020"
+      },
+      {
+        "school": "Army Public School",
+        "endDate": "April 2020",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Dhaula Kuan, New Delhi",
+        "ID": 1.0,
+        "grade_received": "Percentage: 83.8",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "R.E.D. School Jhajjar",
+        "endDate": "April 2018",
+        "maximum_grade": "",
+        "degree": "Intermediate School",
+        "location": "Jhajjar, Haryana",
+        "ID": 2.0,
+        "grade_received": "Percentage: 88.8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Team Management",
+        "description": "Developed Team Management web application using ReactJs that allows users to manage teams by conveniently moving team members from one team to another. Utilized React Hooks and local storage to create an intuitive and responsive user interface.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Repository"
+      },
+      {
+        "name": "N-Queen Visualizer",
+        "description": "Developed a web page using HTML, CSS, and JavaScript to create visualizations of N-Queen problem. Recursion and backtracking approach is used to solve the problem of N-Queen in which we have to place N Queen on an N x N chessboard such that no two queens attack each other. Employed HTML for layout, CSS for styling, and JavaScript for real-time user input processing and visualization generation.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Repository"
+      },
+      {
+        "name": "Page Replacement Algorithms",
+        "description": "Created a simple web app that allows the user to understand different page replacement algorithms like FIFO, LRU, and Optimal Page replacement. It aims to minimize the number of page faults.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Repository"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Git",
+      "GitHub",
+      "ReactJs",
+      "DBMS",
+      "Windows",
+      "Bootstrap",
+      "Django"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Event Management",
+      "Writing",
+      "Public Speaking"
+    ],
+    "name": "Hitesh Rajain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Pupil with highest rating of 1229 on Codeforces.",
+      "Secured Global Rank 3559 in Educational Codeforces Round 160 (Rated for Div. 2)",
+      "300+ problems solved on Codeforces.",
+      "Secured Global Rank 3739 in Leetcode Weekly Contest 357",
+      "More than 200 problems solved on Leetcode.",
+      "Highest rating of 1676 on Leetcode.",
+      "Completed DSA Self Placed course on Data Structures and Algorithms from GeeksForGeeks."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

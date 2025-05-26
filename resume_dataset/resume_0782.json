@@ -1,0 +1,119 @@
+{
+  "project_count": 3.0,
+  "designation": "Java Developer",
+  "name": "Jayaditya Rawat",
+  "college": "NIET",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NIET",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Master of Computer Application",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2023"
+      },
+      {
+        "school": "GGSIPU",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Application",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Delevering Web App",
+        "description": "Created a secure food delevering app with Express and MongoDB backend, implementing authentication for user data protection and also used Razorpay for payment gateway integration. Builds its frontend in React- Js and used Redux from state management.",
+        "keywords": [
+          "ExpressJS",
+          "NodeJs",
+          "MongoDB",
+          "ReactJs",
+          "Redux"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat Bot",
+        "description": "Developed a chatbot application using React.js and Material UI, integrating Google Authentication and Firebase for secure user login and real-time data storage. The chatbot provides responsive, intuitive user interactions and leverages Firebases cloud functions for backend logic, ensuring seamless, reliable performance and a polished user interface.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Store",
+        "description": "Developed a library store application using React.js for dynamic UI rendering and Axios for seamless API integration. Enabled efficient book search ,user management, and real-time updates.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "Axios"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Java Developer",
+        "skillsUsed": [],
+        "endDate": "Oct 2023",
+        "company_name": "RMSI",
+        "description": "Developed a comprehensive admin dashboard using Spring Framework and SpringBoot, enabling efficient user management, real-time data analytics, and system monitoring. Implemented secure authentication and authorization mechanisms, optimized database interactions with JPA/Hibernate, and integrated RESTful APIs for seamless data communication. Enhanced user experience with a responsive and intuitive UI using Thymeleaf and Bootstrap.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Javascript",
+      "Python",
+      "C++",
+      "ReactJS",
+      "NextJS",
+      "Redux",
+      "HTML",
+      "CSS",
+      "SASS",
+      "ExpressJS",
+      "NodeJS",
+      "Socket.IO",
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Firebase",
+      "Git & GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Jayaditya Rawat",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 1.0,
+  "degree": "Master of Computer Application"
+}

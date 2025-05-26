@@ -1,0 +1,171 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Anshalin Sharu S R",
+  "college": "Chennai Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web development boot camp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming in Java",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "META Programming in JavaScript, Introduction to frontend development with reactjs",
+        "issuer": "Coursea",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco Netacad",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.91",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Libraro",
+        "description": "Designed and implemented a library management system using React.js for the frontend and Express.js, Node.js, and MySQL for the backend.Distinct roles: administrators can add new books, and users can search for books with filter options This project includes database management, user authentication, and role-based access control.",
+        "keywords": [
+          "React Js",
+          "Node Js",
+          "Express Js",
+          "MySQL"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": "https://github.com/anshalinsharu/employee-management"
+      },
+      {
+        "name": "Dlvery-App",
+        "description": "Developed a delivery app with inventory management, delivery coordination, and customer interaction. Inventory managers add and track products with real-time updates, the delivery team has automated order assignment and optimized routes, and customers can book products, track orders, and provide feedback.. This project showcases expertise in creating efficient, real-time logistics solutions and enhancing operational efficiency through automation and optimized processes.",
+        "keywords": [
+          "React Js",
+          "Tailwind CSS",
+          "Node Js",
+          "Express Js",
+          "MySQL"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "",
+        "url": "https://github.com/anshalinsharu/DlveryApp"
+      },
+      {
+        "name": "ErrorEx",
+        "description": "Developed a Coders-Community project where users post coding errors with screenshots stored in a MySQL database. Admins and developers can view these images and provide solutions via Nodemailer, streamlining error resolution and enhancing coder collaboration. This project highlights the ability to integrate database management and email communication to facilitate community-driven problem-solving and collaboration.",
+        "keywords": [
+          "React Js",
+          "Node Js",
+          "Express Js",
+          "MySQL"
+        ],
+        "endDate": "present",
+        "startDate": "May 2024",
+        "url": "https://github.com/anshalinsharu/Coders-Community"
+      },
+      {
+        "name": "House Rental",
+        "description": "Developed \"HouseRent,\" a comprehensive platform designed for seamless property rentals. The application includes secure login and signup features for property owners and renters, allowing owners to list their houses with detailed descriptions and images. Users can search for rental properties based on various criteria such as rental amount, number of rooms, and location. The platform also features a booking system enabling users to rent houses directly. With a responsive design, HouseRent ensures a smooth user experience across different devices.",
+        "keywords": [
+          "React Js",
+          "Node Js",
+          "Express Js",
+          "MySQL"
+        ],
+        "endDate": "present",
+        "startDate": "Jun 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [],
+        "endDate": "Jun 2023",
+        "company_name": "SOFTTWIG Technology Solutions Pvt Ltd",
+        "description": "Underwent comprehensive training in Software Development Life Cycle (SDLC) and DevOps methodologies. Actively participated in development and testing activities alongside the internal development team.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Frontend Development Intern",
+        "skillsUsed": [],
+        "endDate": "Feb 2023",
+        "company_name": "IBM SkillsBuild",
+        "description": "Completed a virtual internship focused on frontend development through IBM SkillsBuild. Mastered React.js, a popular JavaScript library for building user interfaces, during the internship.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "React JS",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Node JS",
+      "Express JS",
+      "MySQL",
+      "Git",
+      "Github",
+      "Docker",
+      "Linux",
+      "Selenium",
+      "Azure Cloud",
+      "Figma(UI&UX)"
+    ],
+    "soft_skills": [],
+    "name": "Anshalin Sharu S R",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Leetcode - Solved 200+ problems, Rating - 1384",
+      "SkillRack - Solved 1000+ problems"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.E."
+}

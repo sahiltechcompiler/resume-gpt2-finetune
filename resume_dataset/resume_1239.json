@@ -1,0 +1,102 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Gazal Jindal",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "8.9",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "WEATHER API",
+        "description": "My weather API project provides real-time weather data for any location in the world. Users can input a city and receive up-to-date information on temperature, precipitation, and more. Designed and developed a web application that provides real-time weather updates based on user's location. Implemented APIs from various weather sources to ensure accuracy and reliability of weather information.",
+        "keywords": [
+          "Html",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "August 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FOOD RECIPE",
+        "description": "A food recipe web application for creating and getting recipes. Users can create, edit, delete recipes, including instructions, ingredients, and images. Features: Searching and filtering, recipe management, favorite and ratings, user authentication and authorization, database management.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJS",
+          "NodeJS",
+          "MongoDB",
+          "Cloudinary"
+        ],
+        "endDate": "Dec 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CHAT APP",
+        "description": "User can register and their credentials and chat remains private. A full stack web chatApp made using Mern stack, User can also view the online status of other users in their chat list. Hi-Five is a Full Stack Chatting App. Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.",
+        "keywords": [
+          "Html",
+          "CSS",
+          "JavaScript",
+          "Mongodb",
+          "express.js",
+          "react.js"
+        ],
+        "endDate": "March 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "CPP",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Tailwind",
+      "NodeJS",
+      "ReactJS",
+      "Express",
+      "git/GitHub",
+      "MongoDB",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Gazal Jindal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Department Rank 3 in a batch of 145 students.",
+      "Awarded Deans list in both third and fourth semester.",
+      "3 star on CodeChef in problem solving skills."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B. Tech"
+}

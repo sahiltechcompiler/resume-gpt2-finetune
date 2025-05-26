@@ -1,0 +1,170 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rakshita Chadalawada",
+  "college": "SRM University, AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Innovative Computer Science Student with a strong foundation in Artificial Intelligence and Machine Learning, Data Analysis, and Software Development. Proficient in C, C++, Python, and SQL, with experience in building predictive analytics models and developing advanced information-retrieval algorithms. Passionate about solving real-world business problems using next-gen technologies.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ServiceNow Micro Certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C Square Hackathon Appreciation Certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Power BI Certification by Techtip24",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.52/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Junior College, Tenali, AP",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 95.5",
+        "field_of_study": "MPC",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Techno School, Tenali, AP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th Grade",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 10/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Boosting Leaf Spot Detection: A Comparative and Ensemble Learning Approach",
+        "description": "Developed a crop disease prediction model using Inception v3, achieving 71% accuracy, and integrated remedies for 14 crop diseases. Conducted comparative analysis of CNN architectures, selecting Inception v3 over LeNet-5, ResNet, and VGG for its superior performance. Boosted model accuracy to 77% using bagging ensemble technique, utilizing a Kaggle dataset for training and testing.",
+        "keywords": [
+          "Keras",
+          "TensorFlow",
+          "os"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Payroll Management System Utilizing OOP and Vector Data Structures",
+        "description": "Engineered an advanced C++ Payroll Management System utilizing object-oriented programming and vector data structures. Produced modular classes to encapsulate employee details and payroll operations, ensuring scalability and maintainability. Integrated comprehensive functionality including CRUD operations and salary slip generation with Optimized user input handling.",
+        "keywords": [
+          "c++",
+          "Oops",
+          "vectors"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mini player",
+        "description": "Created a Python project featuring three mini-games: Hand Cricket, Quiz, and Number Guessing, offering users a diverse and engaging gaming experience. Utilized core Python programming concepts such as random number generation, input/output handling, control structures (loops and conditionals), and functions to implement the game logic and user interaction seamlessly.",
+        "keywords": [
+          "python",
+          "random module"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [
+          "Python",
+          "SQL",
+          "Excel",
+          "ETL"
+        ],
+        "endDate": "Present",
+        "company_name": "Edunet Foundation",
+        "description": "Currently interning as a Data Analyst, mastering tools such as Python, SQL, Excel, and ETL for data manipulation, analysis, and visualization. Actively engaging in hands-on learning to contribute to organizational insights and decision-making processes. Focusing on enhancing skills in data manipulation, analysis, and visualization to support business objectives.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "SRM AP",
+        "description": "Spearheaded a process re-engineering project to enhance and streamline end-to-end service processes, optimizing efficiency. Implemented a CNN architecture for brain tumor classification, conducting data preprocessing with MIPAV software, overseeing the entire data analysis pipeline, resulting in a significant 75% accuracy, and contributing to advancements in medical image processing techniques.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Python Developer Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "July 2023",
+        "company_name": "Code Clause",
+        "description": "Enriched company operations through innovative management systems, fostering efficiency and productivity. Developed Python tools like a password generator, music player, and typing test to enhance security and skill levels within the organization.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "soft_skills": [],
+    "name": "Rakshita Chadalawada",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

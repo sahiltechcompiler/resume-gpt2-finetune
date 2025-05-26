@@ -1,0 +1,141 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "ANIMESH SRIVASTAVA",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering (Hons)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Harmony",
+        "description": "Created an LSTM (Long Short-Term Memory) neural network to generate new music compositions inspired by various styles. The project involved training the model on a diverse dataset of music samples, enabling it to create original pieces that blend characteristics from different genres, demonstrating creativity and technical proficiency in artificial intelligence and music composition.",
+        "keywords": [
+          "Python",
+          "Keras",
+          "Tensorflow",
+          "Gradio",
+          "Git",
+          "VS Code",
+          "RNN",
+          "LSTM"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WhatIsMyRank",
+        "description": "Designed and developed a full stack website with a proper leaderboard where users could come and compete over clips of gameplay and had to guess what rank the player has.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "Git",
+          "Django",
+          "JS",
+          "anime.js",
+          "Tailwind",
+          "MySQL",
+          "VS Code"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AsciiCore",
+        "description": "Developed a Streamlit-hosted website that converts images to ASCII art by processing grayscale images, reducing resolution, segmenting luminance into 10 ranges, and mapping ASCII characters based on luminance values.",
+        "keywords": [
+          "Python",
+          "Streamlit",
+          "Numpy",
+          "OS",
+          "PIL",
+          "VS Code"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "DatamusePython",
+        "description": "Created datamusePython, a Python library that provides seamless integration with the Datamuse Wordbank API, enabling efficient word retrieval and linguistic queries; the library has achieved over 13,000 downloads.",
+        "keywords": [
+          "Python",
+          "Datamuse WordBank API",
+          "Setuptools",
+          "Twine",
+          "Wheel"
+        ],
+        "endDate": "September 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2024",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "description": "Showcased skills in data analytics, web scraping, machine learning, and using tools such as Pandas and Oracle databases. Earned certifications in data engineering, Python programming, relational databases, and IT fundamentals. Gained practical knowledge of Agile methodologies and object-oriented programming principles through projects and coursework.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "HTML/CSS",
+      "SQL",
+      "JavaScript",
+      "Kotlin",
+      "Git/GitHub",
+      "Unix Shell",
+      "VS Code",
+      "AWS",
+      "Vercel",
+      "Docker",
+      "Kubernetes"
+    ],
+    "soft_skills": [
+      "Problem-Solving",
+      "System Design",
+      "Fintech",
+      "DeFi",
+      "Deep Learning",
+      "IOTA",
+      "Quantum Computing",
+      "Product Management",
+      "Internet of Things",
+      "Intelligent Systems"
+    ],
+    "name": "ANIMESH SRIVASTAVA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

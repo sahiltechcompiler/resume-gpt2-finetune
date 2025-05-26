@@ -1,0 +1,150 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Hari Hara Durga Vasisht Pranav",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "STAR COLLEGE PLATINUM CAMPUS",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St.Francis English Medium High School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 7.7/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Laymans GPT",
+        "description": "Created a simple yet effective platform that allows seamless interaction with locally hosted language models, enabling users to communicate with AI in an intuitive manner. Integrated vector storage solutions to enhance the models ability to remember and recall past interactions, leading to a more personalized and context-aware user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "currently working",
+        "url": "link"
+      },
+      {
+        "name": "Auto ml",
+        "description": "Developed a user-friendly AutoML tool for streamlined Exploratory Data Analysis (EDA) and model training. Enabled efficient data uploading, robust EDA, and machine learning model training for regression and classification tasks.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "link"
+      },
+      {
+        "name": "Campus Connect",
+        "description": "Developed an anonymous chat application for students from various universities facilitating cross-university communication for knowledge exchange and networking. Enabled secure login using organization email addresses to ensure user privacy and data protection by using Firebase for authentication. Utilized React.js for building a dynamic and responsive user interface.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "link"
+      },
+      {
+        "name": "Voice assistant",
+        "description": "Utilized Python to create a Voice Assistant service that showcases the transformative impact of modern technology on daily tasks. Empowered users to effortlessly execute tasks through intuitive voice commands, enhancing productivity in daily activities. Provided a seamless solution for diverse day-to-day tasks, leveraging contemporary technology to simplify user interactions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Python",
+          "TensorFlow"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Techwave ConsultingIndia Pvt Ltd",
+        "description": "Developed and deployed machine learning models for predictive analytics, enhancing decision-making processes and increasing forecasting accuracy within three months using Python and TensorFlow. Conducted extensive data analysis and preprocessing for machine learning models, resulting in reduction in error rates and improved model performance. Worked with Python, TensorFlow, and web development frameworks.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Research",
+        "skillsUsed": [
+          "Python",
+          "Scikit-Learn",
+          "Pandas",
+          "NumPy",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "endDate": "Dec 2023",
+        "company_name": "",
+        "description": "Research on Gene Expression-Based Classification of Tuberculosis. Implemented Random Forest and XGBoost classifiers to achieve high accuracy in TB classification. Optimized models using ensemble methods for feature selection, resulting in improved model efficiency and reliability. Executed comprehensive permutation importance analysis, uncovering key genetic markers for TB diagnosis, paving the way for innovative diagnostic techniques and enhancing diagnostic accuracy. Employed a comprehensive suite of Python libraries (Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn) for data preprocessing, in-depth analysis, and robust model development.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "HTML5",
+      "CSS",
+      "Flask",
+      "Node.js",
+      "Express.js",
+      "ReactJS",
+      "MongoDB",
+      "MySQL",
+      "Scikit-Learn",
+      "Keras",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Git",
+      "GitHub",
+      "Linux",
+      "Azure",
+      "Docker",
+      "Python",
+      "JavaScript",
+      "C",
+      "C++",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "Hari Hara Durga Vasisht Pranav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Karthik Medepalli",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh",
+    "Tenali"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Jul 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.20/10.0",
+        "field_of_study": "Computer Science and Engineering with Specialization in AIML",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Jr College",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary School",
+        "location": "Tenali",
+        "ID": 1.0,
+        "grade_received": "Percentage : 65.6/100",
+        "field_of_study": "Board: BIEAP",
+        "startDate": "Apr 2019"
+      },
+      {
+        "school": "Sri Chaitanya (EM) High School",
+        "endDate": "Mar 2019",
+        "maximum_grade": "",
+        "degree": "Secondary School",
+        "location": "Tenali",
+        "ID": 2.0,
+        "grade_received": "Percentage : 92.1/100",
+        "field_of_study": "Board: BSEAP",
+        "startDate": "Apr 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food tracker",
+        "description": "Developed a user-friendly food tracker application with React frontend, Python (Flask) backend, integrated nutrition APIs, and MySQL database, emphasizing intuitive UI/UX for seamless food entry and nutritional tracking. Led agile project planning, execution, and cross-functional collaboration; implemented rigorous security measures, conducted thorough testing, resulting in positive user feedback and increased engagement metrics.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "MySQL",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "UI/UX"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Public Photography contest using social media Polling",
+        "description": "A public photography contest uses social media polling to engage the audience, increasing participation and visibility on the platform media polling ensures fair and transparent judging, with visible votes allowing participants to track their performance in real-time and the audience to choose the winners. Proficiency in analyzing polling data to identify trends, understand participant preferences, and derive actionable insights that can inform future contest strategies and improve audience engagement.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "XAMPP",
+          "Flask",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face Recognition System",
+        "description": "Proficient in implementing facial recognition algorithm to achieve an accuracy rate over 95 percentage in identifying faces. Skilled in optimizing facial recognition system, for real time applications, achieving processing speed of upto 30 frames per second. Experienced in fine-tuning neural network architecture for facial feature extraction against variations in lighting condition and facial expressions.",
+        "keywords": [
+          "Deep Learning",
+          "LFW",
+          "CelebA"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Technologist Intern",
+        "skillsUsed": [
+          "Django",
+          "Python",
+          "MySQL"
+        ],
+        "endDate": "Jul 2025",
+        "company_name": "APSSDC",
+        "description": "Implemented an Blood Bank Management System using Django, enhancing system efficiency and reducing complexity. Led a cross-functional team in developing a new feature with Python, boosting user engagement by 20% within the internship. Optimized MySQL database queries, cutting page load times by 15% and significantly improving web application performance.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Deep Learning",
+      "Git",
+      "C++",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "Karthik Medepalli",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received a Certificate from WALMART in advanced software Engineering.",
+      "Earned a Micro-Certification in Welcome to ServiceNow.",
+      "Received a Summer Internship Certificate from APSSDC as Web Development using DJango.",
+      "Completed JAVA, Python, HTML basic certifications in HackerRank."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

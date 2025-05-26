@@ -1,0 +1,119 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aditya Kumar",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur,Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur,Rajasthan",
+        "ID": 0.0,
+        "grade_received": "7.5CGPA",
+        "field_of_study": "",
+        "startDate": "Sep. 2021"
+      },
+      {
+        "school": "Jayshree Periwal",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Jaipur,Rajasthan",
+        "ID": 1.0,
+        "grade_received": "84/100",
+        "field_of_study": "CBSE",
+        "startDate": "Sep. 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blog Posting Web App",
+        "description": "Developed a blog posting websites where users can login,post blogs and explore blogs present on the website. Cloud-flare Workers along with Hono Library for Backend. Single Paged Application, using Client side rendering Developed using React. Tailwind for Styling and Responsiveness. Connection Pooling implemented using Prisma Accelerate and Prisma as ORM. Postgress for Database Management,Authentication Using JWT.",
+        "keywords": [
+          "Typescript",
+          "Cloud-flare",
+          "React",
+          "Tailwind",
+          "Prisma",
+          "Postgress",
+          "JWT"
+        ],
+        "endDate": "August 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Money Transactions Web App",
+        "description": "Supports five main end points -Signin,SignUp,Dashboard,Send Money,Logout. Users can send and receive money and search for other users. Single Paged client side rendering using Browser Router and Navigation implemented using React. Atomicity maintained using transactions in MongoDB while transferring money. Input validation using Zod,Authentication Using JWT.",
+        "keywords": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "JWT"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real Estate Price Predictor",
+        "description": "Trained and tested ML model using data preset to predict house price based on input features. Used Pandas for loading, cleaning, and preprocessing large real estate datasets Implemented feature normalization and scaling using NumPy arrays to prepare data for machine learning algorithms. Performance evaluation (MSE, R) to optimize model accuracy.",
+        "keywords": [
+          "Python",
+          "Jupyter",
+          "Panda",
+          "Ski-kit Learn",
+          "Numpy",
+          "Matplot-lib"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Trainee Engineer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "GAIL INDIA LIMITED",
+        "description": "Learnt and Explored how networking is done within GAIL Jaipur office. Implemented working prototype/model,explored physical server rooms and equipment. Collaborated with team members using version control systems such as Git to organize modifications and assign tasks. Utilized CISCO Packet Tracer as a development environment in order to visualize the application.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "District Level Cricket U-18.",
+      "Won 5+ College Hosted LAN gaming event for FIFA"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

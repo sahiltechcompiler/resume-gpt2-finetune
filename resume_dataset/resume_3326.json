@@ -1,0 +1,132 @@
+{
+  "project_count": 4.0,
+  "designation": "Associate Web Developer",
+  "name": "Manan Praveen Tola",
+  "college": "Manipal University, Jaipur",
+  "locations": [
+    "Maharashtra",
+    "Mumbai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University, Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Maharashtra",
+        "ID": 0.0,
+        "grade_received": "7.5 CGPA",
+        "field_of_study": "IT",
+        "startDate": ""
+      },
+      {
+        "school": "Arya Gurukul International College of Science And Commerce",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CLASS XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Smt. Sulochnadevi Singhania School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CLASS X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "94 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "REST API of Office database",
+        "description": "Rest API built in Golang using Gin framework, Gorm. Used Redis for caching of data Also used AWS API to fetch data from s3 bucket",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "scikit-learn"
+        ],
+        "endDate": "Aug 2024",
+        "startDate": "Jun 2024",
+        "url": ""
+      },
+      {
+        "name": "Optimization of Airline Operations",
+        "description": "Aimed at enhancing efficiency and cost-effectiveness within airline operation Employed advanced soft computing methodologies such as genetic algorithms, neural networks, and fuzzy logic to develop optimization models tailored to diverse airline operational scenarios.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "OpenCV",
+          "NumPy",
+          "VsCode"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Digit Recognition",
+        "description": "Developed a convolutional neural network (CNN) model using TensorFlow/Keras to accurately classify hand-written digits",
+        "keywords": [],
+        "endDate": "Jan 2023",
+        "startDate": "Nov 2022",
+        "url": ""
+      },
+      {
+        "name": "Flight Booking Software",
+        "description": "Implemented data preprocessing techniques including normalization and augmentation to enhance model generalization and robustness. Incorporated industry-standard design patterns and best practices to ensure scalability, maintainability, and performance optimization. Implemented robust features such as user authentication, flight search, booking management, payment processing, and itinerary generation, meeting client specifications and enhancing user experience.",
+        "keywords": [
+          "Java",
+          "Spring Framework",
+          "Hibernate for ORM"
+        ],
+        "endDate": "Nov 2022",
+        "startDate": "Jul 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Associate Web Developer",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "Choice TechLab",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2024"
+      }
+    ],
+    "skills": [
+      "Golang",
+      "Java",
+      "Redis",
+      "Python",
+      "SQL Database",
+      "Docker",
+      "GitLab",
+      "C++ Language"
+    ],
+    "soft_skills": [],
+    "name": "Manan Praveen Tola",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Mumbai, Maharashtra - 400080",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

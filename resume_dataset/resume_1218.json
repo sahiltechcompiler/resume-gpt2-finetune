@@ -1,0 +1,131 @@
+{
+  "project_count": 7.0,
+  "designation": "Android Developer",
+  "name": "Manoj M",
+  "college": "Csi CSI Jayaraj Annapackiam Collage",
+  "locations": [],
+  "full_output": {
+    "summary": "Experienced Android Developer with 2+ years specializing in Java and Kotlin, adept in MVVM/MVC architectures, UI/UX design, API integration, and database management. Proficient in Android Studio, Gradle, and testing frameworks, with strong problem-solving and communication skills, committed to industry best practices.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Csi CSI Jayaraj Annapackiam Collage",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Business Administration",
+        "location": "Tenkasi",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.2",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "TWINE4CARWEATHER",
+        "description": "Developed a smart weather application designed for automotive integration. The application utilizes real-time weather data to enhance driver safety and convenience by providing current weather conditions, alerts, and driving condition forecasts.",
+        "keywords": [],
+        "endDate": "04/2020",
+        "startDate": "06/2017",
+        "url": ""
+      },
+      {
+        "name": "MDM/MAM",
+        "description": "Project to validate application and policy configuration management for a fleet of trucks. The project includes a core workflow for developers, admins, and fleet managers, focusing on app approval, policy setup, and seamless configuration management for truck groups.",
+        "keywords": [],
+        "endDate": "06/2024",
+        "startDate": "03/2024",
+        "url": ""
+      },
+      {
+        "name": "EMPLOYEE MANAGEMENT",
+        "description": "Developed a comprehensive Employee Management application to streamline the process of adding, viewing, editing, and deleting employee details within an organization. The application provides an efficient and user-friendly interface for HR personnel to manage employee records. The project was implemented using both Jetpack Compose for Android and React Native for cross-platform mobile.",
+        "keywords": [],
+        "endDate": "02/2024",
+        "startDate": "09/2023",
+        "url": ""
+      },
+      {
+        "name": "TASK MANAGEMENT",
+        "description": "Developed a task management application designed to allocate tasks to individuals, track task progress, and evaluate personal performance. The application enables users to start and complete tasks while recording time and date, providing a comprehensive performance tracking system. The project was implemented using both Jetpack Compose for Android and React Native for cross-platform mobile support.",
+        "keywords": [],
+        "endDate": "09/2023",
+        "startDate": "07/2023",
+        "url": ""
+      },
+      {
+        "name": "DAIMLER TAP LAUNCHER",
+        "description": "Project prioritized redirecting to Fleet Launcher when available. Home launcher launches Fleet Launcher if present; else redirects to Daimler Tap Launcher.",
+        "keywords": [],
+        "endDate": "09/2023",
+        "startDate": "07/2023",
+        "url": ""
+      },
+      {
+        "name": "DAIMLER DEVICE ONBOARDING",
+        "description": "This application is to send the complete truck application and configurations to Daimler cloud. In this application we will be registering the truck and send the installed application list and application details to Daimler cloud and also we will send the status of wifi, navigation and bluetooth to the cloud in a periodic interval of 2 minutes. This app handles silent installation and uninstallation of application based on the version of the software versions received in backend from the truck.",
+        "keywords": [],
+        "endDate": "06/2023",
+        "startDate": "02/2023",
+        "url": ""
+      },
+      {
+        "name": "AIRPORTZO",
+        "description": "Airportzo is an awesome service aggregator platform to provide online booking for various travel-related ancillary services like Meet & Assist, Visa Assistance, Duty Free etc.",
+        "keywords": [],
+        "endDate": "01/2023",
+        "startDate": "12/2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Android Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "MacAppStudio Pvt. Ltd.",
+        "description": "Mobile App Development: Collaborated with cross-functional teams to design, develop, test, and deploy robust and scalable Android applications. Code Optimization: Wrote clean, maintainable, and efficient code, focusing on performance and responsiveness. Identified and addressed bottlenecks and bugs. API Integration: Integrated with RESTful APIs and third-party services to enhance app functionality and data exchange. UI/UX Implementation: Worked closely with designers to implement visually appealing and intuitive user interfaces. Ensured seamless integration between the front-end and back-end components Performance Optimization: Continuously optimized application performance, keeping up with best practices and industry standards. Designed and implemented the Android application architecture using MVVM and MVC patterns. Collaboration: Worked closely with other developers and team members to achieve project goals. Participated in code reviews and knowledge-sharing sessions. Testing and Debugging: Conducted thorough testing of applications, including unit testing and debugging. Collaborated with quality assurance teams to ensure the delivery of high-quality software.",
+        "location": "",
+        "links": "",
+        "startDate": "03/2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Kotlin",
+      "RESTful APIs",
+      "third-party libraries",
+      "MVVM architecture",
+      "Retrofit",
+      "Room",
+      "Firebase",
+      "AWS S3",
+      "Android SDK",
+      "Android Studio",
+      "Gradle",
+      "Jetpack Compose",
+      "Material Design",
+      "SQLite",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [
+      "Strong problem-solving",
+      "critical-thinking skills",
+      "excellent communication",
+      "attention to detail",
+      "adaptability to evolving technologies and industry trends"
+    ],
+    "name": "Manoj M",
+    "position": "Android Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2022.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor Of Business Administration"
+}

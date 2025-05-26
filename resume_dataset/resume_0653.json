@@ -1,0 +1,155 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sai Praveen Machavarapu",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh",
+    "Vijayawada"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Certification",
+        "issuer": "APSSDC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Summer Internship - Face Detection and Recognition",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.33/10.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Jr College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Vijayawada",
+        "ID": 1.0,
+        "grade_received": "94.4/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "St. Anns School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Vijayawada",
+        "ID": 2.0,
+        "grade_received": "A",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Civic Connect",
+        "description": "Developed Civic Connect, a MERN-based platform for citizen-government interaction, facilitating better communication and service delivery. Implemented a real-time issue reporting and tracking system, allowing citizens to report problems and receive updates on resolutions. Designed a modular and scalable architecture using Node.js and Express, ensuring the platform can handle a high volume of concurrent users.",
+        "keywords": [
+          "MERN Stack",
+          "Node.js",
+          "Express"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Management System",
+        "description": "Developed a Library Management System using DBMS principles, streamlining the management of books, members, and transactions. The system supports search, issue, return, and fine calculation functionalities. Utilized MySQL for database management, ensuring data integrity and efficient query processing. Implemented a user authentication system to manage different access levels for administrators and users.",
+        "keywords": [
+          "DBMS",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "OpenCV",
+          "machine learning"
+        ],
+        "endDate": "2023-10",
+        "company_name": "Face Recognition and Detection",
+        "description": "Specialized in face recognition with OpenCV and machine learning. Implemented algorithms for preprocessing, feature extraction, and model training to enhance accuracy and performance of face recognition systems. Collaborated with a team to integrate the face recognition system into an existing security infrastructure, improving overall system efficiency by 20.",
+        "location": "",
+        "links": "",
+        "startDate": "2023-06"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "machine learning",
+          "natural language processing"
+        ],
+        "endDate": "2024-01",
+        "company_name": "Sentiment Analysis NLP",
+        "description": "Conducted sentiment analysis using machine learning and natural language processing techniques. Developed models to classify sentiments in text data, providing insights into public opinion and feedback. Created and maintained a comprehensive dataset of labeled text data, ensuring high-quality training data for model development.",
+        "location": "",
+        "links": "",
+        "startDate": "2023-11"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C++",
+      "C",
+      "NLP",
+      "OpenCV",
+      "DBMS",
+      "SQL",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "React",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Adaptability",
+      "Creativity",
+      "Critical Thinking"
+    ],
+    "name": "Sai Praveen Machavarapu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

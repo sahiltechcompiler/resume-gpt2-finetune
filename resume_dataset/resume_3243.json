@@ -1,0 +1,122 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Parth Sarthi Dixit",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Foundation",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Delhi Public School, Indore",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "88%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School, Indore",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gemini-Plan",
+        "description": "Created a responsive single-page application using React.js that generates personalized diet plans based on user inputs for height, weight, and fitness goals. Utilized the Google Gemini API to fetch tailored diet plans, ensuring accurate and goal-specific nutritional recommendations. Implemented a robust backend using Node.js to handle API calls and manage communication between the frontend and external services.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "HAR",
+        "description": "Created a model that accurately predicts human activities using a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks. Attained an accuracy of up to 88% in predicting human activities, demonstrating the effectiveness of the model.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chatbot",
+        "description": "Implemented an interactive chatbot capable of answering user queries using both predefined question-answer pairs and information extracted from PDF documents. Employed natural language processing tools (NLTK, scikit-learn) for tokenizing, vectorizing, and measuring text similarity to accurately match user queries with relevant information. Used Chainlit for building the chatbot interface, handling user interactions, and managing the conversation flow. Leveraged PyMuPDF (fitz) for efficient text extraction from PDF files, ensuring accurate information retrieval and improving overall response relevance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Letterboxer",
+        "description": "Developed a program that scrapes movie streaming availability information from individual watchlists using BeautifulSoup and requests html. Extracted movie titles and their respective streaming services from the HTML content of Letterboxd watchlist links, ensuring accurate data retrieval. Implemented the program to compile streaming availability into a dictionary and export the data into a JSON file for easy access and further analysis. Incorporated randomized sleep intervals between requests to avoid rate limiting.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SMS Classifier",
+        "description": "Created an interactive web application using Streamlit to classify text data efficiently. Employed TFIDFVectorizer to convert text data into numerical vectors before feeding it to the classification model, ensuring effective feature extraction. Integrated the trained model into the Streamlit app, providing a user-friendly interface for real-time text classification and analysis.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "CPP Programming",
+      "Python Programming",
+      "DSA",
+      "Reactjs"
+    ],
+    "soft_skills": [],
+    "name": "Parth Sarthi Dixit",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

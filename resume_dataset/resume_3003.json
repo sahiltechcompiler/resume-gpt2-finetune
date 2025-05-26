@@ -1,0 +1,142 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "PURRU ANNAIAH",
+  "college": "SRM University",
+  "locations": [
+    "AP",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Dec 2021"
+      },
+      {
+        "school": "C.N Raju Junior College",
+        "endDate": "Mar 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 97.8",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "C.N Raju High School",
+        "endDate": "Mar 2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Community Management System",
+        "description": "Created user authentication and authorization mechanisms, including registration, login, and role-based access control, ensuring secure access to the application reducing navigation time by 50%. Added a feature where users receive automatic email notifications within 24 hours when an admin allocates a booking to a service provider. review system allowing users to provide feedback on service providers,with ratings on a scale of 1 to 5.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Django",
+          "DB Browser"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "EV Connect Platform",
+        "description": "Architected and managed the EV Connect platform with MERN stack (MongoDB, Express.js, React.js, Node.js),integrated the booking process for charging slots,resulting in a 30% increase in user retention. Enhanced the user interface and integrated real-time notifications to keep users informed about their booking status and slot availability,reducing the average booking time by 25%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "ReactJs",
+          "MongoDB",
+          "NodeJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Medical Recommondation System",
+        "description": "Developed a machine learning-based system using Python, Scikit-Learn, and Flask to provide personalized medical recommendations based on user health data. Implemented secure data handling and user verification features, protection of sensitive health information. Streamlined user interface for health data entry, enabling efficient tailored medical advice delivery, boosting user engagement by 30% and improving satisfaction ratings by 25%.",
+        "keywords": [
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Built and maintained a full stack web application using Django as the backend framework and HTML, CSS and Bootstrap for front end framework. Handled data storage with Django ORM managed user access and permissions using Djangos built-in user model, resulting in a 40% increase in operational efficiency.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Data Structures and Algorithms",
+      "Object-Oriented Programming",
+      "operating systems",
+      "computer architecture",
+      "computer networks",
+      "DBMS",
+      "Git",
+      "SQL",
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "soft_skills": [],
+    "name": "PURRU ANNAIAH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "450+ problems solved LeetCode and CodeChef.",
+      "Hackerrank certified 3 stars in problems-solving and 4 stars in c, c++.",
+      "Achieved a 2-star rating on CodeChef for solving skills in competitive programming.",
+      "Secured 4769rd rank in AP engineering entrance test among 1.75L students."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

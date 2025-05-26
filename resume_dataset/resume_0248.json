@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "Data Analyst",
+  "name": "Shubham Kadam",
+  "college": "A C Patil College Of Engineering",
+  "locations": [
+    "Mumbai",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "A C Patil College Of Engineering",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "BE",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.4 cgpa",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": ""
+      },
+      {
+        "school": "Government Polytechnic Mumbai",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "74.80 %",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sales Data Analysis and Visualization",
+        "description": "Performed data cleaning and preprocessing on a sales dataset with 11,000+ entries using Python (Pandas, NumPy). Conducted exploratory data analysis (EDA) to uncover insights; visualized gender distribution of purchases and total spending. Analyzed purchasing patterns by age group, marital status, occupation, and state using Seaborn and Matplotlib. Enabled data-driven decision-making by presenting findings effectively.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "Seaborn",
+          "Matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Credit Card Transaction and Customer Report Dashboard",
+        "description": "Developed an interactive Power BI dashboard for real-time insights into credit card transactions and customer behavior. Optimized data processing for improved performance monitoring and data refresh rates. Analyzed revenue and transaction trends for financial forecasting; identified usage patterns by transaction methods. Delivered actionable insights to stakeholders to enhance customer service and identify growth opportunities.",
+        "keywords": [
+          "Power BI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Pricewise",
+        "description": "Developed an e-commerce product scraping site using Next.js and Bright Data's webunlocker. Designed to assist users in making informed decisions by notifying them when a product drops in price. Implemented functionality to alert competitors when the product is out of stock, managed through cron jobs.",
+        "keywords": [
+          "Next.js",
+          "Bright Data"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [
+          "Power BI"
+        ],
+        "endDate": "",
+        "company_name": "Unified Mentor Private Limited",
+        "description": "Gathered and cleaned data from various sources to ensure accuracy and completeness for analysis. Created interactive dashboards and reports using Power BI to visualize data trends and findings. Developed and tracked KPIs to measure the effectiveness of business strategies.",
+        "location": "Mumbai",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Web development Virtual internship",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Git"
+        ],
+        "endDate": "July 2024",
+        "company_name": "CSRBOX",
+        "description": "Developed and maintained web applications using HTML, CSS, and JavaScript to enhance user experience. Utilized Git for version control and participated in code reviews to ensure code quality and consistency.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jun 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Seaborn",
+      "Matplotlib",
+      "Power BI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "soft_skills": [
+      "Multitasking",
+      "Observation",
+      "Decision making"
+    ],
+    "name": "Shubham Kadam",
+    "position": "Data Analyst",
+    "interests": [
+      "Gaming",
+      "Hiking",
+      "Learning Languages (currently learning Japanese)"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "BE"
+}

@@ -1,0 +1,174 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Aman Kumar",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Dugda, Bokaro",
+    "Kusum Vihar, Dhanbad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Graph Developer - Associate",
+        "issuer": "Apollo GraphQL",
+        "certiLink": "Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Essential Google Cloud Infrastructure: Foundation",
+        "issuer": "Google Cloud Community India",
+        "certiLink": "Link"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "7.43 CGPA",
+        "field_of_study": "Computer Science",
+        "startDate": "Sep. 2021"
+      },
+      {
+        "school": "D.A.V Public School",
+        "endDate": "May 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Dugda, Bokaro",
+        "ID": 1.0,
+        "grade_received": "90 percentage",
+        "field_of_study": "",
+        "startDate": "May 2018"
+      },
+      {
+        "school": "Teresa Block",
+        "endDate": "May 2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Kusum Vihar, Dhanbad",
+        "ID": 2.0,
+        "grade_received": "80.4 percentage",
+        "field_of_study": "",
+        "startDate": "May 2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mynote",
+        "description": "In this Web-app, you can create new notes, assignment and users. You can assign this notes your manager and employee. There is three role in this for Employee can only write the notes or assignment, for Manager can create new employee and also give assignment to its employee and last Admin which have access to write, delete, create new employee account Id and delete any account Id. In this, I have used react.js, html, css, for frontend part and mongoDb, express,js, node.js for backend part. I have also used Trust this device checkbox and JWT Web-token for encreption and decription purpose and lastly redux-tookit for state-manegment purpose.",
+        "keywords": [
+          "React.js",
+          "HTML",
+          "CSS",
+          "MongoDB",
+          "Express.js",
+          "Node.js",
+          "JWT",
+          "Redux Toolkit"
+        ],
+        "endDate": "October 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Muyi (Music App)",
+        "description": "This is full stack web application where you can listen and upload your own music. The app contain lots of features and function like you can create your own music, you can also create you playlist song which can keep public or private. You can change your own profile like edit Artiste name and chainge profile picture. There is a separeate page for Profile which contains your all songs and playlist. I have used moogose.js library for mongoDb database, JWT Web-token for authentication purpose and lastly redux-tookit for smooth state management.",
+        "keywords": [
+          "MERN Stack",
+          "MongoDB",
+          "JWT",
+          "Redux Toolkit"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Acme (Invoice Creater)",
+        "description": "Build a invoice creation and deletion based on next.js framwork, where you have allow to create, edit and delete invoice. You have to select person name, put amount in inbox and select paid or unpaid status and click on create. I use typescript languasge, tailwind for css, and next.js framwork. I also use MySQL database and next auth for the authethication purpose.",
+        "keywords": [
+          "Next.js",
+          "TypeScript",
+          "Tailwind",
+          "MySQL"
+        ],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "My Mini Projects",
+        "description": "Simple redux blog with dummy data. Build next page which fetch data from github api. Wiki Search where you find headline and images from wikipedia api.",
+        "keywords": [
+          "Next.js",
+          "React.js"
+        ],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "",
+        "skillsUsed": [
+          "MERN Stack",
+          "C++",
+          "Data Structures",
+          "Algorithms"
+        ],
+        "endDate": "present",
+        "company_name": "",
+        "description": "Created Two full-stack websites using the MERN stack Technology, utilizing MongoDB, Express.js, Node.js for backend Part, and React.js for the frontend Part. Progressively solving data structures and algorithm problems on platforms like LeetCode and Atcoder and Codeforces, primarily using C++. Continuously learning and creating mini-projects, which can be found on my GitHub account. Build Next.js framework projects during learning next.js time.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep. 2021"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Javascript",
+      "HTML/CSS",
+      "SQL",
+      "DOM",
+      "Next.Js",
+      "React.Js",
+      "Node.Js",
+      "Express.Js",
+      "MongoDb",
+      "Redux Toolkit",
+      "Git",
+      "Nest.js",
+      "DSA",
+      "Blockchain-intermediate"
+    ],
+    "soft_skills": [],
+    "name": "Aman Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Earn 2 badge of 100 Days Badge and 2 dadge of 50 Days Badge in Leetcode."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

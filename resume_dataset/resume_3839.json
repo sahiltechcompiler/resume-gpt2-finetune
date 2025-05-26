@@ -1,0 +1,90 @@
+{
+  "project_count": 1.0,
+  "designation": "Web Developer",
+  "name": "Harshita Pandey",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad",
+    "Varanasi",
+    "Faridabad, India"
+  ],
+  "full_output": {
+    "summary": "Developer with the passion for crafting interactive and visually stunning websites .Procient in frontend with strong foundation in competitive programming . I excel in tacking complex challenges and delivering ecient solutions. Ready to elevate your projects with speed, precision and innovation.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "07/2024",
+        "maximum_grade": "",
+        "degree": "Master of Computer Application",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "11/2022"
+      },
+      {
+        "school": "Mahatma Gandhi Kashi Vidyapeeth",
+        "endDate": "06/2022",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Application",
+        "location": "Varanasi",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "08/2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Online Trading Application",
+        "description": "developed and maintained the frontend of a web -based trading application that allowed users to buy ,sell and manage stocks. user interface :Dashboard, Prole Section, Live Tech Charts for application by using library like Chartjs, CSS(tailwind). real time updates: web sockets. API integration: interact with external APIs to fetch market data, perform transaction and manage user accounts.",
+        "keywords": [],
+        "endDate": "06/2024",
+        "startDate": "04/2024",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English Full Professional Prociency",
+      "Hindi Full Professional Prociency"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "09/2024",
+        "company_name": "InternPe",
+        "description": "I have created many responsive web pages using JavaScript, HTML5, and CSS3. I improved my front-end web development skills signicantly through hands-on experience. Tasks(Tic Tac Toe ,Calculator ,Snake Game).",
+        "location": "",
+        "links": "",
+        "startDate": "08/2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JAVASCRIPT",
+      "REACT",
+      "MYSQL",
+      "GIT/GITHUB",
+      "MongoDB",
+      "core Java"
+    ],
+    "soft_skills": [],
+    "name": "Harshita Pandey",
+    "position": "Web Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Infosys: Java Certied Foundation Associate (08/2023 - 10/2023)"
+    ],
+    "publications": []
+  },
+  "current_location": "Faridabad, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Master of Computer Application"
+}

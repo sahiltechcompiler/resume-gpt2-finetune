@@ -1,0 +1,133 @@
+{
+  "project_count": 4.0,
+  "designation": "Aspiring Software Developer",
+  "name": "AKHILESH VADDEPALLY",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, IN",
+    "Hyderabad, Telangana"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic and driven fresher with a passion for software development, Showing strong problem-solving skills Proficient in technologies such as java, python and Tools like power Automate. Eager to contribute to a dynamic organization and make a meaningful impact as a Software developer.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL (Basics)",
+        "issuer": "Hacker Rank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript For Web Development",
+        "issuer": "Board Infinity",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Jul 25",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Phagwara, IN",
+        "ID": 0.0,
+        "grade_received": "7.53",
+        "field_of_study": "Computer Science (Data Science (AI and ML))",
+        "startDate": "Jul 21"
+      },
+      {
+        "school": "Sri Chaitanya College",
+        "endDate": "Mar 21",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Hyderabad, Telangana",
+        "ID": 1.0,
+        "grade_received": "94.2 %",
+        "field_of_study": "",
+        "startDate": "Jun 19"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Heart Disease Classification",
+        "description": "Developed a heart disease classification model using Python, aimed at accurately identifying individuals with heart disease by analyzing various health metrics. Emphasized high recall for the positive class to ensure comprehensive identification of potential Patients. Implemented and tuned models like Logistic Regression, KNN SVM, Decision Tree, Random Forest. Evaluated model performance using Precision, recall, and F1-score",
+        "keywords": [
+          "Machine Learning",
+          "Python"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ID Card Generator",
+        "description": "Designed an implemented ID card generator using JavaScript, HTML, and CSS, aimed at seamlessly upgrading user data and dynamically generating personalized ID cards.",
+        "keywords": [
+          "Web Application",
+          "JavaScript"
+        ],
+        "endDate": "Jul 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Marks Management System",
+        "description": "Developed desktop based Tkinter GUI application to manage students marks which are stored in excel sheets. Features such as sending students marks to parents, respective subject faculty using smtp library in python.",
+        "keywords": [
+          "Web Application",
+          "Python",
+          "Tkinter"
+        ],
+        "endDate": "Jan 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Restaurant Website",
+        "description": "Developed using HTML, CSS, and JavaScript. The website includes sections such as About US, Gallery, Menu, Healthy Tips, Reservation and Dish of the Day.",
+        "keywords": [
+          "Web Application",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Mar 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "MS Excel",
+      "Informatica",
+      "Microsoft Power Platform",
+      "Power Apps",
+      "Power Automate"
+    ],
+    "soft_skills": [],
+    "name": "AKHILESH VADDEPALLY",
+    "position": "Aspiring Software Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "4 Star Rating in SQL on Hacker Rank Feb 2024"
+    ],
+    "publications": []
+  },
+  "current_location": "Warangal, Telangana",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

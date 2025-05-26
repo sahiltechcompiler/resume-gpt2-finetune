@@ -1,0 +1,108 @@
+{
+  "project_count": 2.0,
+  "designation": "Tech Coordinator",
+  "name": "Sakshi Gupta",
+  "college": "KIET Group of Institutions, AKTU",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Meerut, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Contributed as a dedicated member to mentor 20+ slum student.",
+      "Contributed to the clubs main project by donating blood more than 2 times.",
+      "Oversaw 5+ slum visits, ensuring safety and logistics."
+    ],
+    "education": [
+      {
+        "school": "KIET Group of Institutions, AKTU",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.01 CGPA(till 4 sem)",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Meerut Public School for Girls, CBSE",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food-Ordering Website",
+        "description": "Developed a fully functional food ordering website from scratch using React framework, integrating Swiggy API to access real-time data. Leveraged React library to create dynamic and interactive user interfaces. Utilized Parcel bundler for fast and efficient project setup and management. Integrated Swiggy API to fetch restaurant listings, menu items, and order processing functionalities. Implemented Redux for state management, ensuring a consistent application state across components.",
+        "keywords": [
+          "React js",
+          "Tailwind CSS"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Spotify Clone",
+        "description": "Developed a feature-rich Spotify clone using HTML, CSS, and JavaScript, receiving accolades for achieving a 95% replication of Spotifys features and design, enhancing web development skills. The project aimed to replicate 90% of the fundamental features and visual design elements of the popular music streaming platform, Spotify. Integrated search and recommendation features, designed user interfaces, managed 10+ playlists, and implemented user authentication.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Js"
+        ],
+        "endDate": "September 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Tech Coordinator",
+        "skillsUsed": [],
+        "endDate": "June 2025",
+        "company_name": "BrainBits",
+        "description": "The primary goal of our community is to offer top-notch resources and authentic guidance to individuals through our mentors who are already placed. We have organized more than 20+ free sessions, conducted 3+ Hackathons, and established sessions with over 10+ hightly skilled mentors. Revamped the Brainbits websites landing page, resulting in a 40% increase in user engagement and a 50% improvement in conversion rates. Improved the SEO by achieving a number 1 ranking on Google search (for thebrainbits) by structuring our code base and using relevant tags. Organised 4+ hackathons.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "November 2021"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "React Js",
+      "Tailwind CSS",
+      "Google cloud console",
+      "VS Code",
+      "Git",
+      "Github",
+      "OOPS",
+      "DBMS",
+      "Operating System"
+    ],
+    "soft_skills": [],
+    "name": "Sakshi Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Leetcode 600+ Problem solved.",
+      "Batch topper for the first year with aggregate of 9.55 SGPA at AKTU University.",
+      "Ranked 2nd in the KICCS D HACK 23.6 coding challenge organized by Coding Ninjas."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

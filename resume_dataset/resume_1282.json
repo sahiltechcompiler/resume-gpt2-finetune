@@ -1,0 +1,144 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "NIKITA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Birla Shishu Vihar,Pilani, pilani",
+    "pilani",
+    "ward no.1 shanti nagar colony raghar road pilani, pilani, Rajasthan, India - 333031"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Birla Shishu Vihar,Pilani, pilani",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.01 / 10",
+        "field_of_study": "Artificial Intelligence & Machine Learning",
+        "startDate": ""
+      },
+      {
+        "school": "Birla Shishu Vihar,Pilani",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "pilani",
+        "ID": 1.0,
+        "grade_received": "Percentage: 80.20 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Birla Shishu Vihar,Pilani",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "pilani",
+        "ID": 2.0,
+        "grade_received": "Percentage: 81.80 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Online Voting Portal",
+        "description": "To help in conducting fair and safe elections in the collage the portal was designed.",
+        "keywords": [
+          "RDBMS"
+        ],
+        "endDate": "2025",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Crop Yield Prediction",
+        "description": "I made a crop yield predictor for estimating the crop production based on certain direct or indirect factors.",
+        "keywords": [
+          "Python",
+          "Machine Learning Algorithms"
+        ],
+        "endDate": "2020",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Pneumonia Detection Using Chest X-ray",
+        "description": "We used chest X-rays to predict Pneumonia using machine learning and then Convolutional Neural Networks.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "Deep Learning Algorithms"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Breast Cancer Prediction",
+        "description": "I used numeric dataset based on different parameters to train different models and compare them for Brest Cancer Prediction.",
+        "keywords": [
+          "python",
+          "Machine Learning Algorithms"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "MySQL",
+      "C",
+      "Python",
+      "Numpy",
+      "Pandas",
+      "Sklearn",
+      "Tensorflow",
+      "Keras",
+      "Matplotlib",
+      "Scipy",
+      "Computer Networks",
+      "DBMS",
+      "Operating Systems",
+      "Object Oriented Programming",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Data Structures",
+      "Algorithms",
+      "Deep Learning"
+    ],
+    "soft_skills": [],
+    "name": "NIKITA",
+    "position": "",
+    "interests": [
+      "Art Work",
+      "Drama",
+      "Volleyball",
+      "Chess"
+    ],
+    "achievements_and_awards": [
+      "Engaged as a member of prestigious professional organizations including IEEE and ACM , fostering knowledge and professional development within the field of technology and engineering.",
+      "Recognized with the Deans List Certificate for achieving a remarkable 9.2 GPA in the 5th semester, highlighting academic excellence and dedication to learning.",
+      "Recognized with the Deans List Certificate for achieving a remarkable 9.48 GPA in the 6th semester, highlighting academic excellence and dedication to learning.",
+      "Appointed as the Student Placement Coordinator (SPC) for the esteemed batch of 2025, showcasing exceptional capabilities in networking, coordination, and professionalism."
+    ],
+    "publications": []
+  },
+  "current_location": "ward no.1 shanti nagar colony raghar road pilani, pilani, Rajasthan, India - 333031",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

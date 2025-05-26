@@ -1,0 +1,212 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Somesh Kumar",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan, India",
+    "Bihar, India"
+  ],
+  "full_output": {
+    "summary": "Full stack software engineer with expertise in developing APIs and applications for Web, Android, iOS, and Desktop platforms. Skilled in multiple programming languages, frameworks, and cloud services, with a keen interest in AI/ML and operating systems. Passionate about integrating intelligent solutions and optimizing performance. I aim to leverage my technical skills, leadership, and passion for innovation to build scalable, user-centric software solutions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Operating Systems Specialization",
+        "issuer": "Codios",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management Systems",
+        "issuer": "UMBC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "System Administration (RH124) & (RH134)",
+        "issuer": "RedHat",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Communications",
+        "issuer": "University of Colorado System",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Back-End & Front-End Developer Professional Certificate",
+        "issuer": "Meta",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "7.77/10",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Patna Central School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "Bihar, India",
+        "ID": 1.0,
+        "grade_received": "80.8%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Personal Website",
+        "description": "Developed a dynamic personal platform featuring project showcases, documentation, blogs, and real-time media tracking (songs, movies, TV shows, reading). Designed a custom CMS with an Android app for seamless updates, cutting content update time by 75% and achieving over 1,000 page views within the first 12 hours. Integrated the platform with a personal server for real-time media display and enhanced performance, reducing loading times from 3 seconds to 0.3 seconds using caching. Implemented responsive design and SEO best practices, resulting in a 50% increase in organic traffic and improved search rankings in the first month.",
+        "keywords": [],
+        "endDate": "Present",
+        "startDate": "December 2023",
+        "url": "kumarsomesh.in"
+      },
+      {
+        "name": "Home Server",
+        "description": "Built a personal home server from scratch, functioning as a cost-effective NAS and hosting solution for various applications, including the backend of my personal website. Set up DDNS, port forwarding, and headless OS with RDP and SSH connections, reducing hosting costs by 75% and ensuring reliable remote access. Hosted server applications like VS Code, Plex and Jellyfin, accessible via a personalized domain. Developed bash scripts and systemd unit files to automate tasks such as media downloading and management, enhancing server efficiency and functionality, even when SSH connections are interrupted.",
+        "keywords": [],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": "kumarsomesh.in/project/home-server"
+      },
+      {
+        "name": "DoomScroll",
+        "description": "Developed an LLM-based short-video generation engine to produce engaging educational content. Addresses the Goldfish Attention Span Crisis in Gen-Z, stemming from the prevalence of short-form video content. Collaborated with a team of three members in a hackathon, working intensively over a 36-hour period.",
+        "keywords": [],
+        "endDate": "October 2023",
+        "startDate": "",
+        "url": "kumarsomesh.in/project/doomscroll"
+      },
+      {
+        "name": "Manipal Careers Portal",
+        "description": "Led a team of 10 developers and contributed as a full-stack developer in creating the Manipal Careers Portal, enhancing application accessibility for academic and non-academic positions with a user-friendly interface. Enabled HR personnel to streamline recruitment by providing access to applicant profiles, photos, and resumes, reducing manual paperwork by 80% and significantly improving the efficiency of the recruitment process.",
+        "keywords": [],
+        "endDate": "July 2023",
+        "startDate": "",
+        "url": "kumarsomesh.in/project/manipal-careers-portal"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Vice President",
+        "skillsUsed": [],
+        "endDate": "2024",
+        "company_name": "Randomize(); The Official CSE Club at Manipal University",
+        "description": "Reviving the club by focusing on key technologies and constantly increasing the value provided to students, becoming the fastest-growing club on campus. Encouraging unique thinking and building robots. Team of over 250 members.",
+        "location": "Jaipur, Rajasthan, India",
+        "links": "",
+        "startDate": "2023"
+      },
+      {
+        "role_name": "Deputy Webmaster",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "IEEE Student Branch at Manipal University",
+        "description": "Improved web development by adding groundbreaking features. Organized an inter-college online puzzle hunt using advanced in-house web technology to create a dynamic portal that engaged over 500 participants from 10+ colleges.",
+        "location": "Jaipur, Rajasthan, India",
+        "links": "",
+        "startDate": "2022"
+      }
+    ],
+    "skills": [
+      "Java (7+ years)",
+      "JavaScript (5+ years)",
+      "TypeScript",
+      "Python",
+      "Swift",
+      "C",
+      "PHP",
+      "Bash Scripting",
+      "Express (Node.js)",
+      "FastAPI",
+      "Django",
+      "Next.js",
+      "React Native (Expo)",
+      "SwiftUI",
+      "Electron",
+      "SvelteKit",
+      "EJS",
+      "Bootstrap",
+      "Tailwind CSS",
+      "Chakra UI",
+      "tkinter",
+      "Java Swing",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "NoSQL & SQL Databases (MongoDB, MySQL, PostgreSQL)",
+      "Redis",
+      "Linux",
+      "Git",
+      "GitHub",
+      "BitBucket",
+      "AWS S3",
+      "AWS EC2",
+      "Google Firebase",
+      "Azure VM",
+      "DigitalOcean",
+      "Hetzner",
+      "Heroku",
+      "Render",
+      "Netlify",
+      "Vercel",
+      "Docker",
+      "Raspberry Pi",
+      "Arduino"
+    ],
+    "soft_skills": [],
+    "name": "Somesh Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Finalist and Semi-Finalist of Smart India Hackathon.",
+      "First Prize in Web Wizards competition by CSE Dept.",
+      "Volunteered in Google Developer Student Clubs as Tech Lead."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

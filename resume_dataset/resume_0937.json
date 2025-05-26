@@ -1,0 +1,134 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shubham Maddheshiya",
+  "college": "Madan Mohan Malaviya University of Technology",
+  "locations": [
+    "Gorakhpur",
+    "Deoria"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Member at National Service Scheme- MMMUT, Gorakhpur"
+    ],
+    "education": [
+      {
+        "school": "Madan Mohan Malaviya University of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Gorakhpur",
+        "ID": 0.0,
+        "grade_received": "8.36",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Saraswati Senior Secondary Vidya Mandir",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Deoria",
+        "ID": 1.0,
+        "grade_received": "80.4",
+        "field_of_study": "",
+        "startDate": "April 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "BookADoc",
+        "description": "A Mern Stack web application where user can book appointment and apply for the doctor. Patients can book appointments and check the status of their appointment (e.g., Reduced paperwork by 50 percent). Doctors can approve or reject the appointment made by the patients. Developed and Integrated 20+ APIs in overall project to efficiently manage appointments and request made by users.",
+        "keywords": [
+          "MongoDB",
+          "Reactjs",
+          "Expressjs",
+          "Nodejs"
+        ],
+        "endDate": "Live",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "BudgetBuddy",
+        "description": "A Mern Stack web application to create a fully functional expense/income tracker app. Users can add and delete a income/expense detail. Implemented a pie chart functionality to demonstrate the overall transactions and turnover of income/expense. Developed and Integrated APIs in overall project to efficiently manage transaction updates made by users.",
+        "keywords": [
+          "MongoDB",
+          "Reactjs",
+          "Expressjs",
+          "Nodejs"
+        ],
+        "endDate": "Live",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Xchange-Crypto",
+        "description": "Designed and developed a Front End web application to keep track of the Cryptocurrency all over the world. Exhibits various parameters such as prices(in INR and USD), market cap, 24hr change in profit-loss. Implemented graphical analysis of each coins using Chart.js. Employed user interface using React, leveraging components, state management utilizing Context API.",
+        "keywords": [
+          "ReactJS",
+          "Material UI",
+          "Axios"
+        ],
+        "endDate": "Live",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Problem Setter Intern",
+        "skillsUsed": [],
+        "endDate": "Feb 2023",
+        "company_name": "Technack Technologies Private Limited",
+        "description": "Developed a diverse range of DSA problems for coding competitions, online platforms, or educational resources, ensuring they are challenging, relevant, and aligned with industry standards and best practices. Demonstrated strong proficiency in various data structures and algorithms by creating problems that require sound understanding and application of concepts such as sorting, searching, dynamic programming, and more.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "STL",
+      "ReactJs",
+      "VScode",
+      "Git",
+      "Github",
+      "ExpressJs",
+      "Bootstrap",
+      "MongoDB",
+      "Firebase",
+      "Relational Database(MySQL)"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Event Management",
+      "Content Writing",
+      "Public Speaking",
+      "Time Management"
+    ],
+    "name": "Shubham Maddheshiya",
+    "position": "",
+    "interests": [
+      "Data Structures and Algorithms",
+      "Web Development"
+    ],
+    "achievements_and_awards": [
+      "Leetcode : 425+ problems solved. | Link",
+      "Secured AIR 1515 in CodeKaze 2023 out of 2 lakhs +participants. | Link",
+      "100+Days badge on Leetcode in 2023. | Link",
+      "Secured a global rank of 2649 out of 23000+ participants in Leetcode weekly contest."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

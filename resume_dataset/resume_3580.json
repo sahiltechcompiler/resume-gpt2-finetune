@@ -1,0 +1,263 @@
+{
+  "project_count": 7.0,
+  "designation": "",
+  "name": "KHUSHI MEHTA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Bihar, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Azure Data Scientist Associate (DP - 100)",
+        "issuer": "MICROSOFT, COURSERA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM Data Analyst Professional Certificate",
+        "issuer": "IBM, COURSERA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Engineering, Big Data, And Machine Learning on GCP Specialization",
+        "issuer": "GOOGLE CLOUD, COURSERA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Get Started with Python",
+        "issuer": "GOOGLE, COURSERA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Power BI Data Analyst Professional Certificate",
+        "issuer": "MICROSOFT, COURSERA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Azure SQL",
+        "issuer": "MICROSOFT, COURSERA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Work Smarter with Microsoft Excel",
+        "issuer": "MICROSOFT, COURSERA",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.46(till 6th sem)",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Creane Memorial High School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81.66",
+        "field_of_study": "PCM",
+        "startDate": ""
+      },
+      {
+        "school": "Creane Memorial High School",
+        "endDate": "2019",
+        "maximum_grade": "89.67",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "99/100",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CREDIT CARD APPROVAL",
+        "description": "Developed a predictive model using machine learning algorithms to assess credit card application approvals. Achieved a high accuracy rate by optimizing features related to credit history, income, and demographic factors. Deployed the model to streamline the decision-making process, reducing approval time by 40%.",
+        "keywords": [
+          "Python",
+          "ML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MUSIC STORE ANALYSIS",
+        "description": "Conducted in-depth analysis of sales and customer data to uncover trends and preferences in a music retail business. Implemented customer segmentation and sales forecasting, resulting in a 15% increase in targeted marketing efficiency. Created visual dashboards to present key insights to stakeholders, enhancing data-driven decision-making.",
+        "keywords": [
+          "SQL",
+          "PYTHON",
+          "ML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "INTERACTIVE SALES DASHBOARD",
+        "description": "Designed and developed a dynamic sales dashboard using PowerBI, integrating real-time data from multiple sources. Enabled interactive filtering and drill-down options, allowing business users to explore sales performance across regions and products. The dashboard improved visibility into key metrics, leading to a 20% boost in sales team productivity.",
+        "keywords": [
+          "POWERBI",
+          "SQL",
+          "PYTHON"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MARKET BASKET ANALYSIS",
+        "description": "Performed association rule mining to identify frequently purchased product combinations in a retail dataset. Implemented recommendations that led to optimized product placements, increasing average basket size by 12%. Provided actionable insights that informed promotional strategies, driving a 10% uplift in cross-selling opportunities.",
+        "keywords": [
+          "PYTHON",
+          "ML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "PREDICTIVE ANALYTICS FOR HEALTHCARE OUTCOMES",
+        "description": "Built predictive models to forecast patient outcomes based on historical health data and treatment patterns. Improved prediction accuracy by 25% through feature engineering and model optimization. Insights from the project helped healthcare providers tailor treatment plans, improving patient care and reducing readmission rates.",
+        "keywords": [
+          "PYTHON",
+          "ML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "DATA PIPELINE FOR REAL-TIME ANALYTICS",
+        "description": "Designed and implemented a scalable data pipeline for ingesting, processing, and analyzing real-time streaming data. Utilized Apache Kafka and Spark to ensure high-throughput and low-latency data processing. The solution enabled real-time decision-making, reducing operational response time by 30%.",
+        "keywords": [
+          "PYTHON",
+          "APACHE",
+          "Amazon S3"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VOICE ACTIVATED VIRTUAL ASSISTANT",
+        "description": "Developed a voice-activated virtual assistant using natural language processing (NLP) and speech recognition technologies. Integrated the assistant with a variety of datasets to provide personalized responses and recommendations. Enhanced user experience through continuous learning and customization, increasing user engagement by 35%.",
+        "keywords": [
+          "PYTHON",
+          "NLP",
+          "Google Speech API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FUNDRAISER VOLUNTEER",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "MUSKURAHAT FOUNDATION",
+        "description": "Aided in creating and implementing fundraising strategies, increasing donor support and involvement. Gained proper marketing and public relations expertise, creating effective campaigns to raise the organization's profile and influence in the community. Collected a total amount of 2700 INR which would help a child for two months.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "FINANCIAL ACCOUNTANT ADVISOR",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "DHEERAJ KRISHNA CONSTRUCTION PVT LTD.",
+        "description": "Worked on financial statement analysis, assessing the health and performance of a company's finances by examining balance sheets, income statements, and cash flow statements. Gained valuable insights into financial strategies and compliance while contributing to real-world projects.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL",
+      "VBA",
+      "Excel",
+      "GitHub",
+      "PowerBI",
+      "Tableau",
+      "Google Data Studio",
+      "Jupyter Notebooks",
+      "ETL Tools",
+      "APIs",
+      "Hadoop",
+      "Spark",
+      "Google Cloud Platform (GCP)",
+      "AWS",
+      "Azure",
+      "Database Management Systems (DBMS)",
+      "Machine Learning Frameworks",
+      "Web Scraping Libraries"
+    ],
+    "soft_skills": [
+      "Excellent orator skills",
+      "Outstanding Resilience",
+      "Analytical Thinking",
+      "Attention to details",
+      "Time Management",
+      "Collaboration",
+      "English",
+      "Hindi"
+    ],
+    "name": "KHUSHI MEHTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Bihar, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Science"
+}

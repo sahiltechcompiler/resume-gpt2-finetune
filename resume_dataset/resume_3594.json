@@ -1,0 +1,173 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Avantika Majumder",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Rajasthan",
+    "Gandhinagar, Gujarat"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI for everyone",
+        "issuer": "DeepLearning.AI",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Introduction for Everyone",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development: Django",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.75 [till 6th semester]",
+        "field_of_study": "Computer and Communication Engineering, minor specialization in data science",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Delhi Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "AISSCE",
+        "location": "Gandhinagar, Gujarat",
+        "ID": 1.0,
+        "grade_received": "82.8%",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "AISSE",
+        "location": "Gandhinagar, Gujarat",
+        "ID": 2.0,
+        "grade_received": "94.8%",
+        "field_of_study": "Class X",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real Estate Price Predictor",
+        "description": "Developed a real estate price predictor utilizing machine learning concepts and Python. Leveraged pandas, scikit-learn, matplotlib, and data preprocessing techniques to build predictive models. Achieved an 85% prediction accuracy, providing valuable insights for property buyers.",
+        "keywords": [
+          "machine learning",
+          "Python",
+          "pandas",
+          "scikit-learn",
+          "matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face Recognition Attendance System",
+        "description": "Designed and implemented an efficient face recognition-based attendance system using Python, OpenCV, and NumPy. Significantly reduced attendance management time, ensuring accuracy and efficiency. Recorded attendance with timestamps using CSV files.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "NumPy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Airline Management System",
+        "description": "Designed a robust database management system (DBMS) using Python, MySQL, and MySQL connector. Efficiently managed extensive passenger and flight data, providing seamless booking, cancellation, status checks, and ticket management. Created interactive Tableau dashboards to visualize key data insights enhancing data comprehension.",
+        "keywords": [
+          "Python",
+          "MySQL",
+          "Tableau"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "Django",
+          "Vue.js",
+          "Vuetify.js",
+          "ECharts.js",
+          "MongoDB Compass"
+        ],
+        "endDate": "June 2024",
+        "company_name": "Oil and Natural Gas Corporation",
+        "description": "Developed interactive dashboards for production data using Django, Vue.js, Vuetify.js, and ECharts.js. Retrieved and managed data using MongoDB Compass to ensure efficient data handling and storage.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "SQL",
+      "MySQL",
+      "MongoDB",
+      "Tableau",
+      "Pandas",
+      "Matplotlib",
+      "Scikit-learn",
+      "OpenCV"
+    ],
+    "soft_skills": [
+      "Collaborative problem solver",
+      "expert attention to detail",
+      "flexibility and adaptability",
+      "task prioritization"
+    ],
+    "name": "Avantika Majumder",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors of Technology"
+}

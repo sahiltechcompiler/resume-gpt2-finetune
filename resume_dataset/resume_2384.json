@@ -1,0 +1,98 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Uma Patel",
+  "college": "Motilal Nehru National Institute of Technology Allahabad",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Motilal Nehru National Institute of Technology Allahabad",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.49 CPI",
+        "field_of_study": "Computer Science",
+        "startDate": "Nov. 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Online Food Delivery",
+        "description": "Developed an online food delivery application to meet the growing demand for convenient food ordering and delivery in urban areas. Implemented secure login and signup processes for personalized user experiences. Created an intuitive interface for users to browse menus and place orders efficiently. Implemented a real-time tracking system to monitor order status from preparation to delivery. Utilized technologies such as React.js for the frontend, Node.js and Express.js for the backend, and MongoDB for data storage with Mongoose for schema-based modeling. Oversaw database schema design, data modeling, and backend integration with MongoDB for efficient data management and retrieval. Overcame challenges in adapting MongoDB's structure using Mongoose, ensuring seamless integration between frontend and backend, and optimizing database performance.",
+        "keywords": [
+          "Express.js",
+          "Node.js",
+          "MongoDB",
+          "Mongoose"
+        ],
+        "endDate": "March 2023",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Dating Website",
+        "description": "Enable users to create personalized profiles, leveraging preferences and location data to find their ideal match algorithmically. Engage in lively conversations with a feature-rich chat section, allowing users to convey emotions through emojis, stickers, gifs, and more. Elevate connections with built-in audio/video call features, facilitating real-time communication and enhancing the depth of user interactions.",
+        "keywords": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "January 2021",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "August 2022",
+        "company_name": "NetCamp",
+        "description": "Coordinated with a dynamic team of software engineers to develop scalable software solutions. Collaborated in an inclusive team environment to identify continuous integration and process improvement opportunities. Created scalable code for customer business solutions. Identified bugs and product defects, and coordinated with team members to resolve technical issues. Explored ways to visualize and send a daily report of test results to team members using HTML, JavaScript, and CSS.",
+        "location": "Remote",
+        "links": "Drive link Contact: +91 9331090003, Santu Purkait (Director of Netcamp Solutions Private Limited)",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "Pytorch",
+      "spark",
+      "Hadoop",
+      "C",
+      "C++",
+      "JavaScript/TypeScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Uma Patel",
+    "position": "",
+    "interests": [
+      "Learning Languages",
+      "Art and Sketching",
+      "Playing Batminton"
+    ],
+    "achievements_and_awards": [
+      "Qualify for the final round of the prestigious Coding Contest at Code Gladiators",
+      "Recognized at Hacktoberfest 2023 for contributions to multiple open-source projects, earning badges and prizes.",
+      "Finalist, Coding Contest at Code Gladiators, 2023.",
+      "Ranked 115 in GATE 2024, showcasing strong academic aptitude and knowledge in the field of Computer Science."
+    ],
+    "publications": []
+  },
+  "current_location": "Prayaraj, Uttar Pradesh 212402",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

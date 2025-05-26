@@ -1,0 +1,182 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "FAIZ AYYUB",
+  "college": "Moradabad Institute of Technology",
+  "locations": [
+    "India"
+  ],
+  "full_output": {
+    "summary": "To leverage my skills and experience as a software engineer to contribute to a dynamic organization and work on cutting-edge projects. I am seeking a challenging position where I can utilize my technical expertise, problem solving abilities, and passion for innovation to develop high-quality software solutions that meet the needs of users and drive business success. I aim to collaborate with a talented team and make a meaningful impact in the field of software development while continuously enhancing my skills and staying up-to-date with emerging technologies.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "AUTODESK",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "Spoken tutorial",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Development Soft Skills & personality",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Moradabad Institute of Technology",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "computer science & engineering",
+        "startDate": "2019"
+      },
+      {
+        "school": "Priyanka Modern School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "XII (CBSE)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Grocery Manager application",
+        "description": "This project is a comprehensive Grocery Manager application built using Python and the Tkinter GUI library. The application allows users to manage grocery inventory, process purchases, and generate reports. The project leverages multiple libraries including SQLite, MySQL, OpenCV, PIL, and Report Lab to achieve its functionalities.",
+        "keywords": [
+          "Python",
+          "Tkinter",
+          "SQLite",
+          "MySQL",
+          "OpenCV",
+          "PIL",
+          "ReportLab"
+        ],
+        "endDate": "",
+        "startDate": "July 2023",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Clothing website",
+        "description": "The E-Commerce Clothing website at zafaattires.com is a comprehensive online store crafted with HTML, CSS, JavaScript, PHP, and MySQL. It offers a seamless shopping journey with its index page featuring the latest collections and promotions, while the products page showcases diverse clothing items for women. Customers can easily manage their selections through the intuitive cart feature and reach out to support via the contact us page. The admin panel, powered by PHP and MySQL, empowers administrators to efficiently handle content, products, inventory, and pricing. Bootstrap ensures a responsive, mobile-friendly design, enhancing accessibility across devices.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "MySQL",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://zafaattires.com"
+      },
+      {
+        "name": "Automatic grocery application",
+        "description": "The grocery management system boasts a robust array of features designed to streamline inventory management. Utilizing Tkinter for the graphical interface, SQLite for local data storage, and MySQL for centralized data storage, it offers a seamless user experience.",
+        "keywords": [
+          "Tkinter",
+          "SQLite",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie ticket booking system",
+        "description": "The project objective is to book cinema tickets in online. The Ticket Reservation System is an Internet based application that can be accessed throughout the Net and can be accessed by anyone who has a net connection.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "React",
+          "Node.js",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "Present",
+        "company_name": "Freelancer, India",
+        "description": "Currently working as a Web Developer and responsibility as below: Frontend Development: Design and develop responsive, interactive, and user-friendly web applications using HTML5, CSS3, JavaScript, and relevant frameworks such as React, Angular. Write clean, modular, and reusable code for the frontend, ensuring cross-browser compatibility and optimal performance Implement responsive design principles to ensure a seamless user experience across various devices and screen sizes Backend Development: Design and develop robust, scalable, and secure backend APIs using language such as PHP Write efficient, well-documented, and testable code for the backend, ensuring data integrity and security Implement authentication and authorization mechanisms to ensure secure data access and manipulation Integrate with databases such as MySQL to store and retrieve data Database Administration: Design and implement database schemas to store and manage application data Perform database optimization and indexing to ensure optimal performance Ensure data consistency and integrity by implementing transactions and error handling mechanisms Perform regular database backups and ensure data recovery in case of failures Testing and Debugging: Write unit tests, integration tests, and end-to-end tests to ensure application functionality and stability Debug and troubleshoot application issues using various debugging tools and techniques Perform code reviews to ensure adherence to coding standards and best practices Deployment and Maintenance: Deploy applications to cloud platforms such as AWS, Azure, or Google Cloud, or to on-premise servers Configure and manage servers, including setting up load balancers, firewalls, and SSL certificates Monitor application performance and troubleshoot issues using logging and analytics tools Perform regular security updates and patches to ensure application security.",
+        "location": "India",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "Developer",
+        "skillsUsed": [
+          "Python",
+          "Tkinter",
+          "SQLite",
+          "MySQL",
+          "OpenCV",
+          "PIL",
+          "ReportLab"
+        ],
+        "endDate": "April 2024",
+        "company_name": "Freelancer, India",
+        "description": "This project is a comprehensive Grocery Manager application built using Python and the Tkinter GUI library. The application allows users to manage grocery inventory, process purchases, and generate reports.",
+        "location": "India",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "NodeJS",
+      "React",
+      "MongoDB",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "FAIZ AYYUB",
+    "position": "",
+    "interests": [
+      "Teaching",
+      "Open-Source Contributions",
+      "Blogging"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

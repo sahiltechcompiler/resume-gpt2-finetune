@@ -1,0 +1,160 @@
+{
+  "project_count": 4.0,
+  "designation": "Data Analyst",
+  "name": "Kunal Rohilla",
+  "college": "MDU",
+  "locations": [],
+  "full_output": {
+    "summary": "Data analyst with over 4+ years of expertise extracting, analysing, and visualising data to inform business choices. Proficient in SQL, PowerBI, Advanced Excel, and Python, with a proven track record of recognising patterns and giving actionable insights. Successfully handled data initiatives that increased operational efficiency and cut expenses.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Data Analytics",
+        "skillsLearned": [],
+        "title": "NSDC Certification",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "German Language",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MDU",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Mechanical Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Walmart Sales and Profit Analysis",
+        "description": "Utilized a combination of Excel, SQL, and Power BI to analyze Walmart's sales and profit data. Cleaned and transformed data in Excel, then wrote SQL queries to identify top-selling products, regional sales trends, and customer segments(E -commerce). Created interactive dashboards in Power BI to visualize insights for stakeholders. Analysis revealed opportunities for optimizing inventory management in specific regions and identified underperforming product lines for strategic review.",
+        "keywords": [
+          "Excel",
+          "SQL",
+          "Power BI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Kunalrohillaa/Walmart-sales-and-profit-analysis"
+      },
+      {
+        "name": "Atliq Grands Hospitality Analytics",
+        "description": "AtliQ Grands, a leading hospitality chain in India, faced challenges in market share and revenue for luxury/business hotels due to intense competition and suboptimal decision-making. To combat this, the managing director spearheaded a drive to fuse Business Intelligence with Data Analytics.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Kunalrohillaa/Atliq-Grands-Hospitality-Analytics"
+      },
+      {
+        "name": "Clickbait: Marketing Analysis",
+        "description": "Unveiling Hidden Customer Segments with Data! I used SQL queries to explore a vast dataset of customer demographics, purchase history, and marketing campaign interactions. Through data analysis, I unearthed distinct customer segments with unique buying behaviors and preferences previously unknown to the marketing team. I built interactive Power BI dashboards that brought these hidden segments to life, allowing for targeted marketing strategies.",
+        "keywords": [
+          "SQL",
+          "Power BI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Kunalrohillaa/CliqueBait"
+      },
+      {
+        "name": "Student Success Analysis",
+        "description": "A Multi-Disciplinary Approach Identify relevant data sources like student records, course enrollment data, demographic information, and academic performance metrics (grades, test scores). Ensure data is accessible in formats compatible with Excel, Python (CSV, text files), and Power BI. Use libraries like Pandas and NumPy for data manipulation and visualization.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Kunalrohillaa/University-Success-Analysis"
+      }
+    ],
+    "languages": [
+      "German A1 - B2"
+    ],
+    "experiences": [
+      {
+        "role_name": "Sr Analyst",
+        "skillsUsed": [
+          "Advanced Excel",
+          "Data Processing",
+          "Sales Dashboards",
+          "Data Analysis",
+          "Web Scraping",
+          "Python"
+        ],
+        "endDate": "May 2024",
+        "company_name": "AccioJob",
+        "description": "Responsible for reducing data cleaning time in CRM software by 20% by implementing automated data processing routines (using Advanced Excel). Created sales dashboards that track key performance indicators (KPIs) Collaborated with cross-functional teams to implement a new customer onboarding process, resulting in a 30% decrease in customer churn within the first 3 months. Work with the rest of the sales (business development) team to develop and continually refine the sales strategy and performance monitoring. Developed and implemented a new curriculum based on data insights over portal (Assignment section), resulting in a 7% improvement in student satisfaction scores. Problem solving and stats analysing as per the data set from the raw data and database Analysing and creating the dashboards for the team to improve the performance Data tracking from the CRM software, Import and export using advance excel Web scraping from the website to gain the valuable insights using python.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2022"
+      },
+      {
+        "role_name": "Analyst",
+        "skillsUsed": [
+          "CRM Software",
+          "Excel",
+          "Power BI",
+          "Data Validation",
+          "Database Maintenance"
+        ],
+        "endDate": "Jan 2022",
+        "company_name": "CueMath",
+        "description": "Handling Presales end to end operations for APAC countries Worked as a teacher point of contact to assign the personalized mentor to the learner throughleap using CRM software , reduced manual work to complete 100% automation. Worked closely to integrate and export leads from Leadsquare, a CRM program and ETL processes. Worked closely on Excel and Power Bl to build the dashboards for the team Analysing charts and graphs for meeting global clients. That includes ie Data Validation ,Data formatting and Database Maintenance.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2021"
+      },
+      {
+        "role_name": "Analyst",
+        "skillsUsed": [
+          "Vendor Management",
+          "Data Analysis",
+          "Advanced Excel"
+        ],
+        "endDate": "March 2020",
+        "company_name": "Raman Iron and Steel Industries",
+        "description": "Dealing with vendors on the daily basis Maintaining the required part quantity for the company and supplying steel and bearing parts by contacting and relationships building. Analysing and Reading drawings from the engineer to purchase the exact required material in bulk. (By using advance excel ie pivots, lookup functions ) Creating measures for negotiating higher profit margins by lowering market pricing.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2019"
+      }
+    ],
+    "skills": [
+      "SQL",
+      "PowerBI",
+      "Advanced Excel",
+      "Python",
+      "Data Analysis",
+      "Data Visualization",
+      "Statistical Analysis",
+      "Data Cleaning and Preprocessing",
+      "Problem Solving and Critical Thinking",
+      "Effective Communication",
+      "Database Management"
+    ],
+    "soft_skills": [],
+    "name": "Kunal Rohilla",
+    "position": "Data Analyst",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2018.0,
+  "experience_count": 3.0,
+  "degree": "BTech"
+}

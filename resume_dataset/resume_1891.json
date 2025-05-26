@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "SOFTWARE ENGINEER",
+  "name": "Simranjeet Kaur",
+  "college": "Indraprastha University",
+  "locations": [
+    "DELHI, India",
+    "HARYANA, India",
+    "Noida, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indraprastha University",
+        "endDate": "AUG 2022",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "DELHI, India",
+        "ID": 0.0,
+        "grade_received": "8.9 CGPA",
+        "field_of_study": "CSE",
+        "startDate": "AUG 2018"
+      },
+      {
+        "school": "Modern Vidya Niketan, Aravalli Hills",
+        "endDate": "MARCH 2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "HARYANA, India",
+        "ID": 1.0,
+        "grade_received": "85%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Lets Chat",
+        "description": "Created a software application for real-time chatting utilizing React.js, Express.js, and Node.js. Integrated Bootstrap to enhance user interaction and ensure responsiveness. Employed Web Sockets (Socket.io) to facilitate real-time bi-directional data flow for seamless communication between users.",
+        "keywords": [
+          "React.js",
+          "Express.js",
+          "Node.js",
+          "Bootstrap",
+          "Web Sockets"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Excel Pixel",
+        "description": "Developed a cross-platform Excel spreadsheet utilizing a tech stack encompassing HTML, CSS, Javascript, and Jquery. Implemented comprehensive functionality, including basic Excel operations on the home page, along with the ability to save and delete sheets as needed. Enhanced user flexibility by enabling the addition of multiple sheets with stored data, providing seamless navigation through options for renaming or deleting sheets.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Jquery"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Live News Web App",
+        "description": "Engineered a dynamic NewsApp leveraging an open-source API to deliver the new updates to the user. Implemented a single-page interface and incorporated a user-centric Preference-based sorting feature for personalized news browsing using ReactJs and Bootstrap.",
+        "keywords": [
+          "ReactJs",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SOFTWARE ENGINEER",
+        "skillsUsed": [
+          "ReactJS",
+          "Redux",
+          "SASS",
+          "vanilla JavaScript",
+          "Tailwind CSS"
+        ],
+        "endDate": "PRESENT",
+        "company_name": "To The New",
+        "description": "Designed and built a number of unique features for HDFC Mutual Funds, such as Investment Personality, Investment Basket, and Goal Planning, which ultimately led to an increase in user investment by 10%. Implemented E-Cart functionality that allowed the users to save the funds and schemes for their future investment plans by building a customized cart using ReactJS, Redux and SASS. As a key contributor to Tata Play's Manage Pack Journey and the implementation of the FTV-Delinking feature, I significantly enhanced user experience by enabling customization of Fire TV Stick configurations. These efforts led to a notable 20% increase in user engagement and subscription plan utilization. Implemented a user-centric DTH box pause/resume feature using ReactJS, vanilla JavaScript, Redux and Tailwind CSS. This initiative resulted in a significant 35% boost in subscriber retention rates, demonstrating a commitment to enhancing user experience and leveraging cutting-edge web development technologies. Enhanced website performance by implementing lazy loading and code splitting techniques. Led code reviews to maintain product advancement and adherence to quality standards.",
+        "location": "Noida, India",
+        "links": "",
+        "startDate": "FEB 2022"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS",
+      "React.js",
+      "Redux",
+      "Node.js",
+      "Express",
+      "Webpack",
+      "WebSocket",
+      "jQuery",
+      "REST API",
+      "Tailwind",
+      "Bootstrap",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Git/Github",
+      "Postman",
+      "JIRA",
+      "Figma",
+      "Google Analytics"
+    ],
+    "soft_skills": [],
+    "name": "Simranjeet Kaur",
+    "position": "SOFTWARE ENGINEER",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Noida, India",
+  "graduation_year": 2022.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

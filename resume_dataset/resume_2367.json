@@ -1,0 +1,148 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Mrudula Gajulapalli",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "I have a strong background in Computer Science and graduated with honors in BTech from SRM University AP. I have successfully completed various projects, demonstrating my commitment to learning and adaptability. I collaborate effectively with others and take a proactive approach to solving problems. I am prepared to use my skills in new situations.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.95/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sarada Educational Institution",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "91.5/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Ratnam EM High School",
+        "endDate": "2019",
+        "maximum_grade": "10",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.5/10",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Employee And Department Management System",
+        "description": "The Employee Management Systems front end was built and designed with the help of Axios for seamless API connectivity and Vite for efficient creation processes. Using MySQL for data storage and JPA and Hibernate for effective database operations, a reliable and scalable backend was built via Spring Boot. RESTful APIs were developed and maintained to handle business logic and CRUD processes, guaranteeing dependable front-end and back-end connectivity. Carried out thorough testing of the API and Postman debugging to guarantee the reliability as well as effectiveness of backend services.",
+        "keywords": [
+          "Axios",
+          "Vite",
+          "MySQL",
+          "JPA",
+          "Hibernate",
+          "Spring Boot",
+          "RESTful APIs",
+          "Postman"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Titanic Survival Classification",
+        "description": "Created a Python machine learning model to predict Titanic passenger survival, using data preprocessing, feature engineering, and different classification algorithms. Achieved high prediction accuracy by conducting comprehensive model evaluations and applying a range of optimization techniques, ensuring robust performance and reliability.",
+        "keywords": [
+          "Python",
+          "machine learning",
+          "data preprocessing",
+          "feature engineering",
+          "classification algorithms"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Supply Chain Management System",
+        "description": "Developed and implemented a Java-based Supply Chain Management System: Streamlined inventory and order management to boost operational efficiency, and improved data accuracy with advanced validation techniques. Applied Java programming expertise: Designed a scalable, maintainable system using object-oriented principles, with thorough testing to ensure optimal performance and reliability.",
+        "keywords": [
+          "Java",
+          "Supply Chain Management",
+          "inventory management",
+          "order management",
+          "object-oriented principles"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "Aug 2022",
+        "company_name": "Technook",
+        "description": "Acquired practical experience in Python, focusing on developing skills and applying them to real-world projects. Developed a Countdown Timer with Start and Pause functions, improving users ability to manage their time effectively.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "Java Script",
+      "My SQL",
+      "Python",
+      "C",
+      "Data Structures",
+      "Spring Boot",
+      "JPA",
+      "Hibernate",
+      "Visual Studio",
+      "Eclipse",
+      "Google Colab",
+      "Jupyter notebook",
+      "MySQL Workbench",
+      "Postman",
+      "Computer networks",
+      "Artificial Intelligence",
+      "Machine learning",
+      "Operating systems",
+      "Formal Languages and Automata Theory"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "effective communication",
+      "Innovative Thinking",
+      "Time Management"
+    ],
+    "name": "Mrudula Gajulapalli",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

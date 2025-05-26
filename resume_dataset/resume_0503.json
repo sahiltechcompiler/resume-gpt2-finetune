@@ -1,0 +1,119 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Paladugu Lakshmi Sai Prakash",
+  "college": "SRM AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM AP",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Board of Intermediate Education AP",
+        "endDate": "2021",
+        "maximum_grade": "10.0/10.0",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 8.88/10.00",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of Secondary Education Of Andhra Pradesh",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Marks: 951/1000",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Text file encryption and decryption",
+        "description": "It is a user-friendly GUI application for text file encryption and decryption using the AES algorithm which supports 128, 192, and 256-bit encryption for enhanced data security. Provided a seamless and intuitive experience for users to protect their files.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Housing Price Prediction",
+        "description": "Developed housing price prediction models using Python and machine learning algorithms (Linear Regression, Lasso, Decision Tree), achieving 84 % accuracy with K-fold cross-validation on a dataset of 13,320 properties. Conducted advanced data preprocessing and feature engineering. Optimized models through hyperparameter tuning with GridSearchCV, leveraging Python, Pandas, NumPy, and Scikit-learn to deliver robust and actionable insights for the real estate market.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Team Project Portal",
+        "description": "Developed a web portal for project management and team coordination, serving over 5000 students, with user authentication and role-based access control for over 500 teachers. Enabled teachers to manage hundreds of projects and handle over 1000 team formation requests, utilizing JavaScript for dynamic content generation. Implemented project search and filter functionalities, enhancing navigation through a large volume of projects. Integrated comprehensive error handling for form submissions and API requests, ensuring reliability for thousands of users.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real-Time Language Translation Web Application",
+        "description": "Fabricated a Real-Time Language Translation App supporting 50+ languages, improving global accessibility for 10,000+ users. Tried & Tested Backend Solutions with Express.js and translate-google, achieving 95 % translation accuracy and also implemented voice commands for hands-free operation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern, Machine Learning and Computer Vision",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "SRM-AP",
+        "description": "Trained a machine learning model for human action recognition using Googles MediaPipe framework. Collaborated with a team to develop and refine machine learning algorithms, contributing to project success.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "HTML/CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "Git",
+      "Power BI",
+      "Excel",
+      "Postman",
+      "MongoDB",
+      "Mysql"
+    ],
+    "soft_skills": [],
+    "name": "Paladugu Lakshmi Sai Prakash",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

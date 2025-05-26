@@ -1,0 +1,180 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Vinayak Kumawat",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7 Enterprise Networking, Security, and Automation",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Enterprise-grade AI",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "System Administration II (RH134)",
+        "issuer": "RedHat",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Matrixz - A Collaborative Platform",
+        "description": "Developed a full-stack web application and integrated diverse technologies to create a seamless UI/UX. Optimized data management with Drizzle ORM and PostgreSQL, reducing data retrieval times by 25%. Implemented real-time video and audio features, and learned about real-time data handling. Developed skills in cloud deployment and container management for scalable applications.",
+        "keywords": [
+          "Stream",
+          "NextJs",
+          "PostgreSQL",
+          "Docker"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Live Vote Cloud",
+        "description": "Developed real-time, collaborative applications using WebSockets for seamless user interactions. Implemented dynamic, responsive UI components with Tailwind CSS, enhancing user experience. Leveraged Redis for efficient data storage and real-time updates across distributed systems. Engineered a live word cloud visualization to display real-time voting results dynamically.",
+        "keywords": [
+          "Socket.io",
+          "NextJs",
+          "Redis"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Data Extraction API",
+        "description": "Built a robust data extraction API using Node.js and OpenAI, automating data retrieval processes. Utilized Zod for precise data validation and schema checking, ensuring reliable API responses. Designed and tested API endpoints with Postman, facilitating seamless interaction and debugging. Delivered structured JSON data in response to user requests, enhancing data accessibility and usability.",
+        "keywords": [
+          "NodeJs",
+          "OpenAi",
+          "API",
+          "Postman"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "File Formate Converter",
+        "description": "Developed a client-side file format converter using WebAssembly for efficient media processing. Integrated FFmpeg for comprehensive media file conversion capabilities directly in the browser. Designed an intuitive user interface with Tailwind CSS and Shadcn UI for seamless user experience. Enabled drag-and-drop functionality for effortless media file uploads and conversions.",
+        "keywords": [
+          "WebAssembly",
+          "ffmpeg",
+          "NextJs",
+          "TailwindCSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Software Development Centre",
+        "description": "Led the development of the main website and enhanced technical skill set through different development tasks. Gained hands-on experience with web technologies and project management using best engineering practices. Implemented agile methodologies to streamline development processes and adhered to development standards.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Freelance Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Freelance via Upwork",
+        "description": "Developed multiple web projects, ensuring each was optimized for both functionality and user experience. Managed project timelines and deliverables, ensuring on-time completion. Collaborated with the client to understand their vision and requirements, providing regular updates.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "Javascript",
+      "TypeScript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Next.js",
+      "TailwindCSS",
+      "Framer Motion",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "REST APIs",
+      "WebSockets",
+      "WebRTC",
+      "Git",
+      "Docker",
+      "VS Code",
+      "PyCharm",
+      "Axios",
+      "Socket.io",
+      "JWT",
+      "Mongoose",
+      "Bcrypt",
+      "zod"
+    ],
+    "soft_skills": [],
+    "name": "Vinayak Kumawat",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

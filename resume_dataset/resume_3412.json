@@ -1,0 +1,180 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Ayush Jindal",
+  "college": "Dr. APJ Abdul Kalam Technical University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam Technical University",
+        "endDate": "2025",
+        "maximum_grade": "10.00",
+        "degree": "B-Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.82",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Astrology-App",
+        "description": "Enabled users to browse astrologer profiles with detailed expertise, availability, and session costs. Automatically saving consultation history for easy access to past sessions and insights.",
+        "keywords": [
+          "Javascript",
+          "Reactjs",
+          "Expressjs",
+          "Nodejs",
+          "Netlify",
+          "MongoDB",
+          "JWT",
+          "APIs",
+          "MaterialUI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FitMate",
+        "description": "Developed Fit Chatbot with AI for personalized fitness guidance, including BMI calculation and workout plans, and integrated geolocation for gym location and enhanced user engagement.",
+        "keywords": [
+          "Javascript",
+          "React",
+          "Python",
+          "Seaborn",
+          "Flask",
+          "onRender",
+          "Postgresql",
+          "gemini",
+          "Numpy",
+          "Pandas"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hawk Chat Analyzer",
+        "description": "An AI software solution to help organizations measure both sentiment and engagement on their chat platforms. This software takes text-based chat conversation data and finds out an individual's emotions toward any topic.",
+        "keywords": [
+          "Javascript",
+          "Jupyter",
+          "Python",
+          "Seaborn",
+          "Streamlit",
+          "Numpy",
+          "Pandas"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Crypto Tracker",
+        "description": "Developed a React-based cryptocurrency trading application with a user-friendly interface, ensuring seamless navigation and efficient monitoring of assets for traders of all levels.",
+        "keywords": [
+          "React",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Sept 2024",
+        "company_name": "Deecogs",
+        "description": "Scraped and analyzed data from multiple websites, extracting key insights for further analysis. Built a predictive model with 90 percent accuracy using the extracted data, enhancing data-driven decision-making.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2024"
+      },
+      {
+        "role_name": "Mentor",
+        "skillsUsed": [],
+        "endDate": "Jul 2024",
+        "company_name": "GSSoC24",
+        "description": "Mentored in GSSoC24 for the Dots-and-Boxes project, guiding contributors in developing an interactive Python-based game. Provided technical support and code reviews to enhance project quality.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "AftrAI",
+        "description": "Developed and deployed an advanced Gemini-powered chatbot that extracts key information. Engages users in human-like dialogue through natural language processing.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "MySQL",
+      "Javascript",
+      "ML",
+      "DL",
+      "NLP",
+      "GenAI",
+      "Langchain",
+      "AWS",
+      "Streamlit",
+      "Jupyter",
+      "PowerBI",
+      "Python Libraries",
+      "Hugging Face",
+      "OpenCV",
+      "bs4",
+      "Reactjs",
+      "MaterialUI",
+      "Tailwind CSS",
+      "Firebase",
+      "Netlify",
+      "MongoDB",
+      "JWT",
+      "APIs",
+      "Expressjs",
+      "Nodejs",
+      "NoSQL",
+      "Github",
+      "Docker",
+      "Photoshop",
+      "Premiere Pro",
+      "Figma",
+      "Canva",
+      "Notion",
+      "WordPress"
+    ],
+    "soft_skills": [],
+    "name": "Ayush Jindal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Sponsored Track Winner: HACKNITR 4.0 Hackathon organised by NIT Rourkela.",
+      "2nd Position: Antaragni India Quiz organised by IIT Kanpur",
+      "4th Position: Hack Fusion 2024 Hackathon organised by NIT Jamshedpur",
+      "4th Position: Solvosphere 2024 Hackathon organised by IIIT Delhi",
+      "Top 15 Finalists: Sphinx Hackathon organised by MNIT Jaipur",
+      "Silver Level: WorldQuant Brain Challenge",
+      "Coordinator and Designer: Experienced Coordinator for Techno-Managerial Society at AKGEC, proficient in organizing and anchoring diverse events like Scrolls Hackathon, Kiran Anti-Ragging Program, MG20 and much more."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B-Tech"
+}

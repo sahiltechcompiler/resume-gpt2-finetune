@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vikash Kumar",
+  "college": "SRM University, AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Led the student council at SRMAP",
+      "Coordinated international student orientations at SRMAP"
+    ],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.5",
+        "field_of_study": "Computer Science Cybersecurity",
+        "startDate": "02/2023"
+      },
+      {
+        "school": "Sri Chaitanya College",
+        "endDate": "02/2024",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 92.0%",
+        "field_of_study": "M.P.C",
+        "startDate": "11/2021"
+      },
+      {
+        "school": "Bhashyam School",
+        "endDate": "05/2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 87.4%",
+        "field_of_study": "SSC BOARD",
+        "startDate": "05/2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce website",
+        "description": "Developed a Python project simulating the traditional Rock Paper Scissors game with over 500 lines of code, allowing users to play against the computer; achieved a 90% user satisfaction rate based on feedback from 50 users. Implemented core game logic and user interface using HTML and Python, enhancing gameplay experience and engagement by 70%; improved performance by optimizing code, reducing execution time by 40%.",
+        "keywords": [
+          "Core Python",
+          "HTML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat Amigo",
+        "description": "Built a chat app for bidirectional messaging with real-time updates and attachments capabilities, achieving 95% user satisfaction and handling over 10,000 messages daily. Implemented robust authentication and data storage using Firebase, improving security and scalability by 60%; enhanced user experience by reducing message load time by 40%.",
+        "keywords": [
+          "React",
+          "Firebase (Storage, Auth, Database)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Threat Modelling and Analysis",
+        "description": "Conducted threat modeling and analysis for supply chain logistics, identifying 15 key assets, assessing 30 vulnerabilities, and prioritizing 10 high-risk threats, resulting in a 20% reduction in potential security incidents. Utilized pandas and various Python libraries to analyze and visualize data, implementing cybersecurity algorithms for threat detection and mitigation, leading to a 30% improvement in system resilience and threat response time.",
+        "keywords": [
+          "pandas",
+          "Python libraries",
+          "cybersecurity algorithms"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "Python",
+          "Django"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Engineered robust web applications using Python and Django, enhancing backend functionalities; boosted system performance by 50% and reduced server load by 25%, significantly improving user experience. Solved complex technical issues in a fast-paced environment; adopted new technologies swiftly, reducing average resolution time by 40% and increasing team efficiency by 25%.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "MongoDB",
+      "Firebase",
+      "MySQL",
+      "Redux",
+      "Docker",
+      "AWS",
+      "GitHub Actions",
+      "CICD pipelines",
+      "NGINX"
+    ],
+    "soft_skills": [],
+    "name": "Vikash Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

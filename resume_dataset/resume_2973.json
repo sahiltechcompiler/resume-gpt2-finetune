@@ -1,0 +1,105 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Hemanth J",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA : 8.56",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "V Music",
+        "description": "Developed a music application (\"V Music App\") using HTML, CSS, JavaScript, React.js, Node.js, Express.js Implemented features for user authentication, music streaming, playlist creation, and search functionality. Enhanced user experience through responsive design and intuitive UI/UX.",
+        "keywords": [
+          "ReactJs",
+          "Node.js",
+          "Express.js"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "Nov 2023",
+        "url": ""
+      },
+      {
+        "name": "ProjectA2Z",
+        "description": "Created a modern and responsive user interface using React.js for dynamic and engaging user experiences. Developed a scalable backend architecture with Node.js and Express.js for efficient handling of concurrent connections Implemented MongoDB for flexible and scalable NoSQL data storage, enhancing project functionality",
+        "keywords": [
+          "ReactJs",
+          "Node.js",
+          "Express.js"
+        ],
+        "endDate": "Oct 2023",
+        "startDate": "Sep 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full stack web development",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Propulsion Technologies",
+        "description": "Developed and maintained web applications using front-end technologies such as HTML, CSS, JavaScript, and React.js. Implemented back-end functionalities using Node.js, Express.js, and MongoDB. Collaborated with the design team to enhance user interface and user experience (UI/UX). Participated in code reviews and provided constructive feedback to peers.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2023"
+      },
+      {
+        "role_name": "Front End Developer",
+        "skillsUsed": [],
+        "endDate": "Oct 2023",
+        "company_name": "Marcello Tech",
+        "description": "Designed and implemented a Landing Tribute Page using HTML and CSS during internship at Marcello Tech. Developed a functional calculator using HTML, CSS, and JavaScript as part of internship tasks at Marcello Tech. Contributed to the development of a MERN stack Task Management Web App during internship at Marcello Tech. Implemented responsive web design techniques to ensure optimal user experience across various devices and screen sizes during my internship at Marcello Tech.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "JavaScript",
+      "HTML/CSS",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "Docker",
+      "Kotlin",
+      "MySQL",
+      "MongoDB",
+      "Figma",
+      "Canva"
+    ],
+    "soft_skills": [],
+    "name": "Hemanth J",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Patent Published(Ethereum Wallet-Blockchain Technology)",
+      "Smart India Hackathon 5.0 2024 secured 10th place among 50 teams"
+    ],
+    "publications": []
+  },
+  "current_location": "Chennai",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

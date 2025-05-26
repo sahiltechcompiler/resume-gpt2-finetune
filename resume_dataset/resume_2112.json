@@ -1,0 +1,166 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Bhavya Gupta",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Vision - Theory and Projects in Python",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundation",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java",
+        "issuer": "Spoken Tutorial IIT Bombay",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "08/2024",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.28",
+        "field_of_study": "Information Technology",
+        "startDate": "08/2020"
+      },
+      {
+        "school": "Bal Bharati Public School, GRH Marg",
+        "endDate": "03/2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "82.7%",
+        "field_of_study": "",
+        "startDate": "03/2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Stock Market Data Analysis",
+        "description": "Used Apache Kafka for streaming stock market data. Optimized AWS resources to ensure cost-effective and scalable infrastructure. Leveraged AWS S3 for efficient and scalable storage of processed data. Utilized Athena for performing SQL Python, AWS, Apache Kafka, Glue, Athena and SQL queries for in-depth analysis. Implemented Amazon S3 to securely store and serve website source code, ensuring high availability.",
+        "keywords": [
+          "Python",
+          "AWS",
+          "Apache Kafka",
+          "Glue",
+          "Athena",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Serverless Website",
+        "description": "Leveraged Amazon DynamoDB to manage and store data efficiently, ensuring fast and scalable access to critical application data and incorporated Amazon CloudFront as a content delivery network (CDN) to accelerate content delivery, reduce latency, and enhance the website's performance.",
+        "keywords": [
+          "AWS S3",
+          "DynamoDB",
+          "Lambda",
+          "Cloud front",
+          "Python",
+          "Matplotlib",
+          "OpenCV",
+          "Sci-Kit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Smart CCTV",
+        "description": "The solution increases storage efficiency by 65%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Crop Prediction & Recommendation Model",
+        "description": "Curated, Cleaned and transformed agricultural data using SQL Queries according to business request. Trained the model using Linear regression & Dense Forest algorithm & visualized data using Power Bi.",
+        "keywords": [
+          "Python",
+          "Power Bi",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "08/2024",
+        "company_name": "Ajath Infotech Pvt. Ltd.",
+        "description": "Designed and deployed a dashboard that seamlessly retrieves and presents chronological data from a database. Contributed to production code development and played an integral role in debugging processes. Function to generate presentations using OpenAI API.",
+        "location": "",
+        "links": "",
+        "startDate": "08/2020"
+      },
+      {
+        "role_name": "Promotional & Design Lead",
+        "skillsUsed": [],
+        "endDate": "02/2024",
+        "company_name": "Epicture (Photography Society of GTBIT)",
+        "description": "Coordinated and directed highly successful College Farewell events, overseeing 10+ team members; achieved attendance of 100+ students and faculty members. Engaged actively in initiatives focused on revitalizing society following the pandemic gathering 30+ team members.",
+        "location": "",
+        "links": "",
+        "startDate": "09/2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "SQL",
+      "Python",
+      "AWS",
+      "OOPS",
+      "Linux",
+      "PowerBi"
+    ],
+    "soft_skills": [
+      "Strong Interpersonal Skills",
+      "Attention to detail",
+      "Logical proficiency"
+    ],
+    "name": "Bhavya Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor Of Technology"
+}

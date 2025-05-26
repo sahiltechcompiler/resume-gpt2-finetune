@@ -1,0 +1,115 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Ayan Mujawar",
+  "college": "AC Patil College of Engineering",
+  "locations": [
+    "Kharghar, India",
+    "MUMBRA, THANE, India",
+    "THANE, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "AC Patil College of Engineering",
+        "endDate": "Current",
+        "maximum_grade": "",
+        "degree": "BE",
+        "location": "Kharghar, India",
+        "ID": 0.0,
+        "grade_received": "CGPA :- 7.58",
+        "field_of_study": "Computer Science and Engineering with Specialization in (Cybersecurity, Internet of Things and Blockchain Technology)",
+        "startDate": "15/11/2020"
+      },
+      {
+        "school": "St Mary's Convent High school",
+        "endDate": "22/02/2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "MUMBRA, THANE, India",
+        "ID": 1.0,
+        "grade_received": "Percentage :- 66.96%",
+        "field_of_study": "Natural sciences, mathematics and statistics: Chemistry",
+        "startDate": "15/08/2018"
+      },
+      {
+        "school": "AL NADI UL FALAH ENGLISH SCHOOL",
+        "endDate": "30/03/2018",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Certificate",
+        "location": "THANE, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "15/07/2008"
+      }
+    ],
+    "projects": [
+      {
+        "name": "WHATSAPP CLONE",
+        "description": "Kotlin, an Android programming language, was used to create a messaging app. Android Jetpack served as the framework. Node.js was used for the back end, and Websockets was used for real-time communication and security via HTTPS and end-to-end encryption for databases MongoDB and PostgreSQL.",
+        "keywords": [],
+        "endDate": "2021",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "JARVIS AN AI ASSISTANT",
+        "description": "Jarvis was created using a variety of Python modules and libraries, including virtualenv, speech recognition, pywhatkit, Wikipedia, and requests by turning on the speakfunction and say() functions. runandWait() is used to halt an event loop, and the greet function welcomes users by using the speech recognition module to identify their input.",
+        "keywords": [],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-VOTING SYSTEM USING BLOCKCHAIN",
+        "description": "Blockchain technology is employed in electronic voting systems because it offers transparency, immutability, and decentralization. Component Lifecycle Methods, Props, States, JSX, and ReactJS are some of its characteristics. Web 3 is utilized for Ethereum functionality, with Node.js serving as the framework and PostgreSQL as the database.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VULNERABILITY ASSESSMENT TOOL",
+        "description": "NodeMCU creates a device that actively searches for vulnerabilities, such as discovering problems with network protocol. Cloud-based storage databases are used for centralized analysis and storage. Users can access this important data via a MERN (MongoDB, Express, React, Node.JS) Stack-built IoT dashboard. By allocating security scores, this system not only detects vulnerabilities but also offers a thorough security assessment.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "English",
+      "Urdu",
+      "Arabic"
+    ],
+    "experiences": [],
+    "skills": [
+      "Web development (HTML/CSS, JavaScript)",
+      "Game Designing",
+      "Python Language - Basic knowledge",
+      "CSharp Beginner",
+      "Digital Skills: Digital Marketing",
+      "Microsoft Office"
+    ],
+    "soft_skills": [],
+    "name": "Ayan Mujawar",
+    "position": "",
+    "interests": [
+      "Coin Collection",
+      "Cricket",
+      "Volleyball",
+      "Gaming"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "E/201 YOGI COMPLEX, SHARIFA ROAD AMRUT NAGAR MUMB, 400612 THANE (India)",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "BE"
+}

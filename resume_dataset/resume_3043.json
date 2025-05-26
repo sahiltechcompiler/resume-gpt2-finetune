@@ -1,0 +1,109 @@
+{
+  "project_count": 2.0,
+  "designation": "Fullstack Engineering Intern",
+  "name": "Uday Raj",
+  "college": "Amrita Vishwa Vidyapeetham",
+  "locations": [
+    "Chennai, India",
+    "Hyderabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Amrita Vishwa Vidyapeetham",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Chennai, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer and Communication Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hirehub",
+        "description": "Built a Fullstack application with React(Nextjs) and Node.js Implemented major functionalities like CRUD operations for Job posts,User Authentication, likes,premium user and more. Established user authentication and authorization for recruiters and candidates.",
+        "keywords": [
+          "Nodejs",
+          "Redux",
+          "PostgreSQL",
+          "MongoDB",
+          "Stripe",
+          "Docker",
+          "React",
+          "Nextjs",
+          "Tailwind CSS"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "React JS Portfolio",
+        "description": "Crafted a dynamic single-page application using React.js, integrating Bootstrap for sleek and responsive design elements alongside multiple routes for seamless navigation. Implemented routing functionalities to enable seamless navigation between different sections of the portfolio, enhancing user experience and accessibility making it more feasible than 90% of the current websites. Employed effective SEO techniques to improve the portfolio's visibility and ranking on search engines, ensuring increased discoverability to potential viewers by 87%. Utilized React hooks for streamlined state management and API fetching, facilitating the integration of dynamic content and personalized features to showcase adaptability and creativity in development.",
+        "keywords": [],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Fullstack Engineering Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2024",
+        "company_name": "DeepDive Labs",
+        "description": "Developed RegAdmin Hub, a Saas-application serving as a centralized hub for managing Regulations Constructed administrative tools that reduced regulatory management time by 40% through creation , updating, and efficient management of regulations Created RESTful API endpoints that trigger a Lambda function upon receiving POST requests, Employed debouncing to search function, boosting performance by minimizing redundant API calls by 70%.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Data Structures and Algorithm",
+      "Web Development",
+      "Database Management",
+      "Version Control (Git)",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analytics",
+      "Data Analysis",
+      "Debugging",
+      "Typescript",
+      "Javascript",
+      "Java",
+      "python",
+      "C++",
+      "SQL",
+      "React",
+      "Node.js",
+      "Firebase",
+      "Supabase",
+      "Docker",
+      "REST-API",
+      "DynamoDB",
+      "PostgreSQL"
+    ],
+    "soft_skills": [],
+    "name": "Uday Raj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Top 1% Achiever in AMCAT Competitive Exam Scored 99 Percentile in Advanced Aptitude, Logical Ability, English, Coding | Link",
+      "First Place in National Coding Event Won first place in a national coding event, showcasing top-tier coding proficiency | Link",
+      "Runner-up in National Level Coding Event Secured second place in a national coding event | Link",
+      "Second place in Smart India Hackathon Achieved second place in the Smart Streetlights Control 2021"
+    ],
+    "publications": []
+  },
+  "current_location": "Hyderabad, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

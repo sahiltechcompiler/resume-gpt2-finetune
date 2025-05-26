@@ -1,0 +1,91 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shiv Patel",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Nadiad, Gujarat",
+    "Sunav, Gujarat"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "7.98",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Handwriting Data to Detect Alzheimers Disease",
+        "description": "Developed a machine learning model for handwriting data to detect Alzheimers disease detection using regression models like Linear regression,XGB boost model,Adaboost model and Random Forest model. From this models Random forest model has the highest accuracy of 88.57, followed by XGB boost model having 85.71 and Adaboost has 82.85,we can conclude that Random forest is most suitable. Applied data analysis with NumPy and Pandas to clean and prepare complex datasets, facilitating model training.",
+        "keywords": [
+          "Statistic",
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Scikitlearn",
+          "matplotlib",
+          "tensorow"
+        ],
+        "endDate": "2021",
+        "startDate": "2019",
+        "url": ""
+      },
+      {
+        "name": "Youtube Sentiment Analysis",
+        "description": "YouTube Sentiment Analysis App using Swift and Xcode, incorporating natural language processing to assess sentiment in video comments. Implemented a user-friendly interface for visualizing sentiment analysis results, enhancing user engagement and understanding of audience reactions.Designed the UI and also connected UI elements in the IOS App.It can help content creators to improve the quality of their videos.",
+        "keywords": [
+          "Swift",
+          "SwifteriOS",
+          "CoreML",
+          "JSON"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Car Number plate Detection",
+        "description": "Developed a car number plate detection system using Python and OpenCV to automatically identify and recognize vehicle license plates in images.",
+        "keywords": [
+          "Python",
+          "OpenCv",
+          "EasyOCR"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "Python",
+      "Swift",
+      "SQL",
+      "C"
+    ],
+    "soft_skills": [],
+    "name": "Shiv Patel",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

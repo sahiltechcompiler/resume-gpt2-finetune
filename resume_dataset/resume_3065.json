@@ -1,0 +1,151 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SOMIL GUPTA",
+  "college": "Maharaja Agrasen Institute Of Technology (GGSIPU)",
+  "locations": [
+    "Delhi, Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute Of Technology (GGSIPU)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.08/10.0",
+        "field_of_study": "ECE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Manav Sthali School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94.2%",
+        "field_of_study": "CBSE",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Credit Card Fraud Detection",
+        "description": "Engineered a robust Credit Card Fraud Detection system utilizing RandomForestClassifier and XGBoostClassifier models. Along with cleaning the dataset and removing outliers Achieved superior performance with the XGBoost model, showcasing higher accuracy and reduced overfitting compared to RandomForest.",
+        "keywords": [
+          "Python",
+          "XGBoost",
+          "Big Data"
+        ],
+        "endDate": "Jul 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "BookDash (Ticket booking site)",
+        "description": "Designed a website aggregating fares from multiple booking platforms, directing users to the lowest prices for flights and trains. Empowered travelers with a streamlined booking experience, integrating frontend and backend technologies to optimize data management and processing, reducing search time by 40% and providing access to the best fares within seconds.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "QuizMaster",
+        "description": "QuizMaster is an innovative platform designed to empower users to create, share, and take quizzes on a wide range of topics. Achieved a 30% increase in user engagement through features like real-time quiz updates, custom quiz templates, and social sharing capabilities.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Brain Tumor Detection",
+        "description": "Designed an advanced MRI Brain Tumor Detection System, integrating state-of-the-art image processing and deep learning, achieving a 99% accuracy rate. Optimized existing models and developed a hybrid solution exceeding industry standards in MRI brain tumor detection.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Tensorflow",
+          "CNN",
+          "VGG-16"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Internship",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "Cantilever",
+        "description": "Developed a Credit Card Fraud Detection system using RandomForestClassifier and XGBoostClassifier models and a Movie Reviews Sentiment Analysis system using SVM, Random Forest, and RNN models. Implemented data preprocessing techniques and feature selection based on Seaborn heatmap visualizations and text preprocessing techniques including tokenization, stopword removal, and lemmatization.",
+        "location": "Delhi, Remote",
+        "links": "",
+        "startDate": "Jul 2024"
+      },
+      {
+        "role_name": "Research Internship",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "MAIT",
+        "description": "Engineered an innovative MRI Brain Tumor Detection System by leveraging CNN and VGG models, seamlessly integrating cutting-edge image processing and deep learning technologies. Achieved 5% higher accuracy than industry standards through the development and fine-tuning of a CNN and hybridized VGG-16, achieving accuracies of 99% and 97.3%, respectively.",
+        "location": "Delhi, Remote",
+        "links": "",
+        "startDate": "Jul 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Java",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Data Structures",
+      "Algorithms",
+      "Design Patterns",
+      "OOPs",
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "soft_skills": [],
+    "name": "SOMIL GUPTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

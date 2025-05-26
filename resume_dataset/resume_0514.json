@@ -1,0 +1,138 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Smitkumar Kunpara",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Jul 2025",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.33/10.0",
+        "field_of_study": "Computer Science and Engineering with Specialization in Cybersecurity",
+        "startDate": "Sep 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Minutes of Meeting",
+        "description": "Designed an AI-powered system for automated transcription, speaker labeling, and summarization. Achieved 92.5% transcription accuracy using AssemblyAI and 90% summary accuracy with Gemini AI. Ensured 100% data security and authentication through JWT Tokens and OTP verification. Achieved 2.9% speaker count error rate with AssemblyAIs speaker diarization model. Enabled text highlighting synchronized with audio playback for enhanced user experience.",
+        "keywords": [
+          "FastAPI",
+          "MongoDB",
+          "ReactJS",
+          "GeminiAI",
+          "AssemblyAI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Agrirent",
+        "description": "Developed a user-friendly interface using Django for farmers to rent and share farming equipment. Created features for farmers to add, edit, and delete their equipment listings seamlessly. Integrated location-based equipment display and search filters, saving farmers 20% of search time and increasing search accuracy by 35%.",
+        "keywords": [
+          "Django",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "The One Interview",
+        "description": "Developed a robust interview preparation platform featuring user-generated content and admin verification, resulting in a 95% accuracy rate for posted questions and answers. Implemented secure authentication systems, including OAuth 2.0 integration with Google and two-factor authentication. Engineered a feature-rich answer editor supporting code snippets and image uploads, increasing user engagement by 65. Designed and integrated a community-driven quality control system with upvoting/downvoting functionality, improving the overall quality of user-generated content.",
+        "keywords": [
+          "MongoDB",
+          "Express.js",
+          "React.js",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Amazon Price Tracker",
+        "description": "Engineered an Automated E-commerce Price Tracking System using Selenium and Python, enabling users to monitor up to 1000 products concurrently, reducing manual tracking efforts by 80%. Established a Scalable Price Alert Mechanism, ensuring instant notifications resulting in a 25% improvement in cost-saving opportunities through instant notifications.",
+        "keywords": [
+          "Python",
+          "Selenium",
+          "Web-Scrapping"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cyber Security Intern",
+        "skillsUsed": [
+          "Nmap",
+          "Wireshark"
+        ],
+        "endDate": "Sep 2022",
+        "company_name": "Cybersec Infotech",
+        "description": "Gained hands-on experience with essential cybersecurity tools including Nmap for network discovery and security auditing, and Wireshark for deep packet inspection and network protocol analysis. A functional keylogger application that captures user keystrokes and securely transmits reports to a specified recipient, demonstrating practical skills in threat simulation and ethical hacking techniques. Acquired comprehensive knowledge of network security fundamentals, vulnerability assessment methodologies, and basic penetration testing practices through guided exercises and real-world project implementation.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "Django",
+      "FastAPI",
+      "MySQL",
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Git/GitHub",
+      "Pandas",
+      "NumPy",
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "HTML/CSS",
+      "SQL",
+      "Cybersecurity and Ethical Hacking",
+      "Operating Systems",
+      "API",
+      "Database Management System",
+      "Penetration Testing",
+      "IoT",
+      "Software Development",
+      "Web Development"
+    ],
+    "soft_skills": [],
+    "name": "Smitkumar Kunpara",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received a 50% Merit Scholarship from SRM University AP to pursue B.Tech in CSE.",
+      "Member of Next Tech Lab: Worked with 100+ students in the multi-disciplinary lab towards making apt contributions in Cybersecurity and Web Development as part of a QS awarded student-run community.",
+      "Orchestrated a cybercrime awareness session, recognized as a Cyber Volunteer by Andhra Pradesh CID. Engaged 100+ attendees, boosting cybersecurity awareness and preventing cyber threats in the community."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

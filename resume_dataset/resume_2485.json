@@ -1,0 +1,154 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Developer",
+  "name": "Ribhav Loomba",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "New Delhi, India",
+    "Gurugram, India"
+  ],
+  "full_output": {
+    "summary": "My name is Ribhav Loomba, a 4th year student pursuing B.Tech in IT from Manipal University Jaipur. I have a keen interest in computer science and want to pursue my career as a software developer with side interest in cybersecurity and cryptographic techniques. I have completed my schooling from Mount St. Marys School, New Delhi.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL- Design And Analysis Of Algorithm",
+        "issuer": "IIT Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL- Software Engineering",
+        "issuer": "IIT Kharagpur",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CISCO- Introduction to Packet Tracer",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat System Software Administration Level 1 and 2",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "07/2025",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA-8.05/10",
+        "field_of_study": "Information Technology",
+        "startDate": "07/2021"
+      },
+      {
+        "school": "Mount St Marys School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "New Delhi, India",
+        "ID": 1.0,
+        "grade_received": "90.5% in CBSE class XII Board Examination",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "Mount St Marys School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "New Delhi, India",
+        "ID": 2.0,
+        "grade_received": "91% in CBSE class X Board Examination",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Image Steganography and Image Based Authentication",
+        "description": "The objective of our project is to develop a secure message transmission system using image steganography and advanced cryptographic techniques. The project aims to encode textual messages into digital images using LSB technique for sensitive transmission of information in medical and military purpose.",
+        "keywords": [],
+        "endDate": "07/2025",
+        "startDate": "07/2021",
+        "url": ""
+      },
+      {
+        "name": "Car Rental Website",
+        "description": "Worked on the front end of the website by using HTML, CSS and Javascript for my web technology project.",
+        "keywords": [],
+        "endDate": "11/2023",
+        "startDate": "08/2023",
+        "url": ""
+      },
+      {
+        "name": "Library Management System",
+        "description": "The Library Management System project focusses on library operations, enabling tasks like cataloging, borrowing, and tracking. It streamlined processes through features such as user registration, book search, and checkout, enhancing accessibility and organization of resources.",
+        "keywords": [],
+        "endDate": "05/2023",
+        "startDate": "03/2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "KPMG",
+        "description": "I am working in the cybersecurity team where i manage the company's security endpoints and also take incharge of device security.",
+        "location": "Gurugram, India",
+        "links": "",
+        "startDate": "06/2024"
+      },
+      {
+        "role_name": "Events Head",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Rotaract Club-Manipal University Jaipur",
+        "description": "As Events Head at Rotaract Club, I led the planning and execution of diverse activities, from fundraisers to volunteer projects. My role fostered community engagement and social impact through creative and well-organized events.",
+        "location": "New Delhi, India",
+        "links": "",
+        "startDate": "07/2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Microsoft Office",
+      "Microsoft SQL",
+      "Cybersecurity",
+      "Cryptography and secure programming techniques",
+      "Microsoft Defender for Endpoint"
+    ],
+    "soft_skills": [],
+    "name": "Ribhav Loomba",
+    "position": "Software Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Btech"
+}

@@ -1,0 +1,126 @@
+{
+  "project_count": 2.0,
+  "designation": "Software Engineer Intern",
+  "name": "Satyam Singh",
+  "college": "N.M.A.M Institute of Technology",
+  "locations": [
+    "Udupi, Karnataka",
+    "Bangalore, Karnataka"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "N.M.A.M Institute of Technology",
+        "endDate": "Jul 2022",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Udupi, Karnataka",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Electronics and Communication",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce App",
+        "description": "Developed the front-end with React, incorporating animations for better user engagement. Built back-end services with Node.js, including user authentication and order processing. Integrated Stripe for secure payment processing. Deployed the app using Firebase for real-time data synchronization.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "Stripe",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/satyam0999/amazon-clone"
+      },
+      {
+        "name": "Music Generation using RNN",
+        "description": "Trained a Recurrent Neural Network (RNN) on a dataset of Irish folk songs in ABC notation. Used LSTM architecture for RNN model training with TensorFlow's Keras API. Optimized the model's performance with advanced hyperparameter tuning. Generated authentic pieces of Irish Folk Music.",
+        "keywords": [
+          "TensorFlow",
+          "Python",
+          "RNN",
+          "Deep Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/satyam0999/Music-Generation"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [
+          "React",
+          "Tailwind",
+          "Flask",
+          "OpenAI API",
+          "Langchain"
+        ],
+        "endDate": "Present",
+        "company_name": "Foreign Admits",
+        "description": "Developed responsive and dynamic user interfaces using React along with Tailwind, enhancing user experience and engagement for the course recommendation platform, resulting in a 30% increase in user interaction. Built robust and scalable back-end services using Flask, ensuring seamless integration with the front-end and efficient handling of user data. Utilized OpenAI API and Langchain to implement advanced course recommendation features, improving the accuracy and relevance of recommendations by 25%. Led the development of the course recommendation platform as a Minimum Viable Product (MVP), rapidly prototyping and iterating based on feedback to ensure market fit within 3 months.",
+        "location": "Bangalore, Karnataka",
+        "links": "",
+        "startDate": "Mar 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "React",
+      "Angular",
+      "Node.js",
+      "Flask",
+      "Pandas",
+      "Numpy",
+      "Matplotlib",
+      "Langchain",
+      "RESTful APIs",
+      "Responsive Design",
+      "Frontend Development",
+      "Backend Development",
+      "Git",
+      "Github",
+      "Jupyter Notebook",
+      "Visual Studio Code",
+      "OpenAI API",
+      "CI/CD",
+      "API development and management",
+      "Performance optimization",
+      "PostgreSQL",
+      "Algorithms",
+      "Data Structure",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Computer Vision"
+    ],
+    "soft_skills": [
+      "Logical Reasoning",
+      "Problem Solving",
+      "Fast Learner",
+      "Team Player"
+    ],
+    "name": "Satyam Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Captained college football team to win VTU interzonal tournament in 2021.",
+      "Cleared UPSC CDS Examination five times, which has passing rate of less than 1%."
+    ],
+    "publications": []
+  },
+  "current_location": "Bangalore, Karnataka",
+  "graduation_year": 2022.0,
+  "experience_count": 1.0,
+  "degree": "B.E."
+}

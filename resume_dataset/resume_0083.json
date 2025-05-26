@@ -1,0 +1,119 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "PARASHAR VEMURI",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "A computer science student who loves to solve problems, build things and explore technologies.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "TSBIE",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93.4%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Stock Market Website",
+        "description": "Created a modern and responsive user interface for a stock market website using HTML, CSS, and JavaScript. Integrated APIs to display live stock market data, including prices and trends. Implemented stock trading simulation allowing users to buy and sell stocks within the website.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Emotion Analysis",
+        "description": "Worked as a part of a team in predicting emotions from EEG signals. Implemented various machine learning models, including XGBoost, Random Forest, Artificial Neural Networks, to classify and analyze emotions. Developed an ensemble model combining the above models to improve accuracy in emotion prediction tasks.",
+        "keywords": [
+          "Machine Learning",
+          "XGBoost",
+          "Random Forest",
+          "Artificial Neural Networks"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cross Platform App Developer",
+        "skillsUsed": [
+          "Dart",
+          "Flutter"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Agumentik Group Of Companies",
+        "description": "Developed frontend features for a multi-service mobile application using Flutter. Collaborated with a team to implement various functionalities and optimize user experience. Acquired proficiency in Dart, Flutter and various packages in Flutter to enhance app performance.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "Javascript",
+      "Dart",
+      "HTML",
+      "CSS",
+      "Flutter",
+      "NodeJs",
+      "ExpressJs",
+      "Tailwind",
+      "NumPy",
+      "Pandas",
+      "Git",
+      "Android Studio",
+      "Visual Studio Code"
+    ],
+    "soft_skills": [],
+    "name": "PARASHAR VEMURI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

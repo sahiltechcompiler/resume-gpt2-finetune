@@ -1,0 +1,182 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Pranjal Singh",
+  "college": "NIT Rourkela",
+  "locations": [
+    "Delhi",
+    "VIT Chennai",
+    "Prayagraj"
+  ],
+  "full_output": {
+    "summary": "Enthu siastic about Java development with handson experience in Spring Framework, Android development, JDBC, and MySQL. Proficient in fullstack development with a strong foundation in problemsolving, logical thinking and decision making.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certified Machine learning an online noncredit course authorized and offered through EduStation",
+        "skillsLearned": [],
+        "title": "Machine Learning",
+        "issuer": "",
+        "certiLink": "Certificate No : EDCCC23260"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Coursera",
+        "description": "Foundations: Data, Data, Everywhere an online noncredit course authorized by Google and offered through Coursera",
+        "skillsLearned": [],
+        "title": "Foundations: Data, Data, Everywhere",
+        "issuer": "Google",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NIT Rourkela",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "M.TECH IN INFORMATION SECURITY",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.26",
+        "field_of_study": "",
+        "startDate": "2022"
+      },
+      {
+        "school": "VIT Chennai",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "B.TECH.",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "7.15/10",
+        "field_of_study": "CSE",
+        "startDate": "2017"
+      },
+      {
+        "school": "BOYS HIGH SCHOOL, PRAYAGRAJ",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "INTERMEDIATE",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "83.2%",
+        "field_of_study": "",
+        "startDate": "2015"
+      },
+      {
+        "school": "BOYS HIGH SCHOOL, PRAYAGRAJ",
+        "endDate": "2014",
+        "maximum_grade": "",
+        "degree": "HIGH SCHOOL",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "81.8%",
+        "field_of_study": "",
+        "startDate": "2013"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blockchain based Patient record maintenance System",
+        "description": "Develop a secure, decentralized medical record management system using Ethereum blockchain, IPFS, smart contracts, and cryptographic hashing for data integrity and privacy protection.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "2023",
+        "url": ""
+      },
+      {
+        "name": "Android based application to facilitate Logistics",
+        "description": "Its an Android application providing a platform for better communication between drivers and user. It basically provides ondemand vehicles for shipping products similar to ola, uber, etc.",
+        "keywords": [],
+        "endDate": "2021",
+        "startDate": "2020",
+        "url": ""
+      },
+      {
+        "name": "Alzheimer Detection through minigame based application",
+        "description": "Detecting Alzheimer presence in old age people through mini games integrated in Android and Web applications.",
+        "keywords": [],
+        "endDate": "2021",
+        "startDate": "2020",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FREELANCE JAVA DEVELOPER",
+        "skillsUsed": [
+          "Java",
+          "Android Studio",
+          "CSS",
+          "Firebase for Authentication"
+        ],
+        "endDate": "Jun 2021",
+        "company_name": "Codedaddy",
+        "description": "Developing an android based application that provides logistic solution: Our team worked for an android application that eases the logistics operation in cities bridging gap between driver and user. Developed MobileAuthentication module that authenticates mobile number throught OTP using Firebase Authenticator. Design and Integrate the Splash Screen. Registration and Verification module in Java for Driver and User. SharedHelper module to store data indexed using TokenId.",
+        "location": "Delhi",
+        "links": "",
+        "startDate": "Jan 2021"
+      },
+      {
+        "role_name": "Developer",
+        "skillsUsed": [
+          "Java",
+          "Android Studio",
+          "Python"
+        ],
+        "endDate": "",
+        "company_name": "WEEF 2020 World Engineering Education Forum",
+        "description": "Developed an application to help with the Schedule and Venue description to the attendents at the event.",
+        "location": "VIT Chennai",
+        "links": "",
+        "startDate": "2020"
+      }
+    ],
+    "skills": [
+      "Java(Advanced)",
+      "Python(Intermediate)",
+      "Solidity",
+      "Matlab",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Javascript",
+      "Android Development",
+      "MySQL",
+      "JDBC",
+      "PostgreSQL",
+      "IntelliJ",
+      "Eclipse",
+      "VsCode",
+      "GitHub",
+      "BlockChain",
+      "IPFS",
+      "Data Analytics Tools",
+      "Objectoriented programming (OOP)",
+      "Maven and Gradle",
+      "Requirement Gathering",
+      "Creative problemsolving",
+      "Data analysis",
+      "Cryptography and Encryption Techniques"
+    ],
+    "soft_skills": [
+      "problemsolving",
+      "logical thinking",
+      "decision making"
+    ],
+    "name": "Pranjal Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated in Smart India Hackathon 2020 Problem Statement: Alzheimer Detection through minigame based application."
+    ],
+    "publications": []
+  },
+  "current_location": "Prayagraj, Uttar Pradesh, India 211002",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "M.TECH IN INFORMATION SECURITY"
+}

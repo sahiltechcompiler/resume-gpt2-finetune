@@ -1,0 +1,128 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sanjana",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "New Delhi",
+    "Roorkee"
+  ],
+  "full_output": {
+    "summary": "Versatile in C++ programming and Front-End Web Development, adept at collaborative problem-solving and technology integration. Capable of delivering efficient solutions through innovative approaches and a commitment to staying informed about emerging trends. Dedicated to continuous growth and mastering new skills to excel in the ever-evolving tech landscape.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structure and Algorithms",
+        "issuer": "Devsnest",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C++ Programming Language",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi",
+        "ID": 0.0,
+        "grade_received": "9.2",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Ambience Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "89.3 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Greenway Modern School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Roorkee",
+        "ID": 2.0,
+        "grade_received": "94.5%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chatflow Web App",
+        "description": "Developed real-time messaging with instant communication using Socket.IO. Implemented user join/leave notifications and dynamic message display. Integrated sound alerts for incoming messages. Designed a responsive UI for seamless cross-device experience.",
+        "keywords": [],
+        "endDate": "December 2023",
+        "startDate": "November 2023",
+        "url": "https://github.com/Sanjana-677/Chat-Flow-Web-App"
+      },
+      {
+        "name": "Excel Clone",
+        "description": "Developing a replica of Excel with functionalities akin to Google Sheets necessitates the design of a user-friendly interface mirroring the familiar attributes of both Excel and Google Sheets. The undertaking entails facilitating users to input and modify data within individual cells, encompassing text, numerical values, and formulas. For cell formatting, enabling users to personalize font attributes (such as font family, size, bold, underline, italic), modify background color, and align content (both horizontally and vertically). Incorporate a cycle detection mechanism to identify circular references within formulas, effectively mitigating the risk of infinite loops and ensuring accurate calculations.",
+        "keywords": [],
+        "endDate": "July 2023",
+        "startDate": "June 2023",
+        "url": "https://github.com/Sanjana-677/Excel-Clone"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "September 2023",
+        "company_name": "CodSoft",
+        "description": "Developed practical skills in HTML, CSS, and JavaScript during the internship at CodSoft. Applied this knowledge to projects, demonstrating proficiency in front-end development. Created a calculator web application utilizing HTML, CSS, and JavaScript, featuring basic arithmetic operations and a user-friendly interface.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "HTML",
+      "JavaScript",
+      "C",
+      "SQL",
+      "CSS",
+      "Microsoft Excel",
+      "Word",
+      "PowerPoint"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Team Work"
+    ],
+    "name": "Sanjana",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

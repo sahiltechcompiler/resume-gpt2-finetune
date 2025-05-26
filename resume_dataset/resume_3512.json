@@ -1,0 +1,178 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Mayuresh Gawali",
+  "college": "GTBIT, GGSIPU",
+  "locations": [
+    "New Delhi, India",
+    "Tarragona, Spain(Remote)",
+    "Faridabad(Remote)"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GTBIT, GGSIPU",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA - 9.27/10",
+        "field_of_study": "Information Technology",
+        "startDate": "2020"
+      },
+      {
+        "school": "B.M.S.B.M.S Secondary School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "Grade 12",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "D.A.V. Public School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Faridabad, Haryana",
+        "ID": 2.0,
+        "grade_received": "Grade 10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "DRIPINFINITE (PROTOTYPE)",
+        "description": "E-commerce store built using MERN Stack with admin panel, authentication for both user and admin, integrated with Stripe for payments.",
+        "keywords": [
+          "Reactjs",
+          "Nodejs",
+          "MongoDB",
+          "Redux",
+          "Github",
+          "APIs"
+        ],
+        "endDate": "Present",
+        "startDate": "11/2023",
+        "url": "LINK"
+      },
+      {
+        "name": "JUXTORE-EV",
+        "description": "Checks the adaptability of EV based on its vehicle specifications. It checks the adaptability for all terrains, climatic conditions, and for different states to predict the sales of EVs. Acknowledged by TATA Motors and other EV startups.",
+        "keywords": [],
+        "endDate": "Present",
+        "startDate": "02/2023",
+        "url": ""
+      },
+      {
+        "name": "SWASTHYA-SERVICE",
+        "description": "One-stop platform for all the medical services. Integrated chatbot for medical appointments. Inbuilt disease prediction system based on lab report results. Built using MERN stack(MongoDB, ExpressJs, Reactjs, Nodejs), Python, MVC architecture, and streamlit.",
+        "keywords": [],
+        "endDate": "Present",
+        "startDate": "02/2023",
+        "url": "LINK"
+      },
+      {
+        "name": "PERSONAL PORTFOLIO WEBSITE",
+        "description": "Built with ReactJS and deployed on Netlify.",
+        "keywords": [],
+        "endDate": "Present",
+        "startDate": "11/2022",
+        "url": "LINK"
+      },
+      {
+        "name": "AUTOMATIC NUMBER PLATE RECOGNITION",
+        "description": "Developed an ANPR system for efficiently identifying number plates across diverse regions, especially focusing on recognition for Indian license plates. Achieved an accuracy of 95 percent. Used YOLO, OpenCV, OCR, LabelImg.",
+        "keywords": [],
+        "endDate": "12/2023",
+        "startDate": "10/2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "MERN AND ML INTERN",
+        "skillsUsed": [
+          "Reactjs",
+          "Nodejs",
+          "Python"
+        ],
+        "endDate": "05/2023",
+        "company_name": "Tecnatox(IISPV)",
+        "description": "Created an NLP toolkit for evidence gathering of mechanistic pathway of toxicity. Developed various tools using reactjs and nodejs with a smooth UI. Integrated and developed backend for the project using python.",
+        "location": "Tarragona, Spain(Remote)",
+        "links": "",
+        "startDate": "11/2022"
+      },
+      {
+        "role_name": "LEAD BACKEND DEVELOPER",
+        "skillsUsed": [
+          "PHP",
+          "Javascript"
+        ],
+        "endDate": "03/2022",
+        "company_name": "Basil Infotech",
+        "description": "Built a payment gateway webapp and developed backend services for the project. Collaborated with the frontend and design team for seamless user experience in online payments. Also built an admin panel for the project. Used PHP and Javascript as backend languages.",
+        "location": "Faridabad(Remote)",
+        "links": "",
+        "startDate": "01/2022"
+      },
+      {
+        "role_name": "ML INTERN",
+        "skillsUsed": [],
+        "endDate": "02/2022",
+        "company_name": "Internship Studio",
+        "description": "Built an ML regression model to predict YouTube Adview count. Learned about various ML algorithms and their use cases.",
+        "location": "",
+        "links": "",
+        "startDate": "01/2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Web Development",
+      "Javascript",
+      "HTML5",
+      "CSS3",
+      "Tailwind",
+      "React.Js",
+      "Node.Js",
+      "PHP",
+      "Flask",
+      "AJAX",
+      "Bootstrap",
+      "Express.Js",
+      "MongoDb",
+      "MYSQL",
+      "AWS",
+      "Github",
+      "SQL",
+      "Statistics",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "soft_skills": [],
+    "name": "Mayuresh Gawali",
+    "position": "",
+    "interests": [
+      "Metaverse",
+      "NFT",
+      "AI"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Faridabad, India",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,130 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Srinath Parasa",
+  "college": "SRM University",
+  "locations": [
+    "Mangalagiri, India",
+    "Guntur, India",
+    "Andhra Pradesh, India",
+    "Bangalore, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.3",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Bhashyam Jr College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "BIEAP",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 90.1%",
+        "field_of_study": "MPC",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "BLOG WEBSITE",
+        "description": "This project includes a simple blog website which has a homepage that displays all the blogs. The add blog page allows the user to enter the blog. All these blogs are stored in MongoDB.",
+        "keywords": [
+          "Node",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "STUDENT DATABASE PORTAL",
+        "description": "Utilizes HTML/CSS for front-end development. Employs Python Flask for back-end development, offers secure storage and retrieval of student details. Enables student login functionality, allows admin editing based on student registration numbers, serves as a foundational exploration of AWS infrastructure.",
+        "keywords": [
+          "FLASK",
+          "SQL",
+          "AWS"
+        ],
+        "endDate": "2023",
+        "startDate": "2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AWS Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Utilizes HTML/CSS for front-end development and Python Flask for the back end. Provides secure storage and retrieval of student details. Enables student login and administrative editing based on registration numbers. Serves as a foundational exploration of AWS infrastructure and full-stack development.",
+        "location": "Andhra Pradesh, India",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Salesforce Developer Virtual Intern",
+        "skillsUsed": [],
+        "endDate": "Jun 2024",
+        "company_name": "SmartBridge, Salesforce",
+        "description": "Completed an 8-week virtual internship in Salesforce development. Gained skills in Salesforce Fundamentals, Organizational Setup, Process Automation, Flows & Security, Apex, Testing & Debugging, VS Code, CLI Setup, LWC, and API. Earned Super Badges including Apex Specialist, Process Automation Specialist, and Developer Super Set.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Academic Research",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "SRM University AP, Amaravati",
+        "description": "Conducted academic research on Object Detection in Autonomous Vehicles. Implemented YOLO V8 to enhance real-time recognition and safety features. Leveraged advanced computer vision techniques to optimize autonomous vehicle capabilities. Achieved mean Average Precision (mAP) scores of 61.6% (KAIST), 60.1% (UDACITY), and 64.4% (KITTI) using benchmark self-driving datasets during research on Object Detection in Autonomous Vehicles. Achieved the gold medal for exceptional research in AI/ML at SRM Universitys 8th Research Day for the project, Object Detection For Autonomous Vehicles Using YOLO.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python(Data Science)",
+      "JavaScript",
+      "SQL",
+      "HTML/CSS",
+      "Linux",
+      "GitHub",
+      "ReactJS",
+      "NodeJS",
+      "Git",
+      "MySQL",
+      "MongoDB(NoSQL)",
+      "VS Code",
+      "Android Studio",
+      "Figma",
+      "Power BI",
+      "Tableau",
+      "Alteryx"
+    ],
+    "soft_skills": [],
+    "name": "Srinath Parasa",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Guntur, Andhra Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,189 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ayush Mishra",
+  "college": "Pranveer Singh Institute of Technology",
+  "locations": [
+    "Kanpur",
+    "Auraiya",
+    "India"
+  ],
+  "full_output": {
+    "summary": "Dedicated quick learner seeking an opportunity to acquire and implement the experience and knowledge of the computer Science field and wish to gain a strong technic.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Recieved basic certification from Hackerrank.",
+        "skillsLearned": [],
+        "title": "Data Structure and Algorithms",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Secure a rank of 3955 globally.",
+        "skillsLearned": [],
+        "title": "Google kickstart22",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Received from Salesforce under collaboration with AICTE.",
+        "skillsLearned": [],
+        "title": "Salesforce Developer Virtual Internship",
+        "issuer": "Salesforce",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Received from Coding Ninjas under collaboration with AICTE.",
+        "skillsLearned": [],
+        "title": "Coding Ninjas(IICC Round-1,2)",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Secure a rank of 316 globally and Secure a college rank of 3.",
+        "skillsLearned": [],
+        "title": "CodeKaze2023",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "(GeeksforGeeks)",
+        "skillsLearned": [],
+        "title": "True Geek Tournament 2021.",
+        "issuer": "GeeksforGeeks",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Pranveer Singh Institute of Technology",
+        "endDate": "04/2023",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Kanpur",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.8/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Gyan Sthali Academy",
+        "endDate": "05/2020",
+        "maximum_grade": "",
+        "degree": "Intermediate-CBSE",
+        "location": "Auraiya",
+        "ID": 1.0,
+        "grade_received": "Aggregate: 75",
+        "field_of_study": "",
+        "startDate": "04/2019"
+      },
+      {
+        "school": "Gyan Sthali Academy",
+        "endDate": "05/2018",
+        "maximum_grade": "",
+        "degree": "High School-CBSE",
+        "location": "Auraiya",
+        "ID": 2.0,
+        "grade_received": "Aggregate: 88",
+        "field_of_study": "",
+        "startDate": "04/2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Virtual Mouse",
+        "description": "The Virtual Mouse project aimed to develop a software-based solution that enables users to control their computer cursor and perform various mouse-related actions using only hand gestures captured by a camera or sensor device. The Virtual Mouse project will result in a user-friendly and efficient alternative to the physical mouse, enhancing accessibility and improving user experience for individuals.",
+        "keywords": [
+          "OpenCV",
+          "Mediapipe",
+          "Python"
+        ],
+        "endDate": "03/2022",
+        "startDate": "10/2021",
+        "url": ""
+      },
+      {
+        "name": "Stack Overflow - Clone",
+        "description": "The Stack Overflow Clone was built using the MERN Stack framework. On this website, users can log in, sign up, ask questions, comment on inquiries, vote positively or negatively, share content, and delete questions and answers. Ask Question section includes Chatbot and One-Time Password Authentication as additional features.",
+        "keywords": [],
+        "endDate": "04/2023",
+        "startDate": "02/2023",
+        "url": ""
+      },
+      {
+        "name": "Credit Card Fraud Detection",
+        "description": "The Credit Card Fraud Detection project aimed to develop a robust system that could effectively detect and prevent fraudulent transactions in credit card usage. The Credit Card Fraud Detection project resulted in an advanced system that effectively identified and prevented fraudulent credit card transactions, Achieved an accuracy rate of 97 percent in sentiment classification.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "Machine Learning"
+        ],
+        "endDate": "Present",
+        "startDate": "03/2023",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Hindi: Native or Bilingual Proficiency",
+      "English: Full Professional Proficiency"
+    ],
+    "experiences": [
+      {
+        "role_name": "Front-End Web Development Intern",
+        "skillsUsed": [
+          "JavaScript",
+          "HTML5",
+          "CSS3"
+        ],
+        "endDate": "Present",
+        "company_name": "Crowd",
+        "description": "Developed an site that is used in online MCQ based exams. It serves the information like correct answers or wrong answers etc. The site is used by more than 500 users inside the company. Tech Stack- It is implemented using JavaScript, HTML5, CSS3.",
+        "location": "India",
+        "links": "",
+        "startDate": "12/2020"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java(Beginner)",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "NodeJS",
+      "MongoDB",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [
+      "Leadership skill",
+      "Team Player",
+      "Presentation skills",
+      "Self Motivated"
+    ],
+    "name": "Ayush Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

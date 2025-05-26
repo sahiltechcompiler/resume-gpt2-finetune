@@ -1,0 +1,135 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Raj Pratap Singh",
+  "college": "Noida Institute of Engineering and technology",
+  "locations": [
+    "Greater Noida",
+    "Hathras"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "PYTHON",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "JAVA",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming using Java",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "BIGDATA",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Big Data",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.0",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Rajendra Lohia Vidya Mandir",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CLASS-12",
+        "location": "Hathras",
+        "ID": 1.0,
+        "grade_received": "Percentage - 79.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Rajendra Lohia Vidya Mandir",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CLASS-10",
+        "location": "Hathras",
+        "ID": 2.0,
+        "grade_received": "Percentage - 80%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SHOPPING CART SYSTEM",
+        "description": "Designed and implemented a responsive and user-friendly shopping cart system using React. Styled the shopping cart interface with Tailwind CSS and HTML Users can browse and select products to add to their cart",
+        "keywords": [
+          "React",
+          "HTML",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "EXPENSE TRACKER",
+        "description": "Help users to Gain control over finances. It help the user to track the progress towards budget goals.. It helps users to track the daily expenses.",
+        "keywords": [
+          "React",
+          "vanilla js",
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "NoSQL",
+      "MySQL",
+      "MongoDB",
+      "GitHub",
+      "ReactJS",
+      "Tailwind",
+      "NodeJS",
+      "ExpressJS",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "Raj Pratap Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "BTech"
+}

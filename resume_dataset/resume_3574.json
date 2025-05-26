@@ -1,0 +1,132 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Aditya Tyagi",
+  "college": "Dr. APJ Abdul Kalam University(AKTU)",
+  "locations": [
+    "Ghaziabad, IN",
+    "Muradnagar, IN",
+    "Delhi - NCR"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam University(AKTU)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA: 7.5/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Central Board of Secondary Education(CBSE)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 85.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SpringBee",
+        "description": "Engineered SpringBee.tech portal, transforming online education with features like Admin Dashboard, User Dashboard, Real-Time Messaging, and Stripe Payment Gateway. Realized a 30% reduction in website loading time through optimized chunking techniques and implemented real-time notifications using socket.io. Hosted frontend on Vercel and backend on Render.com for seamless scalability and reliability.",
+        "keywords": [
+          "Node.js",
+          "TypeScript",
+          "Redis",
+          "Next.js",
+          "React",
+          "Redux",
+          "Socket.io"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MediCords: Revolutionizing Healthcare Communication",
+        "description": "Bridged the gap between patients and healthcare providers with a 5-portal system connecting doctors, pharmacists, labs, and receptionists, enabling seamless communication and information exchange. Eliminated paper-based processes, creating a more efficient and environmentally friendly healthcare experience. Streamlined appointment booking, prescription management, test results access, and medical record sharing. Achieved recognition at over 5 hackathons, ranking among the top 5 projects.",
+        "keywords": [
+          "Django",
+          "React.js",
+          "Redux-Toolkit",
+          "SQL"
+        ],
+        "endDate": "May 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Sirajex Diagnostcs Pvt Ltd",
+        "description": "Developed the QualityVeda LMS portal with secure Razorpay payments, social logins, and real-time notifications, boosting user engagement by 20%. Built a comprehensive CRM for course management, user enrollment, and certificate distribution, streamlining administrative tasks. Optimized front-end performance, improving user satisfaction for over 1,000 daily users.",
+        "location": "Ghaziabad, IN",
+        "links": "",
+        "startDate": "Nov 2021"
+      },
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Technology Business Incubator",
+        "description": "Contributed to an incubator that has provided over 20 crore INR in funding to various startups, recognized as one of the best incubators in the state. Led the development and launch of a high-traffic Next.js website, attracting over 20,000 weekly users and enhancing platform efficiency. Designed and developed a comprehensive portal for the organizations 50+ incubated startups, streamlining document collection, resource management, and certification processes.",
+        "location": "Delhi - NCR",
+        "links": "",
+        "startDate": "August 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "HTML/CSS",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "MongoDB",
+      "PostgreeSQL",
+      "VS Code",
+      "Eclipse",
+      "Amazon Web Services",
+      "IntelliJ",
+      "Redis",
+      "Docker",
+      "Firebase",
+      "Netlify",
+      "Render",
+      "Vercel",
+      "Linux",
+      "GitHub",
+      "JUnit",
+      "React.js",
+      "NextJs",
+      "NodeJs",
+      "ExpressJs"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Tyagi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,239 @@
+{
+  "project_count": 10.0,
+  "designation": "",
+  "name": "Vedant Dubey",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan, India"
+  ],
+  "full_output": {
+    "summary": "Skilled web developer with expertise in front-end and back-end technologies, cybersecurity, AI/ML, and deep learning. Proficient in multiple programming languages and known for effective teamwork and communication skills. Strong foundation in DSA, RDBMS, and Computer Networks.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate in Android Development",
+        "issuer": "Meta",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Fundamentals of C Certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Academy Certificate in Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google CyberSecurity Certificate",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Networking Certificate",
+        "issuer": "Cisco",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "85%",
+        "field_of_study": "Computer Science and Communication",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce Website",
+        "description": "Built a fully functional e-commerce website featuring user authentication, product catalog, shopping cart, and order management. Emphasized responsive design and a smooth user experience.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Plant Disease Recognition System",
+        "description": "Developed a deep learning model to recognize and classify plant diseases from leaf images. Utilized convolutional neural networks (CNNs) to achieve high accuracy in identifying multiple diseases. Preprocessed images using OpenCV for noise reduction and feature enhancement.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Invoice Extractor",
+        "description": "Created an invoice extraction tool using Google Gemini Pro LLM to automatically extract and categorize key information from invoices. The model improved efficiency and accuracy in processing financial documents.",
+        "keywords": [
+          "Google Gemini Pro LLM"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TextToSql",
+        "description": "Developed a TextToSql tool using Google Gemini Pro LLM to convert natural language text into SQL queries, enabling users to perform database searches through simple text inputs.",
+        "keywords": [
+          "Google Gemini Pro LLM"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Medical Chatbot",
+        "description": "Created a medical chatbot using the Meta Llama LLM model to provide users with medical information and advice. The chatbot leverages natural language processing to understand and respond to medical queries.",
+        "keywords": [
+          "Meta Llama LLM"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "GitHub-like App",
+        "description": "Built an application inspired by GitHub featuring repository management, user authentication, and code cloning. Emphasized a clean UI and robust backend services.",
+        "keywords": [
+          "React",
+          "MongoDB",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Social Media App",
+        "description": "Created a social media application featuring user authentication, profile management, and real-time updates. Emphasized a seamless user experience and interactive design.",
+        "keywords": [
+          "JWT",
+          "Socket.io",
+          "MongoDB",
+          "React",
+          "Node.js",
+          "Cloud Storage"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Modern Car Showcase App",
+        "description": "Built a modern car showcase application using React and RapidAPI to fetch and display detailed car information in an elegant and responsive design.",
+        "keywords": [
+          "React",
+          "RapidAPI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real-Time Chat App",
+        "description": "Created a real-time chat application with secure user authentication using JWT. Implemented real-time messaging with Socket.io and a persistent data store with MongoDB.",
+        "keywords": [
+          "JWT",
+          "Socket.io",
+          "MongoDB",
+          "React",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "App Showcase Landing Page",
+        "description": "Developed a landing page to showcase various applications, highlighting features and providing an interactive user experience using React.",
+        "keywords": [
+          "React"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Zoom Clone App",
+        "description": "Created a Zoom clone application for real-time video conferencing, leveraging WebRTC for peer-to-peer communication and Socket.io for signaling.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "WebRTC"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Python",
+      "Java",
+      "C",
+      "PHP",
+      "SQL",
+      "MongoDB",
+      "PostgreSQL",
+      "TensorFlow",
+      "Keras",
+      "OpenCV"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Communication"
+    ],
+    "name": "Vedant Dubey",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, India 303007",
+  "graduation_year": 0.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

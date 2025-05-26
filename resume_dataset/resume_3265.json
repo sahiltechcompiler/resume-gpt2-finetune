@@ -1,0 +1,164 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "HARI PRASATH G",
+  "college": "PAAVAI ENGINEERING COLLEGE",
+  "locations": [
+    "Coimbatore, Tamil Nadu",
+    "Namakkal",
+    "Salem"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "I completed PHP&MySQL at the spoken tutorial of IIT Bombay with score of 78%.",
+        "skillsLearned": [],
+        "title": "PHP - MySQL certificate",
+        "issuer": "IIT Bombay",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Successfully completed my JavaScript course at NxtWave",
+        "skillsLearned": [],
+        "title": "JavaScript certification",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Nxtwave Disruptive Technologies",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Industry Ready Certification",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Full-stack Development",
+        "startDate": "Sep 2022"
+      },
+      {
+        "school": "PAAVAI ENGINEERING COLLEGE",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "BE",
+        "location": "Namakkal",
+        "ID": 1.0,
+        "grade_received": "7.08 CGPA",
+        "field_of_study": "Computer Science Engineering (CSE)",
+        "startDate": "2020"
+      },
+      {
+        "school": "The Gugai Hr Sec school",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Salem",
+        "ID": 2.0,
+        "grade_received": "56.0%",
+        "field_of_study": "CEC",
+        "startDate": "2018"
+      },
+      {
+        "school": "Th Gugai Hr Sec school",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Secondary School Of Certificate",
+        "location": "Salem",
+        "ID": 3.0,
+        "grade_received": "63.0%",
+        "field_of_study": "",
+        "startDate": "2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Wikipedia Search Application",
+        "description": "Unlock the vast wealth of knowledge on Wikipedia with a custom search application that delivers relevant and curated results. Quick and easy access to information has never been easier. Beautifully presented search results with HTML list elements, styled with CSS, Bootstrap, and a responsive design that adapts to any device. Seamlessly access information with the power of asynchronous fetch GET HTTP API calls and the ability to open the desired result in a new tab for further reading.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "REST API Calls",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Wikipedia.ccbp.tech"
+      },
+      {
+        "name": "Chatbot",
+        "description": "Developed a mini Chatbot Application which initially wishes user and responds to user if user input matches to list of answers that chat bot maintains. Displayed conversation between user and chatbot using HTML list elements, styled using CSS, Bootstrap. Displayed user input message using HTML form input element and reply from the chatbot dynamically in the UI by using JavaScript DOM Operations and Array push method. Implemented response from Chatbot by using Array filter method.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "hariaiproject.ccbp.tech"
+      },
+      {
+        "name": "E Commerce Website",
+        "description": "Discover a world of products with this responsive website that showcases an extensive range of products. Designed with a user-centric approach, this website features HTML structure elements and Bootstrap components to ensure a seamless experience. Get a closer look at the products with product videos and a carousel displaying multiple images of offers.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "justbuy.ccbp.tech"
+      },
+      {
+        "name": "Smart car parking system featuring LPR for automated payments",
+        "description": "The project aims to develop a Python-based smart car parking system utilizing OpenCV or similar libraries for License Plate Recognition (LPR), enabling automated vehicle identification at entry/exit points, while integrating Stripe or PayPal APIs for seamless payment processing, ensuring an efficient and convenient parking experience.",
+        "keywords": [
+          "Python",
+          "OpenCv"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "React.js",
+      "Python",
+      "Express",
+      "Node.js",
+      "SQLite",
+      "AWS",
+      "C++",
+      "Flexbox",
+      "Git",
+      "OOPs"
+    ],
+    "soft_skills": [],
+    "name": "HARI PRASATH G",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "One-Day Web Development Hackathon by Google Development Student Club Participated in a one-day hackathon where I collaborated with a team to conceive, design, and develop a fully functional e-commerce website from scratch. The website featured a user-friendly interface, product catalog, shopping cart, and secure checkout process. My responsibilities included front-end and back-end development, database integration, and ensuring responsive design for seamless usability across various devices.",
+      "Gesture based Assistance for elderly persons (symposim Project) By leveraging Python's computer vision, this project facilitates intuitive device control for the elderly through recognized gestures, promoting accessibility and independence in their interaction with technology."
+    ],
+    "publications": []
+  },
+  "current_location": "Coimbatore, Tamil Nadu, 641017",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "BE"
+}

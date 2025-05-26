@@ -1,0 +1,235 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Rupali Srivastava",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "Motivated and analytical software engineering student with robust technical skills in Python, Java, and C/C++. Proven experience in developing scalable, distributed software systems and contributing to various projects involving machine learning, data compression, and natural language processing. Demonstrated ability to enhance user experience through innovative solutions and efficient data management.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Course",
+        "issuer": "Internshala",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python and Flask Framework",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Machine Learning",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Virtual Assistant with Python and ChatGPT",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming, Data Structures and Algorithm using Python",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "National Service Scheme (NSS-MAIT Executive Member) 2021 - 2023",
+      "Volunteer for Discipline Team, TechSurge and Mridang 2023 (Annual Fest, MAIT)"
+    ],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "April 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 9",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "K.L. Convent School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th Standard",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 94.2%",
+        "field_of_study": "CBSE Board",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "YouTube Timestamp Generator",
+        "description": "Developed a Django web application to generate timestamps for YouTube videos using the OpenAI API. Integrated Google SSO for user authentication.",
+        "keywords": [
+          "Python",
+          "Django",
+          "SQLite",
+          "Google SSO",
+          "Langchain",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "File Sharing System (RestAPI)",
+        "description": "Developed a secure file-sharing system with user roles, allowing operations users to upload files and clients to download them via generated links.",
+        "keywords": [
+          "Python",
+          "Django",
+          "SQLite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "PG-Life Website",
+        "description": "Built a platform for listing paying guest accommodations, including rating and review systems, rent and rating filters, and a favorite list feature, user authentication for login and logout.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript",
+          "MySQL",
+          "PHP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Management System (LMS)",
+        "description": "Created a FastAPI-based LMS with MongoDB, including JWT token authentication and role differentiation. Integrated Swagger UI for API documentation.",
+        "keywords": [
+          "FastAPI",
+          "Python",
+          "MongoDB",
+          "Swagger UI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Developed a personal portfolio website to showcase projects and skills. Utilized modern web technologies for a responsive and visually appealing design.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "SCSS",
+          "JavaScript",
+          "ReactJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [
+          "OpenAI API",
+          "LanguageTool",
+          "payment gateway",
+          "Airtable",
+          "caching mechanisms"
+        ],
+        "endDate": "Present",
+        "company_name": "applyin.co",
+        "description": "Developed features using OpenAI API for feedback and image generation, enhancing user experience. Implemented LanguageTool for automated spelling and grammar checks in user stories. Integrated a payment gateway, streamlining transactions on the platform. Improved data fetching from Airtable, reducing retrieval time and enhancing performance. Implemented caching mechanisms for faster data access and improved website efficiency.",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Python Developer Intern",
+        "skillsUsed": [
+          "Tkinter",
+          "SQLite",
+          "Pandas",
+          "Matplotlib"
+        ],
+        "endDate": "July 2024",
+        "company_name": "Cantilever",
+        "description": "Developed Python applications with GUIs using Tkinter, and efficient data management using SQLite and Pandas. Integrated Matplotlib for data visualization, creating insightful graphical representations. Authored comprehensive documentation and maintained clean, modular code structures.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C/C++",
+      "NLTK",
+      "Langchain",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "PHP",
+      "MySQL",
+      "SQLite",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "VS Code",
+      "Jupyter",
+      "Postman",
+      "Linux",
+      "GitHub",
+      "Joomla",
+      "Django",
+      "Flask",
+      "FastAPI",
+      "ReactJs"
+    ],
+    "soft_skills": [],
+    "name": "Rupali Srivastava",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Certificate of Appreciation",
+      "Certificate of Achievement",
+      "Winning Team, Website Design Competition, MAIT - March 2024"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

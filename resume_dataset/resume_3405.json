@@ -1,0 +1,173 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Srimanthula Shiva Chary",
+  "college": "Hyderabad Institute Of Technology and Management",
+  "locations": [],
+  "full_output": {
+    "summary": "Seeking a challenging position in an organization where I can utilize my skills in Java programming, Microservices architecture, and Spring Boot to contribute effectively to project development and enhance my professional growth.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming Fundamentals",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Basic",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL Basic",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Full Stack Development",
+        "issuer": "Silicon Software Services",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Hyderabad Institute Of Technology and Management",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.69/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "SVS Group Of Institution",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA: 8.7/10",
+        "field_of_study": "Electrical and Electronic Engineering",
+        "startDate": "2018"
+      },
+      {
+        "school": "Fatima Convent High School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class X - SSC",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Project Management System",
+        "description": "Developed a web application for handling projects. Deployed and maintained project management tools using J2EE technologies such as JSP and Servlets. Integrated database functionalities and managed data retrieval and storage. Implemented multi-threading to enhance application performance. Handled exceptions efficiently to ensure robust application performance.",
+        "keywords": [
+          "Servlet",
+          "JSP",
+          "Java",
+          "JDBC",
+          "HTML"
+        ],
+        "endDate": "Mar. 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Smart Check-in and Check-out using RFID",
+        "description": "Developed a web application for hotel customers check-in and check-out. Integrated RFID technology for automated guest management. Configured and deployed web server applications using XAMPP. Designed user interface for seamless customer interaction.",
+        "keywords": [
+          "RFID",
+          "ESP8266"
+        ],
+        "endDate": "Nov. 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Temperature Controlled Fan using Arduino",
+        "description": "Implemented an automatic fan control system using Arduino, IR sensor, and DHT11. Programmed microcontroller for real-time temperature monitoring and fan speed adjustment. Used statistical analysis for temperature data to ensure accurate control.",
+        "keywords": [
+          "Arduino"
+        ],
+        "endDate": "Mar. 2021",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Software Engineering Job Simulation",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Hewlett Packard Enterprise",
+        "description": "Developed a RESTful web service proposal for managing employee lists. Implemented a Java Spring Boot web server application supporting HTTP requests. Executed unit tests to evaluate application performance and functionality. Applied logging and asynchronous APIs for improved performance and monitoring.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Software Engineering Job Simulation",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Wells Fargo",
+        "description": "Analyzed requirements for a financial portfolio management system. Designed entity relationship diagrams (ERD) and implemented them using IntelliJ. Published project documentation and code repository management on GitHub.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Core Java: OOP, Collections, Multithreading, Exception Handling",
+      "Frameworks: Spring Boot, Spring MVC, JPA",
+      "J2EE Technologies: JSP, Servlets, JDBC",
+      "Databases: MySQL, PostgreSQL",
+      "Web Technologies: HTML, CSS, RESTful API, JSON",
+      "DevOPS: Git, Docker, Kubernetes, Postman",
+      "Cloud Platforms: AWS",
+      "Testing: JUnit, Mockito",
+      "Methodologies: Agile"
+    ],
+    "soft_skills": [
+      "Problem-solving: Strong analytical skills, adept at troubleshooting and resolving technical issues.",
+      "Communication: Excellent verbal and written communication skills, effective in team environments.",
+      "Adaptability: Ability to work independently and manage multiple tasks simultaneously."
+    ],
+    "name": "Srimanthula Shiva Chary",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

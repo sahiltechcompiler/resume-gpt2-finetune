@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Tushar Gagal",
+  "college": "Manav Rachna University",
+  "locations": [
+    "Faridabad",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C++ With Data Structures and Algorithm",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manav Rachna University",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Bachelors Of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.54",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Cartease - An E-commerce website",
+        "description": "Developed a full-stack E-Commerce application using the MERN stack to provide a seamless shopping experience for users. Implemented secure user authentication and authorization using Passport.js and JWT, ensuring user data protection and integrity. Integrated Stripe API for efficient and secure payment processing, enhancing the transaction capabilities of the platform. Configured Nodemailer to send order receipts and handle password recovery, improving user experience and communication.",
+        "keywords": [
+          "React.JS",
+          "Tailwind CSS",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Code Canva Blog",
+        "description": "Developed a full-featured blog application using React.js for the frontend, Redux for state management, and Appwrite for the backend. Implemented user functionality allowing users to create, edit, and delete their own posts. This involved managing user authentication and authorization. Implemented a feature that allows users to view posts made by others, enhancing the overall user experience.",
+        "keywords": [
+          "React.JS",
+          "Tailwind CSS",
+          "Redux",
+          "Appwrite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "GPT-3",
+        "description": "Designed and implemented the user interface using HTML and CSS, ensuring a clean and intuitive design that enhances user experience. Utilized React.js to create reusable and modular components, facilitating code organization and maintenance. Angrytool is used to provide the gradient colors on the website. Implemented a responsive design will works on all kind of devices and user-friendly design.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front End Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Edunet Foundation",
+        "description": "Participated in a project-based internship focused on Front End Development (FED) under the IBM SkillsBuild program. Successfully developed a YouTube clone using React, showcasing strong proficiency in front-end web development. Independently designed and implemented user-friendly interfaces, demonstrating proficiency in responsive web design principles. Utilized Rapid API to integrate real-time data and enhance the functionality of the application. Gained practical experience in modern web development technologies and best practices.",
+        "location": "Faridabad",
+        "links": "",
+        "startDate": "2020"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Link",
+        "description": "",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Java",
+      "JavaScript",
+      "CSS",
+      "React.Js",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "Visual Studio Code",
+      "Git",
+      "GitHub",
+      "Appwrite",
+      "SQL",
+      "MongoDB",
+      "Data Structures",
+      "Algorithms",
+      "OOPS"
+    ],
+    "soft_skills": [],
+    "name": "Tushar Gagal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured a AIR 1485 in CodeKaze-Sept 23.",
+      "Secured a Global Rank 4212 in TCS CodeVita Season 11.",
+      "Actively contributed to Hacktoberfest by completing 7 pull requests across 4 open source projects, enhancing collaborative coding skills and community involvement."
+    ],
+    "publications": []
+  },
+  "current_location": "Faridabad,Haryana",
+  "graduation_year": 2020.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Of Technology"
+}

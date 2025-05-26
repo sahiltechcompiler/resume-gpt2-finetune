@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Meghana Bollam",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.73",
+        "field_of_study": "CSE-AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "79.2%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Bhadrachalam Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "79%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Public Photography Contest using Social Media Polling",
+        "description": "Developed a web-based application using HTML/CSS, Flask, and Python, managing contests, notifications, and winner selection.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "click here"
+      },
+      {
+        "name": "Movie Recommendation System using Machine Learning",
+        "description": "Developed a content-based movie recommendation system using NLP for feature extraction. Built user profiles to calculate movie similarities, delivering personalized recommendations based on user preferences.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "click here."
+      },
+      {
+        "name": "Google Play Store Analysis",
+        "description": "Conducted an in-depth analysis using Python, uncovering significant patterns and contributing to a 10% increase in app performance metrics.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "click here."
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "ML Research Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "",
+        "description": "Collaborated with university faculty on predicting Bitcoin prices using machine learning, resulting in a 15% improvement in prediction accuracy. Developed an LSTM model for time series forecasting, reducing prediction loss to 0.002 and achieving a 99.5% R-Square coefficient.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Data Analysis Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "",
+        "description": "Analyzed diverse datasets using Python, delivering actionable insights that improved decision-making processes. Implemented statistical models and visualization tools, culminating in a comprehensive analysis of the Google Play Store, which highlighted key trends and user behaviors.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML/CSS",
+      "JavaScript",
+      "Python",
+      "DBMS",
+      "SQL",
+      "AIML",
+      "Data Warehousing",
+      "Web Mining",
+      "MS Excel",
+      "VS Code",
+      "MS Word"
+    ],
+    "soft_skills": [],
+    "name": "Meghana Bollam",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

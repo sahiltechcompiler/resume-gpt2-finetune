@@ -1,0 +1,118 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shreya kumari",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "Computer Science graduate with a solid foundation in machine learning, data analysis, and software engineering. Seeking an entry-level role to apply my Python programming skills, knowledge of data structures and algorithms, and hands-on experience with machine learning frameworks to drive innovation and contribute to impactful projects.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech-AIML",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.68/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Somerville School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Gr. Noida",
+        "ID": 1.0,
+        "grade_received": "84.5%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Somerville School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Gr. Noida",
+        "ID": 2.0,
+        "grade_received": "90.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Predicting the Expected Lifetime of Satellites Using LSTM",
+        "description": "Satellites in orbit experience various factors affecting their lifetime, including orbital decay, hardware degradation, and fuel consumption. Accurate prediction of a satellite's remaining useful life is crucial for mission planning, timely maintenance, and ensuring the longevity of satellite operations.",
+        "keywords": [],
+        "endDate": "currently in progress",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Chest X Ray detection using Transfer Learning",
+        "description": "The goal is to create a system that uses transfer learning to detect pneumonia from chest X-ray images. Pneumonia, a severe lung infection, requires early detection for effective treatment. However, manual analysis of X-ray images is time-consuming and prone to errors. Transfer learning, leveraging pre-trained models, can efficiently solve this task.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio",
+        "description": "Developed many different clone sites using HTML, CSS, Bootstrap",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "July24",
+        "company_name": "Celebal Technologies",
+        "description": "Assisted in data collection, cleaning, and preprocessing to ensure high-quality datasets for analysis. Conducted exploratory data analysis (EDA) to identify patterns, trends, and relationships within the data. Developed and implemented machine learning models to solve business problems, such as predictive analytics and classification tasks.",
+        "location": "",
+        "links": "",
+        "startDate": "May24"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java (basics)",
+      "Data Structures & Algorithms",
+      "Artificial Intelligence",
+      "Deep Learning : Pytorch, TensorFlow",
+      "Machine Learning : Numpy, matplotlib, Scikit-learn, Keras, Pandas",
+      "Html",
+      "Css",
+      "Bootstrap",
+      "OOPS",
+      "DBMS",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Shreya kumari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Top 10 Finalist APERTRE24 (Open-Source Event)",
+      "AIML Co-Lead in GDSC NIET(2023-2024)",
+      "Won SIH internal hackathon",
+      "Participated in NIET IDEA -2023",
+      "Participated in Project Exhibition-2022 (Face Recognition Project) - 1st Prize",
+      "Campus Ambassador - IIT Delhi (2022)",
+      "AWS -AIML Scholar24"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech-AIML"
+}

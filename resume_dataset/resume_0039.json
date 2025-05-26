@@ -1,0 +1,144 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Ankit Singh",
+  "college": "Asansol Engineering College",
+  "locations": [
+    "Jalpaiguri, West Bengal",
+    "Gopalganj, Bihar",
+    "Siliguri, West Bengal"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Structured Query Language (SQL)",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "HTML CSS - Certification Course",
+        "issuer": "UDEMY",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Asansol Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jalpaiguri, West Bengal",
+        "ID": 0.0,
+        "grade_received": "8.2 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Dharam Deo Inter College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Gopalganj, Bihar",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Higher Secondary Education (BSEB)",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Krishna Paranami Vidya Niketan",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Siliguri, West Bengal",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "Secondary Education (CBSE)",
+        "startDate": "2012"
+      }
+    ],
+    "projects": [
+      {
+        "name": "MERN Quiz App",
+        "description": "Created a full fledged Language Learning Quiz App with features like Sign up, Sign in, JWT authentication, Quiz Test, Performance of user, Performance wise ranking, Leaderboard and New question uploading feature for the teacher profile. This Quiz App is responsive in all screen size and with good User Interface. Optimized performance with pagination, lazy loading, and efficient state management using Redux.",
+        "keywords": [
+          "MERN",
+          "MongoDB",
+          "Express JS",
+          "React JS",
+          "Node JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub-Code"
+      },
+      {
+        "name": "Colour Game",
+        "description": "Developed an engaging color game using Html, Css, and JavaScript. Designed intuitive user interface for seamless gameplay experience. Implemented dynamic features to generate random color combinations and track scores.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub-Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "React.js",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Celebal Technologie",
+        "description": "Developed a dynamic movie app using React with using OMDB Api. Designed an intuitive user interface, efficient search for detailed movie exploration.",
+        "location": "",
+        "links": "Live Link",
+        "startDate": ""
+      },
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Accenture North America",
+        "description": "Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture. Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions. Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.",
+        "location": "",
+        "links": "Forage",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "Html",
+      "Css",
+      "Javascript",
+      "SQL",
+      "MongoDb",
+      "VS Code",
+      "GitHub",
+      "React JS",
+      "Node.js",
+      "Express.js"
+    ],
+    "soft_skills": [],
+    "name": "Ankit Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

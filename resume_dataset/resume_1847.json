@@ -1,0 +1,160 @@
+{
+  "project_count": 3.0,
+  "designation": "Jr.Backend Engineer",
+  "name": "Yash Vardhan",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Bangalore, India",
+    "Delhi (Remote), India",
+    "Bikaner, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor in Computer Science and Engineering",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "Cgpa : 8.0",
+        "field_of_study": "",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "engineerHUBs Website",
+        "description": "Engineers platform fostering a vibrant community for discussions, blog posts, and enhanced audience engagement with a 3x increase in interactions through the chat feature. The platform consists of community, campus, company and Host event services.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "Socket.io",
+          "AWS-S3",
+          "MongoDB",
+          "JWT",
+          "AES",
+          "Cron",
+          "Google Developer Console"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WeCare",
+        "description": "Developed the bed occupancy detection system for nearby hospitals, as per Rajasthan Governments requirement. Implemented OTP generation, confirmation emails, filtration, Updation, and Deletion at various process stages.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "JWT",
+          "Nodemalier",
+          "Heroku"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Blog Website",
+        "description": "Built a fully functional blog website using React.js, enabling users to create and publish their own blog posts. Designed and implemented a user-friendly platform for content creation and engagement.",
+        "keywords": [
+          "React.jS",
+          "Axios",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Jr.Backend Engineer",
+        "skillsUsed": [
+          "Node.js",
+          "TypeScript",
+          "MySQL",
+          "RabbitMQ"
+        ],
+        "endDate": "Current",
+        "company_name": "Listed Inc",
+        "description": "I optimize communication workflows with Node.js TypeScript, MySQL (Sequelize), and RabbitMQ. Implemented efficient Cron-Job scheduling and RabbitMQ with a round-robin technique, resulting in a 10x improvement in server or product response times and reducing memory leakage in the product search lens.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "Dec. 2023"
+      },
+      {
+        "role_name": "Backend Developer",
+        "skillsUsed": [],
+        "endDate": "Nov. 2023",
+        "company_name": "engineHUB",
+        "description": "Built engineerHUBs website, driving online business growth, and 3x profits using Agile methodology. Efficiently integrated all 4 services, enhancing user experience with automated testing and robust security checks.",
+        "location": "Delhi (Remote), India",
+        "links": "",
+        "startDate": "Feb. 2023"
+      },
+      {
+        "role_name": "Backend Development Intern",
+        "skillsUsed": [],
+        "endDate": "Feb. 2023",
+        "company_name": "Starting Core",
+        "description": "Developed dynamic Stock Management system with secure user login. Efficiently tracks product activities (Purchase, Borrow, Return, Sell, Lend, Get back), providing real-time stock data and automated profit/loss distribution among partners based on defined ratios.",
+        "location": "Bikaner, India",
+        "links": "",
+        "startDate": "Dec. 2022"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "TypeScript",
+      "JavaScript",
+      "Python( Basic )",
+      "HTML/CSS",
+      "Node.js",
+      "Express.js",
+      "React.js",
+      "Socket.io",
+      "RabbitMq",
+      "Git",
+      "GitHub",
+      "Bitbucket",
+      "Docker",
+      "Winston",
+      "Render",
+      "VS Code",
+      "Postman",
+      "SQL",
+      "MySQL( Sequelize )",
+      "MongoDB( Mongoose )",
+      "AWS-S3",
+      "Google Developer Console",
+      "Operating System",
+      "OOPs",
+      "DBMS",
+      "Networking",
+      "Data Structures and Algorithms"
+    ],
+    "soft_skills": [],
+    "name": "Yash Vardhan",
+    "position": "Jr.Backend Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart India Hackathon, 2022 Winner (Problem Code - TK1052) - Team SupaSolvers. | Certificate",
+      "Qualifying the HackerRank Problem Solving (Intermediate) Certificate contest. | Certificate",
+      "LinkedIn skill assessment of Node.js. | Certificate",
+      "Global Rank 104/12000 in CodeChef Starters42 and solved 400+ problems on LeetCode."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor in Computer Science and Engineering"
+}

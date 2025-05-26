@@ -1,0 +1,120 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SAHAJ JAIN",
+  "college": "Manipal University",
+  "locations": [],
+  "full_output": {
+    "summary": "Eager to kick-start my career in the field of computer science engineering by joining a forward-thinking organization that encourages innovation and offers opportunities for professional development. I aim to utilize my educational background, coupled with my enthusiasm for data science and AI, to make meaningful contributions to projects and collaborate with experienced professionals.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.9",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Shri Kanwartara Higher Secondary Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "78%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Micro Vision Academy",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "83%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Vending Machine",
+        "description": "Developed a contactless vending machine using Arduino, MediaPipe for hand gestures, and OpenCV for facial recognition. Implemented gesture-based item selection and facial authentication for secure transactions. Created a servo-controlled dispensing mechanism, enhancing user interaction and transaction efficiency with advanced IoT technologies.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bone Fracture Detection",
+        "description": "Developed a deep learning-based system for automated bone fracture detection leveraging CNNs and the MURA dataset. Implemented a two-stage process involving initial classification with ResNet50 and subsequent fracture detection using tailored CNN models for each bone type. Achieved high accuracy rates in both bone part classification and fracture detection, demonstrating the potential for enhancing diagnostic workflows.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Medical Insurance Cost Prediction",
+        "description": "Developed a machine learning system to predict medical insurance costs based on personal attributes and health information. Utilized Python libraries like Scikit-learn and multiple regression model for model development.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Basic Banking Website",
+        "description": "Designed a banking website (Black Money Bank) using HTML, CSS, Javascript, MySQL and PHP. Users can transfer money, view their account balance and transaction history.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Virtual Intern",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "Tranity",
+        "description": "Conducted user interaction analysis for Instagram, optimizing engagement and retention strategies using SQL. Investigated operational metric spikes, enhancing email marketing strategies through data-driven insights. Analyzed hiring process data to improve recruitment, focusing on gender distribution and salary analysis. Performed IMDB movie data analysis to uncover success factors, providing insights on genres, durations, and languages. Conducted exploratory data analysis for a finance company to minimize loan default risk, balancing opportunities with risk management.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "Java",
+      "MYSQL",
+      "Tableau",
+      "HTML/CSS",
+      "AWS",
+      "MS Excel",
+      "Kaggle"
+    ],
+    "soft_skills": [
+      "Critical Thinking",
+      "Team Player",
+      "Punctual",
+      "Fluency in English and Hindi"
+    ],
+    "name": "SAHAJ JAIN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,140 @@
+{
+  "project_count": 4.0,
+  "designation": "Web Dev",
+  "name": "Dev Patel",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Foundational Certification",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "VMWare Cloud Certification",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning with Python Certification",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Btech.",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "8.69",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Social Media Web App",
+        "description": "Developed a social media app featuring sign-up functionality and user management. Users can upload posts and interact with them. Insights were gained on handling routes and managing users.",
+        "keywords": [
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ecommerce Site",
+        "description": "Designing and developing a comprehensive e-commerce platform, advanced card management was included seamless integration of dynamic pagination, reducing page load times by 50%, and the addition of robust search capabilities.",
+        "keywords": [
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "News Monkey",
+        "description": "API key functionality was integrated into the news aggregation system a dynamic news feed, granting users access to an impressive 40% more information.",
+        "keywords": [
+          "React"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MI Store Clone",
+        "description": "Engaged in an evolving project that dynamically retrieves products and having additional features.",
+        "keywords": [
+          "React"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Dev",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "July, 2024",
+        "company_name": "Pratinik Infotech",
+        "description": "Developed an Advance Portfolio Website using HTML, CSS & JS while keeping the companys requirements and layout design. User friendly and interactive web page for seamless user experience. Collaborated with the other team members to improve the efficiency and reloading speed of the web page.",
+        "location": "",
+        "links": "",
+        "startDate": "May, 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C",
+      "AWS",
+      "MySQL",
+      "MongoDB",
+      "Docker",
+      "HTML5",
+      "CSS",
+      "React.js",
+      "Django",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Dev Patel",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Btech."
+}

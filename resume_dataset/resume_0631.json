@@ -1,0 +1,106 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "PRAKASH BHAGAT",
+  "college": "Dr. A. P. J. Abdul Kalam Technical University",
+  "locations": [
+    "Lucknow",
+    "Deoria"
+  ],
+  "full_output": {
+    "summary": "Passionate B.Tech Graduate in Computer Science having ability to work with C++ and Machine Learning Algorithms. Strong Ability to Thrive Under Pressure and Leverage Problem-Solving Skills. Effective Communicator with Exceptional Interpersonal Abilities.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A. P. J. Abdul Kalam Technical University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Lucknow",
+        "ID": 0.0,
+        "grade_received": "7.96/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Shaheed Madhuban Karamad I C",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Deoria",
+        "ID": 1.0,
+        "grade_received": "79.8",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Potato Plant Disease Recognition Web Application",
+        "description": "Developed a web app using Python, Machine Learning, and Deep Learning to identify diseases in potato plant leaves. Implemented Convolutional Neural Networks (CNNs) for precise disease identification. Enhanced potato crop health, reduced disease-related losses, and contributed to agricultural productivity and food security.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "Deep Learning",
+          "CNN"
+        ],
+        "endDate": "March 2023",
+        "startDate": "October 2022",
+        "url": ""
+      },
+      {
+        "name": "Voice-Activated Conversational AI Bot",
+        "description": "Developed a Conversational AI bot with voice recognition capabilities. Recognizes voice commands and responds accordingly. Integrates with social media accounts to access and provide real-time information.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "June 2023",
+        "startDate": "April 2023",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developing a content-based movie recommendation system. Recommends movies based on users viewing history. Utilizes movie tags for enhanced search functionality.",
+        "keywords": [
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "September 2023",
+        "startDate": "July 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Problem Solving",
+      "Competitive Programming",
+      "Data Structures",
+      "Algorithms",
+      "Git/GitHub",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [
+      "Effective Communication",
+      "Interpersonal Skills"
+    ],
+    "name": "PRAKASH BHAGAT",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "LeetCode ranking: 1746 with a maximum rating.",
+      "2-star rating on CodeChef with a maximum rating of 1549."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

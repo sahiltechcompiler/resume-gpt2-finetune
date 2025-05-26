@@ -1,0 +1,198 @@
+{
+  "project_count": 7.0,
+  "designation": "",
+  "name": "Upkar Tiwari",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Remote, Greater Noida"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.34 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Buddha Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "79.2 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Blooming Buds Senior Secondary School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "77.2 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Notice Generator",
+        "description": "It was a React JS and Firebase based project where teacher may generate notice for their students. That Notice get displayed on the portal in real-time. Student can also apply leave from this portal and check the status of that.",
+        "keywords": [
+          "React JS",
+          "Firebase",
+          "Firestore",
+          "Redux",
+          "Hooks"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Developed a responsive portfolio website using HTML, CSS, and JavaScript, designed to showcase personal projects, skills, and experience. Implemented a mobile-first approach, ensuring the website is fully responsive and functions smoothly across various devices and screen sizes. Integrated features such as a contact form and project gallery, providing a comprehensive overview of professional achievements.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Smart Farming",
+        "description": "Developed a Smart Farming system leveraging IoT technology to monitor and manage agricultural conditions in real-time. Implemented various sensors (temperature, humidity, soil moisture) to collect data from the farm environment, which was processed and analyzed for actionable insights.",
+        "keywords": [
+          "IoT",
+          "Arduino",
+          "Sensors",
+          "Firestore"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Spotify Clone",
+        "description": "Developed a Spotify clone website to replicate the user interface and experience of the popular music streaming service. Designed a responsive and visually appealing layout, mimicking Spotifys design elements such as navigation bars, playlists, and album covers. Implemented custom styling to create a user-friendly interface with a focus on aesthetic appeal and ease of navigation.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Random Colour Generator",
+        "description": "Created a Random Color Generator website that generates a new random color each time a button is clicked. Implemented JavaScript to dynamically generate RGB color values and apply them to the webpage, ensuring the color changes with each button press.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Drum Kit",
+        "description": "Developed an interactive Drum Kit website that plays different drum sounds when various instrument icons are clicked. Implemented JavaScript to handle user interactions and trigger corresponding sound effects for each drum icon, enhancing the interactive experience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Simon Game",
+        "description": "Developed a Simon Game, a classic memory game that challenges users to repeat a sequence of colors and sounds. Implemented JavaScript to handle game logic, including generating random sequences, detecting user inputs, and providing feedback on correctness. Designed a visually engaging interface with HTML and CSS, featuring color-coded buttons that light up and produce sounds when pressed.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Bharat Intern",
+        "description": "Developed a Content Management Tool from scratch, utilizing HTML, CSS, and JavaScript, allowing users to efficiently manage and organize digital content. Built a Video Conferencing Website with a user-friendly interface, ensuring seamless video and audio communication using web technologies like HTML, CSS, and JavaScript.",
+        "location": "Remote, Greater Noida",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Full Stack Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "company_name": "TechnoHacks",
+        "description": "Designed and developed a personal Portfolio Website using HTML, CSS, and JavaScript, showcasing projects, skills, and experiences in a clean and responsive layout. Created a dynamic Registration Page with form validation, ensuring user input accuracy and a smooth registration process. Developed an interactive Calculator application, implementing core JavaScript functionalities for performing arithmetic operations with a user-friendly interface.",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "RESTful APIs",
+      "Java",
+      "Python",
+      "C",
+      "MongoDB",
+      "SQL",
+      "Arduino",
+      "ESP32",
+      "Sensors",
+      "Git & GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Upkar Tiwari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "3rd Rank at Ebullience-23, NIET"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

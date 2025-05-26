@@ -1,0 +1,243 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "SHRIJA BANERJEE",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Mumbai",
+    "Jaipur",
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science and Machine Learning",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Enterprise Grade AI",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Specialization",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MATLAB Programming for Engineers specialization",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Beach Cleaning Drive (2024)",
+      "Blood Donation Camp (2023)",
+      "Fulfilling Dream Foundations (NGO)",
+      "Teacher Intern (2022)"
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "9.37",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.04",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "Sep 2021"
+      },
+      {
+        "school": "St. Marys School Delhi",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "91.3%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "St. Marys School Delhi",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93.8%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "BERT for Question Answering (QA)",
+        "description": "task on PDF using HuggingFace and Large Language Models.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Deepfake Video Detection model",
+        "description": "using CNN algorithm and Dlib Classifier.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Resume Draft Code",
+        "description": "using LaTeX.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Covid-19 Hospital Management System",
+        "description": "linking SQL database with Python and Tkinter.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Power BI Data Visualization",
+        "description": "of cost by category of monthly changing Excel dataset.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "Hewlett Packard Enterprise",
+        "description": "Part of Database project at NABARD bank, managing bank details, and fetching/pushing data into Vertica database using Python API. Engineered advanced dashboards featuring detailed visualizations of loan metrics and investment strategies; these dashboards consolidated information from 5 databases and improved data accessibility for over 30 users across departments.",
+        "location": "Mumbai",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Campus Ambassador",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Served as a liaison between the university and the company, fostering relations between the company and the student body and promoted the organizations brand to 2000+ Tech students, assisting in organizing placements.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Netaji Subhas University of Technology",
+        "description": "Convolutional Neural Network and Implemented algorithm achieving 98% accuracy. Worked on Image Forgery Detection using.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Data Management Intern",
+        "skillsUsed": [],
+        "endDate": "September 2022",
+        "company_name": "Good Host Spaces (MUJ)",
+        "description": "data sets, improving data accuracy and maintained large Excel datasets for 5000+ students, performing filtering and sorting. Assembled, cleaned, and organized large.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": "August 2022"
+      },
+      {
+        "role_name": "Membership Chair",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "ACM Student Chapter MUJ",
+        "description": "Executed comprehensive event management strategies that coordinated six successful marketing events, attracting over 500 participants. sign-ups during the campaign period. Generated a 25% increase in membership.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": "April 2022"
+      }
+    ],
+    "skills": [
+      "SQL",
+      "Python",
+      "Java (OOP)",
+      "C",
+      "C++",
+      "R",
+      "LaTeX",
+      "Power BI",
+      "Tableau",
+      "MySQL",
+      "MS Excel",
+      "Jira",
+      "Matlab",
+      "Orange",
+      "SAS",
+      "Vertica",
+      "Python (ML tech stack)"
+    ],
+    "soft_skills": [],
+    "name": "SHRIJA BANERJEE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "StudentExcellence Award(2024)(GATE Qualifying)",
+      "3rd Position - Blind Coding (2023)",
+      "Jaipur Top 10 - MUJ Hackx (2023)",
+      "Jaipur International silver medal in Fine Arts Japan(2020)"
+    ],
+    "publications": [
+      "I. Study of Different Machine Learning Models for predicting High Entropy Alloy (ongoing) --2nd writer.",
+      "II. Hybrid Approach to Image Forgery Detection using DCU-NET (ongoing) 3rd writer."
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 5.0,
+  "degree": "BTech"
+}

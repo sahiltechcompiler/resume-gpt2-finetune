@@ -1,0 +1,144 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Harsha Vardhan Koneru",
+  "college": "SRM University",
+  "locations": [
+    "Amaravati, AP",
+    "Vijayawada, AP",
+    "Challapalli, AP"
+  ],
+  "full_output": {
+    "summary": "Full-Stack Developer with a solid foundation in C, C++, Python, Java, and MERN stack. Successfully developed an online doctor consultation platform, an American Sign Language recognition system, a secure online voting system, and a student admission management tool. Experienced in machine learning, web development, and database management, with a proven track record of collaborating on research projects and implementing ML algorithms for EEG data analysis. Dedicated to continuous learning and innovation in software development.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "Bachelor of Technology",
+        "location": "Amaravati, AP",
+        "ID": 0.0,
+        "grade_received": "8.53",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya College",
+        "endDate": "2020",
+        "maximum_grade": "10",
+        "degree": "Senior Secondary",
+        "location": "Vijayawada, AP",
+        "ID": 1.0,
+        "grade_received": "9.8",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Sri Chaitanya School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "Challapalli, AP",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Doctor Consultancy",
+        "description": "Created an integrated online platform using the MERN stack for doctor consultations, online bookings, and admin management. Ensured a user-friendly interface and optimized performance to enhance efficiency and usability.",
+        "keywords": [
+          "MERN",
+          "MongoDB",
+          "Express",
+          "React",
+          "Node.js"
+        ],
+        "endDate": "2025",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "American Sign Language Recognition using ML",
+        "description": "Prepared a system using machine learning techniques, including Random Forest for feature classification and Convolutional Neural Networks (CNN) for image recognition, to accurately interpret American Sign Language gestures.",
+        "keywords": [
+          "Random Forest",
+          "Convolutional Neural Networks",
+          "CNN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Voting System",
+        "description": "Implemented an efficient and secure online voting system using Java, AWT for the user interface, and JDBC for database connectivity. Ensured smooth voter registration and voting processes.",
+        "keywords": [
+          "Java",
+          "AWT",
+          "JDBC"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Admission Management System",
+        "description": "Designed a student admission management system using C++, enabling online application submission, interview scheduling, and real-time updates to streamline the admission process efficiently.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Assistant",
+        "skillsUsed": [
+          "ML algorithms",
+          "SVM",
+          "Decision Tree",
+          "Random Forest",
+          "ANN"
+        ],
+        "endDate": "",
+        "company_name": "",
+        "description": "Analyzed EEG data and applied ML algorithms such as SVM, Decision Tree, Random Forest, and ANN. Collaborated on experimental design and contributed to data interpretation. Developed expertise in EEG signal processing, machine learning techniques, data analysis, and research methodology.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "MongoDB",
+      "Node JS",
+      "React JS",
+      "Express JS"
+    ],
+    "soft_skills": [],
+    "name": "Harsha Vardhan Koneru",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

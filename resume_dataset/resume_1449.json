@@ -1,0 +1,97 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "Puneet Bhardwaj",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan, India - 302021"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.12 / 10",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sanskar School Jaipur",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Jaipur",
+        "ID": 1.0,
+        "grade_received": "87.60 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Sanskar School Jaipur",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Jaipur",
+        "ID": 2.0,
+        "grade_received": "88.33 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Steganography Algorithm",
+        "description": "The project explores the use of Fourier Transform-based steganography to hide confidential information within digital images. By leveraging frequency domain embedding and encryption techniques, the algorithm ensures secure and imperceptible data transmission. Comparative analysis with the traditional Least Significant Bit (LSB) method demonstrates improved robustness and perceptual quality, making Fourier Transform steganography a promising solution for secure communication needs.",
+        "keywords": [
+          "Python",
+          "Computer Vision",
+          "Digital Image Processing",
+          "ReactJS",
+          "Javascript",
+          "HTML",
+          "CSS",
+          "MATLAB"
+        ],
+        "endDate": "15 May, 2024",
+        "startDate": "01 Jan, 2024",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Computer Vision",
+      "Digital Image Processing",
+      "ReactJS",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "MATLAB"
+    ],
+    "soft_skills": [],
+    "name": "Puneet Bhardwaj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "DEANS EXCELLENCE AWARD"
+    ],
+    "publications": [
+      "Steganography and Data Encryption in Images Using Contrast Stretching and AES Encryption"
+    ]
+  },
+  "current_location": "Jaipur, Rajasthan, India - 302021",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

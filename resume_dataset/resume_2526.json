@@ -1,0 +1,116 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Developer Intern",
+  "name": "A A M A N Y A S H A H",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "Solution-driven and self-motivated college student with reliable traits. Responsible for deadlines and dedicated to following instructions. Strong organizational abilities with proven successes in managing multiple academic projects and sessions.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "8.9 cgpa",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "KD Ambani Reliance Foundation School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate- 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.8%",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hand Gesture Recognition using Webcam",
+        "description": "Our project aims to help the sign language community by giving favorable results of the English alphabets by recognizing hand gestures. The system employs CNNs for feature extraction and classification, along with advanced algorithms for hand gesture tracking. Our each image used for testing and training is a grayscale image of size 28x28 pixels. Libraries like TensorFlow, Keras, OpenCV, and Scikit-learn are commonly used for machine learning and computer vision tasks . Matplotlib and Seaborn are used for data visualization.",
+        "keywords": [
+          "CNNs",
+          "TensorFlow",
+          "Keras",
+          "OpenCV",
+          "Scikit-learn",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real-time Weather App",
+        "description": "I used HTML, CSS, and JavaScript for the project. Learned the basics of these languages and implemented them on the project. I made sure it worked properly for efficient use on a daily basis. I also used an API for the real-time data of various cities in India and managed to give a precise result to the user.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "School Management System",
+        "description": "I used Python and MySQL for this project. I created data of several students using MySQL and performed certain actions on it. Then I created a platform for the management of students using Python where we can add, delete and modify different details of students.",
+        "keywords": [
+          "Python",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "Angular JS",
+          "Python Flask",
+          "MySQL"
+        ],
+        "endDate": "July 2023",
+        "company_name": "Reliance Jio",
+        "description": "Interned as a dynamic web application developer to develop a web page using Angular JS and scripting language Python Flask with the backend database using MySQL. Wrote well-designed and efficient code by using web development languages. Created presentations and presented it in front of senior to get feedbacks. Learned new skills Angular and Angular JS and scripting language Python Flask.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "MySQL",
+      "Time Management",
+      "Communication"
+    ],
+    "soft_skills": [],
+    "name": "A A M A N Y A S H A H",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

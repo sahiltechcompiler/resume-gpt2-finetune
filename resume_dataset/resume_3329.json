@@ -1,0 +1,162 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Kshiti Malla",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Vadodara"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "9.5 CGPA (Till 6th Sem)",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Navarachana School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Vadodara",
+        "ID": 1.0,
+        "grade_received": "91.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Navarachana School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "Vadodara",
+        "ID": 2.0,
+        "grade_received": "89.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Plan My Trip",
+        "description": "Developed a full-stack web application that generates personalized travel itineraries using AI and weather data, streamlining the travel planning process for the users.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "SQLite"
+        ],
+        "endDate": "August 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "The PetFort (Company Website)",
+        "description": "Created a Full-Stack Website and managed the sites database, ensuring data integrity and optimum site performance. Facilitated seamless transactions by successfully integrating a payment API, enhancing user convenience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MySQL",
+          "PHP"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Breast Cancer Predictor",
+        "description": "Developed a Breast Cancer Predictor performing a binary classification task utilizing various machine learning models with Logistic Regression achieving the highest performance accuracy of 95.88% accuracy. Leveraged the Breast Cancer Wisconsin (Diagnostic) data-set from Kaggle consisting of over 500 rows.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Seaborn",
+          "Sci-Kit Learn",
+          "Matplotlib"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Expense Manager",
+        "description": "Created a user-centric Expense Management desktop application to simplify daily expense tracking and control for organized financial management.",
+        "keywords": [
+          "Java",
+          "MySQL"
+        ],
+        "endDate": "November 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Analyst (Intern)",
+        "skillsUsed": [
+          "Java",
+          "GraphQL",
+          "AWS Glue"
+        ],
+        "endDate": "July 2024",
+        "company_name": "Goldman Sachs",
+        "description": "Added new features to a service layer to enhance client efficiency and improve client experience by allowing clients to fetch specific data and improved data retrieval by 20%. Utilized Java and GraphQL for this task. Conducted regression testing on previous profit and loss calculations to ensure 100% the accuracy of Java-based calculations using AWS Glue jobs.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [
+          "Django",
+          "Wordpress"
+        ],
+        "endDate": "May 2023",
+        "company_name": "Zooq Films",
+        "description": "Developed a fully-functional website using Django, implementing both front-end and back-end features. Modified UI for 3 websites using Wordpress.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "HTML/CSS",
+      "JavaScript",
+      "PHP",
+      "MySQL",
+      "GraphQL"
+    ],
+    "soft_skills": [],
+    "name": "Kshiti Malla",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed PwC Launchpad Talent Enablement Program for Data Analytics and AI",
+      "Ranked in the Top 2% out of 100000+ candidates in CodeKaze by Coding Ninjas",
+      "Selected as a Mentor at GirlScript Summer of Code 2024, contributing to over 10 open source projects and mentoring fellow contributors",
+      "Awarded with Deans Certificate for Excellence in Academics - 3rd, 4th, 5th & 6th Semester",
+      "Selected as Finalists among 2000+ teams for the Hackathon HackRx 4.0 conducted by Bajaj Finserv"
+    ],
+    "publications": []
+  },
+  "current_location": "Gujarat, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

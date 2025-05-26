@@ -1,0 +1,138 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Developer",
+  "name": "Avinash Tiwari",
+  "college": "KIET Groups of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Mirzapur, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Successfully managed club activities and actively volunteered in events such as Hackathons and Bootcamps, showcasing Mycin (Technical Society) Member"
+    ],
+    "education": [
+      {
+        "school": "KIET Groups of Institutions",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.5",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "M.T.S Public School and College",
+        "endDate": "May 2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Mirzapur, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "Score: 86.6%",
+        "field_of_study": "Science",
+        "startDate": "Apr 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "YouTube Clone",
+        "description": "Developed a YouTube web app using React.js, Redux, and Tailwind CSS. Optimized performance with caching, debouncing, and routing techniques. Implemented features such as a search bar, comments, and live chat in YouTube.",
+        "keywords": [
+          "ReactJs",
+          "Redux",
+          "Tailwind CSS",
+          "APIs"
+        ],
+        "endDate": "Oct 2023",
+        "startDate": "Sep 2023",
+        "url": ""
+      },
+      {
+        "name": "Vanity",
+        "description": "Conceptualized and Implemented a platform to enhance mental health support for the LGBTQ+ community, fostering a sense of love and acceptance. Implemented Node.Js to create anonymous interaction rooms and chatbot feature for user assistance. Established database connections to enable users to file complaints against harassment with NGOs.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "NodeJs",
+          "MongoDB"
+        ],
+        "endDate": "May 2023",
+        "startDate": "Apr 2023",
+        "url": ""
+      },
+      {
+        "name": "RANN Sports Fest",
+        "description": "Developed a website for an Inter College Sports Fest, excelling as the Frontend Developer in creating the UI. Achieved 1500+ student registrations from various colleges in various sports, demonstrating effective outreach and engagement strategies. Demonstrated proficiency in frontend development, delivering a seamless user experience for the event.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "NodeJs",
+          "MySQL"
+        ],
+        "endDate": "Mar 2023",
+        "startDate": "Feb 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE",
+        "skillsUsed": [
+          "React.js"
+        ],
+        "endDate": "Present",
+        "company_name": "Protut",
+        "description": "Protut is an edtech startup dedicated to designing a platform that enhances technical projects and improves candidate evaluations. Developing the frontend of Protuts edtech platform using React.js, enhancing user experience, and optimizing functionality.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Cyber Security",
+          "Cisco Packet Tracer"
+        ],
+        "endDate": "Jul 2023",
+        "company_name": "CISCO Virtual Internship",
+        "description": "Acquired knowledge in Cyber Security fundamentals during the internship. Evaluated college network, pinpointed vulnerabilities and recommended enhanced cybersecurity framework. Designed a college campus network blueprint using Cisco Packet Tracer.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "HTML/CSS",
+      "JavaScript",
+      "Reactjs",
+      "NodeJs",
+      "ExpressJs",
+      "MySQL",
+      "C++",
+      "Rest API"
+    ],
+    "soft_skills": [
+      "strong organizational skills",
+      "teamwork skills"
+    ],
+    "name": "Avinash Tiwari",
+    "position": "Web Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Coding Ninjas , KICCS-D-HACK 23.5 Round 16 Second Rank Holder at Departmental Level",
+      "Secured AIR 34 in CODE COMBAT 3.0"
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

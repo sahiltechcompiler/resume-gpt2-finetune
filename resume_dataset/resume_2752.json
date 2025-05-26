@@ -1,0 +1,112 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SACHIN RAWAT",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Haldwani"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "CSE(IoT)",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.21",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Aryaman Vikram Birla Institute of Learning",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CBSE (Class XII)",
+        "location": "Haldwani",
+        "ID": 1.0,
+        "grade_received": "Aggregate:92.2",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "St. Lawrence Sr. Sec School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE (Class X)",
+        "location": "Haldwani",
+        "ID": 2.0,
+        "grade_received": "Aggregate:91.8",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ATM using File Handling in C++",
+        "description": "Developed a console-based ATM management system in C++ for user and admin management of accounts, including functionality for adding, deleting, updating, and viewing user information. Key Features: User authentication, account management (add, delete, update), balance management, file-based data persistence. Technologies Used: C++, file handling(fstream), standard libraries (<iostream>,<limits> ,<string.h>, <unistd.h>).",
+        "keywords": [
+          "C++",
+          "file handling",
+          "standard libraries"
+        ],
+        "endDate": "July 2024",
+        "startDate": "",
+        "url": "ATMfsUsingC++"
+      },
+      {
+        "name": "Webplorax : Website to find the jobs",
+        "description": "Designed and developed Webplorax, a user-friendly frontend UI website dedicated to job seekers, offering intuitive job search functionalities. Implemented responsive design principles to ensure seamless user experience across devices, optimizing accessibility and usability.",
+        "keywords": [],
+        "endDate": "Apr 2024",
+        "startDate": "",
+        "url": "webplorax"
+      },
+      {
+        "name": "Clone of Stack Overflow Backend",
+        "description": "Developed a Stack Overflow clone using Node.js, Express, and MongoDB, showcasing proficiency in full-stack web development, RESTful APIs, and database management.",
+        "keywords": [],
+        "endDate": "Mar 2024",
+        "startDate": "",
+        "url": "Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "HTML",
+      "CSS",
+      "Tailwind",
+      "Javascript",
+      "NodeJs",
+      "ExpressJs",
+      "React",
+      "SQL",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "SACHIN RAWAT",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Contributed to a research project, resulting in published paper(Internet of Things enabled Machine Learning for Biomedical Application). Link:Book Chapter -12.",
+      "Key member of the volleyball team that won the [Ebullience-24,Sports Meet,NIET], contributing to team strategy and coordination, which led to improved performance and a winning season."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "CSE(IoT)"
+}

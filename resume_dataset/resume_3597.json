@@ -1,0 +1,135 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Manjeet Singh",
+  "college": "Guru Teg Bahadur Institute of Technology",
+  "locations": [
+    "Delhi, India",
+    "Faridabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Teg Bahadur Institute of Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelors Of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.6",
+        "field_of_study": "CSE",
+        "startDate": "August 2020"
+      },
+      {
+        "school": "Shreeram Model School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 82/100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "St. Johns School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 7.6",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MULTIFUNUTILITY",
+        "description": "Developed a Multifunctional utility web site which allows the user to do several tasks on the same website without going to any other website. The web site is responsive as we have used media queries and different technologies of front-end development. All the section mentioned in the navbar contains different web pages which are linked together for a better user interface.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "BOOTSTRAP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://multifunutility.netlify.app/"
+      },
+      {
+        "name": "CODEXV",
+        "description": "Developed a web site which contain multiple web pages but the main part is Online Compiler. It is a group project of 4 students in which we have developed an online compiler using Code-Mirror which is a JS library. Using this library we have created an online compiler which can be used by the users to compile their code written in C++, Java or Python. Currently it works for only these 3 languages but our aim is to introduce more programming languages, so that more and more users can use it.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://codexv.netlify.app/"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "WEB DEVELOPER INTERN",
+        "skillsUsed": [
+          "multitasking",
+          "UI/UX design",
+          "time management"
+        ],
+        "endDate": "November 2022",
+        "company_name": "DIGITEASE",
+        "description": "Sole responsibility for enhancing website aesthetics and incorporating various projects. Managed workload efficiently in a small team environment, maintaining a balance between tasks and personal time. Developed skills in multitasking, UI/UX design, and time management. Overcame challenges through proactive scheduling and prioritization.",
+        "location": "Faridabad, India",
+        "links": "",
+        "startDate": "September 2022"
+      },
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "March 2019",
+        "company_name": "",
+        "description": "",
+        "location": "Faridabad, India",
+        "links": "",
+        "startDate": "March 2018"
+      },
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "March 2017",
+        "company_name": "",
+        "description": "",
+        "location": "Faridabad, India",
+        "links": "",
+        "startDate": "March 2016"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JS",
+      "ReactJs",
+      "BootStrap",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "C++",
+      "UI/UX Design"
+    ],
+    "soft_skills": [],
+    "name": "Manjeet Singh",
+    "position": "",
+    "interests": [
+      "Exploring new technologies",
+      "learning how the different technologies work"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Of Technology"
+}

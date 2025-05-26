@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ajith Jupalli",
+  "college": "SRM University",
+  "locations": [
+    "Guntur, Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "As a 4th-year Computer Science Engineering student specializing in AI and ML at SRM University, I am passionate about solving real-world problems with cutting-edge technologies. I have a strong foundation in algorithms, data structures, and programming languages, and have honed my skills in machine learning, deep learning, and data analytics through projects and internships. Procient in Python, data visualization, MS Ofce, Excel, and PowerPoint, I also have excellent communication skills in English and Telugu. I am eager to apply my expertise in a dynamic work environment, contributing to innovative AI and ML projects.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "TATA DATA VISUALISATION",
+        "issuer": "In Forage",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AGILE METHODOLOGY",
+        "issuer": "Cognizant",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Guntur, Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "7.28/10",
+        "field_of_study": "Computer Science, AIML",
+        "startDate": ""
+      },
+      {
+        "school": "Narayana Jr.College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Guntur, Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "830/1000",
+        "field_of_study": "MPC",
+        "startDate": ""
+      },
+      {
+        "school": "Montessori English Medium School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "Guntur, Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "9.5/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chess Game Using Genetic Algorithm",
+        "description": "Developed a fully autonomous chess game utilizing a genetic algorithm, where chess pieces move independently based on the algorithms strategic decisions. The algorithm iteratively conducts selection, crossover, mutation, and replacement processes across a predened number of generations or until a convergence criterion is achieved, ultimately terminating when a satisfactory solution is identied.",
+        "keywords": [
+          "Python",
+          "pygame",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "Chat bot for mental health support",
+        "description": "Implemented natural language processing (NLP) to handle user inputs and generate responses using a neural network model. Utilized PyTorch for building and training the neural network. Leveraged MongoDB for efcient storage and retrieval of user interactions and data.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "Java Script",
+          "MongoDB",
+          "PyTorch"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Weather Report",
+        "description": "Displayed real-time weather data including temperature in Celsius, humidity, and other meteorological parameters. Integrated a real-time clock to show the current time in hh:mm:ssformat. Implemented user input functionality to fetch weather reports for specic cities or locations.",
+        "keywords": [
+          "Python",
+          "Json",
+          "Turtle"
+        ],
+        "endDate": "June 2022",
+        "startDate": "Jan 2022",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "experiences": [],
+    "skills": [
+      "My SQL",
+      "Python",
+      "HTML",
+      "JavaScript",
+      "C++",
+      "Data Structures and Algorithm",
+      "AI and Machine Learning",
+      "Computer Vision"
+    ],
+    "soft_skills": [],
+    "name": "Ajith Jupalli",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

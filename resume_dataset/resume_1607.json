@@ -1,0 +1,107 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ASMITHA S",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamilnadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chennai, Tamilnadu",
+        "ID": 0.0,
+        "grade_received": "CGPA-9.1",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sketchbook",
+        "description": "Created a responsive SketchBook, increasing user engagement by 50% with an interactive drawing area. Incorporated Socket.io for real-time collaboration, allowing users to see instant updates across multiple tabs, improving collaboration efficiency by 35% along with more user engagement. Enhanced user experience with features for preloading/post-loading sketches, enabling easy revisiting, easy modification, effortless download and sharing and thereby increasing user retention by 25%.",
+        "keywords": [
+          "Next.js",
+          "Node.js"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Blog Website",
+        "description": "Implemented user authentication, blog operations, image uploads, achieving an 85% performance score. Leveraged MongoDB to optimize data storage, resulting in a 30% reduction in data retrieval latency. Added interactive features like quizzes, and games, contributing to a 20% increase in user retention.",
+        "keywords": [
+          "ReactJs",
+          "Express",
+          "Node",
+          "MongoDB"
+        ],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Artisan Scribe - A movie database website",
+        "description": "Created a much-simplified movie database, resulting in a 40% improvement in user interface simplicity. Integrated MovieDB API for real-time access to a vast database, optimizing data retrieval speed by 30%. Utilized Docker(image size: 724MB) for containerization, ensuring scalability & simplified maintenance.",
+        "keywords": [],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Lets Grow More",
+        "description": "Completed 3 real-time projects, enhancing team efficiency by 25% through effective project planning. Developed TODOLISTforU, boosting productivity by 40% and attracting over 500 active users. Implemented time limits with alarms, increasing task completion rates by 30%. Enhanced user satisfaction ratings by 20% through task addition, editing, and deletion features.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "ReactJS",
+      "NodeJs",
+      "NextJs",
+      "ExpressJS",
+      "MongoDB",
+      "GitHub",
+      "VS Code",
+      "Docker",
+      "Figma",
+      "Android Studio"
+    ],
+    "soft_skills": [],
+    "name": "ASMITHA S",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Finalist in an intra-college hackathon event",
+      "Full Stack Development Smart India Hackathon.",
+      "Lead the National level Technical Symposium (2023-2024) as Vice-President.",
+      "Solved 1400+ problems with rank 6000 on Cybersecurity Essentials",
+      "Cisco Certified Network Associate Industrial (CCNA 1,2,3) SkillRack.",
+      "RPA Citizen Developer Foundation"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

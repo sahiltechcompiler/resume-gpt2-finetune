@@ -1,0 +1,328 @@
+{
+  "project_count": 11.0,
+  "designation": "",
+  "name": "BHAVANA MALLESH GADDE",
+  "college": "SRM University AP",
+  "locations": [
+    "Andhra Pradesh, India",
+    "India",
+    "Guntur, AP",
+    "Karempudi, AP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Completion of the AWS Cloud Computing Internship",
+        "issuer": "APSSDC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internship completion as PHP developer",
+        "issuer": "Agumentik",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Completion of the Machine Learning Internship",
+        "issuer": "Bharat Intern",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internship completion as Full Stack developer",
+        "issuer": "Oasis Infobyte",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internship completion as Python developer",
+        "issuer": "Code Clause",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Completion of the Advanced Data Structures course",
+        "issuer": "Log2Base2",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "June 2025",
+        "maximum_grade": "10.0",
+        "degree": "Bachelor of Technology",
+        "location": "Guntur, AP",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.9/10.0",
+        "field_of_study": "Computer Science AIML",
+        "startDate": "September 2021"
+      },
+      {
+        "school": "Vignans Co-operative Junior College",
+        "endDate": "March 2021",
+        "maximum_grade": "10.0",
+        "degree": "",
+        "location": "Guntur, AP",
+        "ID": 1.0,
+        "grade_received": "CGPA: 9.79/10.0",
+        "field_of_study": "MPC",
+        "startDate": "July 2019"
+      },
+      {
+        "school": "Sri Vivekananda High School",
+        "endDate": "March 2019",
+        "maximum_grade": "10.0",
+        "degree": "",
+        "location": "Karempudi, AP",
+        "ID": 2.0,
+        "grade_received": "CGPA: 10.0/10.0",
+        "field_of_study": "SSC",
+        "startDate": "July 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Attendance System using Face Recognition",
+        "description": "Implemented a cutting-edge system that logs attendance by matching faces to names in an Excel sheet, complete with date and time stamps, enabling precise and efficient attendance tracking with a 50% reduction in errors.",
+        "keywords": [
+          "Python",
+          "cv2",
+          "Flask",
+          "VS Code"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Twitter Sentiment Analysis",
+        "description": "Designed a robust sentiment analysis framework that processed 50,000 tweets daily, enabling real-time feedback on public sentiment trends; enhanced strategic decision-making for product launches and customer engagement initiatives.",
+        "keywords": [
+          "Swift",
+          "CoreML",
+          "Xcode"
+        ],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Magical Newspaper",
+        "description": "Launched an innovative feature in the Magical Newspaper app that connects images to videos through image recognition technology; this unique functionality attracted 500+ new downloads in the first week of release.",
+        "keywords": [
+          "Swift",
+          "ARKit 2",
+          "Xcode"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Music Player App",
+        "description": "Championed the development of a powerful music player app that consolidates YouTube Music content into a singular platform, optimizing streaming efficiency; user feedback indicated a 90% satisfaction rate with the new features.",
+        "keywords": [
+          "Flutter",
+          "YouTube Music APIs",
+          "VS Code"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Developer Browser",
+        "description": "Created an intuitive cross-platform browser that supports seamless functionality across all devices, now utilized by 200,000+ users; included advanced features that streamlined the development process and saved developers an estimated 10 hours per week.",
+        "keywords": [
+          "Flutter",
+          "Android Studio",
+          "Advanced Computer Networks"
+        ],
+        "endDate": "December 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Task Management App",
+        "description": "Transformed user experience with intuitive features like photo/video attachments, detailed descriptions, and customizable task deadlines, boosting user productivity by 50% and reducing task maintenance time by 25%.",
+        "keywords": [
+          "Flutter",
+          "VS Code"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Corona Tracker App",
+        "description": "Designed and launched a world map using React technology for a Corona Tracker; provided real-time statistics on recoveries and total cases, resulting in increased user satisfaction scores by 25% within the first month.",
+        "keywords": [
+          "React",
+          "APIs",
+          "VS Code"
+        ],
+        "endDate": "October 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hotel Booking Management",
+        "description": "Launched an automated reporting tool within the Hotel Booking Management system, delivering actionable insights on booking patterns that empowered management to optimize marketing strategies, ultimately increasing repeat bookings by 15%.",
+        "keywords": [
+          "React",
+          "Supabase",
+          "Tailwind CSS",
+          "VS Code"
+        ],
+        "endDate": "July 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Desktop File Transfer App",
+        "description": "Created a reliable desktop application that employs advanced TCP principles for file transfer, now adopted by two departments for secure data exchange, streamlining processes and ensuring consistent performance.",
+        "keywords": [
+          "Java",
+          "Computer Networks",
+          "VS Code"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hospital Database Management System",
+        "description": "Revamped the Hospital Database Management System by incorporating tailored user interfaces, leading to a 25% improvement in data entry accuracy and ensuring compliance with regulatory standards across the organization.",
+        "keywords": [
+          "JS Full Stack",
+          "VS Code"
+        ],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "OS Scheduling Algorithms Website",
+        "description": "Developed a comprehensive tool that generates Gantt charts for visualizing process scheduling; streamlined scheduling processes, reducing average task completion time by 20% and improving overall project delivery timelines.",
+        "keywords": [
+          "OS",
+          "Web Development",
+          "VS Code"
+        ],
+        "endDate": "February 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Management System",
+        "description": "Developed a highly efficient console-based Student Management System in C++ that allows for seamless addition and retrieval of student data, now utilized by over 20 educators to improve administrative workflows and data accuracy.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "February 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "Engineered a robust website architecture that incorporated machine learning algorithms for personalized user experiences; improved user engagement metrics, resulting in 1M+ unique visitors within the first quarter post-launch.",
+        "location": "Andhra Pradesh, India",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Agumentik Group of Companies",
+        "description": "Championed the integration of responsive design techniques using PHP, HTML, CSS, and JavaScript, which elevated mobile user experience; the resulting user satisfaction led to a 50% increase in repeat visits from mobile users.",
+        "location": "India",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "Bharat Intern",
+        "description": "Directed a Bharat Internship initiative to create a house price prediction model employing machine learning algorithms; optimized feature selection to achieve 25% higher accuracy in estimations and provided valuable market trend insights.",
+        "location": "India",
+        "links": "",
+        "startDate": "February 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Java",
+      "Dart",
+      "JavaScript",
+      "Swift",
+      "DSA",
+      "Data Science",
+      "AI & ML",
+      "System Design",
+      "React",
+      "Flutter",
+      "Flask",
+      "VS Code",
+      "Android Studio",
+      "Github",
+      "Git Bash",
+      "Jupyter Notebook",
+      "Wireshark",
+      "Visual Paradigm",
+      "Linux",
+      "Postman",
+      "Burp Suite",
+      "MERN Full Stack",
+      "React Full Stack",
+      "Flutter App Development",
+      "Swift iOS Development",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "BHAVANA MALLESH GADDE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Patent System and a method for Food Waste Management and Analysis 202441062814 A (Published), Dated 20 August 2024",
+      "International Journal Extractive Text Summarization on Medical Insights 243711348, Ref: TJCA-S-2024-0814 (Submitted), Dated 27 July, 2024"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

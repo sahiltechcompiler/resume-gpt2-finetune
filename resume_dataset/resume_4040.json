@@ -1,0 +1,92 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Ankit Vishwakarma",
+  "college": "Netaji Subhas University of Technology - Delhi",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Netaji Subhas University of Technology - Delhi",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.11",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Medical Diagnosis Using Machine Learning",
+        "description": "Developed a Medical Diagnosis App using Logistic Regression and SVM for early detection of Heart Disease, Parkinsons, and Diabetes. Collaborated cross-functionally and integrated extensive medical datasets. Achieved high accuracy rates, implemented user-friendly design, and contributed to continuous improvement. The app is a testament to pioneering advancements in healthcare through innovative machine-learning solutions.",
+        "keywords": [],
+        "endDate": "August 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ChatApp",
+        "description": "Built a chat app with the MERN stack, featuring a sleek UI with Tailwind CSS. Implemented real-time communication capabilities using WebSocket services and messaging middleware, ensuring seamless and instant messaging functionality.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Express.js"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Trainee",
+        "skillsUsed": [
+          "React.js",
+          "HTML",
+          "CSS",
+          "MySQL",
+          "JavaScript"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Internshala",
+        "description": "Led the development of the PG Life Property Listing Web app using React.js, HTML, CSS, MySQL, and JavaScript, resulting in a 30% increase in user registrations. Implemented front-end solutions that improved user interaction by 25%.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "C++",
+      "React",
+      "Typescript",
+      "Express.js",
+      "Node.js",
+      "REST API Development",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "Data Structures",
+      "Algorithms"
+    ],
+    "soft_skills": [],
+    "name": "Ankit Vishwakarma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

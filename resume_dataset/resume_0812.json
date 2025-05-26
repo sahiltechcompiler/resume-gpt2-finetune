@@ -1,0 +1,154 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "VANSH CHAUHAN",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad",
+    "Saharanpur",
+    "Delhi - NCR"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Selected as one of 100 students for an exclusive course on improving patient outcomes and reducing healthcare costs.",
+        "skillsLearned": [],
+        "title": "Value-Based Learning on US Healthcare System",
+        "issuer": "Innovaccer",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed a comprehensive course on Python programming fundamentals.",
+        "skillsLearned": [],
+        "title": "Python for Everybody",
+        "issuer": "University of Michigan, Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed foundational coursework in artificial intelligence principles and applications.",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence Foundations",
+        "issuer": "LinkedIn Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed comprehensive training on networking concepts and Cisco technologies.",
+        "skillsLearned": [],
+        "title": "Cisco Networking Course",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.1",
+        "field_of_study": "Computer Science with AI",
+        "startDate": "2021"
+      },
+      {
+        "school": "St Marys School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Saharanpur",
+        "ID": 1.0,
+        "grade_received": "Percentage - 84.2",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Plant Disease Detection System",
+        "description": "Developed a responsive web application using React.js for plant disease detection via image uploads, handling over 1,000 concurrent users. Designed and implemented the user interface with HTML, CSS, and JavaScript, enhancing UI/UX and increasing user engagement by 30%. Integrated RESTful APIs for seamless backend communication, reducing image upload and processing time by 40%. Deployed and maintained the application on Netlify, ensuring 99.9% uptime and robust performance.",
+        "keywords": [
+          "React",
+          "Redux",
+          "Web Sockets"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Swiggy Clone Project",
+        "description": "Built a user-friendly and responsive interface for a food delivery app. Utilized React's Context API and hooks (useState, useEffect) to manage global state, enhancing performance and maintainability. Connected the application to a mock API to fetch and display real-time restaurant and menu data, enabling dynamic updates and interactive features.",
+        "keywords": [
+          "React"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "SpringBee",
+        "description": "Developed a high-traffic Next.js website, attracting over 500 daily users. Designed and spearheaded the development of a comprehensive portal for registering applications, and streamlining resume collection certificate issuance. Rendered key functionalities to optimize applicants onboarding, resource access, and certification processes. Improved user experience and platform efficiency, resulting in increased user engagement and satisfaction. Maintained and optimized platform performance for smooth operation and scalability.",
+        "location": "Delhi - NCR",
+        "links": "",
+        "startDate": "January 2024"
+      },
+      {
+        "role_name": "Data Science and Machine Learning",
+        "skillsUsed": [],
+        "endDate": "2020",
+        "company_name": "YBI Foundation",
+        "description": "Applied Machine Learning Algorithms: Implemented basic machine learning models such as linear regression, logistic regression, and decision trees, understanding their applications and performance metrics. Developed Fundamental Data Science Skills: Gained hands-on experience with data manipulation, cleaning, and visualization using tools like Pandas, NumPy. Applied supervised and unsupervised learning methodologies effectively in real-world machine learning projects.",
+        "location": "Saharanpur, Uttar Pradesh",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL",
+      "MongoDB",
+      "PostgreeSQL",
+      "VS Code",
+      "Eclipse",
+      "Amazon Web Services",
+      "Firebase",
+      "Netlify",
+      "Render",
+      "GitHub",
+      "React.js",
+      "NextJs",
+      "Redux Toolkit"
+    ],
+    "soft_skills": [],
+    "name": "VANSH CHAUHAN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

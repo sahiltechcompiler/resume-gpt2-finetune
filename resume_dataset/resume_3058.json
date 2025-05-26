@@ -1,0 +1,159 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Papireddy Eppala",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript (Basic)",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python (Basic)",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL (Intermediate)",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA: 8.5/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "SSC",
+        "endDate": "2019",
+        "maximum_grade": "9.8/10.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Marks: 982/1000",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "GoodWillGateway",
+        "description": "Developed a full-stack crowdfunding platform that connects donors with causes in need of funding. Built a backend with Django, utilizing RESTful APIs and Django token authentication for secure user login. Developed a dynamic React frontend with Axios for real-time data interaction.",
+        "keywords": [
+          "Django",
+          "React",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Customer Segmentation for Enhancing Business Strategies",
+        "description": "Analyzed customer data to identify key purchasing behaviors and trends, providing insights into customer preferences and improving marketing strategies. Conducted statistical analysis, including validation of clustering results, to ensure accurate interpretation of customer segments and support data-driven decisions. Implemented K-Means and Hierarchical clustering algorithms, optimizing customer segmentation for personalized marketing and targeted business strategies.",
+        "keywords": [
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Oasis Infobyte",
+        "description": "Conducted analytical assessments to understand and interpret unemployment trends. Utilized data analysis techniques to forecast sales trends and patterns, contributing to informed decision making. Implemented strategies to predict and identify spam emails.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Subject Matter Expert",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Yofoxy",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "STL",
+      "Data Structures and Algorithms",
+      "JavaScript",
+      "Django",
+      "Web Scraping",
+      "Rest Framework",
+      "SQL",
+      "Power BI",
+      "Excel",
+      "Tableau",
+      "Machine Learning",
+      "Pandas",
+      "Streamlit",
+      "Gemini",
+      "Langchain",
+      "Docker",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "Papireddy Eppala",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received Gold Medal for best Research work on 8th Research Day at SRM University-AP.",
+      "2 star in Codechef, Solved 380+ problems on Leetcode",
+      "Selected for Amazon ML Summer School 2024"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,156 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Yash Sharma",
+  "college": "SRM Institute of science and technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL : Cloud Computing",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL : Introduction to IOT",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "COURSERA : Specialization in GO",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM Institute of science and technology",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "9.00 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Sep 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CI/CD pipeline with Jenkins",
+        "description": "Made a CI(continuous integration)/CD(continuous deployment) with Jenkins to automate our deployment workflow",
+        "keywords": [
+          "Jenkins",
+          "YAML",
+          "Container"
+        ],
+        "endDate": "Oct 2023",
+        "startDate": "Sept 2023",
+        "url": ""
+      },
+      {
+        "name": "Container from scratch",
+        "description": "Made a container from scratch in rust. Efficiently used syscalls to mount the container with network stack, and to take command line arguments",
+        "keywords": [
+          "Rust"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Spell checker Crate",
+        "description": "A Simple spell checker crate which checks the spelling of a word and corrects it using wagner fischer algorithm.",
+        "keywords": [
+          "Rust"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Http server from scratch",
+        "description": "Implemented the Net lib from scratch and wrote the HTTP server from it, used the syscalls and os lib to write the netinternals",
+        "keywords": [
+          "Golang"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "CNCF Intern",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "LFX Mentorship at CRI-O",
+        "description": "While working on the open-source repository of CRI-O, I Added a Log Driver support for the Conmon-rs (rust-based container runtime monitor). Primary goal was to implement the support for JSON and Journald-based log drivers. Unit tests and integration tests were written which enhances the code robustness where 36.6% is main code coverage(Codecov report on the PR)",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      },
+      {
+        "role_name": "Code4GovTech Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Sunbird Knowledge",
+        "description": "Automated one-click setup of Sunbird knowledge platform infrastructure over AWS for population scale. Created Terraform scripts for Deploying DBs ( Cassandra, Neo4j, Elasticsearch, Redis) of Sunbird Knowledge platform over AWS using EKS. Created Terraform scripts for managing Service and Flink jobs of Sunbird Knowledge Platform",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Golang",
+      "Rust",
+      "Python",
+      "Django",
+      "SQL",
+      "C",
+      "C++",
+      "MySQL",
+      "Postgres",
+      "Redis",
+      "SQLite",
+      "Firebase",
+      "Appwrite",
+      "Supabase",
+      "Git",
+      "Docker",
+      "EKS",
+      "Grafana",
+      "Terraform",
+      "Jenkins",
+      "Ansible",
+      "Postman",
+      "VS Code",
+      "Github Actions"
+    ],
+    "soft_skills": [],
+    "name": "Yash Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

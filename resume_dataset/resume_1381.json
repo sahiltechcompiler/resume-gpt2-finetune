@@ -1,0 +1,105 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "Harsh Dogra",
+  "college": "Maharaja Agrasen Institute Of Technology",
+  "locations": [
+    "Delhi",
+    "Rohini, Delhi",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute Of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "CGPA - 9.46",
+        "field_of_study": "Computer Science and Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Imperial Realty",
+        "description": "Created a beautiful and responsive website for a Real Estate company. Implemented the frontend of the website using ReactJS and Javascript. Ensured cross-browser compatibility and responsive design for seamless user experience across devices.",
+        "keywords": [
+          "React",
+          "React DOM",
+          "JavaScript",
+          "CSS3",
+          "HTML",
+          "IDE - VS Code"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "31/08/2024",
+        "company_name": "MarkLine Industries Pvt Ltd.",
+        "description": "Developed a responsive and user-friendly website utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack. Collaborated with team members to design and implement frontend and backend functionalities. Assisted in optimizing website performance and implementing SEO best practices. Conducted testing and debugging to ensure seamless functionality across various browsers and devices during the internship period. Participated in meetings to discuss project requirements, progress, and future enhancements.",
+        "location": "Rohini, Delhi",
+        "links": "",
+        "startDate": "01/07/2024"
+      },
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "15/09/2023",
+        "company_name": "Codsoft Pvt Ltd.",
+        "description": "Created responsive UI for a hotel booking website. Provided user registration, login and authentication functionality to the website. Implemented search functionality and integrated APIs for real time data retrieval and booking processing. Ensured cross-browser compatibility and responsive design for seamless user experience across devices. Optimized website performance by implementing best practices in code structure and asset management.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "15/08/2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "SQL",
+      "Python",
+      "Java",
+      "HTML5",
+      "CSS3",
+      "React",
+      "MongoDB",
+      "Express",
+      "Javascript",
+      "NodeJS",
+      "Bootstrap",
+      "Postgres",
+      "Tailwind CSS",
+      "VS Code",
+      "Jupyter",
+      "Canva"
+    ],
+    "soft_skills": [],
+    "name": "Harsh Dogra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 1000+ problems across all coding plateforms.",
+      "Achieved Rank 1 in Department as well as university till 6th semester.",
+      "Achieved rank 1490 out of 23887 participants in leetcode weekly contest 386.",
+      "Cleared 2 rounds of HackOn With Amazon Season 3."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

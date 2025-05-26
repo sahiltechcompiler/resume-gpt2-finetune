@@ -1,0 +1,161 @@
+{
+  "project_count": 4.0,
+  "designation": "Software Dvelopment Engineer",
+  "name": "RITESH KUMAR",
+  "college": "FOET, University of Lucknow",
+  "locations": [
+    "Gurugram, Haryana",
+    "Mumbai, Maharashtra",
+    "Lucknow, UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "FOET, University of Lucknow",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Lucknow, UP",
+        "ID": 0.0,
+        "grade_received": "8.04 CGPA",
+        "field_of_study": "CSE",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automated Parking System",
+        "description": "Built a Completely Responsive Automated Parking System Web Application. features include such as Grid View of parking space, receipt generator, and number of available and vacant spaces of parking space.",
+        "keywords": [
+          "Django",
+          "HTML",
+          "CSS",
+          "SQL",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Warranty Management System",
+        "description": "Built Multiple functionalities like User authentication (Sign in and Sign up). Perform Insertion, Deletion, and Retrieval of Warranty status of goods to the database.",
+        "keywords": [
+          "Django",
+          "HTML",
+          "CSS",
+          "SQL",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image Caption Generator",
+        "description": "Developed an Image Captioning system that generates captions for images using Deep Learning, CNN, and NLP techniques.",
+        "keywords": [
+          "Python",
+          "NLP",
+          "OpenCV",
+          "Tensorflow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Virtual Assistant",
+        "description": "Developed speech recognition and NLP algorithms, integrating Pyaudio and Pyttsx3 for voice input and output. Built a user interface for the virtual assistant.",
+        "keywords": [
+          "Python",
+          "NLP",
+          "Pyaudio",
+          "NLTK",
+          "Pyttsx3"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Engineer",
+        "skillsUsed": [
+          "Python",
+          "AWS Services",
+          "IEC 104",
+          "FTP",
+          "SFTP",
+          "OPC UA",
+          "Docker",
+          "Linux"
+        ],
+        "endDate": "Present",
+        "company_name": "solarad.ai",
+        "description": "Architected and implemented over 15 machine learning and non-machine learning pipelines using AWS SageMaker, Step Functions, Lambda, and other AWS services, increasing model accuracy by 40% and reducing deployment time by 30%. Developed and managed REST APIs with AWS API Gateway, handling over 100,000 requests per day with 99.99% uptime and reducing response time by 25%. Prepared and processed datasets exceeding 10TB from clients, government entities, and third-party companies, improving data quality and reducing processing time by 50%. Contributed to the development of sub-functionalities within the Heliosat model, enhancing irradiance data accuracy by 20% and improving data generation speed by 35%. Managed ongoing client operations, achieving a 95% client satisfaction rate and reducing project delivery times by 30%.",
+        "location": "Gurugram, Haryana",
+        "links": "",
+        "startDate": "Oct 2023"
+      },
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "Linux",
+          "AWS Services",
+          "Data Transfer Protocols"
+        ],
+        "endDate": "Nov 2023",
+        "company_name": "Myways.ai",
+        "description": "Created and managed data transfers between clients and the company server using FTP and SFTP protocols, handling over 500GB of data daily and ensuring 99.9% transfer reliability. Participated in the transition from server-based to serverless architecture, reducing infrastructure costs by 40% and improving system scalability by 50%.",
+        "location": "Gurugram, Haryana",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "SQL",
+          "Bootstrap"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "IT JOBXS",
+        "description": "Designed and developed a fully responsive section of the Desi QnA webpage, improving user engagement by 25%. Addressed engineering challenges related to user verification/authentication and fake bot/post detection and removal, reducing fake accounts and posts by 70%. Integrated Google reCAPTCHA to enhance website security, decreasing bot-related incidents by 85%.",
+        "location": "Mumbai, Maharashtra",
+        "links": "",
+        "startDate": "Apr 2023"
+      }
+    ],
+    "skills": [
+      "Cloud Services : AWS, GCP",
+      "Programming Languages : Python, C, SQL",
+      "Frameworks & Libraries : Docker, Bootstrap, Django, HTML, CSS",
+      "Platform: Windows, Linux, CentOS",
+      "Database : Relational Database (RDBMS), PostgresDB",
+      "Version Control : Git, Github",
+      "Other Tools : Postman, FileZilla, Codium"
+    ],
+    "soft_skills": [],
+    "name": "RITESH KUMAR",
+    "position": "Software Dvelopment Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Scored Grade A Data Science Foundations - Level 1 and Level 2 issued by IBM.",
+      "Samsung Innovation Campus Certified in Coding and Programming."
+    ],
+    "publications": [
+      "Validating Meteosat Second Generation and Himawari-8 Derived Solar Irradiance against Ground Measurements: Solarad AIs Approach-MDPI Energies"
+    ]
+  },
+  "current_location": "Gurugram - India",
+  "graduation_year": 2023.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech."
+}

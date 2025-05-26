@@ -1,0 +1,128 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sonali Sadana",
+  "college": "Guru Tegh Bahadur Institute Of Technology",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute Of Technology",
+        "endDate": "July 2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.537 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": "August 2020"
+      },
+      {
+        "school": "Jindal Public School",
+        "endDate": "July 2020",
+        "maximum_grade": "",
+        "degree": "12th class",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90%",
+        "field_of_study": "",
+        "startDate": "May 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Event Management Website for Ankur Tent and Events",
+        "description": "Developed a responsive and interactive website for Ankur Tent and Events using React. Showcased services. Utilized React features: Routing for seamless navigation, Components for modular code structure, State management.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://charming-platypus-ca374b.netlify.app/"
+      },
+      {
+        "name": "SheAura Womens Health Website",
+        "description": "Developed a comprehensive web application for womens health. Tracks fitness goals and progress, empowering users to manage their well-being. Utilized Python and Flask for the backend, ensuring robust data handling. React framework for a user-friendly, interactive front-end. Integrated a Google Chatbot for conversational interaction and guidance. Incorporated a machine learning model (Random Forest Classifier) for personalized PCOS tracking.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "PizzaHut Sales Analysis",
+        "description": "Analyzed PizzaHut sales data using SQL to derive insights on top-selling pizzas, revenue trends, and customer preferences. Developed SQL queries to calculate total revenue, identify popular pizza types by sales volume, and analyze customer ordering patterns. Utilized SQL joins and aggregations to generate actionable insights, contributing to strategic decision-making and operational efficiencies.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Sonali123676/PIZZA-ANALYSIS"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Graduate Engineer Trainee Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Bharti Airtel",
+        "description": "Automated manual pop-ups in High Node Volume (HNV) database, enhancing system efficiency and user experience.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "February 2024"
+      },
+      {
+        "role_name": "Full Stack Intern",
+        "skillsUsed": [],
+        "endDate": "September 2023",
+        "company_name": "Woxsen University",
+        "description": "Contributed to full-stack development projects, gaining hands-on experience in diverse technologies.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Teaching Assistant - Data Structures and Algorithms",
+        "skillsUsed": [],
+        "endDate": "January 2023",
+        "company_name": "Coding Ninjas",
+        "description": "Assisted in teaching Data Structures and Algorithms, providing guidance to students and reinforcing concepts through practical exercises.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "September 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "React.js",
+      "MongoDB",
+      "SQL",
+      "AWS web services",
+      "Data Structure and Algorithm",
+      "PowerBI",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "Express",
+      "Data Analysis",
+      "TailwindCSS"
+    ],
+    "soft_skills": [],
+    "name": "Sonali Sadana",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked 4th in B.Tech IT Guru Tegh Bahadur Institute Of Technology, recognizing academic excellence and outstanding performance.",
+      "Selected as part of the top 15 teams in Smart India Hackathon, showcasing problem-solving skills and innovation.",
+      "Actively contributed to open source in Hacktoberfest 2022 (October): Successfully created and merged 4 pull requests, demonstrating collaborative coding and code contribution skills."
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

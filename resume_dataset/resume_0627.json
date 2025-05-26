@@ -1,0 +1,180 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ridhi Ranjan",
+  "college": "Ajay Kumar Garg Engineering College affiliated to AKTU",
+  "locations": [
+    "Ghaziabad, U.P.",
+    "Delhi HQ",
+    "Remote, Ghaziabad, U.P."
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Developing Soft Skills and Personality",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enhancing Soft Skills and Personality",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System-I",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College affiliated to AKTU",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.98",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Adarsh Publice School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Secondary School Certificate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "82",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Adarsh Publice School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Certificate",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "YouTube Video Performance Analysis",
+        "description": "Successfully utilized the YouTube Data API to collect video metadata and statistics, demonstrating API integration skills. Created interactive dashboards and reports to visualize analysis results using tools like Matplotlib and Seaborn, effectively communicating findings to stakeholders. Performed sentiment analysis on user comments and analyzed temporal trends using time series techniques to derive actionable insights.",
+        "keywords": [
+          "Python",
+          "YouTube API",
+          "Jupyter Notebook"
+        ],
+        "endDate": "Present",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Blockchain Crowdfunding Platform",
+        "description": "Facilitated direct user engagement with 20 or more fundraising campaigns via blockchain integration, Metamask pairing, and smart contract deployment. Engineered a secure and transparent fundraising environment, processing multiple seamless donations through Ethereum transactions.",
+        "keywords": [
+          "Solidity",
+          "Web3.js",
+          "React.js",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "Dec 2023",
+        "url": ""
+      },
+      {
+        "name": "Twitter Clone",
+        "description": "Crafted a feature-rich social media platform with social sign-in, tweeting, likes/hearts, comments/replies, profile edits, and drag & drop image uploads. Utilized cutting-edge technologies to create a high-quality product, resulting in a substantial 40% increase in user engagement metrics.",
+        "keywords": [
+          "React.js",
+          "Next.js",
+          "MongoDB",
+          "Tailwind CSS",
+          "NextAuth"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Sep 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Apprentice",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Medtronic",
+        "description": "Analyzed data trends and patterns to identify strategic opportunities, leading to the implementation of targeted interventions that improved market penetration. Collaborated cross-functionally to refine data collection methodologies, ensuring a 15% increase in data accuracy and reliability. Utilized strong analytical skills to identify key growth opportunities and recommend actionable solutions, contributing to a 5% increase in overall company revenue.",
+        "location": "Ghaziabad, U.P.",
+        "links": "",
+        "startDate": "Sep 2020"
+      },
+      {
+        "role_name": "Vocational Trainee",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Engineers India Limited",
+        "description": "Designed user-friendly web applications with 2 co-interns using .NET Framework (ASP.NET, C#) and Bootstrap. Ensured seamless user experience across multiple devices through responsive design. Managed more than 5 databases effectively using Oracle Database, ensuring integrity and security.",
+        "location": "Delhi HQ",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Frontend Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Apr 2023",
+        "company_name": "Kartexa",
+        "description": "Served as team leader for a team of 4 co-interns on projects, fostering teamwork and project success. Cultivated proficiency in HTML, CSS, JavaScript, React.js, and Bootstrap, crafting 2+ dynamic and responsive frontend interfaces for enhanced user engagement. Played a pivotal role in 2 significant and live projects, gaining invaluable hands-on experience in real-world web development scenarios.",
+        "location": "Remote, Ghaziabad, U.P.",
+        "links": "",
+        "startDate": "Feb 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C/C++",
+      "SQL",
+      "JavaScript",
+      "HTML/CSS",
+      "React",
+      "Node.js",
+      "Git",
+      "VS Code",
+      "Visual Studio"
+    ],
+    "soft_skills": [],
+    "name": "Ridhi Ranjan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Attained a SGPA of 9.3 in the second semester of studies.",
+      "Ranked 19th in College and 843rd All India in CodeKaze (Round 2) by Coding Ninjas, out of nearly 1.4 lakh participants."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

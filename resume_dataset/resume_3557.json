@@ -1,0 +1,150 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "LAKSHYA E",
+  "college": "Noida Institute of Engineering & Technology",
+  "locations": [
+    "Greater Noida",
+    "New Delhi",
+    "Gurgaon"
+  ],
+  "full_output": {
+    "summary": "Results-driven and detailed-orientated nal year student with a strong foundation in computer science and a passion for problem-solving through programming. Procient in Java , I have hands-on experience developing and implementing algorithms as well as creating ecient and scalable code.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Cloud Infrastructure & Foundation",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft AI Skills Challenge",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming: Arrays, Lists and Structured Data",
+        "issuer": "Coursera (Duke University)",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering & Technology",
+        "endDate": "07/2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.53",
+        "field_of_study": "Information Technology",
+        "startDate": "09/2022"
+      },
+      {
+        "school": "Govind Ballabh Pant Institute of Technology",
+        "endDate": "07/2019",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "Percentage -76.98",
+        "field_of_study": "Mechanical Engineering",
+        "startDate": "09/2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Animate X",
+        "description": "Developed an interactive web animation project using GSAP.Implemented animations like Scroll Trigger, Slick SVG, Cursor animations, Timeline, and Scrolling Features:Enhanced customer experience through dynamic animations.Responsive design for optimal viewing across devices.Improved user interaction with engaging animations.Followed a modular code structure for better maintainability and scalability.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js"
+        ],
+        "endDate": "01/2024",
+        "startDate": "10/2023",
+        "url": ""
+      },
+      {
+        "name": "End-to-end CI/CD Pipeline for Corporate DevOps",
+        "description": "Built a CI/CD pipeline using Jenkins, Docker, and SonarQube for automated build, test, and deployment. Set up a Kubernetes cluster for managing containers and scaling applications. Integrated security scanning and code quality checks to ensure safe and reliable code. Provided faster deployment and improved overall DevOps eciency.",
+        "keywords": [],
+        "endDate": "09/2024",
+        "startDate": "02/2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Service Engineer",
+        "skillsUsed": [],
+        "endDate": "01/2021",
+        "company_name": "Micromatic Machine tools Pvt. Ltd",
+        "description": "Installation & commissioning (CNC turning, VMC, HMC & grinding machines) Dealing with special breakdowns (automated tool changer, special purpose machines) Preventive maintenance, machine health checkup Maintaining the customer complaint track service log register",
+        "location": "Gurgaon",
+        "links": "",
+        "startDate": "08/2019"
+      },
+      {
+        "role_name": "Full Stack Intern",
+        "skillsUsed": [],
+        "endDate": "07/2023",
+        "company_name": "Parangat Technologies",
+        "description": "Contributed to the development of a Next.js 14-based dashboard at Parangat Technologies.Implemented key functionalities such as user authentication, dynamic routing, transaction management, and CRUD operations.Utilized MongoDB for data storage and management.Leveraged UI frameworks for a visually appealing and responsive interface.Successfully integrated SaaS tools to improve the dashboard's capabilities and overall eciency.Collaborated closely with design and development teams to ensure project success.",
+        "location": "",
+        "links": "",
+        "startDate": "06/2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.Js",
+      "Basic concepts of AI & ML",
+      "SQL",
+      "Cloud Platforms",
+      "API",
+      "Devops tools",
+      "Git",
+      "Data Structures & Algorithms",
+      "Testing Phases",
+      "SDLC"
+    ],
+    "soft_skills": [
+      "Efcient coding skills",
+      "Full stack expertise",
+      "Strong in developing ecient and scalable code.",
+      "Implemented authentication, routing, management, and CRUD.",
+      "DevOps pipeline development",
+      "Web animation expertise",
+      "Hands-on experience with Jenkins, Docker, and SonarQube.",
+      "Interactive animations using GSAP for web projects."
+    ],
+    "name": "LAKSHYA E",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

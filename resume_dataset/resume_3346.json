@@ -1,0 +1,169 @@
+{
+  "project_count": 5.0,
+  "designation": "HackerRank",
+  "name": "Saksham Bajaj",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "Logical and results-driven full stack developer dedicated to building and optimizing user-focused websites and applications. Judicious and creative when crafting effective websites, apps and platforms to propel competitive advantage and revenue growth. Technically proficient and analytical problem solver with calm and focused demeanor.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed The Course by Colt Steele. Acquired in-depth expertise in modern web development, resulting in a 25% increase in coding efficiency compared to the start of the program. Gained proficiency in HTML, CSS, Node.js, javascript, and various frameworks.",
+        "skillsLearned": [],
+        "title": "The Web Developer Bootcamp 2022",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.4 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "N.K Bagrodia Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "N.K Bagrodia Public School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "REAL TIME CHATROOM",
+        "description": "Built the application using React and Firebase. Integration of Google Account for secure login and logout. The app utilizes Firestore for data management and Firebase for real-time updates. CSS was used for UI, focusing on color, font, and layout for a user interface. Enhanced application throughput and reduced server load by implementing token bucket algorithm to control message transmission rates.",
+        "keywords": [
+          "Firebase",
+          "React"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "HTTPS://SAKSHAMBAJAJ.TECH"
+      },
+      {
+        "name": "YOUTUBE VIDEO SUMMARIZER",
+        "description": "Developed a web application using Streamlit and Google's GenAI API to summarize YouTube video transcripts into concise points. Implemented Input section for users to input YouTube video URLs and receive detailed summaries within 250 words. Integrated with YouTube Transcript API to extract text data from videos and utilized GenAI's Gemini model for content generation.",
+        "keywords": [
+          "Streamlit",
+          "GenAI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "LIVE COVID TRACKER FOR INDIA",
+        "description": "Utilizing multiple APIs for data integration to consolidate information from various sources. Used Data Synchronization algorithm and parsed the JSON responses from APIs, merging relevant data from them.",
+        "keywords": [
+          "API",
+          "Data Synchronization"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MUSIC PLAYER",
+        "description": "Used React Library for dynamic rendering of components to optimize resource utilization. CSS media queries were used to ensure responsive design, facilitating smooth animations using keyframes during screen adjustments or device rotations.",
+        "keywords": [
+          "React",
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "USER FILTER",
+        "description": "Developed the tool using JavaScript and API connections. This tool efficiently handles datasets with over 1000 + users by extracting JSON data and performing Linear search on it.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "WordPress",
+          "Elementor Pro",
+          "CSS",
+          "AJAX"
+        ],
+        "endDate": "01/2023",
+        "company_name": "Learning Routes",
+        "description": "Utilizing Elementor Pro for page building and custom CSS for a better user interface, primarily using WordPress with WPForms for contact forms. Additional plugins such as Autoptimize for script and style optimization, and Smush for image compression. These methods, combined have resulted in a 50% decrease in load time and a 30% boost in overall performance. Integrated plugins like All in One SEO which increased search engine rankings by 20-30% over a two-month period. The website experienced a substantial increase in traffic, reaching 30,000 visitors within a span of two months. Filters and Search option using Hash Indexing for quick Look up resulting in a 40-60% reduction in time as compared to previous method. Implemented a Split window feature using AJAX algorithm for the asynchronous loading of college data without requiring a full page refresh. This reduces the search time by 50%.",
+        "location": "",
+        "links": "https://askusedu.com",
+        "startDate": "10/2022"
+      }
+    ],
+    "skills": [
+      "JAVA",
+      "SQL",
+      "JAVASCRIPT",
+      "DSA",
+      "FIREBASE",
+      "React",
+      "Node.js",
+      "GIT",
+      "HTML",
+      "CSS",
+      "Wordpress",
+      "FIGMA"
+    ],
+    "soft_skills": [
+      "HIGHLY ORGANIZED",
+      "TEAMPLAYER",
+      "ADAPTABILITY",
+      "EFFECTIVE COMMUNICATION",
+      "EFFECTIVE PLANNER"
+    ],
+    "name": "Saksham Bajaj",
+    "position": "HackerRank",
+    "interests": [],
+    "achievements_and_awards": [
+      "Served as Team Leader in the Smart India Hackathon where we developed a website for students. Utilizing React for efficient rendering and filtering functionality using a binary search algorithm.",
+      "Successfully Created and Merged 4 Pull Request In Open Source"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2020.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

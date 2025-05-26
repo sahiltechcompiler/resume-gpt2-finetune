@@ -1,0 +1,112 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Siddhant Gurung",
+  "college": "Dr. A. P. J. Abdul Kalam Technical University",
+  "locations": [
+    "Lucknow, Uttar Pradesh",
+    "Remote",
+    "Ghaziabad, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A. P. J. Abdul Kalam Technical University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Lucknow, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "Nov. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Zero Interpreter",
+        "description": "Developing an interpreter for a programming language written in Go. Currently working on implementing expression parsing functionality. Prioritizing simplicity and readability in the language design. Supporting dynamic typing for enhanced flexibility. Clear roadmap for ongoing development and enhancements.",
+        "keywords": [
+          "GoLang"
+        ],
+        "endDate": "Ongoing",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Back-end",
+        "description": "Developed a feature-rich E-Commerce back-end encompassing user authentication, product catalog, shopping cart, checkout, and order management. Engineered a comprehensive E-Commerce back-end on Django, integrating MySQL for efficient database management. Used Celery to run background tasks, such as sending emails, efficiently utilizing SMTP4DEV. Utilized Redis for web page caching to enhance the loading speed of static endpoints. Implemented stress testing and profiling using Locust and Django Silk for website optimization.",
+        "keywords": [
+          "Python",
+          "Django",
+          "MySQL"
+        ],
+        "endDate": "July 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python Developer",
+        "skillsUsed": [
+          "Python",
+          "SQL",
+          "SQLite3"
+        ],
+        "endDate": "Nov 2023",
+        "company_name": "Aagam Shah & Associates",
+        "description": "Applied SOLID principles and object-oriented programming (OOP) concepts to ensure modular and scalable design of options trading algorithms in Python. Used SQL along with SQLite3 to store and retrive data. Integrated trading algorithms with brokerage APIs for seamless execution. Wrote Integration Tests and YAML Maifests for Github Actions. Engineered a robust backtesting module in Python to assess and refine options trading strategies.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Python Developer",
+        "skillsUsed": [
+          "Django",
+          "Django REST Framework"
+        ],
+        "endDate": "Present",
+        "company_name": "Computer Society of India",
+        "description": "Worked with Django and Django REST Framework to develop robust and scaleable backend. Created REST APIs to retrieve and display data from databases. Troubleshot and fixed bugs and issues in the backend to ensure smooth operation of the applications. Held and managed a competitive programming workshop and contest with 150+ participants. Was part of a team of 45 cross-functional coworkers.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Nov 2021"
+      },
+      {
+        "role_name": "Unity Developer",
+        "skillsUsed": [
+          "Unity",
+          "C#"
+        ],
+        "endDate": "Present",
+        "company_name": "Center of Metaverse",
+        "description": "Worked on Unity 2D, Unity 3D and Unity AR engines. Wrote clean C# code and collaborated with team members using version control systems such as Git to organize modifications and assign tasks. Helped in laying down the basic organisational framework as one of the founding members from second year.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Jun 2022"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Siddhant Gurung",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 5th position out of 500 participants in the Hackoverflow Hackathon at IIT Jodhpur.",
+      "Secured a Global rank of 51 in the Codechef Starters 80 Division 3 (Rated) out of 4k+ participants.",
+      "Secured rank 101 out of 7k+ in Convolve-A ML/AI Hackathon by Cisco and with 6 IITs.",
+      "Secured rank 327 out of 6500 teams in the Amazon ML Challenge 2023."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

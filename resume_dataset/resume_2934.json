@@ -1,0 +1,163 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "Gaurav Nikam Sangopan",
+  "college": "Government College of Engineering, Karad",
+  "locations": [
+    "Pune, Maharashtra",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Government College of Engineering, Karad",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA, 8.71",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Mahatma Phule Jr. College Kukane",
+        "endDate": "May 2020",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Certificate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "MHT-CET, 96.31",
+        "field_of_study": "",
+        "startDate": "July 2019"
+      },
+      {
+        "school": "Z. P. Kakani Vidyalaya, Malegon",
+        "endDate": "May 2018",
+        "maximum_grade": "",
+        "degree": "Secondary School Certificate",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "percentage, 93.00",
+        "field_of_study": "",
+        "startDate": "July 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Scoda: C++ Backend Framework",
+        "description": "Developed a C++ framework that allows user to build lightning fast backend applications using C++. The framework can handle large sums of data and is 30% faster than the nodejs backends (tested with payload of 1000 datapoints). The framework uses BST for routing, strings for comparison and queues for event loops.",
+        "keywords": [
+          "C++",
+          "Cmake"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Code"
+      },
+      {
+        "name": "Docter Booking System",
+        "description": "Developed a scalable booking system backend using Node.js and Docker for containerization. Implemented RESTful APIs for seamless communication between frontend and backend components. Secured user authentication and authorization mechanisms using JWT tokens. Utilized MongoDB or PostgreSQL for efficient data storage and management. Ensured reliability and performance through robust error handling, logging, and thorough testing.",
+        "keywords": [
+          "Nodejs",
+          "JavaScript",
+          "MongoDB",
+          "Docker"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Code"
+      },
+      {
+        "name": "Elective Subject Selection Project",
+        "description": "An Full stack Web application that allows students to choose elective subjects for their academic year. First admin adds students for specific years and courses related to that year then students belonging to that year can select elective from their pool of available courses. There are APIs for authentication, authorization, Adding Students, Admin and elective subjects and relational mapping between student course and year.",
+        "keywords": [
+          "Reactjs",
+          "Nodejs",
+          "Express",
+          "MongoDB",
+          "Redux",
+          "Google Cloud",
+          "Docker"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [
+          "C#",
+          ".net",
+          "Windows Presentation Foundation"
+        ],
+        "endDate": "present",
+        "company_name": "Renishaw Metrology System Ltd.",
+        "description": "Collaborated with the team of more than 10 members addressing to the UI/ UX requirements of Renishaw. Delivered products with built in localization, dynamic UI and UI automation. Build Desktop applications for high DPI screen incorporating the Model-View-ViewModel(MVVM) architecture. Utilized C#, .net and Windows Presentation Foundation to build various Desktop application for company products. Built a Notification mechanism user interface for desktop applications using .net 6 and WPF.",
+        "location": "Pune, Maharashtra",
+        "links": "",
+        "startDate": "January 2024"
+      },
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [
+          "Java",
+          "OOPS",
+          "Linux",
+          "DSA"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Persistent Systems",
+        "description": "Involved in a 7-week learning and self-development program designed by Persistent Systems. Acquired a deep knowledge of Java, OOPS, Linux, DSA database management system.",
+        "location": "Remote",
+        "links": "Certificate",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "GO",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "C#",
+      "MongoDB",
+      "MySQL",
+      "PostGres",
+      "SQL",
+      "VS Code",
+      "Eclipse",
+      "Google Cloud Platform",
+      "Docker",
+      "Linux",
+      "Entity Framework",
+      "Git",
+      "Reactjs",
+      "GitHub",
+      "Nodejs",
+      "Windows Presentation Foundation (WPF)"
+    ],
+    "soft_skills": [],
+    "name": "Gaurav Nikam Sangopan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "GCEKhackathon 2022 Gold Medalist",
+      "3 Star at Codechef Rating (1649)",
+      "GATE 2023 Qualified",
+      "Amazon ML Summer School 2022",
+      "Satara Zonal 2022 Chess General Championship Winner"
+    ],
+    "publications": []
+  },
+  "current_location": "Malegaon, Maharashtra, India 423203",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

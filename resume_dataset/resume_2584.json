@@ -1,0 +1,147 @@
+{
+  "project_count": 4.0,
+  "designation": "Full Stack Developer",
+  "name": "Sandeep Verma",
+  "college": "Dr. APJ Abdul Kalam Technical University",
+  "locations": [
+    "Lucknow, Uttar Pradesh",
+    "Noida, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "Full Stack Developer with 8 months of experience in both frontend and backend development. Proficient in JavaScript, Python, and PHP, specializing in building robust web applications with responsive user interfaces. Passionate about staying updated with emerging technologies and contributing to collaborative team environments.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Full Stack",
+        "issuer": "Ducat Training Institute",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "Internshala",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Practical Approach",
+        "issuer": "IIT Kanpur",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam Technical University",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Lucknow, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.5",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Job Portal",
+        "description": "An interview page where the admin can create an interview by selecting participants, start and end time. An interviews list page where admin can see all the upcoming interviews.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "Database - MongoDB",
+          "IDE - VS Code"
+        ],
+        "endDate": "In Progress",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Drive-Sharing",
+        "description": "Developed three interfaces: Admin, Team Lead, User. Admin: Create/manage users, Assign Team Leads and Track all file and folder activities. Team Lead: See details about user in same Department, Share files/folders within department. User: Share files/folders with all users. I Independently designed the database and developed the website.",
+        "keywords": [
+          "Laravel",
+          "MySql",
+          "Javascript",
+          "Html",
+          "Css"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Job Shiksha",
+        "description": "Develop the front-end of Job Shiksha. Admin: Add Module Sortlist, Reject and Placed status and list of the applied Candidate.",
+        "keywords": [
+          "Laravel",
+          "Mysql",
+          "Html",
+          "Css"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Video watch time saver",
+        "description": "Python project for use to save our video watch time with video description.",
+        "keywords": [
+          "Python",
+          "JSON",
+          "Sqlite",
+          "MongoDB"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Associate Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Current",
+        "company_name": "Infotiqq Pvt. Ltd.",
+        "description": "Develop and maintain backend functionalities, ensuring seamless integration with frontend systems. Collaborate with frontend teams to implement UI changes and enhance user experience. Troubleshoot and resolve backend issues to ensure system reliability and performance. Implement security measures and best practices to safeguard data integrity and user privacy. Continuously learn and adapt to new technologies to drive innovation and efficiency in backend development.",
+        "location": "Noida, Uttar Pradesh",
+        "links": "",
+        "startDate": "11 2023"
+      }
+    ],
+    "skills": [
+      "PHP",
+      "Python",
+      "Javascript",
+      "HTML5",
+      "CSS3",
+      "Laravel",
+      "Bootstrap",
+      "Basic Django",
+      "Basic Node js Server",
+      "Mysql",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Sandeep Verma",
+    "position": "Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Noida, Uttar Pradesh",
+  "graduation_year": 2023.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

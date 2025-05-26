@@ -1,0 +1,115 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shrihari Chaurasia",
+  "college": "Madan Mohan Malviya University Of Technology",
+  "locations": [
+    "Gorakhpur, UP",
+    "Gurugram, HR",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "NSS Member Member Jan 2021 - Present Madan Moahan Malviya University Of Technology Led chapter of 30+ members to work towards goals that improve and promote community service, academics, and unity."
+    ],
+    "education": [
+      {
+        "school": "Madan Mohan Malviya University Of Technology",
+        "endDate": "July 2024",
+        "maximum_grade": "10.00",
+        "degree": "B.Tech",
+        "location": "Gorakhpur, UP",
+        "ID": 0.0,
+        "grade_received": "7.91",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "November 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "MedEase",
+        "description": "Developed and engineered a web-based doctor appointment system application, employing React.js for the frontend and Node.js with Express.js for a robust backend, fortified by JWT-based user authentication. Effectively oversaw data storage via MongoDB, intricately woven together using the MongoDB Node.js driver and Mongoose for seamless data management. Doctor Panel has functionality encompasses the ability to accept or reject appointment requests from users and manage their availability profiles. Admin Panel has functionality to verify Users and Doctors.",
+        "keywords": [
+          "React Js",
+          "Node Js",
+          "Express Js",
+          "Mongo DB"
+        ],
+        "endDate": "",
+        "startDate": "April 2023",
+        "url": "Project Github Link"
+      },
+      {
+        "name": "Realtime Chat App",
+        "description": "Full-stack based web application which allow users to chat in real time and seamless communication. Socket.io ensures low-latency, bidirectional communication for real-time updates and interactions. MongoDB efficiently stores chat data, ensuring scalability and high performance.",
+        "keywords": [
+          "Reactjs",
+          "NodeJs",
+          "Expressjs",
+          "MongoDB",
+          "Socket io"
+        ],
+        "endDate": "",
+        "startDate": "August 2023",
+        "url": "Project Github Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software engineer Intern",
+        "skillsUsed": [
+          "Node.js",
+          "Express",
+          "TypeScript",
+          "MongoDB",
+          "SQL"
+        ],
+        "endDate": "Current",
+        "company_name": "Insurancedekho ( Cardekho )",
+        "description": "Architected and implemented high-performance APIs using Node.js and Express. Improved code quality by integrating TypeScript, ensuring robust type-checking and reducing runtime errors. Managed and optimized databases using MongoDB and SQL, utilizing phpMyAdmin for efficient administration. Collaborated with stakeholders to develop tailored solutions and integrate insurer APIs. Maintained and updated the company website to ensure optimal performance and user experience.",
+        "location": "Gurugram, HR",
+        "links": "",
+        "startDate": "March 2024"
+      },
+      {
+        "role_name": "Full stack developer Intern",
+        "skillsUsed": [
+          "Node.js",
+          "React.js",
+          "WhatsApp Business API"
+        ],
+        "endDate": "March 2024",
+        "company_name": "Uprise solutions Pvt. Ltd. (MeetUniversity.com)",
+        "description": "Developed APIs in Node.js, designed databases, and created user interfaces in React.js for a platform utilizing WhatsApp Business API. Integrated chatbot functionalities to assist MSMEs (Micro, Small, and Medium Enterprises) with automated customer interactions. Ensured the delivery of high-quality, scalable, and reliable software solutions by adhering to Software Development Life Cycle (SDLC) best practices. Optimized system performance, scalability, and security to provide robust solutions for end-users.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "October 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "HTML",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Shrihari Chaurasia",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked 1367 out of 100k+ in codekaze by Coding Ninjas.",
+      "Among the top 150 out of over 3000 users on GeeksforGeeks, theres a significant position held in the coding legacy of this college.",
+      "Solved 380+ DSA problems on geeksforgeeks",
+      "Solved 300+ DSA problems on LeetCode"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

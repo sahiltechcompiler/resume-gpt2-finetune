@@ -1,0 +1,101 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Faizan Ahamad Khan",
+  "college": "Mumbai University",
+  "locations": [],
+  "full_output": {
+    "summary": "A tech-savvy individual with Pursuing a Bachelor's degree in Artificial Intelligence and Data Science . Passionate about learning and consistently advancing my knowledge and skills. I am having a problem solving ability which i consistently improving.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharashtra State Board Of Technical Education",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": "2018"
+      },
+      {
+        "school": "Mumbai University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hand Written Digit Prediction And Classification",
+        "description": "In this project the main objective is to read the digit of 8x8 pixel image and predict the digit . It involves dataset of images and random forest model which gives 0.91 accuracy for F1_score i.e. 91% accuracy .",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bank Customer Churn Model",
+        "description": "In this project the main objective is to predict the relationship between bank and customer . I have used support vector machine which gives 0.84 accuracy for F1_score i.e. 84% accuracy.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blog website using MERN",
+        "description": "In this project the main objective is to develop a website for bloggers .I have made this project during my learning period of ReactJS . I have used Material UI for the elements.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Online Marketing Internship",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "For Communication Development",
+        "description": "Online Internship In Machine Learning",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Basic of core Java",
+      "Intermediate of Python",
+      "Basic of SQL",
+      "Basic of JavaScript",
+      "Basic of HTML/CSS",
+      "React",
+      "Flask",
+      "Material-UI",
+      "Basic's of Machine Learning",
+      "Pandas",
+      "NumPy",
+      "HTML",
+      "CSS",
+      "Matplotlib"
+    ],
+    "soft_skills": [],
+    "name": "Faizan Ahamad Khan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor"
+}

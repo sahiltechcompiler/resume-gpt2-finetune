@@ -1,0 +1,107 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "JAGROOP SINGH",
+  "college": "GTBIT, GGSIPU",
+  "locations": [
+    "NEW DELHI",
+    "DELHI INDIA ,110033"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NORTH DELHI PUBLIC SCHOOL",
+        "endDate": "30/07/2021",
+        "maximum_grade": "",
+        "degree": "Class 12",
+        "location": "NEW DELHI",
+        "ID": 0.0,
+        "grade_received": "74.5 %",
+        "field_of_study": "",
+        "startDate": "30/07/2020"
+      },
+      {
+        "school": "GTBIT, GGSIPU",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "NEW DELHI",
+        "ID": 1.0,
+        "grade_received": "7.192",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather Web Application",
+        "description": "Weather Application - A Responsive Static Web Page It displays users weather details and provide weather details of user by searching city name.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SNAKE GAME",
+        "description": "Implemented a classic Snake Game using HTML, CSS, and JavaScript. The game features a snake controlled by arrow keys, with the objective of eating food pellets to grow longer. The snake's movement increases in speed as it consumes food, posing a challenge to the player. Basic level progression logic is incorporated, where the difficulty level increases by 5 score increments. This project honed my skills in front-end web development, particularly in JavaScript game development. It showcases my ability to create interactive and engaging web applications while employing fundamental programming concepts such as event handling, DOM manipulation, and game logic implementation.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://snakeexennia.netlify.app/"
+      },
+      {
+        "name": "YOUTUBE CLONE",
+        "description": "It showcases attention to detail in replicating the design and functionality of a well-known web platform, highlighting skills in front-end development and user experience design.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CURRENCY CONVERTOR",
+        "description": "The Currency Converter Project demonstrates proficiency in front-end web development technologies, API integration, and real-time data processing. It showcases the ability to create interactive and practical web applications that fulfill user needs efficiently.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://currency-convertor57.netlify.app/"
+      }
+    ],
+    "languages": [
+      "ENGLISH",
+      "HINDI",
+      "PUNJABI"
+    ],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Data Structures",
+      "HTML5",
+      "CSS",
+      "OOPS Concepts",
+      "Java",
+      "react",
+      "Javascript",
+      "dom",
+      "Sql(basic)",
+      "Software Engineering",
+      "Problem Solving"
+    ],
+    "soft_skills": [],
+    "name": "JAGROOP SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "DELHI INDIA ,110033",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

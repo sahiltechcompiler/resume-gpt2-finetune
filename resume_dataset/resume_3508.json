@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "FRONTEND DEVELOPER",
+  "name": "Aswin G K",
+  "college": "Karunya Institute of Technology and Sciences (Deemed University)",
+  "locations": [
+    "Kanyakumari",
+    "Coimbatore",
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "Passionate tech enthusiast and student at Karunya Institute of Technology and Science, Proficient in frontend development for web,mobile,and desktop platforms. With a keen eye for detail and a drive for excellence, I excel at translating ideas into innovative solutions that meet user needs effectively. Proficient in a variety of programming languages and frameworks.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web3",
+        "issuer": "TEACHNOOK",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP: Programming Essentials in Python",
+        "issuer": "CISCO",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Karunya Institute of Technology and Sciences (Deemed University)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.TECH",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "6.78",
+        "field_of_study": "COMPUTER SCiENCE AND ENGiNEERiNG",
+        "startDate": ""
+      },
+      {
+        "school": "Shephered Matric Higher Secondary School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83",
+        "field_of_study": "BiO MATHS",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Facial Emotion Recognition",
+        "description": "Developed and optimized facial emotion recognition algorithms using machine learning techniques, improving recognition accuracy by 20. Collaborated with crossfunctional teams to integrate facial emotion detection capabilities into consumerfacing mobile apps, enhancing user engagement by providing dynamic content based on emotional cues. Conducted extensive data analysis and model training using Python and TensorFlow to interpret complex emotional data from facial expressions. Led the initiative to implement realtime emotion detection, which significantly boosted the interactivity of virtual meetings and online learning platforms. Authored a quarterly newsletter on the progress and potentials of emotion recognition technology, sharing insights and latest trends with stakeholders and project teams.",
+        "keywords": [],
+        "endDate": "Apr 2025",
+        "startDate": "Aug 2021",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis on Twitter",
+        "description": "Led the design and implementation of a sentiment analysis system to monitor realtime public sentiment on Twitter, focusing on brand perception for key clients in the tech industry. Created dynamic dashboards using Tableau to visualize sentiment trends over time, which enabled clients to respond promptly to customer feedback and adjust marketing strategies accordingly. Successfully enhanced client understanding of consumer sentiment, leading to a 20 increase in customer satisfaction scores after strategy adjustments based on analysis insights.",
+        "keywords": [],
+        "endDate": "Feb 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      },
+      {
+        "name": "Workout Tracker",
+        "description": "Implemented computer vision algorithms using OpenCV to detect and recognize different workout exercises, including pushups, pullups, squats, and walking. Utilized TensorFlow for machine learningbased pose estimation to accurately count repetitions and assess exercise form. Designed a userfriendly interface using Tkinter for easy navigation and interaction with the application. Integrated features for realtime feedback and visualizations to provide users with insights into their workout performance.",
+        "keywords": [],
+        "endDate": "Nov 2022",
+        "startDate": "Oct 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "WEB DEVELOPER INTERN",
+        "skillsUsed": [],
+        "endDate": "Feb 23",
+        "company_name": "Teachnook",
+        "description": "Developed a basic chat application utilizing Web 3 technology, leveraging blockchain for secure and decentralized messaging.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "Jan 23"
+      },
+      {
+        "role_name": "PYTHON PROGRAMMER INTERN",
+        "skillsUsed": [],
+        "endDate": "May 2022",
+        "company_name": "CISCO",
+        "description": "Developed Python functions to validate both IPv4 and IPv6 subnet addresses, ensuring proper formatting and adherence to subnet mask/prefix length constraints. Implemented checks for subnet mask/prefix length validity, verifying that they fall within the acceptable ranges (IPv4: 132, IPv6: 1128). Validated network and broadcast addresses within the specified subnet ranges, ensuring accuracy and reliability in subnet calculations and networking tasks.",
+        "location": "Virutal",
+        "links": "",
+        "startDate": "Jan 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "AngularJS",
+      "NodeJS",
+      "HTML",
+      "CSS",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Decision Making",
+      "Communication",
+      "Teamwork",
+      "ProblemSolving Skills",
+      "Adaptability"
+    ],
+    "name": "Aswin G K",
+    "position": "FRONTEND DEVELOPER",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Kanyakumari",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.TECH"
+}

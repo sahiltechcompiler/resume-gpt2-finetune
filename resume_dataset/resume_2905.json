@@ -1,0 +1,120 @@
+{
+  "project_count": 2.0,
+  "designation": "EDUCATOR",
+  "name": "Piyush Tiwari",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Rohini, Delhi",
+    "Bhind, Madhya Pradesh"
+  ],
+  "full_output": {
+    "summary": "Currently pursuing my B.Tech in Electrical Engineering with a 70.79 % score. Proficient MERN stack Developer skilled in React.js, MongoDB, Post man, Node.js, and Express, demonstrated through impactful projects. Recognized for academic excellence, leadership in extracurricular activities, outstanding problemsolving abilities, and notable achievements in both sports and academics.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.TECH.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Percentage70.88%",
+        "field_of_study": "INFORMATiON TECHNOLOGY",
+        "startDate": ""
+      },
+      {
+        "school": "City Central School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage70%",
+        "field_of_study": "CLASS XII",
+        "startDate": "Mar. 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gym Website WebApp",
+        "description": "Developed: a fullstack Gym enquiry web application using the React js,Node and Express achieving a 50% increase in efficiency for loading queries and managing bookings. Key Features: This helps in handling queries through direct gmail queries.",
+        "keywords": [
+          "React.js",
+          "Express",
+          "Node"
+        ],
+        "endDate": "2024",
+        "startDate": "Nov. 2021",
+        "url": "Github"
+      },
+      {
+        "name": "Restaurants WebApp",
+        "description": "Engineered: Developed a dynamic and userfriendly restaurant booking web application using the MERN stack (MongoDB, Express, React.js, and Node.js). The application allows users to browse restaurants, view available tables, and make reservations seamlessly. Key Features: Utilized as the database to store user information, restaurant details, and booking data.",
+        "keywords": [
+          "React.js",
+          "Express",
+          "Node.js",
+          "Mongodb",
+          "JWT Tokens"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "Feb 2023",
+        "url": "Github"
+      }
+    ],
+    "languages": [
+      "C++",
+      "JavaScript",
+      "HTML"
+    ],
+    "experiences": [
+      {
+        "role_name": "EDUCATOR",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "Inspiration Academy",
+        "description": "Contributed to the development of the students. Worked on: Tech part of the Academy. Implemented: ContactUs Form using JavaScript for showing user credentials,Feed form for the parents.",
+        "location": "Onsite",
+        "links": "",
+        "startDate": "Oct 2022"
+      },
+      {
+        "role_name": "COMPUTER SCIENCE EDUCATOR",
+        "skillsUsed": [],
+        "endDate": "Jun 2023",
+        "company_name": "Chegg",
+        "description": "Worked on: Resolved Student Doubts in Computer Science through online platform. Solved: 400+ question based on Data Structure and WebDevelopment. Mentored: Over 100+ students as a CheggEducator.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Mar 2023"
+      }
+    ],
+    "skills": [
+      "React.js",
+      "CSS",
+      "Bootstrap",
+      "Git",
+      "GitHub",
+      "Node.js",
+      "Express.js",
+      "Sockets",
+      "MongoDB",
+      "Postman",
+      "Thunder client",
+      "Google meet",
+      "One note",
+      "google docs"
+    ],
+    "soft_skills": [],
+    "name": "Piyush Tiwari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.TECH."
+}

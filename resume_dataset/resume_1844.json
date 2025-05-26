@@ -1,0 +1,211 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "BARATAM SNEHITH",
+  "college": "GMR Institute Of Technology",
+  "locations": [
+    "Vishakapatnam"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction Through Machine Learning",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "UX Design",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence",
+        "issuer": "Wipro Future Skills",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Foundations",
+        "issuer": "AWS Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Video Graphics Lead",
+        "issuer": "GMR Institute Of Technology",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Developer Students Club",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GMR Institute Of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "6.14/10 CGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "7.55/10 CGPA",
+        "field_of_study": "MPC",
+        "startDate": "2018"
+      },
+      {
+        "school": "Bhashyam High School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.3/10 CGPA",
+        "field_of_study": "Secondary Education",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Image Denoising Using Deep Learning",
+        "description": "Denoising images is crucial for enhancing resolution, pixel count, and contrast, ensuring pleasant visual experiences. Techniques like Autoencoder CNN and Matrix Factorization U-net (MFU) are employed for noise removal. Autoencoder CNN focuses on increasing network width rather than depth for improved denoising. Proposed work involves implementing Autoencoder CNN and MFU on Synthetic Gaussian Noise dataset.",
+        "keywords": [
+          "Python",
+          "Deep Learning",
+          "Flask",
+          "Html",
+          "Css"
+        ],
+        "endDate": "March 2023",
+        "startDate": "Nov 2022",
+        "url": ""
+      },
+      {
+        "name": "Osteoporosis Diagnosis through Segmentation and Classification",
+        "description": "A prevalent bone disorder characterized by reduced bone density and increased susceptibility to fractures. Integration of Transformers for intricate visual segmentation of digital knee X-ray images. Employing pre-trained models like VGG-19, U-Net, and RESNET for feature extraction. Integration of pre-trained models and transfer learning techniques to discern variations in osteoporosis severity.",
+        "keywords": [
+          "Deep Learning",
+          "Flask"
+        ],
+        "endDate": "March 2024",
+        "startDate": "Nov 2023",
+        "url": ""
+      },
+      {
+        "name": "Company Management System",
+        "description": "A company management system using JSP (JavaServer Pages) and Servlets is a web-based application designed to help manage various aspects of a companys operations. The application typically interacts with a relational database management system (RDBMS) such as MySQL or Oracle for storing and retrieving data related to employees, customers, products, transactions, etc.",
+        "keywords": [
+          "Java",
+          "JSP",
+          "Servlets",
+          "Oracle",
+          "Html",
+          "Css"
+        ],
+        "endDate": "Oct 2023",
+        "startDate": "June 2023",
+        "url": ""
+      },
+      {
+        "name": "Todo-App Using Mern Stack",
+        "description": "The MERN Todo App utilizes MongoDB for scalable data storage and Express.js for efficient backend API development, enabling CRUD operations. React.js powers the dynamic frontend interface with React components, while Node.js manages concurrent requests for optimal performance and scalability.",
+        "keywords": [
+          "React",
+          "Tailwind CSS",
+          "Express js",
+          "Node Js",
+          "Mongo Db"
+        ],
+        "endDate": "Apirl 2024",
+        "startDate": "Mar 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack In Java Intern",
+        "skillsUsed": [
+          "Java",
+          "JSP",
+          "Servlets",
+          "Oracle",
+          "Html",
+          "CSS"
+        ],
+        "endDate": "October 2023",
+        "company_name": "TopNotch Software Solutions",
+        "description": "Created dynamic applications using core and advanced Java concepts in Eclipse IDE. Developed entire web pages for projects using JSP and Servlets, with data stored in Oracle database. Java Concepts used: Html And CSS for Frontend, JSP And Servlets for backend, Oracle for storage.",
+        "location": "Vishakapatnam",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "Java",
+      "Python",
+      "Machine Learning",
+      "Node.js",
+      "Express.js",
+      "Flask",
+      "React",
+      "Bootstrap",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "MySQL",
+      "MongoDB",
+      "Postman",
+      "VS Code",
+      "Eclipse",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "BARATAM SNEHITH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

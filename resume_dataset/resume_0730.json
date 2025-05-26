@@ -1,0 +1,161 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Taru Pathak",
+  "college": "Dr. APJ Abdul Kalam Technical University (AKTU)",
+  "locations": [
+    "Ghaziabad, India",
+    "Remote",
+    "On-site"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam Technical University (AKTU)",
+        "endDate": "Ongoing",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "CGPA of 7.5",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": "November 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Funds4Good",
+        "description": "Developed a frontend for offering low/zero interest loans and charity money to those in need. Users can bookmark, view loan requests, apply with reasons, and validate recipients using identity proofs.",
+        "keywords": [
+          "Next.js",
+          "Tailwind CSS",
+          "Axios"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "BlogSphere",
+        "description": "Developed a fullstack blog website enabling users to read, create, and edit blogs with secure JWT token-based authentication. Utilized React Router for seamless navigation and provided RESTful APIs for efficient data management.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Shopify",
+        "description": "Developed a fullstack shopping website with CRUD features, React Router DOM, JWT authentication, RESTful APIs, and MongoDB for data storage.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github-Frontend Link | Github-Backend Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "Ongoing",
+        "company_name": "Tailor-Talk",
+        "description": "Developed a dashboard with Next.js and Tailwind CSS for creating organizations and WhatsApp-interacting agent bots, integrating chat bots. Built the main website for Tailor Talk.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "Neolen",
+        "description": "Created an MVP dashboard where users can launch campaigns and ads similar to Meta campaigns using Next.js and Tailwind CSS, and designed the UI using Figma. Developed a second website for email warming using the Django MVT model.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "October 2023"
+      },
+      {
+        "role_name": "React Developer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "LocalVille",
+        "description": "Developed an e-commerce website for Tiles using React JS and also created the main website for LocalVille with the same technology.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Frontend Developer and UI/UX Designer",
+        "skillsUsed": [],
+        "endDate": "January 2023",
+        "company_name": "SRL Life",
+        "description": "Developed the SRL Life website interface using WordPress and Elementor, seamlessly integrating Figma for cohesive design.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "November 2022"
+      },
+      {
+        "role_name": "Cloud Computing Cell Co-ordinator and FullStack Developer",
+        "skillsUsed": [],
+        "endDate": "Ongoing",
+        "company_name": "",
+        "description": "Collaborating with a 45-member team to foster technical initiatives at the college and oversee diverse projects. Conducting diverse workshops on ReactJS and Python, providing instruction to over 150+ students.",
+        "location": "On-site",
+        "links": "",
+        "startDate": "November 2022"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Git/GitHub",
+      "Node.js",
+      "React.js",
+      "Next.js",
+      "Redux",
+      "Express.js",
+      "Figma",
+      "Wireframing",
+      "Canva",
+      "Adobe Photoshop",
+      "HTML/CSS",
+      "Bootstrap",
+      "Tailwind CSS",
+      "Wordpress",
+      "Elementor",
+      "MongoDB",
+      "Data Structures and Algorithm"
+    ],
+    "soft_skills": [],
+    "name": "Taru Pathak",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "4th Rank at CodeX24- a national level hackathon and Grand Finalist in a National level hackathon Paradigm.",
+      "Secured qualification in the internal hackathons of SIH 2023 and Kavach 2023, surpassing more than 100 college teams.",
+      "Solved 250+ problems across various platforms and completed streak of 100 DSA problems on LeetCode."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 5.0,
+  "degree": "Bachelor of Technology"
+}

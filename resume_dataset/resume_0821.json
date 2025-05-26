@@ -1,0 +1,122 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Aryan Singh",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida"
+  ],
+  "full_output": {
+    "summary": "Final-year BTech IT student with hands-on experience in web technologies, machine learning, and game development. Skilled in Java, Python, JavaScript, and SQL, with a strong background in core development from an internship at Coding Ninjas. Proficient in building and optimizing web and 3-D applications using React-three, Next.js, and Tailwind CSS. Passionate about solving DSA problems on LeetCode and active participant in hackathons. Adept at learning new technologies and applying them to real-world projects, with a keen interest in cloud computing and AI.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Ram-Eesh International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XII - Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "3-D Simulator",
+        "description": "Developed a 3-D simulator featuring a vehicle with physics-based movement and interactions. Utilized React-three for 3D rendering, Next.js for application framework, and Tailwind CSS for responsive design.",
+        "keywords": [
+          "React",
+          "Next-JS",
+          "javascript"
+        ],
+        "endDate": "2021",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "PlantPedia",
+        "description": "AI-powered plant classification system that uses a convolutional neural network (CNN) to identify plant species from images, providing a user-friendly tool for plant identification.",
+        "keywords": [
+          "Java",
+          "TensorFlow",
+          "Python",
+          "Flask",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Developer",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "Coding Ninjas",
+        "description": "Contributed to core development projects, implementing and optimizing features, debugging, and enhancing the performance of applications. Collaborated with cross-functional teams to deliver high-quality solutions and ensure code efficiency. Worked on critical development tasks, including feature implementation, performance optimization, and bug fixing. Collaborated with team members to enhance application functionality and code quality, contributing to successful project deliveries and maintaining high standards of software development.",
+        "location": "",
+        "links": "",
+        "startDate": "December 2023"
+      },
+      {
+        "role_name": "Location-Based Technology Intern",
+        "skillsUsed": [],
+        "endDate": "August 2022",
+        "company_name": "Interns pedia",
+        "description": "Assisted in developing and optimizing location-based services and applications. Worked on integrating geolocation features, enhancing user experience through accurate location tracking, and analyzing location data to improve functionality and performance of location-based solutions.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2022"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "React",
+      "MySQL",
+      "GCP",
+      "AWS",
+      "Python",
+      "Core Java",
+      "SpringBoot",
+      "Servlet",
+      "JSP",
+      "Github",
+      "IntelliJ Idea",
+      "Eclipse",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "Aryan Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "AWS - Amazon Cloud Foundaton",
+      "GFG - Participated in Hackathon",
+      "Leetcode - Solved over 100+ questions on Data Structure"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

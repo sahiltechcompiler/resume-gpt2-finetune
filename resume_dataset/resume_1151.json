@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Asmit Aryan",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Patna, India",
+    "Kanpur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "August 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "7.01 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "B D Public School",
+        "endDate": "May 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Patna, India",
+        "ID": 1.0,
+        "grade_received": "79 %",
+        "field_of_study": "",
+        "startDate": "May 2018"
+      },
+      {
+        "school": "Don Bosco Academy",
+        "endDate": "March 2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Patna, India",
+        "ID": 2.0,
+        "grade_received": "80.04 %",
+        "field_of_study": "",
+        "startDate": "March 2006"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Tweet Sphere",
+        "description": "Designed and developed a real time Notice Board/ Current or Upcoming event updation system using HTML, CSS, JavaScript, PHP for own college students to get On-time and centralised updates about events happening within the college campus. Implemented features such as Real-time updates and notifications, User-friendly interface with responsive design, Encrypted user credentials storage are executed in the application.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Pagalpanti-A-toy-programming-language",
+        "description": "Pagalpanti is a simple toy programming language implemented in JavaScript. This project showcases key programming concepts including variable declaration and initialization, print statements for console output, basic arithmetic operations, conditional statements for executing code based on specific conditions, and looping constructs for implementing iterative processes.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "X.com - UI Clone",
+        "description": "Utilized Tailwind CSS: Leveraged the utility-first framework to efficiently style and design the user interface. Responsive Design: Ensured the UI is fully responsive and looks good on various devices, including desktops, tablets, and mobile phones. Component-Based Architecture: Created reusable and modular components for the UI to maintain consistency and ease of maintenance.",
+        "keywords": [
+          "HTML",
+          "Tailwind CSS"
+        ],
+        "endDate": "July 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Indian Institute of Technology Kanpur Language and Cognition Lab",
+        "description": "Data Accuracy and Task Execution.",
+        "location": "Kanpur, India",
+        "links": "",
+        "startDate": "January 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "C++",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "MongoDB",
+      "MySQL",
+      "VS Code",
+      "IntelliJ Idea",
+      "GitHub CodeSpace",
+      "Git",
+      "React",
+      "Node.JS",
+      "Express.JS",
+      "Tailwind CSS",
+      "EJS",
+      "BootStrap5"
+    ],
+    "soft_skills": [],
+    "name": "Asmit Aryan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,140 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "ASHMIT PANDEY",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Organized an anti-ragging drive which led to an increase in ragging awareness by 30%"
+    ],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.TECH",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "City Montessori School, Lucknow",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "ISC",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Abstract Image Generator",
+        "description": "Used adversarial networks to create an abstract image generator. Successfully generated abstract images of size 256x256 pixels.",
+        "keywords": [
+          "Python",
+          "Jupyter Notebook",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Race Detector - DeepFace",
+        "description": "Utilized Open CV and Deepface library to create a Race Detection Software. Deployed a Convoluted Neural Network to replace Deepface and increased the accuracy by 20%.",
+        "keywords": [
+          "Python",
+          "Jupyter Notebook",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Exploratory Data Analysis EDA",
+        "description": "Performed EDA on Elon Musks 1000+ Tweets to analyze motivations behind Twitter acquisition. Applied a Recurrent Neural Network (RNN) for sentiment analysis on Musks tweets to uncover insights. Conducted EDA on the United States arms dataset, deriving valuable insights.",
+        "keywords": [
+          "Python",
+          "Jupyter Notebook",
+          "Data Science",
+          "Data Analysis"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Technical Paper on Agent Training",
+        "description": "Authored a 10-page technical paper on training an agent to play the third-person perspective game using DQRN. Integrated Sensorimotor Control and Q-learning to operate in Devil May Cry 3s environment, navigating 3+ unique levels. Proposed an environment similar to ViZDoom (Agent May Cry) which can be used to create ML bots for selected games. Presented at SCROLLS 24 National level Paper presentation competition.",
+        "keywords": [
+          "Deep Reinforcement Learning",
+          "Q Learning",
+          "Game AI",
+          "Object Detection through Raw visual Input"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Paper"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Developer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "GDSC AKGEC",
+        "description": "Conducted MLstudy Jams. an informative session held for 100+ students across the campus. Worked on several EDAs to learn insights about the dataset.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "UI/UX Designer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "GDSC AKGEC",
+        "description": "Designed the new GDSC website. Employed dark mode, oating navigation bar, and fresh aesthetics to increase visual engagement by 50%. Worked on 10+ designing tasks including user interface as well as experience.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Reinforcement Learning",
+      "Generative AI",
+      "Computer Vision",
+      "NLP",
+      "Git",
+      "VSCode"
+    ],
+    "soft_skills": [],
+    "name": "ASHMIT PANDEY",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "First Runner up at SCROLLS 2024, National Level Technical Paper Presentation Competition With Agent May Cry",
+      "Won CodeMAZE competition organized by Big Data Centre of Excellence, competing against 50+ teams."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.TECH"
+}

@@ -1,0 +1,147 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Development Intern",
+  "name": "Niraj Modi",
+  "college": "Asansol Engineering College",
+  "locations": [
+    "Asansol, West Bengal, India",
+    "Jharia, Jharkhand, India",
+    "Florida, USA (Remote)"
+  ],
+  "full_output": {
+    "summary": "Highly motivated results-oriented Full-Stack Web Developer with a strong foundation in computer science fundamentals and a passion for building innovative web applications. Proven ability to develop, design, and deploy scalable applications utilizing a variety of technologies. Recognized for exceptional problem-solving skills, a collaborative work ethic, and a commitment to continuous learning.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Asansol Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Asansol, West Bengal, India",
+        "ID": 0.0,
+        "grade_received": "9.31",
+        "field_of_study": "Computer Science Engineering (AIML)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Indian School of Learning",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Jharia, Jharkhand, India",
+        "ID": 1.0,
+        "grade_received": "83.7%",
+        "field_of_study": "PCM",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Quilog",
+        "description": "Designed a feature-rich blog with Markdown, improving content formatting and readability for users. Developed robust authentication, profiles, and social integration for personalized interaction. Implemented engagement tools like likes and comments, fostering user interaction and feedback. Enabled content discovery, sharing, enhancing engagement and visibility for an improved user experience.",
+        "keywords": [
+          "Javascript",
+          "React",
+          "Next",
+          "Tailwind CSS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "link"
+      },
+      {
+        "name": "KEEP-IT",
+        "description": "A frontend application for efficient note management, user-friendly interface design and functionality. Seamless handling of notes, ensuring smooth user interactions and data management within the application.",
+        "keywords": [
+          "React",
+          "Material UI",
+          "IndexedDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "link"
+      },
+      {
+        "name": "STACKCALC",
+        "description": "A web-based Calculator App with vanilla JavaScript compatibility and user experience. Implemented Stack Data Structure in JavaScript for reliable, efficient app functionality.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [
+          "TypeScript",
+          "OOP",
+          "MVC",
+          "Singleton patterns",
+          "PrimeReact",
+          "Tailwind CSS",
+          "React-Query",
+          "PostgreSQL",
+          "RDBMS"
+        ],
+        "endDate": "Current",
+        "company_name": "Dair.cloud",
+        "description": "Utilized TypeScript, OOP, MVC, and Singleton patterns to develop a robust and scalable application. Developed reusable components with PrimeReact and Tailwind CSS, enhancing UX and interface efficiency. Optimized API calls using React-Query, significantly reducing load times. Designed and optimized the database architecture for the base model with PostgreSQL and RDBMS, ensuring data integrity and scalability. Implemented backend validation techniques to enhance data security and prevent unauthorized access. Employed a class-based structure to increase code readability and maintainability.",
+        "location": "Florida, USA (Remote)",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "Python",
+      "ReactJs",
+      "NextJs",
+      "NodeJs",
+      "Express",
+      "Tailwind",
+      "PrimeReact",
+      "SASS",
+      "MongoDB",
+      "PostgreSQL",
+      "Git",
+      "GitHub",
+      "VSCode"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Problem-solving",
+      "Adaptability",
+      "Communication",
+      "Teamwork"
+    ],
+    "name": "Niraj Modi",
+    "position": "Software Development Intern",
+    "interests": [],
+    "achievements_and_awards": [
+      "Knight (max 1951) at LeetCode",
+      "Top 3.4% at LeetCode",
+      "First and second Runner Up in Innovative Ideahunt",
+      "Rank 438 in TCS CodeVita",
+      "Google Developer Student Clubs Lead (2023-24)",
+      "Established Club that grew to 1300+ members and 15+ successful events",
+      "Integrated Camunda BPMN for workflow automation.",
+      "Worked within a microservices architecture to ensure application performance and scalability."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

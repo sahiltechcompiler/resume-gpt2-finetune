@@ -1,0 +1,149 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Abhinav Kumar",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, India",
+    "Mirzapur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DSA with C++",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Course",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "Present",
+        "maximum_grade": "80",
+        "degree": "B.Tech",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "7.8",
+        "field_of_study": "CSE-AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Marys School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "Mirzapur",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "ISC",
+        "startDate": ""
+      },
+      {
+        "school": "St. Marys School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "Mirzapur",
+        "ID": 2.0,
+        "grade_received": "85",
+        "field_of_study": "ICSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Face Distortion Filter",
+        "description": "Contributed a unique face distortion filter to the Instagram community through creation with Meta Spark Studio. Infused augmented reality elements into the Instagram filter, adding an immersive dimension to user engagement.",
+        "keywords": [
+          "Meta spark Studio"
+        ],
+        "endDate": "Nov 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Healthiness",
+        "description": "Create a simulated environment where AI algorithms can interact with the data. Implement and train AI models for various healthcare applications. This could include disease diagnosis, treatment recommendations, patient monitoring, and more.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "Python"
+        ],
+        "endDate": "Mar-Jun 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Handwritten digit recognition using MNIST dataset",
+        "description": "Handwritten digit recognition using the MNIST dataset involves training a model to classify images of handwritten digits from 0 to 9, typically using deep learning techniques like Convolutional Neural Networks (CNNs). The MNIST dataset contains 70,000 grayscale images of handwritten digits from 0 to 9, with 60,000 images in the training set and 10,000 images in the test set. Each image is a 28x28 pixel square.",
+        "keywords": [
+          "Tensorflow",
+          "Panda",
+          "Opencv"
+        ],
+        "endDate": "Mar-Apr 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Streamlining of Judicial cases",
+        "description": "Streamlining judicial cases through Digital Case Management (DCM) systems involves leveraging technology to improve the efficiency and effectiveness of the judicial process. By implementing Digital Case Management systems, the judicial process becomes more efficient, transparent, and accessible, ultimately serving the goal of delivering justice more effectively and swiftly.",
+        "keywords": [
+          "React",
+          "MongoDB",
+          "Python",
+          "Tensorjs"
+        ],
+        "endDate": "Sep 2022-present",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Member",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Google Developer Student Clubs",
+        "description": "Contributed in Web team and active activities. Attended GDSC-organized bootcamps, honing skills in cutting-edge WEB technologies. Collaborated seamlessly with a diverse hackathon team, contributing ideas and skills to collectively tackle challenges and deliver impactful solutions.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2022"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Abhinav Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved More than 300 questions of DSA across all platforms.",
+      "Contributed to HacktoberFest 2022 with 3 major pull requests in open-source projects.",
+      "Participate in KRMU Hackathon 2022 and Secure rank under top 10.",
+      "Participate in KIET College hackathon innotech.",
+      "Participate in SIH and selected from college."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

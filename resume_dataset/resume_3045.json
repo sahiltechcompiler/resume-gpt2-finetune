@@ -1,0 +1,119 @@
+{
+  "project_count": 3.0,
+  "designation": "Full Stack Developer Intern",
+  "name": "Farhan Ahmad",
+  "college": "Magadh University",
+  "locations": [
+    "Bodh Gaya, Bihar",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Magadh University",
+        "endDate": "March 2024",
+        "maximum_grade": "",
+        "degree": "BSC",
+        "location": "Bodh Gaya, Bihar",
+        "ID": 0.0,
+        "grade_received": "80.60%",
+        "field_of_study": "Information Technology",
+        "startDate": "August 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "StudyNotion",
+        "description": "Designed an EdTech platform for course creation, student enrollment, and course rating functionalities, supporting 100+ active users. Integrated Razorpay for secure payment processing, handling over 500 transactions monthly, and Cloudinary for media storage, enhancing financial transaction security and media management. Optimized backend operations and MongoDB database management, leading to 50% faster data retrieval, supporting over 1,000 course-related records. Ensured compliance with industry best practices and security standards, maintaining data integrity and user privacy, resulting in zero data breaches.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "ExpressJs",
+          "MongoDB",
+          "Tailwind-CSS",
+          "Redux-Toolkit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "source code"
+      },
+      {
+        "name": "Pixza",
+        "description": "Built a full-stack online food delivery webapp wit Next.js and Tailwind CSS, serving over 50 users, with features like secure user authentication, cart functionality, and seamless order placement. Enhanced app performance with Redux Toolkit for efficient state management, reducing load times by 30% and improving user satisfaction scores by 15%. Integrated third-party APIs for real-time order tracking and payment processing, improving user experience and operational efficiency, leading to a 20% increase in repeat orders. Conducted rigorous testing and debugging, maintaining a 99% bug-free application status, which contributed to a 95% user satisfaction rate.",
+        "keywords": [
+          "NextJs",
+          "Tailwind-CSS",
+          "MongoDB",
+          "Redux-Toolkit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "source code"
+      },
+      {
+        "name": "HomeAway",
+        "description": "Created a vacation rental marketplace web app, integrating the Shadcn library for a responsive UI, leading to a 25% improvement in mobile user experience. Established secure user authentication and real-time data updates, increasing user engagement by 18% and satisfaction by 20%. Architected scalable backend solutions with MongoDB and Node.js, supporting up to 5000 simultaneous user interactions during peak times. Collaborated closely with UX/UI designers to implement intuitive interfaces, resulting in a 20% increase in user retention and a 15% rise in new user registrations.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "ExpressJs",
+          "Tailwind-CSS",
+          "MongoDB",
+          "Redux-Toolkit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "source code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Digital Bhem",
+        "description": "Developed scalable web applications leveraging the MERN stack, delivering RESTful APIs that handled over 10,000 daily requests and implemented robust user authentication for 5,000+ active users. Collaborated with a cross-functional team of 10 members to gather requirements, translating them into technical specifications, and successfully deploying applications on AWS, reducing deployment time by 20%. Spearheaded Agile development processes across 3 projects, including sprint planning, daily stand-ups, and code reviews, resulting in a 15% reduction in project completion time and a 98% code quality compliance rate. Optimized MongoDB and MySQL database schemas, leading to a 40% improvement in data retrieval performance and supporting a user base of 20,000 by implementing advanced query optimization and indexing strategies.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "November 2023"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "C/C++",
+      "ReactJs",
+      "NextJs",
+      "Tailwind-CSS",
+      "ExpressJs",
+      "NodeJs",
+      "Bootstrap",
+      "Material-UI",
+      "Redux",
+      "VS Code",
+      "Git",
+      "GitHub",
+      "Postman",
+      "Vercel",
+      "Netlify",
+      "Render",
+      "MongoDB",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Farhan Ahmad",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BSC"
+}

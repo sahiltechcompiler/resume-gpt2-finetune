@@ -1,0 +1,173 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "SHIVA KUMAR",
+  "college": "NSUT, Delhi",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Served as an Campus Ambassador for ABVP"
+    ],
+    "education": [
+      {
+        "school": "NSUT, Delhi",
+        "endDate": "Aug, 2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "Oct, 2020"
+      },
+      {
+        "school": "Hans Raj Model School",
+        "endDate": "July 2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "80.4",
+        "field_of_study": "",
+        "startDate": "Aug 2019"
+      },
+      {
+        "school": "Hans Raj Model School",
+        "endDate": "July 2018",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "89",
+        "field_of_study": "",
+        "startDate": "Aug 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Codeial | A Social Chat Application",
+        "description": "Developed a chat social application where user can create his/her profile and view the profiles of others. Used Node Mailer and flash.js to enhance user experience. MongoDB is used to save data of users in database. Used passport.js and Google Auth for authentication of user. Chat section is made using socket.js for real time chat. Implemented a Rest API using ExpressJS to read, delete and update the profile, comments and posts.",
+        "keywords": [
+          "Mongodb",
+          "Express js",
+          "React js",
+          "Node js",
+          "Socket.io",
+          "Redis"
+        ],
+        "endDate": "1st June 2024",
+        "startDate": "1st May 2024",
+        "url": ""
+      },
+      {
+        "name": "Social Chat Application",
+        "description": "Implemented a social chat application in react. Hosted the chat data on firebase. Authenticated using firebase/auth.",
+        "keywords": [
+          "React",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie App",
+        "description": "Developed a Web application using React.js for adding your favourite movie in the movie list. Used OMDB API to add your favourite movie in your list. Given favourite and Unfavourite options to user to add their movie in favourites.",
+        "keywords": [
+          "Github",
+          "React JS",
+          "Redux"
+        ],
+        "endDate": "May 2023",
+        "startDate": "March 2023",
+        "url": ""
+      },
+      {
+        "name": "React Cart",
+        "description": "Designed a cart like In Amazon using ReactJS. User can add his/her favorite item in cart. After adding the items to cart, total number of items and sum of cart is shown. Data of the products is stored in firebase.",
+        "keywords": [
+          "Github",
+          "ReactJS",
+          "Firebase"
+        ],
+        "endDate": "May 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Todo App",
+        "description": "Developed a full stack application in NEXT JS for making todos for daily plan. Used JWT token for authentication. Data of the user is saved in Mongodb Database.",
+        "keywords": [
+          "Github",
+          "Vercel",
+          "Next JS",
+          "Mongodb"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "10th Aug 2023",
+        "company_name": "Sparks Foundation",
+        "description": "Worked as Web Developer Intern. Used Razorpay for the transaction of payment. Implemented a web application for the donation.",
+        "location": "",
+        "links": "",
+        "startDate": "5th June 2023"
+      },
+      {
+        "role_name": "MERN stack web developer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Trazeplus Consulting",
+        "description": "Implemented API in backend in node js. Developed Social Chat Application. Improved the styling of web pages for the client.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "React Js",
+      "SCSS",
+      "SASS",
+      "Node Js",
+      "Javascript",
+      "Express Js",
+      "Mongoose",
+      "Next Js",
+      "C++",
+      "Python",
+      "SQL",
+      "MongoDB",
+      "VS Code",
+      "Sublime",
+      "GitHub",
+      "Netlify",
+      "Firebase",
+      "Vercel"
+    ],
+    "soft_skills": [],
+    "name": "SHIVA KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 386 DSA questions on Leetcode",
+      "540+ DSA score on GFG",
+      "AIR 238 in Code Combat organized by Coding Ninjas"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

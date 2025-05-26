@@ -1,0 +1,87 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shubham Yadav",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science & Engineering(IOT & IS)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pneumonia Diagnosis System",
+        "description": "Constructed a Convolutional Neural Network (CNN) for pneumonia detection utilizing a Kaggle database of chest X-ray images Resulted in accurate and efficient diagnosis support",
+        "keywords": [],
+        "endDate": "04/2024",
+        "startDate": "03/2024",
+        "url": ""
+      },
+      {
+        "name": "SkyCast, Api Based Weather App",
+        "description": "Created a responsive weather app with HTML, CSS, and JavaScript, using a weather API. Delivers real-time, location-based weather updates with a clean and intuitive design.",
+        "keywords": [],
+        "endDate": "01/2024",
+        "startDate": "12/2023",
+        "url": ""
+      },
+      {
+        "name": "QuantumQuill, NFT Token",
+        "description": "Developed ERC-721 compliant NFT smart contracts with the token name \"QuantumQuill\" using Solidity. Ensured secure and decentralized ownership of digital assets. Utilized Remix IDE for efficient and robust ERC-721 contract development.",
+        "keywords": [],
+        "endDate": "08/2023",
+        "startDate": "07/2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Club Service Coordinator",
+        "skillsUsed": [],
+        "endDate": "03/2024",
+        "company_name": "Rotaract",
+        "description": "Managed club service initiatives as a member of the Rotaract Club for one year, demonstrating leadership, teamwork, and organizational skills. Adapted flexibly to changing circumstances and needs of the club, including volunteering during evenings and weekends as required.",
+        "location": "",
+        "links": "",
+        "startDate": "08/2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "HTML5",
+      "CSS",
+      "SQL",
+      "IOT (Internet of Things)",
+      "AWS",
+      "Deep Learning",
+      "Data Analytics"
+    ],
+    "soft_skills": [],
+    "name": "Shubham Yadav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

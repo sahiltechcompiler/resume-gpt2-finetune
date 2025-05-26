@@ -1,0 +1,130 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Divyansh Juneja",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "Skilled fourth-year CS undergrad proficient in MERN stack, Python, ML with PyTorch/TensorFlow, and DevOps. Experienced in REST API creation, web scraping, and cloud computing. Passionate about ML-driven innovation.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "10/2025",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "12/2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Facebook Clone",
+        "description": "I created a full-stack social network using React, Node.js, and MySQL. Features include hooks, Context API, React-query, JWT authentication, and cookies. The app fosters secure connections, content sharing, and seamless user interaction.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Yelp Camp",
+        "description": "YelpCamp is a campground review website requiring user accounts to create or review campgrounds. Built with Node.js, Express, MongoDB, and Bootstrap. Authentication handled by Passport.js.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat-App",
+        "description": "\"Chat-App\" is a modern messaging platform on the MERN stack with Socket.io, MongoDB, and JWT authentication. It ensures real-time messaging, instant delivery, and secure storage for enhanced connectivity.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chicken Disease Analyser",
+        "description": "\"Chicken Disease Analyzer\" employs MLOps and DVC pipeline tech for automated poultry disease detection. This integrates ML with efficient data version control, streamlining disease analysis for proactive farming interventions and enhanced efficiency.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Text Summarization",
+        "description": "\"Text Summarization\" utilizes MLOps in NLP to condense large texts into concise summaries, enhancing information retrieval. This project streamlines model development and deployment for scalability and reproducibility, providing users with efficient insights.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FULL STACK DEVELOPER INTERN",
+        "skillsUsed": [],
+        "endDate": "11/2023",
+        "company_name": "Digital Amigos",
+        "description": "As a Full Stack Developer Intern, I mastered the MERN stack, including Redux and React.js Context API. I developed scalable web apps, optimized performance, and improved user experience. Engaged in collaborative projects, gaining practical experience in application architecture and troubleshooting. This internship provided valuable skills in modern web development.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "09/2023"
+      },
+      {
+        "role_name": "WEB APP DEVELOPMENT INTERN",
+        "skillsUsed": [],
+        "endDate": "02/2023",
+        "company_name": "Teachnook",
+        "description": "Interned at Teachnook, specializing in React front-end projects for an e-commerce site. Utilized Redux and Context libraries to boost site performance and responsiveness.",
+        "location": "",
+        "links": "",
+        "startDate": "12/2022"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "EDA",
+      "Tensorflow",
+      "Sci-kit Learn",
+      "FRONTEND",
+      "React Js",
+      "Redux",
+      "Context Api",
+      "Material UI",
+      "BACKEND",
+      "Nodejs",
+      "Express",
+      "Axios",
+      "Django",
+      "Java",
+      "Golang",
+      "Miscellaneous",
+      "Mongo db",
+      "Mysql",
+      "Web Hosting(AWS/Google)",
+      "Linux",
+      "Webscraping (Python)",
+      "DSA (Java/Python)",
+      "Docker",
+      "CI/CD",
+      "Jenkins"
+    ],
+    "soft_skills": [],
+    "name": "Divyansh Juneja",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors of Technology"
+}

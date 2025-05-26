@@ -1,0 +1,163 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "SAYAN BISWAS",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh, India",
+    "Alwar, Rajasthan, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Supervised Machine Learning: Regression and Classification",
+        "issuer": "Coursera (Stanford Online)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Amazon ML Summer School",
+        "issuer": "Amazon",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "7.96/10 (*6th semester)",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Sep 2021"
+      },
+      {
+        "school": "Army Public School",
+        "endDate": "Dec 2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Alwar, Rajasthan, India",
+        "ID": 1.0,
+        "grade_received": "83.4%",
+        "field_of_study": "PCM",
+        "startDate": "Apr 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "BankEase",
+        "description": "Full Stack Banking Application. Integrated multiple bank accounts using Plaid, displaying balances and account details. Implemented ultra-secure SSR authentication with Next.js and Appwrite. Built a Next.js dashboard with Chart.js for real-time updates, transactions, and spending, added paginated transaction history with TypeScript, used React Hook Form and Zod for validation and Tailwind CSS for frontend.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "[PROJECT LINK]"
+      },
+      {
+        "name": "Geargrid",
+        "description": "Full Stack Ecommerce application. Developed an e-commerce app with Payload CMS, Tailwind CSS and Next.js, boosting user engagement. Built an admin panel with real-time analytics, inventory management, and order tracking to streamline operations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "[PROJECT LINK]"
+      },
+      {
+        "name": "Threads",
+        "description": "Full Stack Social Media Application. Developed a web app for global interaction, utilizing Next.js, NodeJS, and MongoDB. Implemented real-time chat and notifications, Integrated user authentication and authorization using Clerk.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "[PROJECT LINK]"
+      },
+      {
+        "name": "Authentication",
+        "description": "Backend Application. Implemented user authentication with email verification using Mailtrap to ensure secure account registration. Developed functionality for resetting passwords, allowing users to update their credentials securely. Integrated a 'forgot password' feature, enabling users to recover their accounts via email.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "[PROJECT LINK]"
+      },
+      {
+        "name": "Mi Store",
+        "description": "Frontend Application. Built a fully responsive Mi Store website using React.js, HTML, CSS, JavaScript, and React Bootstrap. Optimized component rendering and reduced load times for improved performance and faster user interactions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "[PROJECT LINK]"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "SCHOOLHUES",
+        "description": "Designed and implemented websites and themes, enhancing SEO strategies, which led to a significant boost in website traffic and online visibility.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Coordinator",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "SRMAP ECELL",
+        "description": "Led a team of 20 to conduct technical workshops, enhancing student engage. Organized workshops on War of Drones, AI/ML, and IoT, contributing to the skill development of over 200 students.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "JavaScript",
+      "Java",
+      "HTML",
+      "R",
+      "TypeScript",
+      "Golang",
+      "SQL",
+      "MongoDB",
+      "Tailwind CSS",
+      "CSS",
+      "React",
+      "Three JS",
+      "NEXTJS",
+      "AJAX",
+      "WordPress",
+      "Git",
+      "Apache",
+      "NodeJS",
+      "Express",
+      "Rest API",
+      "Angular",
+      "AWS",
+      "GCP"
+    ],
+    "soft_skills": [],
+    "name": "SAYAN BISWAS",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winner C Hackathon SRM University-2022"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

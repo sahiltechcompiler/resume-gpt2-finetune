@@ -1,0 +1,121 @@
+{
+  "project_count": 3.0,
+  "designation": "Full Stack Developer Intern",
+  "name": "G. MOHAN DASS",
+  "college": "Chennai Institute Of Technology",
+  "locations": [
+    "Chennai, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "B. E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Cumulative GPA: 8.67/10",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "NoteSync",
+        "description": "Developed a real-time note-taking app, using WebSockets, NextJS, PostgreSQL and Drizzle ORM, reducing note-editing time by 25% and improving editing efficiency by 15%, by hosting in Supabase. Created an engaging interface using NextJS and Tailwind, achieving a 60% positive feedback rate.",
+        "keywords": [
+          "Tailwind",
+          "NextJS",
+          "WebSockets",
+          "PostgreSQL",
+          "Drizzle ORM",
+          "Supabase"
+        ],
+        "endDate": "present",
+        "startDate": "2023",
+        "url": ""
+      },
+      {
+        "name": "Task-I-Nator",
+        "description": "Developed a kanban-style workspace for task management, enhancing user experience by 60% with a smooth, responsive UI for mobile and PC, with Tailwind and Shadcn components, and Prisma for database. Utilized NextJS 14 Server Actions and Clerk authentication to improve data retrieval speed by 40%.",
+        "keywords": [
+          "NextJS",
+          "Tailwind",
+          "Prisma ORM",
+          "MySQL",
+          "Clerk",
+          "Aiven"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "HarmoNook",
+        "description": "Developed a website that plays brown noises from different environments, with dynamic themes, improving UI visibility by 25% and boosting efficiency by 15%. Designed an exclusive interface for volume control and transitioning themes with different layouts, using Tailwind and NextJS, achieving a 60% increase in responsiveness.",
+        "keywords": [
+          "NextJS",
+          "Tailwind",
+          "Google Cloud Services",
+          "Vercel"
+        ],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Cognizant Technology and Solutions",
+        "description": "Led the development of a full-stack application utilizing ReactJS and TailwindCSS for the front-end, while implementing Express and Azure for the back-end. Achieved a 30% reduction in processing time for various inventory tasks and boosted user satisfaction by 15% based on positive client feedback.",
+        "location": "Chennai, India",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "HTML/CSS",
+      "Java",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "NextJS",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "Git",
+      "Docker",
+      "Linux",
+      "GitHub Actions & CI/CD Pipelines",
+      "Jest",
+      "AWS",
+      "Selenium"
+    ],
+    "soft_skills": [],
+    "name": "G. MOHAN DASS",
+    "position": "Full Stack Developer Intern",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winner, Smart India Hackathon 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 1.0,
+  "degree": "B. E."
+}

@@ -1,0 +1,116 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Bhuvanesh Kakarla",
+  "college": "SRM UNIVERSITY-AP",
+  "locations": [],
+  "full_output": {
+    "summary": "B.Tech CSE student specializing in Data Science at SRM-AP University. Proficient in machine learning, web development, and experienced in Python, Java, and C++. Eager to apply my skills in innovative, real-time projects.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY-AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Board Of Intermediate Education",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Andhra Pradesh State Board",
+        "endDate": "2021",
+        "maximum_grade": "100%",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "92.15%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data Scientist Core Project on Telecommunication Industry",
+        "description": "Performed exploratory data analysis (EDA) on a Telco customer churn dataset with 7,000+ records, leveraging Pandas and Seaborn to identify trends and outliers. Developed an interactive heatmap to visualize customer behavior across 12 key features, uncovering insights that contributed to a 20% improvement in customer satisfaction. Implemented and optimized machine learning models such as Random Forest, Naive Bayes, AdaBoost, and XGBoost, achieving a churn prediction accuracy of 80.34%. Utilized cross-validation to compare models and enhance performance metrics and helping reduce churn rates by 74%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Management System",
+        "description": "Designed and implemented a system to manage library operations including user management, book borrowing, returns, and catalog maintenance. Utilized Java and MySQL for backend development and HTML/CSS and JavaScript for frontend. Integrated overdue notifications and advanced search filters to improve user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Telugu(Proficient)",
+      "English(Proficient)",
+      "Hindi(Intermediate)"
+    ],
+    "experiences": [
+      {
+        "role_name": "Summer Internship",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "APSSDC",
+        "description": "Developed a real-time chat application using AWS Amplify, Next.js, GraphQL, and AWS, integrating user authentication, real-time messaging, and server-side rendering. Led frontend and backend development, deploying to AWS Cloud with scalable infrastructure, ensuring security, and receiving positive feedback for UI/UX and real-time performance.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "SQL",
+      "AWS",
+      "Data modeling",
+      "Visualization",
+      "Experiment design",
+      "MS Office",
+      "Excel",
+      "Linux"
+    ],
+    "soft_skills": [
+      "Adaptability",
+      "Collaboration",
+      "Time Management",
+      "Problem Solving",
+      "Responsibility",
+      "Communication"
+    ],
+    "name": "Bhuvanesh Kakarla",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "System Software Developer",
+  "name": "SUSHIL PRATAP SINGH",
+  "college": "National Institute of Technology Calicut",
+  "locations": [
+    "Bangalore, India",
+    "Kozhikode, Kerala",
+    "Kottayam, Kerala",
+    "Kishanganj, Bihar"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute of Technology Calicut",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Kozhikode, Kerala",
+        "ID": 0.0,
+        "grade_received": "7.74 CGPA",
+        "field_of_study": "EEE",
+        "startDate": ""
+      },
+      {
+        "school": "Jawahar Navodaya Vidyalaya Kottayam",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Kottayam, Kerala",
+        "ID": 1.0,
+        "grade_received": "88.60%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Jawahar Navodaya Vidyalaya Kishanganj",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "Kishanganj, Bihar",
+        "ID": 2.0,
+        "grade_received": "9.8 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Number Guessing Game",
+        "description": "A random number is generated between 0 and 100 by the Random function used in JS. There are two levels Easy and Hard. Easy level has 10 allowed attempts and the Hard level has 5 attempts allowed. If the user is able to guess the number under the allowed number of attempts he/she wins else lose the game.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Spotify Clone",
+        "description": "Multiple functionalities like Changing game, Changing play time are made using HTML, css and JavaScript.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Food Ordering Website",
+        "description": "Created a static website with the multiple functionalities shown like taking order, service provided, clients.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "System Software Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "CDAC",
+        "description": "Working on the Librararies of AUM processor at CDAC. Working on Scalable Vector Extension on Arm.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "C",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Github",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "SUSHIL PRATAP SINGH",
+    "position": "System Software Developer",
+    "interests": [
+      "Solving Coding Problems",
+      "Learning New Technologies"
+    ],
+    "achievements_and_awards": [
+      "Solved 900+ Coding Questions on Dierent Coding Web- sites.",
+      "Leetcode Maximum rating 1720",
+      "Made 4 Personal Projects in Web Development.",
+      "5* in C++ in Hackerrank",
+      "4* in SQL in Hackerrank",
+      "Qualied NDST in Class X",
+      "Qualied JNVST in Class V"
+    ],
+    "publications": []
+  },
+  "current_location": "Bangalore,Karnataka - India",
+  "graduation_year": 2023.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

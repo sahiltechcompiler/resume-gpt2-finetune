@@ -1,0 +1,180 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Aayush Arora",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, India",
+    "Remote, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Generative AI",
+        "issuer": "Google Cloud",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Student Level Credential under CISCO instructors supervision.",
+        "skillsLearned": [],
+        "title": "Networking Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certified on clearing a National-level exam.",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "IIT Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "From Walmart for reaching the final stage of the Sparkathon.",
+        "skillsLearned": [],
+        "title": "Certificate of Appreciation",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Virtual Engineering Program",
+        "issuer": "Goldman Sachs",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "Cumulative GPA: 7.1",
+        "field_of_study": "Computer Science",
+        "startDate": "October 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "PlayPulse - Video Sharing Platform",
+        "description": "Built a YouTube-like website replicating 30+ key features including video upload, watch history & view tracking. Successfully hosted the project on Netlify, enabled user authentication through Google accounts.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real-Time Facial Emotion Detection System",
+        "description": "Developed a model to recognize and classify human emotions from live video using a pre-trained CNN architecture. Achieved a notable accuracy of 84.3% in classifying facial expressions, like sad, anger, etc., in real-time video. Demonstrated the models potential in diverse applications, like human-computer interaction & market research.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "Kaggle Dataset"
+        ],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Campus Job Portal",
+        "description": "Created a job portal specifically designed for campus placement opportunities. Led front-end development, implementing key features such as job posting, job search, and application tracking. Promoted fairness in the process by building transparent criteria through direct communication channels.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "September 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Car Care - E-Commerce Website",
+        "description": "Built an e-commerce platform for automotive products and automobile parts. Integrated the app with critical emergency services and remote maintenance solutions.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "SQL"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Trainee",
+        "skillsUsed": [
+          "React.js"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Teachnook",
+        "description": "Crafted a website for a digital marketing company, serving 100s of businesses seeking marketing solutions. Integrated features like targeted filters, optimized website rendering performance by 18% utilizing React.js. Enabled clients to optimize digital strategies and achieve better engagement with their target customers. Awarded Premier Intern of the Month for July 2023 in recognition of exceptional contributions to the project.",
+        "location": "Remote, India",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "Java",
+      "Python",
+      "Swift",
+      "JavaScript",
+      "PHP",
+      "SQL",
+      "MongoDB",
+      "Data Structure",
+      "Algorithms",
+      "OOPS",
+      "Computer Networks",
+      "OS",
+      "DBMS",
+      "HTML",
+      "CSS",
+      "React",
+      "Tailwind",
+      "Bootstrap",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "Aayush Arora",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Attained a competitive rating of 1700+ on CodeChef.",
+      "Secured a Top 15 position out of 500+ participants in The Reverse Shark Tank hackathon.",
+      "Reached the Final Stage of SmartInternz Program by IBM.",
+      "Top 50 global ranking out of 3000+ teams in the InCode hackathon by INDRIVE."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

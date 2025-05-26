@@ -1,0 +1,146 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Tolupunoori Rajshekar",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, IN",
+    "Hyderabad, IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Devops Crash Course",
+        "issuer": "Uplimit",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MERN Stack Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence Research Assistant",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Computer Science Engineering",
+        "location": "Phagwara, IN",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Data Science",
+        "startDate": ""
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "Apr 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Hyderabad, IN",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "MPC",
+        "startDate": "Jun 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Jenkins Pipeline",
+        "description": "Implemented automated testing of code within the pipeline to ensure code quality and functionality. Deployed SonarQube into the pipeline to perform static code analysis, identifying bugs and Vulnerabilities.",
+        "keywords": [
+          "Jenkins",
+          "Ansible",
+          "SonarQube",
+          "ArgoCD",
+          "Bash"
+        ],
+        "endDate": "Feb2024",
+        "startDate": "Dec2023",
+        "url": ""
+      },
+      {
+        "name": "Data Analysis on Airports",
+        "description": "Conducted exploratory data analysis (EDA) on Global Airports, revealing geographical hotspots and trends in airport data. Identified key patterns in how airports function and how they operate and obtained key information on types and characteristics of airports.",
+        "keywords": [
+          "Python",
+          "SQL",
+          "Exploratory Data Analysis"
+        ],
+        "endDate": "Nov2023",
+        "startDate": "Sep2023",
+        "url": ""
+      },
+      {
+        "name": "File Sharing System",
+        "description": "Developed a File sharing system that leverages Web-RTC architecture. Implemented File sharing system that uses Peer-to-Peer Communication to transfer files through a network.",
+        "keywords": [
+          "Express JS",
+          "Node JS",
+          "Mongo DB",
+          "React JS"
+        ],
+        "endDate": "Jul2023",
+        "startDate": "Jun2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "SQL(MYSQL)",
+      "JavaScript",
+      "HTML/CSS",
+      "React",
+      "Node.js",
+      "Express",
+      "Jenkins",
+      "Material-UI",
+      "FastAPI",
+      "Git",
+      "Docker",
+      "Kubernetes",
+      "Azure",
+      "Aws",
+      "Google Cloud Platform",
+      "VS Code",
+      "Visual Studio",
+      "PyCharm",
+      "IntelliJ",
+      "Eclipse",
+      "pandas",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "soft_skills": [],
+    "name": "Tolupunoori Rajshekar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Computer Science Engineering"
+}

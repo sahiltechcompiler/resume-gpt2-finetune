@@ -1,0 +1,137 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "MOHAMMED ARBAZ KHAN",
+  "college": "Jawaharlal Nehru Technological University Hyderabad",
+  "locations": [
+    "Hyderabad, India",
+    "Dubai, UAE"
+  ],
+  "full_output": {
+    "summary": "Highly skilled AWS DevOps Engineer with a strong background in technical support. Expertise in designing, implementing, and maintaining cloud infrastructure solutions on AWS, optimizing performance, reliability, and security. Proven ability to automate processes and streamline deployments using CI/CD pipelines and Infrastructure as Code (IaC) principles. Experienced in troubleshooting complex technical issues, providing efficient solutions, and delivering exceptional customer support. Adept at collaborating with cross-functional teams to achieve project goals and enhance operational efficiency. Seeking to leverage technical expertise and problem-solving skills to drive continuous improvement and innovation in a dynamic IT environment.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Jawaharlal Nehru Technological University Hyderabad",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Hyderabad",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Gayatri Junior College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Hyderabad",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "P.C",
+        "startDate": ""
+      },
+      {
+        "school": "Holy Mary High School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "Hyderabad",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automated Infrastructure Deployment and Monitoring",
+        "description": "Designed and implemented automated infrastructure deployment using AWS Cloud Formation. Integrated AWS Cloud Watch for monitoring key metrics and setting up alerts to ensure high availability and performance.",
+        "keywords": [
+          "AWS Cloud Formation",
+          "AWS Cloud Watch",
+          "AWS EC2",
+          "AWS SNS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "End-to-End CI/CD Pipeline with Jenkins",
+        "description": "Designed and implemented a comprehensive CI/CD pipeline using Jenkins to automate the build, test, and deployment processes for a sample web application. Integrated version control, automated testing, and deployment stages to streamline software delivery and enhance team productivity.",
+        "keywords": [
+          "Jenkins",
+          "GitHub",
+          "AWS",
+          "Docker",
+          "SonarQube"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi",
+      "Urdu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Technical Support Executive",
+        "skillsUsed": [
+          "AWS",
+          "Technical Support",
+          "Customer Service"
+        ],
+        "endDate": "10.2023",
+        "company_name": "Genpact",
+        "description": "Resolving issues related to Domains and websites. Built and maintained customer trust by ensuring ongoing communications until resolution. Guaranteed client satisfaction, consulting with QA to verify company standards were met. Researched latest information to stay abreast with trends. Examined work packages to give realistic timescales for completion. Identified skills and performance gaps to provide resources and additional training. Understood and analyzed operational requirements to produce suitable recommendations for clients.",
+        "location": "Hyderabad, India",
+        "links": "",
+        "startDate": "07.2022"
+      }
+    ],
+    "skills": [
+      "AWS (EC2, S3, VPC, IAM, RDS)",
+      "Shell scripting",
+      "Jenkins CI/CD",
+      "GitLab CI/CD",
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Docker",
+      "Kubernetes (EKS)",
+      "MiniKube",
+      "Terraform",
+      "Linux Operating System",
+      "Python"
+    ],
+    "soft_skills": [
+      "Quick Learner",
+      "Positive thinker",
+      "Self-motivator"
+    ],
+    "name": "MOHAMMED ARBAZ KHAN",
+    "position": "",
+    "interests": [
+      "Playing Cricket",
+      "Reading books",
+      "learning New Technologies",
+      "Internet surfing"
+    ],
+    "achievements_and_awards": [
+      "Best Player in college cricket tournament"
+    ],
+    "publications": []
+  },
+  "current_location": "Dubai, UAE",
+  "graduation_year": 2021.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

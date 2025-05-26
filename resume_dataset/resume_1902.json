@@ -1,0 +1,111 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "NIHARIKA RAWAT",
+  "college": "NIET",
+  "locations": [
+    "GREATER NOIDA",
+    "EAST VINOD NAGAR",
+    "Indirapuram",
+    "Ghaziabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NIET",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.TECH",
+        "location": "GREATER NOIDA",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.88",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "11/2021"
+      },
+      {
+        "school": "RSKV",
+        "endDate": "05/2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "EAST VINOD NAGAR",
+        "ID": 1.0,
+        "grade_received": "Percentage: 84 %",
+        "field_of_study": "",
+        "startDate": "05/2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "House Price Prediction",
+        "description": "Built a Machine Learning model in Python and Scikit-learn to predict residential property prices with an accuracy of 92% Worked with Matplotlib and Seaborn to visualize housing market trends, encoded detailed patterns in over 10000 data points to make insightful findings",
+        "keywords": [],
+        "endDate": "07/2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Wine Quality Prediction",
+        "description": "Designed a robust linear regression model using the Scikit-learn library in Python to predict wine quality from detailed chemical properties, achieving an impressive mean absolute error score of 0.3, reflecting the model's high accuracy and effectiveness. Cleaned 2000+ wine samples by feature scaling, normalization and the utilization of statistical analysis across all features to figure out top 5 factors affecting quality.",
+        "keywords": [],
+        "endDate": "07/2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "Crafted an fully-responsive E-commerce website using HTML/CSS and JavaScript providing potential customers with a seamless online shopping experience Integrated user authentication, a fully-fledged product catalog with more than 500 products and working shopping cart integrated together to work the checkout seamlessly. Simplified user experience through easy navigation and a frictionless checkout process, resulting in 40% higher number of users interacting on the pages",
+        "keywords": [],
+        "endDate": "08/2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Temperature-Converter",
+        "description": "Achieved a highly efficient inverse temperature conversion tool that processed over 10,000 user queries without errors in the first month, enhancing overall customer satisfaction and reducing support inquiries related to temperature conversions. Processed and converted over 1000 temperatures per second with high accuracy providing a stable performance for all users.",
+        "keywords": [],
+        "endDate": "09/2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Derma(Skin disease detection website)",
+        "description": "Created a web application to detect skin diseases with the frontend in React and integrating with a ML model that reached an accuracy rate of 85% in diagnosing seven forms of skin disease. Developed an image uploading and analysis system that provided users with personalized medication suggestions and accurate disease predictions, boosting customer confidence and satisfaction by 30% and leading to a 25% increase in user engagement. Directed the frontend development as part of a 4-member college project team, collaborating effectively with peers to ensure seamless integration and optimal performance of the web application.",
+        "keywords": [],
+        "endDate": "05/2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English (Fluent)",
+      "Hindi(Fluent)",
+      "German (Basics)"
+    ],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Data Structures",
+      "SQL",
+      "Machine Learning",
+      "Artificial intelligence"
+    ],
+    "soft_skills": [],
+    "name": "NIHARIKA RAWAT",
+    "position": "",
+    "interests": [
+      "Painting Enthusiast"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Indirapuram , Ghaziabad",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.TECH"
+}

@@ -1,0 +1,118 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Saurav Yadav",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Jamshedpur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "6.95 /10",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Valley View School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "AISSCE",
+        "location": "Jamshedpur",
+        "ID": 1.0,
+        "grade_received": "75.5%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Valley View School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "AISSCE",
+        "location": "Jamshedpur",
+        "ID": 2.0,
+        "grade_received": "75%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Autonomous Vehicle Using Road Sign Recognition",
+        "description": "Developed a Convolutional Neural Network (CNN) Model using Preprocessing Pipeline for image classification. Done advanced image processing techniques, including RGB to grayscale conversion, histogram equalization, and (CNN) model adopts the LeNet architecture. normalization, Read multiple research papers, focusing on sign detection, sign relevance, and text recognition. On research I found large dataset and fine-tuning a pre-trained CNN model can significantly improve traffic sign classification performance. A traffic sign classification system using the GTSRB dataset achieved a 99.77% accuracy rate. The system was able to classify various traffic signs in real-world scenarios.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Full Stack Developer, E-Commerce Website",
+        "description": "Developed a website with a back end for the E-Commerce as a college project. Developed a front-end where there are 3 types of users such as Buyer, seller, server. With different functionality such as buying, selling, adding or removal of product from database. Backend was managed using flask and MySQL.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Flask",
+          "MySQL"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "IRIS Flower Classification",
+        "description": "Performed EDA and used K-Nearest Neighbors (KNN) as classification model for 150 sample datasets.",
+        "keywords": [
+          "Machine Learning",
+          "k-Nearest Neighbours Algorithm"
+        ],
+        "endDate": "10 Jul 2022",
+        "startDate": "10 Feb 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Scientist",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Tata Steel",
+        "description": "Performed Exploratory Data Analysis(EDA) on the Sinter Plant Stack Emission Dataset to find correlations of different parameters to output using data cleaning, data transformation, outlier treatment. Working on prediction model using regression process through studying different model such as ARIMA, SARIMAX, LSTM and other concepts. (ongoing) It is a implementation of 14 parameters with a wide data variation to predict output.",
+        "location": "Jamshedpur",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "Java",
+      "MySQL",
+      "Flask",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "soft_skills": [],
+    "name": "Saurav Yadav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.E."
+}

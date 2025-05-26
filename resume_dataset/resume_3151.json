@@ -1,0 +1,99 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Khushi Soni",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Malaviya National Institute of Technology, Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "8.73",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Oct. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Bronchiolitis and Pneumonia disease prediction",
+        "description": "Developed a deep learning model for classification of bronchiolitis and pneumonia in healthcare. Employed deep transfer learning models, including VGG16, VGG19, MobileNetV2, and InceptionResNetV2, to diagnose bronchiolitis and pneumonia in pediatric chest X-rays (PCXr). Used transfer learning and feature extraction to improve accuracy.",
+        "keywords": [
+          "Python",
+          "CNN",
+          "Transfer Learning",
+          "Feature Extraction"
+        ],
+        "endDate": "Oct. 2023",
+        "startDate": "June 2023",
+        "url": ""
+      },
+      {
+        "name": "Plant Leaf Disease Detection and Severity Assessment Using Deep CNN Architectures",
+        "description": "Developed a deep learning model for automated plant leaf disease detection and severity assessment using Convolutional Neural Networks (CNNs). Evaluated and compared the performance of pre-trained CNN architectures, including ResNet50, MobileNet, and InceptionV3, for accurate disease classification and severity grading. Utilized transfer learning to leverage pre-trained model knowledge and improve disease detection accuracy while reducing training time.",
+        "keywords": [
+          "Python",
+          "CNN"
+        ],
+        "endDate": "May 2024",
+        "startDate": "March 2024",
+        "url": ""
+      },
+      {
+        "name": "DDoS Attack Detection using Deep Learning and Random Forest Approaches",
+        "description": "Developed a model to detect Distributed Denial-of-Service (DDoS) attacks on a network. Employed a hybrid approach utilizing both Deep Learning and Random Forest algorithms for classification. Preprocessed network traffic data to handle missing values and normalize features. Trained and evaluated the models to achieve high accuracy in identifying DDoS attacks.",
+        "keywords": [
+          "Python",
+          "ANN",
+          "RF"
+        ],
+        "endDate": "March 2024",
+        "startDate": "Feb. 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Robotics and Machine Analytics Laboratory",
+        "description": "Worked upon a research article that was accepted at 2023 Seventh International Conference on Image Information Processing (ICIIP). Studied about various Machine Learning and deep learning models and practiced it on some publicly available datasets. Explored various python libraries and studied the maths required for machine learning and data science.",
+        "location": "Malaviya National Institute of Technology, Jaipur",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "C",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Khushi Soni",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "AI-Enhanced Diagnosis: Pediatric Chest X-ray Classification for Bronchiolitis and Pneumonia 2023 Seventh International Conference on Image Information Processing (ICIIP) | 28 May, 2024"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,151 @@
+{
+  "project_count": 3.0,
+  "designation": "Data Science or Data Analysis",
+  "name": "Koustav Sengupta",
+  "college": "Heritage Institute Of Technology",
+  "locations": [
+    "Kolkata"
+  ],
+  "full_output": {
+    "summary": "I am a fourth-year Computer Science Engineering student with practical experience in analyzing data, building statistical models, and creating visualizations. I am looking for an entry-level position in Data Science or Data Analysis where I can use my skills to uncover insights and support decision-making. I am excited to apply my knowledge to help organizations solve real problems and achieve their goals.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science training certification",
+        "issuer": "Internshala",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Intermediate SQL",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Heritage Institute Of Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Kolkata",
+        "ID": 0.0,
+        "grade_received": "9.24",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Krishnagar Collegiate School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "HS (12th)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "97.4%",
+        "field_of_study": "Computer Science",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Text Insight Explorer: Unveiling Sentiments and Readability",
+        "description": "This project evaluates text to uncover its emotional tone and readability, offering a view of its complexity and sentiment. The project cleans and tokenizes text, evaluates sentiment with word lists, and computes readability metrics like the Fog Index and average sentence length, with results on complex words and syllables summarized in Excel.",
+        "keywords": [
+          "Python",
+          "NLTK",
+          "Openpyxl",
+          "Sentiment Analysis",
+          "Readability Metrics",
+          "Data Processing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Koustavgg99/sentiment-analysis"
+      },
+      {
+        "name": "IPL complete insights using Power BI",
+        "description": "Developed an interactive IPL dashboard for visualizing and analyzing various aspects of the Indian Premier League (IPL). I used Power BI to create parameterized charts and dynamic parameters, including simple to complex DAX, for detailed analysis.",
+        "keywords": [
+          "Power BI",
+          "DAX",
+          "Data Visualization",
+          "Parameterized Charts"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Koustavgg99/IPL-Dashboard-using-PowerBI"
+      },
+      {
+        "name": "Ophthalmic Intelligence: using Vision AI for enhanced diagnosis",
+        "description": "We are developing machine-learning techniques to improve the diagnosis of Glaucoma. Our team is developing and refining machine learning algorithms to analyze eye medical images. We aim to enhance Glaucoma detection accuracy by training these models with data and continuously improving them based on new insights and feedback.",
+        "keywords": [
+          "Machine Learning",
+          "Deep Learning (CNN, U-Net, Inception V3)",
+          "Grad-CAM",
+          "Roboflow",
+          "Vision AI",
+          "Medical Image Analysis"
+        ],
+        "endDate": "Present",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "IIT Kharagpur",
+        "description": "Built machine learning models for Medical Visual Question Answering at IIT Kharagpur, and plotted graphs to gain insights. Among the different models, MUTAN achieved the highest accuracy of 80.5% and the lowest loss of 0.56. The MED-VQA dataset provided the best performance across all three models, with an average accuracy of 76.87%.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "Data Analytics and Visualization Job Simulation",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Accenture North America",
+        "description": "Cleaned, modeled, and analyzed three datasets to identify the top 5 most popular content categories, with Animals ranking first, receiving 68,624 reactions. May had the highest content postings, with a total of 1,954 posts.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "Statistical Analysis",
+      "Data Cleaning",
+      "Power BI",
+      "Tableau",
+      "Excel",
+      "TensorFlow",
+      "Matplotlib",
+      "Seaborn",
+      "Scikit-Learn",
+      "Git",
+      "Jupyter Notebook"
+    ],
+    "soft_skills": [],
+    "name": "Koustav Sengupta",
+    "position": "Data Science or Data Analysis",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Krishnagar, Nadia",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

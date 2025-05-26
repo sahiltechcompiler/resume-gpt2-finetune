@@ -1,0 +1,171 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "UMESH",
+  "college": "Chitkara University",
+  "locations": [
+    "Himachal Pradesh",
+    "Noida, Uttar Pradesh, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Course",
+        "issuer": "Coing Ninjas",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Using GitHub for Source Code Management",
+        "skillsLearned": [],
+        "title": "Git and GitHub",
+        "issuer": "skillsoft",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Python",
+        "issuer": "Coing Ninjas",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chitkara University",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Himachal Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.36 (Current)",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Foody",
+        "description": "Online platform for food lovers Discover different restaurants and cuisines Order favorite dishes for home delivery.",
+        "keywords": [
+          "Bootstrap",
+          "Node.js",
+          "Express.js",
+          "React",
+          "Bcrypt",
+          "JWT (JSON Web Token)",
+          "MongoDB",
+          "Mongoose"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "SwiftRoom Allocator",
+        "description": "Contributed to SwiftRoom Allocator, a hostel room allocation system, enhancing features such as: Instant room selection, Room change options, Simplified departure process.",
+        "keywords": [
+          "React",
+          "JavaScript",
+          "HTML",
+          "Node.js",
+          "Express.js",
+          "MySQL",
+          "JWT (JSON Web Tokens)"
+        ],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Love Calculator",
+        "description": "Love Calculator is a simple web application built using HTML, CSS, JavaScript, and localStorage. The purpose of this project is to calculate the percentage of love between two individuals based on the names they provide.",
+        "keywords": [],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Stone Paper Scissors Game",
+        "description": "This project is a 'Stone Paper Scissors' game using HTML, CSS, and JavaScript. Players select an option, the computer randomly picks its move, and the result is shown. Click 'Play Your Move' to play again.",
+        "keywords": [],
+        "endDate": "October 2023",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Tangence",
+        "description": "Currently interning at Tangence, gaining hands-on experience in Developer intern. Engaging in projects involving frontend and backend technologies, including React, Node.js, and Strapi.",
+        "location": "Noida, Uttar Pradesh, India",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "GrappITech",
+        "description": "Developed and implemented web components such as navbars, hero sections, buttons, and footers for the GrapplTech Website. Contributed to the Community Built Web Components (WEB Components Kit) feature set to enhance website functionality and user experience.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C++",
+      "Python",
+      "C",
+      "SQL (MySQL)",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Bootstrap",
+      "RESTful Api",
+      "Deployment Model",
+      "Docker",
+      "Kubernetes",
+      "Postman",
+      "Eclipse",
+      "Git",
+      "Github",
+      "Visual Studio Code",
+      "MySQL Workbench",
+      "MongoDB Compass",
+      "Jupiter Notebook"
+    ],
+    "soft_skills": [],
+    "name": "UMESH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "UCA Student, Student of the Topper Batch at the University Coding Academy (UCA).",
+      "Codeathon 3.O, Secured 1st rank among 500 participants. organized by ACM and Coding Ninjas.",
+      "Hackathon, secured 3rd position in the AI 2.0 Hackathon in Collaboration with Yamaha."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 2.0,
+  "degree": "B.E"
+}

@@ -1,0 +1,132 @@
+{
+  "project_count": 3.0,
+  "designation": "Summer Intern",
+  "name": "Pratyush Kumar",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "New Delhi, INDIA"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Venkateshwar International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XII(CSBE)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Venkateshwar International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "X(CSBE)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "83.33%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Traffic Sign Recognition in Autonomous Vehicles",
+        "description": "Implemented LeNet-5 CNN architecture for Traffic Sign Recognition in autonomous vehicles, achieving a high validation accuracy of 99.77% on the German Traffic Sign Dataset. Applied efficient image preprocessing techniques using OpenCV, showcasing proficiency in computer vision and deep learning approaches.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Deep Learning",
+          "Matplotlib",
+          "Keras",
+          "TensorFlow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Weather App",
+        "description": "Developed a dynamic weather application utilizing HTML, CSS, and JavaScript to display real-time weather data fetched from OpenWeatherMap's API. Implemented JSON data handling to efficiently manage and present weather information, showcasing proficiency in front-end web development and API integration.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Hospital Management System",
+        "description": "Developed a comprehensive hospital management system using C, applying Data Structures and Algorithms to efficiently manage patient records, appointments, and medical data. Implemented features for adding patients, deleting records, and displaying appointments, improving hospital operations and data accessibility.",
+        "keywords": [
+          "C",
+          "Data Structures"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Celebal Technologies",
+        "description": "Developed a Student Exam Score Prediction Model using machine learning techniques, enhance predictive accuracy through feature engineering and data preprocessing. Conducted Statistical Analysis: Performed comprehensive statistical analyses to derive insights from educational data, contributing to data-driven decision-making processes. Enhanced Data Pipelines: Assisted in developing and optimizing data pipelines for efficient data ingestion and processing on local datasets, ensuring seamless data flow for building and testing the prediction model.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JAVA(Basic)",
+      "Python",
+      "TensorFlow",
+      "OpenCV",
+      "HTML/CSS",
+      "JavaScript",
+      "Bootstrap",
+      "MySQL",
+      "Git",
+      "Matplotlib",
+      "Pandas",
+      "NumPy",
+      "Keras"
+    ],
+    "soft_skills": [],
+    "name": "Pratyush Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Research Paper under review, worked on it as my 6th Semester Minor project."
+    ]
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

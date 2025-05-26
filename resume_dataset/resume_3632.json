@@ -1,0 +1,183 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kota Vivek",
+  "college": "SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+  "locations": [
+    "online"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MACHINE LEARNING",
+        "issuer": "Internshala",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JAVA FULL STACK",
+        "issuer": "Wipro-TalentNext",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PYTHON",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DATA STRUCTURES AND ALGORITHMS",
+        "issuer": "Smart Interviews",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "WEB DEVELOPMENT",
+        "issuer": "Internshala",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Cum. GPA: 7.98 / 10.0",
+        "field_of_study": "Electronics and Communication",
+        "startDate": ""
+      },
+      {
+        "school": "SRI CHAITANYA JUNIOR COLLEGE",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "percentage: 90.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "MONTESSORI HIGH SCHOOL",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "10th Grade",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 9.8/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "BLOGGER'S POST",
+        "description": "Developed a full-stack blogging platform using Express.js, RESTful APIs, EJS, and Bootstrap. Implemented CRUD operations for managing blog posts and ensured dynamic content rendering with EJS. Created a responsive, user-friendly interface with Bootstrap, enhancing the user experience across devices.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "Ejs",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "IPL SCORE PREDICTION",
+        "description": "Implemented a machine learning model to predict the scores of Indian Premier League (IPL) cricket matches based on historical match data. Utilized regression algorithms and feature engineering techniques to analyze factors such as team performance, batting order, pitch conditions, and player statistics.",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "STRENGTHENING ATM SECURITY",
+        "description": "Developed a system to enhance ATM security using facial recognition and OTP authentication, reducing fraud by ensuring transactions are authenticated by the account holders face and a one-time password. Utilized Python, OpenCV, dlib, and Twilio to implement this solution without requiring hardware changes.",
+        "keywords": [
+          "Facial Recognition",
+          "OTP Authentication",
+          "Python",
+          "OpenCV",
+          "dlib",
+          "Twilio"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "MACHINE LEARNING",
+        "skillsUsed": [],
+        "endDate": "Dec-2023",
+        "company_name": "Internshala",
+        "description": "Participants gain an understanding of basic machine learning concepts, including algorithms, data preprocessing, and model evaluation. Through hands-on exercises and projects, participants learn to apply machine learning algorithms, perform data preprocessing, and evaluate model performance.",
+        "location": "online",
+        "links": "",
+        "startDate": "Nov-2023"
+      },
+      {
+        "role_name": "WEB DEVELOPMENT",
+        "skillsUsed": [],
+        "endDate": "Dec-2022",
+        "company_name": "Internshala",
+        "description": "Learned the basics of HTML and CSS and the fundamental concepts of JavaScript, Bootstrap and DBMS. Also covered important sub-topics such as responsive design, structuring web page elements, and web accessibility.",
+        "location": "online",
+        "links": "",
+        "startDate": "November-2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "HTML+CSS",
+      "JavaScript",
+      "MYSQL",
+      "Mongodb",
+      "Data Structures",
+      "Algorithms"
+    ],
+    "soft_skills": [],
+    "name": "Kota Vivek",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Certified Smart Coder from Smart Interviews with a global certification (rank 903/21772).",
+      "5 stars in Hacker Rank Problem Solving.",
+      "Solved 260+ problems in Leetcode.",
+      "Cleared GATE 2024 in both DA (Data Science and Artificial Intelligence) (AIR: 4292 ) and CS (Computer Science) (AIR: 13960)."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2020.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

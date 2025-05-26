@@ -1,0 +1,105 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "MANI DHEERAJ KUMAR TADIPARTHY",
+  "college": "SRM Univwersity",
+  "locations": [
+    "AP"
+  ],
+  "full_output": {
+    "summary": "I am a B.Tech graduate with a strong focus on machine learning. Proficient in Python and C++ , I am well-equipped for roles that combine machine learning and data analysis.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM Univwersity",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "NRI Jr College",
+        "endDate": "2019",
+        "maximum_grade": "100",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81.90",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Westberry School",
+        "endDate": "2019",
+        "maximum_grade": "10",
+        "degree": "CBSE",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "7.60/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Predicting credit card customer segmentation",
+        "description": "Proposed a approach for predicting credit card customer segmentation by integrating binning techniques, decision tree analysis, and Naive Bayes classification. Preprocessed the dataset using binning, developed an interpretable decision tree model, and improved predictive accuracy with Naive Bayes. Validated on a real-world dataset, the method demonstrated effective customer segmentation, providing insights for targeted marketing and risk management in the financial industry.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Mental Health Prediction Using ML",
+        "description": "Conducted research to predict mood swings, a key indicator of mental health, using machine learning algorithms such as Decision Trees, Random Forest, K-Nearest Neighbors (KNN), and Naive Bayes. Applied feature engineering and model validation techniques, including accuracy, F1-score, and recall, to develop high-accuracy prediction models. This research offers valuable insights for proactive mental health management and intervention.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analysis Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "Sep 2023",
+        "company_name": "APSSDC",
+        "description": "During my 2-month internship at APSSDC as a Data Analysis Intern, I gained extensive experience in data analysis using Python. I learned to clean data, conduct exploratory data analysis, and perform critical tasks such as checking for null values, sorting, and grouping data. Additionally, I developed skills in using various data visualization techniques to effectively present analytical findings.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Data Science",
+      "Html",
+      "Css",
+      "Javascript",
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "Data Structures",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "MANI DHEERAJ KUMAR TADIPARTHY",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

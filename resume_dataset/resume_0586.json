@@ -1,0 +1,148 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Yash Mall",
+  "college": "MANIPAL UNIVERSITY",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Networks",
+        "issuer": "CISCO",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.99",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "MAHESHWARI PUBLIC SCHOOL",
+        "endDate": "May 2020",
+        "maximum_grade": "",
+        "degree": "12th CBSE",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Cum. Per: 84 percent",
+        "field_of_study": "PCM with Information Practices",
+        "startDate": ""
+      },
+      {
+        "school": "MAHESHWARI PUBLIC SCHOOL",
+        "endDate": "May 2018",
+        "maximum_grade": "",
+        "degree": "10th CBSE",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Cum. Per: 89 percent",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CODE BUDDY",
+        "description": "Developed and implemented a collaborative code editor with real-time synchronization, allowing users to create and join coding rooms using custom or system-generated room IDs. Enabled simultaneous coding for users in the same room, supporting multiple programming languages (CPP, Java, Python) and ensuring instant code updates visibility to all participants. Integrated a chat functionality within the collaborative environment, facilitating seamless communication between users sharing the coding space.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "Socket io"
+        ],
+        "endDate": "April 2024",
+        "startDate": "January 2024",
+        "url": ""
+      },
+      {
+        "name": "DEFENDER",
+        "description": "Developed Defender: a flood management system with real time weather data integration. Established an email-based messaging system for users to request flood-related assistance.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MySQL",
+          "PHP",
+          "BootStrap"
+        ],
+        "endDate": "November 2023",
+        "startDate": "August 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Internship",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "CELEBAL TECHNOLOGIES",
+        "description": "Developed and implemented multiple projects using ReactJS, gaining proficiency in building dynamic and responsive web applications.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "CAMPUS AMBASSADOR",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Manipal University Jaipur",
+        "description": "Collaborated with various student clubs, organizations, or departments to host joint events or initiatives.",
+        "location": "",
+        "links": "",
+        "startDate": "Sept 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "JavaScript"
+    ],
+    "soft_skills": [
+      "communication",
+      "leadership"
+    ],
+    "name": "Yash Mall",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received the Deans List award for Academic Excellence by Manipal University Jaipur for the exceptional performance in 5th and 6th Semester respectively.",
+      "3rd in International Science Olympiad (ISO) in class VIII"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

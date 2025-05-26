@@ -1,0 +1,141 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Advika Shah",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, India",
+    "Lucknow, India"
+  ],
+  "full_output": {
+    "summary": "Passionate Full Stack Developer and Analyst with expertise in JavaScript, React, Node.js, Express, and MongoDB. Experienced in building responsive web applications, creating intuitive interfaces, and implementing robust server-side logic. Strong analytical and problem-solving skills, with experience in data analysis, interpretation, and presenting actionable insights. A collaborative team player who excels in both technical development and analytical challenges. Seeking opportunities to contribute to innovative web development and data-driven projects.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "St. Fidelis College",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Lucknow, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "ICSE and ISC",
+        "startDate": "Apr 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "BookHouse",
+        "description": "MERN Project Built with React.js for dynamic UI, using Axios for API requests, and Context API for state management, with responsive design using CSS Flexbox and Grid. Developed with Node.js and Express, using MongoDB for data storage, and implemented JWT for secure user authentication. Implemented search, sorting, and ltering functionality, along with user reviews and ratings, enhancing user experience and engagement with the platform.",
+        "keywords": [
+          "React",
+          "Tailwind",
+          "Node",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "June 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Mental Wellness with Chatbot",
+        "description": "Frontend Project Developed a user-friendly, visually appealing UI that integrates seamlessly with a chatbot for enhanced user engagement and intuitive navigation. Integrated OpenAIs API with a Flask-based backend to create a real-time, intelligent chatbot that processes user queries and delivers personalized, context-aware responses Optimized UI and chatbot for seamless use across desktop and mobile devices.",
+        "keywords": [
+          "React",
+          "Tailwind",
+          "Node",
+          "Python",
+          "Flask"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Diabetes Prediction Model using ML",
+        "description": "Machine Learning Project Performed data pre-processing, including handling missing values, normalization, and feature selection, to improve model efciency and predictive performance. Used machine learning algorithms (e.g., logistic regression, decision trees), with key focus on accuracy, precision, and recall for early detection.",
+        "keywords": [
+          "Python",
+          "Jupyter"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Booking System",
+        "description": "Minor Project The Movie Booking System is a Java-based application enabling users to browse movies, select showtimes, and book tickets. It supports user registration, snacks, and real-time seat selection. Administrators can manage movie listings and showtimes.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "Aug 2021",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Development",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "LearnDU",
+        "description": "Developed APIs with Node.js, managed MongoDB, and secured authentication using JWT.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "C++",
+      "SQL",
+      "Javascript",
+      "Python(basic)",
+      "VSCode",
+      "Git",
+      "Canva",
+      "PowerBi",
+      "Excel",
+      "React",
+      "Node",
+      "TailwindCSS",
+      "MongoDB",
+      "Express",
+      "Figma",
+      "AWS",
+      "Typescript",
+      "NextJs",
+      "ThreeJS"
+    ],
+    "soft_skills": [
+      "Organized",
+      "Adaptable",
+      "Communication",
+      "Problem Solving",
+      "Ethical"
+    ],
+    "name": "Advika Shah",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

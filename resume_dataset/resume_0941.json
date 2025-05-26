@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Udayasri Dasari",
+  "college": "Chennai Institute Of Technology",
+  "locations": [
+    "Chennai, India",
+    "Kancheepuram, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming in Java",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Digital Circuits",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MS Office Fundamentals",
+        "issuer": "Naan Mudhalvan",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Practitioner Essentials",
+        "issuer": "Cousera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity",
+        "issuer": "CISCO Certification",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelors in Electronics and Communication Engineering",
+        "location": "Chennai, India",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.1",
+        "field_of_study": "",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Task Manager",
+        "description": "Developed a task management application using PostgreSQL for database and Next.js for full-stack development. Designed to help users prioritize tasks, manage workload effectively, and track progress towards deadlines and goals.",
+        "keywords": [],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": "https://task-manager-gray.vercel.app/signin"
+      },
+      {
+        "name": "Piggy Bank Application (OOPs Concept)",
+        "description": "Developed a comprehensive account setup feature for secure profile creation and management, capturing essential details such as name, email, and password. This ensures data privacy and personalized user experiences. Implemented goal-setting functionality for defining and tracking savings objectives with customizable target amounts and deadlines. Users can monitor progress and adjust to stay on track. Integrated an advanced expense tracking system categorizing expenditures into segments like groceries, bills, and entertainment. This provides insightful analytics to help users optimize spending habits.",
+        "keywords": [],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Home Energy Management using ML",
+        "description": "Utilized Reinforcement learning and Artificial Neural Networks to create a Demand Response algorithm. Reinforcement learning is utilized in artificial neural networks to optimize energy through prediction of solar power, and the predicted solar power is 92% accurate to the original solar power.",
+        "keywords": [],
+        "endDate": "July 2023",
+        "startDate": "May 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "IIITDM Kancheepuram",
+        "description": "Developed expertise in machine learning using Python, specializing in neural network implementations for various applications. Achieved proficiency in deep learning frameworks and algorithms for effective model training and deployment. Engineered a project using Artificial Neural Networks and Reinforcement Learning, achieving 96% accuracy in advanced pattern recognition and intelligent systems development.",
+        "location": "Kancheepuram, India",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "Python",
+      "SQL(Postgres)",
+      "JavaScript",
+      "HTML/CSS",
+      "React js",
+      "Nextjs",
+      "Node js",
+      "Express js",
+      "Git",
+      "Docker",
+      "Linux",
+      "VS Code",
+      "Eclipse",
+      "Artificial Neural Networks",
+      "Reinforcement learning"
+    ],
+    "soft_skills": [],
+    "name": "Udayasri Dasari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured the first prize in a project presentation held at the Velammal Technical Symposium",
+      "Solved 300+ problems in Leetcode with an acceptance rate greater than 90%"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors in Electronics and Communication Engineering"
+}

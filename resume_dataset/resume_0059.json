@@ -1,0 +1,160 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Anurag Sharma",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "New Delhi",
+        "ID": 0.0,
+        "grade_received": "8.225",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Deen Bandhu Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE(XII)",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "94.6 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Apeejay School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE(X)",
+        "location": "New Delhi",
+        "ID": 2.0,
+        "grade_received": "82.6 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Task Study Hub",
+        "description": "Currently working on an edtech platform for users to learn best development and designing skills from best teachers around the country",
+        "keywords": [
+          "Html",
+          "Css",
+          "React",
+          "Node JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      },
+      {
+        "name": "SERENE SPACE",
+        "description": "Led development of dynamic platform, employing comprehensive tech stack for intuitive user experience. Engineered front- end and back-end solutions for efficient data handling. Collaborated with stakeholders to integrate key features like podcast section and mental health resources. Proficient in modern web development, enabling creation of robust, scalable platform fostering mental wellness community.",
+        "keywords": [
+          "Html",
+          "Css",
+          "React",
+          "Node JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      },
+      {
+        "name": "AS-Foodie fleet",
+        "description": "Developed a full-stack food ordering app using Next.js 14, React.js, MongoDB, and Tailwind CSS, enabling seamless browsing, ordering, and payment processing for users. Utilized Next.js 14 for server-side rendering and React.js for dynamic UI elements. Employed MongoDB for efficient backend data storage and management. Styled UI components efficiently using Tailwind CSSs utility-first approach.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Next.js 14",
+          "React.js",
+          "MongoDB",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      },
+      {
+        "name": "LUFFY POP - Shopping Cart",
+        "description": "Developed LUFFY POP a user-friendly e-commerce platform offering seamless navigation, efficient data management, and reliable functionality also allowing users to add and remove a variety of products to cart. Used FakeStore API to fetch product information, ensuring real-time updates and accurate details for an enhanced shopping experience.",
+        "keywords": [
+          "React JS",
+          "MongoDB",
+          "Express JS",
+          "Node JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Ass. Vice President",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Hash Define (NPO)",
+        "description": "Actively supervised and managed various events under the guidance of the founders. Notably, I took charge of the sponsorship department during HackDefine, a successful hackathon we organised in May. In addition, I have been dedicated to mentoring numerous students, providing guidance and support to those facing challenges in understanding data structures and algorithms concepts.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Member of Professional Development",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Drishti - Rotaract Club of BPIT",
+        "description": "Member of Professional Development at RaC BPIT which is a social welfare society and we have been committed to solving real-world problems since 2016 and continuing to do the same with reforming zeal.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Data Structures",
+      "Algorithms",
+      "OOPS",
+      "HTML/CSS",
+      "JavaScript",
+      "ReactJs",
+      "NodeJs",
+      "MySql",
+      "ExpressJs",
+      "Next JS",
+      "Tailwind"
+    ],
+    "soft_skills": [
+      "English Proficient",
+      "Leadership",
+      "Management"
+    ],
+    "name": "Anurag Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "I am learning data structures and algorithms, their applications and other technologies.",
+      "Solved 600+ questions on various coding platforms.",
+      "Core Team Member at Hash Define Community having 5000+ student developers around India."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

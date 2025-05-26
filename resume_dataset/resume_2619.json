@@ -1,0 +1,154 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "G.Devi Sri Ranga Prasad",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, IN",
+    "Andhra Pradesh, IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "R programing",
+        "issuer": "Board infinity",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java",
+        "issuer": "Hacker Rank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C, C++",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Phagwara, IN",
+        "ID": 0.0,
+        "grade_received": "76%",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Andhra Pradesh, IN",
+        "ID": 1.0,
+        "grade_received": "96.5%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Narayana High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th class",
+        "location": "Andhra Pradesh, IN",
+        "ID": 2.0,
+        "grade_received": "95%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Anime List Backend Api",
+        "description": "Users can keep track of the anime they have watched. The security is robust because it contains OAuth 2.0 and JWT token verification. And also The Animes Collection has 14k+ records. Developed proficiently in Spring Boot Security 6, with APIs and MongoDB as well.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://naa-anime-list-backend-api.onrender.com/login"
+      },
+      {
+        "name": "Rock paper scissor game",
+        "description": "AI-based project where the player competes against the computer. Utilizes OpenCV and Media Pipe for hand gesture recognition. Developed proficiency in Python and learned to implement computer vision and machine learning techniques.",
+        "keywords": [],
+        "endDate": "Jul 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Airbnb data analysis",
+        "description": "Conducted a comprehensive analysis of Airbnb pricing patterns to understand market dynamics. Developed a predictive model capable of estimating Airbnb rental prices. Enhanced data analytics skills, particularly in R programming, and gained insights into the factors influencing accommodation pricing.",
+        "keywords": [],
+        "endDate": "Jun 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Jun 2023",
+        "company_name": "R Programing language",
+        "description": "Embarked on a steep learning curve to master R programming and data analysis techniques. Overcame initial challenges through dedicated study and hands-on practice with real datasets. Transitioned from finding data analysis challenging to enjoying the intricacies of data interpretation and model creation. Applied newly acquired R programming skills to contribute meaningfully to a project, demonstrating the ability to learn and apply new technologies effectively.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "MySQL",
+      "MongoDB",
+      "Excel",
+      "Tabuleo",
+      "C++",
+      "C",
+      "Core Java",
+      "Python",
+      "R",
+      "kotlin",
+      "HTML",
+      "CSS",
+      "Java Script",
+      "Java Spring Boot"
+    ],
+    "soft_skills": [],
+    "name": "G.Devi Sri Ranga Prasad",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 500+codes form various platforms : Solved 300+ in Leet Code, 200+ in Hacker rank, 100+ in Coding Ninjas, 3 star coder in gfg"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

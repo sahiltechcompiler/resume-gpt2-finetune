@@ -1,0 +1,152 @@
+{
+  "project_count": 4.0,
+  "designation": "Frontend Web Developer",
+  "name": "Gaurav Kumar Mishra",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Delhi, India",
+    "India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms Certificate",
+        "issuer": "",
+        "certiLink": "Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Programming",
+        "issuer": "",
+        "certiLink": "Link"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.831/10",
+        "field_of_study": "Information Technology",
+        "startDate": "Dec 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "UrlTrimmer",
+        "description": "Developed a full stack URL shortener application using React JS for frontend development, Tailwind CSS for responsive UI design, Supabase for backend management, and Shadcn UI for intuitive user interface components. Implemented URL shortening functionality, Qr Code Generation, user authentication with JWT, and secure database operations with MongoDB. Designed RESTful API routes for URL management and user sessions to ensure efficient performance and user data security.",
+        "keywords": [
+          "React.js",
+          "Tailwind CSS",
+          "Supabase",
+          "Shadcn UI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "CinemaHeist",
+        "description": "Build a Major React App which showcases a movie application where users can explore a variety of movies and view details such as the title, overview, and rating. The app features a search function to find specific movies and provides a dynamic user interface for browsing movie collections.",
+        "keywords": [
+          "React.js",
+          "Axios",
+          "CSS",
+          "TMDb API",
+          "Vercel"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "WeatherUno",
+        "description": "WeatherUno is a weather forecasting application designed to provide users with current weather conditions and forecasts for their desired locations. The app features a clean, user-friendly interface where users can search for weather information by city name or geographical coordinates.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "OpenWeatherMap API",
+          "GitHub Pages"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "RogAnimation",
+        "description": "Developed an interactive and visually dynamic website utilizing HTML, CSS, JavaScript, GSAP, Locomotive Scroll, and Shery.js. Implemented seamless animations and smooth scrolling effects to enhance user engagement and experience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "GSAP",
+          "Locomotive Scroll",
+          "Shery.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Web Developer",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "IBM",
+        "description": "Successfully completed a 6-week internship specializing in Front End Web Development in collaboration with IBM. Developed and implemented responsive, high-performance web applications, improving user experience and accessibility. Enhanced website performance by optimizing front-end code and assets, resulting in a 25% increase in page load speed reduction in execution time and a 10% decrease in memory footprint achieving a 30% improvement in UI/UX design quality.",
+        "location": "India",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "HTML5",
+      "MYSQL",
+      "React.js",
+      "Tailwind CSS",
+      "CSS3",
+      "GSAP",
+      "Node.js",
+      "Express.js",
+      "Data Structures and Algorithms",
+      "Computer Networks",
+      "DBMS",
+      "Operating System",
+      "AI",
+      "Basic Machine Learning",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Gaurav Kumar Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved over 600+ DSA problems on Leetcode, Gfg and other Coding Platforms"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

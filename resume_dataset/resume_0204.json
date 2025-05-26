@@ -1,0 +1,143 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Muhammed Anaz",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Punjab, India",
+    "Calicut, Kerala"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Architecture and Organization Masterclass",
+        "issuer": "Yasas Sri Wickramasinghe (Udemy)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structure",
+        "issuer": "UC San Diego (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "R Programming",
+        "issuer": "Sumit Sourav (Board Infinity)",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Punjab, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.73",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Rahmania Higher Secondary School",
+        "endDate": "March 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 96%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Pleasant English School",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Calicut, Kerala",
+        "ID": 2.0,
+        "grade_received": "Percentage: 90%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Space Invaders game",
+        "description": "Objective: Players control a spaceship to shoot down alien invaders before they reach the bottom of the screen. Gameplay: Players can move the spaceship left and right while being able to shoot, and the enemies move left right and down while also shooting projectiles. Features: There are 3 different aliens and a hovering alien that comes and goes for extra points. Graphics and Animation: Scoring System: each alien gives you different points while the hovering alien that comes by giving you the highest score. Challenges and Solutions: Getting all of them to move at the same time using runnable was a challenge but I overcame it by rechecking all the implementations. Code Structure: There is an entity class (Common code for all entities), Alien class (Alien features), Group Alien class (Group them together so they move uniformly), Bullet class (different bullet classes for alien and vessel). Future Improvements: The game can have different levels and the difficulty can be increased as it progresses.",
+        "keywords": [
+          "Java",
+          "Game Development"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chatting Application",
+        "description": "Objective: Developed a chatting application using basic Tinker for server-client connectivity. Features: Utilized Java Swing for the graphical user interface development. Implemented server and client programs to enable real-time communication. Created a user-friendly GUI allowing multiple users to connect, send, and receive messages in real-time. Graphics: A simple chatting application gui taking inspiration from common chatting application nowadays. Future Improvement: Text encryption, group chatting, image and video sharing.",
+        "keywords": [
+          "Java",
+          "Swing",
+          "Server-Client"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "R Programming",
+        "skillsUsed": [
+          "R"
+        ],
+        "endDate": "present",
+        "company_name": "Board Infinity",
+        "description": "R programming is a widely-used programming language for Data Science. Its significant use in the industry makes it one of the crucial skills to master in the Data Science domain. This free online R programming certification course takes you through the basics and then all the way up to advanced concepts that are crucial in analyzing data. Upon completion, you will be equipped with the knowledge to write code in R and perform basic analysis on data.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "MySQL",
+      "MongoDB",
+      "R",
+      "C++",
+      "Java",
+      "C",
+      "Python",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [],
+    "name": "Muhammed Anaz",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "4 Star Rating in c++ on hackerrank",
+      "Solved 150+ questions in leetcode",
+      "Solved 150+ medium to hard level leetcode questions"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

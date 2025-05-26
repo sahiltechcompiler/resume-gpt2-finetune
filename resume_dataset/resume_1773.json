@@ -1,0 +1,82 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Anmol Garg",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "New Delhi, India",
+    "Meerut, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.5",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "IIMT Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Meerut, India",
+        "ID": 1.0,
+        "grade_received": "Percentage - 94.8%",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Image Processing",
+        "description": "Applied unsupervised CNN algorithm for predictive image analysis. Utilized CNN to interpret images without labeled data. Extracted meaningful patterns and relationships from images. Addressed the challenge of working with unlabeled data. Leveraged CNN for automated pattern recognition. Demonstrated proficiency in learning without labeled guidance.",
+        "keywords": [
+          "Convolutional Neural Networks (CNN)",
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "04 2023",
+        "startDate": "",
+        "url": "Live site here"
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developed a Python-based Movie Recommendation System. Utilized Nearest Neighbor algorithm for training. Recommends the most suitable movies based on user preferences. Deployed the system using Heroku platform. Enabled seamless access to the recommendation system online.",
+        "keywords": [
+          "Heroku",
+          "KNN"
+        ],
+        "endDate": "11 2022",
+        "startDate": "",
+        "url": "Download"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Anmol Garg",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Meerut, UP",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

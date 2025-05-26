@@ -1,0 +1,144 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Harsh Pratap Singh",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Kota, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Development Course",
+        "issuer": "30DC",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "August 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "Cgpa 7.88",
+        "field_of_study": "Information technology",
+        "startDate": "September 2021"
+      },
+      {
+        "school": "Maheshwari Public School",
+        "endDate": "March 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Kota, Rajasthan",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "April 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "PingMyCoin",
+        "description": "A cryptocurrency tracking web application that uses Binance API to monitor the prices of crypto pairing in real time and send email notification based on custom alerts created by the users using 20 percent less time. Build reusable react components that improved the code efficiency by 2002 and expanded user registration and login functionality to support users with different roles by 30 percent. Optimized and adapted database schemas to align with evolving application changes and project requirements, leveraging Agile and Scrum methodologies for efficient and responsive development.",
+        "keywords": [
+          "Nodejs",
+          "React",
+          "JavaScript",
+          "CSS Tailwind",
+          "Expresss.js"
+        ],
+        "endDate": "July 2024",
+        "startDate": "June 2024",
+        "url": ""
+      },
+      {
+        "name": "WatchToday",
+        "description": "Developed a video streaming platform with the implementation of a recommendation system using OpenAIs ChatGPT, enhancing user experience by providing personalized movie and video suggestions based on viewing history and preferences with an accuracy of 78 percent. Crafted and implemented a responsive user interface using React.js, guaranteeing seamless navigation and accessibility across diverse devices for optimal user experience. Built a robust backend services using Node.js and Express, creating a resilient API endpoint for video streaming and recommendation functionality. Efficiently managed data storage and retrieval with MongoDB, ensuring optimal handling of user data and videos.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "CSS Tailwind",
+          "Express"
+        ],
+        "endDate": "July 2024",
+        "startDate": "May 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front End Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js"
+        ],
+        "endDate": "June 2024",
+        "company_name": "MotionCut",
+        "description": "Innovated and optimized responsive web pages using HTML, CSS, and JavaScript, improving user interface design and enhancing cross-browser compatibility. Successfully completed 10+ web pages, resulting in a 25 percent reduction in bounce rate. Gained hands-on experience with modern frontend frameworks such as React.js, And improved skills in implementing interactive UI components and state management. Designed and deployed 10+ interactive components and 20 percent increase in application performance.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Full Stack Web Developer Intern",
+        "skillsUsed": [
+          "JavaScript",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "React.js"
+        ],
+        "endDate": "August 2024",
+        "company_name": "Main Flow Services and Technologies",
+        "description": "Built and maintained full-stack web applications using JavaScript, Node.js, Express, and MongoDB, enhancing both frontend and backend development skills. Contributed to the development of 5+ full-stack projects, resulting in a 30% increase in overall application performance. Learned to implement RESTful APIs and integrate them with frontend frameworks like React.js, improving data handling and user interaction. Successfully operated and integrated 10+ Restful APIs, leading to a 25 percent improvement in data retrieval time.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Node.js",
+      "React.js",
+      "Express js",
+      "Bootstrap",
+      "Css Tailwind",
+      "Redux Toolkit",
+      "Git",
+      "Github",
+      "MySQL",
+      "Mongo DB"
+    ],
+    "soft_skills": [],
+    "name": "Harsh Pratap Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Senior Coordinator of IEEE-RAS : Led team of 8 to successfully execute many events.",
+      "Solved 300+ LEETCODE Questions."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor Of Technology"
+}

@@ -1,0 +1,152 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Dileep Pujala",
+  "college": "SRKR Engineering College",
+  "locations": [
+    "Bhimavaram",
+    "Vijayawada",
+    "Kanigiri"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "TalentNext course on Java Full Stack",
+        "issuer": "Wipro",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming in Java",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRKR Engineering College",
+        "endDate": "Mar. 2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Bhimavaram",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.69",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Jr College",
+        "endDate": "Jun 2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Vijayawada",
+        "ID": 1.0,
+        "grade_received": "GPA: 10.0",
+        "field_of_study": "",
+        "startDate": "Jun 2018"
+      },
+      {
+        "school": "Sri Chaitanya High School",
+        "endDate": "Apr 2018",
+        "maximum_grade": "",
+        "degree": "S.S.C.",
+        "location": "Kanigiri",
+        "ID": 2.0,
+        "grade_received": "GPA: 10.0",
+        "field_of_study": "",
+        "startDate": "Jun 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Heart Disease Prediction Through ECG Images",
+        "description": "Developed and designed a feature extraction pipeline using Convolutional Neural Networks (CNNs) with parallel convolutional branches and depth concatenation for enhanced performance. Integrated the extracted features into machine learning classifiers (SVM, RF, DT, K-NN, NB) for comprehensive training and testing. Achieved a classification accuracy of 95% in detecting cardiovascular diseases using the proposed CNN model and machine learning classifiers.",
+        "keywords": [
+          "Python",
+          "Image Processing",
+          "Deep Learning"
+        ],
+        "endDate": "Apr. 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Music Player",
+        "description": "Developed a PHP-based Music Player application with secure user and admin logins, enabling data loading via APIs. Users can request songs via email, while the admin panel allows for adding, modifying, and deleting songs. Developed features for liking songs and creating playlists, enriching the experience with personalized music options.",
+        "keywords": [
+          "HTML/CSS",
+          "Javascript",
+          "Bootstrap",
+          "PHP"
+        ],
+        "endDate": "Apr 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat Application Using Java",
+        "description": "Developed a one-to-one Chat Application in Java using Socket and ServerSocket for real-time communication between two users connected within a network. Implemented multi-threading to manage concurrent connections and used Swing for the UI, along with JWT for secure authentication.",
+        "keywords": [
+          "Java",
+          "Java Swings",
+          "Java AWT"
+        ],
+        "endDate": "Dec. 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern - FullStack Developer",
+        "skillsUsed": [
+          "JavaScript",
+          "TypeScript",
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "Apr 2024",
+        "company_name": "CampX Edutech",
+        "description": "Designed and developed backend APIs using Node.js with MongoDB, including those for exams, quizzes, and course progress tracking. These APIs facilitated accurate time tracking and logged all user activities. Created an admin panel using React.js and Material UI for managing courses, exams, and e-books. Utilized AWS S3 for secure storage of all media files, with enhanced security through CloudFront. Thoroughly tested all APIs and documented them in Postman, ensuring seamless integration and usability for mobile developers.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2020"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "HTML/CSS",
+      "JavaScript/TypeScript",
+      "Nodejs",
+      "Reactjs",
+      "Express js",
+      "Nest js",
+      "MySQL",
+      "MongoDB(Basics)"
+    ],
+    "soft_skills": [],
+    "name": "Dileep Pujala",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

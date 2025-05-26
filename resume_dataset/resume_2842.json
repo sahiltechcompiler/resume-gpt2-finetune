@@ -1,0 +1,194 @@
+{
+  "project_count": 6.0,
+  "designation": "Developer | Cybersecurity Apprentice",
+  "name": "JATIN KUMAR MITTAL",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "A dedicated student at IPU University, I am currently pur- suing a BTech in Information Technology with a fervent passion for the tech industry. My goal is to harness my knowledge to create a positive impact on the world. I thrive on learning new technologies, constantly seeking to expand my expertise. My strongest assets are adapt- ability and time management, skills that I continuously refine to excel in my academic endeavors and beyond.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "A very good course for beginner to take a overview of cybersecurity world in which we get to know about evolution of cybersecurity.",
+        "skillsLearned": [],
+        "title": "Foundation of Cybersecurity",
+        "issuer": "Coursera",
+        "certiLink": "https://coursera.org/share/955f6b46a82df03cc7efb4f7350e3cbf"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "This course provide a in-depth knowledge of networking and help to built a strong base on newtorking and also teach steps to protect network from external hackers.",
+        "skillsLearned": [],
+        "title": "Connect and Protect: Networks Security",
+        "issuer": "Coursera",
+        "certiLink": "https://coursera.org/share/2a2e7f703f3909f0b2b02c7c36be28e5"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "A very good course to know about threats and how we can mitigate it. We get to know about different framework used in cybersecurity world and by using this framework we can migitate vulnerabilities. This course also provide knowledge of playbooks which is used to response the incident.",
+        "skillsLearned": [],
+        "title": "Play It Safe: Manage Security Risks",
+        "issuer": "Coursera",
+        "certiLink": "https://coursera.org/share/9ecea5edd30105bca4a8f5bae9202a28"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Currently I am doing sql injection on portswigger and solved more than 15+ labs of sql injection. During solving this labs, I got to know about login bypass vulnerability.",
+        "skillsLearned": [],
+        "title": "Portswigger labs",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Current CGPA: 8.5",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Remal Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 84",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "Abhinav Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 79",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "BlockDrive",
+        "description": "It is a decentralized file-storing and sharing system. It is a website that helps users to store their file on internet to access files from anywhere and also we provides P2P sharing service using users wallet public address. The reason to make this project is to provide privacy and full control to user on their data.",
+        "keywords": [],
+        "endDate": "2022",
+        "startDate": "",
+        "url": "github.com/jatinmittal552/Photo-Sharing-DApp"
+      },
+      {
+        "name": "EaseTrip",
+        "description": "To enhance the traveling experience, I made a website for domestic and foreign travelers who want to explore the rich tapestry of Indias diverse cultures. Travelers can select or customize their traveling packages. On behalf of travelers, we arrange everything for our travelers. For a better experience for foreign travelers, we onboard college students who are pursuing courses in the tourism field for better engagement.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/jatinmittal552/EaseTrip"
+      },
+      {
+        "name": "UrlShortener",
+        "description": "This is a URL shortener website built using only JavaScript and the EJS toolkit for server-side rendering. It provides a simple and efficient way to shorten long URLs into more manageable and shareable links. It includes Javascript used for the backend logic and server-side scripting, EJS for server-side rendering of HTML pages, Express.js for handling server requests and routing.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/jatinmittal552/urlshortner"
+      },
+      {
+        "name": "KeepNotes",
+        "description": "It is an cross platform app which help user to schedule their day and set small goal to feel confident after achieving it. This app has a friendly UI to create and delete notes which make it preferable over other apps.It was built using Realm Database.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/jatinmittal552/KeepNotes"
+      },
+      {
+        "name": "MobiCare",
+        "description": "It is mobile alert system which help users to protect their phone from theft.Basically it is an app which give alert sound when your phone go away from you. It is my personal project and i want to take it next level so that noone lost their phone.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/jatinmittal552/Care"
+      },
+      {
+        "name": "EquationSolver",
+        "description": "It was my first year minor project which help students to calculate the complex problems. Basically, students just need to enter value of variable in field and just click on solve button, they will get their answer in just few seconds.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/jatinmittal552/EquationSolver"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cybersecurity Apprentice",
+        "skillsUsed": [],
+        "endDate": "Current",
+        "company_name": "GDSC",
+        "description": "I am member of a gdsc cybersecurity team in which every member is fully passionate about cybersecurity and keep a good knowledge of cybersecurity field. We conduct meet every week in which every member share their knowledge with other members and we discuss about new cybersecurity tools so that we get to know about new technology.",
+        "location": "",
+        "links": "Certificate: https://photos.app.goo.gl/wAtyfbNYmxed2cde7",
+        "startDate": "2022"
+      },
+      {
+        "role_name": "App Development Team Member",
+        "skillsUsed": [],
+        "endDate": "Current",
+        "company_name": "GDSC",
+        "description": "I am member of dedicate gdsc app development team in which every member keep good knowledge of app development. I have built around 5 project since I joined this team. It was a great experience. I learnt so much about developing cycle.",
+        "location": "",
+        "links": "Certificate: https://photos.app.goo.gl/oqYnjwyHnFTwyRjD7",
+        "startDate": "2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "SQL",
+      "Python",
+      "Dart",
+      "Solidity",
+      "Flutter",
+      "Reactjs",
+      "Nodejs",
+      "RestfulAPIs",
+      "Git",
+      "Postman",
+      "Github",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Problem-Solving mindset",
+      "willingness to learn",
+      "Active listening",
+      "Prioritization"
+    ],
+    "name": "JATIN KUMAR MITTAL",
+    "position": "Developer | Cybersecurity Apprentice",
+    "interests": [],
+    "achievements_and_awards": [
+      "Trying to proficient in Data Structures and Algorithms; successfully solved over 120+ problems during academic and personal journey which help to enhancing problem-solving and programming skills."
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

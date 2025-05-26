@@ -1,0 +1,134 @@
+{
+  "project_count": 2.0,
+  "designation": "Software Developer Intern",
+  "name": "Aniket Sontakke",
+  "college": "Manipal University, Jaipur",
+  "locations": [
+    "Rajasthan, India",
+    "Thane, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "The course offers a comprehensive overview of essential algorithmic concepts and techniques. It covers the analysis of algorithms using asymptotic complexity and Big O notation, fundamental sorting and searching methods, and key graph algorithms like BFS, DFS, Dijkstras, and Prims. Additionally, it explores advanced design strategies such as divide and conquer, dynamic programming, and greedy algorithms, along with important data structures like heaps and search trees.",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "teaches how to efficiently manage and manipulate databases using SQL. It covers essential SQL concepts, including querying data, filtering and sorting results, and using functions and joins to combine information from multiple tables. The course also addresses database design and optimization techniques, helping learners build and maintain robust databases.",
+        "skillsLearned": [],
+        "title": "Structured Query Language (SQL)",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Covers foundational networking concepts, including network design, security measures, and automation techniques. It teaches essential skills for managing and securing enterprise networks, configuring routers and switches, and implementing network automation to enhance efficiency and performance.",
+        "skillsLearned": [],
+        "title": "CCNA: Enterprise Networking, Security, and Automation",
+        "issuer": "CISCO",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University, Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.69/10.0",
+        "field_of_study": "Information technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Smt. Sulochanadevi Singhania School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "ICSE",
+        "location": "Thane, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 87.0%",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      },
+      {
+        "school": "DAV Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE",
+        "location": "Thane, India",
+        "ID": 2.0,
+        "grade_received": "Percentage: 92.4%",
+        "field_of_study": "Class X",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Flex-Zone",
+        "description": "The Flex Zone project is a workout creation app designed to help users plan and manage their exercise routines. The app allows users to create personalized workout plans, making it easier to stay consistent with their fitness goals. The project predominantly uses the JavaScript library Rract JS and features components typical of modern web applications.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://flex-zone.netlify.app"
+      },
+      {
+        "name": "EchoRelay",
+        "description": "A application designed to transcribe and translate recorded audio or audio files. It aims to convert spoken language into written text and then translate that text into another language. Uses web workers to run ML models in the browser.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://echo-relay.netlify.app/"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2024",
+        "company_name": "Siemens Healthineers AG",
+        "description": "Project- Prototype modeling for a new web based application called Data Controller using ReactJS and TailwindCSS. This application will help in better data management and data mapping on HQ as well as Country level. MCMn Statistics: Java code to parse Pricebook XML file to calculate the length of S-text, B-text and E-text. Calculating the average of all three and creating an output csv file.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "C",
+      "SQL",
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Web Development",
+      "MySQL",
+      "MongoDB",
+      "Node.js",
+      "git",
+      "ReactJS",
+      "TailwindCSS"
+    ],
+    "soft_skills": [],
+    "name": "Aniket Sontakke",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

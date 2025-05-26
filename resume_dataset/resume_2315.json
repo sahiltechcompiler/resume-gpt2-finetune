@@ -1,0 +1,172 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "SARUMATHY P",
+  "college": "St.Josephs College Of Engineering",
+  "locations": [
+    "Chennai, TamilNadu",
+    "Villupuram, TamilNadu",
+    "San Francisco, United States (Remote)",
+    "Chennai, India(Remote)",
+    "Karnataka, India(Remote)",
+    "Haryana, India(Remote)",
+    "Toronto, Ontario (Remote)"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Certified Cloud Practitioner",
+        "issuer": "AWS",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google IT Automation with Python - Professional Certificate",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "St.Josephs College Of Engineering",
+        "endDate": "Expected 2025",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Chennai, TamilNadu",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.63/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Ramakrishna Mission Vidyaalaya Matric Higher Secondary School",
+        "endDate": "April 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Villupuram, TamilNadu",
+        "ID": 1.0,
+        "grade_received": "Score: 96.94/100",
+        "field_of_study": "",
+        "startDate": "July 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dictionary App",
+        "description": "Developed a microservices-based Dictionary App using a dictionary API, communication between the frontend, backend and redis services is achieved through docker-compose. The microservices are deployed using AWS ECS automated with Terraform with Github Actions for CI/CD.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "VolatileNote",
+        "description": "Created a Flask and Bootstrap-based web application for secure, one-time message sharing via unique codes, leveraging AWS DynamoDB for data management.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "DevOps Intern",
+        "skillsUsed": [],
+        "endDate": "Current",
+        "company_name": "EmendoAI",
+        "description": "Automated deployment of Grafana in an EC2 instance using AWS CDK for Python, automated creation of Grafana dashboards, and user authentication through IAM Identity Center.",
+        "location": "San Francisco, United States (Remote)",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "AWS DevOps Intern",
+        "skillsUsed": [],
+        "endDate": "Current",
+        "company_name": "Skill First Applied Labs",
+        "description": "Database Management (MongoDB) in Cloud and CI/CD for Backend (Node js) using Github Actions.",
+        "location": "Chennai, India(Remote)",
+        "links": "",
+        "startDate": "Mar 2024"
+      },
+      {
+        "role_name": "AWS Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "AppiVa Software Pvt. Ltd.",
+        "description": "Utilized Boto3 AWS SDK for Python to collect real-time data on diverse AWS resources and implemented resource optimization strategies for building a Cloud Resource Management System. Developed the backend part with Python, Flask and dockerized it, ensured ease of communication with the frontend (Angular Java), implemented CI/CD with Jenkins, and deployed the microservice with AWS Fargate.",
+        "location": "Karnataka, India(Remote)",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Deal Acres",
+        "description": "Automated and optimized the data collection process with Selenium(with Python) and Pyautogui.",
+        "location": "Haryana, India(Remote)",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Developer Intern",
+        "skillsUsed": [],
+        "endDate": "March 2023",
+        "company_name": "TactLabs",
+        "description": "Worked in commercial projects (FastAPI and Flask Apps) as Backend Team Lead and converted monolithic apps to Microservices apps and also Contributed to the companys production needs by deploying web applications in AWS.",
+        "location": "Toronto, Ontario (Remote)",
+        "links": "",
+        "startDate": "Jan 2022"
+      }
+    ],
+    "skills": [
+      "Python - Proficient",
+      "Java - Intermediate",
+      "C - Intermediate",
+      "Cloud Computing",
+      "DevOps",
+      "Competitive Programming(Leetcode)",
+      "Flask",
+      "FastAPI",
+      "PostgreSQL",
+      "Bootstrap",
+      "AWS",
+      "Docker",
+      "Redis",
+      "Terraform",
+      "Ansible",
+      "CI/CD with Jenkins",
+      "Github Actions",
+      "Linux",
+      "Shell (Zsh, Bash)",
+      "Git",
+      "Selenium",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "SARUMATHY P",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart India Hackathon 2022: Finalist - Made a Anti-Doping and TUE awareness website.",
+      "Technical Coordinator at AWS Cloud Club - Assisted club members with their projects and doubts.",
+      "Technical Blogger - Medium blog posts on Web, Cloud and Automation."
+    ],
+    "publications": []
+  },
+  "current_location": "Chennai, TamilNadu, India",
+  "graduation_year": 2025.0,
+  "experience_count": 5.0,
+  "degree": "B.E"
+}

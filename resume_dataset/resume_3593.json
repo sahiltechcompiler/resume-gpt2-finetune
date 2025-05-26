@@ -1,0 +1,138 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Siddharth Garg",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis Of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering Job Simulation",
+        "issuer": "JPMC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Analysis Full Bootcamp",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mega Web Development Course: Full stack web application",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.7",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pneumonia Detection System",
+        "description": "Developed a high-precision pneumonia detection model using ResNet50 and transfer learning, significantly enhancing diagnostic accuracy. Optimized model performance on a limited dataset of 4,000 images, achieving high accuracy without requiring extensive data augmentation.",
+        "keywords": [
+          "Python",
+          "CNN",
+          "ResNet50"
+        ],
+        "endDate": "2023",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "Gender Detection System",
+        "description": "Created a real-time gender detection system using Python, Keras, and OpenCV with live camera feed integration. Deployed a convolutional neural network (CNN) for accurate gender classification.",
+        "keywords": [
+          "Python",
+          "OpenCV"
+        ],
+        "endDate": "2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "08 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Designed a high-accuracy model for dog and cat image classification using advanced machine learning techniques. Constructed a predictive model for Titanic passenger survival, leveraging statistical analysis and machine learning algorithms.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "06 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "Pandas",
+      "NumPy",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "MS Excel",
+      "VS Code",
+      "PyCharm",
+      "Canva",
+      "Power BI"
+    ],
+    "soft_skills": [],
+    "name": "Siddharth Garg",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Selected Participant, Amazon ML Summer School",
+      "Deans List Awardee",
+      "Letter of Recommendation from CodeClause"
+    ],
+    "publications": [
+      "Healthcare Recommendation system using Machine Learning based on Pneumonia Detection (In Progress)",
+      "ML-Based Healthcare Recommender for Cardiovascular Disease Detection (In Progress)"
+    ]
+  },
+  "current_location": "Dhampur,Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

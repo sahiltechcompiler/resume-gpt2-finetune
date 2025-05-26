@@ -1,0 +1,137 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Jagmohan Gautam",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Mastered object-oriented programming concepts, including inheritance, polymorphism, and templates. Gained expertise in error and exception handling.",
+        "skillsLearned": [],
+        "title": "C++ Advanced",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.02",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Rock-Paper-Scissors Game",
+        "description": "Developed an interactive and visually appealing Rock-Paper-Scissors game with hand gestures, allowing users to play against the computer, leading to a 50% increase in user engagement. Implemented features such as a reset score functionality and an autoplay button, which enhanced the user experience and extended average session duration by 30%. Built using HTML, CSS, and JavaScript to create a responsive and user-friendly interface.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Aug 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "To Do List Application",
+        "description": "Built a task management system, help users organize their daily activities and increase productivity by 40%. Provides a seamless experience for adding, managing, and tracking tasks. Designed and implemented a local storage strategy that preserved user tasks even after application closure; improved data retention rates reducing data loss incidents by 95%. Used Technologies: React, Bootstrap, Font Awesome.",
+        "keywords": [
+          "React",
+          "Bootstrap",
+          "Font Awesome"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "YouTube UI",
+        "description": "Designed a front-end clone of YouTube using only HTML and CSS. Implemented responsive design to ensure the site works well on various devices. Focused on replicating the layout and user interface components, achieving a 91% accuracy in visual similarity.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Job Role Suggestion",
+        "description": "Developed a job role suggestion system using machine learning and web technologies, increasing the accuracy of recommendations by 84%. Delivers personalized career recommendations based on academic performance, interests, and aspirations. used HTML and CSS for the UI, Python for integrating with the backend, SQL for database management, and trained the machine learning model using the Random Forest algorithm with 84% accuracy.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Python",
+          "SQL",
+          "Machine Learning"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [
+          "C programming",
+          "Gini Index",
+          "Lorenz Curve"
+        ],
+        "endDate": "Dec 2023",
+        "company_name": "",
+        "description": "Conducted research on Inequality of Fracture Avalanches using C programming, applying Gini Index and Lorenz Curve to analyze prediction errors in time series data. Contributed to advancing the understanding of fracture dynamics and improving predictive models.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Assembly Language",
+      "MySQL",
+      "Data Analysis",
+      "HTML & CSS development",
+      "DBMS",
+      "Operating System",
+      "Git & GitHub",
+      "Visual Studio",
+      "GCC",
+      "Linux",
+      "Object oriented programming (Oops)",
+      "Python",
+      "SDLC",
+      "JavaScript",
+      "React",
+      "UI/UX web"
+    ],
+    "soft_skills": [],
+    "name": "Jagmohan Gautam",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Competed in college-organized Code-Clash contests, achieving a top 10 team ranking.",
+      "Contributed to the Coding Club of my college, providing technical support and helping to frame questions.",
+      "Solved over 450 problems on LeetCode and participated in 40 contests on CodeChef."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

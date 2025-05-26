@@ -1,0 +1,115 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aryan Jain",
+  "college": "Manipal University, Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University, Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.45 CGPA (Till 6th Semester)",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Amity International School, Noida",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "AISSCE",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Amity International School, Noida",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "AISSE",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "84%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Attendance System using Facial Recognition",
+        "description": "Implemented a facial recognition system using OpenCV library for real-time image processing and recognition tasks Utilized Local Binary Pattern Histograms (LBPH) for image comparison and facial recognition, enhancing accuracy and computational efficiency Implemented Haar Cascade algorithm for facial detection in a smart attendance system, ensuring reliable and efficient tracking of student attendance Designed a user interface using Tkinter library, providing a seamless and user-friendly experience for the smart attendance system",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Web Developer, IEEE RAS MUJ",
+        "description": "Designed and developed an interactive website with a team of 5 people for a college club, enhancing user engagement Incorporated interactive elements like event calendars, forums, and contact forms, boosting member participation Conducted routine maintenance, updates, and bug fixes to ensure website reliability Collaborated with club leaders to gather requirements and align the website with club goals",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Project, E-commerce Website",
+        "description": "Built an e-commerce website for protein sales using HTML, CSS, and JavaScript. Delivered a user-friendly and visually appealing platform with seamless navigation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [],
+        "endDate": "15th August 2024",
+        "company_name": "Bharat Electronics Limited",
+        "description": "Developing a Chabot designed to run on a localhost within an air-gapped network environment, ensuring secure and isolated operations. Utilized Flask framework to develop the Chabot and implemented Rasa for Natural Language Understanding (NLU) to enhance user interactions. Integrated Chabot with Mongodb database for handling complex data and managing large-scale text-based queries.",
+        "location": "",
+        "links": "",
+        "startDate": "1st July 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "PHP",
+      "MS Excel",
+      "SwiftUI"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Time Management",
+      "Problem Solving",
+      "Persistence",
+      "Team Work"
+    ],
+    "name": "Aryan Jain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,200 @@
+{
+  "project_count": 3.0,
+  "designation": "Data Scientist",
+  "name": "Shreyansh Gaur",
+  "college": "Jiwaji University",
+  "locations": [
+    "Indore, IN",
+    "Gwalior",
+    "Bhopal"
+  ],
+  "full_output": {
+    "summary": "I am looking for an entry-level position to kickstart my career in the Data Scientist. I wish to work in a dynamic organization that will contribute to my professional and personal growth while I contribute to the growth of the company as well as engage in opportunities to further the company's goals.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Tableau Certification",
+        "issuer": "SimpliLearn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning",
+        "issuer": "SimpliLearn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science with python",
+        "issuer": "SimpliLearn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Business Analytics with Excel",
+        "issuer": "SimpliLearn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning with Keras and Tensorflow",
+        "issuer": "SimpliLearn",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SimpliLearn",
+        "endDate": "Dec '22",
+        "maximum_grade": "",
+        "degree": "Master's in Data Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Jiwaji University",
+        "endDate": "Mar '13",
+        "maximum_grade": "",
+        "degree": "Bachelors in Computer Science",
+        "location": "Gwalior",
+        "ID": 1.0,
+        "grade_received": "62/100",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "RGPV",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Diploma In Mechanical Engineering",
+        "location": "Bhopal",
+        "ID": 2.0,
+        "grade_received": "80/100",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "HealthCare: Capstone",
+        "description": "The objective is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Build a model to accurately predict whether the patients in the dataset have diabetes or not.",
+        "keywords": [
+          "Data Science",
+          "Machine Learning",
+          "Predictive Modeling"
+        ],
+        "endDate": "Jan '22",
+        "startDate": "Mar '11",
+        "url": ""
+      },
+      {
+        "name": "Customer Service Requests Analysis : Data Visualization",
+        "description": "Perform a service request data analysis of New York City 311 calls. You will focus on the data wrangling techniques to understand the pattern in the data and also visualize the major complaint types.",
+        "keywords": [
+          "Data Visualization",
+          "Data Analysis"
+        ],
+        "endDate": "Jan '22",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Comparative Study of Countries : Tableau",
+        "description": "Your task is to compare various parameters such as income, life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio of different countries using the sample insurance dataset and world development indicators dataset.",
+        "keywords": [
+          "Tableau",
+          "Data Analysis"
+        ],
+        "endDate": "Jan '22",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Customer Executive",
+        "skillsUsed": [
+          "Customer Service",
+          "Problem Solving"
+        ],
+        "endDate": "Jul '22",
+        "company_name": "TelePerformance",
+        "description": "Attended 100% effective phone calls daily and troubleshoot issues in a professional manner to improve customer experience. Logged 50+ incidents daily and prioritized them for the technical team by understanding users' requirements. Escalated complex faults to internal and external teams while ensuring faults are cleared by adhering to the SLA. Acted as the first point of contact between customers and the technical team throughout the entire issue resolution lifecycle.",
+        "location": "Indore, IN",
+        "links": "",
+        "startDate": "Aug '21"
+      },
+      {
+        "role_name": "Team Leader",
+        "skillsUsed": [
+          "Leadership",
+          "Team Management"
+        ],
+        "endDate": "Jul '22",
+        "company_name": "TelePerformance",
+        "description": "In Same organization i was promoted to team Leader in which 10-15 Customer Executive works under me and i also maintained my performance.",
+        "location": "Indore, IN",
+        "links": "",
+        "startDate": "Aug '21"
+      }
+    ],
+    "skills": [
+      "Data Analytics",
+      "Data Visualization",
+      "Data Modeling",
+      "Data Analysis",
+      "Data Manipulation",
+      "Data Visualization Techniques",
+      "Statistical Modeling",
+      "Trend Analysis",
+      "Process Improvement",
+      "Customer Servicing",
+      "Complex Data Sets",
+      "Modeling Techniques",
+      "Quantitative Analysis",
+      "Statistical Methods",
+      "Predictive Modeling",
+      "Machine Learning Techniques",
+      "Secondary Data Sources",
+      "MySQL",
+      "Tableau",
+      "Python",
+      "Microsoft Excel",
+      "Microsoft PowerPoint",
+      "DataStage",
+      "Data Collection Systems"
+    ],
+    "soft_skills": [],
+    "name": "Shreyansh Gaur",
+    "position": "Data Scientist",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received Certificate in Machine learning and data science with python for successfully completing project"
+    ],
+    "publications": []
+  },
+  "current_location": "Guna, 473001",
+  "graduation_year": 2013.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors in Computer Science"
+}

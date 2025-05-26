@@ -1,0 +1,113 @@
+{
+  "project_count": 2.0,
+  "designation": "Trainee",
+  "name": "Priya Singh",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur,India",
+    "Agra,India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Btech(hons)",
+        "location": "Jaipur,India",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.7",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "St.Pauls Church College",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "ISC",
+        "location": "Agra,India",
+        "ID": 1.0,
+        "grade_received": "Percentage - 78.4%",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "St.Pauls Church College",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "ICSE",
+        "location": "Agra,India",
+        "ID": 2.0,
+        "grade_received": "Percentage - 88.10%",
+        "field_of_study": "",
+        "startDate": "2009"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Social media Application",
+        "description": "Led the development of a secure sign-up/login, editable profiles, and follow feature. Enabled media uploads, post creation, and engagement through likes, comments, and shares. Implemented robust search functionality and intuitive home page design.",
+        "keywords": [
+          "Kotlin",
+          "XML design"
+        ],
+        "endDate": "2023",
+        "startDate": "2023",
+        "url": ""
+      },
+      {
+        "name": "Weather Application",
+        "description": "Developed an intuitive and visually appealing interface with multiple backgrounds and animated icons. Integrated API calling for accurate, up-to-date weather information and location-based forecasts. Included features like a splash screen and a search function for seamless navigation and usability.",
+        "keywords": [
+          "Kotlin",
+          "XML design",
+          "API Integration"
+        ],
+        "endDate": "2023",
+        "startDate": "2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Trainee",
+        "skillsUsed": [
+          "SQL",
+          "Relational Database Management Systems"
+        ],
+        "endDate": "June 2024",
+        "company_name": "PwC",
+        "description": "Built a comprehensive understanding of IT fundamentals. Developed strong programming skills, enabling the creation of efficient and reliable software applications. Acquired in-depth expertise in Relational Database Management Systems (RDBMS), focusing on SQL for effective database design, querying, and administration. Successfully completed the program, achieving 2nd position as a top learner from our institution.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "Kotlin",
+      "SQL",
+      "C"
+    ],
+    "soft_skills": [],
+    "name": "Priya Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Smart Coder by Smart Interviews",
+      "Leetcode Problemsolver Badge",
+      "Database Foundations by Oracle Academy"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Btech(hons)"
+}

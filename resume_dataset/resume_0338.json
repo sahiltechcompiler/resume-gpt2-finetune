@@ -1,0 +1,134 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Shaik Abdul Rahim",
+  "college": "SRM University, AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.89/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "971/1000",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Freelance Collaboration Space",
+        "description": "Developed an online platform using React, Tailwind CSS, Node.js, Express, and Vite. The platform connects clients with freelancers, offering streamlined project management and communication, with a user-friendly interface designed to foster productive collaborations.",
+        "keywords": [
+          "React",
+          "Tailwind CSS",
+          "Node.js",
+          "Express",
+          "Vite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FeedB",
+        "description": "Built a mini backend project with Node.js and Express, allowing users to post feedback and display them. Implemented a like feature using MongoDB for data storage, showcasing data association for efficient retrieval.",
+        "keywords": [
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CodeSync Hub",
+        "description": "Developed a full-stack web application that consolidates user profiles from various coding platforms into a single dashboard. Employed Selenium and BeautifulSoup for web scraping, with a React frontend, Node.js backend, Tailwind CSS styling, and Firebase authentication.",
+        "keywords": [
+          "Selenium",
+          "BeautifulSoup",
+          "React",
+          "Node.js",
+          "Tailwind CSS",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face Detection and Recognition",
+        "description": "Developed a machine learning project for image classification using a custom dataset of 35 individuals with 100 facial images each. Trained a CNN model using TensorFlow and Keras for accurate facial recognition, predicting the person in a given photo.",
+        "keywords": [
+          "TensorFlow",
+          "Keras",
+          "machine learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Artificial Intelligence",
+          "machine learning"
+        ],
+        "endDate": "August 2023",
+        "company_name": "IBM",
+        "description": "Completed a 6-week internship focused on Artificial Intelligence, under the mentorship of IBM and Edunet. Developed a project utilizing a labeled dataset, exploring and evaluating various machine learning algorithms for performance comparison.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "VSCode"
+    ],
+    "soft_skills": [],
+    "name": "Shaik Abdul Rahim",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 2nd place in CodeClash coding contest at SRM University.",
+      "Solved over 360+ problems on LeetCode.",
+      "Achieved 3-star coder status on CodeChef."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

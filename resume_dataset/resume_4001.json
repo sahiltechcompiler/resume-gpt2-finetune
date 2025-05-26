@@ -1,0 +1,118 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Akhilesh Ramayanam",
+  "college": "SRM",
+  "locations": [
+    "Velivennu(AP)",
+    "Tanuku(AP)"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.3/10 (928/1000) (GPA-9.3/10)",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sasi New Gen Jr.College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "Velivennu(AP)",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Techno EM school",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "Tanuku(AP)",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Patient Data Management System Using Blockchain",
+        "description": "Developed a Blockchain-Based Patient Data Management System using Truffle, Ganache. Designed a user-friendly interface with HTML and CSS and implemented PHP for dynamic backend processing, enabling seamless data interaction and management. This system ensures data confidentiality and efficient communication between hospitals, medical departments, and insurance companies, and reducing fraud risks.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mental Health Quiz",
+        "description": "Created an intuitive mental health questionnaire using HTML, CSS, JS(React.js), and Tailwind CSS. I incorporated logic to evaluate user responses and provide customized self-care recommendations. My priority was to enhance user experience with straightforward questions, quick response times, and accessibility features, ensuring the questionnaire was not only functional also visually appealing, delivering personalized mental health advice.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Developed a comprehensive data analysis framework using Python to prepare, clean, and visualize state-wise crop production data from 1997 to 2020. Utilized data to inform strategic decisions by analyzing India's agricultural data using Python.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Participant",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Tech Quest",
+        "description": "Participated in a 24-hour hackathon at St. Josephs University, Bangalore, as part of a three-person team. We developed a project called Mental Health Quiz utilizing web technologies.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2023"
+      }
+    ],
+    "skills": [
+      "Java Script",
+      "HTML",
+      "CSS",
+      "Data Structures",
+      "MYSQL",
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "SQL",
+      "Problem Solving"
+    ],
+    "soft_skills": [],
+    "name": "Akhilesh Ramayanam",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

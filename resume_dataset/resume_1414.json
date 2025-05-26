@@ -1,0 +1,122 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shivani Singh",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering Certification",
+        "issuer": "Red Hat Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures & Algorithms",
+        "issuer": "Cousera: University of California San Diego",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "7.6 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Network Security",
+        "description": "Conducted comprehensive SDN DDoS attack testing utilizing Linux Mininet and MiniEdit for network simulation, ensuring robustness against potential threats. Implemented sophisticated attack scenarios using hping3 to emulate various DDoS attacks, enhancing network security posture through proactive vulnerability identification and mitigation strategies. Analyzed attack traffic patterns and network behavior in real-time using Wireshark, facilitating swift detection and response mechanisms for safeguarding network integrity and performance.",
+        "keywords": [],
+        "endDate": "2025",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "On The Road",
+        "description": "Developed a website using HTML and CSS enabling users to search for vehicle services such as fuel and mechanics while away from shops and fuel pumps. Implemented a user-friendly interface allowing seamless navigation and efficient search functionality for essential vehicle services. Enhanced accessibility and responsiveness of the website to ensure compatibility across various devices for on-the-go access to necessary services.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Outpass System",
+        "description": "Designed and implemented an Online Outpass System using HTML, CSS, PHP, and MySQL, facilitating communication between students and wardens via a web application. Developed features enabling students to request outpasses and allowing wardens to provide or reject permissions seamlessly. Utilized PHP for backend logic and MySQL for database management, ensuring secure and efficient handling of outpass requests within the educational institution.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Events Coordinator",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "ACM Student Chapter, MUJ",
+        "description": "Worked in the Programs and Promotions team to assist in the smooth flow of events. Helped procure permissions from university authorities for organization of offline events.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Marketing Coordinator",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Hult prize, MUJ",
+        "description": "Led Hult Prize campaigns, boosting engagement and visibility. Created engaging content, elevating audience interaction and brand awareness. Managed social media, fostering community engagement, optimizing with analytics.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "JAVA",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "PHP",
+      "Linux",
+      "MySQL",
+      "Numpy",
+      "Pandas",
+      "Mininet",
+      "Wireshark",
+      "OpenFlow",
+      "OVS"
+    ],
+    "soft_skills": [],
+    "name": "Shivani Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

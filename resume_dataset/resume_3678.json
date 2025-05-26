@@ -1,0 +1,116 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "Nandan Venkatesh",
+  "college": "Manipal university jaipur",
+  "locations": [
+    "Bangalore"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal university jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.0 CGPA",
+        "field_of_study": "Computer and Communication Engineering, Minor in Data Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Presidency University Bangalore",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "79%",
+        "field_of_study": "PCMB",
+        "startDate": "2018"
+      },
+      {
+        "school": "Karnataka State PUC Board",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "83%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Speech Emotion Recognition System",
+        "description": "Machine learning model to recognize the emotion in a human speech such as anger, excitement, sadness etc. Used Convolutional Neural Network ( CNN ) algorithm for recognition and processing. Used RAVDESS and TESS datasets.",
+        "keywords": [
+          "Machine learning",
+          "Convolutional Neural Network",
+          "RAVDESS",
+          "TESS"
+        ],
+        "endDate": "2018",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Kannada",
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ],
+    "experiences": [
+      {
+        "role_name": "Treasurer",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "Enactus Club",
+        "description": "Headed Enactus club as Treasurer managing finances and organizing events.",
+        "location": "",
+        "links": "",
+        "startDate": "2022"
+      },
+      {
+        "role_name": "Content Team Member",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Marksoc",
+        "description": "Worked in the content team of the college Marketing Society.",
+        "location": "",
+        "links": "",
+        "startDate": "2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Nandan Venkatesh",
+    "position": "",
+    "interests": [
+      "Content Writing",
+      "Gaming",
+      "Football",
+      "Trekking"
+    ],
+    "achievements_and_awards": [
+      "Won 3rd place in an Ideathon organized by IEEE CS"
+    ],
+    "publications": []
+  },
+  "current_location": "Bangalore",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

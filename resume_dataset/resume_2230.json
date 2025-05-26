@@ -1,0 +1,130 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shaik Toufiq",
+  "college": "SRM University",
+  "locations": [
+    "Mangalagiri, India",
+    "Vijayawda, India",
+    "Bangalore, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.23",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Jr College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "BIEAP",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 92.1%",
+        "field_of_study": "MPC",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Google Form Saver",
+        "description": "Developed GFormSaver, a management tool for Google Forms respondents. Enabled saving forms as PDFs, form URLs, submission details, and comments. Integrated backend and webpages for comprehensive functionality. Stored data securely on Google Drive for user convenience.",
+        "keywords": [
+          "React",
+          "Node",
+          "Express",
+          "MongoDB",
+          "TailwindCSS"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "QuietTime",
+        "description": "Developed a Java-based Android app in Android Studio. Automated mobile device silent mode using triggers such as scheduling, public place recognition, geo-fencing, and Wi-Fi connections. Enhanced user control and convenience through automated silent mode management.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "UI/UX Designer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Agumentik Group Of Companies",
+        "description": "Improved UI/UX standards by leading interface redesigns in Figma. Integrated user feedback and usability best practices. Collaborated with cross-functional teams to implement enhancements. Boosted user engagement and received positive feedback.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Salesforce Developer Virtual Intern",
+        "skillsUsed": [],
+        "endDate": "Jun 2024",
+        "company_name": "SmartBridge, Salesforce",
+        "description": "Completed an 8-week virtual internship in Salesforce development. Gained skills in Salesforce Fundamentals, Organizational Setup, Process Automation, Flows & Security, Apex, Testing & Debugging, VS Code, CLI Setup, LWC, and API. Earned Super Badges including Apex Specialist, Process Automation Specialist, and Developer Super Set.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Academic Research",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "SRM University AP, Amaravati",
+        "description": "Conducted academic research on Object Detection in Autonomous Vehicles. Implemented YOLO V8 to enhance real-time recognition and safety features. Leveraged advanced computer vision techniques to optimize autonomous vehicle capabilities. Achieved mean Average Precision (mAP) scores of 61.6% (KAIST), 60.1% (UDACITY), and 64.4% (KITTI) using benchmark self-driving datasets during research on Object Detection in Autonomous Vehicles. Achieved the gold medal for exceptional research in AI/ML at SRM Universitys 8th Research Day for the project, Object Detection For Autonomous Vehicles Using YOLO.",
+        "location": "Bangalore, India",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "XML",
+      "HTML/CSS",
+      "Linux",
+      "GitHub",
+      "ReactJS",
+      "Redux",
+      "NodeJS",
+      "ExpressJS",
+      "Git",
+      "MySQL",
+      "MongoDB(NoSQL)",
+      "VS Code",
+      "Android Studio",
+      "Intellij",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Shaik Toufiq",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

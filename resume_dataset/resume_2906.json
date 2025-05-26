@@ -1,0 +1,108 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Kavya Garikapati",
+  "college": "SRM University -AP",
+  "locations": [
+    "Mangalagiri, India",
+    "Vijayawada, India"
+  ],
+  "full_output": {
+    "summary": "Passionate about leveraging my Computer Science expertise to drive innovation within forward-thinking organizations, seeking dynamic environments that foster ongoing learning and professional growth.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University -AP",
+        "endDate": "present",
+        "maximum_grade": "10.0",
+        "degree": "B.tech",
+        "location": "Mangalagiri, India",
+        "ID": 0.0,
+        "grade_received": "7.55CGPA/10.0",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana College",
+        "endDate": "2021",
+        "maximum_grade": "10.0",
+        "degree": "",
+        "location": "Vijayawada, India",
+        "ID": 1.0,
+        "grade_received": "9.8GPA/10.0",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Narayana School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Vijayawada, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Password Generator",
+        "description": "I have utilized the random module to generate robust, unique passwords by shuf(cid:976)ling characters and selecting random ones, ensuring heightened security. Developed and tested secure password generation scripts, reinforcing data protection measures and preventing unauthorized access.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Emotion Recognition - Undergraduate Research Oppurtunities Programme(UROP)",
+        "description": "I conducted pioneering research in emotion recognition using Deep Neural Networks, implementing ResNet-50 and GoogleNet models on the CK+ dataset. This cutting-edge approach has the potential to revolutionize human-computer interaction, mental health support, and targeted advertising by accurately discerning human emotions from facial expressions, gestures, and physiological signals.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Telugu(Native)",
+      "Hindi",
+      "English(Read, write and speak)"
+    ],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Research Internship",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "SRM University",
+        "description": "Collaborated with an assistant professor and a peer on advanced brain tumor detection research. Conducted in-depth exploration of cutting-edge methodologies, including Self-Adaptive K-Means Clustering, Inception v2 Network, and IDRN-BTCC. Implemented and analyzed various machine learning algorithms to enhance the accuracy and ef(cid:976)iciency of brain tumor detection.",
+        "location": "Mangalagiri, India",
+        "links": "",
+        "startDate": "Jul 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "HTML+CSS",
+      "MySQL",
+      "Data Structures & algorithms",
+      "Artificial Intelligence & Machine learning"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Problem-Solving"
+    ],
+    "name": "Kavya Garikapati",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

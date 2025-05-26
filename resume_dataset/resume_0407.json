@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Pranay Deep Korada",
+  "college": "SRM University AP",
+  "locations": [
+    "Vijayawada"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.54/10.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Dec 2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.6%",
+        "field_of_study": "",
+        "startDate": "Jun 2019"
+      },
+      {
+        "school": "Ravindra Bharathi School",
+        "endDate": "May 2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.8/10.0",
+        "field_of_study": "",
+        "startDate": "Jun 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Delivery Website",
+        "description": "Developed using the MERN stack enabling seamless integration between front-end and back-end components resulting in a significant improvement in development efficiency. Established secure user authentication and authorization mechanisms with JWT and bcrypt, ensuring robust protection for user data and secure access control reducing unauthorized access attempts. Implemented a shopping cart system, allowing users to add, remove, and update items, and checkout process integrating with payment gateways with Stripe for secure transactions.",
+        "keywords": [
+          "React JS",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Stripe"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "PersonaLearn - LMS",
+        "description": "Engineered PersonaLearn using HTML, CSS, JavaScript, and Tailwind CSS for a responsive front-end, enhancing user engagement and interaction. Integrated advanced Machine Learning and NLP algorithms to personalize course recommendations, increasing course completion rates. Utilized Python, PHP, and MySQL for the back-end, ensuring robust data management and reliable system performance, improving data retrieval efficiency.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Tailwind CSS",
+          "Python",
+          "ML",
+          "NLP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Disease Prediction Using Deep Learning",
+        "description": "Implemented deep learning models including ResNet50, MobileNet, and InceptionV3, achieving an average prediction accuracy of 85%. Conducted extensive experiments with hyperparameters (learning rates, batch sizes) and optimizers (Adam, SGD), resulting in a significant improvement in model performance compared to baseline configurations. Utilized TensorFlow and scikit-learn libraries to develop disease prediction systems, achieving a notable increase in diagnostic accuracy and optimizing treatment planning efficacy.",
+        "keywords": [
+          "Transfer Learning",
+          "TensorFlow",
+          "scikit-learn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analysis Intern",
+        "skillsUsed": [
+          "Machine Learning"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "CodeClause",
+        "description": "Applied advanced ML algorithms on datasets exceeding 100,000 entries, resulting in a significant increase in decision-making accuracy and a reduction in error rates, thereby enhancing predictive precision. Employed five diverse machine learning methods to significantly boost operational efficiency, reducing processing time and cutting costs.",
+        "location": "Vijayawada",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Tensorflow",
+      "Neural Networks",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Data Structures and Algorithms",
+      "Competitive Programming",
+      "Object-Oriented Programming",
+      "Operating Systems",
+      "DBMS",
+      "Git"
+    ],
+    "soft_skills": [
+      "Team Collaboration",
+      "Effective Communication"
+    ],
+    "name": "Pranay Deep Korada",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 450+ problems across LeetCode and GeeksforGeeks.",
+      "Earned DeepLearning.AI TensorFlow Developer.",
+      "Achieved MongoDB Certified Associate Developer.",
+      "Secured 2303rd in AP engineering entrance test among 1.75L students, demonstrating strong academic performance."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

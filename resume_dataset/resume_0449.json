@@ -1,0 +1,81 @@
+{
+  "project_count": 3.0,
+  "designation": "Core Java Developer",
+  "name": "Shivan Samala",
+  "college": "Kakatiya Institute of Technology and Science",
+  "locations": [],
+  "full_output": {
+    "summary": "Passionate Core Java Developer eager to contribute to dynamic software projects. Excited to apply Java skills and gain hands-on experience in design, development, and implementation. Seeking a challenging internship in a collaborative environment to enhance Java proficiency, problem-solving, and teamwork skills. Dedicated to leveraging cutting-edge technologies for impactful contributions in software development.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Kakatiya Institute of Technology and Science",
+        "endDate": "May 2026",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.55",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Car Rental Management System",
+        "description": "Developed a Java based Car Rental Management System. Implemented classes for Car, Customer and Rental with encapsulation ensuring data privacy and integrity. Integrated functionalities for renting and returning cars, calculating rental prices based on days, and managing availability status. Contributed to system scalability by enabling dynamic addition of cars and customers, enhancing overall system flexibility and usability.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hospital Management System",
+        "description": "Spearheaded the development of a comprehensive Hospital Management System using Java and JDBC, integrating MySQL database connectivity. Orchestrated the creation of Doctor and Patient classes, orchestrating functionalities including patient addition, viewing, and doctor management. Ensured robust data handling through prepared statements, exception handling, and SQL queries for seamless database interactions. Leveraged MySQL for scalable data storage, fostering efficient data management and system scalability.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Lung Cancer Detection using Convolutional Neural Networks",
+        "description": "Developed a project titled 'Lung Cancer Detection using Convolutional Neural Networks' for a no-code hackathon on Devpost.com. Utilized Convolutional Neural Networks (CNNs) to accurately detect lung cancer from medical images. Project secured 2nd place in the hackathon, showcasing the effectiveness and innovation of the solution.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Data Structures",
+      "HTML",
+      "Spring",
+      "Hibernate",
+      "JDBC",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Problem-solving",
+      "Teamwork",
+      "Leadership"
+    ],
+    "name": "Shivan Samala",
+    "position": "Core Java Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "HackSIU: 2022: 2nd place Best AI Project",
+      "LeetCode overall Rank 514,474 - Demonstrated Proficiency: Successfully solved 174 algorithmic and data structure problems on LeetCode, showcasing a high level of proficiency in problem-solving. Consistent Commitment: Earned a 100 Days badge in 2024 and maintained a streak of 89 consecutive days of problem-solving, highlighting consistent dedication and persistence in honing problem-solving skills."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2026.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

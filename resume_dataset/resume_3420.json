@@ -1,0 +1,168 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Varun Varshney",
+  "college": "AKGEC",
+  "locations": [
+    "Ghaziabad, U.P.",
+    "Mathura, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "AKGEC",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "Ghaziabad, U.P.",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE(AIML)",
+        "startDate": "Dec. 2020"
+      },
+      {
+        "school": "DELHI PUBLIC SCHOOL",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Grad.",
+        "location": "Mathura, U.P.",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "FACE TRACKING AND RECOGNITION",
+        "description": "Led the development of an automated recognition system using MTCNN algorithm, achieving superior face detection and recognition performance compared to traditional models with a 99% accuracy. Orchestrated a four-module system for data collection, face embedding generation, model training, and face prediction.",
+        "keywords": [
+          "Python",
+          "MTCNN",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CANDIDATE APPLICATION PORTAL",
+        "description": "Designed an advanced job board platform integrating precise filters for role, experience, location, and salary. Enhanced user experience with features like infinite scroll and robust null value handling, increasing user engagement by 30.",
+        "keywords": [
+          "ReactJS",
+          "Tailwind CSS",
+          "ShadCN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "BLOG WEBSITE",
+        "description": "Developed a full-stack application to post blogs with advanced features such as colored shadows and Grok for backend functionality, leading to a 25% increase in content delivery efficiency.",
+        "keywords": [
+          "NextJS",
+          "ReactJS",
+          "Tailwind CSS",
+          "Sanity CMS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "PHOTOSHOPIFYII",
+        "description": "Created an AI-driven SaaS application with image restoration, recoloring, object removal, and background removal features. Implemented user management with Clerk and a payment system with Stripe for purchasing credits.",
+        "keywords": [
+          "Next.js",
+          "Tailwind CSS",
+          "TypeScript",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": ".NET Developer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "INDIAN OIL CORPORATION LIMITED (IOCL)",
+        "description": "Engineered a full-stack Inventory Management System using SQL database, reducing manual inventory tracking by 85%. Designed a desktop app with functionalities including adding and deleting users, products, categories, and suppliers. Implemented a secure login page and generated automated invoices, decreasing invoice processing time by 50%.",
+        "location": "Mathura, India",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Senior Coordinator (Designer, Management)",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "HORIZON",
+        "description": "Orchestrated various college and national-level events, increasing event participation by 60%. Created and managed the society website on wix/wordpress, conveying updates and handling registrations. Served as the convener of a national-level event, Scrolls, where I, along with my team, organized the entire event. Led a team of 35+ members, enhancing team coordination and productivity.",
+        "location": "Ghaziabad, India",
+        "links": "",
+        "startDate": "June 2021"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Web Development",
+      "Next.JS",
+      "React.Js",
+      "Node.JS",
+      "ExpressJS",
+      "MongoDB",
+      "Mongoose",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Redux",
+      "Typescript",
+      "MySQL",
+      "Linux",
+      "Flutter",
+      "RTK (Redux Toolkit)",
+      "Git",
+      "AWS",
+      "NLP",
+      "WIX",
+      "Excel",
+      "Computer vision",
+      "Figma",
+      "Data Science Libraries",
+      "Maya (3D Modelling)"
+    ],
+    "soft_skills": [],
+    "name": "Varun Varshney",
+    "position": "",
+    "interests": [
+      "Badminton",
+      "Running",
+      "Reading books and listening to podcast",
+      "Chess - 1100+ (chess.com)",
+      "Spirituality",
+      "meditation",
+      "Making YouTube tutorials",
+      "Video Editing",
+      "Graphic Designing"
+    ],
+    "achievements_and_awards": [
+      "GATE CS 2024 | AIR 3704",
+      "CODING CHALLENGES | Solved 400+ DSA Problems Across All Coding Platforms",
+      "HACKATHONS | Tech-A-Thon 3.0: Secured 3rd position among 500+ teams Developed an intelligent virtual assistant using ML, DL, and NLP, capable of understanding Hindi commands and performing various tasks."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Btech"
+}

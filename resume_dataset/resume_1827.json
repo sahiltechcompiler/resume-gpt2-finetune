@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rohit Dabas",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Metcalfe House, New Delhi-110054"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Operating System",
+        "issuer": "Red Hat",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis Of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.42 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Ganga International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "High School Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Ordering Website",
+        "description": "Developed a user-friendly Food-Ordering website using HTML, JavaScript, React.js, Tailwind CSS. Used Live API Data from Swiggy to fetch and Display on Wesbsite. Implemented Shimmer UI effect to enhance user interface with a polished, modern look. Conducted app testing with JEST and managed data using Redux Toolkit for reliable performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "NetflixGPT - a movie recommendation webApp with GPT-3.5 turbo integration",
+        "description": "GPT Search, using the latest GPT-3.5 Turbo API. Applied advanced Tailwind CSS concepts for responsive, modern web designs. Fetched and analyzed movie data from TMDB for project insights. Implemented advanced data management solutions using Redux Toolkit for state control. Developed authentication system with Sign Up, Log In, and Sign Out using Firebase for secure user management.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "YouTube like webApp",
+        "description": "Developed live YouTube search with autocomplete functionality for enhanced user interaction. Implemented infinite scroll for a seamless and uninterrupted browsing experience. LIVE CHAT system with anonymous chat feature. Integrated live YouTube video feed into application using the YouTube API for real-time streaming.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "DRDO",
+        "description": "Maintained accurate records and documentation of projects to inform Mentors of progress and updates. Contributed to the development of an HR Management website. Secured the website against various types of attacks, including SQL injection, Cross Site Scripting(XSS). Integrated CAPTCHA functionality to enhance security and prevent automated submissions.",
+        "location": "Metcalfe House, New Delhi-110054",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Data Structure and Algorithms",
+      "DBMS",
+      "SQL",
+      "OOPs",
+      "React",
+      "Redux",
+      "Jest",
+      "Tailwind Css",
+      "Node.js",
+      "Express",
+      "Html",
+      "Css"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Attention to Detail",
+      "Problem Solving",
+      "Teamwork"
+    ],
+    "name": "Rohit Dabas",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Btech"
+}

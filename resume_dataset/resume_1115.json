@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "Ravi Rawat",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, Punjab",
+    "Pune, Maharashtra",
+    "Bengaluru, Karnataka"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Aug 2023",
+        "maximum_grade": "4.00",
+        "degree": "Bachelor of Technology",
+        "location": "Phagwara, Punjab",
+        "ID": 0.0,
+        "grade_received": "GPA: 3.12 / 4.00",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ecommerce",
+        "description": "Designed and developed a full stack ecommerce application utilizing Angular, Material UI as frontend. Functionality includes user authentication with Json Web Token, browsing through dierent products by category and sub category, adding product to cart and wishlist, checkout and payment integration with Stripe. Backend is developed with Asp.Net core web api along with MySQL as database provider. Utilized Azure for backend server hosting, Azure MySQL for database server and Amazon s3 for static website hosting.",
+        "keywords": [
+          "C#",
+          "ASP.Net Core",
+          "MySQL",
+          "Dapper ORM",
+          "Linq",
+          "Angular",
+          "Material UI",
+          "Azure",
+          "Amazon S3"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "IMDB",
+        "description": "Spearheaded the development of a comprehensive Web-API application oering diverse functionalities in the realms of movies, actors, producers, and genres. Designed and optimized the database architecture, implementing stored procedures to enhance eciency in adding and updating movie data. Embraced Behavior-Driven Development (BDD) practices, meticulously crafting feature les for each entity to ensure comprehensive testing coverage. Utilized Mocking for ecient, exible testing by simulating database interactions.",
+        "keywords": [
+          "C#",
+          "ASP.Net Core",
+          "Azure MySQL server",
+          "Dapper ORM",
+          "Linq",
+          "Swagger UI",
+          "Specow",
+          "Azure"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Omnifood",
+        "description": "Developed a static website built with pure HTML, CSS and Javascript. Implemented best practices for optimal user experience considering colors, contrast ration and spacing between elements.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "iMocha",
+        "description": "Developed the backend for a .NET Core project, focusing on building robust API endpoints using service and controller layers to facilitate seamless data interactions. Conducted extensive testing, including unit tests and integration tests, to ensure the backends reliability, correctness, and performance under various conditions. Authored a detailed Product Requirements Document (PRD) outlining the projects scope, objectives, features, and functionalities to provide clear guidance and alignment for all stakeholders. Utilized Angular for the frontend development, creating dynamic and responsive user interfaces that enhance user experience and interact eciently with the backend APIs.",
+        "location": "Pune, Maharashtra",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "DeltaX",
+        "description": "Developed an IMDb application that allows users to manage various movie-related functionalities, including adding, listing, and updating movies, as well as managing actor information. Implemented a robust layered architecture to support key features such as Add Movie, List Movies, Add Actor, and Delete Actor, ensuring a clean separation of concerns and enhancing maintainability. Utilized Behavior-Driven Development (BDD) for testing all features, using Specow and Gherkin syntax. Optimized database operations and improved application performance using stored procedures.",
+        "location": "Bengaluru, Karnataka",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "C#",
+      "MySQL",
+      "Typescript",
+      "python",
+      "ASP.NET Core",
+      "Dapper ORM",
+      "DI",
+      "MySQL server",
+      "Swagger",
+      "Postman",
+      "Angular",
+      "Rxjs",
+      "Routes",
+      "Angular Material",
+      "Tailwind CSS",
+      "RESTfull APIs",
+      "HTML",
+      "CSS",
+      "Azure",
+      "Azure MySQL Database",
+      "Azure Data Studio",
+      "Aws s3"
+    ],
+    "soft_skills": [],
+    "name": "Ravi Rawat",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,149 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sana Sharma",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Pathankot"
+  ],
+  "full_output": {
+    "summary": "A final-year student at Manipal University Jaipur with a strong interest in software development and cloud technology. Actively exploring and applying these areas to create innovative solutions. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Infosys Springboard Java Foundation Certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundations",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Swayam NPTEL certificate of Data Analysis and Algorithms",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Academy, Database Foundations",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineeriing",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Guru Hari Krishan Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th Standard",
+        "location": "Pathankot",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Christ The King Convent School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th Standard",
+        "location": "Pathankot",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "ICSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "File Hider Application",
+        "description": "Developed a Java-based application with MySQL integration that allows users to securely hide and unhide files on their system. The project features a login and signup system with email-based OTP verification for user authentication. It leverages hidden directories and file attribute modifications to obscure files without encryption. This project enhanced my skills in file management, user authentication, and integrating Java with MySQL for secure data handling.",
+        "keywords": [],
+        "endDate": "2025",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "Pizza Bill Generator",
+        "description": "Developed a Java-based application that generates bills for pizza orders. The application allows users to choose between veg and non-veg options, add extra cheese and toppings, and select between takeaway or dine-in. It calculates the total cost based on these choices and generates an itemized bill.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "2019",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "UI/UX Strategist intern",
+        "skillsUsed": [],
+        "endDate": "Nov. 2023",
+        "company_name": "The IT Studio",
+        "description": "Developed user-centric interfaces for a rental website and a medical app during a remote UI/UX internship, focusing on intuitive design and seamless functionality. Collaborated virtually with teams to understand user needs and project requirements, applying best practices in usability and accessibility. Enhanced user engagement and satisfaction by creating visually appealing and easy-to-navigate interfaces, demonstrating effective remote design skills.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul. 2023"
+      },
+      {
+        "role_name": "Cloud infra and security intern",
+        "skillsUsed": [],
+        "endDate": "Jul. 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Managed and optimized cloud infrastructure, ensuring high performance and efficient resource use while configuring and maintaining cloud environments. Implemented robust security measures, including firewalls, access controls, Privileged Identity Management (PIM), and multi-factor authentication (MFA) to safeguard against unauthorized access. Conducted regular security audits to identify and address vulnerabilities, maintaining the security and compliance of the cloud infrastructure.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "MySql",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "AWS(Amazon Web Services)"
+    ],
+    "soft_skills": [],
+    "name": "Sana Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "A research paper on Traffic Sign Detection. This research paper presents a comparative study on the accuracy of different deep learning architectures for traffic sign detection, focusing on CNN, VGGNet, AlexNet, and DenseNet. The study evaluates performance metrics such as precision, recall, and inference time to identify the most effective models for real-time applications, providing insights into optimizing traffic sign recognition systems.",
+      "Solved 100+ questions on GeekForGeeks and CodeChef"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

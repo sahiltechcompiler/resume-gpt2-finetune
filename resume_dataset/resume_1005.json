@@ -1,0 +1,142 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shubhi Pandey",
+  "college": "KIET Group of Instituions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Gorakhpur, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Instituions",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "7.6 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Jul. 2021"
+      },
+      {
+        "school": "Carmel Girls Inter College, Gorakhpur",
+        "endDate": "May 2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "Gorakhpur, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "State Board",
+        "startDate": ""
+      },
+      {
+        "school": "Carmel Girls Inter College, Gorakhpur",
+        "endDate": "Jul. 2019",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Gorakhpur, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "State Board",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Video-Sphere",
+        "description": "Orchestrated the development of VideoSphere, a cutting-edge video chatting app, demonstrating mastery in contemporary web technologies. Spearheaded the implementation of real-time communication through WebSockets, delivering seamless and low-latency video conversations. Utilized Peer.js to establish secure and efficient peer-to-peer connectivity, optimizing data transfer between users. Led the adoption of Next.js framework for the creation of a responsive and high-performance web application, incorporating server-side rendering for enhanced user experience.",
+        "keywords": [
+          "Next.js",
+          "peer.js",
+          "postCSS",
+          "WebSocket"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Artify - Web Application",
+        "description": "Championed the development of Artify, an innovative online drawing tool application, utilizing Next.js and Node.js. Engineered WebSocket for real-time collaboration, empowering multiple users to concurrently contribute to the document. Optimized Node.js for efficient server-side operations, orchestrating seamless handling of user requests and data management processes. Crafted and executed a user-centric interface using Next.js, emphasizing usability and visual aesthetics to enhance the overall user experience.",
+        "keywords": [
+          "Next.js",
+          "Node.js",
+          "WebSocket"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "We Care",
+        "description": "Solves the problem of reaching local blood donation camps, checking availability of vaccines, fixing Doctors appointment and bed booking. Feature ErgoAlert focused on promoting good ergonomic practices for overall well-being, including posture, eye care, and ear care. AR based visualising of X-Rays.",
+        "keywords": [
+          "Node.js",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MongoDB",
+          "Unity 3D",
+          "Vuforia Engine"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Management team",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "INNOHACKS 2.0",
+        "description": "Organized InnoHacks 2022, Largest Hackathon in Delhi-NCR, Organised by Innogeeks.",
+        "location": "Ghaziabad",
+        "links": "",
+        "startDate": "Apr. 2023"
+      },
+      {
+        "role_name": "Core Team and Student Mentor",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Innogeeks - College Technical Society",
+        "description": "Mentored students to develop augmented and virtual reality projects. Took the Lead in teaching programming and Web development to 30+ students.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Python",
+      "Java",
+      "C#"
+    ],
+    "soft_skills": [],
+    "name": "Shubhi Pandey",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "NASA Space App Hackathon 2022 | Regional winner",
+      "IEEE hackathon ,DTU | Top 15 teams",
+      "Hacked , BML Munjal University | Top 10 teams",
+      "Pravaah - ABES Engineering college | Top 5 teams",
+      "Global Rank 2080 in Starters 74 Division 3 | Codechef",
+      "Rank 6485 in Weekly Contest 364 | Leetcode"
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

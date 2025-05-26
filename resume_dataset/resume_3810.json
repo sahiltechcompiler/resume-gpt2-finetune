@@ -1,0 +1,119 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ashish Kushwaha",
+  "college": "Delhi Technological University",
+  "locations": [
+    "New Delhi, INDIA"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Operating System & You",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Algorithmic Toolbox",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Delhi Technological University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "New Delhi, INDIA",
+        "ID": 0.0,
+        "grade_received": "76%",
+        "field_of_study": "Electronics and Communication",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sorting Visualizer",
+        "description": "Developed an interactive sorting algorithm visualizer using React.js to demonstrate the functionality of various sorting techniques, enhancing user understanding of algorithmic concepts. Implemented multiple sorting algorithms (e.g., Quick Sort, Merge Sort, Bubble Sort) with dynamic animations, providing a clear and educational visual representation of the sorting process.",
+        "keywords": [
+          "React.js",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Algorithms"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Pokedex",
+        "description": "Built an interactive Pokedex application using React.js to fetch and display Pokemon data from the PokeAPI, enhancing user engagement with dynamic content. Executed functionality to view detailed information for each Pokemon upon selection, providing a comprehensive and user-friendly interface. Engineered an interactive user interface using React hooks and advanced state management; optimized data retrieval processes, reducing load times by 40% and boosting user engagement by 25%.",
+        "keywords": [
+          "React.js",
+          "API",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "2023",
+        "startDate": "2023",
+        "url": "Github"
+      },
+      {
+        "name": "Youtube Clone",
+        "description": "Created a responsive YouTube clone using React.js and YouTube API, enabling video streaming and display of various video datails like like and views and channel subscribers. Enforced search functionality and category-based video browsing, enhancing user experience with intuitive navigation and content discovery. Designed an interactive user interface with React hooks and state management, ensuring efficient data retrieval and seamless user interactions.",
+        "keywords": [
+          "React.js",
+          "API",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "Git",
+      "React.JS",
+      "Redux",
+      "Node.JS",
+      "Express.JS",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Ashish Kushwaha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Got 16012 rank in JEE Mains 2020 among 10 lakh+ students",
+      "Mentored junior students at Desh ke Mentor(an initiative by Delhi Government)",
+      "Won 1st Prize at Badminton in Inter-Hostel Tournament, DTU"
+    ],
+    "publications": []
+  },
+  "current_location": "Firozabad, Uttar Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

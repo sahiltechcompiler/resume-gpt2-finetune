@@ -1,0 +1,100 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Harshit Kalra",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Pragyan Sthali School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Video Sharing Platform",
+        "description": "Developed RESTful APIs for authentication, video uploads, comments, likes, and subscriptions, improving response time by approximately 20%. Integrated Multer for file uploads and Mongoose for database management, reducing error rates during data handling by 30%. Utilized Cloudinary for media storage, which decreased media delivery latency by about 15% and reduced server-side storage costs. Secured APIs with JWT and implemented Bcrypt for password hashing, resulting in a noticeable reduction in unauthorized access attempts. Designed a flexible data schema to manage users, videos, playlists, comments, and subscriptions, supporting a growing user base.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "Multer",
+          "Mongoose",
+          "JWT",
+          "Bcrypt",
+          "Cloudinary",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Twitter Fake Profile Detection",
+        "description": "Built a machine learning model with ANN, achieving 95% accuracy in detecting fake Twitter profiles. Applied classification techniques to differentiate genuine from fake profiles, increasing detection speed by 40%. Enhanced social network credibility by improving the detection accuracy of fake profiles and reducing the influence of fraudulent accounts. Implemented solution using Python, TensorFlow, and Scikit-Learn, reducing false positives by 20%.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Scikit-Learn",
+          "Artificial Neural Networks",
+          "Classification"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "Javascript",
+      "HTML5",
+      "CSS3",
+      "Express",
+      "React",
+      "NodeJS",
+      "TailwindCSS",
+      "Bootstrap",
+      "cloudinary",
+      "Postman",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Harshit Kalra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Qualified for Smart India Hackathon 2022",
+      "Runner Up in IEEE What The Heck",
+      "Over 400+ DSA questions solved across various sites",
+      "Qualified DAA NPTEL"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "BTech"
+}

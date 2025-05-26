@@ -1,0 +1,170 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shubham Jaiswal",
+  "college": "KIET Group Of Institution",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Kanpur, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "US Healthcare(101)",
+        "issuer": "Innovaccer Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem Solving in DSA",
+        "issuer": "Programming Pathshala",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institution",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.3",
+        "field_of_study": "Computer Science",
+        "startDate": "Sep. 2021"
+      },
+      {
+        "school": "St. Aloysius High School",
+        "endDate": "Mar. 2020",
+        "maximum_grade": "",
+        "degree": "ISC",
+        "location": "Kanpur, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "Percentage - 87.8%",
+        "field_of_study": "Intermediate",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ShopXpress",
+        "description": "Orchestrated development of an extensive product catalog, expanding product range by 30%, resulting in a wider range of choices for users. Integrated user authentication using JSON Web Tokens (JWT) ensuring secure access to the platform. Improved order tracking and notifications, reducing fulfillment time by 20%, thereby enhancing customer experience.",
+        "keywords": [
+          "React",
+          "Tailwind CSS",
+          "Express",
+          "MongoDB",
+          "Nodejs",
+          "Redux",
+          "Stripe"
+        ],
+        "endDate": "Aug. 2023",
+        "startDate": "Jun. 2023",
+        "url": ""
+      },
+      {
+        "name": "NoteCloud",
+        "description": "Engineered RESTful APIs, handling over 500 requests per minute, facilitating seamless communication between the frontend and backend, and enabling efficient handling of CRUD operations for tasks. Integrated Redux for state management, resulting in a 25% reduction in API calls and providing a centralized store for efficient data manipulation and real-time updates.",
+        "keywords": [
+          "React",
+          "Redux",
+          "Express",
+          "Nodejs",
+          "MongoDB"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [
+          "Javascript",
+          "React",
+          "Redux",
+          "Nodejs",
+          "MongoDB"
+        ],
+        "endDate": "Jun. 2024",
+        "company_name": "Protut",
+        "description": "Proficiently utilizing the MERN stack to develop a web-based platform, showcasing expertise in modern web development technologies and frameworks. Leading the 100% wireframing and structuring of the website, fostering effective teamwork and collaboration with a co-founder and a dedicated team to achieve project milestones and objectives. Conducting bi-weekly code reviews, resulting in a 15% decrease in bugs and improved code quality.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr."
+      },
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [
+          "SolidJS",
+          "TailwindCSS",
+          "Typescript"
+        ],
+        "endDate": "Sep. 2023",
+        "company_name": "Smoodles",
+        "description": "Engineered a robust codebase ensuring top-notch quality standards throughout the development lifecycle; reduced bug count by 40% and enhanced overall application performance by 25%. Conducted thorough analysis of user feedback and integrated iterative improvements into the product design and functionality. Collaborated with cross-functional teams to gather requirements, prioritize features, and iterate on product prototypes.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug."
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "JavaScript",
+      "TypeScript",
+      "ReactJs",
+      "Nextjs",
+      "SolidJs",
+      "Express",
+      "Nodejs",
+      "AWS",
+      "MongoDb",
+      "MySQL",
+      "Jenkins",
+      "Docker",
+      "Terraform",
+      "Bash",
+      "Tanstack",
+      "Playright",
+      "Mousetrap",
+      "Jira",
+      "Confluence",
+      "Linux",
+      "VSCode",
+      "Sublime",
+      "Git",
+      "Github",
+      "npm",
+      "pnpm",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "Shubham Jaiswal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Innovator of the month : Holding 1st rank out of 100 students within the institution.",
+      "Coding Competition Winner - Secured 2nd position among 600 candidates",
+      "Hackathon at IIT Jodhpur - Under top 10%, competing among 120+ teams"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

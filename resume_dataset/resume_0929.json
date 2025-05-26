@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "Frontend Developer",
+  "name": "Prabhat Sehrawat",
+  "college": "Kiet Group Of Institution",
+  "locations": [
+    "Ghaziabad, UttarPradesh"
+  ],
+  "full_output": {
+    "summary": "Skilled Frontend Developer proficient in Java, JavaScript, SQL, HTML/CSS and EJS. Specializing in React.js, Redux, Express, Node.js, and Next.js, with expertise in building dynamic, responsive web apps. Experienced in MongoDB, SQL, Git, GitHub, Docker, VS Code, and Chrome Dev Tools. Proficient in Prisma ORM for efficient data management.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Kiet Group Of Institution",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA : 7.74",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CollegeSearch",
+        "description": "Implemented OTP login/sign-in to reduce fake requests and spamming, resulting in a 40% decrease in unauthorized access attempts. Leveraged Redis to store cache data of colleges and courses, reducing database requests by 60% and improving system response time by 35 milliseconds. Developed an intuitive Admin portal for streamlined management of colleges and courses, facilitating functions such as adding colleges, managing states, overseeing purchases, likes, and wishlists etc.",
+        "keywords": [
+          "Node/Express",
+          "React",
+          "Redux",
+          "MongoDB",
+          "Redis",
+          "Tailwind"
+        ],
+        "endDate": "Present",
+        "startDate": "Mar 2024",
+        "url": "Link"
+      },
+      {
+        "name": "ShopHere",
+        "description": "Developed a robust shopping website with 1000+ products, featuring 4+ advanced filters for precise searches by price range, category, color, and company, along with a user-friendly search feature. Engineered an intuitive shopping cart system, empowering users to effortlessly perform 3 critical functions: adding, subtracting, and deleting products, all while ensuring real-time automatic subtotal updates.",
+        "keywords": [
+          "Reactjs",
+          "Redux",
+          "ContextApi",
+          "Auth0"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "MemoirMoments",
+        "description": "Developed a dynamic platform with engaging features like like counts, comments, and user-generated posts, fostering active user interaction and facilitating content curation.",
+        "keywords": [
+          "React.js",
+          "Redux",
+          "Express",
+          "MongoDB",
+          "googleAuth"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front End Developer",
+        "skillsUsed": [
+          "React",
+          "MongoDB",
+          "Express",
+          "Node.js",
+          "JWT",
+          "Google Authentication",
+          "Auth0"
+        ],
+        "endDate": "Present",
+        "company_name": "Freelance Web Developer",
+        "description": "Mastered Redux for efficient state management and executed numerous freelance projects, highlighting skills in React, MongoDB, Express, and Node.js. Delivered 3+ major and 4+ minor projects, emphasizing a dedication to high-quality solutions. Strengthened MERN stack projects with : JWT with OTP for Verified Emails, Google Authentication, and Auth0. Ensured robust security, access control, and optimized scalability for efficient request handling.",
+        "location": "Ghaziabad, UttarPradesh",
+        "links": "",
+        "startDate": "Feb 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "SQL",
+      "C",
+      "Html",
+      "Css",
+      "Ejs",
+      "React Js",
+      "Redux",
+      "React Router",
+      "Express",
+      "Node Js",
+      "Next Js",
+      "Tailwind",
+      "Bootstrap",
+      "MongoDB",
+      "SQL",
+      "Prisma",
+      "Git",
+      "GitHub",
+      "Docker",
+      "Vs Code",
+      "Chrome Dev Tools",
+      "React Developer Tools",
+      "Canva",
+      "Atom"
+    ],
+    "soft_skills": [
+      "diplomacy",
+      "strong communication skills"
+    ],
+    "name": "Prabhat Sehrawat",
+    "position": "Frontend Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated and excelled in over three Model United Nations (MUN) conferences, achieving two wins and honorable mentions at KIET MUN 2023."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

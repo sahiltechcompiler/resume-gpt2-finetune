@@ -1,0 +1,165 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "SHARAD KUMAR MISHRA",
+  "college": "Noida Institute of Engineering And Technology",
+  "locations": [
+    "Greater Noida, India",
+    "Lucknow, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Quest: Cloud Practitioner",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PWSkill: Java with DSA and System Design",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis with Pandas and Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "TCS iON Career Edge - Young Professional",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering And Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Computer Science & Engineering",
+        "location": "Greater Noida, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Rani Laxmi Bai Memorial School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CBSE (Class XII)",
+        "location": "Lucknow, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "Rani Laxmi Bai Memorial School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE (Class X)",
+        "location": "Lucknow, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Portfolio Website",
+        "description": "I have successfully deployed my new portfolio website, built using over 500 lines of HTML, CSS, and JavaScript code, and hosted on AWS Amplify. Creating this portfolio allowed me to enhance my front-end development skills and leverage AWS Amplify's powerful features for seamless deployment and hosting.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Portfolio Website"
+      },
+      {
+        "name": "WordPress Website on AWS",
+        "description": "I successfully deployed a WordPress website on AWS utilizing a variety of AWS services to create a highly available, scalable, and secure architecture. The project involved setting up: EC2 instances for web servers, RDS instances for database management, S3 for static content storage, CloudFront for CDN, Route 53 for DNS management. Implemented Auto Scaling and Load Balancing to ensure high availability and reliability, handling traffic spikes effectively. Enhanced security using IAM roles and security groups to control access and protect resources.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Google Cloud",
+        "skillsUsed": [],
+        "endDate": "Nov 23",
+        "company_name": "Coursera",
+        "description": "Completed over 30 hours of training on Google Cloud Platform (GCP) core services and infrastructure. Gained hands-on experience with key GCP services: Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, and BigQuery, completing more than 10 practical projects.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 22"
+      },
+      {
+        "role_name": "Full Stack Web Development",
+        "skillsUsed": [],
+        "endDate": "Oct 23",
+        "company_name": "Skolar",
+        "description": "Comprehensive Full Stack Proficiency: Successfully completed the 100-hour Skolar Full Stack Web Development program, attaining a skill set encompassing both front-end and back-end development. Hands-On Project Portfolio: Developed a diverse portfolio of 10+ web applications and projects during the Skolar program. These projects showcased the ability to create responsive and user-friendly front-end interfaces, design efficient back-end architectures, and integrate databases to deliver dynamic web solutions.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 23"
+      }
+    ],
+    "skills": [
+      "AWS",
+      "GCP",
+      "Cloud Computing",
+      "MySQL",
+      "GitHub",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Terraform",
+      "Networking",
+      "Security",
+      "Bash",
+      "Powershell",
+      "Big Data",
+      "Linux",
+      "Analytics",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "Spring Boot",
+      "Python",
+      "Jupyter",
+      "MongoDB",
+      "DJango"
+    ],
+    "soft_skills": [],
+    "name": "SHARAD KUMAR MISHRA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Computer Science & Engineering"
+}

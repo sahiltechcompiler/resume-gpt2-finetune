@@ -1,0 +1,132 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "ARYAN GOEL",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Rajasthan, India",
+    "Uttarakhand, India"
+  ],
+  "full_output": {
+    "summary": "Skilled Computer and Communication Engineering undergrad with experience in languages like Python and Java. Also, have some experience in fronted development working on React.js, HTML and CSS. Proficient in Data Structures and Algorithms, databases and LINUX and working on my Data Analytics, visualization and virtualization technologies with MS SQL Server, PowerBI, Tableau and Python. Strong believer of taking ownership and leading the team from front.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.07(VI Semester)",
+        "field_of_study": "Computer and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Scholars Academy Roorkee",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Uttarakhand, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 93%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School Roorkee",
+        "endDate": "May 2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Uttarakhand, India",
+        "ID": 2.0,
+        "grade_received": "Percentage: 97%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Tennis Analysis system",
+        "description": "This project utilizes YOLO a state of the art object detector to detect the players and the tennis balls. It also utilizes trackers to track those objects across frames. We also write our own convolutional Neural network to detect court key points.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Building a Virtual Desktop Assistant with Face Detection",
+        "description": "Built a basic Virtual Desktop Virtual Assistant using Speech to text and vice versa options, face detection login(used OpenCV), and perform various functionalities like opening apps, search and give results through web scraping, sending mails and messages on WhatsApp etc.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Summer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "IIT Roorkee",
+        "description": "Developed and implemented a Physics-Informed Gaussian Process Regression (PhI-GPR) model for flood prediction. Integrated and simulated hydraulic data using HEC-RAS to support model training and validation. Executed uncertainty quantification using Monte Carlo and Multi-Level Monte Carlo (MLMC) simulations to enhance model reliability.",
+        "location": "Uttarakhand, India",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Frontend and Software Developer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "IIT Roorkee",
+        "description": "Uploaded and managed layers in Geoserver for WebGIS application integration. Optimized application performance by redefining rendering process and removing bugs and introduced some of new features, enhancing user experience. Worked on data classification to show on layers using software like QGIS.",
+        "location": "Uttarakhand, India",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Data Structures and Algorithms",
+      "OOPs concepts",
+      "Database",
+      "Java",
+      "Python",
+      "SQL",
+      "Linux",
+      "React.js",
+      "HTML",
+      "CSS",
+      "OpenCV",
+      "Tensorflow",
+      "SQL Server",
+      "PowerBI",
+      "Tableau",
+      "Google Co-Labs",
+      "Git",
+      "Git Hub",
+      "Data Communication",
+      "Network Configuration",
+      "Cryptography",
+      "Computer Vision",
+      "AWS"
+    ],
+    "soft_skills": [
+      "Strong believer of taking ownership",
+      "Leading the team from front"
+    ],
+    "name": "ARYAN GOEL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Won the Runner up position in hackathon on topic of Mental Health organized within my college.",
+      "Been a part of the Organizing Committee in Events Handling of SpaSec International Conference on Computation Intelligence and Computer Vision."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

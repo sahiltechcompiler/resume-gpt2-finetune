@@ -1,0 +1,209 @@
+{
+  "project_count": 4.0,
+  "designation": "Entry-level position",
+  "name": "HARSH SINGH",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, India",
+    "Varanasi, India"
+  ],
+  "full_output": {
+    "summary": "I am currently pursuing my degree at Noida Institute of Engineering and Technology, majoring in Computer Science and Engineering with a specialization in the Internet of Things. I am also completing a minor degree in AI & ML. I am eager to secure an entry-level position where I can contribute effectively to the team and advance my skills and knowledge as a professional.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analytics and Visualization Job Simulation",
+        "issuer": "Forage(Accenture)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Engineer. Internship",
+        "issuer": "Celebal Technologies",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Strategy Consulting Job Simulation",
+        "issuer": "Forage(BCG)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Artificial Intelligence",
+        "issuer": "Coursera(IBM)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Fundamentals",
+        "issuer": "Infosys(Springboard)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Fundamentals using Python",
+        "issuer": "Infosys(Springboard)",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Greater Noida, India",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.26",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Dr. Amrit Lal Ishrat Memorial Sunbeam School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate Education",
+        "location": "Varanasi, India",
+        "ID": 1.0,
+        "grade_received": "Percentage - 87%",
+        "field_of_study": "PCM",
+        "startDate": ""
+      },
+      {
+        "school": "Dr. Amrit Lal Ishrat Memorial Sunbeam School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary Education",
+        "location": "Varanasi, India",
+        "ID": 2.0,
+        "grade_received": "Percentage - 72%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI virtual assistant",
+        "description": "Developed AI-based Virtual Assistant in Python, integrating speech recognition and NLP techniques for user query comprehension. Utilized libraries like speech recognition, Google Search, and PyAudio for efficient operation. Enhanced user experience with voice command interaction, ensuring accessibility and efficiency.",
+        "keywords": [
+          "Python",
+          "speech recognition",
+          "NLP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Web Clone",
+        "description": "Developed responsive web clones of Netflix using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS. Enhanced the user interface with CSS, ensuring alignment with modern design principles and best practices. Optimized the development workflow with Tailwind CSS for streamlined styling and Bootstrap for responsive layouts.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Performed EDA, analyzed data, and created visualizations on datasets",
+        "description": "Conducted exploratory data analysis (EDA) on datasets using Python's NumPy and Pandas for data manipulation and quality assurance. Created visualizations with Matplotlib, Seaborn, and developed interactive dashboards with Power BI for effective data communication.",
+        "keywords": [
+          "Python",
+          "PowerBI",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Smart Helmet",
+        "description": "Led the development of an IoT-enabled Smart Helmet to bolster worker safety through the integration of cloud computing technologies. Integrated the MQ-9 Gas Sensor for prompt detection of hazardous gases, prioritizing worker safety within the operational environment. Utilized the ESP8266 microcontroller and wireless communication modules to facilitate efficient performance and real-time data transmission within the smart helmet system.",
+        "keywords": [
+          "IoT",
+          "Cloud Computing",
+          "NodeMCU",
+          "MQ-9"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Engineering Internship",
+        "skillsUsed": [
+          "Python",
+          "SQL",
+          "AWS Cloud"
+        ],
+        "endDate": "July 2024",
+        "company_name": "Celebal Technologies",
+        "description": "During my internship at Celebal Technologies, I improve my skills in Python and build a strong understanding of SQL. I also gained hands-on experience with AWS Cloud, which really helped me grow as a Data Engineer.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "NumPy",
+      "Pandas",
+      "Tailwind CSS",
+      "Bootstrap",
+      "PowerBI"
+    ],
+    "soft_skills": [],
+    "name": "HARSH SINGH",
+    "position": "Entry-level position",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Greater Noida, Uttar-Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

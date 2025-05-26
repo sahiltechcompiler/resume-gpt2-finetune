@@ -1,0 +1,228 @@
+{
+  "project_count": 8.0,
+  "designation": "",
+  "name": "Jahnavi Ponaganti",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL MOOC Database Management Systems",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hackerrank Certification (Basic C Programming)",
+        "issuer": "Hackerrank",
+        "certiLink": "https://www.hackerrank.com/certificates/1b50dc79b"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hackerrank Certification (SQL Basic)",
+        "issuer": "Hackerrank",
+        "certiLink": "https://www.hackerrank.com/certificates/iframe/ba67b130b074"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hackerrank Certification (Basic Python)",
+        "issuer": "Hackerrank",
+        "certiLink": "https://www.hackerrank.com/certificates/8a1dde6827bc"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE - Big Data",
+        "startDate": "2021"
+      },
+      {
+        "school": "AP Board of Intermediate",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 8.65/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "AP Board of SSC",
+        "endDate": "2019",
+        "maximum_grade": "Grade: 10.00",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 98.1",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Tic Tac Toe game",
+        "description": "Implemented a Tic Tac Toe game to enhance logical thinking skills.",
+        "keywords": [
+          "C"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Payroll Management Systems",
+        "description": "Developed a system to manage employee salary details using file handling techniques.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Analog and Digital Clock",
+        "description": "Created a clock application using Tkinter for GUI development and the time module for functionality.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Magic Square",
+        "description": "Designed an algorithm to arrange numbers in a grid, ensuring sums of rows, columns, and diagonals are equal.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Record Management",
+        "description": "The current application student record management system using Java. Carried out using concepts of files to store and manage student data efficiently.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Designed and implemented a movie recommendation system using machine learning algorithms. We have used techniques such as collaborative filtering and content-based filtering to recommend movies to users.",
+        "keywords": [
+          "Machine learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Case Code Mapper",
+        "description": "Developed a full stack program to map and unveil legal sections for specific case codes and also utilized data analysis techniques to interpret and display relevant legal information.",
+        "keywords": [
+          "Software Engineering"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Undergraduate research opportunities project",
+        "description": "It is a application based on networking system, i.e,D2D communication in wireless 5G technology.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "",
+        "description": "I have done a research internship on Device-to-Device (D2D) communication in wireless 5G technology. In Collaboration with faculty members to explore innovative solutions and optimizations for D2D communication and assisted in the preparation of research papers and presentations, contributing to academic publications.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Virtual Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Oasis Infobyte",
+        "description": "Completed a virtual internship at Oasis Infobyte, focusing on Java programming.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "MongoDB",
+      "MySQL",
+      "Node Js",
+      "React Js",
+      "VS Code",
+      "MYSQL Workbench",
+      "Postman",
+      "Json",
+      "Linux",
+      "GIT",
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Operating Systems",
+      "Computer Networks",
+      "Computer Architecture",
+      "Compiler design and Automata Theory",
+      "Database Management System",
+      "Computer organization and Architecture",
+      "Data Warehousing and Mining",
+      "Machine Learning",
+      "Applied Data Science",
+      "Software Engineering (Agile)",
+      "Advance Graph Theory"
+    ],
+    "soft_skills": [],
+    "name": "Jahnavi Ponaganti",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

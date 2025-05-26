@@ -1,0 +1,187 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Athulya Kairali",
+  "college": "Chennai Institute Of Technology",
+  "locations": [
+    "Chennai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to frontend development with ReactJS",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco NetAcad",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Certified Network Associate",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NodeJs backend basics with best practices",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI/ML Nanodegree",
+        "issuer": "Udacity",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.67",
+        "field_of_study": "Computer Science and Business Systems",
+        "startDate": "Sep 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "LanceX",
+        "description": "Created a student-focused frontend freelance site inspired by Upwork which facilitates project-based learning for students with responsive and intuitive UI. Enhanced the site with features like client conversations, project ratings, and reviews.",
+        "keywords": [
+          "React.js",
+          "TailwindCSS",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/Athulyakairali/LanceX"
+      },
+      {
+        "name": "WeChat",
+        "description": "Video calling app that enables a seamless video calling experience for users. Utilized lower latency for a smooth end-to-end video-calling experience. Features: Implemented screen sharing and multispeaker view for effective video-calling experience.",
+        "keywords": [
+          "React.js",
+          "Typescript",
+          "Socket.IO"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Athulyakairali/WeChat"
+      },
+      {
+        "name": "Blogzen",
+        "description": "Contains a collection of resources categorized by tech domains, languages, and expertise. This platform supports up to 100 active users without any compromise to user experience. Features: Users can download the content and can upload them as well.",
+        "keywords": [
+          "Angular",
+          "Postgresql",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Athulyakairali/blogzen"
+      },
+      {
+        "name": "Image Classifier",
+        "description": "Created an Image classifier that detects different objects through their shapes and sizes using machine language algorithms. Features: Used F1 score to quantify the objects and Convolutional Neural Networks for better classification.",
+        "keywords": [
+          "Python",
+          "Jupyter Notebook",
+          "Tensorflow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/Athulyakairali/Image-classifier"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "UI/UX Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Asokumar Enterprises",
+        "description": "Created the whole user interface and user experience for the company's inventory management system from scratch. Developed a clean and modern visual design that aligned with the companys branding.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Graphic Design Intern",
+        "skillsUsed": [],
+        "endDate": "Nov 2022",
+        "company_name": "Aivirex Innovations",
+        "description": "Conceptualized various visuals based on the requirements of different clients that are put forth through the engaging user interface. Used design tools like Adobe Illustrator and Photoshop to develop high-quality graphics, icons, and other visual elements.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "Typescript",
+      "React",
+      "HTML",
+      "Angular",
+      "Bootstrap",
+      "CSS",
+      "Github",
+      "Vscode",
+      "Adobe Photoshop",
+      "Mysql",
+      "Postgresql",
+      "Firebase",
+      "Jupyter Notebook",
+      "Figma",
+      "PowerBI",
+      "Sketch",
+      "Node.js",
+      "Springboot",
+      "Express.js",
+      "AWSEC2",
+      "Vercel",
+      "AWS S3",
+      "Docker"
+    ],
+    "soft_skills": [],
+    "name": "Athulya Kairali",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Selected among 5000 participants for the prestigious Udacity AI&ML Scholarship which is sponsored by AWS.",
+      "Led a team which was selected as one of the top 50 teams at NIT-J's Hackmol-5.0 hackathon."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

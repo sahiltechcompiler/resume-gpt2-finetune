@@ -1,0 +1,130 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Vishal",
+  "college": "GTBIT, GGSIPU",
+  "locations": [
+    "(Virtual), India",
+    "Timarpur, Delhi-110054"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GTBIT, GGSIPU",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "PUSA POLYTECHNIC",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "per. 71",
+        "field_of_study": "ECE",
+        "startDate": "2019"
+      },
+      {
+        "school": "DRP CONVENT SECONDARY SCHOOL",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CLASS 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "per. 60",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "NETFLIX CLONE",
+        "description": "Create a fully designed NETFLIX clone homepage with the help of HTML, CSS, REACT. Utilized React.js for front-end development to craft a highly interactive and intuitive user interface. Applied Tailwind CSS, Figma for styling and design, resulting in a modern and cohesive visual aesthetic.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "REACT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI DESKTOP ASSISTANT",
+        "description": "Create a Python powered desktop Assistant with the help of Python and the speech Recognization. Work on a Speech Recognization like (speech to text) and gives the measureable answer in words as well as words. Utilized React.Js for Front-end development to craft a highly interactive and intuitive user interface.",
+        "keywords": [
+          "PYTHON",
+          "SPEECH RECOGNIZATION"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "JAVA DEVELOPER",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "CODSOFT",
+        "description": "Learn and then make 3 projects in Java Language. (1)Student percentage calculator, (2)Atm Machine Interface, (3)Number guesser game.",
+        "location": "(Virtual), India",
+        "links": "",
+        "startDate": "Aug 2023"
+      },
+      {
+        "role_name": "Internship Trainee",
+        "skillsUsed": [],
+        "endDate": "July 2021",
+        "company_name": "DRDO | SSPL",
+        "description": "Study and complete a project on about (BJT) BIPOLAR JUNCTION TRANSISTORS. Learn about the semiconductor materials and electronic devices/components for OPTOELECTRONICS/ MICROWAVE/ SENSOR APPLICATIONS.",
+        "location": "Timarpur, Delhi-110054",
+        "links": "",
+        "startDate": "June 2021"
+      }
+    ],
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Java",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "SQL",
+      "Python",
+      "Git",
+      "Github",
+      "Microsoft Office",
+      "React",
+      "VS Code"
+    ],
+    "soft_skills": [
+      "Debate",
+      "Public Speaking",
+      "Teaching",
+      "Sports"
+    ],
+    "name": "Vishal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated in a nationwide hackathon organized by the Govt. of India in a team of 6. Got selected in the intra-college qualification round and qualified for the finals."
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.tech"
+}

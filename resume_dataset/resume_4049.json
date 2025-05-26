@@ -1,0 +1,184 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Rishabh Gupta",
+  "college": "Dr. A.P.J Abdul Kalam Technical University",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Varanasi, Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Certified Cloud Practitioner",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React - The Complete Guide (Udemy)",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Flutter & Dart - The Complete Guide (Udemy)",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A.P.J Abdul Kalam Technical University",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA of 8.00",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "TuneTide (Music Player)",
+        "description": "Integrated Shazam API from Rapid API for robust music metadata and enhanced music discovery experience. Employed Tailwind CSS to create a visually appealing, responsive, and user-friendly interface. Implemented interactive UI for playlist management, enabling users to add, remove, and reorder tracks dynamically. Incorporated music playback controls, including play, pause, skip, and volume adjustment, for an engaging listening experience. Enabled free music access and an infinite scroll feature for seamless browsing and exploration.",
+        "keywords": [
+          "ShazamAPI",
+          "Tailwind CSS",
+          "React.js",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "KA - Solutions",
+        "description": "Developed an e-commerce platform serving small and large businesses, individual sellers, and consumers. Implemented admin and user functionalities, product management, and responsive design.",
+        "keywords": [
+          "Tailwind CSS",
+          "React.js",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Built a personal portfolio website using Next.js, showcasing expertise, projects, and achievements. Incorporated an interactive and user-friendly interface, comprehensive skill overview, project showcase, and contact information. Ensured responsive design for optimal viewing experience across various devices.",
+        "keywords": [
+          "Tailwind CSS",
+          "React.js",
+          "Next.js",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Flutter App Development",
+        "description": "Developed cross-platform mobile applications using Flutter framework and Dart programming language. Integrated Firebase for authentication, real-time database, and cloud storage functionality. Consumed RESTful APIs to fetch and display data within the applications. Implemented responsive user interfaces with Material Design principles for intuitive user experiences.",
+        "keywords": [
+          "Flutter",
+          "Firebase",
+          "APIs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front-End Web Development Intern",
+        "skillsUsed": [
+          "React.js",
+          "Next.js",
+          "Tailwind CSS"
+        ],
+        "endDate": "June 2025",
+        "company_name": "IVIXIA TECH LABS",
+        "description": "Translated designs into responsive and user-friendly web applications using React.js, Next.js, and Tailwind CSS. Implemented coding standards, optimized performance, and streamlined processes for efficient front-end development. Collaborated with cross-functional teams to deliver cutting-edge web experiences and enhance user engagement.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "May 2021"
+      },
+      {
+        "role_name": "Junior Flutter Developer",
+        "skillsUsed": [
+          "Flutter",
+          "REST API",
+          "PHP"
+        ],
+        "endDate": "Present",
+        "company_name": "IVIXIA TECH LABS",
+        "description": "Promoted to Junior Flutter Developer after demonstrating exceptional performance and technical skills. Developed Flutter applications with REST API integration using PHP provided by the team, incorporating various functionalities for a seamless user experience. Collaborated with backend developers to ensure efficient and secure data transmission between the app and server. Implemented features such as user authentication, real-time data updates, and responsive UI for enhanced user interaction.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Mar 2024"
+      },
+      {
+        "role_name": "Full-Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Cloud Computing Cell",
+        "description": "Served as Senior Coordinator and Full-Stack Developer, leading events, workshops, and speaking engagements. Contributed to a dynamic and collaborative environment, fostering growth and knowledge sharing.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Sept. 2022"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "C",
+      "C++",
+      "Dart",
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "Bootstrap",
+      "APIs",
+      "RESTful Services",
+      "Flutter",
+      "Firebase",
+      "VS Code",
+      "Git",
+      "GitHub",
+      "Vercel",
+      "Netlify",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "Rishabh Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Recipient of the Best Performer Award at the Cloud Computing Cell for outstanding contributions.",
+      "Participated in various hackathons and coding competitions, showcasing problem-solving and teamwork skills."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 0.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

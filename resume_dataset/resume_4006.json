@@ -1,0 +1,114 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Abhijai Srivastava",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4 / 10.0",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "St. Francis College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 93%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Scheduler",
+        "description": "Built a Java GUI simulator for four scheduling algorithms: Round Robin, FCFS, SJF and SRTF. Utilized priority queue in SJF reducing average waiting time by 30% and turnaround time by 27%. Improved round-robin resource usage and starvation using quantum counters, reducing context switches by 31%.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "Aug 2024",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "GraphCab: Shortest Path/Time Detection",
+        "description": "Created a Cab Booking App using the MERN stack, featuring 5 cab options, relative pricing, and a user-friendly interface. Integrated Dijkstras algorithm for shortest path calculation, linking it to Node.js, optimizing trip duration and cost, and reducing average route calculation time by 40%. Automated user and driver notifications using Nodemailer, providing instant booking confirmations and optimized routes. Architected admin functionalities for monitoring user activities, booking statistics, and cab management with a secure backend using MongoDB.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Nodemailer"
+        ],
+        "endDate": "Jul 2024",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE INTERN",
+        "skillsUsed": [
+          "React.js",
+          "TypeScript",
+          "Express",
+          "Node.js",
+          "AWS",
+          "Sequelize",
+          "MySQL"
+        ],
+        "endDate": "May 2025",
+        "company_name": "Tally Solutions",
+        "description": "Developed TallyCapital financial portal with React.js and TypeScript for front-end development, simplifying the loan approval process by integrating banks; reduced loan application steps from 8 to 3, boosting loan approvals by 25%. Engineered a scalable backend by implementing 15+ services and REST APIs using Express, Node.js, AWS, and Sequelize. Designed and developed a scalable role-based access control system across multiple agile sprints, implementing 10 user roles, enhancing data security, and ensuring regulatory compliance through schemas. Leveraged MySQL, AWS, and Sequelize for database management and cloud services enhancing data storage and retrieval processes; contributed to bi-weekly code reviews, increasing query optimization. Automated data preprocessing, eliminating manual calculations by analysts for MSMEs; optimized application processing time from 24 hours to near-instantaneous, enhancing user-experience. Engineered a comments engine to centralize application data and communication; integrated search/filter functionality with comprehensive documentation and unit testing, enhancing overall code reliability.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2021"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "Python",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TypeScript",
+      "SQL",
+      "React.js",
+      "Node.js",
+      "Sequelize",
+      "Amazon Web Services",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Abhijai Srivastava",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded the Front Runner Award at TallySolutions for effectively leading a team of 4, surpassing project goals, and standing out among 60 interns.",
+      "Secured acceptance of, DetecTum: Automated Detection of Brain Tumors Using Convolution Neural Networks at the 3rd International Conference on Advances in Data-driven Computing & Intelligent Systems scheduled in Goa, September 2024.",
+      "Awarded the Deans List of Academic Excellence Award for achieving the highest grade point average."
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

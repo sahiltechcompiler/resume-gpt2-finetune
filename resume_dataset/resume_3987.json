@@ -1,0 +1,158 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ABHISHEK TRIPATHI",
+  "college": "KIET GROUP OF INSTITUTIONS",
+  "locations": [
+    "Ghaziabad, India",
+    "Kanpur, India"
+  ],
+  "full_output": {
+    "summary": "B.Tech undergrad with strong academic background in innovative tech. Exceptional analytical, problem-solving, communication skills. Seeking challenging role to apply skills, contribute to growth, learn and develop.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Relevant for skill development and career advancement in software engineering and computer science.",
+        "skillsLearned": [],
+        "title": "DSA Using C++",
+        "issuer": "By Abdul Bari",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Successfully completed a 60-hour online course on Web Development by Angela Yu.",
+        "skillsLearned": [],
+        "title": "Complete Web Development Bootcamp",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Gained insights into how AI can be applied to analyze and interpret complex business data, leading to data-driven decision-making.",
+        "skillsLearned": [],
+        "title": "Use of AI in Business Analytics",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET GROUP OF INSTITUTIONS",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "CGPA 8.8",
+        "field_of_study": "Computer Science and Engineering(AI)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Air Force School, Kanpur",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Standard XII(CBSE)",
+        "location": "Kanpur, India",
+        "ID": 1.0,
+        "grade_received": "93%",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Air Force School, Kanpur",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Standard X(CBSE)",
+        "location": "Kanpur, India",
+        "ID": 2.0,
+        "grade_received": "96.6%",
+        "field_of_study": "",
+        "startDate": "2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Visual Cipher Web Development Project",
+        "description": "Develop a graphical password frontend for a secure login system, a safer alternative to traditional text-based passwords.",
+        "keywords": [],
+        "endDate": "Jul-2023",
+        "startDate": "Apr-2023",
+        "url": ""
+      },
+      {
+        "name": "Music Player Project",
+        "description": "Designed an e-portal for the efficient management and collection of waste, streamlining waste management processes.",
+        "keywords": [],
+        "endDate": "Jul-2023",
+        "startDate": "Jun-2023",
+        "url": ""
+      },
+      {
+        "name": "Weather app",
+        "description": "A website which allows one to know the weather of their current location as well as any desired place in world. Implemented features of React such as toastify which is useful to set notifications and alerts.",
+        "keywords": [],
+        "endDate": "Feb-2022",
+        "startDate": "Nov-2022",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English - B2+",
+      "Hindi - native"
+    ],
+    "experiences": [
+      {
+        "role_name": "Front-End Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Jul-2023",
+        "company_name": "Edgeforce Solutions Private Limited",
+        "description": "Developed a feature-rich music player as a key component of my front-end development project.",
+        "location": "",
+        "links": "",
+        "startDate": "May-2023"
+      },
+      {
+        "role_name": "Virtual Internship Program",
+        "skillsUsed": [],
+        "endDate": "Sep-2022",
+        "company_name": "YBI Foundation",
+        "description": "Successfully completed Two week Virtual Internship in Machine Learning using Python. Got some hands on experience on Data Models, data Handeling , regression models etc.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug-2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++(Proficient)",
+      "Python",
+      "SQL",
+      "HTML5",
+      "CSS",
+      "JS",
+      "Github",
+      "Amazon Web Services",
+      "Power BI",
+      "Tableau",
+      "GFG",
+      "LeetCode",
+      "CodingNinjas",
+      "CodeChef",
+      "Codeforces"
+    ],
+    "soft_skills": [],
+    "name": "ABHISHEK TRIPATHI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

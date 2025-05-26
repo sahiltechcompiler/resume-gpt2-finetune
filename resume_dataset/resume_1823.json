@@ -1,0 +1,100 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SREEHARI I S",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA 7.85/10",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Library Management App",
+        "description": "Developed an app for librarians to manage book inventory, allowing addition, deletion and search of books by Name or Author from a single home page. Positioned the search bar, addition bar, and delete bar at the top centre, with a table below displaying all entries. Converted the website to a mobile app and hosted it on Vercel for easy access on Android devices.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "https://github.com/ISSreehari/librarynew"
+      },
+      {
+        "name": "Shopping Website",
+        "description": "Created a beginner-level web project independently, demonstrating enthusiasm for web development. Implemented foundational concepts to craft a user-friendly website. Enhanced the design to improve user experience and simplify product navigation for seamless exploration. Successfully blended creativity with functionality to create a practical website that meets user needs effectively.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "",
+        "url": "https://github.com/ISSreehari/my-shopping-website"
+      },
+      {
+        "name": "RFID-Enabled Interactive Q&A System",
+        "description": "Developed an RFID-based Q&A system featuring a 16x4 LCD screen and 3 RFID cards, streamlining interaction and resulting in a 30% increase in user engagement. Improved accessibility for physically challenged individuals by integrating tactile cues for option selection. Achieved national recognition, securing a feature on Sun News, underscoring project impact and effective communication showcased in a compelling presentation to AICTE Chairman.",
+        "keywords": [],
+        "endDate": "Feb 2023",
+        "startDate": "",
+        "url": "https://github.com/ISSreehari/QNAusingRFID"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Embedded Systems Intern",
+        "skillsUsed": [
+          "C++",
+          "microcontroller programming",
+          "firmware development",
+          "hardware-software integration"
+        ],
+        "endDate": "Jul 2023",
+        "company_name": "DLK TECHNOLOGIES",
+        "description": "Gained expertise in microcontroller programming, firmware development, and hardware-software integration during an immersive internship in Embedded Systems at DLK Technologies. Led the creation of innovative solutions, applying advanced skills in C++ and utilizing industry-standard tools for the design of embedded systems. Collaborated seamlessly with the team to meet project milestones, demonstrating effective teamwork and contributing to the successful completion of assigned tasks.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "JS",
+      "HTML",
+      "CSS",
+      "React",
+      "Node",
+      "Express",
+      "MySQL",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "SREEHARI I S",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Coordinated and executed the Takshashila 2023 events as the Event Organiser, overseeing 3 varied events. Managed aspects of planning, logistics and execution to ensure its success.",
+      "Led a team project on an RFID-based Interactive Q&A System, coordinating tasks and resolving technical issues. Presented the project to the AICTE Chairman, with the presentation featured on Sun News.",
+      "Collaborated with team members to achieve project goals, ensuring timely completion and quality outcomes."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

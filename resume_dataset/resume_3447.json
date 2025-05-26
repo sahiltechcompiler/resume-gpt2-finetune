@@ -1,0 +1,190 @@
+{
+  "project_count": 7.0,
+  "designation": "",
+  "name": "Shubham Daulkar",
+  "college": "Trinity Academy of Engineering",
+  "locations": [
+    "Pune, Maharashtra"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Trinity Academy of Engineering",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Pune, Maharashtra",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.67",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Git-Resume",
+        "description": "This project is a web application that generates a professional resume from a GitHub profile. By entering a GitHub username, this web application generates a professional resume based on the users contributions and projects.",
+        "keywords": [
+          "Next.js",
+          "react.js",
+          "shadcn",
+          "TypeScript",
+          "JavaScript",
+          "TailwindCSS",
+          "Github API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "git-resume-eta.vercel.app"
+      },
+      {
+        "name": "Portfolio",
+        "description": "",
+        "keywords": [
+          "Next.js",
+          "react.js",
+          "TypeScript",
+          "TailwindCSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "portfolio-rho-amber-43.vercel.app"
+      },
+      {
+        "name": "Video hosting platform",
+        "description": "build a complete video hosting website similar to youtube with all the features like login, signup, upload video, like, dislike, comment, reply, subscribe, unsubscribe.",
+        "keywords": [
+          "NodeJs",
+          "expressJs",
+          "JWT",
+          "Cloudinary",
+          "JavaScript",
+          "mongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blogging Website",
+        "description": "Create a platform for individuals to showcase their expertise, skills, and experiences through blog posts. Allow users to write about topics related to their field of work and personal development.",
+        "keywords": [
+          "React.js",
+          "Appwrite",
+          "JavaScript",
+          "HTML",
+          "Tailwind CSS",
+          "Redux"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat App",
+        "description": "Allows users to exchange text messages in real time. Allows multiple users to participate in a single conversation.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Express.js",
+          "Socket.io"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "GDSC website UI",
+        "description": "Created a website for the GDSC club.",
+        "keywords": [
+          "Next.js",
+          "TypeScript",
+          "tailwind CSS",
+          "HTML",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Expense Tracker",
+        "description": "Helps individuals or businesses monitor and manage their spending.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Android Developer Intern",
+        "skillsUsed": [
+          "Java",
+          "Kotlin",
+          "Firebase"
+        ],
+        "endDate": "June 2022",
+        "company_name": "Tradix Network",
+        "description": "Build an Application For Company Using Java,Kotlin and Firebase. Maintain a cutting-edge of Android Development.",
+        "location": "Pune, Maharashtra",
+        "links": "",
+        "startDate": "Dec 2021"
+      },
+      {
+        "role_name": "Web Frontend Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js"
+        ],
+        "endDate": "Mar 2023",
+        "company_name": "Prospera",
+        "description": "Build and Design various Website Using HTML,CSS,JavaScript,React.js",
+        "location": "Pune, Maharashtra",
+        "links": "",
+        "startDate": "Dec 2022"
+      },
+      {
+        "role_name": "Techinal Lead - GDSC TAE",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "",
+        "description": "Organized Various Event for more than 100+ students. Helped students with various technologies.",
+        "location": "Pune, Maharashtra",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Kotlin",
+      "Swift",
+      "Java",
+      "Dart",
+      "C++",
+      "C"
+    ],
+    "soft_skills": [],
+    "name": "Shubham Daulkar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Engineering"
+}

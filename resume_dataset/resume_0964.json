@@ -1,0 +1,156 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SAHIL SARAOGI",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Surat"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Principles of Generative AI Certification",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "8-week NPTEL course",
+        "skillsLearned": [],
+        "title": "Design and Analysis Algorithms",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA- 9.55 (6th Sem) CGPA- 9.17 (Current*)",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "S.D. Jain Modern School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Surat",
+        "ID": 1.0,
+        "grade_received": "82.2% (CBSE-Science)",
+        "field_of_study": "Higher Secondary (12th)",
+        "startDate": ""
+      },
+      {
+        "school": "S.D. Jain Modern School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Surat",
+        "ID": 2.0,
+        "grade_received": "93% (CBSE)",
+        "field_of_study": "Secondary School (10th)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ParliamentaryPal: AI-Based Question Answering Model",
+        "description": "Cleaned and preprocessed the Lok Sabha Question Hour dataset (1999-2019) to ensure data quality and consistency using Pandas library. Leveraged Langchain to handle complex language models and ensure accurate question-answering capabilities and integrated OpenAPI for seamless interaction with the question-answering model. Implemented Retrieval-Augmented Generation (RAG) techniques to enhance the retrieval of relevant parliamentary information based on user queries. Designed a user-friendly interface to allow users to easily query and retrieve relevant parliamentary information.",
+        "keywords": [
+          "Python",
+          "Langchain",
+          "Cassandra",
+          "OpenAPI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "IPL Win Predictor",
+        "description": "Built a logistic regression model to estimate win probabilities during the second half of IPL matches. Conducted feature engineering to identify key factors influencing match outcomes. Achieved an accuracy of approximately 80% in predicting match outcomes.",
+        "keywords": [
+          "Machine Learning",
+          "Python",
+          "Streamlit",
+          "Matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Simon Game",
+        "description": "Developed an interactive memory sequence game using HTML, CSS, and JavaScript, challenging players to repeat increasingly complex sequences of lights and sounds. Implemented game logic to dynamically generate sequences and validate user input, ensuring a smooth and engaging user experience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Machine Learning",
+      "Natural Language Processing",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PowerBI",
+      "Pandas",
+      "NumPy",
+      "LangChain",
+      "Streamlit",
+      "Bootstrap"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Strong Communication",
+      "Problem Solving",
+      "Efficient scheduling"
+    ],
+    "name": "SAHIL SARAOGI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Selected from a highly competitive pool of applicants to participate in the prestigious Amazon ML Summer School 2024, gaining advanced training in machine learning and AI techniques.",
+      "Recipient of Deans List Award for Excellence in Academics for receiving highest grade point in IV, V and VI semesters respectively.",
+      "Received a Letter of Recommendation from WeSettle for exceptional performance and strategic contributions during my internship as a Business Development Associate."
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

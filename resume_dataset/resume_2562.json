@@ -1,0 +1,293 @@
+{
+  "project_count": 7.0,
+  "designation": "",
+  "name": "Shafin Showkat",
+  "college": "MODEL INSTITUTE OF ENGINEERING AND TECHNOLOGY, JAMMU",
+  "locations": [
+    "Peerbagh, Srinagar 190014",
+    "Delhi"
+  ],
+  "full_output": {
+    "summary": "Motivated and eager 21-year-old computer science student with strong logic and problem-solving skills. Seeking an opportunity to leverage my knowledge and skills to contribute to a dynamic team and drive organizational success.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence using Prolong Programming",
+        "issuer": "Swayam",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PYTHON PROGRAMMING BASICS",
+        "issuer": "HUAWEI",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "BASICS OF PYTHON",
+        "issuer": "INFOSYS SPRINGBOARD",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PYTHON 3.X FOR COMPUTER VISION",
+        "issuer": "INFOSYS SPRINGBOARD",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PYTHON AI DEVELOPMENT: PRACTICE",
+        "issuer": "INFOSYS SPRINGBOARD",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JAVASCRIPT BASIC",
+        "issuer": "HACKERRANK",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "WEB DEVELOPMENT COURSE",
+        "issuer": "SMARTKNOWER",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "HTML COURSE",
+        "issuer": "SOLOLEARN",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "BIG DATA/MACHINE",
+        "issuer": "INFOSYS SPRINGBOARD",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PROCESS MINING:DATA",
+        "issuer": "INFOSYS SPRINGBOARD",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MODEL INSTITUTE OF ENGINEERING AND TECHNOLOGY, JAMMU",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering (B.E)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.62",
+        "field_of_study": "Computer Science",
+        "startDate": "2020"
+      },
+      {
+        "school": "BURN HALL HIGER SECONDARY SCHOOL, SRINAGAR",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Senior Secondary (XII)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "62.2",
+        "field_of_study": "Non-Medical",
+        "startDate": ""
+      },
+      {
+        "school": "BURN HALL HIGER SECONDARY SCHOOL, SRINAGAR",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Secondary(X)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "71.8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Web Scraping on Covid-19 cases",
+        "description": "The COVID data for different areas/states is not available collectively for research and visualization so different organizations/individuals must go across sites to collect this data. With the scraper the different data can be collected, and a single data set can be created. Developed a web scraper to collect COVID-19 data from various sites. Created a consolidated dataset for research and visualization. Monitored active cases, total cases, and deaths in India.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "Tkinter",
+          "Beautiful Soup"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Parking Lot System",
+        "description": "Imagine a busy parking lot. Cars come and go at different times, and it can be a bit chaotic to keep track of everything. The parking lot system helps solve this problem by keeping a neat record of when each car enters and leaves. The techstack used are Html, CSS, JavaScript, PHP, MySQL. The system records the entry time and the exit time when a vehicle enters or leaves the parking lot. Maintains a record for each vehicle, including license plate number and entry/exit timestamps. Allows users to search for a vehicle using its license plate number. Retrieves the parking history of a specific vehicle.",
+        "keywords": [
+          "Html",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mini Project on Student Management System",
+        "description": "Developed a web-based system for managing student information, including registration, academic records, and attendance. Implemented user authentication for secure access.",
+        "keywords": [
+          "Html",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RPA Bot to send notifications to students when their attendance falls below 75%",
+        "description": "Created an RPA bot to notify students via email or SMS when their attendance falls below 75%. Automated monitoring and notification processes to enhance student engagement.",
+        "keywords": [
+          "UiPath"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Smart Home (Cisco Packet Tracer)",
+        "description": "Simulated a smart home environment with IoT devices controlled via a smartphone, covering areas like the front door, living room, and kitchen.",
+        "keywords": [
+          "Cisco Packet Tracer",
+          "IoT Devices",
+          "Wireless Networks"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Smoke Detection System (Cisco Packet Tracer)",
+        "description": "Developed a smoke detection system with integrated alarms and sprinkler systems for fire safety in a smart home environment.",
+        "keywords": [
+          "Cisco Packet Tracer",
+          "IoT Devices",
+          "Wireless Networks"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Transcan Video Transcript Search",
+        "description": "Built a system for searching video transcripts using advanced speech-to-text technology and natural language processing.",
+        "keywords": [
+          "Python",
+          "OpenAI Whisper",
+          "Streamlit",
+          "NumPy",
+          "FFMPEG"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [
+          "Python",
+          "HTML",
+          "CSS",
+          "Tkinter",
+          "Beautiful Soup"
+        ],
+        "endDate": "",
+        "company_name": "REMARK SKILL, DELHI",
+        "description": "Developed a web scraper to collect COVID-19 data from various sites. Created a consolidated dataset for research and visualization. Monitored active cases, total cases, and deaths in India.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [
+          "Html",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "",
+        "company_name": "SMARTKNOWER",
+        "description": "The system records the entry time and the exit time when a vehicle enters or leaves the parking lot. Maintains a record for each vehicle, including license plate number and entry/exit timestamps. Allows users to search for a vehicle using its license plate number. Retrieves the parking history of a specific vehicle.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "Microsoft Visual Studio",
+      "Microsoft Office",
+      "Canva",
+      "Figma",
+      "Cisco Packet Tracer",
+      "UiPath",
+      "Anaconda3",
+      "Power BI",
+      "Advanced Excel"
+    ],
+    "soft_skills": [],
+    "name": "Shafin Showkat",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Peerbagh, Srinagar 190014",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Engineering (B.E)"
+}

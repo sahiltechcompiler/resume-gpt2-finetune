@@ -1,0 +1,211 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Monisha Manchem",
+  "college": "SRM University",
+  "locations": [
+    "Amaravathi, India",
+    "India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "HackerRank",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Teachnook",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Swayam",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL DataBase Management System (Elite + Silver)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Servicenow",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "Amaravathi, India",
+        "ID": 0.0,
+        "grade_received": "8.03",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Sarada Educational Institutions",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "India",
+        "ID": 1.0,
+        "grade_received": "96.1",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bharatiya Vidya Bhavans",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "India",
+        "ID": 2.0,
+        "grade_received": "90",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Secure Lab Access System using face recognition",
+        "description": "Developed a responsive and visually appealing user interface using HTML,CSS, JavaScript enhancing the accessibility and user experience of the Secure Lab Access System. Leveraged OpenCV library to implement facial recognition technology using Python Flask and integrated it with MySQL database management system to ensure secure and efficient access control.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "OpenCV",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Exam System",
+        "description": "Designed an interactive Java-based online quiz application utilizing AWT and Swing libraries for GUI design. Employed object-oriented programming principles to modularize code, effectively managing question handling and result presentation.",
+        "keywords": [
+          "Java",
+          "AWT",
+          "Swing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mini JavaScript Compiler",
+        "description": "Created custom lexer and parser using PLY and PyJsParser for lexical and syntax analysis of subsets of JavaScript language, showcasing proficiency in language processing tools. Executed symbol table management and semantic analysis to validate and analyze JavaScript code structures, demonstrating expertise in language semantics and static analysis techniques.",
+        "keywords": [
+          "Python",
+          "PLY",
+          "PyJsParser"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Process Manager",
+        "description": "Constructed a process manager using python to monitor and manage system processes efficiently. Utilized the psutil library to gather detailed information about running processes, including their process ID, name, CPU utilization, memory utilization, and I/O utilization.",
+        "keywords": [
+          "Python",
+          "psutil"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [
+          "Data Science",
+          "Machine Learning",
+          "NLP"
+        ],
+        "endDate": "Present",
+        "company_name": "Insignia Consultancy Solutions",
+        "description": "Contributing to the development of a recruitment platform leveraging advanced data science techniques that automates the application process by matching candidates with suitable job opportunities. Enhancing the platform's performance by annotating data to train NER models for extracting entities, enhancing the platform's ability to analyze and match job requirements. Conducting R&D to understand and implement machine learning models for natural language processing (NLP), with a focus on advanced techniques such as transformers.",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Salesforce Developer",
+        "skillsUsed": [
+          "Salesforce",
+          "Automation"
+        ],
+        "endDate": "June 2024",
+        "company_name": "Smart Internz",
+        "description": "Gained hands-on experience in automation features And customizing Salesforce applications. Developed and implemented custom objects, fields, and workflows to streamline operations and improve efficiency.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Flask",
+      "React.js",
+      "Node.js",
+      "MySQL",
+      "Git",
+      "Latex",
+      "Linux",
+      "Web",
+      "Windows",
+      "MacOS"
+    ],
+    "soft_skills": [],
+    "name": "Monisha Manchem",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved a Gold medal in Indian National Interactive Science Olympiad (NISO)",
+      "Secured a Gold medal in Indian National Interactive Maths Olympiad (NIMO)",
+      "Attained a Gold medal in Mahatma Gandhi Rashtrabhasha Examination"
+    ],
+    "publications": []
+  },
+  "current_location": "Vijayawada, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors of Technology"
+}

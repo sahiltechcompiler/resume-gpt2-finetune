@@ -1,0 +1,151 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Vivek Kumar",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, UP",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Design, create, and deploy a fun IoT device using Arduino and Raspberry Pi platforms. In this Specialization covers embedded systems, the Raspberry Pi Platform, and the Arduino environment for building devices that can control the physical world.",
+        "skillsLearned": [
+          "Arduino",
+          "Raspberry Pi",
+          "C",
+          "Python"
+        ],
+        "title": "An Introduction to Programming the Internet of Things (IOT)",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "This course was a great learning experience for me, as I gained a solid foundation in generative AI, such as natural language generation, neural network and data augmentation. There was also a great explanation of the ethical approach we should put in our AI models. This was a very informative course and I look forward to apply what I learned in my future projects.",
+        "skillsLearned": [
+          "AI",
+          "GANs",
+          "AI Ethics",
+          "CoPilot"
+        ],
+        "title": "Career Essentials in Generative AI",
+        "issuer": "Microsoft and Linkedin",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "July 2025",
+        "maximum_grade": "10.00",
+        "degree": "Bachelor of Science in Computer Science Engineering (IOT)",
+        "location": "Greater Noida, UP",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.75 / 10.00",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "Minor Degree in Artificial Intelligence & Machine Learning",
+        "location": "Greater Noida, UP",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Social Media Web Application",
+        "description": "Built a social media web applications that can be used make friend and for real-time messaging. Designed and deployed a scalable RESTful API using ReactDOM. Implemented a real-time chat feature using WebSocket and Socket.io, enhancing user engagement and reducing response time by 15%.",
+        "keywords": [
+          "React.js",
+          "Firebase",
+          "HTML5",
+          "CSS3",
+          "Hooks",
+          "Node.js",
+          "Ruby on Rails"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Classroom Automation System",
+        "description": "Designed and Implemented an automated classroom management system using Arduino Uno. Integrated Multiple Sensors including motion detectors, temperature sensors, and light sensors for real-time monitoring and control.",
+        "keywords": [
+          "Arduino IDE",
+          "TinkerCAD",
+          "Sensors(IR, PIR, Ultrasonic, DHT)",
+          "Relay Motor",
+          "ThingSpeak"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [
+          "Python",
+          "Java",
+          "C",
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "R",
+          "PHP"
+        ],
+        "endDate": "Aug 2024",
+        "company_name": "Bharat Intern",
+        "description": "House Price Prediction Model using Linear Regression. Wine Quality Prediction Model using Random Forest Classifier. Iris Flower Classification Model using Logistic Regression.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "R",
+      "PHP",
+      "TensorFlow",
+      "Arduino",
+      "Raspberry Pi 3",
+      "Android Studio",
+      "Power BI",
+      "Tableau",
+      "MySQL",
+      "MongoDB",
+      "TinkerCAD"
+    ],
+    "soft_skills": [],
+    "name": "Vivek Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Science in Computer Science Engineering (IOT)"
+}

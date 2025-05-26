@@ -1,0 +1,153 @@
+{
+  "project_count": 3.0,
+  "designation": "Backend Lead",
+  "name": "Sion Chowdhary",
+  "college": "KIET Group of Institutions (AKTU University)",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Lucknow, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions (AKTU University)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "7.86",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "City Montessori School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Lucknow, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "92%",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "City Montessori School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Lucknow, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "84%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Flipkart Clone",
+        "description": "E-commerce platform leveraging MERN stack. User authentication, detailed listings, Paytm integration. Robust backend: Node.js, Express.js, MongoDB for scalability.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Redux"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": "Flipkart Clone"
+      },
+      {
+        "name": "Gemini Clone",
+        "description": "Gemini AI clone built with ReactJS Vite. Chat interface for user interaction with Gemini API. Enhanced user experience for AI exploration.",
+        "keywords": [
+          "ReactJS"
+        ],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": "Gemin Clone"
+      },
+      {
+        "name": "Inshorts Clone",
+        "description": "Inshorts clone replicating popular news aggregation. Utilizes MERN stack (MongoDB, Express.js, React.js, Node.js) Ensures seamless user experience with concise news summaries.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": "Inshorts Clone"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Lead",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Data Science And Deep Learning Club",
+        "description": "Mentored in data science, advancing skills through hands-on projects. Explored backend development, fostering a collaborative learning environment.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "February 2022"
+      },
+      {
+        "role_name": "AIML Internship",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "October 2023",
+        "company_name": "YBI Foundation",
+        "description": "Proficient understanding of artificial intelligence principles and concepts. Mastery in utilizing machine learning algorithms for predictive modeling and data classification. Proficiency in programming languages commonly used in AI and data science, such as Python.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "(Certificate of Completion)",
+        "startDate": "September 2023"
+      },
+      {
+        "role_name": "Mini Project Internship",
+        "skillsUsed": [
+          "Java"
+        ],
+        "endDate": "September 2022",
+        "company_name": "Industry and Internship Partnership Cell",
+        "description": "Hands-on experience in designing and implementing Java applications using OOP methodologies. Mastery in creating and managing classes, objects, and inheritance hierarchies. Understanding of exception handling, multithreading, and other advanced Java concepts.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "(Certificate of Completion)",
+        "startDate": "August 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C",
+      "ReactJS",
+      "HTML",
+      "CSS",
+      "Responsive Design",
+      "NodeJS",
+      "ExpressJS",
+      "MongoDB",
+      "Figma",
+      "Bash",
+      "Git and GitHub",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "Sion Chowdhary",
+    "position": "Backend Lead",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

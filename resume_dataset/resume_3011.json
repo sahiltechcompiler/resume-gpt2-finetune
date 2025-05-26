@@ -1,0 +1,180 @@
+{
+  "project_count": 6.0,
+  "designation": "",
+  "name": "ALOK SINGH",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Artificial Intelligence (AI)",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine learning Models",
+        "issuer": "Microsoft",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Professional Cyber Security Certification",
+        "issuer": "GOOGLE",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "PW Skills",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA(Cisco Certified Network Associate) Certification",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Azure",
+        "issuer": "azure_certificate",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "86.4%",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Shri Krishna Academy (CBSE)",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "88.9%",
+        "field_of_study": "Physics Chemistry Math",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Recommendation System",
+        "description": "Designed a Movie Recommendation System utilizing cosine similarity, analyzing user preferences to suggest films with similar thematic elements. Implemented an efficient algorithm to calculate similarity scores, providing personalized recommendations that significantly enhanced user satisfaction and engagement.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "github.com/2004-AlokSINGH/Recommendation-System"
+      },
+      {
+        "name": "E-notes Platform",
+        "description": "This project is a note-taking application developed using Java with Spring MVC framework. It allows users to create, read, update, and delete notes. The application follows the MVC (Model-View-Controller) architectural pattern to ensure a separation of concerns and maintainability.",
+        "keywords": [],
+        "endDate": "2024",
+        "startDate": "",
+        "url": "github.com/2004-AlokSINGH/E-Notes"
+      },
+      {
+        "name": "Tweet Sentiment Analysis",
+        "description": "Crafted a Tweet Sentiment Analysis model employing Random Forest and Tfidf vectorization. Leveraged Tfidf to capture textual nuances and trained the Random Forest classifier for sentiment prediction. Achieved accurate sentiment analysis for tweets.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "github.com/2004-AlokSINGH/Tweet-Sentiment"
+      },
+      {
+        "name": "News-app",
+        "description": "This project is a React web application designed to provide users with real-time news updates. Utilizing modern web technologies and APIs, the app fetches and displays the latest news articles from various sources, ensuring users stay informed about events as they happen.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "github.com/2004-AlokSINGH/News-app"
+      },
+      {
+        "name": "Spam SMS classifier",
+        "description": "Developed a robust SMS Spam Classifier using Naive Bayes algorithm and Streamlit for user-friendly interaction. Trained the model on a diverse dataset, achieving high accuracy in identifying spam messages. Streamlit interface provides an intuitive platform for users to test and experience the classifier's efficiency.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "github.com/2004-AlokSINGH/Spam-Classifier"
+      },
+      {
+        "name": "WhatsApp chat Analysis",
+        "description": "Created a WhatsApp Chat Analyzer with Pandas, NumPy, and Streamlit. Leveraged Pandas for data manipulation, NumPy for numerical operations, and Streamlit for an interactive interface. Implemented a Wordcloud to visualize frequently used words, offering insightful patterns and trends within the chat data.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "github.com/2004-AlokSINGH/Whatsapp-Chat-Analysis"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python (NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, OpenCV)",
+      "Java",
+      "Data Structures and Algorithms",
+      "Deep Learning",
+      "Machine Learning",
+      "NLP",
+      "React",
+      "MySQL",
+      "Node",
+      "Express",
+      "C/C++",
+      "Tableau",
+      "Qlik Sense",
+      "Microsoft Azure",
+      "Cloud",
+      "CyberSecurity"
+    ],
+    "soft_skills": [],
+    "name": "ALOK SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.tech"
+}

@@ -1,0 +1,210 @@
+{
+  "project_count": 6.0,
+  "designation": "",
+  "name": "P Subanaveen",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Results-driven Software Designer with expertise in AI and machine learning, specializing in scalable, high-performance model design and deployment. Proficient in full stack development, adept at enhancing system efficiency through innovative solutions. Self-Motivated and Eager to drive technological innovation and programming contribute to groundbreaking projects.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Accenture: Strategy Consulting Virtual Experience Certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ServiceNow: Micro Certification",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Udemy: The Complete 2024 Web Development Bootcamp Certification",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Army Public School, Bikaner",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83",
+        "field_of_study": "Class 12th",
+        "startDate": "2019"
+      },
+      {
+        "school": "Army Public School, Bikaner",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "81.3",
+        "field_of_study": "Class 10th",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Early Detection of Parkinsons Disease",
+        "description": "Developed an XGBoost model with 97% accuracy for predicting Parkinsons disease using voice attributes. Significantly improved early intervention and patient outcomes.",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Classification of Microplastics Using Machine Learning Algorithms and SERS",
+        "description": "Developed a high-precision Random Forest Classifier with Surface-Enhanced Raman Spectroscopy (SERS). Achieved 91% accuracy in classifying harmful microplastics. Contributed to environmental preservation efforts.",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Speech Emotion Recognition System",
+        "description": "Designed and implemented an LSTM recurrent neural network with 92% accuracy in predicting speaker emotions. Developed a user-friendly Python-based GUI for intuitive interaction. Optimized model performance and usability.",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Ticketing System",
+        "description": "Built a comprehensive airline booking application using React.js, Node.js, and MongoDB. Enhanced booking efficiency and user experience under high traffic conditions.",
+        "keywords": [
+          "Full-stack Development"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Vigen`ere Cipher Encoders and Decoders",
+        "description": "Developed a secure Python GUI application using the Vigen`ere cipher for encoding and decoding messages. Ensured robust communication security with integrated RESTful API principles.",
+        "keywords": [
+          "Software Development"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Path Planning Model: Adaptive Path Planning Model from A* Algorithm",
+        "description": "Implemented the A* algorithm for efficient path planning. Optimized route navigation in various applications.",
+        "keywords": [
+          "AI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Insignia Consultancy",
+        "description": "Streamlined data preprocessing, feature engineering, and selection. Developed custom algorithms and ensured data integrity. Collaborated to deliver actionable insights, enhancing predictive accuracy and improving workflows. Boosted client satisfaction through improved data-driven solutions.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Salesforce Developer",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Salesforce",
+        "description": "Earned the prestigious Salesforce Developer Super Set credential by completing challenging tasks. Demonstrated adeptness in Apex development. Leveraged Salesforce platform capabilities to solve complex business challenges. Drove innovation during a virtual internship.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "SRM University",
+        "description": "Led groundbreaking machine learning research, resulting in published work and conference presentations. Optimized algorithms for improved performance. Authored research papers to foster knowledge sharing. Contributed to impactful outcomes in the field of machine learning.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "Java",
+      "MySQL",
+      "Machine Learning",
+      "MS Office",
+      "Data Visualization",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Computer Design and Architecture",
+      "Design Analysis",
+      "Software development lifecycle",
+      "Agile Methodologies"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Problem solving",
+      "Leadership",
+      "Critical Thinking",
+      "Communication Skills",
+      "Emotional Intelligence",
+      "Collaboration Skills"
+    ],
+    "name": "P Subanaveen",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Research Day 2023: 1st Runner-Up",
+      "Salesforce Developer Super Badges"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

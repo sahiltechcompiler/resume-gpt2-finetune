@@ -1,0 +1,131 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Devashish Roy",
+  "college": "Manipal University Jaipur (MUJ)",
+  "locations": [
+    "Rajasthan",
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur (MUJ)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Rajasthan",
+        "ID": 0.0,
+        "grade_received": "7.68",
+        "field_of_study": "Computer Science Engineering (CSE)",
+        "startDate": ""
+      },
+      {
+        "school": "N.K. Bagrodia Public School, Dwarka",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "92.26%",
+        "field_of_study": "Central Board of Secondary Education (CBSE)",
+        "startDate": ""
+      },
+      {
+        "school": "N.K. Bagrodia Public School, Dwarka",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "New Delhi",
+        "ID": 2.0,
+        "grade_received": "92.26%",
+        "field_of_study": "Central Board of Secondary Education (CBSE)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Stream Box",
+        "description": "Developed a scalable video streaming platform with microservices architecture and event-driven design.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "React",
+          "MySQL",
+          "Docker",
+          "Kafka",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link | Github"
+      },
+      {
+        "name": "Squeeze Box",
+        "description": "Created an efficient Image Compression tool using Go and React for batch image processing to target sizes.",
+        "keywords": [
+          "Go",
+          "React",
+          "AWS",
+          "NGINX",
+          "Jenkins",
+          "Docker"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link | GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Edomb",
+        "description": "Developed a Genetic Algorithm based Time Table generation system for schools in JavaScript, optimizing scheduling under multiple constraints. Migrated the Auth service from JavaScript to TypeScript, leading to fewer runtime errors and more efficient development cycles. Built comprehensive user interfaces using React and Ant Design ensuring a responsive UI that improved accessibility. Implemented state management with Redux Toolkit and RTK Query, resulting in faster data retrieval. Reduced load times by 40% through route-based code splitting and minimized data transfer by 91%. Optimized image assets, achieving an 71% decrease in load times by reducing sizes by 82%.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Manipal University Jaipur SDC",
+        "description": "Developed backend for Travel Buddy a carpooling app for MUJ Students using Node.js and MongoDB. Migrated server from Render to AWS reducing cold start times by 99% improving response times by 85%. Authored API Docs using Swagger facilitating seamless integration with the Web and the Mobile teams. Contributed to the Web frontend by creating components in React, enhancing overall user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Javascript",
+      "Go",
+      "ReactJS",
+      "ExpressJS",
+      "SpringBoot",
+      "MySQL",
+      "MongoDB",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Linux",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "Devashish Roy",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech."
+}

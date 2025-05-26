@@ -1,0 +1,153 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Prabhat Kumar",
+  "college": "Ajay Kumar Garg Engineering College (AKTU)",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "AGRA, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MERN Full Stack Web Development",
+        "issuer": "APNA COLLEGE",
+        "certiLink": "[Link]"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structure & Algorithms Master Course",
+        "issuer": "CODEHELP",
+        "certiLink": "[Link]"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College (AKTU)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "7.32 as of 5th Semester",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2022"
+      },
+      {
+        "school": "Government Leather Institute",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "AGRA, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "71%",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "WanderLust",
+        "description": "Developed a dynamic platform to connect travelers with private property owners, providing a seamless rental solution. Implemented user authorization and authentication.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Node.js",
+          "MongoDB",
+          "Bootstrap",
+          "Express.js"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": "[Link]"
+      },
+      {
+        "name": "StudyNotion",
+        "description": "Utilized React Router for seamless navigation between pages such as Home, Login, Signup, and Dashboard. Integrated controlled components for efficient form handling and client-side validation.",
+        "keywords": [
+          "React.js",
+          "Tailwind CSS",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": "[Link]"
+      },
+      {
+        "name": "Top Courses",
+        "description": "Developed a responsive frontend application to display and filter courses. Implemented a filtering feature via a navbar that displays courses based on selected categories. Utilized `useState` and `useEffect` for state management and side effects. Integrated an API for dynamic data fetching, incorporated `Spinner` for loading states, and employed `toast` for notifications, enhancing user experience and accessibility.",
+        "keywords": [
+          "React.js",
+          "Tailwind CSS",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "[Link]"
+      },
+      {
+        "name": "Weather App",
+        "description": "Developed a responsive web application to provide real-time weather information for any location. Integrated a weather API to fetch and display current weather data.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Git",
+          "OpenWeatherMap API"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": "[Link]"
+      },
+      {
+        "name": "Fetch GitHub Profile",
+        "description": "Developed a dynamic frontend web application that retrieves and displays user profile information from GitHub. Included a feature to toggle between dark and light modes for enhanced user experience.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "GitHub API",
+          "Git"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": "[Link]"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "Node.js",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "Prabhat Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Problems Solved GFG: 500+",
+      "LeetCode: 275+",
+      "CodeChef: 100+"
+    ],
+    "publications": []
+  },
+  "current_location": "Kasganj, Uttar Pradesh (207123)",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

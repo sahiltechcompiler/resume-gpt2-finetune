@@ -1,0 +1,125 @@
+{
+  "project_count": 2.0,
+  "designation": "Python Developer, Machine Learning Engineer, or Computer Vision Engineer",
+  "name": "Aditya Jangra",
+  "college": "Chandigarh University",
+  "locations": [
+    "Sonipat, India",
+    "Mohali, Punjab",
+    "Noida, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "Aditya Jangra is a versatile engineer with expertise in Python development, Machine Learning, and Computer Vision. His experience includes an internship at MLWorkX, where he collaborated with cross-functional teams to develop innovative solutions using advanced technologies. Aditya is proficient in traditional computer vision techniques like OpenCV and modern deep learning architectures such as LSTM networks. He specializes in utilizing Mediapipe, OpenCV, and LSTM networks, with a strong understanding of time-series analysis and sequential data processing.Aditya has built robust deep learning models for predicting user behaviour patterns and implemented these models to forecast future behaviours, providing valuable insights for decision-making. A proactive learner, he continually seeks opportunities for growth and development. Aditya recently graduated with a B.E. in Computer Science, specializing in Artificial Intelligence and Machine Learning, from Chandigarh University, and is open to roles as a Python Developer, Machine Learning Engineer, or Computer Vision Engineer.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate of Excellence in OpenCV",
+        "issuer": "OpenCV University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate of Excellence in TensorFlow",
+        "issuer": "OpenCV University",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chandigarh University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelors in Engineering",
+        "location": "Mohali, Punjab",
+        "ID": 0.0,
+        "grade_received": "7.5",
+        "field_of_study": "Computer Science (Hons.) Artificial Intelligence and Machine Learning",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "The Facial Recognition System utilizing Siamese Neural Networks",
+        "description": "The Facial Recognition System utilizing Siamese Neural Networks is designed to accurately identify and verify individuals by comparing facial features. Siamese Neural Networks excel in learning similarity metrics, making them ideal for tasks like facial recognition where precise feature matching is crucial. With an accuracy of 98%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "The American Sign Language Recognition project",
+        "description": "The American Sign Language Recognition project is designed to recognize and interpret American Sign Language (ASL) gestures. Using Mediapipe and Long Short-Term Memory (LSTM) models. The project aims to create an accurate and efficient system that can recognize a wide range of ASL gestures and translate them into corresponding text or spoken language. The system is built using Python and popular deep learning frameworks such as TensorFlow and Keras. With an accuracy of 97%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Computer Vision Intern",
+        "skillsUsed": [],
+        "endDate": "11/2022",
+        "company_name": "MLWorkX",
+        "description": "Collaborated with cross-functional teams to analyse problems and develop innovative solutions, gaining valuable hands-on experience in computer vision and deep learning technologies. Applied learned concepts directly to relevant work situations, showcasing proficiency in both traditional computer vision techniques (OpenCV) and modern deep learning architectures (LSTM). Specialized in utilizing Mediapipe, OpenCV, and LSTM networks, demonstrating a comprehensive understanding of cutting-edge technologies in the field. Leveraged LSTM architecture to construct a robust deep learning model for predicting user behaviour patterns, showcasing expertise in time-series analysis and sequential data processing. Implemented the LSTM model to forecast future user behaviour based on historical interactions, providing valuable insights for decision-making processes, and potentially enhancing personalized user experiences. Maintained clear and concise documentation of project progress and findings, facilitating knowledge transfer and collaboration within the team. Actively contributed to team discussions and brainstorming sessions, offering creative ideas and solutions to complex problems. Demonstrated a strong work ethic and a proactive approach to learning, continuously seeking opportunities for professional growth and development.",
+        "location": "Noida, Uttar Pradesh (Remote)",
+        "links": "",
+        "startDate": "08/2022"
+      }
+    ],
+    "skills": [
+      "Deep Learning",
+      "Feature Engineering",
+      "Transfer Learning",
+      "Regression",
+      "Classification",
+      "Reinforcement Learning",
+      "Python",
+      "Linux",
+      "C++",
+      "Java",
+      "HTML",
+      "CSS",
+      "YOLO",
+      "AWS",
+      "Jupyter Notebooks",
+      "Anaconda",
+      "Docker",
+      "Git",
+      "Tensorflow",
+      "PyTorch",
+      "Mediapipe",
+      "scikit-learn",
+      "OpenCV",
+      "dlib",
+      "CVZone",
+      "SimpleCV"
+    ],
+    "soft_skills": [
+      "Problem-Solving Skills",
+      "Communication Skills",
+      "Collaboration",
+      "Critical Thinking",
+      "Time Management"
+    ],
+    "name": "Aditya Jangra",
+    "position": "Python Developer, Machine Learning Engineer, or Computer Vision Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "MEETVERSE: A new way of Interaction on Online Meeting Platforms."
+    ]
+  },
+  "current_location": "Sonipat, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors in Engineering"
+}

@@ -1,0 +1,132 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "PRANIT CHOPRA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "West Delhi",
+    "New Delhi",
+    "India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.61 / 10",
+        "field_of_study": "CSE - IOT & Intelligence System",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Venkateshwar International School",
+        "endDate": "2019",
+        "maximum_grade": "100",
+        "degree": "12th",
+        "location": "West Delhi",
+        "ID": 1.0,
+        "grade_received": "Percentage: 89.40 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Venkateshwar International School",
+        "endDate": "2019",
+        "maximum_grade": "100",
+        "degree": "10th",
+        "location": "West Delhi",
+        "ID": 2.0,
+        "grade_received": "Percentage: 94.67 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Taskify",
+        "description": "Created Taskify, a task management tool intended to assist users in effectively managing and organizing their activities. Through an easy-to-use web interface, users may register, log in, and manage their chores with this application.",
+        "keywords": [
+          "MySQL",
+          "HTML/CSS",
+          "MySQLdb (Python MySQL Database Adapter)",
+          "hashlib (Python Library for Secure Hashing)"
+        ],
+        "endDate": "12 Jul, 2024",
+        "startDate": "27 May, 2024",
+        "url": "https://github.com/ShatakshiRanjan/JIOWebDesign"
+      },
+      {
+        "name": "Water Level Indicator",
+        "description": "A water level indicator is a system that relays information back to a control panel to indicate whether there is a high or low water level in a body of water.",
+        "keywords": [
+          "Arduino programming"
+        ],
+        "endDate": "08 Dec, 2023",
+        "startDate": "01 Aug, 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "IT Product & Services Intern",
+        "skillsUsed": [
+          "hadoop",
+          "c",
+          "c++",
+          "elk stack",
+          "scala"
+        ],
+        "endDate": "12 Jul, 2024",
+        "company_name": "JIO",
+        "description": "I had an experience of cyber security where , I gained the knowledge of different technologies like Hadoop, Elasticsearch Logstash and Kibana, superset technologies involved to protect, store and securely analyze the data. Explored the Data Center where I gained the knowledge of entire working of the data Centre. Made & Worked on Project named \"Taskify\" which is used to store the detailing daily tasks of individuals.",
+        "location": "",
+        "links": "",
+        "startDate": "27 May, 2024"
+      },
+      {
+        "role_name": "IT / Computers - Software Intern",
+        "skillsUsed": [
+          "data science",
+          "python programming",
+          "python libraries"
+        ],
+        "endDate": "01 Mar, 2024",
+        "company_name": "Accenture (Embrizon technologies)",
+        "description": "I had an experience of data science domain and python programming. Worked in different Python libraries like Numpy, Matplotlib, Pandas and implemented various programs related to data science domain.",
+        "location": "",
+        "links": "",
+        "startDate": "01 Jan, 2024"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Computer Networking"
+        ],
+        "endDate": "18 Jul, 2023",
+        "company_name": "Andaaz Hyaat",
+        "description": "I had a experience of computer networking in a Hotel Industry .I enhanced good communication skills, soft skill development during my classroom sessions & apply it in my professional path.I had exposure to my IT knowledge & application in the work place.",
+        "location": "",
+        "links": "",
+        "startDate": "01 Jun, 2023"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "PRANIT CHOPRA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, India - 110058",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech."
+}

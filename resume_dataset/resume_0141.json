@@ -1,0 +1,143 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shubhankar Ranjan",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learned fundamental software development life cycle models and addressed challenges in requirements, design, and testing of complex software systems.",
+        "skillsLearned": [],
+        "title": "NPTEL - Software Engineering",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Mastered algorithm design techniques and data structures, and analyzed algorithm performance using Big O notation.",
+        "skillsLearned": [],
+        "title": "NPTEL - Design And Analysis Of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "10.00",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.19 / 10.00",
+        "field_of_study": "Information Technology",
+        "startDate": "October 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gericht Restaurant",
+        "description": "Developed Gericht, a comprehensive restaurant application featuring an engaging landing page for customers to learn about the restaurant. Demonstrated responsive front-end proficiency by creating a visually appealing.",
+        "keywords": [
+          "Vite",
+          "React.js",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://ranjan-gericht-restaurant.netlify.app/"
+      },
+      {
+        "name": "Social Life",
+        "description": "The Web application is called Social Life and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Shubhankar-Ranjan/social-life"
+      },
+      {
+        "name": "AI Model for Stuttering Detection and Prediction",
+        "description": "Achieved 82.6% training accuracy and 82.1% validation accuracy with LSTM networks and spectrogram processing. Leveraged Mel Spectrograms to effectively capture speech characteristics indicative of stuttering. Investigated Generative Adversarial Networks for potential synthetic data generation to enhance model training.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Node JS Intern",
+        "skillsUsed": [
+          "Node.js"
+        ],
+        "endDate": "July 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Developed a Restaurant Reservation Bot using Node.js, enhancing the booking experience with automated, efficient, and user-friendly interactions. Contributed to multiple Node.js projects during the internship, showcasing skills in server-side development and real-time data processing. Actively participated in daily stand-ups and sprint planning, ensuring alignment with project goals and deadlines.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Android Developer - Apprentice and Intern",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "Corizo",
+        "description": "Designed and implemented user interfaces for web and mobile applications, integrating various APIs to enhance functionality. Debugged and troubleshooted code to ensure optimal performance and reliability. Developed real-world projects, including a fully functional calculator app and a music player app with playlist management and playback features.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "February 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "PHP",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Express.js",
+      "TensorFlow",
+      "jQuery",
+      "Bootstrap",
+      "TailwindCSS",
+      "Node.js",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Shubhankar Ranjan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans List Award for Excellence in Academics - Awarded for scoring highest GPA amongst 360 students in 3rd, 4th and 5th semester respectively."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

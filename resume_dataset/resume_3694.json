@@ -1,0 +1,176 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "KANISHKA",
+  "college": "PIET, KURUKSHETRA UNIVERSITY",
+  "locations": [
+    "NOIDA",
+    "MOHALI"
+  ],
+  "full_output": {
+    "summary": "Adaptable and results-oriented recent graduate with a strong belief in continuous learning and exploration. Passionate about exploring new technologies and leveraging them to build innovative solutions. Looking for opportunities to contribute in great tech world with a create and learn mindset",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS CLOUD QUEST: CLOUD PRACTITIONER",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CERTIFICATION OF COURSE COMPLETION : SALESFORCE PLATFORM DEVELOPER 1",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "AMITY ONLINE",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "MCA",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Machine Learning",
+        "startDate": "2023"
+      },
+      {
+        "school": "PIET, KURUKSHETRA UNIVERSITY",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "Bachelors of Computer Applications",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81.6%",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "ARYA GIRLS PUBLIC SCHOOL, PNP",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "12th Standard (NON-Medical)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "ARYA GIRLS PUBLIC SCHOOL, PNP",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "10th Standard",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "91.2%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "TRANSPORT APP",
+        "description": "Contributed in designing and implementation of the backend infrastructure for a web application that tracks college transport routes and facilities. This system facilitated efficient navigation and resource management for both students and the transport department.",
+        "keywords": [
+          "REACT JS",
+          "NODE JS",
+          "AWS S3"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CNN IMAGE CLASSIFIER",
+        "description": "Developed a web portal using Flask to classify input images. Implemented a CNN model trained on the CIFAR-10 dataset, achieving a classification accuracy of 70%. Explored the integration of web development with machine learning models using Flask for the first time.",
+        "keywords": [
+          "TENSORFLOW",
+          "PYTHON",
+          "FLASK"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ECOMMERCE DUMMY",
+        "description": "Implemented features for user-friendly experience, including: User authentication for secure login. OTP verification for added security. Password update.",
+        "keywords": [
+          "EJS",
+          "EXPRESS JS",
+          "MONGODB",
+          "MAILJET"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SOFTWARE TRAINEE",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "MENTORKART",
+        "description": "Contributing my knowledge as a Frontend Developer by ensuring proper API Integration, data binding and building amazing features. Introduced with Next JS and SCSS, and got a chance to collaborate in great learning environment in this startup.",
+        "location": "NOIDA",
+        "links": "",
+        "startDate": "April, 2024"
+      },
+      {
+        "role_name": "MACHINE LEARNING INTERN",
+        "skillsUsed": [],
+        "endDate": "Oct, 2023",
+        "company_name": "TEACHNOOK (ONLINE)",
+        "description": "Machine Learning: Familiarity with various machine learning models. Deep Learning: Introduction to deep learning concepts and neural networks. Web Development Integration: Successfully integrated a trained machine learning model with a web application.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep, 2023"
+      },
+      {
+        "role_name": "SUPER CODER TRAINEE",
+        "skillsUsed": [],
+        "endDate": "Nov, 2022",
+        "company_name": "CODE QUOTIENT",
+        "description": "Developed web applications utilizing Node.js, Express.js, and database management (MongoDB/SQL) for API handling, data storage, and user interaction. Possess a foundational understanding of Data Structures and Algorithms.",
+        "location": "MOHALI",
+        "links": "",
+        "startDate": "Sep, 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "Node JS",
+      "Express JS",
+      "React JS",
+      "Next JS",
+      "SQL",
+      "Mongo DB"
+    ],
+    "soft_skills": [],
+    "name": "KANISHKA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "PARTICIPATED IN GOOGLE GIRL HACKATHON 2024",
+      "ACCENTURE NORDICS :- DEVELOPER JOB SIMULATION"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 3.0,
+  "degree": "Bachelors of Computer Applications"
+}

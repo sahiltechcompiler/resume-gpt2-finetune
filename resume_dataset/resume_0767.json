@@ -1,0 +1,118 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "RAJAT",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Rohini"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Rohini",
+        "ID": 0.0,
+        "grade_received": "7.77/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movies App",
+        "description": "Designed and implemented a user-friendly movie application using React.js. Integrated React Router DOM to create a dynamic and intuitive navigation system, allowing users to easily browse and search for movies. Successfully connected the application to a third-party movie API, enabling real-time data retrieval for movie details, ratings, and reviews.",
+        "keywords": [],
+        "endDate": "August 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-commerce website",
+        "description": "Designed and developed a comprehensive e-commerce platform for home decor products. Crafted user-centric interfaces for seamless browsing, searching, and purchasing of a diverse range of home decor items, including tables, chairs, and sofas.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Node JS",
+          "MongoDB",
+          "Express"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Candy Crush Clone",
+        "description": "A react based web application which like Candy Crush. Created a Candy Crush Clone using React and Redux Toolkit, showcasing expertise in front-end technologies and state management. Utilized Redux Toolkit for efficient state management, ensuring a responsive and engaging gaming experience.",
+        "keywords": [
+          "React",
+          "Redux Toolkit",
+          "Tailwind CSS"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developement Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "CANTILEVER",
+        "description": "Showcased ability to work with modern web technologies and frameworks to create engaging user experiences. Developed a responsive news app and a full-featured e-commerce website using a modern tech stack including React, MongoDB, HTML, CSS, and JavaScript.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Web Developement Intern",
+        "skillsUsed": [],
+        "endDate": "September 2023",
+        "company_name": "CODSOFT",
+        "description": "Completed a web development internship at CodSoft where I built a landing page, portfolio website, and functional calculator using HTML, CSS, and JavaScript.",
+        "location": "",
+        "links": "",
+        "startDate": "August"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Javascript",
+      "HTML5",
+      "MYSQL",
+      "Java",
+      "ReactJs",
+      "jQuery",
+      "TailwindCSS",
+      "NodeJs",
+      "MongoDB",
+      "Data Structures And Algorithms",
+      "Computer Networks",
+      "DBMS",
+      "Operating System",
+      "GitHub",
+      "OOP"
+    ],
+    "soft_skills": [],
+    "name": "RAJAT",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Certificate of completion of Web Development Internship Plan 2024-2025 at IBM.",
+      "Earned a glowing letter of recommendation from my web development internship at Cantilever, praising my technical skills and project contributions."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

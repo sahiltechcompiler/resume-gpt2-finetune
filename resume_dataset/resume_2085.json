@@ -1,0 +1,107 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Dhruvi Gupta",
+  "college": "KIET Group Of Instituitions(AKTU)",
+  "locations": [
+    "Ghaziabad, IN",
+    "Noida, IN",
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Instituitions(AKTU)",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA:7.75",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Aster Public School(CBSE)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sentiment Analysis Using Twitter Data",
+        "description": "Developed a model using NLP and Logistic Regression. Implemented Scikit-learn for feature Extraction. Utilizing the labeled data to train the sentiment analysis model as positive, negative and neutral. Used stemming for data preprocessing and F1 score to evaluate the performance of the model.",
+        "keywords": [
+          "Machine Learning",
+          "NLP"
+        ],
+        "endDate": "May 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CodeHelp Blogs",
+        "description": "Developed a comprehensive code help blog webpage focusing on responsive web design principles and core CSS concepts. Implemented responsive design techniques using CSS media queries, flexbox, and grid layout to adapt webpage layouts across different devices and screen sizes. Demonstrated proficiency in HTML and CSS coding practices to create visually appealing and user-friendly webpages.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "May 2025",
+        "company_name": "AWS Academy",
+        "description": "It explores the foundational ideas of machine learning, such as data preparation, algorithms, training, and evaluating models, and how to put them into practice using AWS services like Amazon SageMaker. Demonstrated competence in algorithms like linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "Aug. 2021"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "KIET",
+        "description": "Acquired foundational understanding of supervised learning techniques including linear regression, logistic regression, decision trees, and SVM, alongside exploration of unsupervised learning methods such as K-means clustering and PCA. Introduced to reinforcement learning principles including Q-learning and policy gradients, gaining insights into agent-environment interactions and application domains such as game playing and robotics.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "SQL",
+      "Python",
+      "HTML/CSS"
+    ],
+    "soft_skills": [],
+    "name": "Dhruvi Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Member at Vaani Music Club (2022 - present)",
+      "Participated at KIET MUN 2022 and represented Hungary in debates on United Nations Office on Drugs and Crime. Also, received a special mention for outstanding diplomacy.",
+      "Coordinated TEDxKIET Women 2022, celebrating womens achievements in technology, art and innovation."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,144 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "YUVRAJ SINGH",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Sec. 50, Gurugram",
+    "Sec. 10, Gurugram"
+  ],
+  "full_output": {
+    "summary": "Highly motivated future engineer with a passion for innovation and a drive to learn new technologies in growing fields in the domain of computer technology. Skilled in Python, HTML and NLP. Eager to contribute my technical expertise and problem-solving towards my first working experience. Seeking opportunities to collaborate on impactful projects.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "The course was offered by AWS Academy Cloud Foundations. Learned various topics on cloud framework, and received a certificate upon completion.",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate",
+        "issuer": "AWS Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certification in the course offered by IIT Madras through the NPTEL Online Certification. Learned a great deal about efficient algorithms and algorithm frameworks.",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "IIT Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "20 Hours Course authorized by IBM and offered through Coursera. Learned about data analysis using Python and SQL. Certified with a 92.01% grade.",
+        "skillsLearned": [],
+        "title": "Databases and SQL for Data Science with Python",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May, 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "7.33 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "RPS International School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "Sec. 50, Gurugram",
+        "ID": 1.0,
+        "grade_received": "95.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Blue Bells Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "Sec. 10, Gurugram",
+        "ID": 2.0,
+        "grade_received": "89.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Medical Document Classification",
+        "description": "Multiclass text classification of medical documents using NLP techniques. Research paper to be published. Frameworks used: NLTK, spaCy. Entity recognition using scispaCy. Classifiers used: Multinomial Logistic Regression, SVM, K-NN, Random Forest, GBM.",
+        "keywords": [
+          "NLP",
+          "text classification",
+          "NLTK",
+          "spaCy",
+          "scispaCy",
+          "Logistic Regression",
+          "SVM",
+          "K-NN",
+          "Random Forest",
+          "GBM"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "E-Commerce website with Login/Sign-up user account, creating database using SQL and linking stored data to users via xampp server using PHP.",
+        "keywords": [
+          "E-Commerce",
+          "SQL",
+          "PHP",
+          "xampp"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "C",
+      "NLP",
+      "Text Processing",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "SQL",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Strong written and verbal communication skills",
+      "Problem solving",
+      "Teamwork and collaboration",
+      "Time Management",
+      "Curious with an emphasis on technologies",
+      "Self-motivated learning new"
+    ],
+    "name": "YUVRAJ SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

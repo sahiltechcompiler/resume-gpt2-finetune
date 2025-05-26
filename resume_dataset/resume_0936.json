@@ -1,0 +1,116 @@
+{
+  "project_count": 2.0,
+  "designation": "Full Stack Developer",
+  "name": "Aryan Choudhary",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed a two-month Core Java course at DMDS Private Limited, including projects related to chat application and GUI development.",
+        "skillsLearned": [],
+        "title": "Core Java",
+        "issuer": "DMDS Private Limited",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Enrolled in a two-month Java training course offered by IIT Bombay, covering various Java-related topics.",
+        "skillsLearned": [],
+        "title": "Java Training",
+        "issuer": "Spoken Tutorial",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "I'm presently enrolled in AWS training through ICT Academy, where I'm enhancing my skills in cloud computing using Amazon Web Services.",
+        "skillsLearned": [],
+        "title": "AWS Training",
+        "issuer": "ICT Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "08/2024",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Crowfunding app",
+        "description": "Created a crowdfunding platform for a startup using MERN stack (MongoDB, Express.js, React.js, Node.js). Designed user-friendly interfaces with React.js for an exceptional user experience. Managed server development using Node.js and Express.js, achieving 99.9% uptime. Successfully implemented user authentication, resulting in enhanced platform security and user trust.",
+        "keywords": [
+          "Java",
+          "MongoDB",
+          "AWS",
+          "Microsoft Office",
+          "React js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Disease Detection web application",
+        "description": "Developed an innovative disease detection system utilizing Google Colab, TensorFlow, and deep learning. The model demonstrates high accuracy in detecting COVID-19 and lung opacity from X-ray images. The integration of Convolutional Neural Networks (CNNs) enables precise identification of COVID-19 and lung opacity patterns in X-ray imagery.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "08/2024",
+        "company_name": "Postulate Infotech",
+        "description": "During my internship as a Full Stack Developer, I had the invaluable opportunity to work on an exciting project aimed at creating a cutting-edge crowdfunding website using the MERN stack (MongoDB, Express.js, React.js, Node.js). The project, catering specifically to startups seeking funding for their innovative ventures, was a fantastic learning experience.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "02/2020"
+      },
+      {
+        "role_name": "PHP Developer",
+        "skillsUsed": [],
+        "endDate": "06/2023",
+        "company_name": "Research Illuminous",
+        "description": "During my internship, I contributed to the development of a website using PHP for the purpose of facilitating food ordering.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "06/2023"
+      }
+    ],
+    "skills": [
+      "MySql",
+      "Node Js"
+    ],
+    "soft_skills": [],
+    "name": "Aryan Choudhary",
+    "position": "Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.tech"
+}

@@ -1,0 +1,119 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "RAMPAL YADAV",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "Computer Science Engineer specializing in full-stack development with strong skills in data structures and algorithms. Proficient in MERN stack. Dedicated to creating efficient software solutions and continuous learning.",
+    "certifications": [],
+    "social_work": [
+      "Participated in various hackathons, demonstrating skills in problem-solving, teamwork, and coding, while also volunteering, showcasing leadership and community engagement.",
+      "Actively participated in college sports events, showcasing strong teamwork, discipline, and competitive skills."
+    ],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.7 CGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Saraswati Senior Secondary School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "92.2%",
+        "field_of_study": "All India Senior School Certificate Examination",
+        "startDate": ""
+      },
+      {
+        "school": "Saraswati Senior Secondary School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "82.2%",
+        "field_of_study": "All India Secondary School Examination",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Flavour Fusion - The Foodcourt App",
+        "description": "Developed a full-stack MERN application for a college canteen, incorporating React.js for UI design and Redux for state management. Implemented advanced user registration and authentication systems using JWT tokens, including refresh and access tokens, handling over 10,000 user authentications monthly. Integrated secure file uploads with Multer and Cloudinary, enhanced security with bcrypt, and utilized Razorpay for secure payments.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "BingPlay - Video Streaming App",
+        "description": "Developed a comprehensive video hosting platform using Node.js, Express.js, MongoDB, and Mongoose, featuring user authentication, video uploads, and interaction functionalities such as comments, likes, and subscriptions. Implemented JWT and bcrypt for secure user login and signup processes, ensuring robust authentication and authorization across the application. Implemented an aggregation pipeline in MongoDB to efficiently display user watch history for a backend project, enhancing data retrieval speed and user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "CryptoVerse",
+        "description": "Developed Cryptoverse, a platform providing real-time news, exchange values, and detailed information on various cryptocurrencies using RapidAPI. Designed a user-friendly React.js interface for cryptocurrency analysis, providing up-to-date market trends and insights.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web3",
+      "Bootstrap",
+      "React",
+      "Nest.js",
+      "Express.js",
+      "Tailwind CSS",
+      "Node.js",
+      "MySQL",
+      "Oracle",
+      "MongoDB",
+      "Git",
+      "Microsoft Excel"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Problem-solving",
+      "Communication"
+    ],
+    "name": "RAMPAL YADAV",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved 150th rank out of 1000 participants in Campus Beats, demonstrating exceptional problem-solving abilities and competitive performance.",
+      "Achieved a ranking of 3,272 out of over 30,000 participants in Codeforces Round 916 (Division 3).",
+      "Successfully completed over 900 coding challenges on LeetCode, GeeksforGeeks, and CodeStudio platforms, showcasing strong programming skills and dedication to continuous learning.",
+      "Contributed to the Take a Break project during the GirlScript Summer of Code22 program, with a successfully merged pull request."
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

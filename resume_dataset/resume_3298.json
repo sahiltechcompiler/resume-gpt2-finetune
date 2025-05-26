@@ -1,0 +1,118 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vinay Malla",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "Im looking for a full-time job where I can use what Ive learned and gain real-world experience. Im excited to work on interesting projects, learn new skills, and grow by working with experienced professionals. My goal is to contribute to the team while continuing to learn and improve.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Board Of Intermediate Education",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2021",
+        "maximum_grade": "Marks: 924/1000",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 8.37/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ChatBot for Mental Health",
+        "description": "Developed a full stack web application with HTML,CSS for front-end and Node.js/Express back-end, featuring a chatbot that provides personalized mental health tips using basic NLP.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to github"
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "developed a e-commerce website which allows user to buy products with token based authontication by using MERN stack.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to github"
+      },
+      {
+        "name": "Bus Reservation Management System using Java and its Frameworks.",
+        "description": "Developed a Bus Reservation System using Java Swing, JDBC, and MySQL, enabling users to book seats, view bookings, and manage reservations. Focused on efficient database design and robust connectivity for seamless reservation management.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "",
+        "description": "Developed methods to detect and predict fake news using SVM, Naive Bayes, Random Forest, and Logistic Regression. Collected and preprocessed a diverse dataset of news articles, extracting features with NLP techniques like TF-IDF and word embeddings. Trained and evaluated models using accuracy, precision, recall, and F1-score metrics.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "React.js"
+    ],
+    "soft_skills": [
+      "Data Structures and Algorithms",
+      "Communication",
+      "Problem-solving",
+      "Time management",
+      "Presentation",
+      "Leadership skills"
+    ],
+    "name": "Vinay Malla",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Abdur Rashid Sangi, Jyothish Nagaram, Akshara Sudulagunta, Sai Sandeep Talari, Vinay Malla, Murali Krishna Enduri, and Satish Anamalamudi. 2023. Tackling Disinformation: Machine Learning Solutions for Fake News Detection. In 2023 13th International Conference on Communication and Network Security (ICCNS) (ICCNS 2023), December 0608, 2023, Fuzhou, China. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3638782.3638790"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Btech"
+}

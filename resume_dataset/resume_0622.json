@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "Technical Lead - Student Developer Group",
+  "name": "Susritha Voleti",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL certification in Database Management System",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Earned for hands-on AWS services and cloud technologies.",
+        "skillsLearned": [],
+        "title": "AWS Cloud Practitioner badge",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "7.88",
+        "field_of_study": "Computer Science, Big Data Analytics",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Cloud Powered Walmart Sales Insights",
+        "description": "Developed and implemented a real-time data warehousing system for Walmart sales, optimizing inventory management and sales analysis through dynamic data visualization and in-depth reporting. Engineered a robust ETL pipeline, automating data ingestion, processing, and storage, which enabled seamless integration and real-time analytics for high-traffic sales events like Black Friday.",
+        "keywords": [
+          "Python",
+          "BigQuery",
+          "Cloud Functions",
+          "GCP Pub/Sub",
+          "Google Looker Studio"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "E-Commerce Purchase Analysis",
+        "description": "Analyzed and visualized 12 months of sales data across multiple cities using Python and Pandas, identifying key trends and patterns, including the best sales month and highest-performing products. Developed custom data processing pipelines to clean, merge, and extract insights from large datasets, optimizing sales performance analysis for 2019.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Password Generator",
+        "description": "Developed a responsive password generator using HTML, CSS, and JavaScript, featuring customizable password length, inclusion of special characters, and uppercase letters, with real-time password generation and user feedback. Implemented clipboard copy functionality for ease of use and designed an intuitive user interface with accessibility features and error handling for secure password generation.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [
+          "Python",
+          "Tableau",
+          "NumPy",
+          "Pandas",
+          "Seaborn"
+        ],
+        "endDate": "08/2023",
+        "company_name": "APSSDC",
+        "description": "Analyzed and cleaned datasets to improve data accuracy and reliability, enhancing the quality of insights. Identified trends, correlations, and outliers through detailed statistical analysis, leading to actionable insights and Developed interactive Tableau dashboards to enable data-driven decision-making for stakeholders.",
+        "location": "",
+        "links": "",
+        "startDate": "06/2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Hadoop",
+      "Shell Scripting",
+      "MongoDB",
+      "Pub/Sub",
+      "S3",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Git",
+      "Tableau",
+      "Google Looker",
+      "Java",
+      "C++",
+      "AWS",
+      "API"
+    ],
+    "soft_skills": [],
+    "name": "Susritha Voleti",
+    "position": "Technical Lead - Student Developer Group",
+    "interests": [],
+    "achievements_and_awards": [
+      "Progressed to Level 2 in the MachineKnight Season 02 Hackathon.",
+      "Successfully Coordinated and Executed a Major Tech Fest Event at the University."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

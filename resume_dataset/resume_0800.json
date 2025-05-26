@@ -1,0 +1,182 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anurag Yadav",
+  "college": "KIET Group Of Institutions (Dr. APJ Abdul Kalam Technical University)",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Mumbai, Maharashtra",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Hands-on experience in creating 15 AR apps with Unity and Vuforia, covering development, tracking, and real-world integration.",
+        "skillsLearned": [],
+        "title": "Build 15 AR apps with Unity and Vuforia",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learned IoT fundamentals, including device connectivity and data collection.",
+        "skillsLearned": [],
+        "title": "Introduction to Internet of Things",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Applied machine learning through real-world cases.",
+        "skillsLearned": [],
+        "title": "Machine Learning Foundations: A Case Study Approach",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Gained expertise in Object-Oriented Programming concepts using C++, enhancing software development skills.",
+        "skillsLearned": [],
+        "title": "Object-Oriented Programming in C++",
+        "issuer": "Great Learning",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions (Dr. APJ Abdul Kalam Technical University)",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.64",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "Bhavani Shankar Road Juniour College of Science (Maharashtra State Board)",
+        "endDate": "Mar 2020",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Certificate",
+        "location": "Mumbai, Maharashtra",
+        "ID": 1.0,
+        "grade_received": "Percentage: 76.31",
+        "field_of_study": "",
+        "startDate": "May 2018"
+      },
+      {
+        "school": "Worli Seaface Mun.Eng.Sec. School (Maharashtra State Board)",
+        "endDate": "Mar 2018",
+        "maximum_grade": "",
+        "degree": "Secondary School Certificate",
+        "location": "Mumbai, Maharashtra",
+        "ID": 2.0,
+        "grade_received": "Percentage: 88.00",
+        "field_of_study": "",
+        "startDate": "May 2008"
+      }
+    ],
+    "projects": [
+      {
+        "name": "BuyShoesOnline",
+        "description": "Developed both admin and client applications for an online shoe store, providing comprehensive management and shopping features. Implemented AR functionality allowing users to view shoes in their real-world environment, enhancing the shopping experience. Utilized GetX for state management, ensuring smooth and responsive interactions within the app. Integrated Razorpay payment gateway, facilitating secure and seamless transactions.",
+        "keywords": [
+          "Android Studio",
+          "Flutter",
+          "Dart",
+          "Unity",
+          "Blender",
+          "GetX",
+          "Razorpay"
+        ],
+        "endDate": "Present",
+        "startDate": "March 2024",
+        "url": ""
+      },
+      {
+        "name": "EduAR",
+        "description": "Engineered and developed an interactive Augmented Reality educational application for children, incorporating features like Plane Tracking, Place on Plane, and AR-Portal to enhance the learning experience. Showcased proficiency in 3D modeling and animation with Blender 3D, and skillfully implemented the application using Unity3D, AR-Foundation, C, and Objective-C, underscoring a versatile skill set in cutting-edge technology development.",
+        "keywords": [
+          "Unity3D",
+          "AR-Foundation",
+          "Blender 3D",
+          "C",
+          "Objective-C"
+        ],
+        "endDate": "December 2023",
+        "startDate": "September 2023",
+        "url": ""
+      },
+      {
+        "name": "AR Student Card",
+        "description": "Developed an AR business card app for interactive networking. Enhanced networking with an engaging AR contact-sharing experience.",
+        "keywords": [
+          "Unity 3D",
+          "Vuforia",
+          "C",
+          "Blender"
+        ],
+        "endDate": "December 2022",
+        "startDate": "November 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Freelance Android Developer",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Johar Basket",
+        "description": "Developed live tracking functionality for the Johar Basket E-Commerce app using Google Maps API. Enhanced the user interface (UI) of the app, improving user experience and engagement through user-friendly design and functionality.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "Core Team and XR Mentor",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "KIET Innovation Centre (Student XR Community)",
+        "description": "Taught and mentored 50+ students, conducted sessions and boot camps on Augmented Reality and Virtual Reality. Developed multiple award-winning projects in a team of 4-5 members.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Oct 2022"
+      }
+    ],
+    "skills": [
+      "Android Development: Android Studio, Dart, Flutter, Firebase",
+      "Augmented / Virtual Reality: Unity Engine, Google AR Core, AR Foundation, Vuforia, Zapper, WebGL (Netlify, GitHub hosting), Lens Studio, Meta Spark AR Studio, Google Cardboard VR",
+      "Programming Languages: C, C++, C sharp, SQL, Dart",
+      "Data Structures and Algorithms and Object-Oriented Programming (OOPs) in C++",
+      "Miscellaneous/ Tools: Visual Studio, Git, GitHub, Blender, Canva(Graphic Design)"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Event Management",
+      "Public Speaking"
+    ],
+    "name": "Anurag Yadav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Attained a LeetCode Badge for Mastering 50 Simple SQL Problems Demonstrating Proficiency in SQL Programming. 2024",
+      "Secured Third Prize and Best Social Idea Track Winner Titles at Endeavour 2023 Headed by Ecell KIET Group of Institutions. 2023",
+      "4* HackerRank (C/C++/Problem Solving) Coding Profiles. 2023",
+      "Contributor to India Summer Lensathon 2023 Presented by Snap AR India and Powered by Hack2skill. 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

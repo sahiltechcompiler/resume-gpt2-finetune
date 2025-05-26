@@ -1,0 +1,118 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Namburi Gowrishankar varaprasad varma",
+  "college": "SRM University",
+  "locations": [
+    "Andhara Pradesh",
+    "Amravathi, AP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Computer science",
+        "location": "Andhara Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.25/10",
+        "field_of_study": "AI/ML",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Inter Collage",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Andhara Pradesh",
+        "ID": 1.0,
+        "grade_received": "Percentage: 88",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "TenderBC",
+        "description": "An online tender application using blockchain. Capable of helping over 150 industries globally to place tenders securely. Backend Development: Utilized Node.js with ExpressJS to create a robust backend architecture, ensuring efficient API handling and secure data transactions. Implemented smart contracts using Solidity to facilitate secure and transparent tender transactions on the Ethereum blockchain. Integrated decentralized storage solutions using Storj to securely store tender-related documents. Maintained secure architecture flow to eliminate fraud during the tender process using blockchain and IPFS.",
+        "keywords": [
+          "NextJS",
+          "Nodejs(ExpressJS)",
+          "MongoDB",
+          "Tailwind",
+          "web3",
+          "Solidity",
+          "Storj",
+          "Ethereum"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Goeasy",
+        "description": "A bike rental application for SRMAP and nearby colleges. Developed a bike rental application allowing users to take and give bikes for rentals online, targeting over 15,000 students. Created a user-friendly interface with Flutter, providing a seamless experience for both renters and lenders. Implemented Firebase for backend services, including real-time database, authentication, and cloud storage to manage user data and rental transactions securely. Incorporated features like hours used, rental history, rent estimation, advanced booking, and user reviews to enhance user trust and convenience. Promoted the app within SRMAP and nearby colleges, highlighting its potential to make students' journeys and traveling easy and comfortable.",
+        "keywords": [
+          "Flutter",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Member",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Next Tech Lab",
+        "description": "Gained collaborative work experience over two years by working on more than 15 projects, ranging from basic to advanced levels. Collaborated with over 250 lab members, each with expertise in various technological fields, to work on innovative projects.",
+        "location": "Amravathi, AP",
+        "links": "",
+        "startDate": "Sept 2021"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C++",
+      "C",
+      "Full Stack",
+      "Flutter",
+      "git",
+      "Docker",
+      "linux",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "FastAPI",
+      "Node.js",
+      "Express.js",
+      "Django",
+      "Next.js (React.js)",
+      "TailwindCSS",
+      "MongoDB",
+      "MySQL",
+      "Firebase"
+    ],
+    "soft_skills": [],
+    "name": "Namburi Gowrishankar varaprasad varma",
+    "position": "",
+    "interests": [
+      "Full Stack",
+      "AI/ML"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Computer science"
+}

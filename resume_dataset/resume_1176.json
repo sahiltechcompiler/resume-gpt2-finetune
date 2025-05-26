@@ -1,0 +1,288 @@
+{
+  "project_count": 6.0,
+  "designation": "",
+  "name": "Arya Ratan Mishra",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Mumbai",
+    "Jaipur",
+    "Virtual",
+    "Gurgaon"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Go for Gold contest in iAspire is a contest in which the participants have to complete all the rainings and courses provided in the module within a particular timespan in order to unlock the gold level.",
+        "skillsLearned": [],
+        "title": "Go For Gold Contest In IAspire",
+        "issuer": "Accenture",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, And Automation",
+        "issuer": "Cisco networking academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Database Foundations Certified Junior Associate",
+        "issuer": "Oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat Certified System Administrator (RH-134)",
+        "issuer": "Red Hat",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, And Wireless Essentials",
+        "issuer": "Cisco networking academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enterprise Grade AI",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat Certified System Administrator (RH-124)",
+        "issuer": "Red Hat",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "The course made me familiar with the concepts of Data Structure and algorithms in the C language.",
+        "skillsLearned": [],
+        "title": "Data Structures",
+        "issuer": "UC San Diego",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction To Java",
+        "issuer": "Learnquest",
+        "certiLink": "https://www.coursera.org/account/accomplishments/certificate/LMKA6TVGTQV5"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.60/10",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Amity International School Sector 46",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Senior Secondary (XII)",
+        "location": "Gurgaon",
+        "ID": 1.0,
+        "grade_received": "Percentage: 93.00%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Amity International School Gurgaon Sector 46",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary (X)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 96.00%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-mail template generator bot using Microsoft Power Automate",
+        "description": "Created an email template generator bot using Power Automate. So basically MS Teams was integrated with Microsoft Power Automate, so whenever the user mentions the keyword \"triggeremailbot\" on the teams chat then the user wil receive an adaptive card in response. Now the user has to mention the email template he/she want's to generate and once this is done the user will receive the email on template on their email ids. Thus by using the skills of Automation this bot has been created.",
+        "keywords": [
+          "Microsoft Power Automate",
+          "Automation"
+        ],
+        "endDate": "Jul 2024",
+        "startDate": "Jun 2024",
+        "url": ""
+      },
+      {
+        "name": "Pathfinding Visualizer Project",
+        "description": "Interactive pathfinding using React for frontend, Node for backend. We choose any 2 points and run Dijkstra's and A*algorithms, and we can visualize the algorithms and thus find the best and the shortest path between 2 points.",
+        "keywords": [
+          "React",
+          "Node",
+          "Dijkstra's Algorithm",
+          "A* Algorithm"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Nov 2023",
+        "url": ""
+      },
+      {
+        "name": "ECommerce Webpage using HTML,CSS,JS",
+        "description": "Created an ecommerce web page using HTML, CSS and JS which has several sections and features.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Hotel Management System",
+        "description": "Created a website through which the users can see the availability of rooms in a hotel and know about the check in and check out dates and timings and the new users will be able to create their ID.",
+        "keywords": [],
+        "endDate": "Apr 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      },
+      {
+        "name": "ATM Interface (using Java)",
+        "description": "This undertaking emulates an ATM interface. Individuals can utilize a range of features such as making withdrawals, deposits, and checking their account balance.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "Dec 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Attendance taking system using face recognition technique",
+        "description": "This project is an artificial intelligence-based attendance taking system with face recognition technology. We are created an AI based attendance taking system which can take attendance of all the students present in a classroom in just one click and that too without any proxy. By doing so, we seek to improve the efficiency of the traditional attendance taking system in classrooms and save time of the teachers and students during the class hours.",
+        "keywords": [
+          "Artificial Intelligence",
+          "Face Recognition"
+        ],
+        "endDate": "Present",
+        "startDate": "Dec 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Packaged App Developement Associate",
+        "skillsUsed": [
+          "Automation"
+        ],
+        "endDate": "Jul 2024",
+        "company_name": "Accenture",
+        "description": "Working with the United Nations High Commissioner for Refugees (UNHCR), automating the repetitive tasks for the client. My contribution to the project is that i created an Email template generator bot using the skills of automation.",
+        "location": "Mumbai",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Web Development",
+        "skillsUsed": [
+          "React.js",
+          "next.js",
+          "node.js",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Figma"
+        ],
+        "endDate": "May 2024",
+        "company_name": "Software Development Committee Manipal University Jaipur",
+        "description": "Building the website for the Software Development committee. The skillset required are React.js, next.js, node.js, HTML,CSS,Javascript, and basic designing of the website using Figma.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Jul 2023",
+        "company_name": "EDUPHOENIX SOLUTIONS Pvt LTD",
+        "description": "Developed websites using HTML CSS and javaScript. Implemented responsive design principles to ensure websites are mobile friendly. Integrated APIs into websites to enable dynamic content delivery from third-party sources.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "Node.js",
+      "C Programming",
+      "Python",
+      "React",
+      "CSS",
+      "PHP",
+      "C++ Programming",
+      "Data Structures",
+      "Machine Learning",
+      "JavaScript",
+      "MySQL",
+      "Java",
+      "Data Analysis",
+      "Artificial Intelligence",
+      "Amazon Web Services (AWS)",
+      "UI & UX Design",
+      "Enterprise Resource Planning(ERP)",
+      "SAP",
+      "Figma",
+      "Microsoft PowerApps",
+      "Robotic Process Automation (RPA)",
+      "Deep Learning",
+      "SQL",
+      "Database Management System (DBMS)"
+    ],
+    "soft_skills": [],
+    "name": "Arya Ratan Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded with the academic excellence award for 6th semester",
+      "Unlocked the gold level during the Go for Gold iAspire program at Accenture"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

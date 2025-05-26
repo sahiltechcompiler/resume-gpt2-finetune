@@ -1,0 +1,154 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aman Somvanshi",
+  "college": "KIET Group of Institutions (AKTU)",
+  "locations": [
+    "Delhi NCR, Ghaziabad",
+    "Pratapgarh, U.P."
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "In-depth training on SQL fundamentals, MySQL, data querying, manipulation, normalization, and schema creation",
+        "skillsLearned": [],
+        "title": "SQL for Beginners: using MySQL and Database Design Course",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Comprehensive training in data science, machine learning, deep learning, NLP, and statistical programming with R",
+        "skillsLearned": [],
+        "title": "Learn Data Science, Deep Learning, Machine Learning NLP and R",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Fundamental concepts of computer networking, including network architecture, protocols, and basic configuration",
+        "skillsLearned": [],
+        "title": "Cisco Networking Academy : Networking Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Proficiency in AWS SDKs and APIs, IAM, AWS Lambda, DynamoDB, Elastic Beanstalk,CloudWatch & deployment",
+        "skillsLearned": [],
+        "title": "AWS Certified Developer - Associate Certification - Infosys Springboard",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions (AKTU)",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Pratapgarh, U.P.",
+        "ID": 0.0,
+        "grade_received": "CGPA:7.7 (till 6th Semester)",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Prabhat Academy (CISCE)",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate Degree",
+        "location": "Pratapgarh, U.P.",
+        "ID": 1.0,
+        "grade_received": "94.2 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Prabhat Academy (CISCE)",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Marticulation Degree",
+        "location": "Pratapgarh, U.P.",
+        "ID": 2.0,
+        "grade_received": "90.5 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ZOOniverse",
+        "description": "An Android app utilizing Augmented Reality to display 3D models of endangered and extinct animals and provide information on their conservation status. Utilized the ViroReact library to depict animals in AR and made use of native APIs for seamless integration and enhanced functionality.",
+        "keywords": [
+          "React Native",
+          "ViroReact",
+          "Git"
+        ],
+        "endDate": "Present",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Spotify Clone",
+        "description": "Created a Spotify clone using React Native, replicating the core features and user interface of the original app for the Android platforms. Implemented music playback service, search functionality, and shuffling leveraging React Native libraries and native APIs for a smooth and responsive user experience.",
+        "keywords": [
+          "React Native"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Nov 2023",
+        "url": ""
+      },
+      {
+        "name": "Appwrite Authentication",
+        "description": "Developed a login application using Appwrite for authentication, ensuring secure and efficient user management. Integrated features such as email verification, password reset, and user profile management, providing a comprehensive and user-friendly authentication system.",
+        "keywords": [
+          "React Native",
+          "Appwrite"
+        ],
+        "endDate": "Feb 2023",
+        "startDate": "Jan 2023",
+        "url": "Deployed on Appwrite Cloud"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cloud Computing Intern",
+        "skillsUsed": [
+          "Big Data",
+          "Cloud Computing",
+          "Hadoop",
+          "Apache Spark"
+        ],
+        "endDate": "Present",
+        "company_name": "YBI Foundation",
+        "description": "Executed Multiple Basic Solo Projects, Utilizing Foundational Big Data and Cloud Computing Skills. Utilized Hadoop ecosystem tools such as HDFS, MapReduce, and Hive for distributed data storage and processing. Worked with Apache Spark on Databricks platform to perform large-scale data analytics and machine learning tasks.",
+        "location": "Delhi NCR, Ghaziabad",
+        "links": "",
+        "startDate": "Nov 2021"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Aman Somvanshi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Seminar on Brain-Computer Interfaces",
+      "Smart India Hackathon Jal Mitra App for crowd-sourcing all water related problems in One App"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

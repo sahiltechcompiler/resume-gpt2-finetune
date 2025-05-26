@@ -1,0 +1,144 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Aditya Kumar",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "CGPA",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.02/10",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "RPS Public School",
+        "endDate": "2023",
+        "maximum_grade": "Percentage",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87.6",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      },
+      {
+        "school": "RPS Public School",
+        "endDate": "2023",
+        "maximum_grade": "Percentage",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "89.8",
+        "field_of_study": "Class X",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Web Clone Detection",
+        "description": "Developed a model capable of comparing the stylesheet and HTML body of two websites to calculate a TF-IDF similarity score. Successfully identified illegal clone websites using this model just by passing URLs of the websites.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Recruitment App",
+        "description": "Used Salesforce CRM to develop a recruitment application. Implemented data model including objects, fields, records, and tabs. Enhanced the recruitment process by automating workflows and approvals using Salesforce automation tools. Provided a seamless user experience with intuitive navigation and data entry forms.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face Avatar",
+        "description": "Achieved 87.16% accuracy on test data with a model that predicts emotions and displays the corresponding avatar. This was accomplished using CNN, Keras, and TensorFlow. The model can detect emotions in real-time using camera input and map them to the corresponding avatar.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hotel Management",
+        "description": "Developed a dynamic hotel booking site using HTML, CSS, JavaScript, PHP, SQL. Enabled customers to seamlessly book rooms across multiple states in India from a single platform.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Weather App",
+        "description": "Built a cross-platform app for Android and iOS that fetches real-time weather data for any location in the world using an API. Designed the app using Flutter and crafted it with a Material Design theme.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Teachnook",
+        "description": "Successfully designed, implemented the dynamic websites, using various framework like NextJS. Employed best practices in database management and security, including MongoDB, MySQL, safeguarding sensitive data. Conducted thorough testing and debugging using White Box Testing, reducing downtime and enhancing site reliability.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "2025",
+        "company_name": "",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "JavaScript",
+      "Dart",
+      "Php",
+      "Flutter",
+      "Node.js",
+      "Express.js",
+      "React",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "SQL",
+      "Salesforce"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Consecutive Deans List Excellence in Academics Being awarded this for the last two semesters for having the best grade point average in the Information Technology Department.",
+      "Algorithmic Competitions/Achievements Solved 50+ super hard DSA problems from LeetCode, building problem solving skills."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

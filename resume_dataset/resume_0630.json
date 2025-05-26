@@ -1,0 +1,113 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "KALYANAPU SRIHITHA",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "Final-year B.Tech CSE student at SRM University with strong problem-solving skills and a passion for technology. Proven ability to work on real-world projects and adapt to new challenges. Eager to contribute and grow in a dynamic work environment.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management Systems(NPTEL)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS(APSSDC)",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [],
+    "projects": [
+      {
+        "name": "Video Conferencing Website",
+        "description": "Developed a video conferencing website using HTML, CSS, JavaScript, and the Agora SDK. Integrated real-time video and audio communication through Agoras API, enabling high-quality, low-latency connections between users. Implemented additional features such as screen sharing, chat functionality, and participant management to enhance collaboration. Focused on creating a responsive, user-friendly interface, ensuring compatibility across devices and browsers.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Agora SDK"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Predicting Demand and Supply for Perishable Commodities",
+        "description": "Project aims to predict future demand and supply for perishable commodity, tomatoes. Utilizes historical data, weather patterns, and transportation factors for accurate forecasting. Optimizes supply chain for efficient inventory management and reduced waste. Utilized Matplotlib for data visualization, creating insightful graphs representing tomato demand and supply trends. Incorporated Gmplot for geographic mapping, offering a spatial perspective on distribution patterns. Enhanced decision-making through visual analysis of perishable commodity dynamics.",
+        "keywords": [
+          "Python",
+          "Tensor Flow",
+          "Matplotlib",
+          "Gmplot"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Resizing Image Using AWS Lambda",
+        "description": "Resizing images using AWS Lambda involves deploying serverless functions to dynamically adjust image dimensions. By triggering Lambda functions in response to image uploads, developers can seamlessly resize, compress, or transform images on-demand. This scalable and cost-effective solution eliminates the need for dedicated servers, optimizing image processing workflows within the AWS cloud infrastructure.",
+        "keywords": [
+          "Python",
+          "AWS Lambda"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "AWS",
+          "Cloud Computing"
+        ],
+        "endDate": "",
+        "company_name": "APSSDC (Andhra Pradesh State Skill Development corporation)",
+        "description": "Completed a comprehensive online internship program focused on Amazon Web Services (AWS), gaining practical knowledge in cloud computing. Engaged in hands-on projects, including setting up and managing cloud infrastructure, deploying applications, and optimizing cloud resources.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Tensor flow",
+      "Photoshop",
+      "MYSQL",
+      "MongoDB",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "KALYANAPU SRIHITHA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

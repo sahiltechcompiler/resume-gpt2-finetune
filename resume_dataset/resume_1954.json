@@ -1,0 +1,121 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Kartik Swaroop Dhiman",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning A-Z: AI, Python, R",
+        "issuer": "Stanford University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Certificate",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Computer Science and Engineering",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Nehru World School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "XII (CBSE)",
+        "location": "Ghaziabad",
+        "ID": 1.0,
+        "grade_received": "93.2%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Legal Document Summarizer",
+        "description": "a) Uses the BART model to extract the summary of an important legal document. b) This project is aimed at advocates, as they do not have time to read the whole document themselves. Common people lack legal knowledge so they will be benefited from it. c) The project gives an abstractive summary which is more accurate than an extractive summary.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "Machine Learning",
+          "Transformers"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fake News Chrome Extension",
+        "description": "a) The user can select the news headline and the extension will tell them if the news is fake or legit. b) The model used in my project is the RobertaForSequenceClassification model. It is a variant of the BERT(Bidirectional Encoder Representations from Transformers) model. c) This model is trained on the LIAR dataset. My model gives 50.6% accuracy which is quite average for these types of projects.",
+        "keywords": [
+          "Python 3.10",
+          "Javascript",
+          "FastAPI",
+          "Jupyter Notebook",
+          "Machine Learning",
+          "Transformers"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "C/C++",
+      "SQL",
+      "Machine Learning(using C++)",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Python",
+      "FastAPI",
+      "Django",
+      "Exploratory Data Analysis(EDA)"
+    ],
+    "soft_skills": [],
+    "name": "Kartik Swaroop Dhiman",
+    "position": "",
+    "interests": [
+      "Nutrition",
+      "fitness",
+      "playing guitar",
+      "music"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Computer Science and Engineering"
+}

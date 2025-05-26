@@ -1,0 +1,113 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sourabh Patil",
+  "college": "Shah And Kutchhi Engineering College",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah And Kutchhi Engineering College",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Mumbai University",
+        "ID": 0.0,
+        "grade_received": "Cumulative GPA7.38/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Shah And Kutchhi Engineering College",
+        "endDate": "May 2023",
+        "maximum_grade": "",
+        "degree": "Honours in Data Science",
+        "location": "Mumbai University",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Spotify Analysis",
+        "description": "Utilized a comprehensive Spotify dataset to extract valuable insights. ( Data set was available on Kaggle ) Executed meticulous Extract, Transform, Load (ETL) processes using MySQL database management. Leveraged the powerful capabilities of Power BI to create visually appealing and informative data visualizations. Crafted an engaging and informative presentation using PowerPoint, highlighting key findings and analysis derived from the Spotify dataset analysis.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "HR Analytics",
+        "description": "Analyzed HR attrition problem via interactive dashboard. Objective: Investigate reasons for HR attrition rate increase. Learnings: - Developed interactive dashboard for tracking and analyzing attrition reasons. - Utilized complex parameters for drill-down, customization via filters and slicers. - Implemented data connection, table joins, null value elimination, and user-driven parameterization for visualizations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "ExcelR",
+        "description": "Analyze zepto sales data provided by the client and cleaned up the data using excel. Imported the data into tableau and used tableau to build interactive dashboards. Made powerpoint presentation and prepared report of it presented and explained to client monitoring all kpi's which helped the client to understand the revenue growth in different sector's.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2024"
+      },
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "ExcelR",
+        "description": "Develop a predictive model for early diabetes detection using machine learning techniques. Utilize classification algorithms like Logistic Regression, SVM, Decision Tree, etc., on the Pima Indians Diabetes Database. Split dataset into Training, Validation, and Testing sets for model evaluation.(77 Training Accuracy,79 Testing Accuracy) Compare and discuss the accuracy of different machine learning algorithms for diabetes prediction to aid healthcare professionals in timely diagnosis.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Java",
+      "DSA",
+      "VBA",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Pandas",
+      "NumPy",
+      "SVM",
+      "KNN",
+      "AWS EC2",
+      "AWS Lambda",
+      "AWS SNS",
+      "Power Bi",
+      "Tableau",
+      "Docker",
+      "Data science (cleansing, wrangling, visualization, modeling, interpretation)",
+      "Hypothesis testing",
+      "OOP",
+      "Statistics",
+      "Time series"
+    ],
+    "soft_skills": [],
+    "name": "Sourabh Patil",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

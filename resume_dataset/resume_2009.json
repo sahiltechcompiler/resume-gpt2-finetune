@@ -1,0 +1,122 @@
+{
+  "project_count": 3.0,
+  "designation": "C++ Programmer",
+  "name": "Devansh Bansal",
+  "college": "Dr. A.P.J. Abdul Kalam Technical University",
+  "locations": [
+    "Remote",
+    "Delhi NCR, Ghaziabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A.P.J. Abdul Kalam Technical University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.1 SGPA",
+        "field_of_study": "CSE(AIML)",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School (CBSE)",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90.6 percent",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School (CBSE)",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93 percent",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Riyaaz Web App",
+        "description": "Working on a Riyaaz web app which increasing user engagement by 40% through on-tempo vocal exercise guidance. Devised smart tempo adjustments, resulting in a 30% improvement in musical timing and proficiency for instrumentalists.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Present",
+        "startDate": "October 2023",
+        "url": ""
+      },
+      {
+        "name": "Stock Market Login Automator",
+        "description": "Developed a Python-based automation script using Selenium to streamline the login process for a stock market algorithm, reducing manual effort by 80%. Enhanced operational efficiency by reducing login time from 5 minutes to 30 seconds; 90% reduction in login time. Enabled faster access to critical financial data. Currently in use by 5 people with amazing user reviews.",
+        "keywords": [
+          "Python",
+          "Selenium"
+        ],
+        "endDate": "Present",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "PassVault",
+        "description": "Designed and implemented a secure Password Manager web application using Python and Django, offering users a centralized platform to store and manage their passwords. Engineered a robust backend infrastructure for the project, optimizing database queries and reducing API response times by 40%, resulting in a 25% increase in user engagement and satisfaction. User-friendly interface for adding, viewing, and updating passwords, resulting in a 5% increase in user efficiency.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "February 2023",
+        "startDate": "September 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "C++ Programmer",
+        "skillsUsed": [
+          "C++"
+        ],
+        "endDate": "July 2025",
+        "company_name": "TechnoHacks",
+        "description": "Completed a 1-month intensive internship at TechnoHacks, focusing on C++ programming. Developed a calculator application, reducing calculation time by 30% compared to manual methods. Designed and optimized a dice throwing algorithm, achieving a 15% increase in efficiency over existing algorithms. Implemented a temperature converter program, supporting conversion between 3 different units.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "November 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "HTML/CSS",
+      "C++",
+      "Django",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Devansh Bansal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

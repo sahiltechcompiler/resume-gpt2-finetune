@@ -1,0 +1,129 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sangharsh Singh",
+  "college": "Ajay Kumar Garg Engineering College, Ghaziabad",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College, Ghaziabad",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor in Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.86",
+        "field_of_study": "CSE(Data Science)",
+        "startDate": ""
+      },
+      {
+        "school": "J.S. Public Intermediate College,Paramandapur Jansa Varanasi",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "88.40",
+        "field_of_study": "UP Board, Uttar Pradesh",
+        "startDate": ""
+      },
+      {
+        "school": "Pragatisheel Kanya Intermediate College, Gorain Varanasi",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "87.83",
+        "field_of_study": "UP Board, Uttar Pradesh",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "LawVistaHub - SIH Project",
+        "description": "This portal ensures secure lawyer-client connectivity with advanced features like encryption, authentication, AI, and electronic signatures. Developed a virtual pre-trial courtroom with video conferencing, secure document sharing, and digital evidence presentation for streamlined legal proceedings. Our platform seamlessly integrates email services, payment processing, and case status tracking, providing a comprehensive solution for efficient legal management.",
+        "keywords": [
+          "React.js",
+          "Redux",
+          "Tailwind CSS",
+          "MongoDB",
+          "Expressjs",
+          "JWT Token",
+          "Nodemailer",
+          "Razerpay API"
+        ],
+        "endDate": "September 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Password Generator",
+        "description": "Password generator allows users to generate passwords with lengths ranging from 6 to 100 characters. This flexibility caters to a wide range of security requirements. Which include lowercase, uppercase, number as well as special character. User can copy the Password using copy button.",
+        "keywords": [
+          "JavaScript",
+          "React",
+          "HTML",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "CodSoft",
+        "description": "Building Portfolio Project Using HTML, CSS and JavaScript.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Git",
+      "Github",
+      "VS Code",
+      "React.js",
+      "Tailwind",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Team Work",
+      "Leadership"
+    ],
+    "name": "Sangharsh Singh",
+    "position": "",
+    "interests": [
+      "Video Editing",
+      "Cooking",
+      "Playing Cricket"
+    ],
+    "achievements_and_awards": [
+      "Smart India Hackathon Grand Finalist",
+      "SIH (Smart India Hackathon) -SIH23 Finalist for Grand Finale",
+      "2* on CodeChef -Participate more than 20+ contest(Max Rating: 1508)",
+      "CodeChef: Global Rank:792/5000",
+      "Participates in CodeChef- May Long Two 2022",
+      "Leetcode: Solved 50 SQL Problem and 100+ DSA Problem",
+      "DSA-Solved more than 300+ problem on GFG and Institute Rank on GFG is under 150"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor in Technology"
+}

@@ -1,0 +1,127 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "DHRUV SHARMA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "7.31",
+        "field_of_study": "Information technology Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "DAV Centenary Public School, Jind, Haryana",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th Standard",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81.8%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "DAV Centenary Public School, Jind, Haryana",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th Standard",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "78.4%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "DIGITAL DASH - A PAYMENTS APP",
+        "description": "Developed \"Digital Dash\" using Flutter, a cross-platform framework, to provide users with a modern and seamless financial experience. Integrated real-time fund tracking functionally, allowing users to monitor their transactions and account balances in real time, enhancing transparency and financial control. Implemented robust security measures to ensure the safety of user data and financial information, incorporating encryption and authentication protocols to protect against potential threats. Utilized Flutter's cross-platform capabilities to make sure that \"Digital Dash\" is available on both Android and iOS devices, broadening the application's reach to a larger user base.",
+        "keywords": [],
+        "endDate": "2024-05",
+        "startDate": "2024-02",
+        "url": ""
+      },
+      {
+        "name": "FEATURE-RICH SOCIAL MEDIA APP WITH FLUTTER - MY INSTAGRAM CLONE",
+        "description": "Implemented a visually appealing and responsive UI that mimics the Instagram app Utilized various Flutter widgets and layouts to create complex screens and user flows. Built core features like user login/registration, feed display, post creation, and image/video handling. Implemented functionalities like liking, commenting, and basic user profile management.",
+        "keywords": [],
+        "endDate": "2024-01",
+        "startDate": "2023-11",
+        "url": ""
+      },
+      {
+        "name": "REALEYE: AI AGAINST DEEPFAKES",
+        "description": "Developed Real Eye, an AI-powered deepfake detection system using Python and OpenCV for image processing and anomaly detection. Used LSTM networks to identify temporal inconsistencies in video sequences and CNNs to extract complex features and discern real from fake footage. Explored leveraging pre-trained models or transfer learning techniques to adapt Real Eye for specific domains like news verification or social media content analysis.",
+        "keywords": [],
+        "endDate": "2023-09",
+        "startDate": "2023-08",
+        "url": ""
+      },
+      {
+        "name": "CAR DEKHO PRICE PREDICTION MODEL",
+        "description": "Utilized Python and machine learning techniques to analyse car data and predict prices accurately. Implemented data preprocessing techniques to clean and prepare the dataset for model training. Cleaned and prepared data using techniques like missing value imputation and categorical encoding.",
+        "keywords": [],
+        "endDate": "2022-11",
+        "startDate": "2022-09",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SUMMER INTERN",
+        "skillsUsed": [],
+        "endDate": "2024-07",
+        "company_name": "CELEBAL TECHNOLOGIES",
+        "description": "Enhanced front-end performance by optimizing HTML structure and CSS styling, resulting in faster load times and better user interaction. Implemented JavaScript functionality to improve dynamic content loading and interactivity within the application.",
+        "location": "",
+        "links": "",
+        "startDate": "2024-05"
+      }
+    ],
+    "skills": [
+      "C++",
+      "PYTHON",
+      "C",
+      "SQL",
+      "HTML5",
+      "CSS",
+      "JAVASCRIPT",
+      "DART",
+      "NUMPY",
+      "PANDAS",
+      "MATPLOTLIB",
+      "SEABORN",
+      "SKLEARN",
+      "FLUTTER",
+      "ANACONDA NAVIGATOR",
+      "GOOGLE COLAB",
+      "VS CODE",
+      "MS EXCEL",
+      "POWER BI"
+    ],
+    "soft_skills": [],
+    "name": "DHRUV SHARMA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

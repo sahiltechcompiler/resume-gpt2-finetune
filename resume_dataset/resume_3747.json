@@ -1,0 +1,141 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anantha Teja Dasari",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.76",
+        "field_of_study": "Major in Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 92.0",
+        "field_of_study": "Board of Intermediate Education, Andhra Pradesh",
+        "startDate": "2019"
+      },
+      {
+        "school": "Ridge School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 85.6",
+        "field_of_study": "Central Board of Secondary Education (CBSE)",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Delivery Website",
+        "description": "Developed using the MERN stack enabling seamless integration between front-end and back-end components resulting in a 30% improvement in development efficiency. Established secure user authentication and authorization mechanisms with JWT and Auth0, ensuring robust protection for user data and secure access control reducing unauthorized access attempts by 50%. Implemented a shopping cart system, allowing users to add, remove, and update items, and a checkout process integrating with Stripe for secure transactions.",
+        "keywords": [
+          "React JS",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Stripe"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ride Pooling",
+        "description": "Designed and implemented a Ride-Pooling platform using the MERN stack, enabling seamless integration between front-end and back-end components resulting in a 30% improvement in development efficiency. Conducted unit testing and debugging which improved the applications reliability by 40% and overall performance by 20%. Secured user authentication and authorization mechanisms with JWT and bcrypt, ensuring robust protection for user data and secure access control.",
+        "keywords": [
+          "NodeJs",
+          "ReactJs",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real Estate Management System",
+        "description": "Developed a Real Estate Management System using the Django Framework, enabling users to efficiently (CRUD) create, update, and manage property listings with detailed information such as location and type. Enabled sellers to list properties, assisted buyers in finding homes, and empowered agencies to manage portfolios efficiently. Ensured data security and privacy through encryption and secure authentication mechanisms.",
+        "keywords": [
+          "Django",
+          "HTML",
+          "CSS",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "IBM SkillsBuild",
+        "description": "Demonstrated proficiency in data analysis by extracting actionable insights and recommendations from a Kaggle-sourced superstore database. Exhibited expertise in conducting comprehensive data analysis, actively driving the projects success by delivering insightful findings and actionable recommendations.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Andhra Pradesh State Skill Development Corporation",
+        "description": "Learned and integrated Django and Python with front-end development. Completed 2 projects including one mini project (Leave Management System) and the final project. Created and managed databases to store property listings, customer information, and transaction records. Developed user-friendly interfaces for listing management and customer interactions.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJs",
+      "NodeJs",
+      "MongoDB",
+      "Django",
+      "NumPy",
+      "Pandas",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "Anantha Teja Dasari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved Associate Developer Certificate for NodeJs from MongoDB.",
+      "HackerRank 4 Star in C++.",
+      "Secured 5056th Rank in AP Engineering Entrance Test among 1.75L students."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Engineering"
+}

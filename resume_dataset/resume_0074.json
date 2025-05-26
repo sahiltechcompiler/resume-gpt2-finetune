@@ -1,0 +1,148 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ekta Dua",
+  "college": "GURU GOBIND SINGH IN- UNIVERSITY",
+  "locations": [
+    "Delhi, India",
+    "Noida, UP",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GURU GOBIND SINGH IN- UNIVERSITY",
+        "endDate": "June 2023",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.8",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "A.S.N. SENIOR SECONDARY SCHOOL",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Delhi, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 83",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "TWEET EMOTION DETECTION",
+        "description": "The aim of the project was to create a recurrent neural network and train it on a tweet emotion dataset to learn to recognize emotions in tweets. Used a Tokenizer in TensorFlow and then Padded and Truncated Sequences. Created and Trained a Recurrent Neural Network.",
+        "keywords": [
+          "Machine Learning",
+          "Data Science",
+          "Deep Learning",
+          "TensorFlow",
+          "Keras"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "SUDOKU SOLVER",
+        "description": "The project aimed to determine which algorithm of the two Crook or Backtracking, is faster. Backend technologies: Flask takes requests from the user to generate sudoku with a userselected a number of missing squares and solve sudoku selected by the user. Frontend technologies: HTML 5, CSS, JavaScript.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "MASK DETECTION",
+        "description": "Libraries used: Numpy, OpenCV, matplotlib.pyplot. Downloaded more than a hundred images from the source. Implemented XML classifier using OpenCV, which classifies faces, eyes, and other features. Embedded grayscale so as to easily detect face and other features in the image. Implemented Haarbased feature cascade used for face detection.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SOFTWARE DEVELOPER INTERN",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "endDate": "April 2023",
+        "company_name": "Desi QnA",
+        "description": "Worked on the UI Design and Development part of a fully responsive webpage for a particular section of Desi QnA. Worked on User Verification/Authentication + Engineering challenges of detecting and removing fake bots and posts. Integrated Recaptcha with the website Google Layer of Protection for websites. Tech Stacks: HTML, CSS, JavaScript, Bootstrap, MySQL.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jan 2023"
+      },
+      {
+        "role_name": "TECHNICAL ENGINEER INTERN",
+        "skillsUsed": [
+          "Python",
+          "PyTorch",
+          "PySpark"
+        ],
+        "endDate": "Dec 2022",
+        "company_name": "Geeks For Geeks",
+        "description": "Reviewed codes based on Python such as PyTorch, PySpark, data structures and algorithms in Python, and data science.",
+        "location": "Noida, UP",
+        "links": "",
+        "startDate": "Oct 2022"
+      },
+      {
+        "role_name": "TECHNICAL CONTENT WRITER",
+        "skillsUsed": [],
+        "endDate": "Oct 2022",
+        "company_name": "Scaler Academy",
+        "description": "Authored many articles in the field of Aws including AWS Autoscaling, AWS Cloudtrail, AWS RDS, and others.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "August 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "React",
+      "C/C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL",
+      "NumPy",
+      "AWS",
+      "GIT",
+      "OpenCV",
+      "Flask",
+      "Tensorflow"
+    ],
+    "soft_skills": [
+      "problem solving ability",
+      "communication skills",
+      "selfdriven and motivated",
+      "fastpaced"
+    ],
+    "name": "Ekta Dua",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Got selected for Bertelsmann Scholarship in the year 2020.",
+      "Presently, a Microsoft Learn Student",
+      "Got selected for HPAIR Delegate21."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 3.0,
+  "degree": "Bachelors of Technology"
+}

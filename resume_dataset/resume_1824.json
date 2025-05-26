@@ -1,0 +1,116 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Tanshi Bisht",
+  "college": "Chitkara Univeristy",
+  "locations": [
+    "Punjab",
+    "Chandigarh",
+    "Panchkula",
+    "New Delhi, Delhi",
+    "Mohali, Punjab"
+  ],
+  "full_output": {
+    "summary": "Motivated and dedicated 4th-year Computer Science and Engineering student with a passion for technology and innovation. Possessing a solid foundation in computer science principles, algorithms, and programming languages. Proven ability to collaborate effectively in team environments, communicate technical concepts clearly, and adapt quickly to new challenges. Seeking opportunities to apply classroom knowledge to real-world projects and contribute positively to the field of technology. Eager to leverage my skills and education to make meaningful contributions to a dynamic organization.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chitkara Univeristy",
+        "endDate": "August 2024",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Punjab",
+        "ID": 0.0,
+        "grade_received": "9.63",
+        "field_of_study": "C.S.E",
+        "startDate": "July 2020"
+      },
+      {
+        "school": "KB DAV",
+        "endDate": "March 2020",
+        "maximum_grade": "",
+        "degree": "XII th",
+        "location": "Chandigarh",
+        "ID": 1.0,
+        "grade_received": "76%",
+        "field_of_study": "Non-Med",
+        "startDate": "March 2019"
+      },
+      {
+        "school": "Bhavan Vidyalaya",
+        "endDate": "March 2018",
+        "maximum_grade": "",
+        "degree": "X th",
+        "location": "Panchkula",
+        "ID": 2.0,
+        "grade_received": "85%",
+        "field_of_study": "",
+        "startDate": "March 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ECommerce Website",
+        "description": "Created a fully functional ecommerce website that allows to shop from wide range of products with features such as User authentication, add-to-cart, wish listing items , add products feature (Seller account type), Payment gateway(Stripe).",
+        "keywords": [
+          "DOM",
+          "NodeJS",
+          "MongoDB",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Multiple Disease Prediction System",
+        "description": "Designed the WebPages using frontend technologies. The project involved collecting inputs from users, analyzing the data to detect any indications of diseases, and reflecting these findings in detailed reports. (The project was trained using dummy datasets from Kaggle on various ML Algorithms such as K-NN algorithm etc)",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "January 2024",
+        "company_name": "Coding Blocks",
+        "description": "Assist the instructor in delivering lectures, workshops on frontend development topics, including HTML, CSS, JavaScript, and frontend frameworks. Provide one-on-one guidance and support to students, helping them troubleshoot issues, debug code, and understand complex concepts. Review and provide feedback on student assignments, projects, and code repositories.",
+        "location": "New Delhi, Delhi",
+        "links": "",
+        "startDate": "July 2024"
+      },
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Profices Technologies",
+        "description": "Collaborate with our multidisciplinary team to design, develop, and deploy full-stack applications with a focus on analytics capabilities. Develop frontend interfaces using modern web technologies such as HTML5, CSS3, and JavaScript frameworks to visualize and interact with data.",
+        "location": "Mohali, Punjab",
+        "links": "",
+        "startDate": "February 2024"
+      }
+    ],
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "JavaScript",
+      "Jquery"
+    ],
+    "soft_skills": [],
+    "name": "Tanshi Bisht",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.E"
+}

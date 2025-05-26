@@ -1,0 +1,149 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Varun Agarwal",
+  "college": "KIET Group of Institutions",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Core Team Member of Innogeeks technical Society. Mentored 30+ students under web domain."
+    ],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.5",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "St.Pauls School",
+        "endDate": "March 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA: 9.5",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "IWOC 2.0",
+        "description": "Developed a website using Node.js and Express for the backend, integrated with MongoDB, facilitating the registration of over 1500 students nationwide. Implemented GitHub OAuth Login using passportJS on the website to authenticate participants, effectively reducing instances of fake registrations. Created a Node.js script to systematically track and log all merged pull requests in participation projects using Octokit to query Github REST APIs.",
+        "keywords": [
+          "Node",
+          "Express",
+          "EJS",
+          "PassportJS",
+          "Octokit",
+          "Github oAuth",
+          "MongoDB",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "URL Shortner",
+        "description": "Designed and developed a URL shortener utilizing Django REST APIs and PostgreSQL as backend. Also, implemented Redis as a caching database to optimize performance. Utilized Redux to manage user context, enabling seamless login experiences and personalized URL generation for individual users.",
+        "keywords": [
+          "Django",
+          "React",
+          "Redux",
+          "PostgresSQL",
+          "Redis",
+          "AWS(EC2)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Visual Cipher",
+        "description": "Developed a website using Node.js and Express for the backend, integrated with MongoDB. Incorporated cryptoJS AES for secure encryption and decryption of images.",
+        "keywords": [
+          "Node",
+          "Express",
+          "React",
+          "Redux",
+          "cryptoJS",
+          "MongoDB",
+          "Unsplash-API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Innogeeks Website Backend",
+        "description": "Developed the backend for innogeeks website using Django and PostgresSQL. It is a dynamic event website maker, enabling authorized students to create and manage events, including student registration functionalities, ensuring secure access and streamlined event management.",
+        "keywords": [
+          "Django",
+          "Jinja",
+          "PostgresSQL",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend and SRE Intern",
+        "skillsUsed": [],
+        "endDate": "Current",
+        "company_name": "DAO Studio",
+        "description": "Implemented RESTFull APIs using Django & Flask to facilitate seamless communication between various microservices. Dockerized multiple microservices to create a containerized environment, enhancing deployment efficiency. Implemented CI/CD pipelines for automated testing, building, and deployment, reducing manual intervention and accelerating the release cycle. Configured and maintained monitoring and logging solutions for docker containers, using Grafana, to track system performance, troubleshoot issues, and ensure optimal resource utilization. Utilized AWS services such as EC2, S3, and RDS to create a resilient and scalable infrastructure for microservices.",
+        "location": "",
+        "links": "",
+        "startDate": "October 2023"
+      }
+    ],
+    "skills": [
+      "Tailwind",
+      "React",
+      "Redux",
+      "Node",
+      "Express",
+      "Mongo",
+      "Django",
+      "Flask",
+      "Next",
+      "Postgress",
+      "MySQL",
+      "Redis",
+      "C",
+      "C++",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Shell script",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "Varun Agarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

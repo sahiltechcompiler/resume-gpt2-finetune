@@ -1,0 +1,205 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Sohail Shaikh",
+  "college": "A.C Patil College of Engineering",
+  "locations": [
+    "Navi Mumbai",
+    "Panvel",
+    "Mumbai",
+    "Thane"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Secured 1st Place in Wordpress Website Designing Programme, showcasing proficiency in web development skills and WordPress expertise. Acquired comprehensive understanding of WordPress website designing, including proficiency in creating and customizing websites, managing content, and optimizing site performance. Developed skills in HTML, CSS, and JavaScript, gaining hands-on experience in frontend web development.",
+        "skillsLearned": [],
+        "title": "Wordpress ( Website Designing Programme)",
+        "issuer": "ilearnopedia Technologies LLP",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "A.C Patil College of Engineering",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Navi Mumbai",
+        "ID": 0.0,
+        "grade_received": "65.36 %",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "A.I Abdul Razzaq Kalsekar Polytechnic",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Panvel",
+        "ID": 1.0,
+        "grade_received": "85.89 %",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Modern English High School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Secondary School Certificate (SSC)",
+        "location": "Panvel",
+        "ID": 2.0,
+        "grade_received": "70.80 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Park-o-Matic",
+        "description": "Designed Park-O-Matic, an automated parking system using Arduino, aimed at addressing parking space scarcity in urban areas. Implemented sensors such as IR sensors for parking spots and an Ultrasonic Sensor at the entrance to detect vehicle presence and space availability. Utilized Arduino Uno as the central controller, processing sensor data and managing space availability. Integrated LED display at the entrance to show available parking spaces to drivers. Additionally controlled physical barriers, like gates, using servo motors to restrict entry into full slots. Expected to complete development in final semester.",
+        "keywords": [
+          "Arduino Uno",
+          "Servo Motor",
+          "IR Proximity Sensor",
+          "Ultrasonic Sensor",
+          "Buzzer",
+          "Potentiometer",
+          "Jumper Wires",
+          "LCD Display",
+          "Breadboard"
+        ],
+        "endDate": "May 2024",
+        "startDate": "June 2023",
+        "url": "Github"
+      },
+      {
+        "name": "SkillCheck",
+        "description": "Developed SkillCheck, a blockchain-based platform for skill verification, addressing key challenges in the certification process. Utilized technologies such as Solidity, Web3, Ganache, Metamask, Truffle, JavaScript, ReactJS and TailwindCSS to implement various components of the platform. Designed and implemented Smart Contracts using Solidity for secure and transparent skill verification on the blockchain.",
+        "keywords": [],
+        "endDate": "May 2023",
+        "startDate": "Dec 2023",
+        "url": "Github"
+      },
+      {
+        "name": "Haptic Proximity Module (HPM) with Real-Time GPS tracking",
+        "description": "Programmed NodeMCU code for the Haptic Stick project, aimed at assisting visually impaired individuals with improved mobility. Wrote code in C++ using Arduino IDE to handle GPS data and enable communication between components. Enabled WiFi connectivity to potentially facilitate remote monitoring and data transmission.",
+        "keywords": [],
+        "endDate": "Nov 2022",
+        "startDate": "July 2022",
+        "url": "Github"
+      },
+      {
+        "name": "PristineKare",
+        "description": "Developed a web-based laundry management system using PHP, aimed at streamlining laundry services for small-scale operations. Implemented user roles for database administrators, managers, clerks, and laundresses to control access to system features. Managed customer information, laundry service records, and payment records within a MySQL database, focusing on simplicity and efficiency. Designed a user-friendly interface for easy navigation and efficient data management, prioritizing usability for end-users.",
+        "keywords": [],
+        "endDate": "June 2022",
+        "startDate": "March 2022",
+        "url": "Github"
+      },
+      {
+        "name": "First Person Runner: A Simulation Game",
+        "description": "Developed an innovative first-person runner game, FPR, introducing a unique gaming experience where players compete against AI-controlled runners. Implemented a realistic simulation of a person running, focusing on providing an immersive gaming experience. Optimized game performance by reducing polygon count and utilizing efficient coding practices in C#. Utilized Blender for character modeling, Visual Studio for coding, and Unity for game development.",
+        "keywords": [],
+        "endDate": "Aug 2021",
+        "startDate": "March 2021",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "WordPress"
+        ],
+        "endDate": "Jan 2024",
+        "company_name": "Self Employed",
+        "description": "Successfully completed numerous projects for a diverse range of clients, utilizing technologies including HTML, CSS, JavaScript, and WordPress. Collaborated with clients to understand their requirements and deliver customized solutions that meet their needs. Implemented responsive design principles to ensure optimal performance across various devices and screen sizes, enhancing user experience and engagement. Independently managed timelines, budgets, and client communications, showcasing effective time management and organizational abilities.",
+        "location": "",
+        "links": "",
+        "startDate": "Mar 2020"
+      },
+      {
+        "role_name": "Frontend Web Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "May 2023",
+        "company_name": "Kaairos Worldwide Marketing Pvt. Ltd.",
+        "description": "Honed skills as a frontend web developer, specializing in crafting responsive websites using HTML, CSS, and JavaScript. Gained valuable experience in customizing WordPress themes and plugins to enhance website functionality. Acquired practical knowledge in enhancing user experience and optimizing site performance.",
+        "location": "Mumbai",
+        "links": "",
+        "startDate": "Mar 2023"
+      },
+      {
+        "role_name": "Digital Marketing Executive",
+        "skillsUsed": [],
+        "endDate": "Feb 2023",
+        "company_name": "PICKMYURL Digital Marketing Company",
+        "description": "Dived into various aspects of digital marketing, including SEO, social media marketing, Google Ads, and analytics. Gained hands-on experience in managing online visibility, crafting engaging social media content, and utilizing essential digital tools. Acquired valuable skills in project management, team leadership, and search engine optimization (SEO). Utilized tools such as Canva, LinkedIn Marketing, and Google Analytics to enhance marketing strategies.",
+        "location": "Thane",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "Javascript",
+      "Python",
+      "Java (Basic)",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "Wordpress",
+      "Bootstrap",
+      "ReactJs",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "Django",
+      "Amazon Web Services (AWS)",
+      "Heroku",
+      "MySQL",
+      "MongoDB",
+      "RESTful APIs",
+      "JSON",
+      "XML",
+      "OAuth",
+      "AJAX",
+      "Apache",
+      "Git",
+      "Github",
+      "Node Package Manager (NPM)",
+      "VS Code",
+      "MySQL",
+      "Chrome Developer Tools"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Collaboration",
+      "Problem Solving",
+      "Time Management",
+      "Organization"
+    ],
+    "name": "Sohail Shaikh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.E"
+}

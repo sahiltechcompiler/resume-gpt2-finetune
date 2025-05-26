@@ -1,0 +1,174 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Jyoti Prajapati",
+  "college": "SRM University,AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Innovative B.Tech Computer Science student with a minor in AI and Machine Learning. Skilled in statis- tics, data analysis, Object-Oriented Programming, data structures, and algorithms. Adept at developing strategic solutions. Highly collaborative, self-motivated, and focused on teamwork and innovation to drive impactful projects and achieve exceptional results.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed an online course on cybersecurity through Coursera, acquiring knowledge in cybersecurity practices, risk mitigation, and SIEM tools, with hands-on experience in Python, Linux, and SQL.",
+        "skillsLearned": [],
+        "title": "Google Cybersecurity Specialization",
+        "issuer": "Coursera",
+        "certiLink": "(Link)"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University,AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "computer science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Vidyagyan School,Bulandshahr",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "97.4",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Vidyagyan School,Bulandshahr",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "95.8",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Plant Disease Prediction using CNN",
+        "description": "Developed a web application using a Convolutional Neural Network (CNN) model to predict plant diseases from images and suggest possible treatments. Preprocessed a dataset of plant images and implemented the model using TensorFlow and Keras, achieving high accuracy.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Airplane Ticket Reservation System",
+        "description": "Developed a system to manage airplane ticket reservations using Java and MySQL, including features like ticket booking, cancellation, and rescheduling. Focused on database management and back-end optimization.",
+        "keywords": [
+          "Java",
+          "MySQL"
+        ],
+        "endDate": "May 2023",
+        "startDate": "Mar 2023",
+        "url": ""
+      },
+      {
+        "name": "Weather Forecasting Website",
+        "description": "Created a real-time weather forecasting website using Python and Streamlit, extracting data through APIs. Implemented data visualization features to display wind speed, sunrise/sunset timings, and other relevant weather details.",
+        "keywords": [
+          "Python",
+          "Streamlit"
+        ],
+        "endDate": "Sep 2022",
+        "startDate": "Aug 2022",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Cummins India Pvt Ltd",
+        "description": "Developed a robust prediction model on a highly imbalanced dataset for accurate sensor fault detection in engine systems. Implemented dynamic threshold optimization to adapt to new data across various engine types. Collaborated with cross-functional teams to ensure alignment with project goals and technical specifications. Currently working on projects that refine and expand skills in statistical analysis.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Front-end Developer",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Agumentik Private Limited",
+        "description": "Designed and developed web applications using HTML, CSS, JavaScript, ReactJS, and NodeJS. Produced specifications, flowcharts, and layouts to document requirements and solutions. Participated in code reviews to ensure code quality, performance, and scalability within an Agile framework.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "Emertxe Information Technologies",
+        "description": "Developed an IoT-based home automation system, enhancing my skills in IoT programming and project management. Documented and maintained software functionality, ensuring operational feasibility and alignment with technical specifications.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov 2022"
+      },
+      {
+        "role_name": "Graphic Designer",
+        "skillsUsed": [],
+        "endDate": "Nov 2022",
+        "company_name": "Aashman Foundation",
+        "description": "Worked in a professional environment, contributing to design projects and learning collaborative design processes.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "MySQL",
+      "Pandas",
+      "NumPy",
+      "Seaborn",
+      "Matplotlib",
+      "scikit-Learn",
+      "PyCaret",
+      "TensorFlow",
+      "Keras",
+      "spaCy",
+      "PySpark"
+    ],
+    "soft_skills": [
+      "Analytical thinking",
+      "problem-solving",
+      "teamwork",
+      "creativity"
+    ],
+    "name": "Jyoti Prajapati",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 4.0,
+  "degree": "B. Tech"
+}

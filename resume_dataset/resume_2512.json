@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Krishna Vamsi Vasamsetti",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh",
+    "Kakinada"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.30/10.0",
+        "field_of_study": "Computer Science and Engineering with Specialization in AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "Aditya College",
+        "endDate": "2020",
+        "maximum_grade": "100",
+        "degree": "",
+        "location": "Kakinada",
+        "ID": 1.0,
+        "grade_received": "Percentage: 91.2/100",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "MenuMagic",
+        "description": "Developed a fully responsive and functional restaurant website using the latest industry technologies, such as Shadcn and Tailwind CSS, enhancing the development process by 40%. Implemented user functionality for searching, selecting, and ordering food items, along with robust cart and order management features. Enabled restaurant owners to efficiently manage their menu by adding or removing items and handling orders with accept or reject options, improving operational efficiency by 30%.",
+        "keywords": [
+          "MERN Stack"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SoundWave",
+        "description": "Developed a music search web application with React, Bootstrap, and the Spotify Web API, enabling 30-second song previews. Increased user engagement by 25% through an intuitive interface and optimized performance by 20% via API call enhancements.",
+        "keywords": [
+          "JavaScript",
+          "Bootstrap",
+          "React",
+          "CSS",
+          "Spotify Web API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "A* Path Finding Visualizer",
+        "description": "Engineered a grid-based application to visualize A* pathfinding algorithms, enhancing algorithm efficiency understanding. Improved performance by 30% using optimizations like priority queues and efficient neighbor-checking. Designed an engaging interface demonstrating real-time pathfinding and dynamic obstacle avoidance.",
+        "keywords": [
+          "Python",
+          "Tkinter"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English (Intermediate)",
+      "Japanese (Basic)",
+      "Hindi (Basic)"
+    ],
+    "experiences": [
+      {
+        "role_name": "UROP",
+        "skillsUsed": [
+          "Python",
+          "Keras",
+          "TensorFlow",
+          "PyTorch",
+          "Matplotlib"
+        ],
+        "endDate": "Nov 2023",
+        "company_name": "SRMAP",
+        "description": "Developed a patient subtype classifier for advanced head and neck cancer using an autoencoder and graph convolutional network, improving the categorization and understanding of patient profiles. Achieved significant performance improvements, demonstrating the effectiveness of deep learning in medical data analysis and patient care.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "Prisma",
+      "Shadcn",
+      "Tailwind",
+      "MySQL",
+      "NoSQL",
+      "SQLite",
+      "DSA",
+      "OOP",
+      "Data Science",
+      "Linux (Ubuntu)",
+      "Windows",
+      "Bash"
+    ],
+    "soft_skills": [],
+    "name": "Krishna Vamsi Vasamsetti",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 500+ DSA problems on LeetCode, CodeChef, and Codeforces.",
+      "5-star rating in C++ and a 4-star rating in Problem Solving on HackerRank."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

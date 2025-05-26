@@ -1,0 +1,171 @@
+{
+  "project_count": 4.0,
+  "designation": "Data Analyst",
+  "name": "HARSHIKA SINGH",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Volunteered for a NGO, Paws Hunger. a youth-driven organization actively looking for volunteers to feed a stray animal in their own neighbourhood for a minimum period of one month."
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTECH(AI-ML)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Recommendation System",
+        "description": "-Crafted a content-based movie recommendation website using Pandas, Streamlit, and ML.\n-Integrated ML algorithms to analyze user preferences for personalized suggestions.\n-Curated diverse movie selections for an enjoyable browsing experience.",
+        "keywords": [
+          "Python",
+          "SQL",
+          "Data Science",
+          "Machine Learning",
+          "Data Mining",
+          "Data Visualisation",
+          "Excel",
+          "PowerBI",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Face Recognition Student Attendance System",
+        "description": "-Created a face recognition app using Python.\n-Used Tkinter for the GUI, OpenCV for face detection and recognition, and MySQL for database tasks.\n-Utilized technologies to ensure a smooth user experience and streamline database management.",
+        "keywords": [
+          "Python",
+          "SQL",
+          "Data Science",
+          "Machine Learning",
+          "Data Mining",
+          "Data Visualisation",
+          "Excel",
+          "PowerBI",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Heart Disease Predictor",
+        "description": "-Developed a heart disease prediction app using various machine learning models.\n-Enabled user input for real-time risk assessment and comparison across classifiers.\n-Displayed performance metrics and ROC curves for model evaluation.",
+        "keywords": [
+          "Python",
+          "SQL",
+          "Data Science",
+          "Machine Learning",
+          "Data Mining",
+          "Data Visualisation",
+          "Excel",
+          "PowerBI",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Text Summarizer",
+        "description": "-Made a text summarization tool using spaCy, Flask, and the T5 model.\n-Implemented machine learning and data science techniques for precise extractive and abstractive summarization.",
+        "keywords": [
+          "Python",
+          "SQL",
+          "Data Science",
+          "Machine Learning",
+          "Data Mining",
+          "Data Visualisation",
+          "Excel",
+          "PowerBI",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [
+          "Python",
+          "Plotly",
+          "Matplotlib",
+          "Pandas"
+        ],
+        "endDate": "Present",
+        "company_name": "National Rural Development Infrastructure Agency",
+        "description": "-Employed Python (Plotly, Matplotlib, Pandas), to create dashboards, that aided Data Visualization.\n-Modified existing reports, ensuring data accuracy and clarity.\n-Conceptualized and implemented new features for data reports, enhancing usability and insights.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Science",
+      "Machine Learning",
+      "Data Mining",
+      "Data Visualisation",
+      "Excel",
+      "PowerBI",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [
+      "Communication Skills",
+      "Problem-Solving",
+      "Flexibility",
+      "Time Management"
+    ],
+    "name": "HARSHIKA SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTECH(AI-ML)"
+}

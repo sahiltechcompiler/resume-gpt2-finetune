@@ -1,0 +1,103 @@
+{
+  "project_count": 3.0,
+  "designation": "SOFTWARE DEVELOPER",
+  "name": "Suraj Rawat",
+  "college": "Indian Institute of Information Technology",
+  "locations": [
+    "Dharwad",
+    "Amhat Sultanpur",
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "Results-driven and highly skilled Software Developer in designing, developing, and implementing software solutions. Proficient in multiple programming languages and technologies, including Java, Python, and SQL. Strong analytical and problem-solving abilities, with a proven track record of delivering high-quality projects on time and within budget. Excellent communication and teamwork skills.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology",
+        "endDate": "Jul 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor in Electronics and Communication",
+        "location": "Dharwad",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "Oct 2020"
+      },
+      {
+        "school": "Kendriya Vidyalaya",
+        "endDate": "Mar 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Amhat Sultanpur",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "Apr 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "weather forecasting website",
+        "description": "Developed a basic weather forecasting website using HTML, CSS, JavaScript. Backend implemented with Node.js, MongoDB, and Express. Integrated AngularJS for enhanced frontend functionality.",
+        "keywords": [],
+        "endDate": "Aug 2023",
+        "startDate": "Apr 2023",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Application",
+        "description": "Developed a feature-rich e-commerce platform using Flutter and Dart. Aimed at enhancing user experience for customers and administrators.",
+        "keywords": [],
+        "endDate": "Feb 2024",
+        "startDate": "Dec 2023",
+        "url": ""
+      },
+      {
+        "name": "Fake News Prediction",
+        "description": "Utilized various machine learning algorithms for fake news detection. Incorporated datasets for training and evaluation.",
+        "keywords": [],
+        "endDate": "May 2022",
+        "startDate": "Mar 2022",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Data Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "GrayQuest Education finance limited",
+        "description": "Collaborated on ETL (Extract, Transform, Load) tasks, maintaining data integrity and verifying pipeline stability. Fine-tuned query performance and optimized database structures for faster, more accurate data retrieval and reporting. Optimized data processing by implementing efficient ETL pipelines and streamlining database design.",
+        "location": "Noida",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "Python",
+      "Problem Solving",
+      "German",
+      "Web Development",
+      "App Development",
+      "HTML/CSS",
+      "MERN"
+    ],
+    "soft_skills": [],
+    "name": "Suraj Rawat",
+    "position": "SOFTWARE DEVELOPER",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Shivpur Varanasi Uttar Pradesh 221105",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor in Electronics and Communication"
+}

@@ -1,0 +1,149 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Vipul Kumar",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi-NCR, Ghaziabad",
+    "Kanpur",
+    "Etah"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Certificate in C language",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Length 30.5 total hours",
+        "skillsLearned": [],
+        "title": "Udemy certificate in DSA",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "two weeks",
+        "skillsLearned": [],
+        "title": "YBI Foundation Certificate in Data Science and Machine Learning",
+        "issuer": "YBI Foundation",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Volunteer at KIET Uddeshhya club"
+    ],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi-NCR, Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "7.8 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Jainarayan Vidya mandir",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Kanpur",
+        "ID": 1.0,
+        "grade_received": "75.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Saraswati Vidya Mandir",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Etah",
+        "ID": 2.0,
+        "grade_received": "9.6 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Library Management system",
+        "description": "System tells about the status of a particular book weather it is free or occupied and the details of person to whom that book is allotted.  Along with C Language a small database is also connected.",
+        "keywords": [
+          "C Language"
+        ],
+        "endDate": "Nov 2022",
+        "startDate": "Sep 2022",
+        "url": ""
+      },
+      {
+        "name": "Smart Attendance System",
+        "description": "Project provide Attendance with the help of Face Recognition Technique along with solve the problem of proxy, false claim and save lot of time.  For connecting frontend with hard ware we use Django.",
+        "keywords": [
+          "Python",
+          "ML",
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "Feb 2023",
+        "startDate": "Oct 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "C Language"
+        ],
+        "endDate": "Sep 2022",
+        "company_name": "KIET IT Department",
+        "description": "Developed Library Management System using C Language.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2022"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Data Science",
+          "Machine Learning"
+        ],
+        "endDate": "Sep 2023",
+        "company_name": "YBI Foundation",
+        "description": "In the field of Data Science and Machine Learning.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Vipul Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Captain of primary school",
+      "Appeared for NDA SSB"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,140 @@
+{
+  "project_count": 3.0,
+  "designation": "Full-Stack Software Engineer",
+  "name": "Shreyash Patil",
+  "college": "A. C. Patil College of Engineering",
+  "locations": [
+    "Kharghar, Navi Mumbai",
+    "CBD Belapur, Navi Mumbai"
+  ],
+  "full_output": {
+    "summary": "Full-Stack Software Engineer with Expertise in MERN Stack and Android Development Passionate and results-driven IT Engineer with a solid foundation in MERN (MongoDB, Express.js, React.js, Node.js) stack and expertise in Android development using Java",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Web Developer (MERN Stack)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Full Stack Developer (Web and Desktop Application)",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "A. C. Patil College of Engineering",
+        "endDate": "06/2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering (IT)",
+        "location": "Kharghar, Navi Mumbai",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "12/2021"
+      },
+      {
+        "school": "Bharati Vidyapeeth Institute of Technology",
+        "endDate": "07/2021",
+        "maximum_grade": "",
+        "degree": "Diploma in Information Technology",
+        "location": "CBD Belapur, Navi Mumbai",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "07/2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather Application",
+        "description": "Developed a Weather App using ReactJS and WeatherAPI, showcasing API integration skills. Created a dynamic dashboard displaying real-time meteorological data, current conditions, and hourly forecasts with icons. The user-friendly interface automatically updates, providing users with the latest weather information in an easily digestible format.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Interactive Service Showcase Web App",
+        "description": "Designed, Developed and Deployed a React.JS Web-Application which Displays information of Coaching classes on Slideshow with Images. This Application uses Firebase to provide OTP authentication for sending an enquiry, uses Real-time database to store data of the enquiries, and alerts the owner about the enquiry using Email JS.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "iStock Android Application",
+        "description": "This is an Inventory Management Android Application that I developed as a Final Year Project for my Diploma. This Project has a real-time database called Firebase for storing data and Authentication using Email. I also Integrated Gmail authentication. I also integrated features like Barcode Scanner and Credit tracker for ease of use.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English Full Professional Proficiency",
+      "Marathi Full Professional Proficiency",
+      "Hindi Full Professional Proficiency"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "11/2022",
+        "company_name": "Trivia Softwares",
+        "description": "Developed expertise in the MERN stack, including React JS, Node JS, and Express JS. Successfully integrated OTP authentication using Firebase, enhancing the security of the application. Implemented an auto emailer functionality using Email JS, streamlining communication processes within the application. Established database storage using Firebase, ensuring ecient data management and retrieval.",
+        "location": "",
+        "links": "",
+        "startDate": "08/2022"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "11/2023",
+        "company_name": "Connectia Technology",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "09/2023"
+      }
+    ],
+    "skills": [
+      "React JS",
+      "Next JS",
+      "Express JS",
+      "Node JS",
+      "Java",
+      "Git",
+      "Github",
+      "MongoDB",
+      "MySQL",
+      "Hibernate",
+      "Graphic Design",
+      "UI / UX",
+      "Android Development",
+      "JDBC"
+    ],
+    "soft_skills": [],
+    "name": "Shreyash Patil",
+    "position": "Full-Stack Software Engineer",
+    "interests": [
+      "Football",
+      "Bike Rides"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Navi Mumbai",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Engineering (IT)"
+}

@@ -1,0 +1,182 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "S AISHWARYA",
+  "college": "Chennai Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Data Analytics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA1, CCNA2, CCNA3",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "UIPath RPA Citizen Developer Foundation",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.3 (upto 6th sem)",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Netflix Clone",
+        "description": "Implemented secure user registration and login functionalities using Firebase authentication. Utilized styled components to create dynamic and scalable CSS styles for a consistent look across devices. Developed a content display section where users can explore movies, TV shows, and other media.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "JavaScript",
+          "XML",
+          "Firebase"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "House rental booking",
+        "description": "Simplified the property search and booking process, enhancing user accessibility and efficiency. Improved user experience by implementing advanced search filters for precise property selection. Utilized JWT-based authentication for safe and efficient user interactions on the platform.",
+        "keywords": [
+          "React JS",
+          "Node JS",
+          "Express",
+          "JWT",
+          "MySQL",
+          "Material UI"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Cricket data analytics",
+        "description": "Created an end-to-end cricket data analytics project, from coding to advanced data processing. Applied statistical analysis and machine learning for performance evaluation and strategic planning. Used Power BI for data visualization and real-time processing to support dynamic decision-making.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Matplotlib",
+          "ESPN Cricinfo API",
+          "Power BI"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Stock Analysis",
+        "description": "Analyzed historical stock prices and financial statements to assess stock performance and financial health. Built machine learning models to predict future stock prices and evaluate market sentiment. Used Matplotlib and Pandas DataReader to visualize stock performance and financial metrics.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Numpy",
+          "Matplotlib"
+        ],
+        "endDate": "Oct 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "endDate": "Jul 2023",
+        "company_name": "Lumina Datamatics",
+        "description": "Covered web scraping, Pandas data manipulation, and data analysis using Python libraries. Provided concise introductions to each topic with practical examples for essential data-driven skills. Completed an internship as a Data Analyst, applying these skills to real-world tasks.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Trainee",
+        "skillsUsed": [
+          "Python",
+          "machine learning",
+          "data manipulation",
+          "Pandas"
+        ],
+        "endDate": "Jul 2022",
+        "company_name": "Tactlabs",
+        "description": "Gained extensive knowledge in machine learning and problem-solving during my trainee role. Learned Python, machine learning concepts, data manipulation using Pandas, and dashboard creation. Shadowed professionals to learn about Machine learning, and job-specific tasks in the industry.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "JavaScript",
+      "GitHub",
+      "VS Code",
+      "Pycharm",
+      "IntelliJ",
+      "Eclipse",
+      "PowerBI",
+      "Canva"
+    ],
+    "soft_skills": [],
+    "name": "S AISHWARYA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

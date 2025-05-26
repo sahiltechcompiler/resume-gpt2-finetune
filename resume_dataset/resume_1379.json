@@ -1,0 +1,122 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SAJAL AGGARWAL",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Web Development Course - MERN STACK",
+        "issuer": "",
+        "certiLink": "[Certificate]"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Cloud Computing Foundations",
+        "issuer": "NPTEL",
+        "certiLink": "[Certificate]"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.6",
+        "field_of_study": "",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "LiveChat",
+        "description": "Implemented private messaging, real-time notifications using Socket IO. Built backend using ExpressJs and employed MongoDb as database. Designed front end using React, improving user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "GPT Talk",
+        "description": "Integrated OPENAIs GPT-turbo-3.5 model using Node streams for seamless communication between client and server. Implemented authentication system for security features. Assembled a responsive UI with ReactJs ensuring functionality across devices.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "Blogify",
+        "description": "Developed a blog application using Node.js, Express, React, and MongoDB. Implemented features for adding blogs, user authentication, and CRUD operations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "NullClass Technologies",
+        "description": "Developed full-stack web applications using MongoDB, Expressjs, React, and Nodejs, enhancing overall system performance. Implemented RESTful APIs with Nodejs and Expressjs, improving data retrieval efficiency and backend communication. Designed and optimized front-end components with React, while ensuring seamless database interactions using MongoDB.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "January 2024"
+      },
+      {
+        "role_name": "Front End Developer",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Techies Gateway IT Solutions",
+        "description": "Designed and enhanced web interfaces using React, improving user experience. Implemented responsiveness with Material UI, ensuring functionality across devices. Optimized front-end performance, reducing load time by 20%, ensuring accessibility.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "April 2024"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "C",
+      "C++",
+      "ReactJs",
+      "Bootstrap",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "Git",
+      "Postman",
+      "Insomnia",
+      "Visual Studio Code"
+    ],
+    "soft_skills": [],
+    "name": "SAJAL AGGARWAL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.tech"
+}

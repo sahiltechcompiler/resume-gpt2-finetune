@@ -1,0 +1,98 @@
+{
+  "project_count": 0.0,
+  "designation": "Azure Data Engineer",
+  "name": "SHIVANI ANBUCHEZHIAN",
+  "college": "RMK Engineering College",
+  "locations": [
+    "Chennai, India"
+  ],
+  "full_output": {
+    "summary": "To pursue a challenging career in IT, leveraging 3 years of experience as an Azure Data Engineer, with a focus on delivering high - quality solutions and contributing to the growth of the organization.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Azure Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "RMK Engineering College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Electronics and Instrumentation Engineering",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Azure Data Engineer",
+        "skillsUsed": [
+          "Teradata",
+          "SQL Server Management Studio",
+          "Azure Databricks",
+          "Azure Data Factory"
+        ],
+        "endDate": "",
+        "company_name": "PepsiCo",
+        "description": "Migrated data from various sources to Azure Synapse utilizing Azure Data Factory and Databricks Roles and Responsibilities: Worked on Data migration to Azure from various sources like Teradata, Oracle etc. Built views in azure synapse using underlying tables in Teradata & Pulled data as source files from Teradata. Worked on building the ACQ, DWL and APP layer tables. Created S&T assets in Data Ingestion Portal - S&T. Pushed the source files present in Linux server to the corresponding blob containers in Azure storage.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "AWS Developer",
+        "skillsUsed": [
+          "AWS Glue",
+          "AWS S3"
+        ],
+        "endDate": "",
+        "company_name": "Kellogg",
+        "description": "Data Extraction and transformation Roles and Responsibilities: Validated the extracted Data from various sources like SAP Systems, Non-SAP Systems, Integration tools like Konfluence files and .net applications. Prepared STTM and Metadata for Source files in AWS S3 Executed data movement in AWS cloud environment from raw to cleansed layer. Performed data transformation and data cleansing. Debugged and modified existing code. Created glue jobs and performed unit testing. Interacted with the clients to understand the requirements and helped in resolving the issues faced during Dev and QA testing by making changes to the existing code. Worked on moving the code to production and made sure they are executed without any errors.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Azure",
+      "AWS",
+      "Azure Data Factory",
+      "Azure Databricks",
+      "AWS Glue",
+      "AWS S3",
+      "SQL Server Management Studio",
+      "Teradata",
+      "SQL",
+      "PySpark"
+    ],
+    "soft_skills": [
+      "Strong team player",
+      "Excellent communication",
+      "Presentation skills",
+      "Reporting skills"
+    ],
+    "name": "SHIVANI ANBUCHEZHIAN",
+    "position": "Azure Data Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Star performer of the year 2023 - PepsiCo"
+    ],
+    "publications": []
+  },
+  "current_location": "Chennai, India",
+  "graduation_year": 2021.0,
+  "experience_count": 2.0,
+  "degree": "B.E."
+}

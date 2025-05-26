@@ -1,0 +1,133 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Nimesh Jethva",
+  "college": "Mumbai University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Mumbai University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.63 CGPA",
+        "field_of_study": "Computer",
+        "startDate": ""
+      },
+      {
+        "school": "GPM",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "91.93 %",
+        "field_of_study": "Computer Science Stream",
+        "startDate": ""
+      },
+      {
+        "school": "SEH School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "85.40 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "QrPrastuti",
+        "description": "Attendance through QR Web-app created using Java, XML, Firebase, HTML, Bootstrap, JavaScript. This web application has been designed with the primary goal of reducing the burden on both teachers and students. Teachers can utilize the platform to effortlessly generate QR codes and corresponding applications for their students. These QR codes enable students to conveniently mark their attendance by simply scanning the code. Additionally, the application offers a valuable feature wherein if a student's attendance drops below the 75% threshold, they can raise alerts within the app to notify relevant parties. Furthermore, the system incorporates security measures like device factor authentication and location-based tracking to ensure the integrity of attendance records and enhance overall security.",
+        "keywords": [
+          "Java",
+          "XML",
+          "Firebase",
+          "HTML",
+          "Bootstrap",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Learning Management System [LMS]",
+        "description": "App created using Java, XML, Firebase. This Android app has been created to alleviate the responsibilities of both teachers and students. Teachers can efficiently create mock tests, feedback forms, post lecture notes, and organize exam seating through the app. Simultaneously, students can actively engage by taking mock tests, providing feedback, and accessing important information such as seating arrangements and lecture notes shared by their instructors.",
+        "keywords": [
+          "Java",
+          "XML",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Testing Intern",
+        "skillsUsed": [
+          "Selenium",
+          "Python",
+          "Sequelize ORM",
+          "Express.js",
+          "React",
+          "Node.js",
+          "Authentication and Authorization",
+          "Postman API Testing"
+        ],
+        "endDate": "Feb 2024",
+        "company_name": "Invizio Solutions Pvt. Ltd.",
+        "description": "Enhanced software development practices by implementing real-time monitoring scripts in Selenium with Python. Collaborated effectively to provide valuable insights for improving software development practices while working on automated monitoring and testing processes using Selenium with Python. Developed an internal server management system that efficiently manage and monitor client-side servers. Technologies Used: Sequelize ORM, Express.js, React, Node.js, Authentication and Authorization, Postman API Testing.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2023"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "Bootstrap",
+      "Firebase",
+      "MUI",
+      "Git",
+      "GitHub",
+      "Java",
+      "CPP",
+      "React.js",
+      "Node",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Team Player",
+      "Goal Oriented"
+    ],
+    "name": "Nimesh Jethva",
+    "position": "",
+    "interests": [
+      "Cricket",
+      "Listening Music"
+    ],
+    "achievements_and_awards": [
+      "Secured 2nd rank in Math in SEHS 10th board exam.",
+      "Developed and Copyrighted QrPrastuti' an innovative QR-based attendance system, showcasing expertise in software development."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.E"
+}

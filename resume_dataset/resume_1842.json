@@ -1,0 +1,183 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SUYOG KULKARNI",
+  "college": "K J College Of Engineering & Management Research",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete Introduction to C++ Programming",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C# Comprehensive Course",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete Guide to ASP.NET Core MVC",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hacktoberfest Tree Plantation Certificate",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "K J College Of Engineering & Management Research",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "Pune",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "AVS Jr. College of Science",
+        "endDate": "Feb 2020",
+        "maximum_grade": "",
+        "degree": "class XII",
+        "location": "Aurangabad",
+        "ID": 1.0,
+        "grade_received": "77.00%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Healthcare Scheduling System",
+        "description": "A Flask and SQL-based for efficient appointment booking, featuring a responsive front-end with JavaScript and jQuery. Enhanced security and functionality through JWT authentication, ensuring secure user sessions and data protection.",
+        "keywords": [
+          "Flask",
+          "SQL",
+          "JavaScript",
+          "jQuery",
+          "JWT Authentication"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Booking Application",
+        "description": "Developed a .NET e-commerce web application for online book sales, featuring personalized user accounts, intuitive search functionality, efficient shopping cart management, and seamless Stripe payment integration. Created a secure, user-friendly e-commerce platform with Identity and SQL Server for enhanced customer experience and data protection.",
+        "keywords": [
+          "C#",
+          "ASP.NET MVC",
+          "EF Core",
+          "Identity",
+          "SQL Server",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Assignment Hub",
+        "description": "Assignment Hub is a .NET e-commerce platform that links students with assignment writers, enhancing assignment completion through a chat feature and ensuring security with Identity and SQL Server. The platform provides personal accounts for users to manage profile, view history, and track assignments, boosting engagement and satisfaction.",
+        "keywords": [
+          "C#.NET",
+          "ASP.NET MVC",
+          "EF Core",
+          "SignalR",
+          "jQuery",
+          "SQL Server",
+          "Identity"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Parkar Digital",
+        "description": "As a Full-Stack Developer, I contributed to a project that showcased my expertise in both frontend and backend development, ensuring seamless integration and functionality across all platforms. Actively engaged as a Tester, focusing on comprehensive testing strategies to ensure the reliability and performance of software solutions, enhancing the overall quality and user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "Full-Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2024",
+        "company_name": "Prochant",
+        "description": "As a Full Stack Developer, I developed key pages for a healthcare billing application using DevExtreme, enhancing the product's upgrade and user experience. This role highlighted my technical skills and contributions to a system that significantly improved product performance and user satisfaction.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2023"
+      }
+    ],
+    "skills": [
+      "C#",
+      "C++",
+      "JavaScript",
+      "Python",
+      "jQuery",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "ASP.NET MVC",
+      "Razor",
+      "Web API",
+      "Winforms",
+      "EF Core",
+      "Linq",
+      "Git",
+      "GitHub",
+      "Postman",
+      "DevExtreme",
+      "Jira",
+      "Visual Studio",
+      "SQL",
+      "MongoDb",
+      "Flask",
+      "Node.js",
+      "Unity"
+    ],
+    "soft_skills": [],
+    "name": "SUYOG KULKARNI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "At Hacktoberfest, I merged all 4 pull requests, won multiple badges, and had a plant planted in significant my contributions and dedication to open-source.",
+      "Technical Team Lead at GDSC (2022-2023) showcasing my name, Led the technical team at the Google Developer Student Club (GDSC), orchestrating and hosting a series of technical events that enhanced student engagement and technical skills development."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.E"
+}

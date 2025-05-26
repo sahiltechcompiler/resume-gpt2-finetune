@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Twinkle Meena",
+  "college": "Indian Institute of Information Technology, Allahabad",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology, Allahabad",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.9",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "BSN Academy",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 62",
+        "field_of_study": "CBSE Board",
+        "startDate": ""
+      },
+      {
+        "school": "BSN Academy",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA - 8.68",
+        "field_of_study": "CBSE Board",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "DiscreetOpinions - Anonymously Commenting Application",
+        "description": "Web app allows users to receive anonymous comments from others, fostering interaction and feedback. Distinct personal links allow users to share and receive anonymous feedback. Unique IDs are assigned to anonymous participants, with sub-comments for detailed discussions.",
+        "keywords": [
+          "MySQL",
+          "React",
+          "Redux",
+          "NodeJS",
+          "Express"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AutismAlert - Android App for Autism Detecting (ISAA)",
+        "description": "Developed ISAA Manual Test app for pediatric autism assessment, featuring 40 purposefully designed questions. The app offers user login/signup, a secure database, and empowers parents to gain insights into their childs autism degree.",
+        "keywords": [
+          "FirebaseDB",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "PayCart - E-Commerce Web Application With Payment Integration",
+        "description": "An impressive e-commerce web app with seamless Razorpay integration for secure and smooth payment transactions. Robust checkout and cart features ensure easy purchase management, making it a comprehensive solution for streamlined online shopping.",
+        "keywords": [
+          "React",
+          "Redux",
+          "Firebase",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "ReactJS",
+          "React Native",
+          "GoJS"
+        ],
+        "endDate": "June 2023",
+        "company_name": "RenderBit Technologies",
+        "description": "Worked primarily on ReactJS, React Native and GoJS Library. Worked on optimizing the React Native E-commerce Project and implementing the Figma design. Implemented the GoJS library in React for building workflows.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "ReactJS",
+          "Tailwind",
+          "Typescript"
+        ],
+        "endDate": "October 2021",
+        "company_name": "Mibi Services Pvt. Ltd.",
+        "description": "Made the complete MVP (Web Application and Mobile Application) for the start-up. Most challenging task was to prevent re-renders and optimizations (Implemented Memoization and Code Splitting).",
+        "location": "",
+        "links": "",
+        "startDate": "August 2021"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Nodejs",
+      "VScode",
+      "Git",
+      "Github",
+      "ReactJS",
+      "React Native",
+      "GoJS"
+    ],
+    "soft_skills": [],
+    "name": "Twinkle Meena",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Top 50 Contributors - OPENCODE21, Organised by GeekHeven, IIIT Allahabad.",
+      "Designed, developed, and validated the 'Autism Aware' app, showcasing dedication to technology-driven social impact through collaboration with medical experts.",
+      "Guided volleyball team to Spardha (IIT BHUs Annual Sports Festival) runner-up as Captain, exemplifying leadership, teamwork, and competitive drive."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

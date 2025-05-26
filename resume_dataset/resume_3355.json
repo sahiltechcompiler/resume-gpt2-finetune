@@ -1,0 +1,109 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Niroshan",
+  "college": "Hindustan University",
+  "locations": [
+    "Chennai, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "Highly motivated and detail-oriented Java Back-End Developer with a solid understanding of computer science fundamentals and a passion for developing scalable, high-performance systems. Seeking to apply my technological talents and expertise in a dynamic, growth-oriented firm.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Hindustan University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chennai, Tamil Nadu",
+        "ID": 0.0,
+        "grade_received": "CGPA-9.1",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Banking App Development",
+        "description": "Spring Boot is used to quickly setup and configure the application. RESTful APIs were implemented to ensure that transactions were processed seamlessly. Spring Security is now integrated to provide comprehensive authentication and authorization capabilities. Spring Data JPA was used for effective handling of financial data in a MySQL database.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student management project",
+        "description": "Establish a Database Connection: Use JDBC (Java Database Connectivity) to connect the Java application to the MySQL database. Execute SQL Query: Create and run a SQL query to retrieve student data from the database, process the results, and display them.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FACEPAY",
+        "description": "Refers to a website that accepts payments using facial recognition technology. This system confirms the user's identification based on their face characteristics, providing a safe and easy payment mechanism (made using firebase).",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "EVMAPY",
+        "description": "Is a web application that locates charging stations for electric vehicles. This online application gives detailed information about the charging station, including its pricing, the type of charging cable used.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "Prag Robotics",
+        "description": "Gold price prediction model using logistic regression and LSTM time series forecasting future price prediction.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Pantech Solutions",
+        "description": "Designed and implemented real-time anti-spoofing face recognition using computer vision techniques.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "Data Structures",
+      "Algorithm",
+      "Problem-Solving",
+      "Html",
+      "CSS",
+      "Javascript",
+      "Spring Boot",
+      "Spring MVC",
+      "PostgreSQL",
+      "MySQL",
+      "JUnit"
+    ],
+    "soft_skills": [],
+    "name": "Niroshan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Chennai-600106",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,126 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Abhinav Gangwar",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.61",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Ben-Hur Public School Pilibhit",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 93.60",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Ben-Hur Public School Pilibhit",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "FINDPAWS",
+        "description": "A Flutter App to locate potential dog owners of lost dogs through face recognition technology and real-time location. Emails are sent to the probable pet parents consisting of the contact details of the finder along with a url of the image of the found dog.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Firebase",
+          "GeoFlutterFire",
+          "EmailJS"
+        ],
+        "endDate": "July 2024",
+        "startDate": "Nov 2020",
+        "url": "(Github Link)"
+      },
+      {
+        "name": "YOUTUBE CLONE APPLICATION",
+        "description": "A responsive ReactJS application consisting of stunning video sections, custom categories, channel pages, and most importantly you can play videos straight from your you tube clone App!",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJS",
+          "Material UI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "(Github Link)"
+      },
+      {
+        "name": "THE SPRINKLES(UI)",
+        "description": "A cake website contains a well-designed cart page, menu page, and login/signup page.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "(Github Link)"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Flutter"
+    ],
+    "soft_skills": [
+      "Effective Communication",
+      "Teamwork",
+      "Writing",
+      "Time Management"
+    ],
+    "name": "Abhinav Gangwar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Actively participated and contributed with a team of 3 developers in HCLTech Code4Youth Hackathon (Certificate)",
+      "AI Primer Certification by Infosys (Certificate)",
+      "Engineering Virtual Program by Goldman Sachs (Certificate)",
+      "Complete Web Development from Udemy (Certificate)",
+      "Certificate of Excellence in C++ from Coding Ninja (Certificate)",
+      "Certificate of Excellence in Data Structures from Coding Ninja (Certificate)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

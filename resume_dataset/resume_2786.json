@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "KSHITIJ SONAWANE",
+  "college": "Shah and Anchor Kutchhi Engineering College",
+  "locations": [
+    "Mumbai University",
+    "Hybrid"
+  ],
+  "full_output": {
+    "summary": "Experienced Backend Developer proficient in API Developement, Database Management, Cloud Technologies and Containerization",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learned software developement using REACT, NODE, EXPRESS and MONGO. Integrated Blockchain with MERN Stack applications to provide security mainly for sensitive data and also for storing that sensitive data. Developed Robust software application using MERN Stack and Blockchain as means of data storage and security.",
+        "skillsLearned": [],
+        "title": "Web Developement Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor Kutchhi Engineering College",
+        "endDate": "June 2024",
+        "maximum_grade": "CGPI till Sem VII",
+        "degree": "B. E.",
+        "location": "Mumbai University",
+        "ID": 0.0,
+        "grade_received": "9",
+        "field_of_study": "Cyber Security",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "EvidenceVault",
+        "description": "Evidence Protection using Blockchain. Led a team of four to develop a web application which securely preserves digital evidences for legal purposes. Developed the Smart Contract for interacting with the blockchain, and Developed and Managed Backend APIs. Produced a security system which offers 100% security against tampering of the data and assures its integrity.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "Web3.storage",
+          "Web3JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TokenMaster",
+        "description": "A Decentralized TicketMaster. Developed this project which assigns an NFT to individuals booking event tickets, replacing physical tickets. Implemented a robust security system, ensuring 100% protection against the production of counterfeit tickets.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "Hardhat",
+          "Solidity",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Talk2Text",
+        "description": "Caption Generator Software. Developed a Module to read the CSV File containing the Subtitle generated from audio and burning it to the video. Implemented IAM Role for S3 and Developed a Module to Interact with the S3 bucket for Accessing the Objects.",
+        "keywords": [
+          "Python",
+          "AWS S3",
+          "MoviePy",
+          "Pandas",
+          "Boto3"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developement Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Demazi Technology Pvt Limited",
+        "description": "Developed API using GraphQL in NodeJS and tailored it for various purposes in an Exam Preparation App. Designed and Implemented Schema in MongoDB for storing various entities related to the Exam Preparation App. Optimized Queries to efficiently fetch, insert and update data, and also normalized the data by referencing.",
+        "location": "Hybrid",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "SOFTWARE DEVELOPEMENT",
+      "PROGRAMMING LANGUAGES: Javascript",
+      "Python",
+      "C++",
+      "WEB DEVELOPEMENT: Node",
+      "Express",
+      "GraphQL",
+      "React",
+      "HTML",
+      "CSS",
+      "Django",
+      "DATABASE MANAGEMENT: SQL",
+      "MySQL",
+      "NoSQL",
+      "MongoDB",
+      "MongoDB Atlas",
+      "AMAZON WEB SERVICES: EC2",
+      "Lambda",
+      "Elastic BeanStalk",
+      "S3",
+      "VPC",
+      "Cloud Watch",
+      "Cloud Front",
+      "IAM",
+      "SNS",
+      "CS FUNDAMENTALS: Operating Systems",
+      "Networking",
+      "DBMS",
+      "LINUX: Networking",
+      "FileSystem",
+      "Scripting",
+      "TroubleShooting",
+      "LVM",
+      "Security",
+      "TOOLS: Git",
+      "GitHub",
+      "Linux",
+      "Windows",
+      "Docker",
+      "Kubernetes",
+      "API Developement"
+    ],
+    "soft_skills": [],
+    "name": "KSHITIJ SONAWANE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B. E."
+}

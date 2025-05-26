@@ -1,0 +1,114 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SHUBHANG DUTTA",
+  "college": "Gurukul Kangri Vishwavidyalya",
+  "locations": [
+    "Haridwar, Uttrakhand",
+    "Una, (H.P.)"
+  ],
+  "full_output": {
+    "summary": "Aspiring Software Engineer with a strong foundation in Java and Scala, seeking to leverage my Backend Development skills and contribute to innovative projects. Demonstrated expertise in Java and Scala frameworks, with a proven track record of enhancing user experience through responsive design and improving system performance. Eager to apply my skills in a dynamic and challenging role within a forward-thinking organization.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence, Machine Learning, and Cloud Computing Fundamentals",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Gurukul Kangri Vishwavidyalya",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Haridwar, Uttrakhand",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.3",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "D.A.V. Centenary Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary School",
+        "location": "Una, (H.P.)",
+        "ID": 1.0,
+        "grade_received": "Percentage  85",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Portfolio Website",
+        "description": "Developed a portfolio website showcasing my web development skills. Implemented sleek animations and intuitive navigation to create user-friendly experiences. Website seamlessly adapts to various devices. Effectively showcases my projects and skills to captivate and inform visitors.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Task Management Service",
+        "description": "Developed a Task Management Service for efficient user and task management. Developed a scalable backend using Scala and Akka, improving system perf. by 40%. Implemented Slick with PostgreSQL for secure and type-safe database interactions. Utilized Typesafe Config and PureConfig for robust configuration management. Ensured comprehensive code quality with proficiency in ScalaTest and Akka HTTP Testkit for test.",
+        "keywords": [
+          "Scala",
+          "Akka",
+          "PostgreSQL"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Currency Convertor",
+        "description": "The Currency Converter is a web-based tool built using HTML, CSS, and JavaScript that allows users to convert amounts between different currencies. Fetches the latest exchange rates from an online API. Designed to be responsive for various devices, enhancing user satisfaction by 20%. Implemented error handling that reduced user reported issue by 15%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "SpringBoot",
+      "MySQL",
+      "Scala",
+      "JavaScript",
+      "Akka HTTP"
+    ],
+    "soft_skills": [
+      "Object Oriented Programming",
+      "Data Structures and Algorithms (DSA)",
+      "Problem Solving"
+    ],
+    "name": "SHUBHANG DUTTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "LeetCode with 200+ Problems solved and 100+ POD Streak.",
+      "Mastered Scala, demonstrating expertise in Functional programming and developing robust, scalable applications."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

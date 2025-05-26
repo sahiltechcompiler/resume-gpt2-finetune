@@ -1,0 +1,138 @@
+{
+  "project_count": 3.0,
+  "designation": "Machine Learning Intern",
+  "name": "SHYAM KUMAR REDDY KALLA",
+  "college": "SASTRA Deemed University",
+  "locations": [
+    "Thanjavur, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Meta Back-End Developer Professional Certificate",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Data Science Course: Complete Data Science Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning From Basic to Advanced",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SASTRA Deemed University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.11",
+        "field_of_study": "Computer Science (Artificial Intelligence & Data Science)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Recipe App",
+        "description": "Developed a Django-based Recipe app to efficiently create and manage recipes by Test Driven Development(TDD). Constructed 58+ test cases for different scenarios to ensure its functionality, reliability, and accuracy. Implemented advanced features such as recipe filtering, sorting, and searching to enable users to discover recipes based on their preferences and dietary requirements. Integrated Docker for containerization, facilitating easy deployment and scalability across various environments, thus ensuring efficient application management and maintenance.",
+        "keywords": [
+          "Python",
+          "Django",
+          "PostgreSQL",
+          "Docker",
+          "Github Actions"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Spectrum Sensing in Cognitive Radio",
+        "description": "Developed a Spectrum Sensing model using Deep Learning for Cognitive Radio by integrating CNN and LSTM called DetectNet. Contributed to improving classification accuracy in challenging wireless communication environments. Implemented Signal modulation classification to enhance accuracy of 87%, particularly in low Signal-to-Noise (SNR) ratio in which the model outperformed traditional Energy Detector with accuracy of more than 5%.",
+        "keywords": [
+          "Python",
+          "Deep Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Customer Relationship Management",
+        "description": "Developed a Django-based CRM system to efficiently manage and maintain strong customer relationships, streamline communication, and enhance overall customer satisfaction. Implemented user authentication, customer management, contact tracking, and a task and reminder system. By implementing this CRM system, businesses can effectively organize customer data, address customer queries promptly, and assign tasks to support leads.",
+        "keywords": [
+          "Python",
+          "Django",
+          "Bootstrap",
+          "MySQL",
+          "SMTP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Rockfort Labs",
+        "description": "Contributed to Predictive Maintenance by developing a robust Machine Learning algorithm for detecting anomalies of real-time IIoT sensors. Accuracy of nearly 98% for each boiler enhanced the decision-making. Resulted in improved sensor reliability, optimizes maintenance strategies, and enhanced operational strategies.",
+        "location": "Thanjavur, Tamil Nadu",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Springboot",
+      "SQL",
+      "Data Structures",
+      "Docker",
+      "Django",
+      "RESTful APIs",
+      "Streamlit",
+      "Git",
+      "Github Actions"
+    ],
+    "soft_skills": [],
+    "name": "SHYAM KUMAR REDDY KALLA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 443+ DSA problems on Leetcode.",
+      "Hyderabad Zonal Winner in Indias Biggest Training Championship 2020 by IIT Kanpur.",
+      "Secured 4th place in Regional level among 650+ students in National Childrens Science Congress 2016-17."
+    ],
+    "publications": [
+      "Enhanced diabetic retinopathy analysis and classification using Deep Learning Under review in peer reviewed web of science indexed journal."
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Computer Science (Artificial Intelligence & Data Science)"
+}

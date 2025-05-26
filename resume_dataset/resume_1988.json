@@ -1,0 +1,143 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Om Utsav",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Aug, 2025",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology Hons.",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering (Specialization in IoT)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Language Translating Chatbot",
+        "description": "Developed and deployed generative AI models using AWS services like Sagemaker for training, deployment, and real-time inference. Automated workflows with AWS Lambda and APIs to scale model outputs. Demonstrated use cases like text generation and image synthesis, optimizing for cloud scalability and enterprise integration.",
+        "keywords": [
+          "AWS",
+          "Gen AI",
+          "Amazon Lex"
+        ],
+        "endDate": "Sep, 2024",
+        "startDate": "Aug, 2024",
+        "url": ""
+      },
+      {
+        "name": "Indian Sign Language Interpreter",
+        "description": "Developed an Indian Sign Language Interpreter using Raspberry Pi and Deep Learning models, to analyze hand signs and gestures and convert them to text in English.",
+        "keywords": [
+          "Raspberry Pi",
+          "Deep Learning",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "endDate": "Jun, 2024",
+        "startDate": "Jan, 2024",
+        "url": ""
+      },
+      {
+        "name": "Invoice Management System",
+        "description": "Developed an Invoice management system and used MySQL for Database, Xampp for server and HTML, CSS and PHP for the web interface and server end programming.",
+        "keywords": [
+          "MySQL",
+          "Xampp",
+          "HTML",
+          "CSS",
+          "PHP"
+        ],
+        "endDate": "May, 2023",
+        "startDate": "Jan, 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Junior Data Analyst Intern",
+        "skillsUsed": [
+          "Data Analytics",
+          "Reporting",
+          "Spotre",
+          "Power BI",
+          "Crystal Reports"
+        ],
+        "endDate": "",
+        "company_name": "IQVIA",
+        "description": "Skills: Data Analytics and Reporting Technologies: Spotre, Power BI, Crystal Reports",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [
+          "Express.js",
+          "MongoDB",
+          "RESTful API",
+          "JWT"
+        ],
+        "endDate": "Present",
+        "company_name": "Celebal Technologies",
+        "description": "Developed a robust web application using Express.js and MongoDB. The application utilizes a RESTful API for efficient data exchange and incorporates a robust authentication mechanism using JWT. Designed and implemented a comprehensive appointment scheduling system within the application. This system includes features like calendar integration and real-time availability checks to provide a seamless user experience. Enhanced the application's performance and readability by refactoring existing code and transitioning from callbacks to Promises and Async/Await for asynchronous operations.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jul, 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "NodeJS",
+      "Express",
+      "Machine Learning",
+      "Internet of Things",
+      "Arduino",
+      "Raspberry Pi",
+      "MySQL",
+      "Data Structures",
+      "Relational Database Management System",
+      "Computer Networks",
+      "Spotre",
+      "Power BI",
+      "Crystal Reports",
+      "Research",
+      "Data Analytics",
+      "Reporting",
+      "Jira",
+      "Confluence"
+    ],
+    "soft_skills": [],
+    "name": "Om Utsav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Patent: System for Continuous Glucose Monitoring Manipal University Jaipur Oct 2023 - Dec 2023 Jaipur, Rajasthan Proposed the integration of eSIM with Continuous Glucose Monitoring System. Inventor for patent published under the applicant name, Manipal University Jaipur.",
+      "Research Paper: Machine Learning in Cybersecurity: A Critical Review with Insights on IoT Manipal University Jaipur Sep 2023 Jaipur, Rajasthan Describes the recent development and application of ML in Cybersecurity with insights on IoT and IoMT. Published in Advances in Data-driven Computing and Intelligent Systems: Selected Papers from ADCIS 2022, Volume 2, BITS Pilani, Goa Campus"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors of Technology Hons."
+}

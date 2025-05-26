@@ -1,0 +1,118 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "ABHISHEK YADAV",
+  "college": "Shah And Anchor Kutchhi College of Engineering",
+  "locations": [
+    "Mumbai, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah And Anchor Kutchhi College of Engineering",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPI - 8.5",
+        "field_of_study": "Information Technology",
+        "startDate": "2020"
+      },
+      {
+        "school": "Bhartiya Vidya Bhavans College",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 68.2",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "St. Anthonys High School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage - 92.4",
+        "field_of_study": "",
+        "startDate": "2008"
+      }
+    ],
+    "projects": [
+      {
+        "name": "DocuQuery",
+        "description": "Developed a Retrieval-Augmented Generation (RAG) application designed to answer user queries by effectively fetching relevant responses from a comprehensive knowledge base. Optimized the retrieval process by leveraging vector similarity between queries and stored documents, resulting in improved speed. Implemented AWS SQS in Node.js to manage load and process large-sized PDF conversions into vector embeddings, ensuring scalability.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FosterNews",
+        "description": "Developed a personalized news article platform using Python and ReactJS, offering users a curated experience. Designed and implemented REST APIs in Flask to scrape news data from diverse sources, storing it in MongoDB for efficient retrieval. Leveraged asynchronous programming to significantly speed up news scraping from multiple sources, enhancing overall performance. Streamlined deployment by automating the scraper server process on Render using Github Actions, ensuring seamless updates.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "MLOps Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Curiflow",
+        "description": "Built a CI/CD pipeline using Github Actions and DVC to automate the versioning of datasets and ML models. Leveraged the use of containerization to deploy a text summarization model on Sagemaker endpoint.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Apr 2024"
+      },
+      {
+        "role_name": "Software Development Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "Upraised",
+        "description": "Built a flask server for the proctoring system which feeds audio, video and screen recording data to ML models to capture candidate evidences. Developed a code editor using Sandpack.js which bundles React and Nodejs applications in realtime providing candidates a hassle free experience. Used docker containers and integrated rabbitmq to manage large volumes of test submissions. Implemented GraphQL APIs for assessment platform which reduced the AWS server cost by 40 percent. Used GPT-4 APIs to generate product management scenarios and evaluate candidate response by providing feedback.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Flask",
+      "Nodejs",
+      "BeautifulSoup",
+      "Pandas",
+      "Numpy",
+      "Reactjs",
+      "MongoDB",
+      "MySQL",
+      "Docker",
+      "AWS S3",
+      "EC2",
+      "SQS",
+      "Github Actions"
+    ],
+    "soft_skills": [],
+    "name": "ABHISHEK YADAV",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Mumbai, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.E"
+}

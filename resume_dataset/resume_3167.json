@@ -1,0 +1,155 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Viveka Kushwaha",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Delhi NCR, India",
+    "Varanasi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate of Excellence in DSA (JAVA)",
+        "issuer": "Coding Ninja",
+        "certiLink": "Certificate Link"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA : 8.4",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Central Hindu Boys School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage : 79.4",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Central Hindu Boys School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage : 85.5",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hotel Management System",
+        "description": "An interface which will contain a login button and the whole interface is designed by Java core. All DATA Store in MySQL databases. After login Dashboard contains all information of Hotel Management and ADMIN respectively. It contains add Employee, Driver information, room available, Reception.... so many.",
+        "keywords": [
+          "Java",
+          "Core Java",
+          "OOPs",
+          "MySQL"
+        ],
+        "endDate": "January 2022",
+        "startDate": "",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "Photo Web",
+        "description": "An user interactive website which describes the different images with different icon images and images visible at the time during scrolling the web page and with specific rotation.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link | Profile Link"
+      },
+      {
+        "name": "NeoPixel Control",
+        "description": "Users are able to control the NeoPixel LED light using a WebPage acting as a client.",
+        "keywords": [
+          "ESP 32",
+          "Micro Python",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Profile Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Embedded Full Stack IOT Analyst Trainee",
+        "skillsUsed": [
+          "Arduino",
+          "Free RTOS",
+          "ESP IDF",
+          "GUI",
+          "Cloud",
+          "git",
+          "Linux",
+          "Python",
+          "microphython"
+        ],
+        "endDate": "Present",
+        "company_name": "Tifac Core AKGEC",
+        "description": "Created a backend + frontend internal tool to see all the Embedded Full Stack IOT related to the Hardware and software design. Trainee have to learn how things are communicated to each other. and this microcontroller are used such as ESP32, and ESP 8266. During this Trainee I am learning and Exploring many things Arduino, Free RTOS, ESP IDF, GUI, Cloud, git Linux, Python, microphython, and Developing many projects that are already uploaded on GitHub such as led blinking, motion detector project, ChatRoom, WiFi and Hotspot station, DHT, NeoPixel and many more.",
+        "location": "Ghaziabad, India",
+        "links": "",
+        "startDate": "Dec 2020"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Core Java",
+      "Spring Boot",
+      "HTML/CSS",
+      "MicroPython",
+      "DBMS",
+      "MySql",
+      "Java Collection Framework",
+      "IOT Framework and Platforms",
+      "Arduino",
+      "MicroController",
+      "RaspberryPi",
+      "Linux",
+      "Windows"
+    ],
+    "soft_skills": [],
+    "name": "Viveka Kushwaha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Qualified Gate - 2024",
+      "SSB conference out - 2024",
+      "Awarded by College Academic and Excellence Attendance in IV Semester",
+      "Solved more than 400+ problems on DSA across many platforms",
+      "Coding Ninjas Code Kaze event, I got a college rank of 39 and AIR of 2039 in this challenge."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

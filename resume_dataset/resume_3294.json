@@ -1,0 +1,123 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Ikjyot Singh Ahluwalia",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "B.Tech undergraduate with a proven record in hackathons, skilled in full stack development. Experienced in agile environments and committed to continuous learning.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "July 2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "89.7%",
+        "field_of_study": "Computer Science",
+        "startDate": "July 2020"
+      },
+      {
+        "school": "Navy Children School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "Delhi, India",
+        "ID": 1.0,
+        "grade_received": "93.5%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Navy Children School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "Delhi, India",
+        "ID": 2.0,
+        "grade_received": "84.5%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sun Hacks 2021",
+        "description": "Developed an application enabling media control through hand gestures.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "devpost.com/software/eazytoaccess"
+      },
+      {
+        "name": "Suryavanshi Logistics Pvt. Ltd",
+        "description": "Created a cloud-hosted software application for generating lorry reports and managing vendor billings.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "True North IT Services",
+        "description": "Developed a responsive website for True North IT Services.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "truenorthitservices.ca"
+      },
+      {
+        "name": "Antas Foundation NGO",
+        "description": "Built a website for the Antas Foundation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "antasfoundation.com"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Intern",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "Sellular Edu Networks",
+        "description": "Deployed a Node.js application on AWS EC2 with Redis for caching. Contributed to a large-scale buy and sell platform. Created responsive Progressive Web Apps (PWAs).",
+        "location": "",
+        "links": "",
+        "startDate": "May 2022"
+      },
+      {
+        "role_name": "Software Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "ChainThat",
+        "description": "Worked in the Insurance domain to develop specific templates for their product (Beyond Policy Administration). Learnt Liability exposure, Insurable Objects, Coverages, Limits and Deductibles. Created Templates for Californian Market.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Frontend: React.js",
+      "Backend: Node.js, Express",
+      "Database: MongoDB, SQLite3",
+      "Cloud: AWS, Vercel",
+      "Languages: C++, JavaScript, Python"
+    ],
+    "soft_skills": [],
+    "name": "Ikjyot Singh Ahluwalia",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

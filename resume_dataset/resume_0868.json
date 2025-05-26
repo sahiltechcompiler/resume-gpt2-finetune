@@ -1,0 +1,188 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "Hrishita Tiwari",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur , Rajasthan , India",
+    "Pune, Maharashtra"
+  ],
+  "full_output": {
+    "summary": "Energetic and tech-savvy AI enthusiast committed to excellence and continuous development of programming skills. Proven collaborator with outstanding teamwork and communication abilities, driven by unmatched determination and ambition for success.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Build REST API with SpringBoot and Spring Data JPA",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Capstone",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI for Everyone",
+        "issuer": "DeepLearning.AI",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI-Ethics",
+        "issuer": "Lund University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Python",
+        "issuer": "University of Michigan",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Data Structures",
+        "issuer": "University of Michigan",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to HTML5",
+        "issuer": "University of Michigan",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Database Foundations Certified Junior Associate",
+        "issuer": "Oracle",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (Honors)",
+        "location": "Jaipur , Rajasthan , India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering - pursuing Specialization in Artificial Intelligence and Machine Learning",
+        "startDate": "Sep. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Lead Managements Sytems (LMS)",
+        "description": "Created a lead on-boarding feature of LMS BALIC. Created REST API using springboot JPA. Exhibited advanced proficiency in problem-solving, technical execution, and rigorous testing for project success. Proven ability in independent research, resourcefulness, and achieving project objectives.",
+        "keywords": [
+          "Springboot",
+          "JPA",
+          "Angular",
+          "HTML/CSS",
+          "SQL"
+        ],
+        "endDate": "July 2023",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation Systems",
+        "description": "Evaluated SVD, NMF, MF-SGD, and CF-KNN techniques for movie recommendation systems. Compared effectiveness, accuracy, and computational efficiency. Included a literature review of 15 research papers. Aimed to improve personalized entertainment recommendations.",
+        "keywords": [
+          "python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Road Sign Recognition",
+        "description": "Designed and implemented a CNN model to classify road signs into 43 categories, using convolutional, maxpooling, dropout, and fully connected layers. Trained the model with categorical crossentropy loss and Adam optimizer, integrating image preprocessing with a pretrained Keras model. Developed a PyQt5 GUI to support image browsing, classification, model training, and visualization of training performance, including model saving and training curve generation.",
+        "keywords": [
+          "python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [
+          "Springboot",
+          "JPA"
+        ],
+        "endDate": "July 2023",
+        "company_name": "Bajaj Allianz Life Insurance",
+        "description": "Created a lead on-boarding feature of LMS BALIC. Created REST API using springboot JPA. Exhibited advanced proficiency in problem-solving, technical execution, and rigorous testing for project success. Proven ability in independent research, resourcefulness, and achieving project objectives.",
+        "location": "Pune, Maharashtra",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Core-Java",
+      "JavaScript",
+      "Python",
+      "HTML/CSS",
+      "SQL",
+      "IntelliJ IDEA",
+      "PyCharm",
+      "Eclipse",
+      "Google Cloud Platform",
+      "Gooogle Colab",
+      "VS Code",
+      "Angular",
+      "SpringBoot-JPA"
+    ],
+    "soft_skills": [
+      "teamwork",
+      "communication",
+      "problem-solving",
+      "resourcefulness"
+    ],
+    "name": "Hrishita Tiwari",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured a Top 100 Leaderboard position in Shell AI Hackathon",
+      "Presented technically complex concepts effectively at industry meetups, highlighting strong communication skills.",
+      "Achieved academic excellence with 90 in 12th grade (MHSC) and 95 in 10th grade (ICSE).",
+      "Showcased full-stack development skills with a functional Python and JavaScript web application."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology (Honors)"
+}

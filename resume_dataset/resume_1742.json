@@ -1,0 +1,152 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Dinesh Kottakota",
+  "college": "SRM University AP",
+  "locations": [
+    "Vijayawada"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.76/10.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Dec 2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "May 2021",
+        "maximum_grade": "500",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "97%",
+        "field_of_study": "",
+        "startDate": "Jun 2019"
+      },
+      {
+        "school": "Jawahar Navodaya Vidyalaya",
+        "endDate": "May 2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "466/500",
+        "field_of_study": "",
+        "startDate": "Jun 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Delivery Website",
+        "description": "Developed a project using the MERN stack, which enabled seamless integration between front-end and back-end components, leading to enhanced development efficiency. Established secure user authentication and authorization mechanisms using JWT and bcrypt, ensuring robust protection of user data and secure access control, effectively minimizing unauthorized access attempts. Implemented a shopping cart system that allows users to add, remove, and update items, and integrated the checkout process with payment gateways like Stripe to ensure secure transactions.",
+        "keywords": [
+          "React JS",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Stripe"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Personalearn-LMS",
+        "description": "Engineered PersonaLearn using HTML, CSS, JavaScript, and Tailwind CSS for a responsive front-end, enhancing user engagement and interaction. Integrated advanced Machine Learning and NLP algorithms to personalize course recommendations, leading to higher course completion rates. Utilized Python, PHP, and MySQL for the back-end, ensuring robust data management and reliable system performance, which improved data retrieval efficiency.",
+        "keywords": [
+          "HTML",
+          "Tailwind-CSS",
+          "JS",
+          "ML",
+          "NLP",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Federated Cloud Resource Management",
+        "description": "Developed and implemented a federated learning framework that improved cloud resource management, reducing resource wastage by 20% and increasing efficiency across data centers. Utilized deep learning algorithms to accurately predict resource demand with 95% accuracy for over 500,000 virtual machines, allowing for proactive and scalable resource allocation. Conducted optimization and performance tuning, leading to a 15% improvement in response times and enhancing overall system efficiency.",
+        "keywords": [
+          "ML",
+          "DL",
+          "Time Series",
+          "Excel"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Bharat Intern",
+        "description": "Collaborated with a team of 5 developers and designers to create responsive, user-friendly web applications using HTML, CSS, and JavaScript. Gained hands-on experience with version control systems like Git, collaborating with team members through 50+ pull requests and branches.",
+        "location": "Vijayawada",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "Machine Learning",
+      "Deep Learning",
+      "Tensorflow",
+      "Neural Networks",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Team Collaboration",
+      "Communication",
+      "Data Structures and Algorithms",
+      "Competitive Programming",
+      "Object-Oriented Programming",
+      "Operating systems",
+      "DBMS",
+      "Git",
+      "Computer Networks"
+    ],
+    "soft_skills": [
+      "Team Collaboration",
+      "Communication"
+    ],
+    "name": "Dinesh Kottakota",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Data Base Management System NPTEL Topper (Top 5%).",
+      "Achieved Stanford University Machine Learning Specialization.",
+      "Secured 95.7 in All India JEE-MAINS examination, demonstrating strong academic performance.",
+      "Secured 2010th rank in AP engineering entrance (EAMCET) test among 1.75L students, demonstrating strong academic performance."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

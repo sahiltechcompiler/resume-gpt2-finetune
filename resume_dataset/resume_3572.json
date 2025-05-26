@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Preethi Venkatesan",
+  "college": "Hindustan Institute of Technology and Science",
+  "locations": [
+    "Chennai",
+    "OMR, Chennai"
+  ],
+  "full_output": {
+    "summary": "I am currently doing my third year of B.Tech Computer Science Engineering in Chennai. My domains of interest are programming, web development and other tech-related things. I am open to opportunities that will offer me industry experience and help me expand my knowledge in a holistic manner.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Developer Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Agile Crash Course",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science and Machine Learning Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Hindustan Institute of Technology and Science",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "CGPA:9.49",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "Aug 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Web Tool to Detect Plagiarism Based on BERT and GloVe",
+        "description": "Developed a plagiarism detection tool using a combination of the BERT and GloVe (Deep Learning) models to increase accuracy along with a user-friendly front-end using Flask",
+        "keywords": [
+          "Python",
+          "Deep Learning",
+          "NLP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Emotion/Sentiment Analysis Web App with CNN",
+        "description": "Developed a user-friendly Flask-based web application that analyzes emotions and sentiments in real-time webcam video using Convolutional Neural Network (CNN) and Computer Vision.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "Computer Vision",
+          "AI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Flask-based Web Journal",
+        "description": "Built a web journal using the Flask framework and SQLite database facilitated by SQLAlchemy that can take journal entries as input and display past journal entries on the web page",
+        "keywords": [
+          "Python",
+          "Flask",
+          "HTML",
+          "CSS",
+          "SQLAlchemy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "May 2020",
+        "company_name": "CSIR-National Aerospace Laboratories",
+        "description": "Developing a GUI for airplane simulator cockpit systems utilizing Qt framework (C++) with QtCharts and managing network elements over a UDP network. Relevance: Demonstrated proficiency in software development and GUI creation, showcasing adaptability to new frameworks and technologies.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2018"
+      },
+      {
+        "role_name": "Java Development Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2024",
+        "company_name": "Onesoft Technologies",
+        "description": "Engaged in a comprehensive learning internship and actively developed mini-projects at Onesoft Technologies, honing Core Java, Spring Boot, and MySQL skills.",
+        "location": "",
+        "links": "",
+        "startDate": "December 2023"
+      }
+    ],
+    "skills": [
+      "Front-end Development",
+      "MySQL",
+      "SQLAlchemy",
+      "Programming in Java",
+      "Spring Boot",
+      "Programming in Python",
+      "Flask framework",
+      "Machine Learning & Artificial Intelligence"
+    ],
+    "soft_skills": [
+      "Problem-solving",
+      "Leadership and management",
+      "Communication skills"
+    ],
+    "name": "Preethi Venkatesan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "IET Student Prize (2023) for engineering excellence",
+      "ISACA Scholarship Recipient (2022)",
+      "Womens Secretary in the Student Council Body (2022-2023)",
+      "Award of Proficiency (2022) for securing rank 1 in university"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

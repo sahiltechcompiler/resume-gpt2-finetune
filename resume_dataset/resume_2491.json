@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "S.Rashmitha",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, TN",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Certified Network Associate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco Netcad Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chennai, TN",
+        "ID": 0.0,
+        "grade_received": "CGPA:8.6",
+        "field_of_study": "Artifical Intelligence and Data Science",
+        "startDate": "May 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Management",
+        "description": "This website contain personal inventory management to keep track of their food by logging items purchased and consumed. It tracks monthly food waste, food expenses, quantity purchased, and food donations,It also contain Nutrition analysis. By keeping a detailed record of food-related expenses, users can also manage their budgets more effectively monitor their food consumption patterns and identify areas where they can reduce waste.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Resume Builder",
+        "description": "It user-friendly interface where users can easily input their information into designated fields within each resume section. Implement functionality that automatically generates a formatted resume based on the users inputs. It Include predefined sections allow users to add, edit, or delete sections as per their career needs. It has functionality to download the resume in pdf format.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Realtime Chat Application",
+        "description": "A real time chat-application to chat with multiple users simultaneously. Implemented Group Chat Functionality users to create and participate in group chats, fostering collaborative communication within defined user groups. Real-Time Notifications Utilized WebSocket technology to deliver instant notifications for new messages and updates. Real-time typing indicators to inform users when others are composing messages, improving conversation flow and user engagement.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "LearnSmasher",
+        "description": "Developed a Real-Time Chat Application seamless messaging system enabling instant communication between users. Built a robust login system that verifies user credentials and grants secure access to the chat interface.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Cybersecurity Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "AICTE",
+        "description": "Gained foundational knowledge of cybersecurity, including key concepts such as confidentiality, integrity, and availability. Learned about various types of cyber threats and vulnerabilities.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "React.js",
+      "SQL",
+      "MongoDB",
+      "Windows",
+      "Linux",
+      "Git",
+      "VS Code",
+      "Canvas",
+      "Docker",
+      "Node.js"
+    ],
+    "soft_skills": [],
+    "name": "S.Rashmitha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Skill Rack: Achieved master by solving over 1000 programming problems",
+      "Coding Ninjas: Solved 350+ problems"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

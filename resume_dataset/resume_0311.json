@@ -1,0 +1,253 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SANKET CHOUDHARY",
+  "college": "Amity University",
+  "locations": [
+    "Jaipur",
+    "Kolkata, India"
+  ],
+  "full_output": {
+    "summary": "Aim To work for an organization which provides me the opportunity to improve my skills and knowledge to grow along with the organization objective.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "java",
+        "issuer": "Shree Computers",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "c",
+        "issuer": "Shree Computers",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL",
+        "issuer": "Shree Computers",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "Shree Computers",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DSA",
+        "issuer": "Shree Computers",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning with Python",
+        "issuer": "Cognitive Class.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP- PYTHON-2024",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ideathon-ENTERPRISE-2024",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ideathon-SRWE-2024",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ideathon-ITN-2024",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ideathon-Cybersecurity Essentials-2024",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ideathon-Introduction to Cybersecurity-2024",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Master of Computer Application (MCA)",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "08/2023"
+      },
+      {
+        "school": "Amity University",
+        "endDate": "06/2023",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Applications (BCA)",
+        "location": "Kolkata",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "08/2020"
+      },
+      {
+        "school": "Tata DAV School, Sijua",
+        "endDate": "06/2020",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "04/2019"
+      },
+      {
+        "school": "Tata DAV School, Sijua",
+        "endDate": "06/2018",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "04/2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Human Pose Estimation Using OpenCV & Python",
+        "description": "Developed a real-time pose estimation system in Python using OpenCV and MediaPipe. Implemented pose detection and keypoint extraction to analyze human poses in video streams. Demonstrated skills in computer vision, real-time processing, and Python development.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hate Speech Detection",
+        "description": "Developed a Python-based system to detect hate speech in text using scikit-learn. Implemented data preprocessing, feature extraction with TF-IDF, and trained models (Logistic Regression, SVM, Neural Networks). Deployed using Flask for real-time analysis, achieving high accuracy and reliable performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Customer Churn Prediction",
+        "description": "Developed a machine learning model in Python to predict customer churn using scikit-learn. Implemented data preprocessing, feature selection, and trained models (Random Forest, XGBoost). Achieved high accuracy and provided actionable insights to reduce churn.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web Designer & Web Optimization Intern",
+        "skillsUsed": [],
+        "endDate": "08/2022",
+        "company_name": "Travarsa Private Limited",
+        "description": "Travarsa is a leading software company in Kolkata, offering web design, digital marketing, and other IT services. Tasks Developed responsive websites with WordPress. Optimized websites by implementing minification, image compression, and caching for faster loading and better performance.",
+        "location": "Kolkata, India",
+        "links": "",
+        "startDate": "06/2022"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "08/2024",
+        "company_name": "Celebal Technologies",
+        "description": "Celebal Technologies: Jaipur-based firm specializing in AI-driven analytics, automation, and digital transformation for global enterprises. Tasks Developed Python scripts for data analysis and built machine learning models with Scikit-learn. Conducted data cleaning, feature engineering, and applied statistical methods to enhance model performance.",
+        "location": "Jaipur, India",
+        "links": "",
+        "startDate": "06/2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "DSA",
+      "Java",
+      "SQL (Structured Query Language)",
+      "WordPress",
+      "HTML",
+      "C++",
+      "AI/ML",
+      "Data Analysis",
+      "Data Processing",
+      "Tableau / PowerBI"
+    ],
+    "soft_skills": [],
+    "name": "SANKET CHOUDHARY",
+    "position": "",
+    "interests": [
+      "Gaming",
+      "Technology"
+    ],
+    "achievements_and_awards": [
+      "Class Representative (Manipal University Jaipur) (01/2024 - Present)",
+      "Finance Committee Head (Manipal University Jaipur) (04/2024)",
+      "junior event management head (2019)"
+    ],
+    "publications": []
+  },
+  "current_location": "Dhanbad, India",
+  "graduation_year": 2023.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Computer Applications (BCA)"
+}

@@ -1,0 +1,114 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "RONIT RANJAN TRIPATHY",
+  "college": "Noida Institute of Engineering and Technology (NIET, Greater noida)",
+  "locations": [
+    "Ghaziabad",
+    "Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "My career objective is to utilize my skills in AI/ML and software development to develop innovative, real-world solutions. I aim to contribute to cutting-edge projects that drive positive change. Continuous learning and professional growth are key motivators. I seek a dynamic environment that fosters creativity and collaboration.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology (NIET, Greater noida)",
+        "endDate": "Prersuing",
+        "maximum_grade": "",
+        "degree": "Bachelors of technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Ch. Chabbil Das Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher secondary",
+        "location": "Ghaziabad",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "JKG School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "Ghaziabad",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CyberSecurity Based Phishing Detection",
+        "description": "Developed using Convolutional Neural Networks (CNN) and TensorFlow. Identifies phishing domains through URL analysis and screenshot-based detection. Integrates with email inboxes to detect phishing attempts.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/RONITrrt/cat-phish"
+      },
+      {
+        "name": "Accident Severity Detection System and Alert Mechanism",
+        "description": "Utilizes machine learning algorithms to classify accident severity from CCTV footage. Automatically generates SOS alerts to the nearest hospitals based on severity level. Built with real-time detection and integration for emergency response systems.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CrossBorder Transaction through Cryptography",
+        "description": "Developed a custom cryptocurrency named Cross-Coin for secure transactions. Implemented encryption algorithms for secure cross-border transactions. Built a web platform for users to perform and monitor cryptocurrency transactions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/RONITrrt/CrossCoin"
+      },
+      {
+        "name": "Drowsiness Detection and Alarming System",
+        "description": "Utilized Convolutional Neural Networks (CNN) with TensorFlow for drowsiness detection. Integrated OpenCV for real-time video analysis of driver alertness. System triggers a loud alarm when drowsiness is detected, with 98% model accuracy.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/RONITrrt/Drowsiness"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Machine Learning",
+      "Java",
+      "Python",
+      "Data structure & algorithms",
+      "SQL",
+      "Java Script",
+      "NodeJs",
+      "ReactJs",
+      "MongoDB",
+      "System Design"
+    ],
+    "soft_skills": [],
+    "name": "RONIT RANJAN TRIPATHY",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured first position in HACKX2023.",
+      "Finished 4th in Intelx Awiros Appathon2.0 (Indias largest computer vision hackathon).",
+      "Top 8 in NASA Space App Challenge 2023 (District level).",
+      "Published research paper as an author: \"Enhancing Waste Management Through Object Detection and Recyclable MaterialClassification,\" EAI SUS-DEV2023.",
+      "Currently working on the patent of ADAM"
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad,Uttar Pradesh",
+  "graduation_year": 2021.0,
+  "experience_count": 0.0,
+  "degree": "Bachelors of technology"
+}

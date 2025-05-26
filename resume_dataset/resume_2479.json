@@ -1,0 +1,165 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "VINOD KUMAR",
+  "college": "National Institute of Technology, Hamirpur",
+  "locations": [
+    "Mumbai, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute of Technology, Hamirpur",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "B.Tech. (CH)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.0 CGPA",
+        "field_of_study": "",
+        "startDate": "December 2020"
+      },
+      {
+        "school": "Govt. Sr. Sec. School, Barsar",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90%",
+        "field_of_study": "",
+        "startDate": "July 2017"
+      },
+      {
+        "school": "Govt. Sr. Sec. School, Barsar",
+        "endDate": "March 2017",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93%",
+        "field_of_study": "",
+        "startDate": "July 2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Netix Clone",
+        "description": "Built a full-stack Netix clone using Python, Django for backend development, and PostgreSQL for database management. Integrated user signup, login functionality, movie model creation, and list management features. Utilized Material UI for frontend design, JavaScript for interactive elements, and implemented movie search and genre filtering. Deployed using Docker for containerization and Kubernetes for scalability, ensuring efficient movie streaming and secure data handling.",
+        "keywords": [
+          "Python",
+          "Django",
+          "PostgreSQL",
+          "Docker"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Real-Time Chat App",
+        "description": "Developed a real-time chat app with media sharing using MERN and Socket.IO, and Redis for caching, increasing chat activity by 11%. Implemented secure user authentication and real-time messaging, cutting unauthorized access by 10% and enhancing communication. Engineered a chat platform with message history and group chats, boosting user retention by 15%.",
+        "keywords": [
+          "React",
+          "Node",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Yelp Camp",
+        "description": "Developed a campground management app with Express.js and MongoDB, enhancing user interaction by 25% with features like photo uploads and Google Maps integration. Implemented secure authentication and authorization using Passport.js, boosting security by protecting against XSS and MongoDB injection. Designed a responsive app with Bootstrap and EJS, enhancing user experience with maps, leveraging Redis to optimize data retrieval and scalability.",
+        "keywords": [
+          "React",
+          "Node",
+          "MongoDB",
+          "RESTful APIs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [
+          "HTML",
+          "JavaScript",
+          "Django",
+          "MySQL"
+        ],
+        "endDate": "August 2024",
+        "company_name": "ITJOBXS",
+        "description": "Designed and developed a responsive web page for itjobxs.com, increasing user engagement by 30%. Engineered robust user verification and authentication systems, leveraging containerized environments using Podman to streamline deployment, reducing bot activity by 40%. Integrated Recaptcha with the website - Google Layer of Protection for websites, enhancing security and reducing bot interactions by 10%.",
+        "location": "Mumbai, India",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [
+          "HTML",
+          "JavaScript",
+          "Django",
+          "Python",
+          "Stripe API"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Sankalp Shiksha",
+        "description": "Revamped login & signup processes with Social Auth Django and JWT, achieving a 25% increase in authentication security. Collaborated with a team of 4+ interns to enhance the website UI, boosting accuracy by 30%. Engineered a secure payment system by integrating Stripe API into backend technologies (Django, Python), and utilizing Django's ORM to store encrypted user account information.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "JavaScript",
+      "Next JS",
+      "React JS",
+      "Material UI",
+      "Django",
+      "REST Framework",
+      "RESTful APIs",
+      "SQL",
+      "MongoDB",
+      "PostgreSQL",
+      "Git and Github",
+      "Postman",
+      "AWS",
+      "VScode",
+      "OOPS Concept",
+      "Data Structures and Algo",
+      "Operating System",
+      "Web Development",
+      "ROS Library",
+      "Podman",
+      "Command Line"
+    ],
+    "soft_skills": [],
+    "name": "VINOD KUMAR",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Rated more than 1550+ on Leetcode.",
+      "Ranked in the top 3% of coders and Master on Coding Ninjas.",
+      "Achieved 11th rank out of 7,000+ participants in a GFG Coding Contest, highlighting coding expertise"
+    ],
+    "publications": []
+  },
+  "current_location": "Jodhpur, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech. (CH)"
+}

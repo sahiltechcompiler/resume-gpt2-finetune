@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Nitin Goyal",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate from Abdul Bari In Data Structure and Algorithm in C++",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Dean Excellence Academic Award",
+        "skillsLearned": [],
+        "title": "Database Foundations from Oracle Academy",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate - AWS Academy Cloud Foundation",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate of completion",
+        "skillsLearned": [],
+        "title": "Object Oriented programming with Java from LearnQuest",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA  8.55/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "DBM Sn. Sec. School, Agra",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "84.8%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "DBM Sn. Sec. School, Agra",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "81.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Detect helmetless bikers using ML",
+        "description": "Utilizes deep learning-based object detection models such as Faster R-CNN, YOLO (You Only Look Once) to identify bikers and their helmets within images or video frames. Employs convolutional neural networks (CNNs) to classify detected bikers as either helmeted or helmetless, based on the presence or absence of a helmet. Enables real-time monitoring of bikers in live video streams, facilitating immediate intervention by authorities when helmetless bikers are detected. Focuses on optimizing detection accuracy and robustness to variations in lighting conditions, biker poses, and backgrounds to minimize false positives and false negatives.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blog Website",
+        "description": "Built using React, Tailwind CSS, and Appwrite for a dynamic, visually appealing,and scalable blog platform Includes seamless navigation, responsive design, and interactive components likeuploading images, enhancing user engagement. Utilizing modern tech stack and coding practices, ensuring high performance, quickupdates, and easy content management.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Password Generator",
+        "description": "Built with HTML, CSS, and JavaScript for a clean, responsive, and interactive UI. Generates secure passwords with customizable length and options for symbols, numbers, anduppercase letters. Easy to use, providing quick and secure password generation to enhance usersecurity.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Sql",
+      "VS Code",
+      "Google Colab",
+      "ReactJs",
+      "Tailwind CSS",
+      "Redux toolkit",
+      "Git",
+      "GitHub",
+      "Operating system",
+      "Computer Network",
+      "Database management system",
+      "Object Oriented Programming in c++"
+    ],
+    "soft_skills": [
+      "Excellent Communication",
+      "Leadership skills",
+      "Knowledge of Quantitative Aptitude",
+      "Logical Reasoning",
+      "Excellent Problem solver"
+    ],
+    "name": "Nitin Goyal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Dean Excellence Academic Award"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor Of Engineering"
+}

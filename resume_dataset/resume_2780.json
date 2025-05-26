@@ -1,0 +1,122 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "AYUSH GADRE",
+  "college": "Institute of Engineering & Technology, Indore",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Institute of Engineering & Technology, Indore",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.23",
+        "field_of_study": "Electronics and Telecommunication",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CryptoClock",
+        "description": "Crafted a ReactJS web app with MaterialUI for real-time crypto price tracking using CoinGecko API. Integrated authentication via Firebase. Developed a watchlist for users to save and view favorite cryptocurrencies, enhanced with pagination and interactive charts visualizations using ChartJS.",
+        "keywords": [
+          "ReactJS",
+          "MaterialUI",
+          "Firebase",
+          "ChartJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github | Live"
+      },
+      {
+        "name": "ChatFlow",
+        "description": "Developed a real-time MERN chat application with support for one-to-one and group chat functionality, enabling users to communicate with one another seamlessly using Socket.io. Implemented a user-friendly interface using ReactJS, CSS and Chakra-UI that enables users to create groups with admin privileges and manage group membership, allowing for effective collaboration and added authentication using JWT.",
+        "keywords": [
+          "ReactJS",
+          "Express",
+          "JWT Auth",
+          "Chakra-UI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github | Live"
+      },
+      {
+        "name": "Shopping Cart",
+        "description": "Created a user-friendly multi-page shopping cart platform using ReactJS, including features such as product listing and a shopping cart. Utilized responsive design to ensure compatibility across all devices. Orchestrated the deployment process on GitHub Pages using efficient GitHub Actions workflows, leading to a improvement in website speed and a boost in user engagement metrics.",
+        "keywords": [
+          "JavaScript",
+          "React.js",
+          "Git",
+          "GitHub"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github | Live"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [
+          "JavaScript",
+          "Zoho Editor"
+        ],
+        "endDate": "May 2024",
+        "company_name": "NetSwap Technologies",
+        "description": "Involved in performance of e-learning pages on the Zoho platform. Optimized website performance by utilizing JavaScript, and Zoho Editor, leading to a increase in conversion rate and customer satisfaction. Worked on the development of the CNCTrain Website by creating layouts and designs. The products of the company were made available to a larger audience with better representation. Contributed to the development of the CNCTrain Website, expanding product visibility and reaching more users.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Nov. 2020"
+      },
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [
+          "C++",
+          "Data Structures",
+          "Algorithms",
+          "RDBMS",
+          "Operating Systems"
+        ],
+        "endDate": "Aug. 2023",
+        "company_name": "Persistent Systems",
+        "description": "Interned in software development, gaining practical exposure across diverse computer science domains. Developed proficiency in C++ programming, Data Structures and Algorithms (DSA), Relational Database Management Systems (RDBMS), and Operating Systems (OS) through hands-on projects. Collaborated on various projects to deepen understanding and practical application of acquired skills.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jun. 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "AYUSH GADRE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 600+ DSA problems on LeetCode and 1500+ across several coding platforms.",
+      "CodeChef - Highest Rating: 1723 and Secured Highest Global Rank: 31 in Contest.",
+      "Secured a Global rank of 3868th in Google Kick Start (Google Coding Competition) among 1 lac+ students.",
+      "Participated in Hacktober Fest with 15 successful PRs in the Open Source Competition on GitHub."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Engineering"
+}

@@ -1,0 +1,269 @@
+{
+  "project_count": 7.0,
+  "designation": "",
+  "name": "Ankit Yadav",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Virtual Software Engineering",
+        "issuer": "Goldman Sachs",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Virtual Advance Software Engineering",
+        "issuer": "Walmart",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Essential in Python",
+        "issuer": "Python Institute",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Into to Networks(CCNAv7)",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithm",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS cloud and Artificial Intelligence",
+        "issuer": "Python Data Structures",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Web Development",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming",
+        "issuer": "Duke University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundations of Project Management",
+        "issuer": "Google",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "August 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "October 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Insurance Analyzer",
+        "description": "Developing an insurance analyzer and recommendation system that empowers users to make informed decisions by searching and comparing available policies in the market. The system analyzes existing policies, simplifies complex terms, and recommends better alternatives based on cost, coverage, and competitive features. It also provides personalized policy recommendations and allows users to search for specific features, enhancing transparency and accessibility in the insurance selection process.",
+        "keywords": [],
+        "endDate": "Ongoing",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Intelligent Yard Management System",
+        "description": "Engineered a web application to streamline yard management processes increasing efficiency and productivity using features as real time data analytics, digital yard twin, secure check-in plus checkout of yard and dock, AI/ML and data analytics model for process like dock allocation, dock time scheduling, etc. with real time visualization of data.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "RESTful API",
+          "Data Analytics",
+          "Express.js",
+          "AI/ML",
+          "WebSockets",
+          "JWT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "YouTube Team Manager",
+        "description": "Engineered a secure team management platform for YouTube creators, enabling role-based access control for channel management. Implemented role-based permissions, allowing channel owners to assign security levels and manage team access with security notifications and permissions request for activities. Utilized JWT for authentication and Node.js with Express for backend services, React.js and Tailwind CSS for frontend, and API for seamless channel management.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "JWT",
+          "JavaScript",
+          "API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Green Ecommerce",
+        "description": "Engineered a comprehensive e-commerce website similar to amazon but with special section for environmentally friendly products and incorporating key features such as a shopping cart, user login and authentication, and product search functionality. Also developed business model for recollecting cardboard boxes for reuse. Leveraged the MERN stack (MongoDB, Express.js, React, Node.js) for development and utilized Git for version control.",
+        "keywords": [
+          "React.js",
+          "JavaScript",
+          "Node.js",
+          "Express.js",
+          "MongoDB.js",
+          "UI Design"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI Fitness App",
+        "description": "Developed AI enabled fitness application utilizing real-time pose estimation through OpenCV, along with an exercise classification model for precise pose detection, exercise analysis, and repetition counting. Achieved a 96% accuracy rate by training the classification model using Hugging Face pre-trained models with dataset of over 1500+ images for different exercises.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "NumPy",
+          "Transformers",
+          "Matplotlib",
+          "Pandas"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Cook Buddy",
+        "description": "Engineered a web application for searching cooking recipes based upon user search by recipe name or ingredients available. Data is fetched by the use of mealDB API for related recipes. Provides responsiveness and easy to navigate UI/UX design.",
+        "keywords": [
+          "React.js",
+          "JavaScript",
+          "mealDB API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Minor Projects",
+        "description": "Portfolio Website, To-Do List, Finance Planner and Tracker, Password Generator and Manager, Employee Management System, Hotel Management System.",
+        "keywords": [
+          "Java",
+          "Python",
+          "Spring",
+          "MERN",
+          "Database"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SOFTWARE ENGINEERING FELLOW",
+        "skillsUsed": [
+          "JavaScript",
+          "ReactJS",
+          "MongoDB",
+          "Node.js",
+          "HTML",
+          "Redux",
+          "CSS frameworks"
+        ],
+        "endDate": "September 2024",
+        "company_name": "Headstarter",
+        "description": "Worked on 5+ web applications utilizing technical skills like JavaScript, ReactJS, MongoDB, Node.js, HTML, Redux, CSS frameworks, etc. aiming to achieve project objectives by collaboration with team. Learned AI/ML and developed frontend and backend for web applications integrating AI to achieve project objectives.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "ReactJS",
+      "Node.js",
+      "NoSQL",
+      "SQL",
+      "Express.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "RESTful API",
+      "Git/GitHub",
+      "Linux"
+    ],
+    "soft_skills": [],
+    "name": "Ankit Yadav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Among Top 50 out of 600+ participants for Fill the Void Codeathon by IIT Jammu",
+      "Made it to Top 30 among 500+ participants for Ideathon2024 hosted by GLMI",
+      "Achieved 5 star Coder Badge on HackerRank in Java, Python and Problem Solving"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

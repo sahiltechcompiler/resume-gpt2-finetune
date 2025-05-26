@@ -1,0 +1,129 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shobhit Prakash",
+  "college": "Manipal University Of Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan, India",
+    "New Delhi, India",
+    "Kolkata, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Of Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: \u0000.\u0000\u0000",
+        "field_of_study": "Computer Science and Engineering(AI & ML)",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Thomas School Dwarka, New Delhi",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Academic Education (10th & 12th)",
+        "location": "New Delhi, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Traffic Sign Recognition",
+        "description": "Uses Python, YOLOv8, OpenCV for object detection algorithm. A custom trained model which detects traffic signs real time according to image.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "YOLOv8"
+        ],
+        "endDate": "2024/05",
+        "startDate": "2024/01",
+        "url": ""
+      },
+      {
+        "name": "News Aggregator",
+        "description": "Uses React, ReactDOM to create Application-based Project. Indian News display for current time till last 24 hours.",
+        "keywords": [
+          "React",
+          "HTML",
+          "Bootstrap",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "INTERN",
+        "skillsUsed": [],
+        "endDate": "2023/07",
+        "company_name": "MSTC Limited (A Govt. of India Enterprise)",
+        "description": "Created Web APIs using React for CRUD operations. Created an AUTO-UPDATE APPLICATION in Python to check NSE & BSE of the company when on site.",
+        "location": "Kolkata, India",
+        "links": "",
+        "startDate": "2023/05"
+      },
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [],
+        "endDate": "2024/07",
+        "company_name": "MSTC Limited (A Govt. of India Enterprise)",
+        "description": "Learnt New Topic React Native, React Native Paper, Expo for Mobile App Development. I did a minor project on Fixed Asset Management of company. I used Flask, React.js, React Native, Material UI, React Native Paper, Expo to create site.",
+        "location": "Kolkata, India",
+        "links": "",
+        "startDate": "2024/05"
+      }
+    ],
+    "skills": [
+      "MySQL",
+      "SSMS",
+      "Django",
+      "Flask",
+      "Jest Testing",
+      "Python",
+      "Java",
+      "C",
+      "Git",
+      "VS Code",
+      "Intellij IDEA",
+      "HTML",
+      "CSS",
+      "JS",
+      "React JS",
+      "React Native",
+      "Material UI",
+      "React Native Paper",
+      "YOLOv8",
+      "Object Detection",
+      "Pandas",
+      "Scikit-Learn",
+      "Numpy",
+      "Web and Mobile App Development"
+    ],
+    "soft_skills": [],
+    "name": "Shobhit Prakash",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "5* Gold Badge in Python in Hackerrank.",
+      "4* Silver Badge in Problem Solving in Hackerrank."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

@@ -1,0 +1,140 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shubham Shakyawal",
+  "college": "Maharaja Agrasen Institute of Technology, GGSIPU",
+  "locations": [
+    "New Delhi",
+    "Beawar, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology, GGSIPU",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi",
+        "ID": 0.0,
+        "grade_received": "9.1 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Kendriya Vidyalaya Beawar",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Beawar, Rajasthan",
+        "ID": 1.0,
+        "grade_received": "93.6%",
+        "field_of_study": "Science",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "UNO Game",
+        "description": "Real-time UNO game project using Socket.IO, fostering seamless web socket communication for immediate data exchange. Implementing numerous API calls to optimize game logic, enabling efficient communication between the frontend and backend components. Orchestrating the backend architecture with Node.js, designing and implementing robust API endpoints to handle diverse game functionalities and Integrated TypeScript for static typing in the React.js frontend, reducing errors and enhancing code maintainability.",
+        "keywords": [
+          "React",
+          "Typescript",
+          "Node.js",
+          "Socket.io"
+        ],
+        "endDate": "December 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "URL Shortener",
+        "description": "Designed and implemented a user-friendly interface allowing users to input URLs and receive shortened easily shareable links. Employed React for the front end to ensure a responsive and intuitive user experience, Implemented the back end using Node.js to handle URL shortening logic and provide a seamless server-client interaction. Incorporated QR code generation for each shortened URL, enabling users to scan and access the links conveniently.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "TailwindCSS",
+          "MongoDB"
+        ],
+        "endDate": "March 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "iNotebook",
+        "description": "The application is an online notes-keeping platform which includes the implementation of comprehensive functionality allowing users to perform Create, Read, Update, and Delete operations on their notes seamlessly. To reinforce user authentication security, the application employs JWT tokens, establishing a resilient and dependable authentication mechanism. Additionally, MongoDB integration ensures the efficient storage and retrieval of user notes, establishing a scalable and organized database structure. The user interface has been meticulously designed and implemented using Bootstrap, aiming to enhance the accessibility and visual appeal of the application.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Express",
+          "RestAPI",
+          "Bootstrap"
+        ],
+        "endDate": "January 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "RestAPI"
+        ],
+        "endDate": "September 2023",
+        "company_name": "MeDigiAlpha",
+        "description": "Led the development of a cutting-edge MERN stack web application, enhancing user experiences with responsive React.js interfaces. Engineered robust RESTful APIs with Node.js and Express.js, optimizing backend functionality for peak performance. Implemented state-of-the-art user authentication using JWT for heightened security and personalized interactions, while architecting MongoDB databases for scalable and organized data management.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Front End Developer Intern",
+        "skillsUsed": [
+          "Next.js",
+          "PostgreSQL",
+          "RestAPI"
+        ],
+        "endDate": "September 2022",
+        "company_name": "Brainlox",
+        "description": "Spearheaded the integration of Google Sheets API to seamlessly fetch and update data from Google Sheets. Implemented robust Google Authentication functionalities using Firebase, ensuring secure access and user authentication for the application. Leveraged the Meta API to dynamically fetch and showcase reviews from the Facebook page, enhancing user engagement and trust, while pioneering the development of a Lazy Load feature for images in the Next.js application, optimizing performance and user experience.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "July 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "TailwindCSS",
+      "CSS",
+      "HTML",
+      "C",
+      "C++"
+    ],
+    "soft_skills": [],
+    "name": "Shubham Shakyawal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "AWS Cloud Practitioner - coursera",
+      "410+ Problems solved Leetcode/Geeksforgeeks",
+      "Leetcoding Badge - March, May 2020 and Sept, Oct 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

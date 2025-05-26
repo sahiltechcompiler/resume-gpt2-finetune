@@ -1,0 +1,139 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Amey Khare",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "10.00",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.81/10.00",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83.4 percent",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 11th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "84.6 percent",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Rocket Man",
+        "description": "Developed using Unity3D and Oculus XR Plugin. Created a comprehensive VR puzzle game where players must ascend to the top level of a rocket by solving 4-5 puzzles on each of the 3-4 levels/floors. Utilized Unity3D and Oculus XR Plugin to ensure compatibility with Oculus 2, making the game accessible for university usage. Focused on immersive gameplay and challenging puzzles to enhance user engagement and VR experience.",
+        "keywords": [
+          "Unity3D",
+          "Oculus XR Plugin",
+          "VR",
+          "puzzle game"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Cryntr - EthIndia22",
+        "description": "Developed using Unity3D and React. Created a game to display users cryptocurrency portfolios using unique assets for different cryptocurrencies, formulated during the EthIndia22 hackathon. Implemented the game using Unity3D to provide an engaging and interactive experience for users. Engineered and launched the website using React, delivering a seamless and responsive user interface; reduced page load time by 25%.",
+        "keywords": [
+          "Unity3D",
+          "React",
+          "cryptocurrency",
+          "game"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Game Developer Intern",
+        "skillsUsed": [
+          "Unity2D",
+          "blockchain",
+          "React",
+          "MongoDB"
+        ],
+        "endDate": "July 2023",
+        "company_name": "Adaxon Pte. Ltd.",
+        "description": "Engineered a Unity2D game for real-life horse race betting, seamlessly integrating blockchain technology for cryptocurrency transactions. Implemented an online betting system allowing players to place bets on horse races. Integrated the game with a React-based website and MongoDB backend to display dynamic leaderboards, including the most points leaderboard system.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Game/Car Mechanism Designer",
+        "skillsUsed": [
+          "LUA C",
+          "GTA 5",
+          "car mechanics"
+        ],
+        "endDate": "Nov 2022",
+        "company_name": "Legacy Roleplay India",
+        "description": "Designed and implemented car handling, speed, and power mechanisms for custom-made and in-game cars in GTA 5 Roleplay. Engineered advanced car mechanism modifications using LUA C scripting language, ensuring realistic driving experiences and enhancing user engagement by 40% through detailed feedback analysis and iterative improvements. Mechanized 20+ cars successfully, which were actively used by players on the server, contributing to the overall gaming experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2022"
+      }
+    ],
+    "skills": [
+      "C#",
+      "C++",
+      "C",
+      "Python",
+      "Java",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Unity3D",
+      "Unity2D",
+      "Unreal Engine",
+      "Godot",
+      "React",
+      "NodeJS",
+      "MongoDB",
+      "ExpressJS"
+    ],
+    "soft_skills": [],
+    "name": "Amey Khare",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Under 250 Team in Google Hash Code - Feb 2022",
+      "EthIndia 2022 - Cryntr - Dec 2022",
+      "Winner of UNFOLD 2023 - Oct 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

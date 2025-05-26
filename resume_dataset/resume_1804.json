@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Gnana Kartheek Tirumalasetti",
+  "college": "SRM UNIVERSITY",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Supervised Machine learning certification",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Computer Science with Specialization in Big data",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.71/10",
+        "field_of_study": "",
+        "startDate": "Aug 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Credit Card Recommendation",
+        "description": "Employed demographic classification, Used spending behavior analysis, Segmented customers efficiently. Identified key target groups for personalized credit card recommendations, Designed a Power BI dashboard featuring key performance indicators KPIs and utilized DAX formulas to create dynamic calculations and enhance data analysis.",
+        "keywords": [
+          "Power BI",
+          "DAX",
+          "Data Visualization"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Insights to Identify the Best Amazon Merchants",
+        "description": "Cleaned and extracted key seller data using SQL and Power BI. Analyzed and segmented sellers based on interactions, product counts, and rating metrics. I analyzed and segmented sellers to identify the top 200 best-performing sellers from the dataset using Power BI. By developing actionable insights, I was able to pinpoint high-performing merchants and support decision-making through interactive visualizations.",
+        "keywords": [
+          "SQL",
+          "Power BI",
+          "DAX",
+          "Data Visualization"
+        ],
+        "endDate": "Aug 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Job portal",
+        "description": "Developed a fully dynamic system with real-time updates for job listings, user profiles, and application statuses. Implemented three distinct user roles: job seekers, job providers (employers), and admin. Implemented secure user authentication for logging in and out of accounts.",
+        "keywords": [
+          "Html",
+          "css",
+          "bootstrap",
+          "Javascript",
+          "Django"
+        ],
+        "endDate": "July 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "An Empirical study of Precision Agriculture",
+        "description": "In this research, I developed and implemented statistical models for plant leaf disease detection using a leaf dataset. After performing feature extraction, I employed classification algorithms such as SVM, Random Forest, and Decision Tree, and also used ensemble methods. By using ensemble methods, model accuracy increases from 78% to 90%. Furthermore, we utilized MATLAB to implement five deep learning models and achieved a highest accuracy of 97%.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Pandas",
+      "Excel",
+      "Statistics",
+      "Machine learning",
+      "web scraping",
+      "Django",
+      "Express.js",
+      "Node.js"
+    ],
+    "soft_skills": [
+      "Communication skills",
+      "Problem solving",
+      "Critical Thinking",
+      "Collaboration",
+      "Proficient",
+      "Innovation",
+      "Competitive",
+      "Analytical skills",
+      "Leadership"
+    ],
+    "name": "Gnana Kartheek Tirumalasetti",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved 5-star rating in SQL on HackerRank"
+    ],
+    "publications": [
+      "An Empirical Study of Precision Agriculture Link"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Computer Science with Specialization in Big data"
+}

@@ -1,0 +1,114 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "VINOD BOCHU",
+  "college": "SRM UNIVERSITY",
+  "locations": [],
+  "full_output": {
+    "summary": "To work in an electronics company where I can efficiently use my skills to contribute my best for the company, gain new skills and expand my knowledge.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "M.L.N. HIGH SCHOOL",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "VISWASAI JUNIOR COLLEGE",
+        "endDate": "2019",
+        "maximum_grade": "10",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.7/10",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Multilingual Translation System",
+        "description": "This core project involved developing a comprehensive solution using Raspberry Pi to create a system that accurately translates American Sign Language and Braille into English and vice versa. We included basic data such as symbols and alphabets to support accurate translation and enhance system functionality.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real-World ATM simulation program in C",
+        "description": "We developed an ATM simulation program in C that mimics basic banking operations such as withdrawals, deposits, and balance inquiries.Implemented user authentication and transaction logging features to simulate real-world ATM interactions.Showed skill in managing program flow, handling user inputs, and using system functions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CARRY LOOK AHEAD ADDER",
+        "description": "A carry-look-ahead adder in Verilog using Vivado reduces carry propagation time by calculating carry bits in parallel, enhancing speed for sum calculations of larger value bits. It optimizes digital logic circuits by precomputing carry signals, improving efficiency in high-speed arithmetic operations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VIVALDI ANTENNA",
+        "description": "Designed and optimized a Vivaldi antenna using CST Microwave Studio, incorporating an exponential taper profile to enhance wideband performance at low frequencies. By accurately computing the antennas far-field pattern and impedance, achieved superior results compared to existing research, demonstrating exceptional broad frequency matching and improved efficiency over benchmark designs.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "APSSDC INTERN",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "During this internship, I worked on a project focused on measuring humidity value, which indicates the water level in the soil. Using an Arduino Uno microcontroller, We implemented this system that measures humidity value using a soil moisture sensor to control a motor, turning it on or off for watering plants.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "Python(Basic level)",
+      "Verilog(Basic level)",
+      "VHDL(Basic level)",
+      "Vivado",
+      "Cadence Virtuoso",
+      "CST",
+      "Matlab"
+    ],
+    "soft_skills": [],
+    "name": "VINOD BOCHU",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

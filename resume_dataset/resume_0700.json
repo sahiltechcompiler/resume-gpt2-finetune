@@ -1,0 +1,126 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shrey Khandelwal",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Agra, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mastering Data Structures and Algorithms using C and C++",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Modern React and Redux",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "Dec. 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Crowdfunding using Blockchain",
+        "description": "Developed decentralized crowdfunding platform using Next.js, Tailwind CSS, with Smart Contracts deployed on Polygon server for transparent and secure fundraising. Integrated MetaMask wallet for seamless Ethereum interaction, empowering users to manage assets effortlessly. Hosted the project on Red Hat infrastructure, ensuring reliability and scalability for users.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "GraphSaga",
+        "description": "Made a user-friendly application in ReactJS for visualizing various path-finding algorithms and their tradeoffs. Developed a visualization tool to explore algorithms like BFS, DFS, Dijkstra, A*, Greedy BFS, and Bidirectional Greedy Search, along with maze-generating algorithms such as Random and Recursive Maze Division.",
+        "keywords": [],
+        "endDate": "Jan 2024",
+        "startDate": "Nov 2023",
+        "url": ""
+      },
+      {
+        "name": "Travel Advisor",
+        "description": "Created an application in ReactJS using Rapid API which recommends attraction points based on user location. Integrated client-side filtering and sorting functionalities for API results, presenting information in card format with the ability to sort hotels and restaurants based on global ratings using dropdown.",
+        "keywords": [],
+        "endDate": "Aug 2023",
+        "startDate": "June 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [
+          "DBMS",
+          "Operating System",
+          "Computer Networks",
+          "OOPS",
+          "Software Engineering",
+          "Web Designing"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Codsoft",
+        "description": "Designed and launched an engaging landing page for a client project, resulting in increased user engagement by 20%. Developed a professional portfolio website to showcase personal projects and skills. Collaborated on the development of a fully functional travel booking website, incorporating features such as flight and hotel reservations and user authentication.",
+        "location": "Agra, Uttar Pradesh",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Front End Developer",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "EngineerHUB",
+        "description": "Designed the company website, implementing user-friendly design principles and ensuring cross-browser compatibility. Lead a small team in the management domain, overseeing the recruitment and hiring process for various positions within the company, including roles for student hires. Implemented SEO techniques and optimized website content, resulting in a 25% increase in organic traffic to the website.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "ReactJS",
+      "Python",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "Shrey Khandelwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 3rd position out of 500+ teams in the Tech-A-Thon hackathon.",
+      "Solved 500+ Problems on Data Structure and Algorithms on multiple platforms."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2020.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Science"
+}

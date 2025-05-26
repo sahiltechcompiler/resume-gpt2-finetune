@@ -1,0 +1,137 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Neel Tomar",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Sheridan, WY",
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.0",
+        "field_of_study": "Information Technology",
+        "startDate": "Aug. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "MetisAi",
+        "description": "Developed an AI-powered browser extension that interacts with backend APIs to fetch, analyze, and return real-time insights from active tabs. Utilized GPT API and JavaScript to handle backend requests, ensuring secure and optimized data flow.",
+        "keywords": [
+          "GPT API",
+          "JavaScript",
+          "Node.js"
+        ],
+        "endDate": "Feb. 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Notes App",
+        "description": "Designed and implemented a RESTful backend with Node.js and MongoDB for a mobile application to manage notes efficiently. Handled user authentication, database management, and real-time syncing across devices.",
+        "keywords": [
+          "Flutter",
+          "MongoDB",
+          "Node.js"
+        ],
+        "endDate": "Jan. 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Geo-tagging Website",
+        "description": "Built a backend API for a geo-tagging platform, allowing users to submit and query camera locations on an interactive map. Incorporated machine learning models to analyze camera feeds and detect objects of interest, integrating ML models using Python and Flask for API services.",
+        "keywords": [
+          "JavaScript",
+          "ML",
+          "Node.js"
+        ],
+        "endDate": "Dec. 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "Developed a full-stack e-commerce platform supporting product listing, cart functionality, and payment processing using React and Node.js.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "Nov. 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Engineer Intern",
+        "skillsUsed": [
+          "Node.js",
+          "Express",
+          "AWS"
+        ],
+        "endDate": "Present",
+        "company_name": "Venus Tech",
+        "description": "Developed and maintained scalable, high-performance web applications for backend systems, improving data flow efficiency by 25%. Created and optimized backend APIs using Node.js and Express to support new features and microservices architecture. Assisted in the design and integration of AI-based modules for automated content analysis and threat detection. Led a project to integrate AWS-based services for secure data storage, reducing infrastructure costs by 10%. Collaborated with cross-functional teams (frontend, product, and design) to design, build, and deploy new features across platforms.",
+        "location": "Sheridan, WY",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "React",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "Sep 2023",
+        "company_name": "Ministry of Housing and Urban Affairs",
+        "description": "Developed an e-commerce platform for MSMEs using React and Node.js, supporting 500+ vendors across the country. Implemented secure backend functionalities for product listings and transactions using Node.js and MongoDB. Worked directly with senior government officials to define technical requirements and adjust for real-world practicality. Led on-site meetings to ensure real-time platform functionality, coordinating with the dev team and stakeholders.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "C++",
+      "Python",
+      "SQL",
+      "Node.js",
+      "React",
+      "Express",
+      "Flutter",
+      "MongoDB",
+      "AWS",
+      "Docker",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Neel Tomar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "DevFest 2nd Runners Up Feb. 2024 Placed second in a national hackathon for the development of MetisAi, showcasing backend and API integration expertise.",
+      "Rajasthan Police Hackathon 1.0 Finalist Nov. 2023 - Jan. 2024 Developed a geo-tagging solution for monitoring public safety using machine learning and backend services, advancing to the final round."
+    ],
+    "publications": []
+  },
+  "current_location": "Noida, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

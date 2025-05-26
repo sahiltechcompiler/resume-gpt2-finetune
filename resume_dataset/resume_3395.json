@@ -1,0 +1,156 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Animay Patel",
+  "college": "KIET Group of Institution",
+  "locations": [
+    "Remote",
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Essentials in C++",
+        "issuer": "Cisco",
+        "certiLink": "cisco.com/certificate"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "Udemy",
+        "certiLink": "udemy.com/certificate"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures",
+        "issuer": "Coursera",
+        "certiLink": "coursera.com/certificate"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Servicenow Administration",
+        "issuer": "ServiceNow",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institution",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA: 7.2/10.0",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "St. Xaviers Senior Secondary School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Quizzz",
+        "description": "Developed a Front-End web app for random mathematical quiz questions. Experimented with APIs and gathered feedback.",
+        "keywords": [
+          "JavaScript",
+          "HTML/CSS",
+          "API"
+        ],
+        "endDate": "2020",
+        "startDate": "June",
+        "url": "github.com/QuizWeb"
+      },
+      {
+        "name": "Travel Log Application",
+        "description": "Developed a full-stack Travel Log Application enabling users to document and share travel experiences. Implemented user authentication using JWT and Google Maps API for geotagging. Utilized AWS S3 for media storage.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [
+          "Python Programming",
+          "numpy",
+          "pandas",
+          "Matplotlib"
+        ],
+        "endDate": "09/2022",
+        "company_name": "YBI Foundation",
+        "description": "A 1-month virtual internship about the brief knowledge of the Data Analytics domain. Executed 5+ assignments assigned by the trainer during the internship period to get the completion certificate. Learned about: Python Programming and 2 ML libraries, numpy, pandas and Matplotlib.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "08/2022"
+      },
+      {
+        "role_name": "Participant",
+        "skillsUsed": [],
+        "endDate": "07/2023",
+        "company_name": "ESG Virtual Experience Program",
+        "description": "Completed virtual modules on Environmental, Social, and Governance (ESG) issues. Developed an understanding of ESG criteria and its impact on corporate decision-making. Analyzed case studies on sustainable business practices.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "06/2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "JavaScript",
+      "HTML/CSS",
+      "Git/GitHub",
+      "Node.js",
+      "MongoDB",
+      "VS Code",
+      "React",
+      "Express.js",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "Animay Patel",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 200+ DSA questions on LeetCode, CodeChef, Codeforces.",
+      "Secured 4th rank in Ideatex, a platform for student entrepreneurs."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

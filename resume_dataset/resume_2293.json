@@ -1,0 +1,124 @@
+{
+  "project_count": 2.0,
+  "designation": "Program Developer",
+  "name": "Ankit Kumar",
+  "college": "Noida Institute and Engineering",
+  "locations": [
+    "Greater Noida",
+    "New Delhi, Delhi"
+  ],
+  "full_output": {
+    "summary": "Targeting Program Developer roles with an organization of high repute with a scope of improving knowledge and further career growth.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute and Engineering",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (B.Tech.)",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Delhi Government School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Senior Secondary (XII)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Science",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Government School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Secondary (X)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Shopping Website",
+        "description": "Implemented functionality allowing users to browse various games based on their preferences. Additionally, integrated login and signup features to authenticate and verify existing users.",
+        "keywords": [
+          "React",
+          "MongoDB Atlas",
+          "Tailwind",
+          "Node.js",
+          "express.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sorting Visualizer",
+        "description": "Created a web application using HTML, CSS, Javascript to visualize how selection sort algorithm works.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Node.js"
+        ],
+        "endDate": "20 July 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Developed a Doctor Appointment website using Node.js, enabling users to schedule appointments, manage date and time preferences, and view upcoming appointments. Acquired practical skills in Node.js through mentoring from industry professionals. Enhanced proficiency and knowledge in Node.js programming techniques and best practices.",
+        "location": "Remote (Work from Home)",
+        "links": "",
+        "startDate": "20 May 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "JavaScript",
+      "React",
+      "Express",
+      "Nodejs",
+      "HTML",
+      "CSS",
+      "Tailwind"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Adaptability",
+      "Creative Thinking",
+      "Motivation",
+      "Critical Thinking"
+    ],
+    "name": "Ankit Kumar",
+    "position": "Program Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, Delhi",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology (B.Tech.)"
+}

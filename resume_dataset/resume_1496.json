@@ -1,0 +1,119 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Gagandeep Singh",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Faridabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.30/10",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Modern Vidya Niketan Aravali Hills",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary (XII)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87.00%",
+        "field_of_study": "Science",
+        "startDate": ""
+      },
+      {
+        "school": "Modern Vidya Niketan Aravali Hills",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary (X)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "87.00%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Cross Platform Excel Clone",
+        "description": "Created a cross-platform Spreadsheet application using electron that could run on Linux, Mac and windows. Used Jquery, HTML and CSS for UI and adding functionalities to our app. Used Graph and Stack Data Structure to implement excel Formula.",
+        "keywords": [
+          "Jquery",
+          "HTML",
+          "CSS",
+          "Graph",
+          "Stack Data Structure"
+        ],
+        "endDate": "Aug 2022",
+        "startDate": "Jul 2022",
+        "url": "https://github.com/gagandeep-123/Excel-Clone"
+      },
+      {
+        "name": "PixyWorld",
+        "description": "An image exploration Web Application created using ReactJS that allows the user to view several random images and find images of the choice.",
+        "keywords": [
+          "ReactJS"
+        ],
+        "endDate": "Aug 2022",
+        "startDate": "Jul 2022",
+        "url": "https://pixyworld.netlify.app/"
+      },
+      {
+        "name": "TechniQ",
+        "description": "A ToDo Web App called TechniQ that helps the user to maintain their task and list everything they have to do. It is helpful in planning the daily schedules efficiently. It gives the user options to Create new task, View all tasks and delete any task.",
+        "keywords": [],
+        "endDate": "Jul 2022",
+        "startDate": "Jul 2022",
+        "url": "https://github.com/gagandeep-123/TechniQ-A-Planner-Buddy"
+      },
+      {
+        "name": "Flexix",
+        "description": "Created an OTT streaming platform where the user can browse through various movies and webseries using javaScript and reactJs. It is a similar version of netix with my own design touch, showing SignIn page, SignUp Page, browse page and a lot more. This uses Firebase Services for user authentication and Cloud Firestore to sync and store the videos.",
+        "keywords": [
+          "JavaScript",
+          "ReactJS",
+          "Firebase"
+        ],
+        "endDate": "Present",
+        "startDate": "Apr 2024",
+        "url": "https://github.com/gagandeep-123/netixgpt.git"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "ReactJS",
+      "GitHub",
+      "jQuery",
+      "CSS",
+      "MySQL",
+      "Bootstrap",
+      "Git",
+      "HTML",
+      "JavaScript",
+      "React Native"
+    ],
+    "soft_skills": [],
+    "name": "Gagandeep Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Faridabad",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

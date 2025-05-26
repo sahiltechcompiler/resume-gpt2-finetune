@@ -1,0 +1,116 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Deep Patange",
+  "college": "Shah and Anchor College of Engineering (SAKEC)",
+  "locations": [
+    "Mumbai, Maharashtra",
+    "Virtual Internship"
+  ],
+  "full_output": {
+    "summary": "An Aspiring and Innovative individual, Passionate about programming from a very young age, with proven skill in evaluating requirements for data science and AI projects to design innovative solutions. Out-of-the-box thinker and problem solver dedicated to improving knowledge and performance with efficiency. Along with being a Team Player who consistently delivers to deadlines.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor College of Engineering (SAKEC)",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Mumbai, Maharashtra",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.5",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI Doctor",
+        "description": "Implemented Naive Bayes and Decision Tree algorithms to analyze patient data, encompassing critical factors like age, gender, and medical history, resulting in highly accurate disease predictions with an impressive precision rate of 92% and providing tailored medication suggestions, leading to a 20% reduction in adverse reactions and a 15% improvement in overall patient outcomes.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "Django"
+        ],
+        "endDate": "May 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Digital Eyes",
+        "description": "Led the creation of an innovative project aiding visually impaired individuals, utilizing computer vision and the COCO dataset for real-time object and people detection with a 95% accuracy rate. Successfully integrated audio output into the project, delivering aural feedback to enhance accessibility and independence for blind users.",
+        "keywords": [
+          "Python",
+          "Computer vision"
+        ],
+        "endDate": "Nov 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI Studios",
+        "description": "Designed and implemented a poem generator, story generator, and image generator, providing users with a wide array of unique and engaging content. Developed a movie generator service by leveraging cutting-edge technologies such as the Google Text-to-Speech API for text generation and incorporating the DALLE API for advanced image generation capabilities.",
+        "keywords": [
+          "Python",
+          "OpenAI",
+          "API"
+        ],
+        "endDate": "May 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [
+          "Python",
+          "openpyxl",
+          "Excel",
+          "xlwings",
+          "numpy",
+          "pandas"
+        ],
+        "endDate": "Mar 2023",
+        "company_name": "Creative Finserve Pvt. Ltd.",
+        "description": "Played a crucial role as a Data Scientist intern at Creative FinServe, focusing on extracting and analyzing data from bank statements. Utilized Python programming skills along with tools such as openpyxl, Excel, xlwings, numpy, and pandas to efficiently process and manipulate the extracted data. Developed 85% of the code for data transformation and analysis, enabling comprehensive summaries and reports for informed decision-making in the financial sector.",
+        "location": "Mumbai, Maharashtra",
+        "links": "",
+        "startDate": "Oct 2022"
+      },
+      {
+        "role_name": "Data Analytics Consulting Virtual Internship",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "KPMG",
+        "description": "Independently designed and developed an interactive dashboard using Tableau, enabling data-driven decision-making for a confidential clients Data Analytics Consulting project. Conducted comprehensive data analysis on a vast dataset, identifying valuable patterns and correlations, and providing meaningful insights to support the client in making informed decisions, leading to a 75% increase in profitability.",
+        "location": "Virtual Internship",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "C",
+      "HTML/CSS",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "Seaborn",
+      "Scikit-learn"
+    ],
+    "soft_skills": [],
+    "name": "Deep Patange",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Engineering"
+}

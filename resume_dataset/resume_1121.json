@@ -1,0 +1,169 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Deboleen Bhowal",
+  "college": "Central University of Rajasthan",
+  "locations": [
+    "Bengaluru, Karnataka",
+    "Ajmer",
+    "Tezpur",
+    "Maligaon, Guwahati"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Technical Skills",
+        "issuer": "Central University of Rajasthan, Ajmer",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Technical Skills",
+        "issuer": "Central University of Rajasthan, Ajmer",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Technical Skills",
+        "issuer": "Tezpur University, Tezpur",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Central University of Rajasthan",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "M.Sc. in Computer Science(Specialization in Big Data Analytics)",
+        "location": "Ajmer",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Tezpur University",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Integrated B.Sc. and B.Ed",
+        "location": "Tezpur",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Mathematical Sciences",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya, NFR Maligaon",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Science",
+        "location": "Maligaon, Guwahati",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "AISSCE (XII)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Comprehensive Performance Forecasting System",
+        "description": "Developed a robust ML pipeline to evaluate and predict student outcomes, optimizing model selection for the highest accuracy. Compared different ML algorithms and chose the best algorithm which had the best r2 score.",
+        "keywords": [],
+        "endDate": "May, 2024",
+        "startDate": "February, 2024",
+        "url": "Check out the project on GitHub"
+      },
+      {
+        "name": "Advanced Sentiment Analysis Engine for Emails",
+        "description": "Designed a sophisticated classification system to assess email sentiment, quantifying positivity levels effectively.",
+        "keywords": [],
+        "endDate": "May, 2024",
+        "startDate": "February, 2024",
+        "url": "Check out the project on GitHub"
+      },
+      {
+        "name": "Intelligent Text Data Extraction and Analysis Platform",
+        "description": "Engineered a powerful tool for extracting and analyzing text from URLs, providing in-depth data insights.",
+        "keywords": [],
+        "endDate": "May, 2024",
+        "startDate": "February, 2024",
+        "url": "Check out the project on GitHub"
+      },
+      {
+        "name": "Comprehensive Real Estate Valuation Predictor",
+        "description": "Constructed a dynamic model utilizing diverse datasets to accurately forecast housing market prices.",
+        "keywords": [],
+        "endDate": "May, 2024",
+        "startDate": "February, 2024",
+        "url": "Check out the project on GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Velocity",
+        "description": "Developed an AI calling agent for Indian languages, which automated 60% of manual customer calls in the organisation. Enhanced system performance by caching LLM with contextual data, reducing average latency of calls by 35% with average cache hit of 40% of responses during a call. Improved model accuracy by 20% through comprehensive POCs on different models and their implementations. Enhanced response precision by 20% with optimized prompt designs and reduced hallucinations by 40%. Expanded language coverage by fine-tuning TTS on Hindi and Telugu datasets through audio dataset preparation and cleaning/processing of 10 hours of audio dataset for each language.",
+        "location": "Bengaluru, Karnataka",
+        "links": "",
+        "startDate": "May, 2024"
+      },
+      {
+        "role_name": "AI and Simulations Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Radhashri Tech Hub (RTH) Pvt Ltd",
+        "description": "Prepared audio datasets for English, Hindi, Bengali and Telugu languages. Fine-tuned a TTS model on different Indian languages.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "R",
+      "HTML",
+      "MySql",
+      "Excel",
+      "Data Visualization",
+      "Data Handling and Analysis",
+      "Natural Language Processing (NLP)",
+      "Large Language Models (LLM)",
+      "Web Scrapping",
+      "Image Processing",
+      "Automatic Speech Recognition (ASR)",
+      "Text-to-Speech (TTS)",
+      "Github",
+      "Prompt Engineering",
+      "Synthetic Data Preparation",
+      "Redis",
+      "Vector DB",
+      "Data Management"
+    ],
+    "soft_skills": [],
+    "name": "Deboleen Bhowal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "M.Sc. in Computer Science(Specialization in Big Data Analytics)"
+}

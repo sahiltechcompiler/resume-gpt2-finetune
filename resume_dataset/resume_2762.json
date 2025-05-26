@@ -1,0 +1,180 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Janshi M L",
+  "college": "Chennai Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA 1 Network Fundamentals",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA2 Routing and Switching",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for AI & Data Science",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "UI & UX",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA3 Enterprise networking security and automation",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Programming",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:8.3",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "YouTube Transcriber Summarizer",
+        "description": "An advanced Streamlit application seamlessly converts YouTube video transcripts into comprehensive notes using Google Gemini Pro. It intelligently extracts video IDs from URLs. Fetches transcripts through the YouTube Transcript API, and generates summaries based on predefined prompts. This innovative tool boasts a remarkable 40% surge in user engagement and a staggering 37% reduction in time.",
+        "keywords": [
+          "Python",
+          "Streamlit",
+          "LLM",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "My SQL",
+          "PostgreSQL"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sports celebrity Classification",
+        "description": "A pioneering sports celebrity classification initiative, driven by advanced technology. Achieved a remarkable 35% enhancement in accuracy. Coupled with an impressive 34% reduction in processing time.",
+        "keywords": [
+          "SVM",
+          "GridSearchCV",
+          "OpenCV",
+          "Python",
+          "Cascade"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Yummy-Tummy",
+        "description": "An innovative food delivery application transforms the industry landscape through React.js, Node.js/Express, My SQL, Stripe. Delivering a notable 32% performance surge and slashing deployment time by 59%, it effortlessly accommodates up to 9,000 users.",
+        "keywords": [
+          "ReactJs",
+          "Node.Js",
+          "My SQL",
+          "Stripe"
+        ],
+        "endDate": "Sep 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chatbot",
+        "description": "The Python Rag LLM Groq Inference Engine debuted, responding within 2 seconds. With an impressive 76% accuracy, it analyzes user emotions and provides precise content recommendations. Enhanced by a sleek interface, it cuts loading times by 39%, ensuring a smooth and captivating user experience.",
+        "keywords": [
+          "Python",
+          "Rag",
+          "LLM",
+          "Groq Inference Engine"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [
+          "data analytics",
+          "machine learning",
+          "problem solving"
+        ],
+        "endDate": "Mar 2024",
+        "company_name": "Oasis Infobyte",
+        "description": "During my internship, I undertook three key projects, Customer Segmentation, Fraud detection and House price prediction. These projects involved applying data analytics techniques to identify patterns, detect anomalies and predict outcomes. Through these experiences, I honed my skills in data analytics, machine learning and problem solving, contributing valuable insights to each project.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "Python Libraries",
+      "PowerBI",
+      "Git",
+      "VSCode",
+      "Canva",
+      "Excel",
+      "EDA",
+      "Machine Learning",
+      "Statistics"
+    ],
+    "soft_skills": [],
+    "name": "Janshi M L",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

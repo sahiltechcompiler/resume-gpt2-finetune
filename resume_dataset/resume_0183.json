@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Varshith Jonnalagadda",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Salesforce Developer Virtual Internship Certificate",
+        "issuer": "",
+        "certiLink": "View"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "APSSDC Django Web Development Internship Certificate",
+        "issuer": "",
+        "certiLink": "View"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.77/10.0",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gold Mine Game Design",
+        "description": "Led project which aims to boost the efficiency of gold collecting by upto 75% using Q-learning methods. Created an intelligent ML agent that can dynamically update its strategies according to current status.",
+        "keywords": [
+          "python",
+          "numpy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Stock Price Analysis",
+        "description": "Done Exploratory Data Analysis on particular stock and used Plotly to visualize prices & other metrics. Optimize for performance, especially with large datasets reducing manual time consumption by 90%.",
+        "keywords": [
+          "python",
+          "pandas",
+          "plotly"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blood Bank Management System",
+        "description": "Developed a Blood Bank Management connecting SQL to HTML,CSS using php and JavaScript. Launched the application on an Apache XAMPP server with 0 errors and 90% donor satisfaction.",
+        "keywords": [
+          "php",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Salesforce Developer Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "SmartBridge",
+        "description": "Created and customized applications using Apex, Visualforce, and Lightning Web Components. Visualised user-friendly interfaces resulting in a 25% increase in user satisfaction scores. Deployed 5 custom applications meeting user requirements and increasing operational efficiency by 15%.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Web Developement Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "Engaged in APSSDC Summer Workshop on Python Web Development using Django. Developed a 100% functional Hospital Management System with URLs, forms, MySQL integration. Reduced page load times by 55% through optimized database queries and caching mechanisms.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Typescript",
+      "php"
+    ],
+    "soft_skills": [],
+    "name": "Varshith Jonnalagadda",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

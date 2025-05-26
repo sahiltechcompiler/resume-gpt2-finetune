@@ -1,0 +1,99 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Himanshu Dhakad",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Remote",
+    "Indergarh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech (Hons)",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.5",
+        "field_of_study": "Computer Science and Engineering with IOT and Intelligent Systems",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Minor Project Management System",
+        "description": "Led the development of a project management system tailored for small teams, facilitating task organization, tracking, and resource management. Developed backend functionalities with Node.js and MySql, enabling seamless data storage and retrieval.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Node.js",
+          "MySql"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Collaborative Code Editor",
+        "description": "Real-time collaborative code editor designed for seamless teamwork on programming projects. Users can edit code simultaneously, view changes made by collaborators instantly, and communicate through an integrated chat feature. Supports syntax highlighting for various programming languages and includes version control to manage and track changes effectively.",
+        "keywords": [
+          "React",
+          "Node Js",
+          "Web sockets"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hospital Management System using MySql",
+        "description": "Led the development of a comprehensive hospital management system to streamline patient records, appointments, and inventory management. Achieved a 15% improvement in patient scheduling accuracy and a 25% reduction in inventory discrepancies. Achieved successful implementation and deployment of the system in the private hospital Sai Nath Hospital, Indergarh contributing to improved operational efficiency, patient care, and resource utilization.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Celebal Technologies",
+        "description": "During my summer internship at Celebal Technologies, I had the opportunity to work within the Node.js domain, where I gained hands-on experience in backend development and enhanced my understanding of server-side programming. My primary responsibility was the development of a collaborative code editor, a sophisticated tool designed to enable real-time code editing by multiple users. This project required the integration of several advanced features, including real-time editing capabilities, syntax highlighting, version control, and an integrated chat functionality. These features were essential for creating a seamless and efficient collaborative environment for developers.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Frontend Development (HTML, CSS, JavaScript, TypeScript, Reactjs)",
+      "Backend Development (Node.js, Express)",
+      "Developer Tools (Git, Github, Firebase, Google Cobal, Arduino)",
+      "Databases (MySQL, MongoDB)",
+      "Data Structures and Algorithms (C++)",
+      "Artificial Intelligence (Markup Language, Machine Learning)"
+    ],
+    "soft_skills": [],
+    "name": "Himanshu Dhakad",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Qualified NPTEL Exam for Design and Analysis of Algorithms (IIT Madras)",
+      "Deans Excellence in Academics awarded for 9 CGPA"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech (Hons)"
+}

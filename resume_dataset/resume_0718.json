@@ -1,0 +1,139 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Bhavya Sri Nelluri",
+  "college": "SRM University,AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Highly motivated and adaptable student with expertise in technical skills to deliver successful projects. Eager to contribute and collaborate effectively within a dynamic team environment.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python problem solving",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University,AP",
+        "endDate": "present",
+        "maximum_grade": "947/1000",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.05/10",
+        "field_of_study": "computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior college",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "9.7/10",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Oxford English Medium High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fake Face Generation",
+        "description": "Trained a Deep Convolutional Generative Adversarial Network (DCGAN) to generate realistic fake faces. Achieved this by training the model on a real-world face dataset, exploring DCGANs capability of producing lifelike facial images.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Library Management System",
+        "description": "Developed a full-stack Library Management System, which implement user interfaces for searching, managing books, and user accounts both admin and student can use this application Develop a robust backend for data storage, retrieval, and user interactions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "3D Stack",
+        "description": "Developed a captivating 3D stack game using web technologies. using HTML, CSS and JavaScript it is stacking game where players need to balance objects on top of each other.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analysis using Python",
+        "skillsUsed": [
+          "Python",
+          "data cleaning",
+          "data manipulation",
+          "data visualization",
+          "statistical analysis"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Utilized Python and its libraries for data cleaning, manipulation, and visualization. Conducted statistical analysis and generated reports to extract actionable insights from large datasets.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Bharat Intern",
+        "description": "Developed and maintained responsive websites using HTML, CSS, JavaScript. Created a temperature converter application and designed a Netflix homepage replica ensuring a responsive and visually appealing interface.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "C",
+      "JavaScript"
+    ],
+    "soft_skills": [
+      "Communication Skills",
+      "Project Management",
+      "Decision Making",
+      "Excel"
+    ],
+    "name": "Bhavya Sri Nelluri",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

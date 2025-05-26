@@ -1,0 +1,121 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "LAKSHYA SHARMA",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh",
+    "Kota, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.0/10",
+        "field_of_study": "Computer Science and Engineering with specialization in Cloud Computing",
+        "startDate": "2021"
+      },
+      {
+        "school": "Mittal International School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "Kota, Rajasthan",
+        "ID": 1.0,
+        "grade_received": "80.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Serverless Narrator",
+        "description": "Developed a Serverless Blog Narrator application using AWS Cloud Ecosystem that handle up to 3,000 characters of text per request with an average response time of under 200ms. Achieved 99.99% availability for user data via AWS DynamoDB ensuring compliance with industry security standards and On Demand Scalability. Allows User to Save and Download the generated speech. Deployed Backend in Express Environment using Serverless Framework, achieving automatic scaling to handle up to 1,000 concurrent requests.",
+        "keywords": [
+          "Express",
+          "AWS Lambda",
+          "DynamoDB",
+          "Polly",
+          "Serverless Framework"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Demo Link"
+      },
+      {
+        "name": "KeyShield",
+        "description": "Integrated Ethereum blockchain to create a decentralized authentication system, eliminating centralized identity theft risks for 100% of users, and maintaining a tamper-proof ledger. Integrated digital signatures with SHA-256 hashing, providing 100% verification of message authenticity and integrity. Established secure socket connections using TLS 1.3 protocols, reducing potential interception risks, ensuring all data in transit is encrypted and secure across the network.",
+        "keywords": [
+          "Python",
+          "Solidity"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Amazon Price Tracker",
+        "description": "Engineered an Automated E-commerce Price Tracking System using Selenium and Python, enabling users to monitor up to 1000 products concurrently. Established a Scalable Price Alert Mechanism, ensuring instant notifications resulting in a 100% improvement in cost-saving opportunities through instant notifications.",
+        "keywords": [
+          "Python",
+          "Selenium",
+          "Web-Scrapping"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Associate",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "Next Tech Lab",
+        "description": "Collaborated with over 100 students in a multidisciplinary lab, contributing to web development projects as part of a QS- awarded student driven community.",
+        "location": "Amaravati, Andhra Pradesh",
+        "links": "",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Javascript",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Amazon Web Services (AWS)",
+      "React",
+      "Express",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Kubernetes"
+    ],
+    "soft_skills": [],
+    "name": "LAKSHYA SHARMA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received a 100% Merit Scholarship from SRM University to persue B.Tech in CSE.",
+      "Earned Certificate in DBMS for completing Exam conducted by the National Programme on Technology Enhanced Learning.",
+      "Technological Business Hackathon runner up held by AIESEC."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

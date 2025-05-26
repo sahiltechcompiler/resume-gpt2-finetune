@@ -1,0 +1,152 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SAHIL JANAK",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamilnadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Data Analytics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity essentials",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Tableau",
+        "issuer": "Upgrad",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JLPT N5 Certification",
+        "issuer": "Japanese Educational Exchanges and Services",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chennai, Tamilnadu",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4",
+        "field_of_study": "Artificial intelligence and data science",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mern Chat App",
+        "description": "The application features user authentication, including a login and registration page. Supports instant messaging with real-time updates with the help of Socket.io. Provides user active details in real time.",
+        "keywords": [
+          "MongoDB",
+          "Express",
+          "Socket io",
+          "React",
+          "JavaScript",
+          "Tailwind CSS"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "GitHub link"
+      },
+      {
+        "name": "The Custodian",
+        "description": "The application is designed to streamline the process of extracting information from documents and providing accurate responses to user queries. The provided documents are broken into chunks and converted to vector embeddings with the help of GoogleGenerativeAIEmbeddings for efficient information retrieval and answer generation. The queries provided by the user and the answer received from the model are stored inside a MySQL database for documentation and easy access.",
+        "keywords": [
+          "Python",
+          "Streamlit",
+          "ChatGroq",
+          "langchain",
+          "MySQL"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": "GitHub link"
+      },
+      {
+        "name": "Text to music convertor",
+        "description": "The system analyzes the input text to understand its semantic meaning, emotional tone, and key themes. This project leverages Metas Audiocraft library and the MusicGen model to convert user-provided text into musical compositions. Users can apply audio effects such as reverb and echo to the generated music.",
+        "keywords": [
+          "Python",
+          "streamlit",
+          "torch",
+          "numpy",
+          "audiocraft"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": "GitHub link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Lumina Datamatics",
+        "description": "Conducted extensive data analysis on proprietary datasets using Python during internship. Showcased the potential of analytics to extract actionable insights from complex data, driving impactful business decisions. Used Data visualization tools like Tableau to showcase the outcomes of the analysis and potential impacts.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "SQL",
+      "HTML",
+      "CSS",
+      "Python",
+      "Java",
+      "JavaScript",
+      "GitHub",
+      "VS Code",
+      "Tableau",
+      "Jupyter notebook",
+      "MySQL",
+      "Oracle",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "SAHIL JANAK",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed a total of 208 problems in Leetcode.",
+      "Completed a total of 380 problems in Skillrack.",
+      "Successfully passed the Japanese Language Proficiency Test(JLPT) N5 Certification exam.",
+      "Coordinated and managed a Japanese culture quiz event with over 200 participants, resulting in overwhelmingly positive feedback and a successful outcome."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

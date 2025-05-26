@@ -1,0 +1,246 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "ASWIN M",
+  "college": "Chennai Institute Of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React Js",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Express Js",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Node Js",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Linux",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Git/Github",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MongoDB",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Docker",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA 1, CCNA 2 (Cisco)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning and Deep Learning (IBM)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence Fundamentals (IBM)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Essentials of AI in Cloud (IBM)",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.6 CGPA till 5th semester",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "B.A.T.O.S 3.0",
+        "description": "Developed an automation system inspired by SAP and PLM, with streamlined workflows and enhanced features. Implemented role-based access control, ensuring customized task management and user experiences. Features include comprehensive task management for admins, vendor interactions for order tracking and ticket resolution, and manager oversight for workflow monitoring and deadline management. Unique feature: ticket escalation system alerting managers and admins to unresolved issues within 12 hours, fostering timely resolutions, and customer order tracking with installation personnel input for enhanced transparency.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Express.js",
+          "MySQL",
+          "Netlify"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VizIntel",
+        "description": "Integrated LLAMA2 model for seamless CSV interactions, enabling file uploads and data interaction. Created a visual intelligence bot that generates statistical plots with 70% accuracy. Unique feature: Automatically generates statistical plots for each user query, providing visual insights into the data.",
+        "keywords": [
+          "LLAMA2 Model",
+          "Python",
+          "Steamlit",
+          "Statistical Plotting"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ruby Assistance 2.0",
+        "description": "Using OpenAIs and Uneeqs APIs, our Voice Assistant enables seamless interactions with human-like visualization. OpenAIs multi-language support promotes inclusivity and accessibility, catering to a diverse global audience. Unique feature: Offers a conversational experience akin to interacting with a human.",
+        "keywords": [
+          "OpenAI API",
+          "Uneeq API",
+          "Python",
+          "Dialogflow ES",
+          "Ngrok"
+        ],
+        "endDate": "May 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AutoGer (Automate Blogging)",
+        "description": "Leveraged the capabilities of the OpenAI and Blogger APIs to revolutionize content creation and automate posting on Blogger websites, resulting in an impressive 90% reduction in manual workload. Automating content creation transfers knowledge to native languages, aiding learning in underdeveloped regions. Unique feature: Auto-uploads content to Blogger websites via Blogger API.",
+        "keywords": [
+          "OpenAI API",
+          "Blogger API",
+          "Blogger Site Integration",
+          "Python",
+          "Github"
+        ],
+        "endDate": "January 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Associate Intern",
+        "skillsUsed": [
+          "MobaXterm",
+          "Linux",
+          "Microsoft Teams",
+          "shell scripting"
+        ],
+        "endDate": "2025",
+        "company_name": "Capgemini",
+        "description": "Contributed to the Intelsat project, specifically focusing on automation within a particular segment. Developed code to automate commit verification, improving application update speed by 12%. Utilized technologies such as MobaXterm, Linux, Microsoft Teams, and shell scripting.",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Campus Ambassador",
+        "skillsUsed": [],
+        "endDate": "September 2023",
+        "company_name": "placement 360",
+        "description": "Directed and coordinated daily tasks meticulously, ensuring smooth and efficient operations. Provided resources for studying the Software Development Engineer (SDE) role while managing daily operations. Conducted workshops and sessions with peers to enhance leadership and teamwork skills.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [],
+        "endDate": "February 2023",
+        "company_name": "IBM SkillBuild",
+        "description": "Participated in the IBM SkillBuild AI internship, mastering AI fundamentals and adeptly embracing new technologies. Leveraged IBM platforms extensively for learning and hands-on practice during the SkillBuild AI program. Rapidly grasped novel technologies, concepts, and techniques in Artificial Intelligence.",
+        "location": "",
+        "links": "",
+        "startDate": "January 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "JavaScript",
+      "HTML/CSS"
+    ],
+    "soft_skills": [],
+    "name": "ASWIN M",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

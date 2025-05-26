@@ -1,0 +1,180 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Tejaswi G",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Punjab, Jalandhar",
+    "Gandhinagar, Gujarat (Remote)",
+    "Chennai, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Complete Interview Preparation - Self-Paced (DSA)",
+        "issuer": "GFG",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science for Engineers",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM Data Science Data Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analytics and Job Simulation",
+        "issuer": "Accenture",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL (basic)",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Punjab, Jalandhar",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.78",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Velammal Vidyalaya (Chennai)",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "10th Standard",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "88%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Velammal Vidyalaya (Chennai)",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th Standard",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "88%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "HR Analytics Dashboard in Excel, Power BI and Tableau",
+        "description": "Created interactive HR dashboard in Excel. Integrated data sources & cleaned data. Visualized key HR metrics. Collaborated with stakeholders. Supported data-driven decisions. Implemented user-friendly features.",
+        "keywords": [],
+        "endDate": "Jan'24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Predictive Maintenance System for Industrial Equipment",
+        "description": "Data Collection: Gather historical data on equipment operation, sensor readings, and maintenance logs. Preprocessing: Clean data, handle missing values, and engineer relevant features. Modeling: Experiment with various algorithms like logistic regression and random forests for predicting failures. Evaluation: Assess model performance using metrics like accuracy and precision. Deployment: Implement models in production environment for real-time monitoring and decision-making.",
+        "keywords": [
+          "Python",
+          "pandas",
+          "scikit-learn",
+          "TensorFlow",
+          "Jupyter Notebooks"
+        ],
+        "endDate": "Jan'24",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Public Relations Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "SLTL",
+        "description": "Assisted in drafting press materials and managing social media channels. Conducted market research and supported event planning. Contributed to successful project launches and social media campaigns. Developed strong communication and event coordination skills.",
+        "location": "Gandhinagar, Gujarat (Remote)",
+        "links": "",
+        "startDate": "August 2021"
+      },
+      {
+        "role_name": "Internship",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "IBM",
+        "description": "Immersive data science training program at IBM. Gain hands-on experience in machine learning, statistical analysis, and data visualization. Access cutting-edge technologies and resources for data analysis and modeling. Contribute to impactful projects that drive business innovation and growth. Develop valuable skills and insights for a career in data science and analytics.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2021"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "R",
+      "Exploratory Data Analysis",
+      "MySQL",
+      "PostgreSQL",
+      "Tableau",
+      "Power BI",
+      "MS-excel",
+      "Basic ML Algorithms",
+      "Python Libraries",
+      "Jupyter Notebooks"
+    ],
+    "soft_skills": [
+      "Problem-Solving Skills",
+      "Communication",
+      "Project Management",
+      "Adaptability",
+      "Team Player"
+    ],
+    "name": "Tejaswi G",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Took part in the competitive event for data analysis offline and created a full-fledged working model with various different background field students.",
+      "Created Hallucination detection Model using Machine Learning",
+      "5 Star rating in SQL on HackerRank"
+    ],
+    "publications": []
+  },
+  "current_location": "Chennai, Tamil Nadu",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

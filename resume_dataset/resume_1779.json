@@ -1,0 +1,149 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "KESHAV JHA",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "New Delhi",
+    "Faridabad"
+  ],
+  "full_output": {
+    "summary": "Dedicated and hardworking computer science student with a strong focus on data science. Eager to apply my programming skills and analytical abilities to develop impactful software solutions. Passionate about continuous learning and growth, I aim to contribute to innovative projects within a dynamic and collaborative environment, driving success through determination and a positive attitude.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Visualization with python",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to NOSQL databases",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "7.45 CGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Government CoEd senior secondary school",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "82.5 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Ashok memorial public school",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 10",
+        "location": "Faridabad",
+        "ID": 2.0,
+        "grade_received": "84.5 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E Mail Spam Detection",
+        "description": "Developed an ML model to detect spam emails. Implemented algorithms such as Naive Bayes and Random Forest using Scikit-Learn. Preprocessed data using Pandas, improving model efficiency by 20%. Evaluated model performance with confusion matrix and ROC-AUC curve.",
+        "keywords": [
+          "Python",
+          "Sklearn",
+          "Pandas"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Disease Classification Using CNN Model",
+        "description": "Developed an advanced CNN model for disease classification with a 97.2% accuracy. Implemented VGG16 architecture for robust feature extraction and classification. Preprocessed and augmented datasets to optimize model performance. Evaluated model efficiency using standard metrics such as confusion matrix and ROC-AUC curve.",
+        "keywords": [
+          "python",
+          "tensorflows",
+          "keras",
+          "VGG16"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "SQL",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Statistical Analysis",
+      "Machine Learning",
+      "Deep Learning",
+      "Power BI",
+      "Google colaboratory",
+      "Jupyter Notebook",
+      "Visual Studio Code",
+      "MATLAB",
+      "SQL",
+      "NoSQL",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Collaboration",
+      "Adaptability",
+      "Effective Communication"
+    ],
+    "name": "KESHAV JHA",
+    "position": "",
+    "interests": [
+      "Chess",
+      "Badminton",
+      "Music",
+      "Cooking"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Faridabad, Haryana",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B. Tech"
+}

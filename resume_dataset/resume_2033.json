@@ -1,0 +1,110 @@
+{
+  "project_count": 2.0,
+  "designation": "entry-level software engineer",
+  "name": "B Hemanth Kumar",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Strong in design and integration with intuitive problem-solving skills.Proficient in software engineering principles and design integration. Skilled in applying data structures, algorithms, and machine learning techniques to solve complex problems.Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "10.0",
+        "degree": "Electronics and Communication Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.73/10.0",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Board of intermediate education, Andhra Pradesh",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "10.00 GPA",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Secondary board of education, Andhra Pradesh",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Algorithm Visualizer",
+        "description": "Developed an interactive algorithm visualizer using JavaFX, allowing users to visualize the step-by-step execution of sorting algorithms like Selection Sort, Bubble Sort, and Merge Sort. The application features a user-friendly interface, enabling real-time input manipulation and adjustable speed controls for enhanced learning of algorithmic behavior and complexity. Built using Java 22 and IntelliJ, the project demonstrates strong object-oriented programming skills and proficiency in JavaFX for creating dynamic visual applications.",
+        "keywords": [
+          "JavaFX",
+          "Sorting Algorithms",
+          "Object-Oriented Programming"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Credit Card fraud detection using Machine Learning Algorithms",
+        "description": "Developed a machine learning model to detect fraudulent credit card transactions. Utilized a dataset acquired from Kaggle and implemented various algorithms including Decision Tree, K-Nearest Neighbors (KNN), XGBoost, and Random Forest. Analyzed the performance of each model to identify the most effective algorithm for fraud detection.",
+        "keywords": [
+          "Machine Learning",
+          "Fraud Detection",
+          "Data Analysis"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "C",
+      "Java",
+      "JavaScript",
+      "python",
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Demonstrated proficiency in development by creating and maintaining user-friendly and visually appealing web applications. Successfully implemented functionalities to enhance customer experience and streamlined processes. Additionally, honed problem-solving skills through effective debugging and issue resolution, ensuring smooth and efficient website operations.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Data Structures and Algorithms",
+      "VLSI",
+      "Machine Learning",
+      "Problem Solving"
+    ],
+    "soft_skills": [],
+    "name": "B Hemanth Kumar",
+    "position": "entry-level software engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Electronics and Communication Engineering"
+}

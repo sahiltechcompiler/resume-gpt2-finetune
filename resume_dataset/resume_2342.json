@@ -1,0 +1,112 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Sriansh Raj",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025/07",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021/08"
+      }
+    ],
+    "projects": [
+      {
+        "name": "SpeedShop",
+        "description": "Developed an in-store shopping assistance application that guides customers to products through real-time navigation and offers personalized recommendations using machine learning algorithms. Implemented a product categorization and recommendation system that enhances customer experience by providing tailored suggestions based on shopping preferences and behavior. Optimized in-store navigation using an efficient pathfinding algorithm, reducing customer shopping time by offering the shortest routes to products across multiple store floors.",
+        "keywords": [
+          "Flutter",
+          "Flask",
+          "Python",
+          "Figma",
+          "Deep Learning"
+        ],
+        "endDate": "present",
+        "startDate": "2024/05",
+        "url": ""
+      },
+      {
+        "name": "Automatic Number Plate Detection",
+        "description": "Built a real-time number plate recognition system that detects and recognizes vehicle plates with high accuracy. Integrated deep learning-based models to automate the verification of vehicle documents, improving efficiency. Utilized image processing techniques like edge detection and character recognition to process number plates.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "deep learning",
+          "machine learning models"
+        ],
+        "endDate": "2024/04",
+        "startDate": "2024/01",
+        "url": ""
+      },
+      {
+        "name": "Smart Navigator",
+        "description": "Developed an indoor navigation app for visually impaired users to find directions in unknown buildings or workspaces. Integrated location tracking and accessible navigation features, ensuring minimal visual interaction for enhanced user experience. Designed a user-friendly interface that focuses on accessibility, offering real-time guidance to users.",
+        "keywords": [
+          "Flutter",
+          "Dart"
+        ],
+        "endDate": "2023/12",
+        "startDate": "2023/10",
+        "url": ""
+      },
+      {
+        "name": "Maze Rover",
+        "description": "Designed and developed a maze-solving rover using autonomous navigation algorithms for real-time obstacle detection and decision-making. Implemented intelligent navigation where the rover turns left when a wall is detected in front and makes a 180-degree right turn when blocked on the left. Programmed the rover to navigate mazes with 90-degree turns, enhancing its ability to handle complex environments.",
+        "keywords": [
+          "C++",
+          "Arduino board",
+          "ultrasonic sensors"
+        ],
+        "endDate": "2022/12",
+        "startDate": "2022/09",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "JAVA",
+      "Javascript",
+      "Flutter",
+      "Dart",
+      "Python",
+      "SQL",
+      "OOPs"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication skills",
+      "Time Management"
+    ],
+    "name": "Sriansh Raj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "JK Pal Memorial Award Given by Prof. AQ Ansari , Chairperson IEEE Delhi Section for most distinguished performance under IEEE MUJ.",
+      "2nd Runner up in WHAT THE HACK A 3 day hackathon organized by IEEE SB MUJ , more than 732 participants.",
+      "Actively engaged in a 3 months Hackathon by DELL. Total participants 100 , was mentored by the Technical Head of Dell Technologies.",
+      "Best UI in Revamp conducted by IEEE SB MUJ.",
+      "100 days badge by Leetcode , awarded to top 4.2% of leetcoders.",
+      "Solved 200+ problems on Leetcode."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,159 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Raghav Awasthi",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "7.43",
+        "field_of_study": "Computer Science and Technology",
+        "startDate": "Sep. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Exam Portal",
+        "description": "A MCQ-based software to recruit 2nd year students in the college technical society. Worked with Socket.io to built a leaderboard Separate sides for admin and students for efficient work and management",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "Javascript",
+          "Socket.Io"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Digital TimeTable",
+        "description": "A software which automatically generates timetable for all classes and eradicates the use of paperwork. Separate sides for students, teachers and admin for better visualization.",
+        "keywords": [
+          "React.js",
+          "Javascript",
+          "Django",
+          "PostgreSQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Tantum",
+        "description": "A vehicle sharing website to easily offer a ride or book a ride based on your choice. Implemented chat functionality using Socket.io. Intergrated payment method through Razorpay",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Express.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [
+          "NextJS",
+          "NodeJS",
+          "TypeScript",
+          "MongoDB"
+        ],
+        "endDate": "Mar,2024",
+        "company_name": "VyaparDost Private Limited",
+        "description": "Build more than 50% of the software including both frontend and backend. Implemented an Auction Bidding System using Socket.io. Developed collaborative text editing with Tiptap.io, boosting teamwork and productivity.",
+        "location": "",
+        "links": "LINK",
+        "startDate": "Aug,2023"
+      },
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [
+          "ReactJS",
+          "Javascript"
+        ],
+        "endDate": "Nov,2023",
+        "company_name": "Swipe Ventures LLC",
+        "description": "Built a platform for those who are seeking for job and for those who gives the job.",
+        "location": "",
+        "links": "LINK",
+        "startDate": "Sep,2022"
+      },
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [
+          "ReactJS",
+          "NodeJS",
+          "Redux",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "company_name": "Computer Society Of India",
+        "description": "Worked with the team on more than 10 projects Built website for International Conference for IT Department of college",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "DSA",
+      "JavaScript",
+      "TypeScript",
+      "HTML/CSS",
+      "SQL",
+      "ReactJS",
+      "NextJS",
+      "NodeJS",
+      "ExpressJS",
+      "Redux",
+      "Socket.io",
+      "React Native",
+      "GIt",
+      "GitHub",
+      "MongoDB",
+      "Netlify",
+      "Vercel",
+      "AWS",
+      "Postman",
+      "Strapi",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "soft_skills": [],
+    "name": "Raghav Awasthi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solvd 200+ DSA (Data structure and Algorithm) questions in Leetcode and Codechef.",
+      "Max. Rating of 1430+ in Codechef.",
+      "Achieved Rank of 854 out of 32,000 contestants in Codechef Starters 126 Division 4 (Rated).",
+      "Grabbed 1st Rank among 500+ team in Prometeo23, Hackoverflow organized by IIT Jodhpur.",
+      "Finalist in hackathon organized by MANIT Bhopal in Feb,2023",
+      "Organized Codeshell, a coding competition in all 4 years within the college.",
+      "Conducted a React workshop in which I had mentored 150+ students."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

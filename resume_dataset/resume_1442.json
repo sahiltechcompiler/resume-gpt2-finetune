@@ -1,0 +1,149 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sriya Julakanti",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Earned upon completing classes and attaining the required certication score.",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "Smart Interviews",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed the comprehensive DBMS course, demonstrating prociency through examination and earning certication.",
+        "skillsLearned": [],
+        "title": "Database Management System (DBMS)",
+        "issuer": "NPTEL (National Program on Technology Enhanced Learning)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem Solving",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Awarded upon successful completion of exam.",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "06/2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:8.6",
+        "field_of_study": "CSE",
+        "startDate": "08/2021"
+      },
+      {
+        "school": "FIITJEE",
+        "endDate": "07/2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 96%",
+        "field_of_study": "",
+        "startDate": "06/2019"
+      },
+      {
+        "school": "Sri Chaitanya",
+        "endDate": "04/2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA:9.8",
+        "field_of_study": "",
+        "startDate": "06/2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Learning Management System",
+        "description": "Developed a Learning Management System (LMS) that identied at-risk students through tracking effort and performance metrics, resulting in a 20% improvement in scores for 15% of agged students. Enabled collaborative learning by providing system access to both teachers and students, allowing seamless communication and engagement. Facilitated detailed performance tracking by concept/topic, giving teachers and students insights into topic-wise exam results, improving intervention strategies. Implemented teacher-student communication features, leading to a 30% increase in student average marks based on performance insights. Reduced student data processing time by 30%, improving response times for performance analytics and overall system efciency. Designed and implemented RESTful APIs using JavaScript, React, MongoDB, Node.js, and Express for secure user authentication, CRUD operations, and real-time data retrieval.",
+        "keywords": [
+          "JavaScript",
+          "React",
+          "MongoDB",
+          "Node.js",
+          "Express"
+        ],
+        "endDate": "05/2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bio Proler",
+        "description": "Crafted a GUI application using Java Swing that allows users to enter personal information (name, age, gender) and choose the type of prole (Instagram/Twitter) to generate bios based on the entered information. Empowered users to effortlessly craft tailored bios for Instagram and Twitter proles. Achieved an 85% user satisfaction rate based on feedback for the precision and relevance of the generated bios. Employed human-centered design principles to ensure intuitive navigation and user satisfaction, resulting in a 30% increase in user engagement.",
+        "keywords": [
+          "Java Swing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Participant",
+        "skillsUsed": [],
+        "endDate": "07/2024",
+        "company_name": "Juspay Hackathon",
+        "description": "Implemented functions to handle Lock, Unlock, and Upgrade operations with constraints such as preventing locking of nodes with locked ancestors or descendants. Optimized the solution for multithreading to ensure efcient handling of concurrent operations. Developed a thread-safe locking mechanism lock node function that works with multithreading. Ensured efcient handling of concurrent operations.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "Data Structures",
+      "Javascript",
+      "SQL",
+      "MongoDB",
+      "Node.js",
+      "Express.js",
+      "Backend",
+      "Restful APIs",
+      "Git",
+      "OOPs"
+    ],
+    "soft_skills": [],
+    "name": "Sriya Julakanti",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved a rank of 87 on GeeksforGeeks platform."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,146 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "CHANDRANSH SRIVASTAVA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, RJ",
+    "In College"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Introduction to Networks",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat Administration I (RH124)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat Administration II (RH134)",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, RJ",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "Nov. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Walkie-Talkie",
+        "description": "Designed and implemented a real-time chat app using MERN stack (MongoDB, Express, React, Node.js) with Socket.io for instant messaging, fostering seamless communication among users. Engineered a scalable back-end infrastructure with Node.js and Express, incorporating RESTful APIs for user authentication, message storage/retrieval, and Socket.io for real-time bidirectional communication, resulting in a 20% increase in message throughput. Implemented secure user authentication using JWT tokens and bcrypt encryption, ensuring data privacy, and employed Redux Toolkit for efficient state management, leading to a 10% reduction in authentication-related errors.",
+        "keywords": [
+          "React.Js",
+          "Node.Js",
+          "Express.Js",
+          "MongoDB",
+          "Redux Toolkit"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": "Live demo"
+      },
+      {
+        "name": "WeatherNow+",
+        "description": "Developed a weather application using Next.js and Weatherbit API, fetching real-time data and enhancing user experience. Leveraged the Weatherbit API to procure real-time weather data, resulting in a 10% improvement in forecast accuracy. Utilized Chart.js for chart generation, enabling users to visualize historical weather data, contributing to a 10% increase in user engagement.",
+        "keywords": [
+          "Next.Js",
+          "WeatherBit API"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": "Live Demo"
+      },
+      {
+        "name": "Lyrics Genie",
+        "description": "Crafted a web application using React, Node.js, and Express.js, integrating the Genius API to fetch song information based on user input. Employed Node.js and Express.js to manage API requests and integrate with the Genius API for server-side data retrieval, resulting in a 30% reduction in response time. Integrated Genius API for user search functionality, retrieving song details, lyrics, and artist information based on title, artist, or lyrics, enhancing user satisfaction and engagement.",
+        "keywords": [
+          "Genius API",
+          "React.Js",
+          "Node.Js",
+          "Express.Js"
+        ],
+        "endDate": "May 2023",
+        "startDate": "",
+        "url": "Live demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Software Development Centre - MUJ",
+        "description": "Engineered and deployed NoteSheet Management WebApp using ReactJS, Express.js, Node.js, and PostgreSQL, optimizing note-taking processes for over 300 faculty members. Achieved a 30% decrease in post-deployment errors and reduced server response times by 30% through implementing performance optimization techniques. Collaborated with a cross-functional team of 5 developers, delivering the project within a 4-month time frame utilizing agile methodologies.",
+        "location": "In College",
+        "links": "Offer Letter",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Front End Developer",
+        "skillsUsed": [],
+        "endDate": "Sep 2022",
+        "company_name": "What The Hack - Web3 based Hackathon",
+        "description": "Led the front-end development of a web3 app with React.js, enhancing user experience. Enhanced frontend-Tezos blockchain integration, boosting transaction speed by 20% and reducing fees by 15%. Secured 4th position out of 120 teams.",
+        "location": "In College",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "C++",
+      "C",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "CHANDRANSH SRIVASTAVA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,101 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "SANKETH RAJU SAGI",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Ahmedabad, Gujarat",
+    "Delhi"
+  ],
+  "full_output": {
+    "summary": "Seeking a position to utilize my skills and internship experience.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Daffodil Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Delhi",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sea Level Anomaly Prediction",
+        "description": "Developed a Long Short-Term Memory (LSTM) model to predict sea level anomalies using Global Ocean Gridded L4 satellite data. Conducted data preprocessing, including time-series analysis and feature engineering, to improve model accuracy. Validated predictions against observed values and presented findings to researchers at ISRO.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Cara",
+        "description": "Engineered a dynamic eCommerce platform with a responsive design, seamlessly blending a user-friendly interface to optimize the overall shopping experience for apparel enthusiasts. Revamped the user interface with HTML, CSS, and JavaScript.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Reasearch Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "Indian Space Reasearch Organization(ISRO)",
+        "description": "Developed and implemented machine learning models for predicting sea level anomalies using LSTM. Analyzed and processed satellite data (Global Ocean Gridded L4 Sea Surface) to build accurate prediction models. Presented findings and insights to senior researchers, contributing to ongoing projects.",
+        "location": "Ahmedabad, Gujarat",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "JAVA",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Machine Learning",
+      "Data Handling",
+      "Web Development",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "TensorFlow",
+      "mpl toolkits-Basemap"
+    ],
+    "soft_skills": [],
+    "name": "SANKETH RAJU SAGI",
+    "position": "",
+    "interests": [
+      "Lead school and college basketball team"
+    ],
+    "achievements_and_awards": [
+      "Students Excellence Award",
+      "Awarded for overall performance and for getting Internship at ISRO"
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Btech"
+}

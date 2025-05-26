@@ -1,0 +1,181 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "R A J N A K T I",
+  "college": "AC Patil College of Engineering",
+  "locations": [
+    "Kharghar, Navi-Mumbai",
+    "Belapur, Navi-Mumbai",
+    "Mahad, Raigad",
+    "Navi-Mumbai"
+  ],
+  "full_output": {
+    "summary": "Newly graduated IT engineer with a passion for technology and a strong academic background in Machine Learning and Web development. Eager to contribute to IT projects, learn, and stay current with emerging tech trends.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS BUILDER SERIES",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JAVA.DSA,OOP",
+        "issuer": "UPGRAD",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JAVASCRIPT, BOOTSTRAP",
+        "issuer": "UDEMY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Various certificates from other field of interest",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "AC Patil College of Engineering",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Kharghar, Navi-Mumbai",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "2020"
+      },
+      {
+        "school": "Bharti Vidyapeeth Junior College",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "HSC 12th",
+        "location": "Belapur, Navi-Mumbai",
+        "ID": 1.0,
+        "grade_received": "79.53",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "ST. Xaviers School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "SSC 10th",
+        "location": "Mahad, Raigad",
+        "ID": 2.0,
+        "grade_received": "87.60",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Olfactory classification for fruits using hardware and ML",
+        "description": "Developed a low-cost Electronic nose that help us to identify the VOC through sensors that determines the fruit ripeness. Integration of various technologies like IOT, Machine Learning, App Development and Cloud. The sample used were Banana, Tomato and Potato.",
+        "keywords": [
+          "IOT",
+          "Machine Learning",
+          "App Development",
+          "Cloud"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Unique Recipe Website",
+        "description": "Created responsive website for managing recipes also had videos and animated recipes. API was used in this project also VR(Virtual Reality) of a recipe was added in website to make it interactive so user could perform cooking virtually.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Vehicle Detection and Counting",
+        "description": "Implemented computer vision algorithms to detect, track and count vehicles in real-time video streams.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Anti-Sleep Driver Glasses",
+        "description": "Hardware based project that uses IR sensor to check whether driver is sleeping or not and beeps the alarm while also stopping the car.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning and Data Science Intern",
+        "skillsUsed": [
+          "Python",
+          "Java",
+          "React",
+          "Node",
+          "Machine Learning",
+          "Tessaract",
+          "scikit-learn",
+          "Open-cv"
+        ],
+        "endDate": "Jan 2023",
+        "company_name": "Ramrao Adik Institute of Technology",
+        "description": "Created the machine learning project Real-Time license plate recognition from scratch and got a taste of AI, ML, Data Science with company experienced staff. Weekly reports and meeting with the management. Worked with various libraries like Tessaract, scikit-learn, Open-cv etc. Participated in an IDBI Intech workshop focused on real-world applications of technology.",
+        "location": "Navi-Mumbai",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Data Science",
+      "Python",
+      "Java",
+      "React",
+      "Node",
+      "Angular",
+      "SQL",
+      "AWS",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Problem-solving",
+      "teamwork",
+      "attention to detail"
+    ],
+    "name": "R A J N A K T I",
+    "position": "",
+    "interests": [
+      "Painting",
+      "Sketching",
+      "Reading",
+      "Swimming"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Seawoods, Navi Mumbai",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

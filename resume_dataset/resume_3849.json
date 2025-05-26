@@ -1,0 +1,98 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Jahanvi Tyagi",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "Result driven computer science student with a passion for innovation and problem solving . Seeking an entry level position where I can leverage my technical skills in programming and algorithms to contribute effectively to dynamic projects, while continuously learning and growing within a collaborative team environment.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Data Science and Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA-9.37",
+        "field_of_study": "",
+        "startDate": "Nov 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Personality prediction through CV, using NLP and ML models",
+        "description": "Developed a system that offers a unique approach to predicting individuals' personalities by analyzing various factors based on the Big Five Personality Traits. The system leverages logistic regression for model training, it utilizes the pyresparser module, empowered by the NLTK and spaCy libraries in Python, to extract relevant data points from resumes.",
+        "keywords": [],
+        "endDate": "Apr 2024",
+        "startDate": "Mar 2020",
+        "url": ""
+      },
+      {
+        "name": "Deciphering Deception, Deepfake audio detection using LSTM deep learning model",
+        "description": "Developed and proposed LSTM model to classify real and computer generated audios. Discussed how different hyperparameters affect the results. Four models were tested with four different optimizers each to conclude the best model and optimizer for deepfake audio detection.",
+        "keywords": [],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Music Recommendation system, using ML algorithms",
+        "description": "Created a music recommendation system that provides users with a personalized listening experience using algorithms like K mean clustering and PCA. Evaluated the effectiveness of the system using metrics such as precision, recall, and F1 score.",
+        "keywords": [],
+        "endDate": "Mar 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Airport Management System, using MySQL",
+        "description": "Standardised the process of a passenger getting through the airport formalities without external assistance. Condensing all the steps and making it a short and full proof method to complete all the formalities, saving time and human effort. Utilized database management systems to store and retrieve data efficiently, ensuring optimal performance and data integrity.",
+        "keywords": [],
+        "endDate": "Nov 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Data Analysis",
+      "Data preprocessing",
+      "cleaning and visualisation",
+      "used python libraries like Pandas",
+      "MatplotliB and Seaborn",
+      "Machine Learning",
+      "RDBMS",
+      "SQL-MySQL",
+      "Programming Languages",
+      "C/C++",
+      "python",
+      "Object Oriented Programming",
+      "Data Structures and Algorithms",
+      "Salesforce CRM"
+    ],
+    "soft_skills": [
+      "Leadership potential",
+      "Attention to detail",
+      "Communication skills",
+      "Problem solving",
+      "Collaborative"
+    ],
+    "name": "Jahanvi Tyagi",
+    "position": "",
+    "interests": [
+      "Badminton"
+    ],
+    "achievements_and_awards": [
+      "Dean's List Excellence in Academics Award, Director and Dean Faculty of Engineering",
+      "Dean's List Excellence in Academics Award, Director and Dean Faculty of Engineering"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Data Science and Engineering"
+}

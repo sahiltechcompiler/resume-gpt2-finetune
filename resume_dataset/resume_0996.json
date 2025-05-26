@@ -1,0 +1,126 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Saumya Srivastava",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Uttar Pradesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.9",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "St. Basils School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "Percentage: 93.66",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Flash-Chat",
+        "description": "Crafted with Flutters dynamic framework and Firebases backend, this chat application offers seamless communication experiences. Tools & technologies used: Flutter, Dart, Firebase, With sleek UI/UX design involving animations and real-time messaging, users can effortlessly connect and share.",
+        "keywords": [
+          "Flutter",
+          "Dart",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "StockSavvy",
+        "description": "A Django-based store management system simplifying inventory control and sales tracking. Tools & technologies used: Python, Django Streamline operations and optimize stock management effortlessly.",
+        "keywords": [
+          "Python",
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Flutter Developer",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "Piety Services",
+        "description": "Building and improvising complete applications using flutter and key features of firebase. Learning and implying complex usage of BLOC state management.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "August 2023"
+      },
+      {
+        "role_name": "Application Developer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "LetsGrowMore",
+        "description": "Built flutter applications and conceptualized usage of Rest API. Learnt about Google ml kit and its importance in building ai apps.",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Dart",
+      "Visual Studio Code",
+      "Android Studio",
+      "Github",
+      "Django Debug Toolbar",
+      "pip",
+      "Flutter",
+      "Django",
+      "MySql",
+      "Firebase Firestore"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Problem Solving",
+      "Collaboration",
+      "Teamwork"
+    ],
+    "name": "Saumya Srivastava",
+    "position": "",
+    "interests": [
+      "Full Stack Development",
+      "Backend Development"
+    ],
+    "achievements_and_awards": [
+      "Solved 500+ DSA questions on various platforms such as leetcode/codeforces.",
+      "2 star on codechef",
+      "Conducted annual event of Team Conatus, involving 200+ participants, including field event and logical tests",
+      "Conducted a workshop on DSA and CP under programming club involving 150+ participants."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.tech"
+}

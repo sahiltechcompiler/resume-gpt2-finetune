@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vinay Jain",
+  "college": "Shah and Anchor Kutchhi Engg. College",
+  "locations": [],
+  "full_output": {
+    "summary": "I have completed a Bachelor of Engineering in Artificial Intelligence and Data Science with Honours in Blockchain from Shah and Anchor Kutchhi Engineering College, Mumbai. I have hands-on experience in Machine Learning and Data Engineering projects and am proficient in Python, SQL, and Data analysis. I always look for new ways to apply my skills and stay current with the latest technology trends.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor Kutchhi Engg. College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "Mumbai",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "2020"
+      },
+      {
+        "school": "Maharashtra State(HSC) Board",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "77.85%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Maharashtra State(SSC) Board",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "91.00%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Supermarket Sales Analysis",
+        "description": "Performed data analytics on Supermarket sales data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo Video"
+      },
+      {
+        "name": "Language Detector",
+        "description": "Built Language Detector web app to predict the language of the text entered. CountVectorizer and MultinomialNB have been used for model building and Streamlit for building Web app.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Web app"
+      },
+      {
+        "name": "Synopsia - AI Doctor",
+        "description": "Created a web-based application designed to assist patients in predicting their disease based on their symptoms, recommending appropriate drugs, and booking appointments with doctors.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to GitHub Repo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "Oct 2023",
+        "company_name": "Intel Corporation",
+        "description": "Worked with their team to develop AI solutions for real-world challenges. Built ML models by collecting raw data and processing it to the deployment part. Created Web Crawler using BeautifulSoup library to collect reviews of Amazon products and perform sentiment analysis of it.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Backend Developer",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "Creative Finserve Pvt. Ltd",
+        "description": "Built and developed the backend logic for the CRM system using Django. Designing and implementing data models, database schema, and handling URL routes in web app.",
+        "location": "",
+        "links": "",
+        "startDate": "Sept 2022"
+      },
+      {
+        "role_name": "Data Management Analyst",
+        "skillsUsed": [],
+        "endDate": "Sept 2022",
+        "company_name": "IIT Bombay",
+        "description": "Collecting, organizing, and managing data from various sources into an Excel sheet. Conducting research on IIT Bombay alums, including data analysis and visualization.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2022"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Python",
+      "Django",
+      "Numpy",
+      "Pandas",
+      "Scikit-learn",
+      "Tensorflow",
+      "Keras",
+      "OpenCV",
+      "Apache Airflow",
+      "Matplotlib",
+      "Data Analysis and Visualization",
+      "Big Data",
+      "PowerBI",
+      "Tableau",
+      "SQL",
+      "Git",
+      "AWS",
+      "GCP",
+      "Agile methodologies"
+    ],
+    "soft_skills": [
+      "Team player",
+      "Collaboration",
+      "Problem-solving",
+      "Leadership"
+    ],
+    "name": "Vinay Jain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Served as the GDSC AI-ML lead, addressing and resolving inquiries from numerous students.",
+      "Contributed to my teams participation in the Smart India Hackathon (SIH 2022) at the college level, achieving an 8th-place ranking.",
+      "Led instructional sessions on PowerBI and Machine Learning, educating over 40 engineering students."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelors Degree"
+}

@@ -1,0 +1,171 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sajal Jain",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Crash Course on Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS S3 BASICS",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ORACLE ACADEMY: DATABASE FOUNDATIONS (User 862984351)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ORDERED DATA STRUCTURES AND ALGORITHMS",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "PROFESSIONAL DEVELOPMENT DIRECTOR ROTARACT CLUB MUJ (06/2023 - 05/2024)",
+      "PROMOTIONS TEAM HEAD AIC E-CELL (07/2022 - 04/2023)"
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.82",
+        "field_of_study": "CSE IoT & IS",
+        "startDate": ""
+      },
+      {
+        "school": "Assisi Convent School Etah",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage : 83",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Assisi Convent School Etah",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage : 91.4",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "DELL Hackathon: Supply Chain Analysis Dashboard",
+        "description": "Built a supply chain analysis dashboard that fetches data from database. Users ask questions in plain English, and ChatGPT API translates them into SQL queries to display results and graphs for better decision-making. Tech Stack: MERN Stack,Python, MySQL, Power BI Reduced data retrieval time by 60% compared to manual methods and increased data visualization efficiency.",
+        "keywords": [
+          "MERN Stack",
+          "Python",
+          "MySQL",
+          "Power BI"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Advancing Chest Cancer (Adenocarcinoma) Diagnosis",
+        "description": "Developed a convolutional neural network (CNN) using TensorFlow and Keras to classify chest CT scan images into different categories. Tech Stack: Python, Kaggle Data Set - Libraries Used: Pandas, Sklearn,keras, Tensorflow, Matplotlib Including 4000 images divided into training (2500), validation (750), and test (750) sets and achieving a training accuracy of 91.4% and a validation accuracy of 88%.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "Pandas",
+          "Sklearn",
+          "Matplotlib"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TIC TAC TOE Android App",
+        "description": "Gaming App for fun and entertainment. Tools & Technologies: Android App Studio, Java, Kotlin, XML, Emulators It will feature a two-player mode, intuitive interface design, game logic implementation, and interactive elements.The winner is displayed using splash screen. Designed the app frontend or UI through XML.",
+        "keywords": [
+          "Android App Studio",
+          "Java",
+          "Kotlin",
+          "XML"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "02/2024",
+        "company_name": "Suvidha Foundation",
+        "description": "Completed machine learning internship at Suvidha Mahila Foundation (remote), developed a ML model using news data to meet NGO requirements, alongside executing a successful fundraising task for the organization.",
+        "location": "",
+        "links": "",
+        "startDate": "03/2024"
+      }
+    ],
+    "skills": [
+      "Time Allocation",
+      "Team Guidance",
+      "Insightful Analysis",
+      "Originality",
+      "Relationship Building",
+      "Proficiency"
+    ],
+    "soft_skills": [],
+    "name": "Sajal Jain",
+    "position": "",
+    "interests": [
+      "App Development",
+      "Deep Learning",
+      "Machine Learning",
+      "Data Analysis",
+      "IoT Sensors & Micro-controllers"
+    ],
+    "achievements_and_awards": [
+      "-DELL HACKATHON (6-MONTH HACKATHON) 1ST PRIZE",
+      "-Deans Excellence Award: Presented by MUJ for scoring 9+ GPA in semester exam (3rd, 5th, 6th Semester)",
+      "-Mini Hacks 3.0 by MUJ ACM 3RD PRIZE"
+    ],
+    "publications": []
+  },
+  "current_location": "UTTAR PRADESH",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,140 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Siri Chandana",
+  "college": "SRM UNIVERSITY",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:8.18",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage:98.3",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya school",
+        "endDate": "May 2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage:95",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Scientific Calculator",
+        "description": "Developed a comprehensive scientific calculator application utilizing Python and the Tkinter library. The project features a user-friendly graphical interface with support for advanced mathematical functions such as trigonometric operations, logarithms, factorials, permutations, combinations, and more.",
+        "keywords": [
+          "Python",
+          "Tkinter"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Product and User Management API",
+        "description": "Developed a scalable RESTful API using Node.js and Express.js for efficient management of product and user data. The API supports CRUD (Create, Read, Update, Delete) operations on a MongoDB database, ensuring smooth handling of product and user information. Technologies used include Node.js, Express.js for the backend, and MongoDB with Mongoose for the database.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "People Counting System",
+        "description": "Developed a robust people counting system leveraging machine learning techniques with OpenCV and Python, utilizing the MobileNetSSD model for real-time person detection and tracking. This system efficiently handles object detection, tracking, and counting, demonstrating advanced skills in computer vision and deep learning.",
+        "keywords": [
+          "OpenCV",
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Automated Attendance System Using Face Recognition",
+        "description": "Developed a comprehensive automated attendance system leveraging advanced face recognition technology. Utilized Python libraries including OpenCV.",
+        "keywords": [
+          "Face Recognition",
+          "Python",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Python",
+          "Django"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Andhra Pradesh State Skill Development Corporation",
+        "description": "Completed an internship with APSDC, specializing in the Python Django framework. Designed and developed an E-Commerce web shopping platform, focusing on backend development and front-end integration. Implemented functionalities including user authentication, product catalog management.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "c++",
+      "python",
+      "HTML",
+      "CSS",
+      "React JS",
+      "Node.js",
+      "Java Script",
+      "MySQL",
+      "MongoDB",
+      "Object-Oriented Programming",
+      "Data Structures and Algorithms",
+      "Problem solving"
+    ],
+    "soft_skills": [],
+    "name": "Siri Chandana",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 700+ sums in Code Chef",
+      "Solved Problems in LeetCode",
+      "Achieved Certificate on Python Django FrameWork internship and some more certificates in code chef."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

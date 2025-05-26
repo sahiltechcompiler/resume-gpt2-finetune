@@ -1,0 +1,112 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "ANUSHKA MOHAN",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "International Society Of Automation, MUJ Content Writer - Created visually engaging promotional materials including posters and flyers to promote club events and activities.  Organized workshops and events with attendance ranging from 50 to 100 participants.",
+      "techstars Startup Weekend Jaipur, MUJ Content Volunteer - Crafted engaging promotional messages and content for event marketing materials, including posters, social media posts, and emails."
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.08",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "FIITJEE Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93%",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      },
+      {
+        "school": "Kennedy High, The Global School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "96%",
+        "field_of_study": "Class X",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Reviews Sentiment Analysis",
+        "description": "Conducted exploratory data analysis on the IMDb reviews dataset to identify key trends and patterns..  Performed feature engineering using Count Vectorizer and TF-IDF.  Implemented and evaluated multiple prediction algorithms, including logistic regression, decision trees and random forest classifier. Used Hyper Parameter Tuning to optimize sentiment prediction, achieving an accuracy of 89.34%.",
+        "keywords": [
+          "Pandas",
+          "Matplotlib",
+          "Scikit-Learn",
+          "NLTK",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "Developed a robust backend application using Express and MongoDB, with EJS for dynamic rendering.  Implemented user authentication and authorization, including secure login and session management.  Designed and integrated add-to-cart functionality and an admin panel for product management.",
+        "keywords": [
+          "Express.js",
+          "MongoDB",
+          "EJS",
+          "Javascript",
+          "Tailwind"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Jio Platforms Limited",
+        "description": "Conducted exploratory data analysis on the Jio recharges dataset to identify patterns and built an API for it using FastAPI.  Made a sentiment analysis project and performed time series forecasting using ARIMA and SARIMAX models.  Developed a small language model project using Google Gemini for automated blog writing.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "HTML/CSS",
+      "Javascript",
+      "Express.js",
+      "Mongoose",
+      "SQL",
+      "Python (Pandas)"
+    ],
+    "soft_skills": [],
+    "name": "ANUSHKA MOHAN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

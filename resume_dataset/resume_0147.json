@@ -1,0 +1,115 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Ashwary Pratap",
+  "college": "Bhagwan Parshuram Institute of Technology",
+  "locations": [
+    "Kota",
+    "Aligarh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Bhagwan Parshuram Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2020"
+      },
+      {
+        "school": "MB PUBLIC SR. SEC. SCHOOL TALWANDI",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Kota",
+        "ID": 1.0,
+        "grade_received": "80%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Al-Barkaat Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Aligarh",
+        "ID": 2.0,
+        "grade_received": "60.60%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "GenSync",
+        "description": "Developed a dynamic web application to facilitate seamless interaction within the college community, providing mentorship and career guidance. Designed and implemented secure user authentication systems. Built and managed routers and controllers for efficient HTTP request processing. Achieved seamless database integration by resolving MongoDB schema issues and enhancing index performance for improved efficiency.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "Jul 2023",
+        "url": ""
+      },
+      {
+        "name": "Doubt Hub",
+        "description": "Developed a collaborative platform using the MERN stack for academic discussions, enabling students to post, upvote, save, and comment on queries, with advanced tag and keyword search functionalities. Implemented strong authentication measures to protect user data and manage access control. Managed HTTP request and response handling to ensure smooth interaction between frontend and backend. Supervised MongoDB operations with Robo 3T, ensuring efficient data storage and retrieval.",
+        "keywords": [],
+        "endDate": "Jun 2023",
+        "startDate": "Feb 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "Apr 2023",
+        "company_name": "Coding Ninjas",
+        "description": "Provided personalized mentoring in Data Structures and Algorithms using C++, addressing 210+ queries with an average rating of 4.7. Demonstrated proficiency in DSA concepts, enhancing students problem-solving capabilities. Exhibited strong communication by effectively articulating technical concepts in C++ to diverse audiences.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "ReactJS",
+      "NodeJS",
+      "Express.js",
+      "MongoDB",
+      "SQL",
+      "Oracle",
+      "Git",
+      "Robo 3T",
+      "Data Structures",
+      "Algorithms",
+      "Problem Solving",
+      "SDLC"
+    ],
+    "soft_skills": [],
+    "name": "Ashwary Pratap",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Rank 4 in CodeBpit Event",
+      "Completed 100 days coding challenge.",
+      "Global Rank 516 in NSCC Coding Contest.",
+      "Solved 320+ questions on Leetcode, demonstrating strong problem-solving skills."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

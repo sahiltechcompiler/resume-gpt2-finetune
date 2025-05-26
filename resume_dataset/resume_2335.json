@@ -1,0 +1,132 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Developer",
+  "name": "Vanshika Goel",
+  "college": "New Delhi, India",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "Experienced and dynamic Software Developer specializing in backend development. Demonstrated expertise in driving impactful projects through collaborative problem-solving and innovative solutions. Possess a track record of optimizing system performance, scalability, and security across various domains. Seeking a challenging software development role to apply technical acumen and contribute to the success of cutting-edge projects.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "New Delhi, India",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "2020"
+      },
+      {
+        "school": "",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "CBSE CLASS XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "CBSE CLASS X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Slot Booking System",
+        "description": "Designed and implemented a user-friendly interface allowing mentees to search for mentors based on expertise and availability, and book specific time slots seamlessly. Developed slot management functionalities enabling mentors to view, modify, and manage their booked slots, including canceling and rescheduling.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face Recognition System",
+        "description": "Developed a Face Recognition System utilizing advanced machine learning models to accurately detect and recognize human faces in images. Implemented Python-based machine learning models, leveraging libraries such as OpenCV to perform facial detection and recognition tasks with high precision.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Google Docs with Sockets",
+        "description": "Developed a collaborative document editing platform inspired by Google Docs, leveraging WebSocket technology for real-time communication and collaboration among multiple users. Integrated WebSocket communication protocol on the backend using Node.js and socket.io library, enabling bidirectional communication between the server and clients, and facilitating instant updates to document content across all connected users.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Suraasa",
+        "description": "Spearheaded the migration of legacy codebase to Django 3.0, leveraging its latest features and optimizations, resulting in a 20% improvement in response times and a 30% reduction in server resource utilization. Worked on asynchronous task processing using Celery and Redis, optimizing long-running operations such as email notifications and data processing tasks, leading to a 40% increase in system throughput and scalability. Collaborated with cross-functional teams including frontend developers, designers, and project managers to translate business requirements into technical solutions, ensuring alignment with project timelines and objectives.",
+        "location": "New Delhi, India",
+        "links": "",
+        "startDate": "11/2023"
+      },
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "11/2023",
+        "company_name": "AiCan",
+        "description": "Implemented authentication and authorization mechanisms such as JWT tokens and role-based access control (RBAC) to enforce security protocols and protect sensitive data. Designed and implemented RESTful APIs to facilitate seamless communication between frontend and backend systems, adhering to industry best practices and standards. Identified and resolved performance bottlenecks and technical debt in the existing codebase, resulting in significant improvements in application responsiveness and user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "07/2023"
+      },
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "06/2023",
+        "company_name": "Glocali",
+        "description": "Developed and maintained scalable and responsive web applications using the MERN stack, ensuring seamless integration of frontend and backend components for optimal user experience. Integrated state management solutions such as Redux or React Context API to manage complex application states efficiently, enabling seamless data flow and synchronization between different components.",
+        "location": "",
+        "links": "",
+        "startDate": "03/2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "Django",
+      "React.js",
+      "Node.js",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "GIT",
+      "Postman",
+      "MATLAB"
+    ],
+    "soft_skills": [],
+    "name": "Vanshika Goel",
+    "position": "Software Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2020.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

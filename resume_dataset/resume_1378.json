@@ -1,0 +1,128 @@
+{
+  "project_count": 3.0,
+  "designation": "Computer Science Engineering Student",
+  "name": "Pradyuth Reddy T N",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Rajasthan, India",
+    "Bengaluru, India",
+    "Andra Pradesh"
+  ],
+  "full_output": {
+    "summary": "Logical and organized individual with a strong interest in computer science engineering. Proficient in Python, C and Java. If given the opportunity, I would like to learn to pursue new skills, expand my knowledge as a student and deliver on tasks assigned to me on the internship.",
+    "certifications": [],
+    "social_work": [
+      "Collected educational books and materials to help underprivileged children at Little Angels School, Bangalore.",
+      "Mentored Students of 11th and 12th for preparation in their engineering entrance exams.",
+      "Helped crowd source funds from family and friends to set up a de-fluoride mineral water plant in my native village in Andra Pradesh."
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "8.5 CGPA till IV Semester",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021-06"
+      },
+      {
+        "school": "Delhi Public School Whitefield",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "High School Diploma",
+        "location": "Bengaluru, India",
+        "ID": 1.0,
+        "grade_received": "92%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Greenwood High",
+        "endDate": "2018",
+        "maximum_grade": "95.8% avg in ICSE",
+        "degree": "High School Diploma",
+        "location": "Bengaluru, India",
+        "ID": 2.0,
+        "grade_received": "100% in ICSE Board Exam",
+        "field_of_study": "",
+        "startDate": "2005"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Attendance System by facial recognition",
+        "description": "Worked on a project using JavaScript and HTML for website and SQLite for database. Uses ML to train an AI model based on face data stored in database to recognize users and mark attendance.",
+        "keywords": [
+          "Python",
+          "JavaScript",
+          "HTML",
+          "SQLite",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Shopping cart website",
+        "description": "Website for shopping using React JS and PostgreSQL as database containing a list of food items available in different restaurants present in the database.",
+        "keywords": [
+          "React",
+          "PostgreSQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Summarized News Digest using ML",
+        "description": "Website for getting summarized news and information on certain specified topics via web scraping newsletters and articles.",
+        "keywords": [
+          "Machine Learning",
+          "Web Scraping"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Indian"
+    ],
+    "experiences": [],
+    "skills": [
+      "C",
+      "Java",
+      "MySQL",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Coding",
+      "Leadership",
+      "Communication",
+      "Problem Solving",
+      "Time Management"
+    ],
+    "soft_skills": [],
+    "name": "Pradyuth Reddy T N",
+    "position": "Computer Science Engineering Student",
+    "interests": [
+      "Basketball",
+      "F1",
+      "Travelling"
+    ],
+    "achievements_and_awards": [
+      "Topper in Computer Science 100% in ICSE Board Exam"
+    ],
+    "publications": [
+      "Anonymization of Sensitive Information in Realtime research paper, Research on various AI text and image recognition models."
+    ]
+  },
+  "current_location": "Bengaluru, KA, India",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,131 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Samarth Srivastava",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "Aspiring engineer with a strong foundation in robotics and web development, procient in C/C++, Python, Go, and JavaScript. Experienced in developing responsive web applications and backend systems, with a proven track record of teamwork, problem-solving, and project management skills.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "May 2025",
+        "maximum_grade": "10.00",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.20 / 10.00",
+        "field_of_study": "Articial Intelligence and Machine Learning",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real Time Chat-App",
+        "description": "Engineered a responsive chat application using the MERN stack and Socket.io, facilitating instantaneous one-on-one message delivery and ensuring seamless user experience with real-time updates. Implemented secure user registration and login mechanisms with JWT and bcrypt, ensuring robust authentication and data protection. Integrated MongoDB for ecient storage and retrieval of message history, enabling users to access past conversations seamlessly and ensuring data persistence across sessions.",
+        "keywords": [
+          "React.js",
+          "Node js",
+          "Express.js",
+          "MongoDB",
+          "Socket io"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Restaurant Management System Backend",
+        "description": "Engineered a back-end infrastructure for a restaurant management system using Golang and the Gin-Gonic framework, seamlessly interfacing with MongoDB for streamlined data management. Implemented RESTful API endpoints to oversee menu item management, order processing, reservation handling, and customer data management, fostering seamless communication between the front-end and back-end layers.",
+        "keywords": [
+          "GoLang",
+          "Gin-Gonic",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Tours and Travel Website",
+        "description": "Crafted a Tours and Travel UI project with React.js and Tailwind CSS, emphasizing user-centric design and smooth interaction. Implemented responsive design principles to ensure optimal viewing experience across various devices and screen sizes.",
+        "keywords": [
+          "React js",
+          "TailwindCSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Programmer and Designer",
+        "skillsUsed": [
+          "Python",
+          "C++",
+          "Java"
+        ],
+        "endDate": "Present",
+        "company_name": "Robotics Club AKGEC",
+        "description": "Spearheaded software development initiatives for robotics projects, enhancing autonomous system design and functionality. Collaborated within team environments to strategically plan and execute robotics competitions and projects, showcasing strong teamwork and communication skills. Utilized expertise in Python, C++, and Java to meticulously craft and debug robotics software, ensuring reliability and optimal performance.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "Nov 2022"
+      },
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Bharat Intern",
+        "description": "Developed a strong foundation in web development, enhancing skills by 25% through immersive project engagement. Created impactful projects including the Netix Home Page, Temperature Converter, and Portfolio Website, showcasing expertise in HTML, CSS, and JavaScript. Actively pursued learning opportunities to remain updated with the latest web development trends and technologies.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Go",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Express js",
+      "Node js",
+      "Socket io",
+      "Gin-Gonic",
+      "Tailwind CSS",
+      "SASS",
+      "MongoDB",
+      "SQL",
+      "Figma"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Problem-Solving",
+      "Teamwork",
+      "Project Management",
+      "Creativity"
+    ],
+    "name": "Samarth Srivastava",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,148 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aviral Dubey",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan, INDIA",
+    "Kota, Rajasthan, INDIA",
+    "Sultanpur, UP, INDIA"
+  ],
+  "full_output": {
+    "summary": "As an aspiring Engineering student, Currently pursuing a degree in Information Technology, I have cultivated a strong foundation in statistical analysis, machine learning, and programming language such as Python. Throughout my academic journey, I've applied these skills to various projects, including predictive modeling, data visualization, and exploratory data analysis. My experience with tools like SQL, NumPy and Pandas has equipped me to handle complex datasets and derive actionable insights.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Vision 101",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Deep Learning",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Natural Language Processing",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science Job Simulation",
+        "issuer": "Forage",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, Rajasthan, INDIA",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Springdales Childrens School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th (CBSE)",
+        "location": "Kota, Rajasthan, INDIA",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Saraswati Vidya Mandir",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th (CBSE)",
+        "location": "Sultanpur, UP, INDIA",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Customer Attrition Rate Prediction in Telecom using Machine Learning and Deep Learning",
+        "description": "Developed predictive models using machine learning and deep learning techniques to forecast attrition rates in the telecom industry. Conducted thorough data preprocessing and feature engineering to extract insights from large datasets, enhancing model performance. Implemented various machine learning algorithms (e.g., Random Forest, Gradient Boosting, SVM) and deep learning architectures (e.g., RNNs, CNNs) for accurate prediction of customer churn behavior (achieved accuracy 98%). Presented Paper in Conference organized by Poornima University.",
+        "keywords": [],
+        "endDate": "March 2024",
+        "startDate": "December 2023",
+        "url": "github.com/aviral022/Attrition-Rate-Prediction-in-Telecommunication.git"
+      },
+      {
+        "name": "Face Recognition",
+        "description": "Objective: Develop a system that can accurately identify and verify individuals based on facial features captured from images or video. Components: Utilize computer vision techniques such as Haar Cascades for face detection and recognition; integrate with databases to store and retrieve facial embeddings or features for comparison.",
+        "keywords": [],
+        "endDate": "November 2023",
+        "startDate": "August 2023",
+        "url": "github.com/aviral022/Face-Recognition.git"
+      },
+      {
+        "name": "Pharmacy Website",
+        "description": "Launched a comprehensive pharmacy website that processed prescription, integrated with electronic health records (EHR) systems, and enhanced user experience with easy navigation and secure payment options. Enhanced the pharmacy website's performance by implementing advanced search functionalities.",
+        "keywords": [],
+        "endDate": "April 2022",
+        "startDate": "January 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "SQL",
+      "C",
+      "Machine Learning",
+      "Data Visualization",
+      "Data Wrangling",
+      "Natural Language Processing",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Django"
+    ],
+    "soft_skills": [
+      "Communication (Verbal and Written)",
+      "Problem Solving",
+      "Critical Thinking",
+      "Teamwork and Collaboration",
+      "Time Management",
+      "Adaptability",
+      "Leadership",
+      "Attention to Detail"
+    ],
+    "name": "Aviral Dubey",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

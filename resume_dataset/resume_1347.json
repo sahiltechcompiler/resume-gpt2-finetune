@@ -1,0 +1,107 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "Mihir",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript Essentials 1 Course",
+        "issuer": "OpenEDG JS Institute (Cisco Networking Academy)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript Essentials 2 Course",
+        "issuer": "OpenEDG JS Institute (Cisco Networking Academy)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Backend Development",
+        "issuer": "Meta (Coursera)",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "MCA",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA 8.96/10",
+        "field_of_study": "Masters in Computer Applications",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real Estate Marketplace",
+        "description": "Designed and developed a full-stack real estate application using the MERN (MongoDB, Express.js, React, Node.js) stack. The application allows users to search for properties, view details, and engage in real-time chat functionalities. Configured the backend server using Express.js, Created RESTful API endpoints for handling data operations. Developed React components for the frontend interface, Integrated real-time chat functionality using Socket.io. Implemented database models and operations using Prisma ORM, Handled user authentication securely using JWT.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "Smart Internz",
+        "description": "Master key Salesforce development skills, including Apex coding, Flow Builder, and Apex triggers, through specialized modules and superbadges. Acquire a deep understanding of customer relationship management, data integration, and automation workflows within the Salesforce platform. Enhance problem-solving abilities, technical proficiency, and readiness for Impactful contributions in Salesforce-based projects and initiatives. Strengthen collaboration skills and expand professional network by engaging with industry experts and community members during the internship.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Java",
+      "Python",
+      "C",
+      "MongoDB",
+      "SQL(MySQL)",
+      "React",
+      "Node.js",
+      "Prisma",
+      "Express.js",
+      "REST API",
+      "HTML5/CSS3"
+    ],
+    "soft_skills": [],
+    "name": "Mihir",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "MCA"
+}

@@ -1,0 +1,182 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aditya Gohil",
+  "college": "University of Mumbai",
+  "locations": [
+    "Mumbai, Maharashtra",
+    "Mumbai, IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Data Analytics Professional Certificate",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Scientist Associate",
+        "issuer": "Datacamp",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "University of Mumbai",
+        "endDate": "Jun 2024",
+        "maximum_grade": "",
+        "degree": "Bachelors degree",
+        "location": "Mumbai, IN",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Shah and Anchor Kutchhi Engineering College",
+        "endDate": "Mar 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Mumbai, IN",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Nirmala College of Sci & Com",
+        "endDate": "Mar 2020",
+        "maximum_grade": "",
+        "degree": "HSC (XII)",
+        "location": "Mumbai, IN",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Cross-Platform Virtual Assistant",
+        "description": "Automated OS recognition increases task automation efficiency by 50% on Windows, macOS, and Linux. Engineered word-level speaker verification with 85% accuracy using personalized models. Building an offline LLM model for generating background task commands, boosting productivity by 20%.",
+        "keywords": [
+          "Python",
+          "Keras",
+          "Whisper",
+          "Signal Processing Techniques",
+          "Tensorflow",
+          "NumPy"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Weather Forecast Website",
+        "description": "Implemented SARIMAX model achieving 95% prediction accuracy for weather and air quality index. Operated user-friendly front-end interface, boosting user engagement by 50%. Created backend caching mechanism, reducing server response time by 20% during peak traffic.",
+        "keywords": [
+          "Flask",
+          "Python",
+          "TensorFlow",
+          "Pandas",
+          "NumPy",
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Voice Authentication Model",
+        "description": "Engineered a voice authentication system achieving an 85% accuracy rate, enhancing security measures. Integrated with existing systems, decreasing authentication time by 30%. Optimized model, reducing inference time by 40% while maintaining accuracy.",
+        "keywords": [
+          "Python",
+          "Keras",
+          "Signal Processing Techniques"
+        ],
+        "endDate": "Mar 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Quantitative Research Virtual Experience Program",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "JPMorgan Chase & Co.",
+        "description": "Developed and implemented a comprehensive strategy applying quantitative research methods to real-world loan portfolios, reducing default rates by 10%. Conducted in-depth analysis on a portfolio of 500 loans, accurately predicting default for 20% of customers. Utilized advanced dynamic programming techniques to transform FICO scores into categorical data, enhancing default prediction accuracy by 15%. Collaborated with stakeholders to conduct requirements gathering and project scoping sessions, aligning data needs with organizational goals. Designed and optimized data architecture and ETL pipelines, facilitating accessibility for Business Data Analysts and Data Scientists.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "Jul 2023"
+      },
+      {
+        "role_name": "Junior Data Analyst",
+        "skillsUsed": [],
+        "endDate": "Jun 2023",
+        "company_name": "SAKEC Research Cell",
+        "description": "Implemented a comprehensive data quality assurance process, reducing data discrepancies by 85% in MySQL and Firebase databases. Performed advanced statistical analysis using SQL queries, uncovering insights that boosted engagement rates by 25% on top-performing website pages. Developed custom ETL scripts in Node.js and JavaScript, streamlining data integration processes and improving efficiency by 40%. Ensured data reliability, integrity, and governance standards, fostering accurate and consistent datasets and business intelligence products.",
+        "location": "Mumbai, IN",
+        "links": "",
+        "startDate": "Feb 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "R",
+      "Pandas",
+      "NumPy",
+      "Excel",
+      "TensorFlow",
+      "Keras",
+      "Scikit-Learn",
+      "PyTorch",
+      "OpenCV",
+      "NLP",
+      "Jupyter Notebook",
+      "Git",
+      "Power BI",
+      "Tableau",
+      "Django",
+      "Flask",
+      "FastAPI",
+      "SpaCy",
+      "LangChain",
+      "AWS",
+      "GCP",
+      "MLFlow",
+      "Streamlit",
+      "Gradio"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ],
+    "name": "Aditya Gohil",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked among top 60 teams out of 7500 in Nationwide climate change competition by NASSCOM & Telangana AI-Mission (T-AIM)."
+    ],
+    "publications": []
+  },
+  "current_location": "Mumbai, Maharashtra",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors degree"
+}

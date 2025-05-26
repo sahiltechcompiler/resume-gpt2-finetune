@@ -1,0 +1,180 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "RAJA KUMAR",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C-Programming, Data Structure with Python, Machine Learning",
+        "issuer": "Infosys springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Azure Certification",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java",
+        "issuer": "codecademy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Web Development using HTML, CSS and JavaScript",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Web Development using HTML, CSS and JavaScript",
+        "issuer": "INTERSHALA",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Percentage :75%",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Deoghar Public School Jharkhand",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage 82%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "S.S.P.Y college katoria Banka Bihar",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage 75%",
+        "field_of_study": "Physics, Chemistry, Math",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Recommendation System",
+        "description": "Designed an intuitive Movie Recommendation System utilizing cosine similarity to analyze user preferences and suggest films with similar thematic elements.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "https://github.com/Raja-kumar7479/movie_recommendation_system"
+      },
+      {
+        "name": "Tweet Sentiment Analysis",
+        "description": "Crafted a Tweet Sentiment Analysis model employing Random Forest and vectorization. vectorization captures textual nuances effectively, while the Random Forest classifier excels in predicting sentiment.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "https://github.com/Raja-kumar7479/Tweet-Sentiment-by-RandomForest-main"
+      },
+      {
+        "name": "Spam SMS classifier",
+        "description": "Created an effective SMS Spam Classifier utilizing the Naive Bayes algorithm and for an accessible user interface. The model, trained on a comprehensive dataset, demonstrates high accuracy in detecting spam messages.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "https://github.com/Raja-kumar7479/sms_spam_classifier_main"
+      },
+      {
+        "name": "cancer detection system",
+        "description": "Developed an advanced Cancer Detection System harnessing the power of machine learning algorithms to assist in the early diagnosis of cancer. Leveraged a convolutional neural network (CNN) model trained on extensive histopathological image datasets.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "https://github.com/Raja-kumar7479/Cancer_Detection"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Real Time Application Website",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "",
+        "description": "Designed and developed a real-time education website where users can download notes and access video lectures related to competitive exams in India.",
+        "location": "",
+        "links": "https://shyampracticepp.pythonanywhere.com/",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python (flask)",
+      "C",
+      "K-NIME",
+      "Tableau",
+      "HTML",
+      "CSS",
+      "XML",
+      "JavaScript",
+      "React",
+      "MYSQL",
+      "Node JS",
+      "Machine-Learning",
+      "Computer Network",
+      "operating system",
+      "DBMS",
+      "DSA",
+      "AUTOMATA",
+      "Computer Architecture"
+    ],
+    "soft_skills": [],
+    "name": "RAJA KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,119 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sreeram Kandukuri",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "Enthusiastic and motivated undergraduate student pursuing a degree in computer science. Proficient in C++,python,CSS. Eager to apply theoretical knowledge into practical scenarios and contribute effectively to industry. Looking for opportunities to further develop skills and gain valuable experience in industry.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "8.80/10",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "BSEAP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.8/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Load Balancing in networks",
+        "description": "Implemented a Job Scheduler application using Pythons Tkinter and NetworkX libraries. Q-learning algorithm for job allocation among network nodes. Facilitated job submissions, migration tracking, and graph visualization. Demonstrated proficiency in Python programming, GUI development, and algorithmic decision-making.",
+        "keywords": [
+          "Python",
+          "Tkinter"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Railway Reservation System",
+        "description": "Developed a Railway Reservation System using Django to facilitate seamless train ticket booking. The system includes features for searching trains, checking seat availability, making reservations, getting reviews and writing about the journey.",
+        "keywords": [
+          "Django",
+          "SQLite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bank Customer Churn Analysis",
+        "description": "Developed machine learning models to predict bank customer churn using algorithms like Random Forest, XGBoost, SVM, Logistic regression and Nearest neighbor algorithms. Analyzed customer data to identify patterns and features influencing churn.",
+        "keywords": [
+          "Python",
+          "Machine Learning algorithms"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Django"
+        ],
+        "endDate": "August 2023",
+        "company_name": "APSSDC",
+        "description": "Interned at APSSDC, where I gained valuable hands-on experience learning Django, a web development framework. Developed practical skills and understanding in Django while contributing to real projects during the internship tenure.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "JS",
+      "HTML",
+      "CSS",
+      "SQLite",
+      "MySQL",
+      "Django"
+    ],
+    "soft_skills": [],
+    "name": "Sreeram Kandukuri",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

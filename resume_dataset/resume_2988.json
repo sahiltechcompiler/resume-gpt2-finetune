@@ -1,0 +1,147 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "R E DHARSHAN",
+  "college": "HINDUSTAN INSTITUTE OF TECHNOLOGY AND SCIENCE, INDIA",
+  "locations": [
+    "Chennai"
+  ],
+  "full_output": {
+    "summary": "Aspiring B. Tech Computer Science student entering fourth year. Proficient in Python Programming and Familiar with MySQL. Strong foundation in Machine Learning and Computer Vision. Knowledge of frontend technologies like HTML, CSS and Javascript. Eager to contribute to future projects and innovation.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "HINDUSTAN INSTITUTE OF TECHNOLOGY AND SCIENCE, INDIA",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. TECH",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.91",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "LEO MATRICULATION HIGHER SECONDARY SCHOOL, CHENNAI",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "HSE",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Mark Obtained: 83.66 %",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "LEO MATRICULATION HIGHER SECONDARY SCHOOL, CHENNAI",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "SSLC",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Mark Obtained: 77 %",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sign Language Interpretation",
+        "description": "Implementing Real-Time Sign Language Recognition using the Trained Model of the h5 Keras File. Collected the Data using Computer vision and trained the model online to convert it into an h5 keras file which is optimized for hand sign recognition.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Electric Vehicle Maintenance Scheduling",
+        "description": "Developed an electric vehicle maintenance system using a customized ESP32 PCB Board. Integrating Sensors for collecting data and using ML Clustering Algorithms will cluster the data for future optimization.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Contactless Doorbell System",
+        "description": "Build a contactless doorbell system using an esp32 cam for image capture and detecting motion. Used legacy of the Blynk app which involves cloud deployment using Java and customized the settings for the contactless doorbell system app.",
+        "keywords": [],
+        "endDate": "Nov 2023",
+        "startDate": "July 2023",
+        "url": ""
+      },
+      {
+        "name": "Table Tennis using Hand Gesture",
+        "description": "Developed a GUI using Pygame for the Table Tennis Game and created the environment and resources for the game. Used Holistic Mediapipe and Computer Vision for Hand tracking and Developed a code- explicit AI for Single Player Mode.",
+        "keywords": [],
+        "endDate": "May 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English: Fluent",
+      "German: Intermediate"
+    ],
+    "experiences": [
+      {
+        "role_name": "Artificial Intelligence and Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "Innovate Intern",
+        "description": "Gathered various datasets suitable for object segmentation tasks and preprocessed them for training and evaluation. Implementing Mask RCNN for precise object segmentation.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [],
+        "endDate": "Oct 2023",
+        "company_name": "IntenForte",
+        "description": "Gathered various datasets from online websites used multiple machine learning algorithms and optimized them to predict the datasets. Learned and Implemented CNN for Breast Cancer Classification.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "MySQL",
+      "Query Writing",
+      "Python Programming",
+      "C Programming",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "NodeJs",
+      "ReactJs",
+      "Machine Learning",
+      "Computer Vision",
+      "Git"
+    ],
+    "soft_skills": [
+      "Strong verbal and written communication skills.",
+      "Demonstrate teamwork in various group Projects.",
+      "Willingness to learn and adapt to new technologies and methodologies.",
+      "Take initiative to make improvements.",
+      "Maintain and adapt to changing environments and challenges.",
+      "Strong analytical skills demonstrated through coursework and projects.",
+      "Proficient in practical skills including Python, MySQL, and Linux."
+    ],
+    "name": "R E DHARSHAN",
+    "position": "",
+    "interests": [
+      "Playing Video Games",
+      "Listening to Music",
+      "Watching Movies and Webseries"
+    ],
+    "achievements_and_awards": [
+      "Certificate of Appreciation in Game Designing at Skill-A-Athon 2023."
+    ],
+    "publications": []
+  },
+  "current_location": "CHENNAI, TAMIL NADU",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B. TECH"
+}

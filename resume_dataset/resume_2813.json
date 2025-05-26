@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "CHAITANYA KRISHNA NEKKALAPU",
+  "college": "SRM University",
+  "locations": [
+    "Amaravati, Andhra pradesh",
+    "Guntur, Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundation of Cybersecurity",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "May 2025",
+        "maximum_grade": "10.00",
+        "degree": "Bachelor of Technology",
+        "location": "Amaravathi, Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "7.95/10.00",
+        "field_of_study": "Computer Science",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Sri Chaitanya Educational Institution",
+        "endDate": "May 2021",
+        "maximum_grade": "1000",
+        "degree": "",
+        "location": "Guntur, Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "938/1000",
+        "field_of_study": "",
+        "startDate": "August 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Identity Verify: Smart Facial Recognition Attendance System",
+        "description": "Engineered a web-based application for user registration and attendance management using advanced facial recognition, achieving a 95% improvement in user verification accuracy. Created responsive front-end interfaces with HTML, CSS, and PHP, leading to a 30% increase in user engagement, while integrating a Python SVM model for accurate facial identification. Refined application deployment on a XAMPP server, enhancing stability and reducing server response time by 20%, ensuring reliable and efficient performance.",
+        "keywords": [],
+        "endDate": "Apr 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Alumni Database Management system",
+        "description": "Developed an Alumni Database Management system using GoLang, incorporating dual login functionalities for both students and staff, ensuring secure and personalized access through a user-friendly web interface. Implemented comprehensive security protocols to safeguard sensitive student data, facilitating efficient online storage, updates, and accessibility, and effectively eliminating the cumbersome manual record-keeping process. Demonstrated proficiency in Java and object-oriented design principles by streamlining database operations, enhancing file system management techniques, and creating intuitive solutions for an improved user experience.",
+        "keywords": [],
+        "endDate": "Apr 2024",
+        "startDate": "Jan 2023",
+        "url": ""
+      },
+      {
+        "name": "Citrus Canker Disease Detection",
+        "description": "Employed cutting-edge Python-based Convolutional Neural Network models, such as VGG16 and ResNet50, to transform the diagnosis of citrus canker in plant images, introducing an approach to combat agricultural diseases. Engineered a bespoke convolution-based architecture Planned specifically for the precise identification of intricate citrus canker symptoms, resulting in a substantial improvement in disease detection accuracy and efficiency. Spearheaded ResNet50 analysis, offering key insights to refine disease classification techniques, fortifying agricultural sustainability efforts.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "SRM University",
+        "description": "Optimized data aggregation and energy efficiency in Wireless Sensor Networks (WSNs) by implementing k-means and LEACH algorithms, significantly enhancing clustering processes and overall network performance. Developed and analyzed sensor architectures with integrated Machine Learning techniques, enabling efficient data collection and Agile cluster formation for robust and adaptable networks. Published impactful research in peer-reviewed journals on clustering and Machine Learning in WSNs, advancing the efficiency and sustainability of sensor networks across diverse applications. Designed and deployed WSN solutions for industrial automation, agriculture, smart cities, and healthcare, leading to enhanced resource allocation, improved efficiency, and reduced operational downtime.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "GoLang",
+      "C",
+      "C++",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "PHP",
+      "TypeScript",
+      "Bootstrap",
+      "MySQL",
+      "MongoDB",
+      "DBMS",
+      "Chrome Developer Tools",
+      "Postman",
+      "XAMPP",
+      "Git",
+      "TensorFlow",
+      "Scikit-learn",
+      "OpenCV"
+    ],
+    "soft_skills": [],
+    "name": "CHAITANYA KRISHNA NEKKALAPU",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Certified in Database Management System and Foundation of Cybersecurity, demonstrating strong proficiency in data management and cybersecurity principles, essential for modern IT environments.",
+      "Exhibited leadership and organizational skills by serving as Head of Volunteers for college events and Class Representative, effectively managing teams and ensuring clear communication.",
+      "Participated in Reskill (Meta) and Hash Code (VITAP) Hackathons, showcasing problem-solving abilities and a proactive approach to learning, innovation, and professional development."
+    ],
+    "publications": []
+  },
+  "current_location": "Amaravati, Andhra pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

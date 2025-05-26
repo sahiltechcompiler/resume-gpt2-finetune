@@ -1,0 +1,153 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "SHREYA RAJESH BUKINKERE",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan, India",
+    "Mumbai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Artificial Intelligence",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Networks",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cervical Cancer Risk Prediction",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP-PYTHON-2024",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "B.Tech.",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.60 / 10",
+        "field_of_study": "IT",
+        "startDate": "2021"
+      },
+      {
+        "school": "The Vatsalya School",
+        "endDate": "2019",
+        "maximum_grade": "100",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 89 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "St. Mary's School, Pune",
+        "endDate": "",
+        "maximum_grade": "100",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 93.80 / 100",
+        "field_of_study": "ICSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Cervical Cancer Risk Prediction using Machine Learning",
+        "description": "The Cervical Cancer Risk Prediction project uses machine learning to predict the risk of cervical cancer by conducting thorough Exploratory Data Analysis (EDA) and employing the XGBoost algorithm. The project starts with collecting and preprocessing relevant datasets, including patient demographics and medical history. EDA is performed to identify patterns and relationships within the data, followed by feature engineering to enhance model performance. The XGBoost model is then trained and optimized, with its performance evaluated using metrics such as accuracy, precision, and recall. This predictive model aims to assist healthcare professionals in early detection and intervention, ultimately improving patient outcomes by providing a data-driven approach to assessing cervical cancer risk.",
+        "keywords": [],
+        "endDate": "10 Apr, 2024",
+        "startDate": "15 Jan, 2024",
+        "url": "https://colab.research.google.com/drive/1dX7sEZWupgOdPDCa9-GZ4IpPtda1S32Z?usp=sharing"
+      },
+      {
+        "name": "Football League",
+        "description": "The Football League Management System provides a structured and efficient way to manage the diverse and dynamic data associated with a football league. By leveraging a well-designed relational database schema, the system ensures that all aspects of the league are documented, accessible, and manageable, fostering better decision-making and operational efficiency.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/shreyabukinkere/Football-League"
+      }
+    ],
+    "languages": [
+      "Kannada",
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "experiences": [
+      {
+        "role_name": "IT / Computers - Software Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Hindustan Petroleum Corporation Limited",
+        "description": "My internship at Hindustan Petroleum Corporation Limited is a two month summer internship at Mumbai.",
+        "location": "Mumbai",
+        "links": "",
+        "startDate": "01 Jun, 2024"
+      },
+      {
+        "role_name": "IT / Computers - Software Intern",
+        "skillsUsed": [],
+        "endDate": "20 Jul, 2023",
+        "company_name": "R. R. Logic Systems",
+        "description": "This internship was a two month summer internship which was remote. I worked in Linux and used QEMU for development of embedded systems.",
+        "location": "",
+        "links": "",
+        "startDate": "20 May, 2023"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "SHREYA RAJESH BUKINKERE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan, India - 303007",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech."
+}

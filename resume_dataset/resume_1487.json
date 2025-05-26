@@ -1,0 +1,165 @@
+{
+  "project_count": 3.0,
+  "designation": "Django Backend Developer | Penetration Tester",
+  "name": "Shashwat Singh",
+  "college": "Dr. A. P. J. Abdul Kalam Technical University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certified in Cybersecurity",
+        "issuer": "[ISC2 - CC]",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundations of Cybersecurity",
+        "issuer": "[Google]",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Foundation",
+        "issuer": "[Palo Alto Networks]",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Analyst",
+        "issuer": "[IBM]",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certified Appsec Practitioner",
+        "issuer": "[CAP]",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Practical Ethical Hacking",
+        "issuer": "[TCM Security]",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "One Audit Bootcamp",
+        "issuer": "[ControlCase]",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Networking Essentials",
+        "issuer": "[CISCO]",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A. P. J. Abdul Kalam Technical University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Lucknow",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "VidyutKavach",
+        "description": "A Cyber-Secure Web-Based Energy Management System Implemented a multi-layered security approach, utilizing an MQTT broker server for IoT authentication, Network-Based Signature IDPS, Host-Based Heuristic IDPS, and SOAR technology. Integrated robust data analysis and visualization models to provide real-time insights into energy production, consumption, and export, enhancing decision-making processes. Designed with a cloud/hybrid setup capability, making it highly cost-effective for small and medium-scale IPPs (Independent Power Producers), ensuring scalability and efficiency.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AnubhavSanraksha",
+        "description": "An Autonomous Learning Intrusion Detection and Prevention System Deployed heuristic IDPS on host systems to meticulously scan and thwart malicious packets, significantly fortifying network defenses against potential threats. Engineered a dynamic signature generation system, enabling the creation of new signatures tailored to swiftly identify newly detected malicious packets. Seamlessly integrated these newly generated signatures into a network-based signature IDPS, facilitating continuous training and optimization of detection capabilities, particularly effective against 0-day attacks.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FauxDNS",
+        "description": "Deceptive DNS for MITM Attack Simulation Fake DNS Server: Engineered a DNS server running on personal laptops to deceive smartphones, redirecting their TCP traffic to the laptop for analysis. Proxy Server: Designed a server to manage traffic redirection between smartphones and remote servers, enabling seamless interception and inspection of network traffic. Fake Certificate Authority: Created a robust tool for generating TLS certificates, ensuring that smartphones trust the deceptive network setup, facilitating comprehensive security assessment.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Blockchain Research Lab",
+        "description": "Developed projects utilizing Django, DRF, and RESTful APIs, incorporating features such as socket programming, payment integrations, and machine learning. Demonstrated leadership skills as a team leader, effectively managing and mentoring 5-10 developers to achieve project objectives. Responsible for overseeing the security, testing, and deployment processes for all projects within the organization, ensuring quality and efficiency throughout the development lifecycle.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec. 2022"
+      }
+    ],
+    "skills": [
+      "Django Framework: Advanced ORM, Custom Middleware, Django Signals, Django Channels (WebSockets)",
+      "APIs Development: Django Rest Framework (DRF), RESTful APIs",
+      "Web Application Security: OAuth, JWT, SSO, Data Encryption, OWASP",
+      "Database Management: PostgreSQL, MySQL, Database Schema Design, Redis",
+      "Deployment and DevOps: CI/CD pipelines, Docker, Nginx & Gunicorn deployment, AWS, Azure.",
+      "Programming Languages: C, C#, Python, Bash.",
+      "Cybersecurity: Network Security, Incident Response, Security Monitoring and Analysis, Endpoint Security, Cloud Security, Web Application Firewall (WAF), Threat Hunting, Security Compliance Frameworks, Risk Management, IDPS, SIEM, SOAR.",
+      "Penetration Testing: Social Engineering, Web Application Penetration Testing, OWASP Top 10, RAT Development, Buffer Overflow Exploitation, Active Directory Testing, Wireless Penetration Testing.",
+      "Tools: Snort, Splunk, OpenVAS, Burp Suite, Nessus, Metasploit, Wireshark.",
+      "Computer Networking: Network Protocols, DNS Configuration and Management, Network Security Principles, Routing and Switching."
+    ],
+    "soft_skills": [],
+    "name": "Shashwat Singh",
+    "position": "Django Backend Developer | Penetration Tester",
+    "interests": [],
+    "achievements_and_awards": [
+      "30Hacks24: Winner in the 'Sustainable Energy Solutions' track at 30Hacks, hosted by Hitachi x GlobalLogic.",
+      "SIH23: Winner of Smart India Hackathon organized by Government of India in PS presented by Ministry of Power.",
+      "SGH24: Won the 'Most Innovative Idea' title at the Shankara Global Hackathon organized by Shankara Global University.",
+      "HackTheBox: Attained a global ranking of 714.",
+      "TryHackMe: Ranked in the top 10% globally."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

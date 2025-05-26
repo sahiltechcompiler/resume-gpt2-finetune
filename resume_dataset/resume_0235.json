@@ -1,0 +1,285 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "DIVGYANSHI KUMAR",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Kolkata",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "As a result-driven individual, I leverage my expertise in Python, Robotics, 3D Modelling and Pneumatics & Hydraulics Systems to drive technological advancements and explore opportunities at the intersection of technology and human experience. With a passion for pushing boundaries, I'm committed to collaborating on projects that foster growth. I am actively seeking roles in Artificial Intelligence, Machine Learning, Robotics, and Automation fields, where I can apply my skills to drive innovation.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning Specialization: Sequence Models",
+        "issuer": "Deeplearning.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning Specialization: Convolutional Neural Networks",
+        "issuer": "Deeplearning.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning Specialization: Structuring Machine Learning Projects",
+        "issuer": "Deeplearning.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning Specialization: Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization",
+        "issuer": "Deeplearning.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning Specialization: Neural Networks and Deep Learning",
+        "issuer": "Deeplearning.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "First Principles of Computer Vision: Camera and Imaging",
+        "issuer": "Columbia University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "First Principles of Computer Vision: Features and Boundaries",
+        "issuer": "Columbia University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "First Principles of Computer Vision: 3D Reconstruction- Single Viewpoint",
+        "issuer": "Columbia University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "First Principles of Computer Vision: 3D Reconstruction - Multiple Viewpoints",
+        "issuer": "Columbia University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "First Principles of Computer Vision: Visual Perception",
+        "issuer": "Columbia University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Joy of Computing using Python",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The complete AutoCAD 2018-21 Course",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "Present",
+        "maximum_grade": "GPA: 9.82/10",
+        "degree": "B. Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.81/10",
+        "field_of_study": "Mechatronics Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "G.D. Birla Centre for Education",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CICSE",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90.75%",
+        "field_of_study": "12th",
+        "startDate": ""
+      },
+      {
+        "school": "G.D. Birla Centre for Education",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "CICSE",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "82.2%",
+        "field_of_study": "10th",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Solar Powered Servo-Driven IOT Based Hydroponics Vertical Tower Garden",
+        "description": "Built a Tower Garden, a vertical hydroponic system leveraging IoT technology, equipped with solar panels and omnidirectional wheels to provide a time-efficient and cost-effective alternative to conventional gardening.",
+        "keywords": [
+          "C++",
+          "Arduino",
+          "Solar Panels",
+          "Photo-resistive sensors",
+          "Solar Power Manager",
+          "Servo-driven wheels"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Intelligent Traffic Flow Prediction Model",
+        "description": "Developed/Implemented/Tested a traffic flow prediction framework called 'The Intelligent Traffic Prediction with Dijkstra and LSTM System' to find the best routes.",
+        "keywords": [
+          "Python",
+          "TensorFlow"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Covid -19 Detection using Neural Networks",
+        "description": "Performed data augmentation on image datasets for training/testing to create a learning model that runs prediction on whether a patient is suffering from COVID-19 in Jupyter Notebook.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "TensorFlow"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Handwritten Digit Recognition",
+        "description": "Created a training and testing dataset to perform feature scaling. Sequential model was used for feature extraction. The model was compiled and tested for accuracy in Jupyter Notebook.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "TensorFlow"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Research Project - Transformative Quadruped",
+        "description": "Studied/Designed quadruped capable of switching between two locomotion i.e., rolling and walking in TinkerCAD.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Industrial Training Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Techcon India (P) Ltd",
+        "description": "Assisted in receiving & inspecting moulds sent by customers, ensuring they meet company standards and customer requirements. Gained insights into the programming of the control systems, quality control measures, injection and blow moulding manufacturing processes and the integration of robotics in handling and assembling tasks, reducing manual labour and increasing productivity. Observed and analysed defects & non-conformities, identifying root causes and implementing corrective actions to prevent recurrence.",
+        "location": "Kolkata",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Brain O Vision Solutions India Pvt Ltd",
+        "description": "Gained practical experience in data science methodologies and applications to apply theoretical knowledge to real-world projects, enhancing problem-solving and analytical skills. Worked extensively with data manipulation tools such as Pandas, NumPy, including creating and managing data frames. Learned feature engineering techniques to improve model performance.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "February 2024",
+        "company_name": "Edu-versity",
+        "description": "Trained under Edu-versity on the implementation of various models such as Nave Bayes, Logistic Regression, KNN etc. Gained experience working with ML frameworks such as Keras, TensorFlow and utilized Matplotlib for visualizing data and presenting insights.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "Robotics & Automation",
+      "Artificial Intelligence & Machine Learning",
+      "Algebra",
+      "Calculus",
+      "Computer Vision",
+      "Data Science",
+      "Statistics",
+      "Probability",
+      "Image Processing",
+      "Data Structures & Algorithms"
+    ],
+    "soft_skills": [
+      "Strong problem-solving",
+      "Fast learning",
+      "Attention to detail",
+      "Creativity",
+      "Leadership",
+      "Conflict Resolution"
+    ],
+    "name": "DIVGYANSHI KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Dr. TMA Pai Merit Scholarship (2021-22, 2022-23, 2023-2024)",
+      "Deans List Award of Excellence (4th Sem, 5th Sem)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B. Tech"
+}

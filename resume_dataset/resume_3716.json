@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Apoorv Rathore",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "Software engineering graduate skilled in Java, Python, and web development, with solid problem-solving abilities. Experience in hands-on projects, seeking to apply technical expertise in practical applications.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "GPA: 6.91 / 10.00",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Ayan National Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 82",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Ayan National Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 84.6",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Simple Book App",
+        "description": "Built a simple book application using Android and Kotlin that enables users to search for books, view detailed information, and maintain a list of favorites, providing a smooth and intuitive user experience. Integrated Volley library to handle API requests and responses, ensuring fast and reliable data fetching from online book databases, enhancing the applications performance with ecient network operations and error handling.",
+        "keywords": [
+          "Android",
+          "Kotlin",
+          "Volley",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com"
+      },
+      {
+        "name": "Advanced ERP Management System",
+        "description": "A Python-based ERP system for educational institutes, built with Django and MySQL Streamlining administration, student records, course management, Online Classes, Notes and faculty operations in a cohesive platform.",
+        "keywords": [
+          "Python",
+          "Django",
+          "SQL",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com"
+      },
+      {
+        "name": "StreamChat-A real time chat application",
+        "description": "Stream chat applications using Firebase Firestore with Java and XML on Android enable real-time message updates. Firestores scalable NoSQL database ensures ecient data handling, while XML oers exible, intuitive UI design In Java-based Android stream chat apps, Firebase Firestore enables ecient data transactions, structured queries, and oine support. XML design simplies UI creation, while Firestores seamless syncing ensures real-time chat updates across multiple devices, even during network disruptions.",
+        "keywords": [
+          "Android",
+          "Java",
+          "Firebase",
+          "Firebase Cloud Messaging"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com"
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "June 2021",
+        "company_name": "Internshala Trainings",
+        "description": "Successfully completed a 8 weeks online certied training on Android App Development. The training consisted of Introduction to Android, World of Kotlin, Android Kick-O, Higher Order Functionalities, and The Final Project modules.",
+        "location": "Greater Noida, Uttar Pradesh",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Python",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "JavaScript",
+      "React.js",
+      "BootStrap",
+      "Django",
+      "Android",
+      "Node.js"
+    ],
+    "soft_skills": [],
+    "name": "Apoorv Rathore",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

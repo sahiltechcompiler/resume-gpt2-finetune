@@ -1,0 +1,134 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "MOHAN VIGNESH",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh",
+    "Vuyyuru",
+    "Vijayawada"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.55/10.0",
+        "field_of_study": "Computer Science and Engineering with Specialization in AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "Viswashanthi Jr College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Vuyyuru",
+        "ID": 1.0,
+        "grade_received": "95.1/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "viswashanthi Educational Institutions",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Vijayawada",
+        "ID": 2.0,
+        "grade_received": "90.2/100",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather API Python Project",
+        "description": "Developed a Python application to provide real-time temperature information, achieving 95% accuracy and a response time of less than 2 seconds. Functionality: Takes a city name as input and fetches the current temperature using an online weather API,with a 99.9% uptime.",
+        "keywords": [
+          "Python",
+          "Weather API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Path Finding Using AI Algorithm",
+        "description": "Designed a project utilizing the A* algorithm to determine the shortest path between cities, reducing computation time by 40% compared to traditional methods. A* explores 50% fewer nodes than Dijkstras algorithm on average, increasing efficiency in route calculation. Functionality: Processes a dataset with over 100 city names, latitudes, and longitudes. Forms a Minimum Spanning Tree (MST) that reduces the graph by more than 60% and calculates the shortest path between specified source and destination cities and represents cities on a map using Folium.",
+        "keywords": [
+          "Python",
+          "AI Algorithms",
+          "Graph Concepts"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Privacy Preserving Analytics",
+        "description": "Built a comprehensive platform for secure data handling and visualization. Functionality: Defined 2 distinct roles for data owners and data analysts. Directed the secure upload process for data owners, ensuring CSV files are uploaded in the Data Owners tab; enabled data analysts to generate encrypted insights, enhancing data security and accuracy by 25%. Ensured data privacy and integrity through encryption, achieving 100% data protection. Provided 3 types of insightful data visualizations.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "PHP",
+          "Data Analysis Concepts"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "UROP (Undergraduate Research Opportunity Program)",
+        "skillsUsed": [],
+        "endDate": "Jul 2025",
+        "company_name": "SRM AP University",
+        "description": "Developed and implemented a novel approach to enhance Particle Swarm Optimization (PSO) by subdividing the search space into multiple subspaces, leading to a 30% improvement in convergence speed and a 25% increase in solution quality. Refined particle position calculations with Zarkhov functions; achieved a 35% increase in algorithm efficiency and a 25% reduction in computation time, delivering substantial time savings for the data analysis team. Optimized localized exploration by partitioning the search space and assigning particles to subspaces, resulting in a 40% increase in solution space coverage.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2021"
+      }
+    ],
+    "skills": [
+      "MySQL",
+      "MongoDB",
+      "React",
+      "Node",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Python",
+      "C",
+      "C++(medium)",
+      "JavaScript",
+      "HTML/CSS",
+      "SQL",
+      "Artificial Intelligence",
+      "Machine Learning Algorithms",
+      "Operating Systems",
+      "Database Management"
+    ],
+    "soft_skills": [],
+    "name": "MOHAN VIGNESH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Certificate in ServiceNow micro-certification."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

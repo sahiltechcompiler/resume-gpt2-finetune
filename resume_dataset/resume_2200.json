@@ -1,0 +1,112 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "KAREENA M N",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamil Nadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Implemented AI-generated images that led to a 20% increase in website engagement metrics, including a higher average time spent on the site and a lower bounce rate during the Hackathon event period. Collaborated with a team of 4 designers and developers, contributing to a 35% reduction in overall design time.",
+      "Collaborated with a team of 5 volunteers to design and distribute 50+ unique posters across various platforms, resulting in a 40% increase in event awareness. Achieved 5% boost in pre-event registrations compared to previous years."
+    ],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chennai, Tamil Nadu",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.95 / 10",
+        "field_of_study": "Computer Science and Business Systems",
+        "startDate": "Sep 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "QueryMe",
+        "description": "Developed a comprehensive data analytics tool capable of processing and visualizing CSV datasets with over huge rows, delivering insights within 5 seconds of file upload. Engineered an intuitive Streamlit interface for seamless user interaction, enabling users to generate dynamic charts and analytics, resulting in a 30% increase in user engagement. Optimized data handling and model processing to support concurrent analysis requests from up to 100 users simultaneously.",
+        "keywords": [
+          "Langchain",
+          "Llama2",
+          "PandasAI",
+          "Streamlit"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI Assistant",
+        "description": "Engineered a conversational AI chatbot utilizing Llamaindex and advanced vector embeddings, achieving a 25% reduction in response time compared to traditional NLP models. Implemented LoRa (Low-Rank Adaptation) for fine-tuning the chatbots language model, resulting in a 30% decrease in computational resource consumption and a 15% improvement in model precision, enabling real-time interaction capabilities. Designed and deployed a user-friendly interface using Streamlit, facilitating seamless interaction.",
+        "keywords": [
+          "Llamaindex",
+          "Vector Embeddings",
+          "LoRa",
+          "Streamlit"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "IETE CHENNAI",
+        "description": "Spearheaded a transformative internship journey at IETE Chennai by revamping data analysis techniques, leading to a 60% increase in data accuracy and efficiency. Acquired expertise in working with relational databases, leading to a 90% improvement in data handling efficiency and a 50% reduction in query execution time. Leveraged Python scripts to automate data cleansing and optimize a 30% improvement in data accuracy.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "GSK",
+        "description": "Directed a data-driven overhaul at GSK Chennai, optimizing analytical processes. Deployed Tableau dashboards that enhanced efficiency by 40% and reduced data processing time by 25%. Gathered and cleaned raw data from diverse sources, and processed and transformed data using Python and SQL.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python libraries - Numpy",
+      "NLTK",
+      "Scipy",
+      "Keras",
+      "Pytorch",
+      "Tensorflow",
+      "Data Engineering - SQL",
+      "Hadoop",
+      "Spark",
+      "Business Intelligence - Excel",
+      "PowerBi",
+      "Tableau",
+      "Data Analysis - EDA",
+      "Pandas",
+      "Hubspot",
+      "Editor - Jupyter Notebook",
+      "Framework - Langchain",
+      "Hugginface",
+      "LlamaIndex"
+    ],
+    "soft_skills": [],
+    "name": "KAREENA M N",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,142 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "ANISH SANJAY KHADTARE",
+  "college": "Shah and Anchor Kutchhi Engineering College",
+  "locations": [
+    "Chembur",
+    "Koparkhairane",
+    "Vashi",
+    "Gurgaon"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Received certification for completion of 4.5 month course in Web development which included training in HTML, CSS, JavaScript, React and Express js",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Received certification for completion of Spoken Tutorial certification courses in Java",
+        "skillsLearned": [],
+        "title": "Spoken Tutorial Certification in Java",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor Kutchhi Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Chembur",
+        "ID": 0.0,
+        "grade_received": "CGPA 9.25",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Swami Vivekanand Jr. College of Science and Commerce",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Examination",
+        "location": "Koparkhairane",
+        "ID": 1.0,
+        "grade_received": "69.85 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Marys Multipurpose High School And Junior College",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Secondary School Examination",
+        "location": "Vashi",
+        "ID": 2.0,
+        "grade_received": "88.80 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Educational Technology Platform",
+        "description": "Developed a comprehensive educational technology platform enabling students to purchase courses of their interest which are published by diverse publishers. Designed and developed the backend of the application. I was responsible for developing all the required models and controllers for the application and also designed middlewares for user authentication purposes.",
+        "keywords": [
+          "Express.js",
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "HTML",
+          "Tailwind CSS"
+        ],
+        "endDate": "2024",
+        "startDate": "2020",
+        "url": ""
+      },
+      {
+        "name": "Crypto Tracker",
+        "description": "Objective was to develop a web application to help cryptocurrency investors in tracking the current market price of top crypto currencies and also analyze its past performance on different timeline scales using graphical representation. The application helps users to keep a track of crypto currency prices in different currencies and different time formats. Challenges faced: Managing the state of a number of components such as currency, themes, currency symbols. Optimized the performance of the application using React Context API which helped in creating a centralized store for accessing the currency state.",
+        "keywords": [
+          "React JS",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Click Here"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Express.js",
+          "MERN Stack",
+          "Json Web Tokens"
+        ],
+        "endDate": "August 2022",
+        "company_name": "Twowaits Technologies Pvt. Ltd",
+        "description": "Implemented backend for MERN Stack project which was a video streaming application. My role was to design and develop the models, controllers and middlewares for the backend using Express.js. Implemented user authentication and authorization using Json Web Tokens.",
+        "location": "Gurgaon",
+        "links": "",
+        "startDate": "July 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "MySQL",
+      "React JS",
+      "JavaScript",
+      "Tailwind CSS",
+      "HTML",
+      "CSS",
+      "Express JS",
+      "Node JS",
+      "MongoDB",
+      "Git",
+      "GitHub",
+      "Postman",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "ANISH SANJAY KHADTARE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

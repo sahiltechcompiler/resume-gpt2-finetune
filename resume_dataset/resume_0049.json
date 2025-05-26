@@ -1,0 +1,144 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "HARDIK JAIN",
+  "college": "Bhagwan Parshuram Institute of Technology",
+  "locations": [
+    "Delhi"
+  ],
+  "full_output": {
+    "summary": "Motivated professional with a bachelors in computer science engineering. Proficient in Python, data analysis, data visualization and applied statistics. Experienced in project management, teamwork, and problem-solving. Passionate about leveraging data for insightful decision-making and continuous learning.",
+    "certifications": [],
+    "social_work": [
+      "Photonic Crystal Fibre Research - Contributed to a research initiative aimed at producing photonic crystal fibre for use in telecommunications and sensing. Conducting literature studies, assisting with experimental design and data analysis, and working with a team of researchers to develop innovative methodologies for producing and characterization of photonic crystal fibres. This experience enhanced my critical thinking, problem-solving, and experimental design skills, as well as my knowledge of fibre optics and photonics."
+    ],
+    "education": [
+      {
+        "school": "Rajkiya Pratibha Vikas Vidyalaya",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.6",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bhagwan Parshuram Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Delhi",
+        "ID": 1.0,
+        "grade_received": "CGPA: 9.2",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Face Recognition System",
+        "description": "K Nearest Neighbour Classification algorithm in face recognition using OpenCV and Haar Cascades CNN Model for frontal face detection.",
+        "keywords": [
+          "Python",
+          "ML(KNN)",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Exploratory Data Analysis on Sports",
+        "description": "As a sports analyst find out the most successful team, players, and factors contributing win or loss of a team.",
+        "keywords": [
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Olympic Data Analysis",
+        "description": "As a data analyst my goal is to shed light on major patterns in Olympic history. How many athletes, sports, and nations are there? Where do most athletes come from? Who wins medals? What is the characteristic of the athletes (e.g., gender and physical size)?",
+        "keywords": [
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "Seaborn",
+          "Streamlit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Menstrual Cycle Prediction Using Python and Machine Learning",
+        "description": "Created a machine learning model based on the user's daily basal body dataset to predict the timing of menstrual cycles. Data was prepared and examined using Python libraries like Pandas and NumPy. Model selection and feature engineering were involved in this project. - Utilized model selection and feature engineering to achieve an accuracy of 83%.",
+        "keywords": [
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science and Business Analytics Intern",
+        "skillsUsed": [],
+        "endDate": "DEC,2022",
+        "company_name": "The Spark Foundation",
+        "description": "Developed predictive models using machine learning algorithms to forecast sales performance, leading to a 10% improvement in accuracy compared to previous models. Presented findings and recommendations to senior leadership through visualizations and dashboards, effectively communicating complex data insights in a clear and concise manner.",
+        "location": "",
+        "links": "",
+        "startDate": "NOV,2022"
+      }
+    ],
+    "skills": [
+      "C/C++ (Proficient)",
+      "Java",
+      "Python",
+      "NLTK",
+      "NLP",
+      "Standard ML Algorithm (Regression, Classification, Clustering)",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Tableau",
+      "VS Code",
+      "Google Suite as SaaS tool",
+      "Git",
+      "Power BI",
+      "MS Excel",
+      "Jupyter Notebook",
+      "PyCharm",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Good Communication and Analytical skill",
+      "Problem Solving Skills",
+      "Team Management"
+    ],
+    "name": "HARDIK JAIN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "I have these certificates like IBM, tcs MasterCraft Academy, Tata Forage, Coding Blocks in Data Science.",
+      "I have participated in many college hackathons such as Vihaan, CodeFiesta and Mindinstallers and get a great knowledge from that."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

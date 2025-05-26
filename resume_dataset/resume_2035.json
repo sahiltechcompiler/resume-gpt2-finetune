@@ -1,0 +1,133 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "VRATANT SINGH",
+  "college": "Dr. A.P.J. Abdul Kalam Technical University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. A.P.J. Abdul Kalam Technical University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.6/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Nemi Chand Educational Academy",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "86%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Crypto-Tracker",
+        "description": "Developed a responsive website using React.js, Material UI, and Chart.js to display real-time cryptocurrency values graphically with a visually appealing UI. The website utilizes React.js, Material UI, and Chart.js to visually represent data graphically in an impressive, mobile-friendly interface.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Exam Portal",
+        "description": "Created a comprehensive web-based exam portal using ReactJS, Material UI, and Rest API. Implemented user authentication, test creation, grading, and reporting for a seamless user and admin experience. Emphasized user experience by enabling efficient navigation between admin and user sections. Admin credentials (Student No: 2100000, Password: Csi@2100000).",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software development Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Lohum Cleantech",
+        "description": "Authored over 15 APIs and contributed to 60% of the frontend development for the Voltfleet project, including the creation of a comprehensive admin portal to enhance project management and operational efficiency. Developed 20+ AWS Lambda functions to support the projects backend operations. Created a conference summarizer application to generate transcripts and summaries of videos using Python, improving content accessibility and reducing manual summarization time by 70%. Designed and implemented a CRM dashboard used by 100 users, enabling data upload and bulk operations via Excel, and managed API integrations handling over 100 daily API calls. Oversaw the Extended Producer Responsibility (EPR) portal on Lohums website, taking 100% responsibility for hosting and maintenance. Resolved over 3 major plugin-related issues on the companys WordPress site.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "Front-end developement Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2023",
+        "company_name": "Clinqo",
+        "description": "Enhanced website code with over 20 reusable components, boosting maintainability and development efficiency. Proficiently integrated 15+ external APIs using Axios to fetch real-time data, enhancing the user interface and elevating website functionality and user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2022"
+      },
+      {
+        "role_name": "Senior Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Computer Society of India-AKGEC",
+        "description": "Collaborated with backend engineers and designers for cohesive group projects. Hosted a workshop of around 200+ students on React JS, promoting knowledge sharing and skill enhancement within the college.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "Kinesis",
+      "EBS",
+      "EC2",
+      "Amplify",
+      "CI/CD",
+      "Lambda",
+      "SNS",
+      "S3",
+      "Cloudwatch",
+      "Route53",
+      "LoadBalancer",
+      "ACM",
+      "C++",
+      "Python",
+      "Javascript",
+      "ReactJS",
+      "NextJS",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Material UI",
+      "Radix UI",
+      "SASS",
+      "TailwindCSS",
+      "Redux",
+      "NodeJS",
+      "ExpressJS",
+      "Mongoose",
+      "MongoDB",
+      "Postgres",
+      "DynamoDB"
+    ],
+    "soft_skills": [],
+    "name": "VRATANT SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Collaborated with Carikture to develop a website for Shri Ram Builders in Ghaziabad, enhancing client engagement by 30% through the integration of video calling functionality. Utilized React.JS and seamlessly integrated the Jitsi API for secure, seamless video communication among clients and stakeholders.",
+      "2nd Runner up at Hackathon 7.0, UPES Dehradun"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

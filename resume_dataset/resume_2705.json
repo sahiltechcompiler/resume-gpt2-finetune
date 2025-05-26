@@ -1,0 +1,114 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sahithya Akula",
+  "college": "SRM University, AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIE AP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fullstack CHAT App using MERN",
+        "description": "Developed a real-time chat application using the MERN stack, incorporating features like secure user authentication, real-time messaging with Socket.io, and message history storage. Enhanced user experience with a responsive interface, delivering seamless real-time communication while ensuring data security and scalability.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Maximising Credit Card Retention",
+        "description": "Designed and implemented a predictive churn model for corporate banks issuing credit cards using advanced analytics and machine learning techniques. Analyzed historical customer data to identify key churn predictors, enhancing retention strategies and achieving an accuracy rate of 98.3 percentage.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Library Management System",
+        "description": "Engineered a scalable backend with Java and Spring Boot, optimizing library operations and enabling real-time updates for book inventories and user transactions. Built a responsive frontend with HTML, CSS, and JavaScript, allowing users to search, borrow books, and track their borrowing history through a user-friendly interface.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "SRM University, AP",
+        "description": "Applied supervised machine learning to develop and optimize a spam filter, demonstrating expertise in model selection, training, and evaluation. Achieved a 96.2% accuracy rate in classifying spam and non-spam emails, significantly improving the efficiency of email management.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "DSA",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "MERN",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Clear Communication",
+      "Analytical Thinking",
+      "Time Management"
+    ],
+    "name": "Sahithya Akula",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

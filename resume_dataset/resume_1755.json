@@ -1,0 +1,167 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "S ARTHI",
+  "college": "Chennai Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python with Data Science",
+        "issuer": "VYTCDC Software Solutions",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Data Analytics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.23",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Python E - Learning Tutorial",
+        "description": "Developed a Python tutorial application with user authentication, registration, and interactive learning levels (Easy, Medium, Hard) using Tkinter (GUI). Included a timer-based quiz feature at the end and integrated with MySQL database for user management details, progress tracking and quiz scores.",
+        "keywords": [
+          "Python",
+          "Tkinter",
+          "MySQL"
+        ],
+        "endDate": "Oct 2021",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Face Emotion Detection",
+        "description": "Developed a real-time face emotion detection OpenCV for real-time video capture and image processing, facilitating efficient emotion recognition within the Flask web application Trained a VGG -16 model for emotion recognition, achieving an impressive accuracy rate of 93% during evaluation.",
+        "keywords": [
+          "OpenCV",
+          "Tensflow",
+          "Keras",
+          "CNN",
+          "Flask"
+        ],
+        "endDate": "Sep 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat with your PDF chatbot",
+        "description": "Developed an AI-Rag based project using Streamlit interface enabling users to upload, summarize, and query multiple PDF documents using NLP techniques with Hugging Face's GPT-2 model and the LangChain library. Automated the PDF processing workflow using LangChain's PyPDFLoader and used FAISS index for embedding storage and accurate vector-based document retrieval.",
+        "keywords": [
+          "Streamlit",
+          "HuggingFace",
+          "FAISS",
+          "LangChain"
+        ],
+        "endDate": "Jun 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI plagiarism Checker",
+        "description": "Designed and developed an plagiarism detection tool utilizing transformer-based model(GPT-2) for natural language processing. Implemented multi-language support, enabling the detection of AI-generated content across various languages by integrating Google Translate API.",
+        "keywords": [
+          "Transformers",
+          "Tokenizer",
+          "NLTK",
+          "Streamlit"
+        ],
+        "endDate": "Jun 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RisEd Education",
+        "description": "Developed a comprehensive educational website for students to learn online, utilizing HTML, CSS, JavaScript, React.js, and Node.js for the frontend application. The applications layout is managed using Bootstrap for responsiveness, and custom styling is provided through SCSS.",
+        "keywords": [
+          "Reactjs",
+          "Nodejs",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "May 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [],
+        "endDate": "Jun 2024",
+        "company_name": "LearnSmashers",
+        "description": "Acquired hands-on experience with AI technologies and computer vision techniques. Utilized machine learning algorithms to optimize real-time image processing tasks, achieving a 20% reduction in computational load.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "Oasis Infobyte",
+        "description": "Gained expertise in statistical analysis, predictive modeling, and data visualization through projects, including house price prediction, customer segmentation analysis, and retail sales analysis. Demonstrated efficiency in handling datasets with 95% accuracy in data manipulation and analysis using Excel.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "Neo Orange Technology",
+      "Git",
+      "VSCode",
+      "Canva",
+      "Jupyter",
+      "Colab",
+      "PowerBi",
+      "MySQL",
+      "PostgreSQL",
+      "NumPy",
+      "Pandas",
+      "Sci-kit learn",
+      "Matplotlib",
+      "Seaborn",
+      "Tensorflow",
+      "OpenCV",
+      "Langchain",
+      "HuggingFace"
+    ],
+    "soft_skills": [],
+    "name": "S ARTHI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

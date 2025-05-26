@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Mahanthi Rahul",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Networks",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "MERN Stack Authentication System with JWT-based Security",
+        "description": "Developed a MERN stack authentication system with secure user login, registration, and JWT-based authorization, ensuring protected access to user-specific resources. Built a responsive and interactive frontend using React, implementing role-based access control and token storage with localStorage to manage session state. Designed a RESTful API using Node.js and Express, with MongoDB as the database, to handle user authentication, registration, and access control. Implemented encryption for password security using bcrypt and ensured secure communication between the frontend and backend using JWT (JSON Web Token).",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Potato Leaf Disease Detection",
+        "description": "Developed a machine learning model using CNN to detect and classify potato leaf diseases. Utilized Python and TensorFlow for image processing and model training, demonstrating strong problem-solving skills. Conducted exploratory data analysis to identify patterns and improve model performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developed a recommendation system using Python, Pandas, and Scikit-learn, implementing content-based filtering with cosine similarity. Enhanced backend logic to improve recommendation accuracy and user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "APSSDC",
+        "description": "Led a comprehensive data analysis project using Python, improving decision-making. Utilized libraries like Pandas, NumPy, and Matplotlib for data manipulation and visualization, delivering actionable insights.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Undergraduate Research",
+        "skillsUsed": [],
+        "endDate": "Apr 2023",
+        "company_name": "UROP",
+        "description": "Conducted research on data-driven leaf disease detection projects, focusing on data extraction and analysis. Developed and standardized report templates to support operational needs, enhancing decision-making processes.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Javascript",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "GitHub",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React.Js",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis"
+    ],
+    "soft_skills": [
+      "Problem-solving",
+      "Attention to Detail",
+      "Team Collaboration",
+      "Strong Communication",
+      "Time Management"
+    ],
+    "name": "Mahanthi Rahul",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 93.4 percentile in All India JEE-MAINS examination.",
+      "Solved 300+ problems on LeetCode, Coding Ninjas, and GeeksforGeeks, demonstrating strong problem-solving skills."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

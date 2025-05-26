@@ -1,0 +1,141 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Navin Manohar",
+  "college": "Bhagwan parshuram Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate Course in Web Application Developer",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Web Developer",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Bhagwan parshuram Institute of Technology",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "80%",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "75%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "75%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "social media",
+        "description": "The project utilized the MERN stack, featuring Node.js and Express.js for the backend, MongoDB for the database, React for the frontend, Redux for state management, and Socket.io for real-time notifications, enhancing the application's scalability, responsiveness, and user interactivity.",
+        "keywords": [],
+        "endDate": "August 2023",
+        "startDate": "July 2023",
+        "url": ""
+      },
+      {
+        "name": "Weather app",
+        "description": "In this web app I using react js for display the components and html css for structure and design and rest api fetching for fetch the data from the server for display about the weather.",
+        "keywords": [],
+        "endDate": "June 2023",
+        "startDate": "June 2023",
+        "url": ""
+      },
+      {
+        "name": "Portfolio",
+        "description": "I am created portfolio to display my skill. In this project I am using html css only to display all the thing about me.",
+        "keywords": [],
+        "endDate": "May 2023",
+        "startDate": "May 2023",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "english ( Both )",
+      "Hindi ( Both )"
+    ],
+    "experiences": [
+      {
+        "role_name": "Member Technical Staff",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "GeeksForGeeks",
+        "description": "Lead the development and implementation of a MERN stack mentorship program, resulting in a 30-40% increase in team member proficiency in key development areas, as measured by performance evaluations and project completion times. Developed and maintained critical functionalities of the GeeksforGeeks Doubt Portal, resulting in a 70-80% increase in user engagement. Collaborated with senior developers to streamline code review processes, reducing development time by 30%. This resulted in faster project delivery and increased team productivity.",
+        "location": "",
+        "links": "",
+        "startDate": "January 2024"
+      },
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "January 2024",
+        "company_name": "GeeksForGeeks",
+        "description": "Provided comprehensive MERN stack guidance, raising student project completion rates by over 50%. Conducted engaging MERN web development workshops, achieving a high average student satisfaction rating of 4 out of 5. Created educational content (tutorials & assignments) that reduced student help desk tickets on MERN topics by 40-50%, improving student self-sufficiency.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Rest Api Testing",
+      "Expresjs",
+      "Node.js",
+      "MongoDB",
+      "SQL",
+      "Python",
+      "C++"
+    ],
+    "soft_skills": [],
+    "name": "Navin Manohar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi",
+  "graduation_year": 2020.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

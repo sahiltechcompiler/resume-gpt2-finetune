@@ -1,0 +1,143 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aniket Mishra",
+  "college": "AJAY KUMAR GARG ENGG. COLLEGE",
+  "locations": [
+    "Ghaziabad",
+    "Pilibhit, India",
+    "Banda, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "AJAY KUMAR GARG ENGG. COLLEGE",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "CGPA : 7.88/10",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "SPRINGDALE COLLEGE",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Pilibhit, India",
+        "ID": 1.0,
+        "grade_received": "Percentage : 91",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "GURU NANAK CONVENT",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Banda, India",
+        "ID": 2.0,
+        "grade_received": "Percentage : 74.6",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CHATBOT",
+        "description": "I developed a PDF reader using machine learning This project showcases my expertise in both machine learning and software development, delivering a user-friendly solution for efficient document processing",
+        "keywords": [
+          "Python",
+          "llm",
+          "Fastapi"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub-URL"
+      },
+      {
+        "name": "RESULT MANAGEMENT SYSTEM",
+        "description": "Developed a user-friendly web application using Django that provides you to manage the result of student. Implemented using the Django framework.",
+        "keywords": [
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub-URL"
+      },
+      {
+        "name": "ATS SYSTEM",
+        "description": "A Machine learning model which can match your resume with your job title and give you a resume score it also checks and gives you idea of some missing skills which are required in your resume.",
+        "keywords": [
+          "Python",
+          "LLm",
+          "Streamlit",
+          "Fastapi"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub-URL"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning developer",
+        "skillsUsed": [],
+        "endDate": "ongoing",
+        "company_name": "BLOCKCHAIN RESEARCH LAB",
+        "description": "During my work at BRL, I gained hands-on experience in Machine Learning, llm and worked on a wide range of projects.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2022"
+      },
+      {
+        "role_name": "Machine Learning developer",
+        "skillsUsed": [],
+        "endDate": "ongoing",
+        "company_name": "AICTE INTERN",
+        "description": "Implemented llm models for chatbot and technologies, including Python, langchain, and Django to enhance website functionality and user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Javascript",
+      "ML",
+      "Django",
+      "SQL",
+      "sqlite",
+      "Git",
+      "Github",
+      "MySQL",
+      "VsCode"
+    ],
+    "soft_skills": [
+      "Communication skill",
+      "Teamwork",
+      "Self-confidence",
+      "Leadership skills"
+    ],
+    "name": "Aniket Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Won Smart India Hackathon-2023 organized by Ministry of Education, INDIA.",
+      "Conducted a coding event Blockverse and mentored over 400+ students organized by BRL, AKGEC.",
+      "Runner up at Manfest Varchasya 2023, IIM Lucknow in Stage Play Event."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

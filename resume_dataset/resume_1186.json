@@ -1,0 +1,176 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Charan Adhithya K",
+  "college": "Chennai Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Frontend Development with React js",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Ultimate Web development bootcamp",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "META-Programming in JavaScript",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Robotic Process Automation",
+        "issuer": "Ui Path",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Docker",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA-8.53",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "TrakMac",
+        "description": "Developed an Attendance Tracker application using Java, JavaFX to automate attendance recording and management. Implemented an attendance generator based on user MAC addresses, ensuring accurate tracking. Captures attendance in real time and has security features ensuring data accuracy and preventing unauthorized access.",
+        "keywords": [
+          "Java",
+          "Java FX"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/00charan00/Attendance-Fetcher"
+      },
+      {
+        "name": "QuixLinx",
+        "description": "Implemented tools to generate visual insights and automated PDF reports, facilitating analysis of participants results. Incorporated a reminder system and automatic quiz disabling post-deadline, ensuring efficient assessment management. Engineered a sophisticated plagiarism check feature that detects irregularities such as tab switching, ensuring the integrity.",
+        "keywords": [
+          "React Js",
+          "Node Js",
+          "Express Js",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/00charan00/QuizLinx"
+      },
+      {
+        "name": "YumYacht",
+        "description": "Implemented secure user authentication and authorization using JWT and also hashed and encrypted the passwords. Designed a comprehensive order management system, enabling users to place orders, track status, and make payments Developed an admin panel for restaurant owners to manage their profiles, menus, and orders.",
+        "keywords": [
+          "React Js",
+          "Node Js",
+          "Express Js",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/00charan00/YumYacht"
+      },
+      {
+        "name": "Alohomora, Harry Potter Trivia.",
+        "description": "Developed a website with features such as film details and interactive elements, enhancing user engagement. Designed and built an interactive game with Voice-Text technology, enhancing user engagement and immersion. Created a PDF generator for personalized Hogwarts acceptance letters.",
+        "keywords": [
+          "React Js",
+          "Express Js",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/00charan00/Harry-Potter-Fanpage"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Packet Tracer Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "CISCO",
+        "description": "Worked with the Packet Tracer application during the course of the internship and created a virtual network of our college. Gained hands-on experience in network infrastructure management and learnt to create a network with packet tracer. Enhanced skills in network monitoring, analysis and networking fundamentals and the core concepts of networking.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "Python",
+      "JavaScript",
+      "React JS",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Node JS",
+      "Express JS",
+      "MySQL",
+      "Mongo DB",
+      "Postgres",
+      "Git",
+      "GitHub",
+      "Jenkins",
+      "Docker",
+      "Linux",
+      "Selenium",
+      "Azure Cloud",
+      "Figma",
+      "Blender",
+      "Postman",
+      "UiPath Studio",
+      "Photoshop"
+    ],
+    "soft_skills": [],
+    "name": "Charan Adhithya K",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Leetcode - Solved 350+ problems, Rating - 1506",
+      "Codeforces - Rating - 1002",
+      "SkillRack - Solved 1000+ problems"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. E."
+}

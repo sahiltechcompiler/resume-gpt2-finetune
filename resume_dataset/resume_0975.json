@@ -1,0 +1,117 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rahul Arora",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Chandigarh",
+    "Panchkula"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "8.00/10 CGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Gurukul Global School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Chandigarh",
+        "ID": 1.0,
+        "grade_received": "80.8%",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      },
+      {
+        "school": "Bhavan Vidyalaya Panchkula",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Panchkula",
+        "ID": 2.0,
+        "grade_received": "89.6%",
+        "field_of_study": "Class X",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ethereum Supply Chain Management",
+        "description": "Developed a decentralized supply chain management system as a minor project in 3rd year using Next.js, providing a transparent and immutable record of shipment statuses for users. Implemented Smart Contracts with Solidity, tested using Hardhat, and deployed using Remix, ensuring secure and automated handling of supply chain data on the Ethereum blockchain. Utilized Tailwind CSS for a responsive and user-friendly interface, enhancing the overall user experience. Collaborated with one other team member to design, develop, and test the system, ensuring robust functionality and security.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Real-time Multiplayer Game - typetowin",
+        "description": "Designed and developed a real-time multiplayer typing game using React, JavaScript, and Tailwind CSS, delivering an engaging and competitive user experience. Implemented server-side logic with Node.js and Express, optimizing the management of game sessions and player interactions. Utilized MongoDB for efficient data management, handling user profiles, game statistics, and leaderboard data with seamless retrieval. Integrated Socket.io to enable real-time bidirectional communication, ensuring instant updates and synchronization during gameplay.",
+        "keywords": [],
+        "endDate": "June 2023",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Library Management System",
+        "description": "Developed a comprehensive Library Management System using PHP, HTML, Tailwind, JavaScript, and MySQL. Implemented a secure authentication system for administrators and users, ensuring robust data privacy and access control. Designed and integrated features for managing books, including adding, updating, and deleting records, with support for categorization and author information. Developed book rental functionalities, enabling users to check availability and reserve books.",
+        "keywords": [],
+        "endDate": "Dec 2022",
+        "startDate": "Oct 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Solidity",
+      "HTML",
+      "CSS",
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "MongoDB",
+      "MySQL",
+      "VS Code",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Rahul Arora",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Led and coordinated a vibrant community of 800+ students as part of the IEEE Student Branch",
+      "Achieved 4th place in MUJ HackX, competing against 600+ participants"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

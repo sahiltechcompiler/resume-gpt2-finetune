@@ -1,0 +1,144 @@
+{
+  "project_count": 2.0,
+  "designation": "Machine Learning Engineer",
+  "name": "Harshita",
+  "college": "GURU TEGH BAHADUR INSTITUTE OF TECHNOLOGY, IP University",
+  "locations": [
+    "Delhi",
+    "Roorkee, Uttarakhand"
+  ],
+  "full_output": {
+    "summary": "Highly motivated Computer Science student with proficiency in Python development seeking an opportunity as a Machine Learning Engineer to contribute technical skills and build a career in Machine Learning.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Business Analytics and Text Mining",
+        "issuer": "IIT Roorkee, NPTEL Platform",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Leading a community",
+        "skillsLearned": [],
+        "title": "Leadership",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GURU TEGH BAHADUR INSTITUTE OF TECHNOLOGY, IP University",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "Current GPA: 8.766",
+        "field_of_study": "Artificial Intelligence and Machine Learning",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Anand Swaroop Arya Saraswati Vidya Mandir",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Roorkee, Uttarakhand",
+        "ID": 1.0,
+        "grade_received": "90.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Childrens Senior Academy",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Roorkee, Uttarakhand",
+        "ID": 2.0,
+        "grade_received": "86.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Facial Emotion Recognition System",
+        "description": "This system utilizes a Convolutional Neural Network (CNN) architecture for recognizing facial emotions employing layers like Conv2D, Batch Normalization, MaxPooling2D, Dropout, and Dense layers. Dropout layers are used to prevent overfitting, strategically placed before Dense layers. The final layers include Dense with ReLU activation and a SoftMax output for facial emotion classification. Ensures proper model loading, input validation, and displays the generated blog in the app interface.",
+        "keywords": [
+          "TensorFlow",
+          "Keras",
+          "CNN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Driver Drowsiness Detection",
+        "description": "System designed to automatically detect if a driver is active while driving or getting drowsy. Involves the use of computer vision techniques, machine learning models, and image processing algorithms like using TensorFlow, Open CV.",
+        "keywords": [
+          "TensorFlow",
+          "Open CV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Social Services Manager",
+        "skillsUsed": [
+          "customer interaction",
+          "social media management",
+          "CRM",
+          "community engagement",
+          "marketing strategies",
+          "analytics",
+          "problem-solving",
+          "collaboration",
+          "adaptability"
+        ],
+        "endDate": "",
+        "company_name": "ESSDSONs Industries",
+        "description": "As a social manager at ESSDSONs I developed skills in customer interaction, social media management, CRM, community engagement, marketing strategies, analytics, problem-solving, collaboration and adaptability. We were able to achieve more than 40,000 subscribers to our channel with millions of views in total.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "Data Science",
+      "Machine Learning",
+      "Mathematical Knowledge",
+      "Statistical Knowledge",
+      "Business analytics",
+      "text mining"
+    ],
+    "soft_skills": [
+      "Excellent problem-solving",
+      "Analytical thinking",
+      "Critical thinking",
+      "Communication",
+      "Teamwork",
+      "Leadership"
+    ],
+    "name": "Harshita",
+    "position": "Machine Learning Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

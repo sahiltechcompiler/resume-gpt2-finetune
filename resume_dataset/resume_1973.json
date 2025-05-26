@@ -1,0 +1,125 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "ANKITA KANSRA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Nodia"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL - Design And Analysis Of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle - Database Foundations",
+        "issuer": "Oracle",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.34",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Water Quality Prediction",
+        "description": "Developed a machine learning model to predict water quality metrics using a Kaggle dataset and applied various algorithms such as Linear Regression and Support Vector Machine (SVM), comparing their performance. Conducted comprehensive data preprocessing (cleaning, normalization, feature selection) to enhance model accuracy and reliability, and evaluated model performance using accuracy percentages and other metrics, achieving significant predictive accuracy. Utilized Python and essential libraries like Pandas, Scikit-learn, and Matplotlib for data analysis, model development, and result visualization.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Scikit-learn",
+          "Matplotlib"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Early Detection and Prevention of Forest Fire",
+        "description": "Designed and implemented a prototype for early forest fire detection using a wireless network of ESP32 Microcontroller and DHT11 sensor to monitor environmental changes. Developed algorithms to analyze data collected from sensors, triggering alerts when temperatures exceeded predetermined safety thresholds. Successfully demonstrated the project at the Project Expo24, showcasing the functionality and potential impact on forest fire management and prevention strategies.",
+        "keywords": [
+          "C++",
+          "ESP32",
+          "DHT11 sensor",
+          "Arduino IDE"
+        ],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern - BFS",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "LTIMindTree",
+        "description": "Engaged in comprehensive training on React.js for frontend development, Java for backend programming, PostgreSQL for database management, and Jenkins for continuous integration/continuous deployment (CI/CD). Participating in specialized courses focused on Banking and Finance Services (BFS) to align with the sectors requirements. Preparing to apply learned technologies in real-world projects within the Banking and Finance domain.",
+        "location": "Nodia",
+        "links": "",
+        "startDate": "August 2024"
+      },
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Habile Labs Pvt. Ltd.",
+        "description": "Developed and enhanced web applications using React.js, focusing on building user-friendly and responsive interfaces. Collaborated with designers to implement UI components and managed state efficiently with Redux. Integrated third-party APIs to add new features and reviewed code for performance improvements. Ensured code quality and functionality using testing tools like Jest, gaining practical experience in React development and web application optimization.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "HTML/CSS",
+      "JavaScript",
+      "VS Code",
+      "GitHub",
+      "Git",
+      "React.js",
+      "Redux",
+      "MySQL",
+      "Scikit-learn",
+      "Pandas",
+      "Matplotlib"
+    ],
+    "soft_skills": [],
+    "name": "ANKITA KANSRA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated in Project Expo24",
+      "Smart India Hackathon23 - Intra-Round Qualifiers"
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan 302012",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

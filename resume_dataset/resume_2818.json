@@ -1,0 +1,207 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Juhi Saha",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Bhagalpur, Bihar",
+    "Indore, Madhya Pradesh",
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "College student with keen interest in Artificial Intelligence(AI) and to explore and contribute to the field of AI with research and applications. Excellent problem solving skills and adaptable to newer technologies. Looking for opportunities to gain experience through projects, internships and career opportunities.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Object-Oriented Programming with Java",
+        "issuer": "LearnQuest",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Automate Cybersecurity Tasks with Python",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Sound the Alarm: Detection and Response",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Assets, Threats, and Vulnerabilities",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cryptography and Information Theory",
+        "issuer": "University of Colorado System",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Software Engineering",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Enterprise-grade AI",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat System Administration 1(RH124)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat System Administration 2(RH134)",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Saint Josephs School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10 Boards",
+        "location": "Bhagalpur, Bihar",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "ICSE",
+        "startDate": ""
+      },
+      {
+        "school": "Pragya Girls School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12 Boards",
+        "location": "Indore, Madhya Pradesh",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Artist Merchandise Shopping",
+        "description": "Creating a page with three tabs ,the first tab contains the introductory information about the artist and his history. The second tab consists of its date of concerts and where it is performing . The third tab consists of the merchandise by the band artists that can be added to the cart using javascript and summed and that can be bought. If any changes to the cart is to be made by the user he can edit or delete the items by using the plus and minus operation Once all the items are in the cart and the 'buy now' button is used then the cart is cleared ,the buy now can be further added to a banking system.",
+        "keywords": [],
+        "endDate": "04/2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Attendance Tracking through GPS and Biometrics",
+        "description": "Creating a Student attendance system with major 3 pages. The first page for registration of each student using their details -name ,unique numbers, semesters along with the biometrics. The second page being the LOGIN page, the student choosing their submitted names and providing credentials in the form of fingerprints taken input from the system biometrics database. The third page being the landing page if the student is within the class perimeter he will be marked as present otherwise being outside the class perimeter does not provide attendance.",
+        "keywords": [],
+        "endDate": "03/2024",
+        "startDate": "01/2024",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Product Testing Intern",
+        "skillsUsed": [
+          "Python",
+          "Javascript",
+          "CSS"
+        ],
+        "endDate": "Aug 2024",
+        "company_name": "CollegeDekho.com",
+        "description": "Accomplishments: Developed Web-scraper to find and validate official website URLs using playwright, selenium, markdownify, beautifulsoup4 and Open-AI python libraries that increase reliability from 55% to 93%. Conducted user testing and validated products to ensure product quality. Conducted testing and implemented processes to improve OCR overall hallucinations.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "PHP",
+      "Typescript",
+      "C/C++",
+      "MySQL",
+      "HTML"
+    ],
+    "soft_skills": [],
+    "name": "Juhi Saha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur,Rajasthan",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

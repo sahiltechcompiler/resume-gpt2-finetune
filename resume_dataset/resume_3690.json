@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "Associate, Cloud and Network Services",
+  "name": "Yoghesh Kumar R",
+  "college": "SASTRA Deemed University",
+  "locations": [
+    "Thanjavur",
+    "Trichy",
+    "Chennai",
+    "Bangalore"
+  ],
+  "full_output": {
+    "summary": "As an Engineer, I am motivated to undertake diverse engineering tasks and continuously enhance skills to excel in various roles. I am open to opportunities in FullStack development, software engineering, and cloud technologies. Committed to delivering optimal solutions and collaborating effectively within teams, I strive to contribute positively to the success of the company.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SASTRA Deemed University",
+        "endDate": "May 23",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Thanjavur",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.52/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Jul 19"
+      },
+      {
+        "school": "Vignesh Sri Renga, Matriculation Hr. Sec. School",
+        "endDate": "May 19",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Trichy",
+        "ID": 1.0,
+        "grade_received": "Marks: 555/600 [92.5%]",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Intrusion Detection in Cybersystems",
+        "description": "Implementing Scientific paper",
+        "keywords": [
+          "MATLAB",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "P2P Secure File Transfer Application",
+        "description": "A Python Socket based application that can zip and transfer over LAN network with an option to encrypt with AES",
+        "keywords": [
+          "Python",
+          "Socket"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Discord Music Bot",
+        "description": "Music and simple GIF Bot for Discord written in JavaScript and Java utilizing YouTube APIs and made with Lavalink as base",
+        "keywords": [
+          "JavaScript",
+          "Java",
+          "YouTube APIs",
+          "Lavalink"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Associate, Cloud and Network Services",
+        "skillsUsed": [
+          "Kubernetes",
+          "Docker",
+          "Helm"
+        ],
+        "endDate": "Present",
+        "company_name": "NOKIA Solutions and Networks",
+        "description": "Solution Engineer for Telecom Carrier grade application. Migration and Integration of Telecom Network Functions from Virtual to Cloud Native Environment based on Containerization.",
+        "location": "Chennai",
+        "links": "",
+        "startDate": "Aug 23"
+      },
+      {
+        "role_name": "Project Trainee Intern",
+        "skillsUsed": [
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "MySQL",
+          "Redis"
+        ],
+        "endDate": "Apr 23",
+        "company_name": "ISRO Telemetry Tracking and Command Network",
+        "description": "Designed and built a complete stateful Web Application with cookie based session management and OWASP principles for Monitoring antenna data.",
+        "location": "Bangalore",
+        "links": "",
+        "startDate": "Jan 23"
+      }
+    ],
+    "skills": [
+      "Cloud Native",
+      "Full Stack Web Development",
+      "Linux",
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "C++",
+      "Java",
+      "Python",
+      "Git",
+      "NoSQL",
+      "Django",
+      "Flask"
+    ],
+    "soft_skills": [],
+    "name": "Yoghesh Kumar R",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,138 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Vivek Sharma",
+  "college": "Noida Institute of Engineering And Technology",
+  "locations": [
+    "Sikandrabad, UP, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "Coursera, Authorised by University of Michigan",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to NoSQL Databases",
+        "issuer": "Coursera, Authorised by IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Human-Centred Design for Inclusive Innovation",
+        "issuer": "Coursera, Authorised by University of Toronto",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis with Python",
+        "issuer": "Coursera, Authorised by IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering And Technology",
+        "endDate": "August 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 6.2/10",
+        "field_of_study": "Computer Science Engineering (Data Science)",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Babu Bodhraj Convent School",
+        "endDate": "April 2021",
+        "maximum_grade": "Class X Percentage: 67%",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Class XII Percentage: 85%",
+        "field_of_study": "",
+        "startDate": "March 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Front End Markdown Previewer",
+        "description": "It contains an editor view and a Previewer which shows the result after editing.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "JavaScript Calculator",
+        "description": "JavaScript, React and JavaScript Awesome using HTML,CSS , libraries like Font.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Random Quote Generator",
+        "description": "It fetches quotes data through API and then display it to the screen using HTML,CSS, JavaScript, React and JQuery.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Search App",
+        "description": "In this, I implement API usage. It fetches the Games data through an API in JSON format. And then I develop the front end containing a search bar which filters the data according to the search.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Machine Learning using Python - House Price predictive model",
+        "description": "In this, I take a dataset of houses of different areas in India. The Dataset contains information like bhk, number of bedrooms, area in a particular state etc. After that I perform Data Analysis on this dataset and perform feature Extraction and Dimension Reduction and then train it using Linear Regression.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python (Basic)",
+      "JavaScript (Basic)",
+      "HTML",
+      "CSS (Basic)",
+      "Database Basics",
+      "React.js (Basic)",
+      "Machine Learning Algorithms (Basic)"
+    ],
+    "soft_skills": [],
+    "name": "Vivek Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Sikandrabad, UP, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,177 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Vidhi Garg",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Fatehabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering: Modeling software system using UML",
+        "issuer": "The Hong Kong University of Science and Technology",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Machine Learning",
+        "issuer": "Duke University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Data Visualisation using Python and Seaborn",
+        "issuer": "Microsoft Learn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming for Everybody (Getting Started with Python)",
+        "issuer": "University of Michigan",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C for Everyone: Programming Fundamentals",
+        "issuer": "University of California, Santa Cruz",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Object-Oriented Programming with Java",
+        "issuer": "LearnQuest",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "BTech hons.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engg.",
+        "startDate": ""
+      },
+      {
+        "school": "Rama krishna S Sch School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "High School Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "95%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Driver Drowsiness Detection System",
+        "description": "Combined OpenCV, Dlib, Pygame, imutils, and a dedicated website to detect and alert drivers in real-time when they display signs of drowsiness while driving.",
+        "keywords": [
+          "Python",
+          "Web development"
+        ],
+        "endDate": "present",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "Smart Bin",
+        "description": "Developed an arduino-based smart bin project integrating ultrasonic sensor, servo motor, Node MCU, and odor sensors to create an intelligent waste management system.",
+        "keywords": [
+          "Internet of Things"
+        ],
+        "endDate": "2020",
+        "startDate": "2018",
+        "url": ""
+      },
+      {
+        "name": "Voice Recognition via Raspberry Pi and Bluetooth",
+        "description": "Led an IoT project focused on voice-controlled automation using raspberry Pi and Bluetooth technology to enable voice commands for appliance control. The tools used were Python speech recognition library and GPIO.",
+        "keywords": [
+          "Internet Of Things"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Color Detector Device",
+        "description": "Designed and developed a Color Detector Device using Arduino technology(C++ Programming) and a high-precision color sensor. Achieved accurate real-time color recognition for any object placed on the device's surface.",
+        "keywords": [
+          "Internet of Things"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Working Team",
+        "skillsUsed": [],
+        "endDate": "08/2022",
+        "company_name": "Cinefilia",
+        "description": "Cinefilia is the official acting and dramatic society club of Manipal University Jaipur. Worked as a working team under event management of the club.",
+        "location": "",
+        "links": "",
+        "startDate": "11/2021"
+      }
+    ],
+    "skills": [
+      "Frontend Development",
+      "Python",
+      "Programming in C++",
+      "Data Structures and Algorithms",
+      "Design and Analysis of Algorithms",
+      "C"
+    ],
+    "soft_skills": [
+      "Strong leadership",
+      "communication",
+      "collaboration skills"
+    ],
+    "name": "Vidhi Garg",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved approximately 200 problems on CodeChef in C programming.",
+      "Achieved the 51st international rank in Level 1 in English Olympiad and successfully cleared Level 2.",
+      "Served as Head Girl of the High School for one year.",
+      "Received the Best Student Award in High school."
+    ],
+    "publications": []
+  },
+  "current_location": "Hisar , Haryana",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "BTech hons."
+}

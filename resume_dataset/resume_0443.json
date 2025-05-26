@@ -1,0 +1,117 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Divyanshu Agarwal",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.14",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Oct. 2021"
+      },
+      {
+        "school": "The Asssam Valley School",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "12th: 95.25%",
+        "field_of_study": "",
+        "startDate": "May 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Children playtime planning website",
+        "description": "This application helps the parents to predict the suitable weather for their childs outdoor playtime. Made using ReactJs, TailwindCss, learnt about how to use react hooks such as useState,useEffect and many more. Learnt about how to fetch APIs and how to implement in the project.",
+        "keywords": [
+          "ReactJs",
+          "TailwindCss",
+          "npm libraries"
+        ],
+        "endDate": "July 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "SIBYL: Strategic Intelligence For Building Your Legacy",
+        "description": "Built a complete website for employee career path navigation based on ensemble predictions of RF,DT,SVM and XGBoost models. It provides skill gap, analysis and learning resources and recommendations for upskilling. Deployed via streamlit, upcoming versions to be deployed through Next.js. Adjudged top 3 at Dell Hackathon.",
+        "keywords": [],
+        "endDate": "Jan 2024",
+        "startDate": "Nov 2023",
+        "url": ""
+      },
+      {
+        "name": "Weather website",
+        "description": "This application helps one to check the weather condition of a place. Made using HTML/CSS, Javascript, learnt about how to fetch APIs and how to implement in the project. Learned how to make changes in your existing document through the document object model.",
+        "keywords": [],
+        "endDate": "July 2023",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Travel Website",
+        "description": "Designed a travel website using html/css, javascript, mysql to showcase how dynamic pages works. Learned a lot about CSS frameworks, flex-box, box- model, transitions, how to use bootstrap in your project and also about material UI. Learned how to connect a project to a database and how the data is stored and retrieved.",
+        "keywords": [],
+        "endDate": "April 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Head",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Qureka",
+        "description": "Led the web development team for Qureka, the college quizzing club, overseeing the creation and maintenance of a dynamic and user-friendly club website.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2022"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "MongoDB",
+      "SQL",
+      "PHP",
+      "ReactJS",
+      "NextJS",
+      "NodeJs",
+      "ExpressJs",
+      "Git/GitHub",
+      "Tailwind",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "Divyanshu Agarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "MUJHackX Core Committee: Served as the head of marketing for an international hackathon hosted by the Computer Science department of college. Played a key role in organizing and promoting the hackathon, leading the marketing team to effectively communicate event details and attract a diverse group of participants. Received positive feedback and recognition for the impactful marketing strategies employed during the college hackathon, contributing to the events overall success.",
+      "Deans List of Academic excellence X 3: For exhibiting excellence in academia by bagging the second position in the entire batch."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

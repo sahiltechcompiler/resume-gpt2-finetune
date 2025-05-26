@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sachidananda Manideep",
+  "college": "SRM University, AP",
+  "locations": [
+    "Ireland"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "09/2025",
+        "maximum_grade": "Percentage : 89.2%",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.1",
+        "field_of_study": "Computer Science AI-ML",
+        "startDate": "09/2021"
+      },
+      {
+        "school": "Narayana Educational Institutions",
+        "endDate": "07/2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "M.P.C",
+        "startDate": "07/2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Connect-Celeb",
+        "description": "Created ConnectCeleb, a Next.js web app enabling users to engage in realistic conversations with celebrity chatbots powered by OpenAI, llama2-13b(meta) models. Implemented PlanetScales SQL database to ensure robust user data storage, enhancing data security, accessibility, reduced data retrieval time by 40% and increased system reliability by 25%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "E-commerce",
+        "description": "Expanding the admin dashboard capabilities to integrate with web services, enhancing functionality for a startup company's operations. Developed feature-rich MERN stack e-commerce app with Google authentication via Clerk, seamless Stripe payments, & robust admin dashboard for sales analytics, product management, active updates using Prisma ORM.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Cineguru",
+        "description": "Revamped the CineGuru website using Vue.js and TypeScript, incorporating a customized API to provide comprehensive information about movies and series, including YouTube video retrieval for related content. Enhanced performance and user engagement by optimizing the API, resulting in a 30% increase in data retrieval speed and a 25% boost in user interaction compared to the previous version.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "12/2023",
+        "company_name": "University of Galway, Ireland",
+        "description": "Analyzed extensive data using advanced code similarity techniques during research internship. Identified key software development patterns and trends, aiding data-driven decision-making. Analyzed over 1,000 codes in 6 programming languages using more than 7 plagiarism detection tools, contributing insights into code plagiarism research.",
+        "location": "Ireland",
+        "links": "",
+        "startDate": "01/2023"
+      },
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [],
+        "endDate": "09/2023",
+        "company_name": "Boshma Solutions",
+        "description": "Designed Naksha Kreations website, achieving a 30% rise in user engagement and a 20% drop in bounce rates. Improved platform robustness by 25% and expedited transactions by 15% by implementing critical features like Authentication, Payments, Database, while providing actionable insights through an intuitive dashboard for informed decision-making on website products and payments.",
+        "location": "",
+        "links": "",
+        "startDate": "08/2023"
+      }
+    ],
+    "skills": [
+      "Dart",
+      "Flutter",
+      "Android Studio",
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "Java Script",
+      "React",
+      "Next J.S",
+      "Tailwind",
+      "Nodejs",
+      "Expressjs",
+      "Mysql",
+      "Mongodb",
+      "Prisma",
+      "Numpy",
+      "Pandas",
+      "Image Diffusion Model",
+      "Reinforcement Learning"
+    ],
+    "soft_skills": [],
+    "name": "Sachidananda Manideep",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Selected as a research intern at the University of Galway (QS top 250) for pioneering AI and machine learning link",
+      "Guided over 40 people in full stack development at a QS-recognized student lab and worked as a Flutter research developer on two university CAP projects."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.tech"
+}

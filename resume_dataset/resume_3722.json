@@ -1,0 +1,155 @@
+{
+  "project_count": 2.0,
+  "designation": "Node Js Developer",
+  "name": "Ashwani Yadav",
+  "college": "Chandra Shekhar Azad University Of Agriculture & Technology",
+  "locations": [
+    "Gurugram, India",
+    "Noida, India",
+    "Kanpur, India",
+    "Ballia, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chandra Shekhar Azad University Of Agriculture & Technology",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Kanpur, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Mechanical Engineering",
+        "startDate": "2018"
+      },
+      {
+        "school": "S S R N CH I C BALLIA",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Senior Secondary (XII)",
+        "location": "Ballia, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Science",
+        "startDate": "2017"
+      },
+      {
+        "school": "S S R N CH I C BALLIA",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "Secondary (X)",
+        "location": "Ballia, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "PCM",
+        "startDate": "2015"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ecommerce App",
+        "description": "Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js) with Redux. User Features: Registration and Login: Secure authentication. Order Handling: Add products to cart, make payments via Razorpay. Product Tracking: Track order status. Admin Panel: Product Management: Manage products, view orders, handle shipments.",
+        "keywords": [
+          "MERN",
+          "Redux",
+          "Razorpay"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real-Time Chat Application",
+        "description": "Technology Stack: Developed using Node.js for the backend, Websockets for real-time communication, and HTML/CSS for the frontend. User Status Display: Implemented a feature to display the online/offline status of users, providing visibility into their availability.",
+        "keywords": [
+          "Node.js",
+          "Websockets",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Software Developer",
+        "skillsUsed": [
+          "Node.js",
+          "RabbitMQ",
+          "PhonePe",
+          "Webhooks"
+        ],
+        "endDate": "Present",
+        "company_name": "Clevdoc Platforms Inc",
+        "description": "Designed and implemented a Node.js-powered virtual courtroom platform, facilitating user registration, document submission, and interactive video conferencing for arbitration. Implemented secure document management for legal document exchange on the platform. Implemented RabbitMQ for microservice communication, reducing message latency by 30%. Integrated PhonePe payment gateway for secure transactions. Developed and integrated Node.js webhooks to track email events, ensuring reliable and real-time communication updates.",
+        "location": "Gurugram, India",
+        "links": "",
+        "startDate": "May '24"
+      },
+      {
+        "role_name": "Node.js Developer",
+        "skillsUsed": [
+          "Node.js",
+          "GCP",
+          "AWS",
+          "SQS",
+          "Razorpay",
+          "Google Maps"
+        ],
+        "endDate": "Apr '24",
+        "company_name": "Agatsa Software Pvt ltd.",
+        "description": "Optimized Node.js REST APIs, increasing server response by 40% and cutting downtime by 30%. Optimized server infrastructure by successfully migrating from Azure and AWS to GCP, resulting in a substantial monthly cost reduction of $600. Implemented WhatsApp messaging integration for improved user communication, leading to enhanced customer engagement and support. Built an OTP system with Node.js and SQS handling and set up AWS S3 for storing and serving documents, images, and videos in a Node.js web app. Developed custom payment modules leveraging Razorpay within a Node.js environment, improving system reliability and reducing overall payment processing. Collaborated with team members to develop live ECG mapping feature using Google Maps exclusively designed for India-based users, resulting in improved user engagement and satisfaction levels.",
+        "location": "Noida, India",
+        "links": "",
+        "startDate": "Jan '23"
+      },
+      {
+        "role_name": "Software Trainee",
+        "skillsUsed": [
+          "Node.js",
+          "Express.js",
+          "React.js",
+          "MongoDB"
+        ],
+        "endDate": "Dec '22",
+        "company_name": "Ducat India Private Limited",
+        "description": "Acquired in-depth knowledge and practical experience in Node.js, Express.js, React.js, and MongoDB. Participated in hands-on projects and exercises to reinforce understanding and application of concepts.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul '22"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Node Js",
+      "Express Js",
+      "React Js",
+      "Nest js",
+      "MongoDB",
+      "MySQL",
+      "Redis",
+      "GCP",
+      "AWS",
+      "Docker",
+      "GitHub Action",
+      "CI/CD"
+    ],
+    "soft_skills": [],
+    "name": "Ashwani Yadav",
+    "position": "Node Js Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Delhi, Delhi, India",
+  "graduation_year": 2022.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

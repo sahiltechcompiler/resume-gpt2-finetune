@@ -1,0 +1,120 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Mohd Irfan",
+  "college": "Pranveer Singh Institute of Technology",
+  "locations": [
+    "Kanpur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Pranveer Singh Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Kanpur",
+        "ID": 0.0,
+        "grade_received": "7.8/10 CGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "EduSpark - Web App",
+        "description": "Developed full stack MERN application Ed Tech Learning Management System. Integrated DRM encryption using Video Cipher to protect course content and ensure secure delivery of videos. Developed authentication system with automated OTP activation via email for user verification process. Built an admin dashboard featuring real-time analytics, efficient management of course categories, banners. Implemented notifications and dynamic FAQs to improve user support and engagement.",
+        "keywords": [
+          "Next.js",
+          "Express.js",
+          "MongoDB",
+          "TypeScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Demo Source Code"
+      },
+      {
+        "name": "E-Mart Web Application",
+        "description": "Developed fully functional e-commerce website using a MVT architecture with Django and PostgresSQL database. Implemented CRUD functionality for product and add to cart and User Authentication system. Designed & Implemented REST API using Django REST Framework with a real-time PayPal payment integration.",
+        "keywords": [
+          "Django",
+          "React",
+          "PostgresSQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Pneumonia Detection - Image Analysis",
+        "description": "Developed an AI-based pneumonia X-Ray image detection system using deep learning technique. Trained a Convolutional Neural Network (CNN) model on chest X-ray images to classify pneumonia. Build Back-end Flask web app & Deployed on Render, allowing seamless image upload for the classification.",
+        "keywords": [
+          "Flask",
+          "Numpy",
+          "TenserFlow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Internship",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "Nexus",
+        "description": "Built & deployed a Simple Restaurant Website with CRUD & authentication system using Django, SQLite3 and JS.",
+        "location": "",
+        "links": "",
+        "startDate": "February 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Python",
+      "C",
+      "Django",
+      "Express.js",
+      "Node.js",
+      "Flask",
+      "React.js",
+      "Next.js",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "REST API",
+      "Ajax",
+      "jQuery",
+      "PostgreSQL",
+      "MongoDB",
+      "Git",
+      "Postman",
+      "VS Code",
+      "GitHub",
+      "Pycharm",
+      "Vercel"
+    ],
+    "soft_skills": [],
+    "name": "Mohd Irfan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 250+ DSA problems from Rapid Growth Problemset, building problem solving skills.",
+      "Awarded by Postman API Fundamentals Student Expert.",
+      "Achieved 5 Star in problem solving (DSA), Python, C & SQL on HackerRank.",
+      "Participated in Google Hash Code 2022 and got 33 pts."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

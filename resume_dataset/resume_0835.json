@@ -1,0 +1,91 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Devyansh Grover",
+  "college": "Guru Tegh Bahadur Institute of Technology, Guru Gobind Singh Indraprastha University (GGSIPU)",
+  "locations": [
+    "Faridabad, Haryana, India",
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "Detail-oriented Full Stack Web Developer proficient in JavaScript, HTML, CSS, and MERN Stack. Experience in building responsive web applications. Strong problem-solving skills and collaborative mindset. Seeking internship to contribute to dynamic projects while continuing to learn and grow in web development.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology, Guru Gobind Singh Indraprastha University (GGSIPU)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "8.7",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Ryan International School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CBSE (XII)",
+        "location": "Faridabad,Haryana",
+        "ID": 1.0,
+        "grade_received": "95.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Ryan International School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE (X)",
+        "location": "Faridabad,Haryana",
+        "ID": 2.0,
+        "grade_received": "90.33%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mera Dhaba - An Online Food Ordering App",
+        "description": "Add to Cart Feature: Implemented a seamless add to cart functionality allowing users to easily select and order their desired food items. Encrypted Passwords: Ensured secure user data handling by encrypting passwords to protect user privacy and security using Bcrypt JS. Login Authentication: Used JSON Web Token for login authentication mechanisms to verify user identities and ensure secure access to the application.",
+        "keywords": [],
+        "endDate": "March 2024",
+        "startDate": "March 2024",
+        "url": "https://github.com/DevyanshGrover18/MeraDhaba"
+      },
+      {
+        "name": "MereTask- A Todo List",
+        "description": "MereTask empowers you to stay organized and focused digitally. Streamline your tasks effortlessly with this intuitive and minimalist to-do list. Designed for efficiency, MereTask helps prioritize, categorize, and track your daily responsibilities effortlessly. Its sleek interface and user-friendly features facilitate managing your tasks with ease. .Whether you're juggling work, school, or personal projects, MereTask enables you to stay on top of your commitments and achieve your goals with precision. Simplify your life and boost your productivity with MereTask today.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/DevyanshGrover18/Todo-App"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Node.js",
+      "Python",
+      "Arduino"
+    ],
+    "soft_skills": [],
+    "name": "Devyansh Grover",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Faridabad, Haryana, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

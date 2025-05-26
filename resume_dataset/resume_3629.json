@@ -1,0 +1,101 @@
+{
+  "project_count": 2.0,
+  "designation": "Web Development Intern",
+  "name": "Ansh Verma",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.558",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Marvel-Mart",
+        "description": "Developed a full-stack e-commerce platform, Marvel-Mart, using React for the frontend and Node.js with Express.js for the backend. Implemented secure JWT authentication and data encryption using bcrypt for enhanced user data protection. Utilized PostgreSQL as the database backend for efficient storage and retrieval of product listings, user information, and transactional data.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "PostgreSQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chatify",
+        "description": "Developed Chatify, a real-time chat Chrome extension, using React.js for the frontend and Node.js with Express.js and socket.io for the backend. Implemented individual and group chat functionalities within Chatify, enabling users to engage in seamless conversations and share relevant information instantly. Leveraged socket.io to facilitate real-time communication between users, ensuring fast and reliable message delivery in both individual and group chat settings.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Socket.io"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "Node.js",
+          "Express",
+          "TypeScript",
+          "Next.js",
+          "React",
+          "Tailwind CSS"
+        ],
+        "endDate": "Present",
+        "company_name": "Levitate Labs",
+        "description": "Developed the backend for the website lvresearch.xyz using Node.js, Express, and TypeScript. Created the frontend using Next.js, React, and Tailwind CSS. Integrated Web3Modal to support multiple wallet providers and blockchain networks.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "JavaScript",
+      "Python",
+      "TypeScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Socket.io",
+      "Bootstrap",
+      "Next.js",
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Supabase"
+    ],
+    "soft_skills": [],
+    "name": "Ansh Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

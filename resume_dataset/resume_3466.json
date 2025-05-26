@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Development Engineer",
+  "name": "GOVIND JHA",
+  "college": "KIET Group Of Institutions",
+  "locations": [
+    "Delhi-NCR"
+  ],
+  "full_output": {
+    "summary": "Ambitious B.Tech student aspiring to be a Software Development Engineer. Skillful in Machine Learning and Robotics Process Automation, I bring hands-on project experience. Eager to apply my passion for innovation and problem-solving in a dynamic SDE role, contributing fresh ideas and dedication to excellence.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundation",
+        "issuer": "AWS Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "UiPath: Robotic Process Automation (RPA)",
+        "issuer": "LinkedIn Learning",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi-NCR",
+        "ID": 0.0,
+        "grade_received": "7.5 CGPA",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "SVS Vidya Mandir",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Delhi-NCR",
+        "ID": 1.0,
+        "grade_received": "89%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "SVS Vidya Mandir",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Delhi-NCR",
+        "ID": 2.0,
+        "grade_received": "89%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automated Deep Learning Based Autism Prediction",
+        "description": "Leading the team of four in developing an innovative Autism Prediction System using deep learning on the ABIDE data-set of 1014 subjects. Super-heading the construction of a predictive model and contributed to back-end development using Flask. Integrating the system into a user-friendly website using React, enabling users to submit MRI scans for autism predictions.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "ReactJS"
+        ],
+        "endDate": "Expected by Jan 25",
+        "startDate": "Ongoing",
+        "url": ""
+      },
+      {
+        "name": "Automatic Invoice Processing",
+        "description": "Conceptualized and implemented an Automatic Invoice Processing system using UiPath. Developed an attended software robot to autonomously download and extract invoice details from incoming emails. Successfully stored processed information in a structured format within Excel sheets.",
+        "keywords": [
+          "RPA",
+          "UiPath"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Machine Learning Pneumonia Prediction System",
+        "description": "Collaborated in a team of three to develop a Pneumonia Prediction System using the VGG-16 algorithm. Worked on implementing and fine-tuning the VGG-16 model for accurate pneumonia prediction and achieved an accuracy of 97%. Contributed to data preprocessing, feature engineering, and model evaluation.",
+        "keywords": [
+          "Python",
+          "Keras",
+          "Tensorflow"
+        ],
+        "endDate": "Jan 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "Python",
+      "Java",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJs",
+      "Flask",
+      "UiPath",
+      "MySQL",
+      "VSCode",
+      "Data Structures and Algorithms",
+      "Database Management System",
+      "Operating System",
+      "Machine Learning"
+    ],
+    "soft_skills": [],
+    "name": "GOVIND JHA",
+    "position": "Software Development Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 2nd place at Project Wars 2023 organized by the CSIT department, building a Pneumonia Prediction System with a team of three members on January 19, 2023."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

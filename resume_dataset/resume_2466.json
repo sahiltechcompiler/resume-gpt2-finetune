@@ -1,0 +1,118 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "KANDI MANOHAR RAO",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "I attend SRM AP to study Computer Science and Engineering with an emphasis on Artificial Intelligence and Machine Learning. Im trying to find a job with your company so I can work on developing high- quality goods and get some real-world experience.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "August, 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "7.82/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "934/1000",
+        "field_of_study": "MPC",
+        "startDate": "2019"
+      },
+      {
+        "school": "Viswabharathi High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "9.3/10",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Employee and Department Management System",
+        "description": "Developed a Full-Stack Employee Management System using Spring Boot (3+), Spring Security (6+), Spring Data JPA, JWT, React JS (18+), and MySQL. Reduced development time by 30. Configured backend with necessary dependencies, connected MySQL, and developed key packages (Employee JPA Entity, Repository, DTO, Mapper). Created and tested secure CRUD REST APIs using JWT for authentication, leveraging Postman for validation. Developed the frontend with React + Vite, integrated Bootstrap, and connected to the backend via Axios, using modern tools like IntelliJ IDEA, VS Code, and Maven.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github link"
+      },
+      {
+        "name": "TitanicSurvivalClassification",
+        "description": "Developed a machine learning model in Python to predict Titanic passenger survival. Utilized classification algorithms for prediction, including data preprocessing, feature engineering, and model evaluation to achieve high accuracy.",
+        "keywords": [
+          "python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github link"
+      },
+      {
+        "name": "Fake news detection",
+        "description": "Developed a Python-based machine learning model to detect fake news by analyzing textual features and patterns. Employed natural language processing techniques and classification algorithms to achieve reliable detection accuracy.",
+        "keywords": [
+          "python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "DATA SCIENCE INTERN",
+        "skillsUsed": [],
+        "endDate": "Aug/22",
+        "company_name": "TEACHNOOK",
+        "description": "Gained proficiency in Python programming, including libraries such as NumPy and Pandas for data manipulation and analysis. Acquired skills in plotting libraries for effective data visualization and communication of insights.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul/22"
+      }
+    ],
+    "skills": [
+      "Machine Learning Engineer",
+      "Full Stack Developer with Java",
+      "Java",
+      "Python",
+      "Spring Boot",
+      "REST-API",
+      "ReactJS",
+      "MySQL",
+      "Visual Studio",
+      "Eclipse",
+      "IDEA",
+      "Jupyter Notebook",
+      "MySQL",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "KANDI MANOHAR RAO",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

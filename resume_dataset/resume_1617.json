@@ -1,0 +1,109 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Akshat Awasthi",
+  "college": "Birla Institute of Technology and Science, Pilani - Pilani Campus",
+  "locations": [
+    "Pilani, India",
+    "Hyderabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Birla Institute of Technology and Science, Pilani - Pilani Campus",
+        "endDate": "Aug. 2024",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Pilani, India",
+        "ID": 0.0,
+        "grade_received": "7.67/10",
+        "field_of_study": "Electronics and Instrumentation Engineering",
+        "startDate": "Aug. 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "My GPT",
+        "description": "A full-stack AI chatbot application developed to replicate core ChatGPT functionalities to provide users with an interactive and intelligent conversational experience. Employed MERN stack technologies and advanced engineering practices, including robust authentication, data validation, and database management, to build a secure, scalable, and high-performance platform. Implemented key features such as real-time chat, user session management, chat history storage, and OpenAI integration to deliver a comprehensive and engaging user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Trip Advisor App",
+        "description": "A travel advisor application that helps users plan trips with personalized recommendations. Integrated Google Maps API, Travel Advisor API, and OpenWeatherMap API for personalized travel recommendations and ensured real-time updates on weather conditions, points of interest, and user reviews. Created robust backend services with Node.js and Express.js to handle API data retrieval, processing, and integration, ensuring efficient data flow and a seamless, dynamic travel planning experience for users.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Intelligent Floor Plan Management System",
+        "description": "A system that enables a seamless workspace experience through efficient floor plan uploads. Implemented a version control system with intelligent conflict resolution, ensuring seamless seat/room information updates based on roles and timestamps. Developed a recommendation engine for meeting rooms, dynamically suggesting optimal rooms based on capacity, availability, and past bookings. Implemented robust user authentication protocols to ensure secure access.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [
+          "Java",
+          "Python",
+          "AWS RDS",
+          "AWS DynamoDB",
+          "AWS Lambda",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "endDate": "Dec. 2023",
+        "company_name": "Amazon",
+        "description": "Contributed to the development of Gyrados, a Storage and Audit platform, enabling users to run custom queries on petabytes of data. Engineered a Java Library to dynamically map and store attribute data from DAO into artefact aurora table, boosting data ingestion efficiency by 22%. Automated the onboarding process for new artifacts in the RDS database with metadata tracking in AWS DynamoDB by writing a java API reducing the manual labor and increased onboarding efficiency by 40%. Developed a central configuration service for Gyrados and implemented a CI/CD pipeline, streamlining code deployment across the US, UK, and NA regions reducing manual deployment errors by 30%.",
+        "location": "Hyderabad, India",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "Java",
+      "Node JS",
+      "React JS",
+      "Express JS",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "MySQL",
+      "PostgreSQL",
+      "AWS",
+      "Git",
+      "MongoDB",
+      "Latex"
+    ],
+    "soft_skills": [],
+    "name": "Akshat Awasthi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 500+ coding problems on GFG, LeetCode, and CodingNinja.",
+      "Awarded with BITS Alumni Funded Scholarship for 2 consecutive semesters on grounds of overall excellence.",
+      "Won gold medals in both Cricket and Frisbee at the annual sports fest of BITS Pilani.",
+      "Raise Rs 1,26,000 by conducting fundraisers to establish a playground for village children using recyclable materials."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.E."
+}

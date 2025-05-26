@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rahul Shoundic",
+  "college": "KIET Group of Institutions [AKTU]",
+  "locations": [
+    "Delhi-NCR, IN",
+    "Ghazipur(UP), IN",
+    "Remote, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions [AKTU]",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi-NCR, IN",
+        "ID": 0.0,
+        "grade_received": "8.36 CGPA",
+        "field_of_study": "Computer Science",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "Shah Faiz Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Intermediate - CBSE",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Shah Faiz Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "High School - CBSE",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fitness Tracker",
+        "description": "Leading a four-person team as the TEAM LEAD. Taking care of the backend implementation and the machine learning portion. The primary goals of the project are psychological prediction and a few other illnesses. It sets up the patients appointment based on the prediction and sends it straight to the dashboard of the preferred doctor. Developed and deployed a machine learning model to expedite prediction. Deployed the project with django framework to MYSQL database for the patient and doctor records.",
+        "keywords": [
+          "ML",
+          "Django",
+          "React",
+          "HTML/CSS"
+        ],
+        "endDate": "Present",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Load Prediction",
+        "description": "Created and implemented a machine learning model using a Kaggle CSV dataset. 79% accuracy with SVM model.",
+        "keywords": [
+          "ML",
+          "Django"
+        ],
+        "endDate": "Jan 2023",
+        "startDate": "Nov 2022",
+        "url": ""
+      },
+      {
+        "name": "CodeYourWord",
+        "description": "Creating a website to improve school-age childrens exposure to coding culture. The website has seven pages, including sign-up, registration, and landing pages.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "Present",
+        "startDate": "Aug 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "ML Intern",
+        "skillsUsed": [
+          "ML",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "APIs"
+        ],
+        "endDate": "Aug 2022",
+        "company_name": "KIET Group of Institutions (IIPC)",
+        "description": "Finished the projects on predicting house prices, loans, and spam emails. SVM, Regression, and Random Forest models were used to obtain an accuracy of 76%85%.",
+        "location": "Delhi-NCR, IN",
+        "links": "",
+        "startDate": "Jun 2022"
+      },
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Sep 2022",
+        "company_name": "Readycoder",
+        "description": "Attended the Front End Technology training sessions. Created a number of projects with HTML, CSS, and JavaScript, including a calculator, a password generator, and a landing page for a website.",
+        "location": "Remote, India",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "C",
+      "SQL",
+      "HTML/CSS",
+      "MYSQL"
+    ],
+    "soft_skills": [],
+    "name": "Rahul Shoundic",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Oversaw the annual Intercollege Sports Fest (RANN23 RANN24) KARATE event, which attracts over thirty-five participants annually.",
+      "Solved 350+ DSA problems on various coding platforms.",
+      "Finished 1st in the (7985) kg Karate class at RANN23, the KIET Annual Intercollege Sports Fest."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

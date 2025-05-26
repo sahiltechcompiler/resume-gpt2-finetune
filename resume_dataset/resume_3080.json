@@ -1,0 +1,125 @@
+{
+  "project_count": 3.0,
+  "designation": "Trainee",
+  "name": "Mohd Shafeef Khan",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Bhiwadi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Billy",
+        "description": "Developed Billy, a comprehensive web application using React, Node.js, and MongoDB, designed with Progressive Web App (PWA) principles to ensure a seamless and responsive user experience across devices. Engineered the back-end architecture to support full CRUD (Create, Read, Update, Delete) operations, enabling users to efficiently manage their bills and expenses within the application. Built and integrated a feature to split bills among multiple users, facilitating accurate expense sharing and tracking, which is particularly useful for group expenses or shared living situations.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "04-2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat Box",
+        "description": "Developed a real-time chat application with functionalities such as group chat, the ability to send current location, and show all users in a room. Used Socket.IO to enable real-time, bidirectional communication between the server and clients.",
+        "keywords": [
+          "Socket.io",
+          "Express.js",
+          "Node.js",
+          "React"
+        ],
+        "endDate": "01-2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Voting System",
+        "description": "Designed and implemented a decentralized voting system on the Ethereum blockchain to provide a secure and transparent platform for elections. The system includes robust user authentication mechanisms and real-time result tracking, ensuring integrity and trust throughout the electoral process. Leveraged smart contracts to automate vote casting and tallying, reducing the risk of tampering and ensuring that votes are immutable and verifiable.",
+        "keywords": [
+          "Blockchain",
+          "Solidity",
+          "React",
+          "Node.js"
+        ],
+        "endDate": "05-2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Trainee",
+        "skillsUsed": [],
+        "endDate": "05/2024",
+        "company_name": "PwC Acceleration Center",
+        "description": "Achieved certification in four specialized courses during the PwC Talent Enablement Program for Data Analytics, contributing to a foundational understanding of data principles and programming techniques relevant to modern analytics environments.",
+        "location": "Jaipur, India",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Junior Bussiness Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "07/2023",
+        "company_name": "ECR Build Tech Pvt Ltd",
+        "description": "Strengthened 40% overall growth for the organization using analytical, operational, and development skills. Transformed raw data using PowerBI that helps the organization to be more specific, this increased the efficiency of the team by 45%. Devised cost-effective ways to develop the official website using JavaScript library React to increase targetaudience engagement by 35%.",
+        "location": "Bhiwadi, India",
+        "links": "",
+        "startDate": "04/2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "JavaScript",
+      "SQL",
+      "NoSQL",
+      "VS Code",
+      "Git",
+      "Docker",
+      "MySQL",
+      "Kubernetes",
+      "Jupyter Notebooks",
+      "Intellij Idea Ultimate",
+      "Linux",
+      "GitHub",
+      "ReactJS",
+      "Redux",
+      "NextJS",
+      "NodeJS",
+      "ExpressJS",
+      "Git",
+      "Mongo"
+    ],
+    "soft_skills": [],
+    "name": "Mohd Shafeef Khan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

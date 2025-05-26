@@ -1,0 +1,109 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Chakravarthi Vemula  Chakri",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "B.Tech student in Computer Science and Engineering at SRM University, Andhra Pradesh. Dedicated to exploring deep reinforcement learning and eager to apply organizational, creative, and project manage- ment skills in a dynamic company environment. Committed to continuous learning and contributing to technological innovation and software development.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Vignan High School",
+        "endDate": "2019",
+        "maximum_grade": "Percentage: 97.9/100.0 (GPA: 10.0/10.0)",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 8.59/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Face Recognition System (FRS) for Student Attendence",
+        "description": "Developed an automated attendance system using Django framework, Python OpenCV and MySQL. Built a web interface with Django for easy management of attendance records. Integrated seamlessly with existing student databases using Djangos ORM capabilities. Implemented facial recognition algorithms for high accuracy and real-time updates.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Payroll Management System",
+        "description": "Created a real-time payroll management system using Java, Java Swings, MySQL, and JDBC. Developed a user-friendly interface for managing employee records. Implemented core functionalities for adding, deleting, and displaying employee details. Ensured robust database integration and secure data handling with MySQL and JDBC.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Semester Research Internship",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "Image Processing",
+        "description": "Led a research project on Plant Disease Detection Using Image Processing. Developed a deep-learning model based on InceptionV3 and curated it on a diverse plant leaf dataset. Achieved significant advancements in disease detection accuracy and model reliability. Presented findings at academic forums, contributing to agricultural technology and plant pathology.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Django",
+      "Bootstrap",
+      "MERN Stack",
+      "MySQL",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Chakravarthi Vemula  Chakri",
+    "position": "",
+    "interests": [
+      "Web Development",
+      "Machine Learning",
+      "Competitive Programming"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

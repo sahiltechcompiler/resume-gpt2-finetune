@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SAURABH",
+  "college": "Dr. APJ Abdul Kalam Technical University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam Technical University",
+        "endDate": "june 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data privacy anonymization tool",
+        "description": "Developed a full stack tool for the Karnataka Police to anonymize Personally Identifiable Information (PII) in documents such as reports, ensuring data privacy. The tool uses an AI/ML model to identify and hide PII entities. Worked collaboratively with a team to execute the project, contributing to both frontend and backend development, and ensuring full stack integration.",
+        "keywords": [
+          "React.js",
+          "MongoDB",
+          "postman",
+          "Rest api",
+          "Node js",
+          "Python",
+          "AIML",
+          "open-ai"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.repo"
+      },
+      {
+        "name": "Esa-Ecommerce shop",
+        "description": "Developed an online E-commerce shop WebApp that ensures a seamless experience for users, offering seamless functionality for adding products to the cart. Utilizing Redux, I implemented a robust project with enhanced state management and streamlined data flow. Integrate with backend api develop authentication with jwt token stor hash password in back-end MongoDB database.",
+        "keywords": [
+          "React.js",
+          "Redux",
+          "Javascript",
+          "CSS",
+          "API",
+          "Git",
+          "styled-components",
+          "Tailwindcss",
+          "Node js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.repo"
+      },
+      {
+        "name": "ChatApp with react-native",
+        "description": "Developed a full-stack chat application using socket io and react-native, for backend use node.js, express and MongoDB database with API integration. Offering a seamless user experience for accessing details about services, events, and members.",
+        "keywords": [
+          "React-Native",
+          "socket io",
+          "Redux",
+          "Javascript",
+          "node js",
+          "mongoDB",
+          "Tailwindcss"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.repo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [
+          "React.js",
+          "HTML/CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "company_name": "Oasis Infobyte",
+        "description": "During this front-end web development internship, I created three projects with seamless functionality. Using React.js, HTML/CSS, and JavaScript, I have created a Weather App, an E-Commerce webpage, and a Portfolio webpage.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript/TypeScript",
+      "HTML/CSS",
+      "Python",
+      "Git/GitHub",
+      "Postman",
+      "VS Code",
+      "Figma",
+      "MongoDB",
+      "Firebase",
+      "Canva",
+      "android studio",
+      "ReactJs",
+      "React-Native",
+      "Node.js",
+      "REST API",
+      "Styled components",
+      "redux"
+    ],
+    "soft_skills": [
+      "Competitive Programming",
+      "DSA",
+      "Problem Solving",
+      "Time Management",
+      "Communication"
+    ],
+    "name": "SAURABH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achived the 2nd ranking in the colleges competitive programming contest, organized by CSI, Codeshell",
+      "Achieved the 3rd ranking in the colleges competitive programming competition hosted by PC, CodeCrunch",
+      "I achieved a finalist position at the All India level KSP Hackathon organized by the Karnataka State Police."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

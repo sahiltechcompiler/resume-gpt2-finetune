@@ -1,0 +1,148 @@
+{
+  "project_count": 2.0,
+  "designation": "Tech Team Lead",
+  "name": "MD ARMAAN ANSARI",
+  "college": "KIET Group of Institutions (A.K.T.U)",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Kanpur, Uttar Pradesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions (A.K.T.U)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor in Computer Science and Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.95 CGPA",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Dr Virendra Swarup Memorial Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "92 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "StoreFront",
+        "description": "Implemented production-ready, backend for E-commerce website. Build related API endpoints and customise the admin panel. Used Celery and Redis for asynchronous tasks. Used Docker and Docker-Compose for deployment.",
+        "keywords": [
+          "Django",
+          "Django-Rest-Framework",
+          "MySQL",
+          "Redis",
+          "Dramatiq",
+          "Pytest",
+          "Docker"
+        ],
+        "endDate": "Aug 2023",
+        "startDate": "July 2023",
+        "url": ""
+      },
+      {
+        "name": "Endeavour",
+        "description": "Architected the backend system for a college event website, facilitating seamless registration for 13 events and handling a total of approximately 2000 registrations, resulting in a 50% increase in user conversion rates. The website incorporated secure JWT authentication and a payment gateway to enable online transactions. Configured AWS services (EC2, S3, SES) for scalability and efficiency.",
+        "keywords": [
+          "NodeJs",
+          "NestJs",
+          "MongoDB",
+          "TypeORM"
+        ],
+        "endDate": "May 2023",
+        "startDate": "Mar 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer Internship",
+        "skillsUsed": [
+          "Node",
+          "DynamoDB",
+          "Serverless framework",
+          "AWS Cognito",
+          "AWS Lambda",
+          "Amazon S3",
+          "Amazon SNS",
+          "Amazon SES"
+        ],
+        "endDate": "Present",
+        "company_name": "SecureBlink Pvt. Ltd.",
+        "description": "Developing, designing and debugging REST APIs using Node, DynamoDB and Serverless framework for platform. Executed comprehensive security checks and vulnerability analysis using industry-leading tools like Bearer; identified and resolved 20 critical security issues. Configured Custom Authentication, OAuth 2.0, and multi-factor authentication through AWS Cognito. For optimal code functionality, integrate multiple AWS services including Amazon Cognito, AWS Lambda, Amazon S3, Amazon SNS, and Amazon SES.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Apr 2024"
+      },
+      {
+        "role_name": "Backend Developer Internship",
+        "skillsUsed": [
+          "AWS EC2",
+          "AWS S3",
+          "AWS RDS",
+          "AWS CloudWatch"
+        ],
+        "endDate": "Dec 2023",
+        "company_name": "HealthCred Pvt. Ltd.",
+        "description": "Designed product backend architecture and performed feasibility analysis. Developed backend for loan platform, boosting revenue by 25% and configured AWS services (EC2, S3, RDS, CloudWatch) for scalability and efficiency. Integrated KYC framework and third-party APIs for compliance and WhatsApp chatbot for enhanced user interaction. Developed an in-house dashboard for real-time monitoring.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Nov 2023"
+      },
+      {
+        "role_name": "Software Developer Internship",
+        "skillsUsed": [
+          "Django",
+          "Django Rest Framework"
+        ],
+        "endDate": "Nov 2023",
+        "company_name": "SterlCent Investment Advisors Pvt. Ltd.",
+        "description": "Implemented KYC framework for user onboarding, verifying uploaded documents using Django and Django Rest Framework. Intregrated Whatsapp Chatbot for automation and better user engagement in a website.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Sept 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "SQL (Postgres)",
+      "JavaScript",
+      "HTML/CSS",
+      "Node.Js",
+      "Django",
+      "Express.Js",
+      "Nest.Js",
+      "Django-Rest-Framework",
+      "Serverless framework",
+      "Git",
+      "Docker",
+      "Amazon Web Services",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "MD ARMAAN ANSARI",
+    "position": "Tech Team Lead",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor in Computer Science and Engineering"
+}

@@ -1,0 +1,147 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Arshmehar Kaur",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Neural Networks and Deep Learning",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python For Data Science",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ethical Hacking",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Achieved 5-star ranking (gold badge holder) in Python proficiency",
+        "skillsLearned": [],
+        "title": "Python On Hackerrank",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.58/10",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "POTATO DISEASE IDENTIFICATION",
+        "description": "Developed a potato disease identification system using Convolutional Neural Networks (CNN), achieving an accuracy rate of 98%. Leveraged deep neural networks and TensorFlow to create a robust model for detecting and classifying potato diseases. Utilized Python and Keras for data preprocessing, model training, and validation, improving disease diagnosis efficiency.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FACIAL RECOGNITION SYSTEM",
+        "description": "Developed a facial recognition system using Python, NumPy, and TensorFlow to identify individuals from digital images. Utilized transfer learning with pre-trained CNNs for feature extraction and fine-tuning on a custom dataset, enhancing model accuracy and efficiency. Implemented model training, validation, testing procedures, and real-world application deployment.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [
+          "Excel",
+          "Python",
+          "Matplotlib",
+          "SQL",
+          "Tableau"
+        ],
+        "endDate": "Aug22",
+        "company_name": "ADAGIO VR- MITR TRUST",
+        "description": "Analyzed workshop data using Excel and Python to identify trends and patterns in participant engagement and feedback for VR workshops aimed at mental health patients. Developed visualizations and dashboards using Matplotlib to effectively communicate data findings to stakeholders, enhancing the understanding of VR's impact on mental health. Compiled comprehensive reports and support grant proposals by providing data-driven insights with tools like SQL and Tableau, advocating for and helping patients by highlighting the positive outcomes of the VR workshops.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "May22"
+      },
+      {
+        "role_name": "PR and Marketing Manager",
+        "skillsUsed": [],
+        "endDate": "Aug22",
+        "company_name": "GTBIT, Etcetera",
+        "description": "Led PR campaigns for theatre productions, increasing audience attendance and impacting large audiences through social awareness topics such as mental health, women empowerment, and democracy. Managed social media channels, boosting followers by 40% and enhancing online engagement by 35%. Won 30 prizes across DU and IPU for outstanding contributions to theatre and public relations.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "Aug21"
+      },
+      {
+        "role_name": "Event Manager",
+        "skillsUsed": [],
+        "endDate": "Apr22",
+        "company_name": "Hack GTBIT",
+        "description": "Organized a tech hackathon with over 50 participants, resulting in the development of innovative projects. Led event logistics, ensuring a 95% participant satisfaction rate through efficient planning and execution.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "Mar22"
+      }
+    ],
+    "skills": [
+      "Python",
+      "MySQL",
+      "C/C++",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "Matplotlib",
+      "TensorFlow",
+      "Keras",
+      "Microsoft Office",
+      "Canva",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Arshmehar Kaur",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Won 30 prizes across DU and IPU for outstanding contributions to theatre and public relations."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

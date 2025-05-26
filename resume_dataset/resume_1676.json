@@ -1,0 +1,115 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Suraj Suryawanshi",
+  "college": "K J College of Engineering and Management Research",
+  "locations": [
+    "Pune, Maharashtra",
+    "Satara, Maharashtra"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "K J College of Engineering and Management Research",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Pune, Maharashtra",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": "Jul 2021"
+      },
+      {
+        "school": "YCIS Satara",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.00",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bharat Vidya Mandir Satara",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "81.00",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Admin UI",
+        "description": "Creating an interface for admins to see, edit, and delete the users data. Created a webpage to display all the users data. Extracted the users data from API.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Netflix Clone",
+        "description": "This is clone of Netflix website built using React as a Front-end & Firebase as Back-end. It contains the home page, sign-up page, sign-in page, and profile page. In this Netflix Clone movies data fetched using TMDb API. It has one feature that is user can sign-up and login & user can like their favourite movie.",
+        "keywords": [
+          "React",
+          "Tailwind CSS",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ecommerce Website",
+        "description": "Ecommerce Website made using React, Tailwind CSS as Front-end & Strapi as Back-end. Payment gateway Feature is available in this website. It Contains the home page, category page, product details page. In this website you can add product and search any product.",
+        "keywords": [
+          "React",
+          "Tailwind CSS",
+          "Strapi"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "MySQL",
+      "VS code",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Suraj Suryawanshi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.E."
+}

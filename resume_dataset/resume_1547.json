@@ -1,0 +1,112 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sai Kumar Mundru",
+  "college": "SRM University,AP",
+  "locations": [
+    "Guntur"
+  ],
+  "full_output": {
+    "summary": "As a recent graduate with a strong academic background, I approach life with a disciplined mindset and a passionate curiosity for learning. My journey has been guided by a commitment to applying knowledge to real-world problems, while demonstrating patience and humility in embracing diverse perspectives. I am skilled at integrating these insights into practical solutions and am eager to apply my abilities in software development to tackle everyday challenges and drive innovative results.With a blend of accep- tance, discipline, and a relentless pursuit of knowledge, I am prepared to make a meaningful impact in any professional setting.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University,AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:8.60/10.0",
+        "field_of_study": "AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College,Guntur",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Marks: 967/1000",
+        "field_of_study": "MPC",
+        "startDate": "2019"
+      },
+      {
+        "school": "Dr KKR Gowtham High School,Guntur",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA:10.0/10.0",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chat Application",
+        "description": "Developed a robust and efficient chat application using Java, MySQL, Swing, and socket programming, enabling seamless real-time communication and message exchange for users across the platform.",
+        "keywords": [
+          "Java",
+          "MySQL",
+          "JDBC",
+          "Swing",
+          "Socket Programming"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Alexa Music Playlist Skill using RDS",
+        "description": "Leveraged AWS services like Lambda for serverless execution, S3 for storing audio files, RDS for managing playlist data, and EC2 for scalable backend processing, delivering a seamless and dynamic music streaming experience on the Alexa platform.",
+        "keywords": [
+          "AWS Services",
+          "EC2",
+          "S3",
+          "RDS",
+          "ALEXA",
+          "LAMBDA"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Patient Subtype Classifier using deep learning",
+        "description": "Developed a patient subtype classifier for advanced head and neck cancer utilizing an autoencoder and graph convolutional network, enhancing our ability to categorize and understand different patient profiles in the context of this challenging medical condition.",
+        "keywords": [
+          "Python",
+          "keras",
+          "tensorflow",
+          "pytorch",
+          "matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Python",
+      "java",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Sai Kumar Mundru",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

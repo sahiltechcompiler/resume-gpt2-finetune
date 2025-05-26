@@ -1,0 +1,160 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "ANUSHREE",
+  "college": "Hindustan Institute of Technology and Science",
+  "locations": [
+    "Chennai",
+    "Surapet"
+  ],
+  "full_output": {
+    "summary": "Proactive B.Tech Student in Computer Science with a specialisation in Artificial Intelligence and data science. Seeking to leverage my academic background and practical experience in a challenging cloud engineering role to drive innovation and deliver high-quality solutions",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Covered basic idea of data science such as statistical analysis, machine learning, data visualization and data science tools to get insights from datasets.",
+        "skillsLearned": [],
+        "title": "Introduction to data Science",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Solved SQL Basic Coding Questions with Test Cases.",
+        "skillsLearned": [],
+        "title": "SQL",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Covered fundamentals of Computer Architecture, Process design and System Integration.",
+        "skillsLearned": [],
+        "title": "Computer Architecture and Organization",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Covered Fundamentals of Python and data Preprocessing, data visualisation, Statistics, Machine Learning and Natural Language Processing.",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "Great Learning",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Hindustan Institute of Technology and Science",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.8",
+        "field_of_study": "Computer Science with Artificial Intelligence and Data Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Velammal Vidhyashram",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "CBSE (Class XII)",
+        "location": "Surapet",
+        "ID": 1.0,
+        "grade_received": "Percentage : 86",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Velammal Vidhyashram",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "CBSE (Class X)",
+        "location": "Surapet",
+        "ID": 2.0,
+        "grade_received": "Percentage: 92",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Plant Disease Detection Android Application",
+        "description": "Utilized pre-trained TensorFlow model to perform real-time classification of plant diseases. Achieved an accuracy rate of 70%+ in plant disease classification. Implemented real-time image classification within the Android app for on-field disease detection.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "OpenCv",
+          "Kotlin"
+        ],
+        "endDate": "Nov23",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI based Android Application",
+        "description": "Ive developed a Kotlin application for a BMI calculation. Integrated Google Speech Assistance allows users to enter their height and weight verbally and receive their BMI (normal, obese, underweight). Improved user experience through the incorporation of an interactive help chatbot built with Dialog Flow with User Firebase authentication.",
+        "keywords": [
+          "Kotlin",
+          "dialogFlow",
+          "API"
+        ],
+        "endDate": "Jan24",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English: Fluent"
+    ],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Current",
+        "company_name": "Careervira",
+        "description": "Responsibilities: Scraped data from websites to collect key performance indicators (KPI) such as course names, skills, duration, and price using APIs and Scrapy Python Framework. Achievements: Successfully Extracted KPIs from three websites and executed scripts to scrape the number of companies from given site.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2024"
+      },
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "Sync Intern",
+        "description": "Responsibilities: developed models using deep learning and machine learning techniques to predict Plant disease and recognize Hand-digits. Achievements: Successfully developed model for Plat Disease detection and Hand- digit recognition using Deep Learing and Machine Learning algorithms with accuracy of 85 percent.",
+        "location": "",
+        "links": "",
+        "startDate": "September 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Strong verbal and written communication skills",
+      "Excellent time management and organizational skills",
+      "Open- minded and Persistent",
+      "Punctual and Flexible in Planning"
+    ],
+    "name": "ANUSHREE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 2nd place in the Paper Presentation Competition, 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,162 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Kanishka Sah",
+  "college": "GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Foundations: Data, Data, Everywhere",
+        "issuer": "Google-COURSERA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C++: Data Structure and Algorithms",
+        "issuer": "Code help, udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Career Edge Young Professional",
+        "issuer": "TCS iON",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science Course",
+        "issuer": "Internshala",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "Current CGPA  9.2 up to 5Th Sem",
+        "field_of_study": "Artificial intelligence and machine learning",
+        "startDate": "Dec 2021"
+      },
+      {
+        "school": "SARVODAYA KANYA VIDYALAYA, VIKASPURI",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "New Delhi, India",
+        "ID": 1.0,
+        "grade_received": "93%",
+        "field_of_study": "CBSE, PCM, Computer Science",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "SIGN LANGUAGE DETECTION USING ACTION RECOGNITION",
+        "description": "Implemented sign language estimation using an LSTM Neural Network in TensorFlow Keras. Developed a key point detection Model to construct a sequence of key points, passing them to an action detection model for sign language decoding. Achieved real-time sign language prediction from video sequences. Extracted MediaPipe Holistic Keypoints and Predicting Sign language in real time using video sequences.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GITHUB"
+      },
+      {
+        "name": "YOUTUBE DATA ANALYSIS USING API",
+        "description": "Conducted YouTube Data Analysis Python project utilizing YouTube Data API. Developed a Python script to scrape and extract data in JSON form, and performed comprehensive analysis. Focused on scraping Channel statistics and Video details, exploring correlations between channel growth and video uploads. Employed Data ETL, visualization, and statistical methods to analyze and visualize key metrics, including monthly video uploads, likes, and views for over 10 channels.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GITHUB"
+      },
+      {
+        "name": "HEALTHISTA  A MENTAL HEALTHCARE WEBSITE",
+        "description": "Developed a user-friendly mental health care website offering therapy, meditation resources, and personalized chat support. Successfully implemented during the HACKATHON organized by UNICORN-GTBIT, showcasing commitment to impactful projects addressing mental health challenges.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GITHUB"
+      },
+      {
+        "name": "MOVIE RECOMMENDATION SYSTEM",
+        "description": "Developed a Content-Based Movie Recommender System using cosine similarity on the TMDb dataset from Kaggle. The system suggests personalized movie recommendations based on user provided preferences. By analyzing features such as genre, cast, and plot details, the system ensures finely-tailored suggestions, showcasing a deep understanding of content-based recommendation methodologies. A testament to my expertise in ML and data analysis, this project highlights my ability to translate complex algorithms into practical, user-centric solutions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GITHUB"
+      },
+      {
+        "name": "HR ANALYTICS DASHBOARD",
+        "description": "Pioneered the development of an impactful HR Analytics Dashboard, elevating organizational performance & employee satisfaction through visually-rich insights into key HR metrics. Enabled strategic decision-making, from identifying top performers to implementing retention strategies. Translating data into actionable solutions for fostering a positive work environment and reducing attrition.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Python",
+      "HTML",
+      "TensorFlow",
+      "Keras",
+      "Numpy",
+      "Pandas",
+      "Scikit-Learn",
+      "Flask",
+      "Django",
+      "OpenCV",
+      "MySQL",
+      "Git",
+      "VsCode",
+      "Kaggle",
+      "Jupyter Notebook",
+      "PowerBI",
+      "Excel",
+      "Canva"
+    ],
+    "soft_skills": [
+      "Communication",
+      "IT Foundation",
+      "Teamwork",
+      "Time Management",
+      "Presentation Skills",
+      "Problem solving"
+    ],
+    "name": "Kanishka Sah",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured InterCollege Winner title at Smart India Hackathon '23 (SIH'23), reaching Semifinals.",
+      "Participated in the GenAi Bootcamp #Include<Her> Cohort 4.0, focusing on Microsoft Azure technologies.",
+      "Secured 76th rank in GSSOC23 with submission of 28 PR in multiple projects in 3 month long open-source program.",
+      "Contributed to event management & operations as the tech event coordinator."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

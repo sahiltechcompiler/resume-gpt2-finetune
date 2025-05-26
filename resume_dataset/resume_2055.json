@@ -1,0 +1,134 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Riya Gupta",
+  "college": "National Institute of Technology",
+  "locations": [
+    "Allahabad",
+    "Rampur, Uttar Pradesh",
+    "Uttar Pradesh",
+    "Gurugram"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelors Of Technology",
+        "location": "Allahabad",
+        "ID": 0.0,
+        "grade_received": "7.24 CGPA",
+        "field_of_study": "Civil Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Dayawati Modi School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Rampur, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "78 Percentage",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St.Marys Senior Secondary School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "10 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Comfort Cove",
+        "description": "Crafted an e-commerce furniture shop with Augmented Reality using Vectary for 3D models. Achieved a responsive UI with Vite,React and Tailwind CSS enhancing real-world objects with computer generated perptual information.",
+        "keywords": [
+          "Vite",
+          "React.js",
+          "Tailwind CSS",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "riyatva/ComfortCove"
+      },
+      {
+        "name": "Foody WE",
+        "description": "Accomplished features like Home page,Login/SignUp page and a Searchfeature to help users. Built a Add to Cart functionality which help users to select the food items they want to order and add them to their cart.",
+        "keywords": [
+          "MongoDB",
+          "React",
+          "ExpressJS",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "riyatva/FoodyWe"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Control Tower",
+        "skillsUsed": [],
+        "endDate": "2024",
+        "company_name": "Shadowfax Technologies",
+        "description": "Optimized backend operations using Zoho and Ecom-portal, reducing order processing time by 40% and mitigating losses through real-time inventory tracking, resulting in a 15% cost reduction. Developed an off-skill metric to keep a record of total man-power trained to establish cross-functional collaboration. Used Metabase - a BI tool for efficient data analysis , including the calculation of value of shipments.",
+        "location": "Gurugram",
+        "links": "GitHub, LinkedIn",
+        "startDate": "2020"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "NodeJS",
+      "VSCode",
+      "Git",
+      "MongoDB",
+      "SQL",
+      "Excel",
+      "React",
+      "Tailwind CSS",
+      "Redux",
+      "Context API"
+    ],
+    "soft_skills": [
+      "People Management",
+      "Project Management",
+      "Leadership",
+      "Team Work"
+    ],
+    "name": "Riya Gupta",
+    "position": "",
+    "interests": [
+      "DSA",
+      "OOPS",
+      "DBMS"
+    ],
+    "achievements_and_awards": [
+      "Third position in Codigo : Coding event in Avishkar 2022.",
+      "Silver Star holder in SQL Problem Solving on Hacker Rank",
+      "Second position in Crack The Case : Case Study event in Avishkar 2022",
+      "Solved 600+ problems on Leetcode",
+      "Qualified TCS NQT 2024"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Of Technology"
+}

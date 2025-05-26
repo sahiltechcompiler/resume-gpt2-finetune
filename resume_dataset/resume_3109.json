@@ -1,0 +1,101 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Divyanshu Pathak",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "Procient in DSA and web development. Expertise in problem-solving, algorithmic optimization, and building robust software solutions.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.73",
+        "field_of_study": "",
+        "startDate": "October 2021"
+      },
+      {
+        "school": "Air Force Golden Jubilee Institute",
+        "endDate": "April 2020",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "95 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Camping Ground Reviews",
+        "description": "- Developed a full-stack web application using JavaScript, Bootstrap, Node.js, MongoDB, and Express.js.\n- Implemented RESTful API endpoints to handle user requests and CRUD operations for camping ground reviews.\n- Integrated MongoDB for e\u0000cient storage and retrieval of camping ground reviews and user data.\n- Incorporated geocoding functionality to translate location data into coordinates for mapping using APIs.",
+        "keywords": [
+          "JavaScript",
+          "Bootstrap",
+          "Node.js",
+          "MongoDB",
+          "Express.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Watchlist Manager",
+        "description": "- Developed a React application using functional components and hooks.\n- Integrated with the OMDB API to fetch movie data for search and display.\n- Implemented real-time search functionality for e\u0000cient movie discovery.\n- Enabled users to add and remove movies to/from their personalized watchlist.\n- Leveraged modern React practices and hooks for state management and component lifecycle.",
+        "keywords": [
+          "React",
+          "OMDB API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "Java",
+      "SQL",
+      "React",
+      "Bootstrap",
+      "Tailwind CSS",
+      "Express JS",
+      "Node JS",
+      "MERN",
+      "Node",
+      "React",
+      "MongoDB",
+      "Express",
+      "Redux"
+    ],
+    "soft_skills": [],
+    "name": "Divyanshu Pathak",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Academic Excellence Award 2023",
+      "Highest Scorer in School 2020"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

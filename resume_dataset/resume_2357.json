@@ -1,0 +1,188 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rahul Latotra",
+  "college": "GRAPHIC ERA HILL UNIVERSITY",
+  "locations": [
+    "Dehradun, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Get Started with Artificial Intelligence",
+        "issuer": "MATHWORKS",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning with Python",
+        "issuer": "COURSERA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "What is Data Science?",
+        "issuer": "COURSERA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cyber Security and Its ten domains",
+        "issuer": "COURSERA",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GRAPHIC ERA HILL UNIVERSITY",
+        "endDate": "06/2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Dehradun, India",
+        "ID": 0.0,
+        "grade_received": "7.96/10",
+        "field_of_study": "Computer Science",
+        "startDate": "09/2020"
+      },
+      {
+        "school": "KENDRIYA VIDYALAYA SOI",
+        "endDate": "07/2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Dehradun, India",
+        "ID": 1.0,
+        "grade_received": "80%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MALWARE CLASSIFICATION USING ML ALGORITHMS",
+        "description": "Achieved 91.27 percent accuracy in malware classification using Python and CNN. Used an open-set image dataset with 25 malware classes and legitimate software for precise recognition. Utilized Python, Logistic Regression, Convolutional Neural Network, and Random Forest for effective and efficient malware classification.",
+        "keywords": [
+          "Python",
+          "CNN",
+          "Logistic Regression",
+          "Random Forest"
+        ],
+        "endDate": "04/2024",
+        "startDate": "01/2024",
+        "url": ""
+      },
+      {
+        "name": "HOUSE PRICE PREDICTION",
+        "description": "Created a real estate price predictor using Python, Sklearn, and Flask, integrating data cleaning, feature engineering, and a Flask-based interface. Designed a user-friendly real estate price prediction website with Python Flask, HTML/CSS/JavaScript, and prioritized Linear Regression for 95% accuracy.",
+        "keywords": [
+          "Python",
+          "Sklearn",
+          "Flask",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "11/2023",
+        "startDate": "07/2023",
+        "url": ""
+      },
+      {
+        "name": "DIGIT RECOGNITION SYSTEM",
+        "description": "Developed a Digit Recognition System using CNN, achieving 94% accuracy. Applied data mining for preprocessing, transformation, and feature engineering with Python. Delivered an accurate digit recognition model using TensorFlow, Keras, and Scikit-Learn. Utilized Python libraries for data preprocessing and modeling.",
+        "keywords": [
+          "CNN",
+          "TensorFlow",
+          "Keras",
+          "Scikit-Learn"
+        ],
+        "endDate": "07/2023",
+        "startDate": "04/2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Trainee",
+        "skillsUsed": [
+          "NLP",
+          "spaCy",
+          "LangChain",
+          "Streamlit"
+        ],
+        "endDate": "Present",
+        "company_name": "INSIGNIA CONSULTANCY SOLUTIONS",
+        "description": "Researched and developed NLP techniques, focusing on information extraction and achieving 88% accuracy in NER using spaCy. Developed a chatbot using RAG with LangChain and open-source LLMs, alongside a Streamlit interface for enhanced user interaction.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "06/2024"
+      },
+      {
+        "role_name": "IBM SkillsBuild Intern",
+        "skillsUsed": [
+          "Artificial Intelligence",
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "07/2023",
+        "company_name": "EDUNET FOUNDATION",
+        "description": "Learned about Artificial Intelligence, Python, and Machine Learning through IBM-certified course modules. Led a team of 2 to develop a Mental Health Fitness Tracker, comparing accuracy from different regression models.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "06/2023"
+      }
+    ],
+    "skills": [
+      "Windows",
+      "Linux",
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "SQL",
+      "PHP",
+      "MySQL",
+      "Oracle",
+      "Anaconda (Spyder)",
+      "Github",
+      "VS Code",
+      "PyCharm",
+      "Google Colab"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Team Player",
+      "Pressure Handling Capability",
+      "Adaptability"
+    ],
+    "name": "Rahul Latotra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "ADAPTIVE COLORIZATION OF HISTORICAL AND FADED PHOTOGRAPHS | DEHRADUN, INDIA 09/2023 - 05/2024 Analyzed efficiency in colorizing historical and grayscale photos using cGAN, ResNet18, and U-Net models. Published in IEEE Digital Xplore after presentation at ICC - ROBINS 2024."
+    ]
+  },
+  "current_location": "Dehradun, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

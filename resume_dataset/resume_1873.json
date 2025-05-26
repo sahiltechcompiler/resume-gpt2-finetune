@@ -1,0 +1,103 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "AKSHAT SAINI",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, IN",
+    "New Delhi, IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "As the appointed Student Placement Coordinator for the Computer and Communication Engineering (CCE) branch, I am actively engaged in a leadership and volunteer capacity, overseeing and facilitating the placement process for the graduating class of 2025.",
+      "I led a team of 5 students in the final round of an Ideathon, guiding and orchestrating our collective efforts to present an innovative and impactful solution.",
+      "Led the coordination and management of an empowering event with NGO Sukama, focused on fostering self-dependence among underprivileged women; organized logistics and delivered a transformative lecture on leveraging mobile operating systems for skill enhancement and overall development."
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "04/2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, IN",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.03",
+        "field_of_study": "Computer and Communication Engineering",
+        "startDate": "09/2021"
+      },
+      {
+        "school": "The Frank Anthony Public School",
+        "endDate": "04/2020",
+        "maximum_grade": "",
+        "degree": "High School Diploma",
+        "location": "New Delhi, IN",
+        "ID": 1.0,
+        "grade_received": "PERCENTAGE: 80%",
+        "field_of_study": "Science",
+        "startDate": "04/2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "SecureFlex",
+        "description": "Developed a robust encryption and decryption system in C Programming Language, achieving a 30% improvement in processing speed compared to existing solutions. Conducted thorough testing to validate time improvement and robustness through custom designed test cases. Detailed results are appended to the GitHub repository for reference. Integrated API (Twilio) for secure communication, resulting in a 25% reduction in communication latency and ensuring reliable OTP verification and key exchange between parties.",
+        "keywords": [
+          "C Programming Language",
+          "Twilio API integration",
+          "Custom Testing",
+          "GitHub"
+        ],
+        "endDate": "09/2023",
+        "startDate": "08/2023",
+        "url": "https://github.com/AkshatSaini16/SecureFlex"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "C",
+          "C++",
+          "Java",
+          "MySql",
+          "Shell Scripting",
+          "Cisco Packet Tracer",
+          "Github",
+          "Adobe Photoshop",
+          "Sony Vegas Pro",
+          "MS Office"
+        ],
+        "endDate": "01/2023",
+        "company_name": "Envision Trader",
+        "description": "Built the company's website from scratch, resulting in a 100% increase in online presence. Crafted and curated compelling content for social media platforms, leading to a 50% boost in organic reach. Streamlined operations by implementing agile methodologies, resulting in a 30% improvement in team efficiency and a 25% reduction in project turnaround time. Introduced a customer feedback system, leading to a 15% improvement in customer satisfaction scores.",
+        "location": "New Delhi, IN",
+        "links": "www.envisiontrader.in",
+        "startDate": "12/2022"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [
+      "Communication",
+      "Rationalizing",
+      "Team Work"
+    ],
+    "name": "AKSHAT SAINI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Published a research paper in the AIP Proceedings Conference, a Scopus-indexed platform, focusing on advancements in Cryptography.",
+      "Achieved a top 5% distinction in the NPTEL course on Design and Analysis of Algorithms.",
+      "Recognized on the Dean's List with an official certificate for outstanding academic performance during the 3rd semester and 5th Semester.",
+      "I've successfully tackled more than 100 questions on LeetCode spanning various topics related to data structures, algorithm design, and analysis, utilizing both C and C++.",
+      "I have successfully completed several MOOC courses, showcasing my dedication to continuous learning and skill development. These include a Cryptography Specialization on Coursera, 'C for Everyone' on Coursera, Database Foundation on Oracle, and Switching, Routing, and Wireless Essentials on Cisco."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

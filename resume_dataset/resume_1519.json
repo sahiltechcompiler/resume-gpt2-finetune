@@ -1,0 +1,97 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Nishikant Prasad",
+  "college": "GURU TEGH BAHADUR INSTITUTE OF TECHNOLOGY (GGSIPU)",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GURU TEGH BAHADUR INSTITUTE OF TECHNOLOGY (GGSIPU)",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.9",
+        "field_of_study": "COMPUTER SCIENCE AND ENGINEERING",
+        "startDate": "2019"
+      },
+      {
+        "school": "Government Boys Senior Secondary School (Delhi)",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "79",
+        "field_of_study": "SCIENCE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sudoku Solver",
+        "description": "Developed a C++ application to solve 9x9 Sudoku puzzles using a backtracking algorithm. The program includes functionalities for puzzle input, validation, solving, and solution display. Implemented a user-friendly console interface for puzzle entry and solution display. Demonstrated strong problem-solving skills, algorithmic expertise, and proficiency in C++, making me a valuable asset for software development roles.",
+        "keywords": [
+          "C++",
+          "Backtracking",
+          "OOPS"
+        ],
+        "endDate": "July 2024",
+        "startDate": "Dec 2020",
+        "url": ""
+      },
+      {
+        "name": "Sorting Visualizer",
+        "description": "Developed a C++ application that visually demonstrates various sorting algorithms. The visualizer provides an educational tool to help users understand the inner workings of sorting algorithms through real-time graphical representation.",
+        "keywords": [
+          "C++",
+          "OOPS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommender System Project",
+        "description": "Developed a machine learning-based movie recommender system aimed at providing personalized movie recommendations to users based on their preferences and behavior. The project leveraged collaborative filtering and content-based filtering techniques to enhance recommendation accuracy.",
+        "keywords": [
+          "Python",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "C",
+      "Java",
+      "Python",
+      "Html",
+      "Css",
+      "Javascript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Nishikant Prasad",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved a top 40 rank on the GeeksforGeeks platform during college, demonstrating strong problem-solving skills and proficiency in programming concepts.",
+      "Successfully completed the LeetCode 100 Days Challenge in 2023, showcasing dedication and advanced problem-solving skills in algorithms and data structures."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

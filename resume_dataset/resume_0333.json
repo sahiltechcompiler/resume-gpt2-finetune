@@ -1,0 +1,117 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Prakhar Singh",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Kanpur, Uttar Pradesh",
+    "Noida, Uttar Pradesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "October 2021"
+      },
+      {
+        "school": "Delhi Public School",
+        "endDate": "April 2019",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School",
+        "endDate": "March 2018",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Stock Prediction",
+        "description": "Engineered an artificial neural network (ANN) model to predict stock prices based on historical data; the model achieved an accuracy rate of 85%, significantly enhancing trading strategy effectiveness. Performed sentiment analysis using NLP techniques, and predicted stock prices with an ANN. The proposed model outperforms traditional time series models, demonstrating the impact of sentiment on stock market predictions.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "December 2023",
+        "startDate": "August 2023",
+        "url": ""
+      },
+      {
+        "name": "Student Performance Analysis",
+        "description": "Performed Exploratory Data Analysis(EDA) over a student performance dataset. Investigated the impact of various factors on students test scores. Explored multiple regression models (Linear Regression, Ridge, Lasso, etc.) to predict test scores.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "May 2024",
+        "startDate": "January 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Vodafone Intelligent Solutions( VOIS)",
+        "description": "Supported the organizations data-driven decision-making by collecting, cleaning, analyzing, and visualizing data. Initiated the reduction in data redundancy by 40%, improving data consistency and integrity. Worked closely with the data team to extract valuable insights and contribute to the organizations impact.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Aikav Technologies",
+        "description": "Designed and developed a new website for a local apartment association. This project provided the opportunity to learn and implement the Drupal Content Management System (CMS). Utilized Drupal, after acquiring proficiency in the platform, for its robust content management capabilities and extensive customization options. Implemented Bootstrap framework to ensure a responsive user interface that adapts seamlessly across all devices (desktop, tablet, mobile).",
+        "location": "Noida, Uttar Pradesh",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "SQL",
+      "JavaScript",
+      "HTML/CSS"
+    ],
+    "soft_skills": [],
+    "name": "Prakhar Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Among top 10% applicants to get selected into Shipd by Datacurve (a venture backed by Y Combinator)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

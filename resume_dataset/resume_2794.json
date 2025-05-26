@@ -1,0 +1,112 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Rahul Chandra Teja",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "A 3rd-year Computer Science student at SRM University AP, with a specialization in Big Data, keen on making a meaningful impact through real-world projects. Ready to embrace new opportunities and committed to using emerging technologies for innovation.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Jr college",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Dr.Kkr gowtham School",
+        "endDate": "2019",
+        "maximum_grade": "Marks:896/1000",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 8.3/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "IDENTIFY VERIFY: SMART FACIAL RECOGNITION ATTENDANCE",
+        "description": "It is a web-based application designed for admins to register users, add facial data, and review attendance records. Employees can log in, mark their attendance using facial recognition, and access their attendance history. The web pages are constructed with HTML, CSS, and PHP, and the site is hosted on a Xampp server. For facial identification, an SVM classification model is employed. The logic for facial recognition and attendance marking is implemented in Python.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SUPER STORE SALES AND PROFIT ANALYSIS",
+        "description": "Performed Superstore Sales and Profit Analysis project using Pandas, NumPy, Matplotlib, and Seaborn. Utilized mathematical operations and visualizations including pie charts and bar graphs to analyze sales performance, profitability, product range, and regional distribution. Various regression models were used to perform prediction of Sales and Profit based on various factors.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "FRONTEND DEVELOPER-INTERN",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Nav Tech Electronics",
+        "description": "During my time at Nav Tech Electronics, I spearheaded web development initiatives focusing on real-time 3D warehouse modeling. Leveraging cutting-edge tools such as Eclipse, Apache Tomcat, and Tortoise SVN, I meticulously crafted and refined the 3D warehouse model. This involved creating dynamic web interfaces that allowed users to interact with and manipulate the warehouse model in real-time. Collaborating closely with cross-functional teams, I ensured seamless integration of the developed model with project objectives. This hands-on experience not only honed my skills in web development but also provided me with invaluable insights into the practical applications of advanced tools in the electronics industry.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JS",
+      "Html",
+      "Python",
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management",
+      "Data Warehousing and Mining",
+      "Machine Learning",
+      "VS Code",
+      "SQL",
+      "IntelliJ",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [
+      "communications skills and leadership",
+      "Decision making and problem solving"
+    ],
+    "name": "Rahul Chandra Teja",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

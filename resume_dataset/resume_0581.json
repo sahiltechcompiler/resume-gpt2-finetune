@@ -1,0 +1,170 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aswath Gopal P",
+  "college": "Chennai Institute Of Technology",
+  "locations": [
+    "Chennai, India"
+  ],
+  "full_output": {
+    "summary": "Hi I am Aswath Gopal P. I am Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. To seek and maintain full time position that offers professional challenges utilizing interpersonal skills. excellent time management and problem solving skills.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Fullstack stack development",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "node js",
+        "issuer": "coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "cisco cybersecurity essentials",
+        "issuer": "nptel",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "java",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ccna-1",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.E",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.97",
+        "field_of_study": "Computer Science And Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Loyola Matriculation Higher Secondary School",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.8",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "WeEats",
+        "description": "Authentication & Security: Integrated Auth0 for secure user authentication and authorization. User Interface: Designed a modern UI using shadcn for an intuitive user experience. Payment Processing: Implemented Stripe for seamless and secure online payments. Real-Time Ordering: Enabled real-time updates and notifications for food orders. Restaurant Management: Developed features for users to manage their own restaurants and book from others.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Mongodb"
+        ],
+        "endDate": "present",
+        "startDate": "2024",
+        "url": ""
+      },
+      {
+        "name": "Expense Tracker",
+        "description": "Implemented user authentication using JSON Web Tokens (JWT) for secure login and session management. Enabled users to add, edit, and delete expense and income entries with categorization. Integrated interactive graphs for financial analysis, using Chart.js for visualizing income and expenses.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "mysql"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hotel Booking App",
+        "description": "Developed the front-end of a responsive hotel booking application using React.js, providing users with a modern and intuitive interface. Implemented user authentication and authorization features using React Context API. Utilized React Router for client-side routing, enabling smooth navigation between different pages and sections of the app.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "mongodb"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python and frontend developer",
+        "skillsUsed": [],
+        "endDate": "02/2024",
+        "company_name": "Rane Madras Limited",
+        "description": "Developed a frontend application to connect to the database and helped to visualize the data using graph. Developed python program for 3d modelling. used labview to integrate python to plc.",
+        "location": "Chennai, India",
+        "links": "",
+        "startDate": "08/2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Java",
+      "Html",
+      "Css",
+      "Javascript",
+      "Typescript",
+      "TailwindCss",
+      "React js",
+      "Node js",
+      "express js",
+      "Mysql",
+      "Mongodb",
+      "Git",
+      "Github",
+      "docker"
+    ],
+    "soft_skills": [],
+    "name": "Aswath Gopal P",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "SMART INDIA HACKATHON (2023): secured top 5 finalist position in the competiton for developing fitness tracking app",
+      "Leetcode: Solved over 400+ problems in leetcode and have a contest rating of 1392.",
+      "Hackerrank: Secured 4 star rating in c language"
+    ],
+    "publications": []
+  },
+  "current_location": "Chennai,TamilNadu,India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.E"
+}

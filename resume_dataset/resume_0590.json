@@ -1,0 +1,238 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "AISHWARYA BASLIYAL",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan, India - 303007",
+    "Rishikesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "algorithms",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [
+          "design and analysis of algorithms"
+        ],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL Swayam",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [
+          "OOPs",
+          "Java"
+        ],
+        "title": "OOPs with JAVA",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "Database Programing",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [
+          "mysql",
+          "Workbench"
+        ],
+        "title": "Database Foundations",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "software development",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [
+          "html",
+          "Javascript",
+          "CSS"
+        ],
+        "title": "Foundation with JavaScript",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.11 / 10",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "DSB Internation Public School, Rishikesh",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Rishikesh",
+        "ID": 1.0,
+        "grade_received": "Percentage: 90 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "DSB International Public School , Rishikesh",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Rishikesh",
+        "ID": 2.0,
+        "grade_received": "Percentage: 89 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Enhancing Attendance Monitoring: A Face Recognition-Based Web Application",
+        "description": "Developing a Convolutional Neural Network (CNN)-based system for enhancing attendance monitoring through face recognition technology. The project aims to automate the attendance process by accurately identifying individuals through facial features captured via images or video streams. Utilizing advanced deep learning techniques, the system will analyze facial patterns, extract unique features, and match them against a database to mark attendance. The web application interface will allow users to easily access attendance records, manage data, and monitor real-time attendance status. With a focus on scalability, security, and user experience, this project seeks to revolutionize traditional attendance tracking methods in educational institutions or corporate settings.",
+        "keywords": [
+          "Python",
+          "NumPy",
+          "CVS",
+          "HTML",
+          "CSS",
+          "MySQL",
+          "Opencv",
+          "convolutional neural networks",
+          "Project Management Skills",
+          "testing skills",
+          "Image Processing",
+          "Database",
+          "Web Development",
+          "Face Recognition"
+        ],
+        "endDate": "15 May, 2024",
+        "startDate": "01 Mar, 2024",
+        "url": ""
+      },
+      {
+        "name": "Number Plate Detection",
+        "description": "Creating a Number Plate Detection System utilizing advanced image processing and computer vision techniques. The project aims to automatically identify and extract number plates from images or video feeds captured by surveillance cameras or mobile devices. By applying cutting-edge algorithms, the system will locate and isolate number plate regions within the captured images, allowing for accurate recognition and extraction of alphanumeric characters. The web-based application interface will enable users to upload images or live video streams for real-time number plate detection and retrieval of relevant information. With a focus on efficiency, accuracy, and scalability, this project aims to enhance vehicle tracking, parking management, and law enforcement operations.",
+        "keywords": [
+          "Algorithms",
+          "YOLOv8",
+          "OCR",
+          "tensorflow",
+          "RCNN",
+          "Opencv",
+          "Machine Learning",
+          "datasets",
+          "accuracy",
+          "Image Processing",
+          "Computer Vision",
+          "teamwork",
+          "time management"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "heart disease diagnostic analysis",
+        "description": "The Heart Disease Diagnosis project involved analyzing medical data to identify risk factors for heart disease. Using Python, I collected and cleaned data, performed exploratory data analysis with libraries like Pandas, Matplotlib, and Seaborn to uncover patterns and correlations. I engineered features to enhance the analysis and used Python to develop visualizations. Tableau was employed to create interactive dashboards that presented key insights and trends. This analysis provided valuable information on risk factors and trends, aiding in better understanding and early identification of heart disease.",
+        "keywords": [
+          "Data Analysis",
+          "Data Cleaning",
+          "ETL",
+          "Tableau",
+          "python",
+          "Microsoft Excel"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "IT Promotion Head",
+        "skillsUsed": [
+          "Strategic Planning",
+          "Promotions",
+          "Leadership",
+          "Teamwork",
+          "Digital Marketing",
+          "Social Media Analysis",
+          "Creativity",
+          "Management",
+          "Communication Skills"
+        ],
+        "endDate": "present",
+        "company_name": "Learn IT CLUB",
+        "description": "As the Promotion Head of LearnIT Club at my college, I lead efforts to enhance the club's visibility and engagement. My role involves strategic planning to align promotional activities with club objectives, overseeing campaigns across multiple channels, and managing a team of volunteers to execute tasks effectively. I collaborate with other student clubs and college stakeholders to maximize outreach and participation in club events and initiatives. Evaluating campaign success and managing budgets are also integral parts of my responsibilities, ensuring efficient resource allocation and continuous improvement in promotional strategies.",
+        "location": "",
+        "links": "",
+        "startDate": "15 May, 2023"
+      },
+      {
+        "role_name": "E-Learning / Edtech data analyst intern",
+        "skillsUsed": [
+          "Data Analytics",
+          "python",
+          "jupyter",
+          "data visualisation",
+          "tableau",
+          "problem solving",
+          "critical thinking",
+          "NumPy"
+        ],
+        "endDate": "15 Jul, 2024",
+        "company_name": "unified mentor",
+        "description": "As a Data Analyst Intern, I have completed two projects: analyzing Amazon sales and diagnosing heart disease. I have gained expertise in Python, SQL, and visualization tools such as Tableau, Power BI, Excel, and Google Sheets.",
+        "location": "",
+        "links": "",
+        "startDate": "15 Jun, 2024"
+      },
+      {
+        "role_name": "Core Engineering intern",
+        "skillsUsed": [
+          "machine learning",
+          "Algorithms",
+          "python",
+          "Decision-Making",
+          "Teamwork",
+          "Artificial Intelligence",
+          "Neural Networks",
+          "Statistics",
+          "Data Analysis",
+          "Data Mining"
+        ],
+        "endDate": "31 Jul, 2023",
+        "company_name": "teachnook",
+        "description": "Gain valuable experience in applying machine learning techniques to real-world datasets, including data preprocessing, feature engineering, model training, and evaluation. Collaborate with experienced professionals to solve challenging problems, and contribute to projects aimed at enhancing predictive accuracy and efficiency. Develop skills in programming languages such as Python, and gain exposure to popular machine learning libraries and frameworks such as TensorFlow or scikit-learn. Receive mentorship and guidance to deepen your understanding of machine learning concepts and methodologies, while working in a dynamic and supportive team environment.",
+        "location": "",
+        "links": "",
+        "startDate": "01 Jun, 2023"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "AISHWARYA BASLIYAL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "325 adarshgram rishikesh lane no. 13, Jaipur, Rajasthan, India - 303007",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech."
+}

@@ -1,0 +1,96 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Mahitha Vundavalli",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Im a Computer Science student with a passion for frontend engineering. I enjoy creating user-friendly and visually appealing web applications that make technology accessible and enjoyable. My skills include HTML, CSS, JavaScript, and modern frontend frameworks, allowing me to design and build efficient, responsive interfaces. Im driven by the challenge of solving real-world problems through technology and am eager to apply my knowledge to create impactful solutions in the tech industry.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Tirumala Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94.85/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "8.7/10.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Image Generation using DCGAN",
+        "description": "Implemented Deep Convolutional Generative Adversarial Network (DCGAN) for image recognition, utilizing Convolutional Neural Networks (CNN) as the machine learning algorithm. Achieved robust image generation and recognition capabilities, showcasing proficiency in advanced machine learning techniques. This project was done as a part Undergraduate Research Opportunity program.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "House Price Prediction",
+        "description": "I developed a machine learning project focused on house price prediction in Bangalore. The project involved several data preprocessing steps, including handling null values, dimensionality reduction, feature engineering, feature scaling, and outlier detection and removal, achieving an impressive 99 percent accuracy in the output.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "ConnectZ",
+        "description": "I worked on the development of ConnectZ, a full-stack project aimed at creating a platform similar to LinkedIn. We leveraged React for the frontend to ensure a responsive and user-friendly interface, while Firebase served as our backend to manage data storage and authentication. Our focus was on generating dynamic pages to display user profiles, posts, etc., and we also enabled one-to-one chat. Our goal was to deliver a high-quality, scalable solution that met the demands of professional networking and communication.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "C++",
+      "C",
+      "SQL",
+      "Java",
+      "Python"
+    ],
+    "soft_skills": [],
+    "name": "Mahitha Vundavalli",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,128 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Abhishek Kumar",
+  "college": "JSS Academy of Technical Education",
+  "locations": [
+    "Noida",
+    "Gurgaon"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "JSS Academy of Technical Education",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Noida",
+        "ID": 0.0,
+        "grade_received": "Current CGPA: 7.2",
+        "field_of_study": "Electrical Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "DAV Public School, Sector-14",
+        "endDate": "June 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Gurgaon",
+        "ID": 1.0,
+        "grade_received": "Percentage: 90.6",
+        "field_of_study": "Physics, Chemistry, Mathematics",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ArFive",
+        "description": "RAG-based research assistant for reading and assimilating ArXiv papers. Scans ArXiv records for top 5 papers based on users query using ArXiv API. Uses Googles Gemini Model to comprehend and summarise a paper. Dynamic document memory for conversation history and learned literature corpus. A terminal-based user interface for efficiency and ease-of-use.",
+        "keywords": [
+          "Python",
+          "BASH Scripting",
+          "APIs (Gemini, ArXiv, PyFiglet, Unstructured)",
+          "Unix Shell",
+          "VS Code"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Zeitgeist",
+        "description": "Team Project for Openhack Hackathon held in February 2024 by IISC Bangalore. An NLP tool for retrieving and summarising news articles from the web. News API and Langchains Google Search API to retrieve relevant articles, links, and images. Utilises Beautiful Soup for web-scraping. Uses BART Large-CNN model by Meta from Huggingface Transformers for text summarisation.",
+        "keywords": [
+          "Python",
+          "APIs (News API, Google PaLM, Google search)",
+          "VS Code"
+        ],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Delter",
+        "description": "Deep learning model for terrain recognition (Image Classification). ResNet50 fine-tuned for terrain classification (sandy, rocky, marshy, grassy) from aerial imagery. Custom database of 1000 diverse images per class. Model achieved an accuracy of 89.1% when trained for 10 epochs over a train-test split of 80:20. Trained and tested locally on an M1 MacBook Air with MPS optimisation. Streamlit as front-end for uploading images and displaying the predicted class.",
+        "keywords": [
+          "PyTorch",
+          "Transfer Learning",
+          "Jupyter Notebook",
+          "Streamlit",
+          "MatPlotLib",
+          "Numpy"
+        ],
+        "endDate": "Aug. 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "Python",
+      "BASH Scripting",
+      "Git/GitHub",
+      "Unix Shell",
+      "VS Code",
+      "Jupyter Notebook",
+      "Cursor",
+      "Google AI Studio",
+      "Notion",
+      "Google Colab",
+      "PyTorch",
+      "NumPy",
+      "Matplotlib",
+      "Huggingface Transformers",
+      "Streamlit",
+      "Langchain",
+      "OpenAI API"
+    ],
+    "soft_skills": [],
+    "name": "Abhishek Kumar",
+    "position": "",
+    "interests": [
+      "Reading",
+      "Finance",
+      "Technology",
+      "Philosophy",
+      "Machine Learning Research",
+      "Football",
+      "Player",
+      "Enthusiast"
+    ],
+    "achievements_and_awards": [
+      "Winner: Gurgaon (HR) Under-19 District Championship, 2019.",
+      "Inter-DAV NCR Zonals, January 2020",
+      "Runner-up: Sirohi (RJ) Under-14 District Championship, September 2015",
+      "Concord Consultrix 22 | Winner The annual management consulting competition held at Ramanujan College, Delhi University April 2022"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 0.0,
+  "degree": "B. Tech"
+}

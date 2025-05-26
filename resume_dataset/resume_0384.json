@@ -1,0 +1,128 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Ankit Rajput",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Skilled specialist in data analytics, with expertise in statistical analysis and data visualization. Proficient in Python, SQL, and Tableau. Adept at identifying trends, developing predictive models, and delivering actionable recommendations to support data-driven decision-making.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.02",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "92.4 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "92.8 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "DDos Attack Detection",
+        "description": "analyzed network traffic data to extract relevant features for effective DDoS detection and Trained a CNN along with GRU and RBFN for detecting the DDos attack.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Project"
+      },
+      {
+        "name": "Weather App",
+        "description": "Developed a comprehensive weather app featuring an API to display current weather conditions for any city. Implemented user authentication with login and registration functionality. Integrated a weather predictive model to provide accurate forecasts, enhancing user experience with real-time and future weather data.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Project"
+      },
+      {
+        "name": "Credit Card Fraud Detection",
+        "description": "Analyzed transaction patterns to identify irregularities and developed a predictive model for Credit Card Fraud Detection, enhancing security and reducing financial losses.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Project"
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developed a robust movie recommendation system, Implemented collaborative filtering techniques and content-based filtering to enhance accuracy in personalized recommendations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Project"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "SRM School of Engineering AP",
+        "description": "applied theoretical knowledge to solve real-world scenario DDos attack Detection using Deep Learning, working with Dr Elakkiya E Assistant Professor at SRM School of Engineering AP. gained hands-on experience in manipulating and interpreting datasets , deep learning algorithms and statistical models.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JAVA",
+      "C++",
+      "C programming",
+      "Java Script",
+      "HTML",
+      "CSS",
+      "Tableau",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Scikit-Learn",
+      "Tensor-Flow",
+      "Flask"
+    ],
+    "soft_skills": [],
+    "name": "Ankit Rajput",
+    "position": "",
+    "interests": [
+      "Big Data Analytics",
+      "Machine Learning"
+    ],
+    "achievements_and_awards": [
+      "Elite + silver medal in Database management from SWAYAM",
+      "Introduction to Deep Learning and Neural Networks with Keras certificate"
+    ],
+    "publications": [
+      "Presented and published a research paper on RBFN-Augmented DDoS Detection with CNN-GRU Fusion at 15th International Conference on Computing, Communication and Networking Technologies (ICCCNT certificate 2024), an IEEE Scopus-indexed conference held at IIT-Mandi."
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

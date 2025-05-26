@@ -1,0 +1,104 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Himavantha Reddy",
+  "college": "SRMAP",
+  "locations": [],
+  "full_output": {
+    "summary": "A B.Tech student who is passionate in problem-solving and coding. Proficient in Java, Python, C++,an interest in data science. I strive for continuous self-improvement through self-learning and I engage in group projects with mentors and colleagues to advance my abilities.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRMAP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Bhashyam Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "GPA:9.3/10",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Sri vivekananda vidya peetam high school",
+        "endDate": "2019",
+        "maximum_grade": "CGPA: 7.12/10",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Marks: 799/1000",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Curency Converter",
+        "description": "Its a python program where we can covert the curency of a particular country to other curencies using GUI.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Advanced Facial Recognition System with Robust Security Measures",
+        "description": "Developed an advanced face recognition app using Python, OpenCV, and Tkinter. Engineered secure signup/login with robust authentication. Implemented blink detection, photo capture, and anti-spoofing for enhanced security.Utilized SQLite3 for efficient data management. Enforced a maximum retries policy, showcasing commitment to stringent security protocols. Demonstrated a comprehensive skill set in software development, security, and user-centric design.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Matrix Explorer: Unveiling Fundamental Spaces and Eigenvalues.",
+        "description": "Established Matrix Mastery Hub, an integrated platform facilitating exploration and problem-solving across the four fundamental spaces of a matrix, eigenvalue calculations, and eigenvector determinations. Orchestrated a seamless blend of sophisticated backend logic, advanced algorithm implementations, and an interactive user interface using Django for precise mathematical computations and a user-friendly experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "",
+        "description": "Throughout my internship, I acquired practical experience utilising the Django frameworks db.sqlite3 relational database, efficiently handling and modifying backend data to guarantee the uninterrupted operation of web applications,worked with a motivated team to effectively create a university student portal that is fully operational, demonstrating my expertise in database management throughout the project. This experience enhanced not only my technical skills but also my problem-solving abilities in the field of databases.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C++"
+    ],
+    "soft_skills": [],
+    "name": "Himavantha Reddy",
+    "position": "",
+    "interests": [
+      "Machine Learning",
+      "Data science"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

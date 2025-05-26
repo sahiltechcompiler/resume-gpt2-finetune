@@ -1,0 +1,136 @@
+{
+  "project_count": 4.0,
+  "designation": "Machine Learning Engineer",
+  "name": "Lokeswar Rao Lakhineni",
+  "college": "Vignans Institute of Information Technology",
+  "locations": [
+    "Visakhapatnam",
+    "San Francisco"
+  ],
+  "full_output": {
+    "summary": "Driven by an unwavering passion for data science and machine learning, I actively engage in open-source contributions and immerse myself in the fascinating world of MLOps. Through my blogs, I aim to share knowledge and best practices, promoting the adoption of- cutting-edge approaches. My ambition is to secure a Machine Learning Engineer role, where I can apply my skills, creativity, and dedication to make a significant impact in the field and contribute to transformative projects.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vignans Institute of Information Technology",
+        "endDate": "July 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Visakhapatnam",
+        "ID": 0.0,
+        "grade_received": "8.62/10",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "Jan 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Expreme: Face Expression based Music Asistant",
+        "description": "Worked on Face Recognition and emotion classification. Runs with a accuracy 93.47% in recognizing the face and plays the music on spotify in less than a second. Used streamlit API for creating an appealing interface.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Tensorflow",
+          "streamlit"
+        ],
+        "endDate": "Oct 2022",
+        "startDate": "Sept 2022",
+        "url": "Git"
+      },
+      {
+        "name": "Hand Written digit Recognizer",
+        "description": "Worked on image classification and Deep learning and created a model which can recognise the hand written digits. Achieved an accuracy of 98.50% and validation accuracy of 97.98% in recognizing the hand written digits.",
+        "keywords": [
+          "Python",
+          "pandas",
+          "Tensorflow",
+          "cv2",
+          "CNN"
+        ],
+        "endDate": "Feb 2022",
+        "startDate": "",
+        "url": "Git"
+      },
+      {
+        "name": "Efficient U-net for Lung Segmentation",
+        "description": "Developed an advanced lung segmentation model using Efficient U-Net, integrating EfficientNet as the encoder with U-Net architecture, achieving accurate lung nodule detection in CT scans with 97.3% accuracy. Utilized the combination of Luna16 dataset and from other data sources implemented advanced data augmentation techniques, resulting in a 10% improvement in segmentation performance.",
+        "keywords": [
+          "Python",
+          "Segmentation models",
+          "keras",
+          "cv2",
+          "CNN"
+        ],
+        "endDate": "March 2024",
+        "startDate": "Jan",
+        "url": "Git"
+      },
+      {
+        "name": "Q-Mart Online Marketplace",
+        "description": "Developed a Django-based marketplace platform featuring user authentication, item browsing, and CRUD operations for managing fashion items. Implemented a real-time messaging system using Django Channels to enable communication between buyers and sellers.",
+        "keywords": [
+          "Django",
+          "HTML",
+          "CSS",
+          "SQLlite3"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": "Git"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Engineer",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "Uptrain.AI",
+        "description": "Contributed to our documentation by adding lines that will help users better understand our librarys functionality. Resolved bugs that affected the librarys functionality on multiple operating systems.",
+        "location": "San Francisco",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "SQL",
+      "Numpy",
+      "Pandas",
+      "Sk-Learn",
+      "Tensorflow",
+      "Django",
+      "Machine Learning",
+      "Data Analysis",
+      "Deep Learning",
+      "Data Science"
+    ],
+    "soft_skills": [],
+    "name": "Lokeswar Rao Lakhineni",
+    "position": "Machine Learning Engineer",
+    "interests": [
+      "Football",
+      "Blogging",
+      "Contributing to Open-source",
+      "Podcasting",
+      "Music",
+      "Content Creation",
+      "Video Editing"
+    ],
+    "achievements_and_awards": [
+      "Conducted live workshop on Github for 60+ students.",
+      "Conducted seminar on Briefing on CS toolkit to 100+ students.",
+      "Conducted live workshop on EDA for 100+ students."
+    ],
+    "publications": [
+      "EDA 101: Explore, Discover, Analyze | Article link"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

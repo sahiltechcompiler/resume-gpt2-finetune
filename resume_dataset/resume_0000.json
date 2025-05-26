@@ -1,0 +1,107 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "N. Dani",
+  "college": "Hindustan Institute of Science and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Hindustan Institute of Science and Technology",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.32",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "Aug 2021"
+      },
+      {
+        "school": "Chinmaya Vidyalaya Higher Secondary",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94%",
+        "field_of_study": "",
+        "startDate": "Jun 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Payment System Using Face (Face Pay)",
+        "description": "Created a secure transaction system using face API Js and TensorFlow.js for real-time face detection and recognition in the browser, achieving 82% accuracy in facial recognition. Implemented SSD-based Mobilenet V1 to achieve precise face-landmark detection, ensuring accuracy in 68-point face landmark vectors with 79% precision. Analyzed ResNet-34-like architecture to compute 128-dimensional face descriptors, enhancing security by achieving 84% accuracy in facial feature comparison using Euclidean Distance for authentication.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Accident Prevention and Detection Using Arduino",
+        "description": "Developed an Arduino-based automobile accident prevention system integrating safety features like tilting sensors, alcohol detection, and high-temperature alerts, enhancing road safety. Implemented high-temperature detection systems to notify drivers of engine overheating issues with 98% accuracy, and alcohol detection sensors to prevent drunk driving with 85% accuracy. Collected data from sensors including MEMS sensors for vehicle tracking and eye blink detection for drowsiness monitoring, achieving 77% accuracy. Engineered SMS alert system using Arduino, sensors, and data analysis for real-time drivers and emergency services notifications on safety issues.",
+        "keywords": [],
+        "endDate": "Sep 2023",
+        "startDate": "Jul 2023",
+        "url": ""
+      },
+      {
+        "name": "Table Tennis Game Using Hand Tracking",
+        "description": "Engineered a table tennis game with real-time hand tracking technology, achieving 86.83% accuracy in hand tracking for enhanced gameplay interaction. Devised intuitive controls based on hand gestures, providing players with a novel experience and integrated AI opponent functionality to enhance gameplay challenges. Recognized for ingenuity and technical prowess in game design, optimizing gameplay mechanics through statistical analysis of user interactions, improving player satisfaction by 28%. Improved AI bot accuracy to 75% and integrated multiplayer mode achieving 80%, enhancing player engagement and competitiveness in the game.",
+        "keywords": [],
+        "endDate": "May 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "Prag Robotics Pvt. Ltd",
+        "description": "Collected and pre-processed historical price data for SPDR Gold Shares ETF (GLD) using Yahoo Finance API, ensuring 100% data integrity and consistency. Analyzed key features (Open, High, Low, and Close prices) and created visualizations, including 50+ time series and regression plots, to identify gold price patterns and trends. Developed predictive models using Linear Regression and LSTM networks with TensorFlow's Keras API, leveraging sequential data for forecasting. Achieved 80% accuracy in gold price prediction, assessed via Mean Squared Error, Mean Absolute Error, and R-squared, highlighting LSTM's 20% superiority over linear regression.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "MySQL",
+      "Java",
+      "VS Code",
+      "Spring Framework",
+      "Servlets",
+      "HTML5",
+      "CSS3",
+      "AJAX",
+      "SQL",
+      "JDBC",
+      "Eclipse IDE",
+      "IntelliJ IDEA",
+      "Git",
+      "Apache Tomcat",
+      "Junit",
+      "Machine Learning",
+      "Data Structures"
+    ],
+    "soft_skills": [],
+    "name": "N. Dani",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded a Certificate of Appreciation in Game Designing at Skill-a-thon 2023"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

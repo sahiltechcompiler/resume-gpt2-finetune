@@ -1,0 +1,120 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SHAIK SANA",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, Tamilnadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Chennai, Tamilnadu",
+        "ID": 0.0,
+        "grade_received": "CGPA-8.7",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "EMPLOYEE OPERATIONS HUB",
+        "description": "Developed a system for admin to create and manage employee profiles with email, password, name, salary, and category. Implemented secure employee login and designed an easy-to-use admin dashboard. Added features for admin to monitor employee activity, improved system speed and scalability.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "My SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Sana12345679/Employee-Operations-Hub"
+      },
+      {
+        "name": "FURNITURE LANDING PAGE",
+        "description": "Created a responsive furniture landing page with HTML, CSS, and JavaScript. It includes sections for company info, product listings, and a contact form. Styled with CSS for visual appeal and added JavaScript for smooth scrolling.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Sana12345679/Furniture-landing-page"
+      },
+      {
+        "name": "PORTFOLIO",
+        "description": "Developed a personal portfolio website using React to showcase my projects, skills, and experience. The website is designed to be fully responsive and user-friendly.",
+        "keywords": [
+          "React"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Sana12345679/Portfolio"
+      },
+      {
+        "name": "ANONYMOUS FTP SCANNER",
+        "description": "The main objective of this project is to check if a given FTP server allows anonymous access. This can be useful for network administrators to identify potential security risks associated with anonymous FTP access.",
+        "keywords": [
+          "PYTHON"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Role",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Bharat intern",
+        "description": "I immersed myself in web development, specially focussing on front end development. They provided me with basic projects like homepage of Netflix, furniture landing page in front-end development, which I successfully completed after learning the necessary skills.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Web Development Role",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "Teachnook on Web3",
+        "description": "Created a personal portfolio website while learning full-stack development at Teachnook. Used React for the frontend, CSS and Bootstrap for styling.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "JAVA",
+      "REACTJS",
+      "MY SQL",
+      "Kali Linux",
+      "JAVASCRIPT",
+      "NODEJS",
+      "Wireshark",
+      "Git(basics)",
+      "PYTHON(basics)"
+    ],
+    "soft_skills": [],
+    "name": "SHAIK SANA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "NPTEL Java Elite Certification",
+      "Hosted an event called \"PLUSH\" at CIT Takshasila22."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.E."
+}

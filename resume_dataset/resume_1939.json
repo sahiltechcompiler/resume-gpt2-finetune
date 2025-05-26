@@ -1,0 +1,148 @@
+{
+  "project_count": 8.0,
+  "designation": "Golang Developer",
+  "name": "MOHAMMED NISHAD PULLISSERI",
+  "college": "APJ Abdul Kalam Technological University",
+  "locations": [
+    "Calicut"
+  ],
+  "full_output": {
+    "summary": "Self-taught back-end Golang developer with a proven track record of developing and deploying scalable, high-performance backend applications. Expertise in building microservices architectures and RESTful APIs. Passionate about creating maintainable, well-documented code that adheres to best practices. Capable of producing high-quality results under pressure and possessing a strong work ethic and ability to learn and adapt to new technologies quickly and seeking a challenging role at a company to develop skills and knowledge while contributing to the organizations goals.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Brotech",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Golang Backend Development",
+        "location": "Calicut",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2023"
+      },
+      {
+        "school": "APJ Abdul Kalam Technological University",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Freelancer Web App",
+        "description": "Designed and developed a high-performance platform for freelancers using Microservices architecture. Built by following the principles of Clean Architecture. Integrated cutting-edge technologies, including MinIO for object storage, PostgreSQL for relational data management, MongoDB for NoSQL data storage and Redis as a cache layer. Utilized gRPC and Apache Kafka for inter service communication. Real time chat functionality by leveraging the WebSockets and Concurrency of Golang. Integrated CICD pipelines in each of the services for automation of the build and deployment processes. Deployed it using the Microsoft Azure platform.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "E-Commerce Marketplace",
+        "description": "Full-fledged E-Commerce Application for selling gadgets. Built by following the principles of Clean Architecture. Includes three modules (User, Admin, Super-Admin). Consists of almost all the functionalities that a modern-day E-Commerce application have and some additional functionalities as well. Utilized Gin Framework for routing. Completed payment integration using Razorpay for seamless payment. Deployed to AWS EC2 instance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "E-Commerce (microservices)",
+        "description": "E-commerce Platform for selling gadgets. Robust and Scalable E-Commerce platform build with Microservice Architecture. Built by following the principles of Clean architecture.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Simple Blockchain Application",
+        "description": "A simple blockchain application for managing book inventory.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Simple Chat Application",
+        "description": "A simple chat application where users can chat in real-time by leveraging WebSocket.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Website Health Checker",
+        "description": "A tiny tool that checks the given domain is down or not.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "URL Shortener",
+        "description": "A simple URL shortener utility built in Golang. Utilized Redis for efficient caching and implemented Rate Limiting.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CLI Reminder Tool",
+        "description": "Command-line utility for managing task reminders.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "IoT Project - Agri-Project",
+        "description": "Completed a small-scale IoT project for farming. Used smart sensors to make farming better and protect valuable things on the farm.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Golang",
+      "Java",
+      "C",
+      "Microservice Design patterns",
+      "Data Structures and Algorithms",
+      "Software Design Architectures - Clean Architecture",
+      "Golang Concurrency Patterns",
+      "API Architectures - REST, GraphQL",
+      "Containerization - Docker",
+      "Container Orchestration - Kubernetes",
+      "Version Controller - Git, GitHub",
+      "Automation - CICD pipelines using GitHub Actions",
+      "InterService Communication in Microservices - GRPC, Apache Kafka",
+      "Software Testing - Unit Testing",
+      "Databases - Postgresql, MongoDB, Minio Object Storage",
+      "Caching - Redis Database",
+      "Object Oriented Programming",
+      "Reverse Proxy - NGINX",
+      "Real Time Communication - WebSocket",
+      "Frameworks - Gin, Fiber, Chi",
+      "Deployment - Azure AKS Cluster, AWS EC2 Instance",
+      "Front End - HTML, CSS"
+    ],
+    "soft_skills": [],
+    "name": "MOHAMMED NISHAD PULLISSERI",
+    "position": "Golang Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

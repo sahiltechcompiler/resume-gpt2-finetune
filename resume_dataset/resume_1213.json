@@ -1,0 +1,132 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Nirbhay Kumar",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Base Management System",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "Cisco",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "August 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 9.05",
+        "field_of_study": "Information Technology",
+        "startDate": "August 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Collaborative Code Editor",
+        "description": "Designed and developed a real-time collaborative code editor using React, Node.js, and Socket.io, allowing multiple users to code simultaneously in C++, Java, and Python. Integrated unique room creation with uuid, enabling direct access via referral links. Implemented features such as synchronized code editing, multi-language support, real-time chat, and the ability to execute code within the application. Successfully managed the implementation of a multi-language code editor, incorporating syntax highlighting and integration with online compilers/interpreters. Integrated robust chat functionality for streamlined communication within the coding environment.",
+        "keywords": [
+          "React.Js",
+          "Node.Js",
+          "Socket.Io",
+          "Bootstrap5"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Flood Management System",
+        "description": "Developed Defender, a comprehensive flood management system using PHP, MySQL, and JavaScript. Integrated a user-friendly donation feature to support flood relief efforts, enhancing community involvement. Implemented a weather feature, providing real-time weather information to aid in flood monitoring and preparedness. Designed and integrated a news gallery section for timely updates and information dissemination during flood events, ensuring users stay informed about the latest developments. Established a Help Center with a dedicated phone number, offering immediate assistance during emergencies. Included advisory documents and a comprehensive guide on flood prevention strategies to empower users with proactive measures.",
+        "keywords": [
+          "Javascript",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "August 2023",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "SQL",
+      "PHP",
+      "MongoDB",
+      "MySQL",
+      "VS Code",
+      "Sublime text Editor",
+      "Git",
+      "GitHub",
+      "React",
+      "Node.Js",
+      "Socket.io",
+      "Express.Js",
+      "Bootstrap5",
+      "HTML/CSS"
+    ],
+    "soft_skills": [],
+    "name": "Nirbhay Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received the Deans List of Excellence three times in recognition for outstanding academic performance.",
+      "Earned a Certificate of Achievement from Codekaze by Coding Ninjas by securing the 1900th rank out of over a lakh students and progressed to Level 2."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,119 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Devansh Vashistha",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi-NCR,Uttar Pradesh, India",
+    "Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi-NCR,Uttar Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "SGPA of 8.0",
+        "field_of_study": "Computer Science",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "Renaissance School",
+        "endDate": "June 2019",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Bulandshahr",
+        "ID": 1.0,
+        "grade_received": "94.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Renaissance School",
+        "endDate": "June 2019",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "Bulandshahr",
+        "ID": 2.0,
+        "grade_received": "93.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Voting Website",
+        "description": "Developed an e-Voting website to allow for easy and virtual voting. Implemented key functionalities such as user authentication, candidate registration and result visualization. Integrated user authentication implementing secure login and logout to enhance application security.",
+        "keywords": [
+          "HTML",
+          "Python",
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      },
+      {
+        "name": "Password Generator",
+        "description": "Password Generator provides a fresh password every time that are practically almost impossible to crack. An integrated platform to not only generate fresh passwords but also store them securely in encrypted form at one place.",
+        "keywords": [
+          "HTML",
+          "Python",
+          "Django"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "July 2021",
+        "company_name": "EY GDS",
+        "description": "The EY GDS Internship provides students around India with an exciting opportunity to learn more about web programming and create real-time projects (based on Django) with help from AICTE (All India Council for Technical Education).",
+        "location": "Uttar Pradesh, India",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "AI-ML Virtual Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "EduSkill",
+        "description": "The Eduskill AI-ML Virtual Internship, with support from AWS (Amazon Web Services) and AICTE (All India Council for Technical Education), represents a dynamic opportunity for students and aspiring professionals in India to dive into the world of Artificial Intelligence and Machine Learning (AI-ML).",
+        "location": "AICTE, INDIA",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "HTML/CSS",
+      "Python"
+    ],
+    "soft_skills": [],
+    "name": "Devansh Vashistha",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked under 2 star at Codechef which ranks among the top sites for competitive programmers.",
+      "Practiced 180+ DSA problems on renowned GeeksforGeeks platform using C++.",
+      "Solved 370+ problems on Leetcode which is one of the top sites for experiencing DSA using C++."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

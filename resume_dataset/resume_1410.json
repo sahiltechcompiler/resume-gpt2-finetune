@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sahil Bisht",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Greater Noida, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MongoDB Associate Developer",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Solana Blockchain Developer Bootcamp with Rust",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "June 2021"
+      },
+      {
+        "school": "Kendriya Vidyalaya No.1 Hindan",
+        "endDate": "May 2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "April 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sharesphere",
+        "description": "Developed ShareSphere, a social media platform, utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack. Designed and implemented the front-end interface using React.js, creating a seamless and responsive user experience. Utilized Express.js and Node.js to build robust back-end APIs for user authentication, post management, and interaction functionalities, achieving an average response time of under 50 milliseconds and handling over 1000 concurrent connections. Ensured secure data transmission and storage by implementing encryption and authentication protocols.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Express.js"
+        ],
+        "endDate": "February 2024",
+        "startDate": "December 2023",
+        "url": "GitHub | Live preview"
+      },
+      {
+        "name": "Bloggle",
+        "description": "Engineered a full-stack blog writing website leveraging the MERN (MongoDB, Express.js, React.js, Node.js) stack to facilitate blog creation, reading, and interaction functionalities. Created RESTful APIs with Express.js and Node.js to handle user authentication, creating blogs, reading, and commenting functionalities. Integrated MongoDB to store user data, blogs, and comments, ensuring scalability and efficient data retrieval.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Express.js"
+        ],
+        "endDate": "October 2023",
+        "startDate": "August 2023",
+        "url": "GitHub | Live preview"
+      },
+      {
+        "name": "Def Call",
+        "description": "Created a specialized video calling platform tailored for deaf and mute individuals, integrating a machine learning model trained on American Sign Language (ASL) to detect and interpret hand gestures. Utilized Python to develop the machine learning model, React for the front-end interface, Node.js for server-side logic, and Socket.IO for real-time communication, resulting in a 30% increase in processing speed and a 20% improvement in real-time responsiveness. Conducted extensive testing and optimization to achieve 95% accuracy in detecting ASL gestures across diverse lighting and environmental conditions.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "Python",
+          "Socket.io"
+        ],
+        "endDate": "June 2023",
+        "startDate": "March 2023",
+        "url": "GitHub | Live preview"
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "English",
+      "Spanish"
+    ],
+    "experiences": [
+      {
+        "role_name": "Full-Stack Developer",
+        "skillsUsed": [],
+        "endDate": "January 2024",
+        "company_name": "EasyEd",
+        "description": "Orchestrated front-end and back-end development initiatives, leading UI/UX design, API development, and database management tasks; boosted user engagement by 40% through intuitive interface enhancements and optimized API performance for faster data retrieval. Led comprehensive code reviews, identified 50+ critical issues, and executed debugging processes, resulting in a 40% reduction in software bugs and enhancing overall application stability and performance. Deployed the backend system on Amazon AWS, optimizing for at least 99.99% availability and scalability to handle a minimum of 1000 requests per second.",
+        "location": "Greater Noida, Uttar Pradesh",
+        "links": "",
+        "startDate": "January 2023"
+      }
+    ],
+    "skills": [
+      "HTML/CSS",
+      "JavaScript",
+      "ReactJs",
+      "React Native",
+      "Node.Js",
+      "Express.Js",
+      "MySQL",
+      "MongoDB",
+      "PostgresSQL",
+      "Amazon AWS",
+      "Microsoft Azure",
+      "Docker",
+      "C",
+      "C++",
+      "Python",
+      "Rust",
+      "GoLang"
+    ],
+    "soft_skills": [],
+    "name": "Sahil Bisht",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

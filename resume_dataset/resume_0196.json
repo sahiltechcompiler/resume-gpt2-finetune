@@ -1,0 +1,126 @@
+{
+  "project_count": 3.0,
+  "designation": "entry-level position",
+  "name": "VIKANSHU CHAUHAN",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "Dynamic and results-driven B.Tech fourth year student with a Bachelor's degree in Information Technology. Procient in programming languages such as Python, Java and SQL with a solid understanding of data structures and algorithms with hands-on experience through internships and academic projects. Strong problem-solving skills, a quick learner, and a team player with a passion for creating ecient and scalable software solutions. Seeking an entry-level position to apply technical skills and contribute to innovative projects in the software industry.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Mastered fundamental Python syntax, proficiently utilizing control flow, loops, functions, and data structures.",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "",
+        "certiLink": "CERTIFICATE"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learned about the HTML, CSS and JavaScript Functions and build Projects.",
+        "skillsLearned": [],
+        "title": "Introduction to Web Development with HTML, CSS, JavaScript (IBM)",
+        "issuer": "IBM",
+        "certiLink": "CERTIFICATE"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learned about the uses of NoSQL Database.",
+        "skillsLearned": [],
+        "title": "Introduction to NoSQL Databases (IBM)",
+        "issuer": "IBM",
+        "certiLink": "CERTIFICATE"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Percentage - 85",
+        "field_of_study": "Information Technology",
+        "startDate": "November 2021"
+      },
+      {
+        "school": "S. S. Children Academy",
+        "endDate": "July 2021",
+        "maximum_grade": "",
+        "degree": "UP Board of Senior Secondary(10+2) Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 75",
+        "field_of_study": "",
+        "startDate": "April 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Potato Leaf Disease Detection",
+        "description": "Developed a potato leaf disease detection system using machine learning and computer vision techniques, achieving over 98% accuracy in identifying diseases like late blight, early blight, and potato virus Y. Implemented a user-friendly interface allowing farmers to easily upload leaf images and receive disease diagnosis results. TensorFlow and OpenCV for model development and image processing, ensuring robust performance. The system empowers farmers with ecient and reliable tools to protect their potato crops, enhancing agricultural productivity and sustainability.",
+        "keywords": [],
+        "endDate": "March 2024",
+        "startDate": "January 24",
+        "url": "LINK"
+      },
+      {
+        "name": "WANDERLUST(Website)",
+        "description": "Developed and launched Wanderlust, a full-stack Airbnb-like website, utilizing Express.js for server-side logic, Node.js for backend development, and MongoDB for database management. Implemented CRUD operations for user listings, bookings, and reviews, ensuring a seamless and dynamic user experience. Integrated secure user authentication and authorization using Passport.js, allowing users to sign up, log in, and manage their profiles safely.",
+        "keywords": [],
+        "endDate": "October 2023",
+        "startDate": "September 23",
+        "url": "LINK"
+      },
+      {
+        "name": "Real-Time Chat Application",
+        "description": "Developed a robust chat application using React and Firebase, enabling real-time messaging with instant updates across multiple clients. Utilized Firebase Firestore for efficient data storage and retrieval, ensuring seamless user experience with low latency. Integrated Firebase Authentication to manage user sign-ups, logins, and secure access control, enhancing application security and user data protection. Implemented OAuth providers (Google, Facebook, etc.) for a streamlined authentication process, improving user convenience and onboarding.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "April 24",
+        "url": "LINK"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "JAVA",
+      "Python",
+      "JavaScript",
+      "React JS",
+      "Express JS",
+      "Node JS",
+      "Bootstrap",
+      "Git and Github",
+      "Vscode",
+      "Knime",
+      "Intellj idea",
+      "Pycharm"
+    ],
+    "soft_skills": [
+      "Flexible",
+      "Co-operative",
+      "Team Player",
+      "Interpersonal skill"
+    ],
+    "name": "VIKANSHU CHAUHAN",
+    "position": "entry-level position",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed Internshala Core Java training with a score of 92 percent and develop tic-tac-toe game.",
+      "Solving 150+ Problems on coding platforms like LeetCode, Coding Ninja, GFG.",
+      "Developing a Weather Forecast Device in Xmble-NIET, a tech-fest program.",
+      "Completed 5+ Coursera Certificates on Coursera."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B Tech"
+}

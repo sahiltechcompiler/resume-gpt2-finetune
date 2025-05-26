@@ -1,0 +1,268 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "ANOUSHKA GOYAL",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming For Everybody (Getting Started with Python)",
+        "issuer": "University of Michigan (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DFo Database Foundations Learner",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Boot Camp on AI for Future Workforce",
+        "issuer": "Intel",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Linux Tutorial",
+        "issuer": "Great Learning Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Vision 101",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence Primer Certification",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Data Science",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Natural Language Processing",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Artificial Intelligence",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Robotic Process Automation",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Scrum in Practice",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "BTech (Hons)",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA  8.06",
+        "field_of_study": "Computer Science & Engineering (AI & ML)",
+        "startDate": ""
+      },
+      {
+        "school": "IIT-Madras",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA  7.13",
+        "field_of_study": "BS in Data Science and Programming",
+        "startDate": ""
+      },
+      {
+        "school": "Mount Carmel School, Dwarka, New Delhi",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th (CBSE)",
+        "location": "New Delhi",
+        "ID": 2.0,
+        "grade_received": "92.8%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Mount Carmel School, Dwarka, New Delhi",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th (CBSE)",
+        "location": "New Delhi",
+        "ID": 3.0,
+        "grade_received": "93.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "IPO prediction",
+        "description": "Predicted whether an IPO will fail or be successful using regression and training the model. Used scikit-learn, numpy, pandas, matlplotlib libraries.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Semantic Analysis of Movie reviews",
+        "description": "Used different models like Logistic Regression, Multinomial Nave Bayes, Support Vector Machine and Random Forest Classifier. Random Forest classifier turned out to be the best performing.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Meeting Summariser and Plan of Action Generator using NLP",
+        "description": "Automated generating and emailing summaries and plan of action of meeting recordings. Used libraries like subprocess, openai, smtplib, email.mime.text, ffmpeg, whisper, nltk, and Amazon S3 bucket. Created a web application using Streamlit. Selected for Infosys Springboard Summit 2024.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CrimeCast: Forecasting Crime Categories",
+        "description": "Developed models capable of accurately predicting the crime categories based on given dataset. Models used were Dummy Classifier, Logistic Regression, Random Forest Classifier, KNN, Decision Tree, Bagging, AdaBoost, Multi-Layer Perceptron, along with Hyperparameter tuning using GridSearchCV. Preprocessing was done using Pipeline, Column Transformer, and other techniques. Bagging was best performing model and Multi-layer Perceptron was worst performing model.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Infosys Springboard",
+        "description": "Centre of Excellence, Celebal Technologies",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Solid State Physics Laboratory, Defence Research and Development Organisation (DRDO)",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Snapchat Opinion Leader",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Under 25 Universe",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Statistics",
+      "Data Structures and Design and Analysis of Algorithms",
+      "Database Management Systems",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Operating Systems",
+      "Computer Vision and Pattern Recognition",
+      "Natural Language Processing",
+      "Data Mining"
+    ],
+    "soft_skills": [],
+    "name": "ANOUSHKA GOYAL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "BTech (Hons)"
+}

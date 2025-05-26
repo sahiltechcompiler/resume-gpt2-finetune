@@ -1,0 +1,124 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Pujitha Kamisetty",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.55",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "Percentage: 96.4",
+        "field_of_study": "Board of Intermediate Education (BIEAP)",
+        "startDate": "2019"
+      },
+      {
+        "school": "Oxford EM High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.8",
+        "field_of_study": "Board of Secondary Education (BSEAP)",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Predictive Health Monitoring System: Integrating Full-Stack and ML",
+        "description": "Developed Predictive Health Monitoring System (PHMS) integrating full-stack architecture and ML techniques. Enabled personalized patient monitoring and early disease detection. Frontend: HTML, CSS, JavaScript; Backend: Flask, MySQL for seamless integration and user authentication. Delivered real-time results with critical event detection and predictive recommendations, improving patient outcomes.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Optimizing Medical Diagnosis through Ensemble Models in Machine Learning",
+        "description": "Conducted a study on the applications of machine-learning algorithms in medical condition classification. Analyzed real-world datasets covering heart disease, Pima diabetes, chronic kidney disease, thoracic surgery, and breast cancer. Focused on enhancing healthcare predictions, particularly for conditions with a stagnant prognosis. Evaluated the performance of various machine-learning models, including SVM, ANN, Stacked SVM, Stacked SVM with ANN, Bagged ANN, and Stacked SVM with ANN.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Jun 2023",
+        "url": ""
+      },
+      {
+        "name": "Encrypted Communication Tool",
+        "description": "Utilized HTML, CSS, and JavaScript to replicate Netflixs user interface, demonstrating proficiency in front-end web development. Designed an intuitive user interface leveraging Tkinter, ensuring a seamless and user-friendly experience. Contributed to enhancing data privacy and security by providing a tool for secure message transmission.",
+        "keywords": [
+          "python"
+        ],
+        "endDate": "Sep 2022",
+        "startDate": "July 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "SRM University",
+        "description": "Collaborated with faculty on machine learning research projects, focusing on medical data analysis. Executed a project on a diabetes dataset, employing various machine learning algorithms including Artificial Neural Networks (ANN), Naive Bayes, and K-Nearest Neighbors (KNN). Analyzed results and contributed to research findings presented to faculty and peers.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Flask",
+      "MySQL",
+      "SQL (Structured Query Language)"
+    ],
+    "soft_skills": [
+      "Excellent communication",
+      "Problem-solving",
+      "Attention to detail",
+      "Decision making",
+      "Consulting"
+    ],
+    "name": "Pujitha Kamisetty",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

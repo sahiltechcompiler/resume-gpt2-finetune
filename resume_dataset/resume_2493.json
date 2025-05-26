@@ -1,0 +1,159 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "DIVYANSHU RANA",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "SGPA: 9.2",
+        "field_of_study": "CSE( AI & ML )",
+        "startDate": ""
+      },
+      {
+        "school": "JAWAHAR NAVODAYA VIDYALAYA",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Ghaziabad",
+        "ID": 1.0,
+        "grade_received": "Percentage: 95.6%",
+        "field_of_study": "PCM",
+        "startDate": ""
+      },
+      {
+        "school": "JAWAHAR NAVODAYA VIDYALAYA",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Ghaziabad",
+        "ID": 2.0,
+        "grade_received": "Percentage: 95.5%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Digital Time Table",
+        "description": "Admin can easily make timetable for all sections in a minimal time. Classrooms and labs will be alloted without any clash. Admin can also set arrangement lectures and teachers will be informed easily using this.",
+        "keywords": [
+          "Django",
+          "Django Rest Framework",
+          "Celery",
+          "PostgreSql",
+          "ReactJs",
+          "Material UI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Tantum (Vehicle Pooling Website)",
+        "description": "The goal behind developing this website was to reduce the traffic and ultimately traffic related problem by restricting public not to use individual vehicle.",
+        "keywords": [
+          "Django",
+          "Django Rest Framework",
+          "PostgreSql",
+          "ReactJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "ExamPortal",
+        "description": "This website is designed to conduct exams where MCQ based questions are given. Admin can get live updates of test scores on leaderboard of Admin section which is developed using socket-io.",
+        "keywords": [
+          "ReactJs",
+          "Nodejs",
+          "Django",
+          "Django Rest Framework",
+          "MongoDb"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Blog Website",
+        "description": "Anyone can register as user and write blogs and upload pictures. User can like and comment on blogs. User can also add blogs by keeping his identity private.",
+        "keywords": [
+          "Django",
+          "PostgreSql"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer Intern",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "Across The Globe",
+        "description": "Build a platform based on which organizations can take subscription to conduct contests. Build a platform for ESG(Environmental Social & Governance) for awareness in society for sustainable development. Work on the website of ATG to manage internal network of the company and to manage clients.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2023"
+      },
+      {
+        "role_name": "Backend Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Computer Society of India",
+        "description": "Learn Django Django Rest Framework. Collaborated closely with a skilled CSI team, gaining valuable experience in industry-standard code. Develop Project using Django and create APIs using Django Rest framework for 20+ Projects.",
+        "location": "",
+        "links": "",
+        "startDate": "November 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "HTML/CSS",
+      "JavaScript",
+      "C++",
+      "Django",
+      "Django Rest Framework",
+      "Celery",
+      "Bootstrap",
+      "Docker",
+      "Git",
+      "GitHub",
+      "Postman",
+      "VS Code",
+      "Railway",
+      "Heroku",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "DIVYANSHU RANA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Grabbed 1st Rank in Prometeo23 Hackoverflow organized by IIT Jodhpur",
+      "Secured position in Top 10 in hackathon organized by MANIT Bhopal"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

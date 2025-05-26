@@ -1,0 +1,132 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Onkar Kadam",
+  "college": "SKN Sinhgad College Of Engineering",
+  "locations": [
+    "Korti,Pandharpur",
+    "Chikmahud ,Solapur-413306"
+  ],
+  "full_output": {
+    "summary": "I am a dedicated computer science student with a passion for data engineering and big data analytics. Skilled in cloud computing, Python, SQL, and Azure technologies",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Engineering on Microsoft Azure (dp-203)",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SKN Sinhgad College Of Engineering",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Korti,Pandharpur",
+        "ID": 0.0,
+        "grade_received": "9.71 SGPA, 85.19 percent",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Progress Jr college pandharpur",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "86.67 percent",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "sushilkumar shinde high school chikmahud",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "79 percent",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Innovative Analytics",
+        "description": "Developed a data analysis pipeline for IPL data using DataBricks and Synapse Analytics to provide actionable insights through Power BI dashboards. The project involved data extraction, transformation, and loading (ETL) processes, resulting in optimized data handling and reporting.",
+        "keywords": [
+          "Azure Data Factory",
+          "DataBricks",
+          "Pipeline",
+          "Power BI",
+          "Synapse Analytics",
+          "ETL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real-Time Data Analysis(weather Data)",
+        "description": "Implemented a real-time data analysis system using Azure Event Hub and Streaming Analytics. The project focused on processing continuous flow data in real-time and utilizing Data Factory for ETL operations.",
+        "keywords": [
+          "Event Hub",
+          "Streaming Analytics",
+          "Azure Data Factory",
+          "ETL",
+          "DataBricks",
+          "Blob Storage"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Data Integration",
+      "Data Warehouse",
+      "Object-Oriented Programming",
+      "Networking",
+      "Cloud Computing",
+      "Python",
+      "SQL",
+      "PySpark",
+      "Azure Data Factory",
+      "Databricks",
+      "Azure Synapse Analytics",
+      "Azure Event Hub",
+      "Azure Streaming Analytics",
+      "Apache Spark",
+      "Azure Data Lake Storage",
+      "Power BI"
+    ],
+    "soft_skills": [],
+    "name": "Onkar Kadam",
+    "position": "",
+    "interests": [
+      "playing cricket",
+      "kabaddi"
+    ],
+    "achievements_and_awards": [
+      "Winner in Sinhgad Hackathon arranged by SKNSCOE",
+      "Achieved 3rd Rank at Solapur University"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

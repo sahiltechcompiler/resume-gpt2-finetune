@@ -1,0 +1,108 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Madhava Rao Sakaray",
+  "college": "College",
+  "locations": [],
+  "full_output": {
+    "summary": "Determined and goal focused computer science student with a passion for technology and innovation with excellent time management skills, problem solving skills, good at interpersonal communication, quick learner, can manage conflicts and easily adaptable to different environments.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "College",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.05/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Some Board",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "977/1000",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Some Board",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10.0/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pavement Performance Prediction",
+        "description": "Utilized advanced machine learning techniques to create a predictive model for evaluating pavement performance under different environmental conditions and parameters. Integrated various attributes such as traffic volume, weather patterns, and construction materials to assess road durability over time. Built a model aiding in proactive maintenance planning and resource allocation. This predictive capability enables stakeholders to optimize road maintenance schedules, minimize disruptions, and allocate resources effectively, leading to improved road safety and longevity.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Employee Relationship app",
+        "description": "Built a app for the employer to manage the details and staus of employees.App consists of proper authen- tication requirement achieved through DB connectivity and verification of the details and also handling all the operations on the details of emplyees.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Team lead - Research UROP",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "",
+        "description": "Led development of a predictive model for assessing pavement performance using advanced machine learning. Analyzed diverse data to predict outcomes under varying conditions, focusing on preprocessing, feature selection, and model evaluation. Gained experience on managing team members, deadlines and done a lot of presentations and held meetings and maintained agility through out the project.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2023"
+      },
+      {
+        "role_name": "Data analyst-APSSDC",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "",
+        "description": "Conducted comprehensive data analysis on food delivery trends leveraging machine learning techniques. Developed and implemented a robust ML model to optimize delivery routes and enhance efficiency. Key contributions included data preprocessing, feature engineering, model training, and performance evalua- tion. Resulted in significant improvements in delivery times and customer satisfaction.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "SQL",
+      "C",
+      "C++",
+      "Java",
+      "JS",
+      "Python",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [],
+    "name": "Madhava Rao Sakaray",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

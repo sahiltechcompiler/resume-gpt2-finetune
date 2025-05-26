@@ -1,0 +1,163 @@
+{
+  "project_count": 3.0,
+  "designation": "Machine Learning Engineer",
+  "name": "Abhimanyu Saini",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C for Everyone: Programming Fundamentals",
+        "issuer": "University of California, Santa Cruz",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ordered Data Structures",
+        "issuer": "University of Illinois at Urbana-Champaign",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introductions to Python Programming",
+        "issuer": "University of Pennsylvania",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.48/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": "Oct 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Image Captioning using Deep-Learning",
+        "description": "Designed and implemented an image caption generator using CNN-LSTM workflow. Integrated the state-of-the-art Attention-mechanism to significantly improve the performance results as compared to traditional methods.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "Google Colab"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Plant-disease detection using Convolutional Neural Networks",
+        "description": "Researched state-of-the-art CNN models, the Xception model and the MobileNet model, to compare between them. Implemented a plant disease detector trained on the PlantVillage dataset, consisting of 38 different classes, to be able to accurately classify between various healthy and diseased leaves.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Art Exhibition",
+        "description": "Developed an full-stack online Art gallery using React.js for the front-end, back-end on the Express.js, and for database PostgreSQL was used.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Expres.js",
+          "PostgreSQL",
+          "HTML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning Engineer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Rust",
+      "Java",
+      "C",
+      "C++",
+      "C#",
+      "Python",
+      "JavaScript",
+      "PHP",
+      "SQL",
+      "Go",
+      "TensorFlow",
+      "Keras",
+      "React.js",
+      "Vue.js",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "Visual Studio",
+      "PyCharm"
+    ],
+    "soft_skills": [],
+    "name": "Abhimanyu Saini",
+    "position": "Machine Learning Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved 2nd position world-wide in the Microsofts Imagine Cup Break into Code challenge."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

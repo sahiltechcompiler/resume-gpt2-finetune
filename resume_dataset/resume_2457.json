@@ -1,0 +1,155 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Ritika Gupta",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.78",
+        "field_of_study": "Data Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "D.A.V Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "88",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Thomas School, Dhurwa, Ranchi",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "91.33",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sign Language Detection",
+        "description": "Trained and evaluated sign language recognition models using MediaPipe: The preprocessed image was passed to the MediaPipe Holistic model for detection. The model processes the image and outputs a results object containing information about detected landmarks on the face, pose, left hand, and right hand. Performed Real-time Visualization and Inference that displays the captured video feed with overlaid hand landmarks. It performs inference using a trained model to predict the most likely action (sign language gesture) for each frame. Aims at providing enhanced accessibility for people with hearing impairments.",
+        "keywords": [
+          "MediaPipe",
+          "OpenCV",
+          "NumPy",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "SentiNLP",
+        "description": "Performed sentiment analysis on 1.6 million tweets data for classification into positive or negative sentiments. Conducted thorough EDA and visualization, including word cloud generation and frequency distribution. Implemented various neural network architectures like Simple RNN, LSTM, GRU, and Bidirectional models with embedding layers. Experimented with encoding techniques such as one-hot encoding, count vectorization, TF-IDF, and custom Word2Vec embeddings. Achieved the highest validation accuracy of 0.75389 with the Embedding + Bidirectional + GRU model.",
+        "keywords": [
+          "NLTK",
+          "spaCy",
+          "Tensorflow",
+          "Keras",
+          "scikit-learn",
+          "plotly"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "TubeTrend Analyzer",
+        "description": "Developed a YouTube scraper to extract video details, including titles, views, and thumbnail links, from a channel. Conducted EDA to unveil insights into video categories, likes, and views. Investigated the impact of thumbnails on viewer engagement by analyzing correlations between thumbnail features and view counts. Created a Tableau dashboard to visually represent findings and draw conclusions regarding popular video categories and thumbnail effectiveness in influencing viewer behavior.",
+        "keywords": [
+          "Python",
+          "BeautifulSoup",
+          "Selenium",
+          "matplotlib",
+          "pandas",
+          "Tableau"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Academic Success Predictor",
+        "description": "Created a comprehensive machine learning pipeline from data ingestion to model deployment, enabling seamless prediction of student performance based on various features such as gender, race/ethnicity, parental level of education, lunch type, and test preparation course. Utilized various ML algorithms for prediction, including Decision Trees, Random Forests, Gradient Boosting, Linear Regression, XGBoost, CatBoost, and AdaBoost and predicted XGBoost as the best model having an r2 score of 0.85366. Successfully implemented ML pipeline, integrated backend and frontend using Flask and HTML, Utilized GitHub Actions for CI/CD and hosted the project on AWS.",
+        "keywords": [
+          "HTML",
+          "Python",
+          "scikit-learn",
+          "dill",
+          "Flask",
+          "AWS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Member",
+        "skillsUsed": [],
+        "endDate": "2022",
+        "company_name": "ZettaSciThe Data Science Club, MUJ",
+        "description": "Leveraging my skills in graphic design and data visualization.",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Member",
+        "skillsUsed": [],
+        "endDate": "2022",
+        "company_name": "Electronics Society, MUJ",
+        "description": "Led event planning and coordination efforts, from conceptualization to execution.",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Git/Github",
+      "SQL",
+      "Algorithm and Data Structures",
+      "Deep Learning",
+      "Computer Vision",
+      "AWS (Sagemaker)",
+      "PowerBI"
+    ],
+    "soft_skills": [],
+    "name": "Ritika Gupta",
+    "position": "",
+    "interests": [
+      "Web Design and Development",
+      "Web Scraping",
+      "Machine and Deep Learning"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

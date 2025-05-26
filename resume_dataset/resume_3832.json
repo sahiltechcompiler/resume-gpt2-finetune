@@ -1,0 +1,107 @@
+{
+  "project_count": 1.0,
+  "designation": "Full Stack Developer",
+  "name": "Anil Gulati",
+  "college": "DIT University",
+  "locations": [
+    "India"
+  ],
+  "full_output": {
+    "summary": "Dynamic and results-oriented Full Stack Developer with a strong foundation in Java, JavaScript, React, and React Native. Experienced in leading end-to-end development projects for diverse clients, showcasing expertise in problem-solving and team leadership. Dedicated to delivering high-quality solutions through technical innovation and a commitment to excellence. Eager to leverage skills and knowledge in a challenging professional environment.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "DIT University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "India",
+        "ID": 0.0,
+        "grade_received": "8.6",
+        "field_of_study": "Computer Science",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mark Me Present",
+        "description": "Android app automating the attendance system for DIT University. Developed a sophisticated QR code authentication system, generating unique, time-sensitive codes for each student to prevent unauthorized attendance, bolstered by robust device ID binding and individual account security measures. Engineered real-time anomaly detection algorithms, promptly notifying instructors of any suspicious activities such as attempts to scan expired QR codes, ensuring immediate intervention to mitigate potential attendance fraud. Implemented advanced encryption protocols and data integrity checks to fortify the apps security posture, safeguarding sensitive attendance records against unauthorized access or tampering.",
+        "keywords": [],
+        "endDate": "12/2021",
+        "startDate": "11/2021",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE-1",
+        "skillsUsed": [],
+        "endDate": "12/2023",
+        "company_name": "Onelab Ventures",
+        "description": "Spearheaded the development of a robust vehicle service booking website backend using Spring Boot, ensuring seamless functionality through extensive manual and automated testing. Deployed applications on EC2, actively engaging in deployment testing to ensure continuous availability and optimal performance for end-users. Led the development of three production-level React Native applications, emphasizing a test-driven development approach to deliver high-quality, bug-free solutions. Collaborated with esteemed clients, including RFIS (Reliance Foundation), Gativan, and Popkorn Fintech, actively participating in requirement analysis and ensuring delivered solutions meet the highest quality standards.",
+        "location": "India",
+        "links": "",
+        "startDate": "08/2022"
+      },
+      {
+        "role_name": "MERN STACK INTERN",
+        "skillsUsed": [],
+        "endDate": "08/2022",
+        "company_name": "PREPSEED",
+        "description": "Developed a responsive front end for attendance and analytics, incorporating rigorous testing methodologies to enhance decision-making accuracy. Integrated the Zoom SDK with a strong emphasis on testing, ensuring seamless meeting participation from the platform without compromising security or performance. Planned and implemented a parent component module, prioritizing testing to enhance the overall platforms performance, stability, and user satisfaction.",
+        "location": "India",
+        "links": "",
+        "startDate": "05/2022"
+      },
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "G.E.T Yamaha Motor Solutions India Pvt. Ltd.",
+        "description": "Spearheaded the development and optimization of critical modules within the Yamaha Dealer Management System. Developed Local Part Master module, facilitating third-party part and accessory management for dealers. Developed and implemented the Auto Purchase Order module, automating part orders based on sales trends and demand analysis. Implemented Spare Parts Profitability Report module, providing insights into parts profitability, contributing to strategic decision-making.",
+        "location": "India",
+        "links": "",
+        "startDate": "01/2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Spring Boot",
+      "Hibernate",
+      "React JS",
+      "React Native",
+      "Next JS",
+      "REST API",
+      "Browser Extensions",
+      "Node JS",
+      "SQL",
+      "MongoDB",
+      "AWS RDS",
+      "MySQL",
+      "PostgreSQL",
+      "AWS",
+      "Azure",
+      "Git",
+      "Leadership",
+      "Communication",
+      "Problem Analysis",
+      "Docker",
+      "Problem-solving",
+      "Linux",
+      "Angular"
+    ],
+    "soft_skills": [],
+    "name": "Anil Gulati",
+    "position": "Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

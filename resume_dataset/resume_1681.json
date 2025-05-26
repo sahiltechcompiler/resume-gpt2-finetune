@@ -1,0 +1,132 @@
+{
+  "project_count": 2.0,
+  "designation": "Programmer Analyst Trainee",
+  "name": "Vishal Panwar",
+  "college": "KIET Group Of Institutions(AKTU)",
+  "locations": [
+    "Ghaziabad, India",
+    "Saharanpur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions(AKTU)",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA - 6.15",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Saraswati Vihar Senior Secondary School(CBSE)",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage - 76%",
+        "field_of_study": "PCM",
+        "startDate": ""
+      },
+      {
+        "school": "Saraswati Vihar Senior Secondary School(CBSE)",
+        "endDate": "2016",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA - 8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Parking System",
+        "description": "Successfully integrated YOLO-v8 model, achieving a detection accuracy of over 90%. Optimized model parameters to reduce inference time by 30%, ensuring real-time processing even in challenging conditions. Developed algorithms to accurately determine parking space occupancy status with a precision rate of 90%. Engineered a robust notification system to inform users instantly about available parking spots, resulting in a 40% increase in user engagement and parking space utilization.",
+        "keywords": [
+          "Computer Vision",
+          "Machine Learning",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "A-eye Vision",
+        "description": "Attained an object detection accuracy exceeding 90% in real-world conditions, bolstering user confidence in the systems reliability. Deployed a sophisticated voice prompt system, enhancing accessibility and comprehension for visually impaired users. Significantly reduced processing time to less than 100 milliseconds per frame, ensuring near-real-time performance in various scenarios.",
+        "keywords": [
+          "Python",
+          "Computer Vision",
+          "Machine learning",
+          "NLP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Programmer Analyst Trainee",
+        "skillsUsed": [
+          "Python",
+          "SQL",
+          "Database Management"
+        ],
+        "endDate": "Present",
+        "company_name": "Cognizant Technology Solutions",
+        "description": "Gained extensive hands-on experience in Python through mentor-led training sessions and practical case studies, leading to the development of real-world projects. Executed projects that integrated SQL databases with Python applications, demonstrating strong skills in database management and programming.",
+        "location": "Ghaziabad, India",
+        "links": "",
+        "startDate": "July 2024"
+      },
+      {
+        "role_name": "Certified Skill Development (Intern)",
+        "skillsUsed": [],
+        "endDate": "2020",
+        "company_name": "",
+        "description": "",
+        "location": "Saharanpur, India",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Java",
+      "Scikit-learn",
+      "TensorFlow",
+      "Open-CV",
+      "Flask",
+      "MongoDB",
+      "Google Firebase",
+      "Kubernetes",
+      "Docker",
+      "GIT",
+      "MySQL",
+      "Linux",
+      "Windows",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "Vishal Panwar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

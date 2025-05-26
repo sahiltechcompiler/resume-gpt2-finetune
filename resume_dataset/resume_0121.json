@@ -1,0 +1,119 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SAI VIGNESH KONDI",
+  "college": "Sreenidhi Institute of Science and Technology",
+  "locations": [
+    "Yamnampet, Ghatkesar, Hyderabad, Telangana 501301",
+    "Bowrampet, Hyderabad, Telangana"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Java",
+        "issuer": "IIT Kharagpur",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL DBMS",
+        "issuer": "IIT Kharagpur",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Data Structures and Algorithms",
+        "issuer": "Codedamn",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Sreenidhi Institute of Science and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Yamnampet, Ghatkesar, Hyderabad, Telangana 501301",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.77",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya Jr College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Bowrampet, Hyderabad, Telangana",
+        "ID": 1.0,
+        "grade_received": "CGPA: 9.18",
+        "field_of_study": "MPC",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sentiment Analysis Model for Stock Prediction Using Twitter Data",
+        "description": "Techniques Used: Linear Regression and K-Means Clustering: Achieved a prediction accuracy of 85% Advanced NLP methods (NLTK and VADER) for sentiment analysis: Improved sentiment classification accuracy to 90% Model Integration: Combined sentiment analysis insights with stock prediction model: Enhanced overall model accuracy to 88% Performance Evaluation: Assessed effects of volume and open price on close price: Increased predictive capabilities by 15%",
+        "keywords": [],
+        "endDate": "Present",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Predictive Analysis of Lung Cancer Using Stochastic Gradient Boosting and Recursive Feature Elimination",
+        "description": "Visualization: Age column, categorical columns, age vs. categorical columns, heatmap Model Performance: Support Vector Classifier (SVC): 99% accuracy Random Forest: 95% accuracy LightGBM (LGBM): 95% accuracy Dimensionality Reduction: Principal Component Analysis Model Analysis: Evaluated 28 machine learning models Analyzed and compared the accuracy and time taken of three major data processing methods; demonstrated a 40% efficiency improvement and a 25% increase in data accuracy using a new automated system Conducted grid search CV on Decision Tree Classifier",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Predictive Analysis of Diabetes and Stress Using Touch Screen Data",
+        "description": "Techniques Used: Analyzed user behavior patterns and created interactive visual reports with Power BI, driving a 25% improvement in feature adoption and enhancing user engagement by 30% Multiple classifiers for model development and performance evaluation Model Performance: XGBoost: 87% accuracy, 0.89 precision, and 0.85 F1 score for diabetes prediction Random Forest: 78% accuracy, 0.75 recall, and 0.73 F1 score for stress prediction Study Focus: Conducted comprehensive analysis of stress patterns in over 500 working adults; identified 5 key stress factors, contributing to a 20% improvement in targeted stress management programs.",
+        "keywords": [],
+        "endDate": "Mar 2024",
+        "startDate": "Nov 2023",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Java",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "SAI VIGNESH KONDI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Volunteer, Bachpan Prayas (Nov 2022)",
+      "Participated in 'Walk for Cause' event, raising awareness for child education and supporting orphaned children through community involvement."
+    ],
+    "publications": [
+      "Prediction of Stress and Diabetes Retinopathy using Touch Screen Data"
+    ]
+  },
+  "current_location": "Mandamarri, Mancherial Dist 504231",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Information Technology"
+}

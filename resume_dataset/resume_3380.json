@@ -1,0 +1,165 @@
+{
+  "project_count": 4.0,
+  "designation": "Front End Developer",
+  "name": "VENKATA SRAVYA ALAPATI",
+  "college": "SRM University",
+  "locations": [
+    "Guntur, Andhra Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science Internship",
+        "issuer": "Through APSSDC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web development",
+        "issuer": "Through Dev town",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data science",
+        "issuer": "Through Lernx",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.8/10.0",
+        "field_of_study": "Computer Science(Data Science)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaithanya College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94.7%",
+        "field_of_study": "MPC",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaithanya School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10.0/95%",
+        "field_of_study": "SSC",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fake Review Detection",
+        "description": "Downloaded a dataset from Kaggle and developed a model using BERT and BILSTM and got an accuracy of 90.5 percent. It identifies the fake and True reviews in which we worked as a group.",
+        "keywords": [
+          "Data Science",
+          "Deep Learning"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "Housing Horizon: Analyzing Residential Real Estate",
+        "description": "Developed a highly accurate predictive model for property valuation, aiding informed decision-making in real estate investments. Meet with clients every quarter to update or renew services. Train junior sales agents.",
+        "keywords": [
+          "Data Science"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Sep 2023",
+        "url": ""
+      },
+      {
+        "name": "Voice Assistant",
+        "description": "Developed a voice assistant project. This recognizes our voice and give the output according to the user. We used python libraries.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "Sep 2023",
+        "url": ""
+      },
+      {
+        "name": "Shared Wheels: A Car Pool Website",
+        "description": "Designed and developed a user-friendly carpool webpage that connects commuters for shared rides, reducing travel costs and environmental impact. Implemented features for ride matching, user profiles, and scheduling to enhance user experience and promote efficient carpooling.",
+        "keywords": [
+          "Mongo DB",
+          "Java Script"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Andhra Pradesh State Skill Development Corporation (APSSDC)",
+        "description": "Developed a recommendation system using a Kaggle dataset to help users find cars that match their specifications and budget. Conducted exploratory data analysis (EDA) and applied machine learning algorithms to enhance recommendation accuracy.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "SQL",
+      "HTML",
+      "CSS",
+      "MYSQL",
+      "Classification",
+      "Association",
+      "Clustering"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Planning",
+      "Problem solving",
+      "Decision making",
+      "Quick learning"
+    ],
+    "name": "VENKATA SRAVYA ALAPATI",
+    "position": "Front End Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved Participation certificates and Merit certificates in hackathons like Flipkart Grid 5.0 and various hackathons conducted by Unstop."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

@@ -1,0 +1,123 @@
+{
+  "project_count": 2.0,
+  "designation": "Software Engineer",
+  "name": "Mohit Singh Rathore",
+  "college": "JSS Academy of Technical Education",
+  "locations": [
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advanced Data Structures in C++",
+        "issuer": "",
+        "certiLink": "View Certificate"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Complete Web Development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": "View Certificate"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "JSS Academy of Technical Education",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Noida",
+        "ID": 0.0,
+        "grade_received": "7.68 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fitness App",
+        "description": "Developed a user-friendly Fitness website using React and Rapid API, empowering users to explore and search for exercises effortlessly, resulting in a 30% increase in user engagement. Implemented features to fetch and display exercise details and animations seamlessly, enhancing user experience and boosting site traffic by 25%.",
+        "keywords": [
+          "React",
+          "Rapid API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blog Website",
+        "description": "Composed an intuitive application using Express.js and MongoDB, enabling users to create and publish blogs seamlessly, resulting in a 40% increase in blog posts per month. Implemented adaptive web pages for each blog post, fostering enhanced user interaction and increasing average session duration by 35%.",
+        "keywords": [
+          "Express.js",
+          "MongoDB",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Mtree Software Private Limited",
+        "description": "Led the transition of Modify Packet attack functionality from bit-level to both bit and byte-level attacks, exponentially broadening attack capabilities and effectiveness. Engineered a sophisticated real-time attack emulation system, significantly enhancing the platforms capacity to simulate and respond to complex cyber threats, resulting in a 50% improvement in threat detection accuracy. Developed and integrated a bespoke attack feature into Modify Packet, enabling customers to execute customized attacks via Python scripting. This enhancement increased user flexibility by 40% and reduced reliance on pre-defined attack options by 35%. Refined multiple filters such as transport layer filters, network layer filters, and packet filters, augmenting attack versatility and precision across network and MAC layer attacks. Achieved a remarkable reduction of up to 90% in warnings and potential bugs throughout the entire EXata backend codebase, bolstering code quality and fortifying maintainability. Conducted comprehensive network analysis utilizing tools like Wireshark and PackETH, resulting in a 30% improvement in network efficiency and a 25% reduction in network integrity issues.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2019"
+      },
+      {
+        "role_name": "Technical Assistant",
+        "skillsUsed": [],
+        "endDate": "Dec 2022",
+        "company_name": "Coding Ninjas",
+        "description": "Successfully resolved over 100 student inquiries per week with a 95% satisfaction rate, fostering supportive learning environment and contributing to a 20% increase in student retention. Pioneered iterative refinements and optimization strategies for algorithms; accelerated processing efficiency by 50% and boosted analytical accuracy by 30%, ensuring superior performance and reliability in critical applications. Introduced tailored algorithms for diverse problem domains; achieved a 50% improvement in solution accuracy and reduced computational costs by 30% in machine learning models.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "Web Development",
+      "Git",
+      "Linux",
+      "SQL",
+      "PostgreSQL",
+      "MongoDB",
+      "React.js",
+      "Redux",
+      "Express.js",
+      "Node.js",
+      "Bootstrap",
+      "Microsoft Visual Studio",
+      "Qt Creator",
+      "CMake"
+    ],
+    "soft_skills": [],
+    "name": "Mohit Singh Rathore",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Noida, India",
+  "graduation_year": 2023.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

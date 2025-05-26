@@ -1,0 +1,134 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Balaji Kalluru",
+  "college": "SRM University, Andhra Pradesh",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MathWorks Virtual Internship",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python3: From Beginner to Pro",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL Excel Skills Virtual Experience Program",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, Andhra Pradesh",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.28/10.0",
+        "field_of_study": "Computer Science and Engineering with Specialization in AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Jr College, Andhra Pradesh",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "Senior Secondary School",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "97.3/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "DiabetesCompass - Navigating Health with AI",
+        "description": "Implemented predictive models for diabetes risk using both Linear Regression and Logistic Regression, enhancing the ability to identify individuals at high risk of diabetes. Performed comprehensive data preprocessing, including handling missing values and applying QuantileTransformer for data normalization, ensuring high-quality input data for the models. Conducted thorough exploratory data analysis (EDA) to identify and analyze key features correlated with diabetes outcome, providing deeper insights and improving the models effectiveness.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Online Fraud Detection System",
+        "description": "Engineered an online fraud detection system employing multiple algorithms, including logistic regression, decision trees, k-NN, and a Voting Ensemble Classifier, significantly enhancing fraud detection accuracy. Executed extensive data preprocessing, incorporating standard scaling and Principal Component Analysis (PCA), to improve model performance and reduce dimensionality, ensuring high-quality input data. Implemented thorough evaluation and validation techniques, including cross-validation and performance metrics analysis, to ensure the robustness and reliability of the fraud detection system.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "CineMind-Predictive-Movie-Matchmaking",
+        "description": "Developed a content-based movie recommendation system using natural language processing (NLP) techniques, enhancing user experience through personalized movie suggestions. Applied vectorization methods like TF-IDF and Bag-of-Words, and algorithms such as Cosine Similarity using Python, NLTK, and Scikit-Learn to convert movie titles and metadata into vectors for precise recommendations. Coordinated thorough data extraction, preprocessing, and feature engineering to optimize the recommendation systems performance, ensuring high accuracy and relevance of movie suggestions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Internship",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Executed comprehensive analysis and feature extraction of Spotify song attributes using Python, implementing data visualization techniques to present insights and trends. Carried out data preprocessing and cleaning to ensure accuracy and consistency, using feature engineering to highlight key song attributes such as tempo, energy, and danceability. Collaborated with team members to plan and execute the project, documenting findings and presenting results to supervisors, ensuring timely completion and achieving project objectives.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Java",
+      "MySQL",
+      "MS Office",
+      "PowerBI"
+    ],
+    "soft_skills": [
+      "problem-solving",
+      "adaptability",
+      "analytical thinking"
+    ],
+    "name": "Balaji Kalluru",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

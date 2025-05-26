@@ -1,0 +1,153 @@
+{
+  "project_count": 4.0,
+  "designation": "Aspiring Data Scientist",
+  "name": "Shivakant",
+  "college": "National Institute of Technology, Nagaland",
+  "locations": [],
+  "full_output": {
+    "summary": "Aspiring Data Scientist with proficiency in Python. Eager to apply analytical skills and learn new technologies to drive data-driven solutions. Strong communication and teamwork abilities, committed to continuous growth in the field of data science.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute of Technology, Nagaland",
+        "endDate": "2024",
+        "maximum_grade": "10",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.9/10",
+        "field_of_study": "Mechanical Engineering",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Prediction of Bio diesel Properties from Fatty Acid Composition using ML Techniques and ANN",
+        "description": "This project focused on predicting and evaluating the properties of biodiesel based on its fatty acid composition, utilizing Artificial Neural Network (ANN) techniques.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RAG Project for Question-Answering System",
+        "description": "This project uses Retrieval-Augmented Generation (RAG) pipelines to enhance complex question-answering by leveraging LLMs to break down queries and retrieve relevant information from a marketing data, demonstrating improved accuracy and efficiency in natural language processing.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Gender and Age Prediction - Image Classification - CNN",
+        "description": "Implemented Convolutional Neural Networks (CNN) to accurately classify and predict gender and age from input images. Demonstrated the application of deep learning in image-based demographic analysis.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Amazon Fine Food Review",
+        "description": "Analyzed and categorized customer reviews of food products on Amazon, providing insights into product quality and consumer preferences. Utilized sentiment analysis and data mining techniques for comprehensive analysis.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Engineer",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "Fayredge",
+        "description": "Assisted in the implementation and integration of algorithms for product development, collaborating with the team to set up a sentiment analysis engine using LLM models. Designed, developed, and deployed impactful NLP and machine learning models. Applied model optimization techniques for enhanced accuracy and real-time performance. Collaborated with DevOps to assist in the deployment of models, ensuring they were production-ready and optimized for use.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [],
+        "endDate": "April 2024",
+        "company_name": "BotGauge AI",
+        "description": "Integrate existing large language models(OpenAI) into testing framework. Collaborate with development team to customize AI solutions for testing requirements. Analyze test results and improve accuracy and efficiency of AI models. Document integration process and model enhancements.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Hamsi Marketing Pvt. Ltd.",
+        "description": "Analyzed data patterns and trends, providing valuable insights to facilitate informed decision-making processes. Developed cutting-edge AI models and algorithms to drive innovation and efficiency within the marketing sector. Contributed to the design and implementation of AI-based solutions, optimizing business operations and productivity.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2023"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "Innomatics Research Labs",
+        "description": "Conduct data cleaning and preprocessing tasks on large datasets. Develop and maintain data visualizations and dashboards. Assist in developing and implementing machine learning models. Contribute to the development of best practices for data science projects.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Data Structures",
+      "OOPs",
+      "MS-Excel",
+      "Numpy",
+      "Pandas",
+      "Matplotlib",
+      "Tableau",
+      "Seaborn",
+      "Scikit-learn",
+      "Keras",
+      "TensorFlow",
+      "PyTorch",
+      "OpenCV",
+      "Streamlit",
+      "Flask",
+      "Selenium",
+      "Beautiful Soap",
+      "Git",
+      "GitHub",
+      "AWS",
+      "Mongo DB",
+      "SQL",
+      "Exploratory Data Analysis",
+      "Data Processing",
+      "Feature Engineering",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural language Processing(NLP)",
+      "Hugging Face",
+      "Fine-tuning",
+      "Generative AI",
+      "LLM Models",
+      "RAG",
+      "LangChain"
+    ],
+    "soft_skills": [
+      "Strong communication",
+      "Teamwork",
+      "Commitment to continuous growth"
+    ],
+    "name": "Shivakant",
+    "position": "Aspiring Data Scientist",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 4.0,
+  "degree": "Bachelor of Technology"
+}

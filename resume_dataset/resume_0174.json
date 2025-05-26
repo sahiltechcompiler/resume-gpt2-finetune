@@ -1,0 +1,178 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Jaiparkash Yadav",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Foundations: A Case Study Approach",
+        "issuer": "University of Washington",
+        "certiLink": "(Link)"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to NOSQL databases",
+        "issuer": "IBM",
+        "certiLink": "(Link)"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.04 (YGPA)",
+        "field_of_study": "CSE (AIML)",
+        "startDate": "2020"
+      },
+      {
+        "school": "The Adarsh School (CBSE)",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "79 %",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "THE Adarsh School (CBSE)",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "81.9 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Skin Vision (AI based Personalized Skincare Ecommerce Platform)",
+        "description": "Designed and developed an AI Platform to suggest the recommended Products based on the detected skin issue using object detection. Trained YOLOv8 model on 20k+ instances of skin lesion across 500 images. Developed Rule-Based Approach for Product Recommendation. Developed user authentication and authorization features, allowing registered users to use the platform and utilize add to cart feature.",
+        "keywords": [
+          "Python",
+          "YOLOv8",
+          "TensorFlow",
+          "OpenCV",
+          "Django",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Present",
+        "startDate": "April 2024",
+        "url": "Demo Video: (Link)"
+      },
+      {
+        "name": "Number Plate Recognition",
+        "description": "Implemented number plate recognition system using YOLO model for enhanced accuracy and speed. Trained the model on 400+ images of Number plates and got almost 73.4%.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "YOLOv4",
+          "TensorFlow"
+        ],
+        "endDate": "Present",
+        "startDate": "April 2024",
+        "url": "(Link)"
+      },
+      {
+        "name": "Surveillance Rover with Artificial Intelligence",
+        "description": "Developed a surveillance rover with real-time human detection capabilities. Implemented the Mobilenet model architecture for real-time human detection. Implemented Socket programming to trigger alarms and send alerts upon human detection.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Mobilenet",
+          "Socket Programming"
+        ],
+        "endDate": "Present",
+        "startDate": "April 2024",
+        "url": "(Link)"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Computer Vision intern",
+        "skillsUsed": [
+          "Hailo framework",
+          "MLflow",
+          "Opencv",
+          "ONNX",
+          "Numpy",
+          "Pandas"
+        ],
+        "endDate": "Present",
+        "company_name": "Wobot AI",
+        "description": "Worked on Model Quantization using hailo framework. Worked on Development of No-Code Platform for the Automatic model conversion from ONNX to har, hef and openvino formats. Worked on different OCR models for NPR system like PaddleOCR. Worked on Resnet ReID, YOLOv5, YOLOv6, YOLOv8 models. Developed machine learning algorithms and computer vision techniques using Python, TensorFlow, and OpenCV for drone image recognition and tracking. Conducted data preprocessing and model optimization to improve accuracy and efficiency, utilizing data augmentation and hyperparameter tuning. Contributed to team meetings for development of product.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "AIML Intern",
+        "skillsUsed": [],
+        "endDate": "Oct 2022",
+        "company_name": "IDR Research and Development Pvt. Ltd.",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Aug. 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Nodejs",
+      "ExpressJs",
+      "Django",
+      "Flask",
+      "TensorFlow",
+      "OpenCV",
+      "CNN",
+      "NumPy",
+      "Pandas",
+      "MlFlow",
+      "NLP",
+      "Transformers",
+      "NLTK",
+      "MongoDB",
+      "MySQL",
+      "SQLite"
+    ],
+    "soft_skills": [],
+    "name": "Jaiparkash Yadav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Mentee - AMAZON ML SUMMER SCHOOL (2022) (Link)",
+      "Got AWS AIML SCHOLARSHIP (2023)",
+      "Solved more than 250+ questions of DSA covering all the topics.",
+      "Secured Third Position in SEGUE Competition (Design Thinking Challenge)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

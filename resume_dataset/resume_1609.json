@@ -1,0 +1,146 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Kartikey Tandon",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, IN",
+    "Bareilly, IN",
+    "Remote, IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Bareilly, IN",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Bishop Conrad Senior Secondary School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.6%",
+        "field_of_study": "XII",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Swizom Backend",
+        "description": "Developed three microservices to connect costumer, restaurant and delivery agent for the smooth delivery services. Implemented key features like user profiles, authentication authorization, auto assigning of the agent after order acceptance by the Restaurant resulting in an enhanced user experience and improved engagement.",
+        "keywords": [
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Blockverse Code Editor",
+        "description": "A Smart Code editor with a predefined Schema which is Trained by an ML Model. User can code in HTML CSS, and the result of the user-coded interface will be compared with the predefined schema through which Accuracy will be generated. Implemented Socket.io for the real time communication.",
+        "keywords": [
+          "ReactJS",
+          "NPM Libraries"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer Intern",
+        "skillsUsed": [
+          "Javascript",
+          "Solidity",
+          "NodeJS"
+        ],
+        "endDate": "Present",
+        "company_name": "Buildorz",
+        "description": "Developed an account abstraction wallet (ERC - 4337) leveraging ZeroDev technology in Node.js. Worked on implementing functionalities which include social login bypassing seed phrases using Particle Network Auth and NFT Transfer.",
+        "location": "Ghaziabad, IN",
+        "links": "",
+        "startDate": "March 2024"
+      },
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "NodeJS",
+          "WebSockets",
+          "ReactJS",
+          "Tailwind"
+        ],
+        "endDate": "February 2024",
+        "company_name": "Be Woke Tech",
+        "description": "Optimized RestAPIs using Redis Caching which led to the increase in API response time by 80%. Implemented Socket.io, which improved real-time communication by reducing latency by 50% and increasing message throughput by 75%.",
+        "location": "Remote, IN",
+        "links": "",
+        "startDate": "December 2023"
+      },
+      {
+        "role_name": "MERN Developer Intern",
+        "skillsUsed": [
+          "NodeJS",
+          "ReactJS",
+          "MUI",
+          "Tailwind",
+          "CSS"
+        ],
+        "endDate": "September 2023",
+        "company_name": "Techavtar Solutions",
+        "description": "Achieved a 15% increase in user interface efficiency by implementing modern libraries, resulting in enhanced responsiveness and improved user experience. Led the development of RestAPIs using Strapi CMS, optimizing payment processes and customer data management, and contributing to a 20% improvement in transaction speed. Collaborated with cross-functional teams to boost code coverage by 25%, ensuring rigorous testing standards and timely delivery of real-time applications.",
+        "location": "Remote, IN",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "JavaScript",
+      "HTML/CSS",
+      "Solidity",
+      "NodeJS",
+      "NextJS",
+      "Material-UI",
+      "Tailwind",
+      "Chakra UI",
+      "Git/Github",
+      "Docker",
+      "Amazon Web Services (AWS EC2)",
+      "VS Code",
+      "RemixIDE",
+      "Slack",
+      "ReactJS",
+      "JQuery"
+    ],
+    "soft_skills": [],
+    "name": "Kartikey Tandon",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Flipkart GRiD 5.0: Level 1 Qualifier - among the top 7 teams to qualify from college | Certificate",
+      "2.0 Technothon 23: 2nd Runner Up - Team Axis 2.0 - Wabra Chat Analyzer",
+      "Blockverse 22: Winner - Team Wabra - A day long College Level Devthon",
+      "Sintax 22: 4th Rank - A college level Competitive Programming contest"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

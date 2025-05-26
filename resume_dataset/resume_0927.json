@@ -1,0 +1,170 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Devansh Sharma",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Alpha Batch Plus",
+        "issuer": "Apna College",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "A deep Dive into Data Structures and Algorithms using Java",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Operating Systems",
+        "issuer": "Red Hat Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL-Design and Analysis of Algorithms",
+        "issuer": "IIT Madras",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.TECH",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.4 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Montfort Sen. Sec. School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "79%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Montfort Sen. Sec. School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "91%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Traffic Management using V2I and Machine Learning",
+        "description": "Developed V2I traffic management system integrating machine learning for real-time analysis and optimization. Implemented adaptive traffic signal control algorithms based on ML predictions. Achieved reduced travel time, fuel consumption, and emissions through optimized traffic flow. Led multidisciplinary teams, ensuring successful project execution and collaborative innovation.",
+        "keywords": [
+          "Machine Learning",
+          "SQL",
+          "AWS"
+        ],
+        "endDate": "present",
+        "startDate": "01/2024",
+        "url": ""
+      },
+      {
+        "name": "Prediction of Biochar yield and composition via Pyrolysis of biomass",
+        "description": "Successfully predicted biochar yield utilizing a variety of machine learning algorithms, including Random Forest and Neural Networks, achieving an initial model accuracy of 98%. Enhanced model accuracy to 98.2% with Random Forest and 99.4% with Neural Networks through meticulous hyperparameter tuning, including the use of Grid Search CV. Conducted comprehensive analysis using RMSE and R-squared metrics, employing a range of Python libraries such as NumPy, pandas, and TensorFlow to ensure precise model evaluation and optimization.",
+        "keywords": [
+          "Machine Learning",
+          "Python",
+          "TensorFlow"
+        ],
+        "endDate": "03/2024",
+        "startDate": "01/2024",
+        "url": ""
+      },
+      {
+        "name": "Library Management System",
+        "description": "Developed an efficient SQL-based Library Management System, enhancing data management for books and members. Implemented advanced SQL queries, improving data integrity and scalability.",
+        "keywords": [
+          "SQL"
+        ],
+        "endDate": "06/2023",
+        "startDate": "05/2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Class Representative(CR)",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Manipal University Jaipur",
+        "description": "Represented the class in meetings with faculty and administration, ensuring student voices were heard. Acted as a liaison between students and faculty, addressing and resolving 15+ student concerns, facilitating communication for a more harmonious learning environment.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Human Resources Officer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "NGO",
+        "description": "Volunteered as the Human Resources Officer in an NGO, optimizing volunteer management. Led recruitment and onboarding processes, successfully bringing onboard 10+ new volunteers, and coordinated 15+ volunteer activities, demonstrating exceptional teamwork and organizational skills.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "Java",
+      "Python",
+      "Pandas",
+      "Numpy",
+      "Matplotlib"
+    ],
+    "soft_skills": [],
+    "name": "Devansh Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 2.0,
+  "degree": "B.TECH"
+}

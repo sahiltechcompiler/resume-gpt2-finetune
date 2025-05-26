@@ -1,0 +1,110 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Nitesh Choudhary",
+  "college": "National Institute Of Open Schooling",
+  "locations": [
+    "RAMT, WB"
+  ],
+  "full_output": {
+    "summary": "Im a recent graduate with a degree in Computer Applications and hands-on experience in Java, JavaScript, and web development. Im eager to start my career and bring my skills in programming and problem-solving to a new team.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute Of Open Schooling",
+        "endDate": "Jul 2024",
+        "maximum_grade": "",
+        "degree": "BCA",
+        "location": "RAMT, WB",
+        "ID": 0.0,
+        "grade_received": "7.9",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "National Institute Of Open Schooling",
+        "endDate": "Jun 2021",
+        "maximum_grade": "",
+        "degree": "12th Grade",
+        "location": "RAMT, WB",
+        "ID": 1.0,
+        "grade_received": "7.3",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-COMMERCE",
+        "description": "Developed a Spring Boot project (version 3.2.0) that includes features for customer registration, purchasing items, and managing sellers. Designed and managed a MySQL database with 7 tables for efficient data storage and retrieval. Implemented design patterns like transformer and builder to ensure clean and maintainable code, promoting code reuse and readability.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "MySql",
+          "JPA",
+          "JDBC",
+          "Hibernate"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Course Mania",
+        "description": "Built a course management system with Java, Spring Boot, and MySQL, making data entry easier and reducing manual work. Designed a solid system using Hibernate, JPA, and JDBC, making sure it can handle growth and stay stable. Tested the system with Postman to check reliability, ensuring most API responses worked well.",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "Maven",
+          "Hibernate",
+          "JPA",
+          "JDBC",
+          "MySQL",
+          "Postman"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "N Queens Visualizer",
+        "description": "The n-queens puzzle is the problem of placing N queens on an N x N chessboard. No 2 queens attack each other. Given an integer N(user input), we will show all distinct solutions to the N-queens puzzle.",
+        "keywords": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Visualisation",
+          "chess-queens",
+          "Data-Structure"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "HTML/CSS",
+      "SQL",
+      "Spring Boot",
+      "GitHub",
+      "VS Code",
+      "IntelliJ Idea",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "Nitesh Choudhary",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "BCA"
+}

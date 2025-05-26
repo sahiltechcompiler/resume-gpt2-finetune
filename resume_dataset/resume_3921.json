@@ -1,0 +1,144 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Punit Gupta",
+  "college": "Maharaja Agarsen Institute Of Technology",
+  "locations": [
+    "New Delhi",
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Bootcamp",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures & Algorithms",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agarsen Institute Of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "New Delhi",
+        "ID": 0.0,
+        "grade_received": "CGPA- 9.208",
+        "field_of_study": "CST",
+        "startDate": "2021"
+      },
+      {
+        "school": "National Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "84.5%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "StudyNotion",
+        "description": "Developed a comprehensive EdTech platform enabling seamless course purchasing and consumption. Designed an engaging user interface using ReactJS, ensuring a dynamic and responsive experience. Built a robust backend with NodeJS and ExpressJS, featuring secure APIs for user authentication and course management. Integrated Razorpay for secure payment processing and Cloudinary for efficient media management. Utilized MongoDB and Mongoose for scalable data storage, enhancing platform performance and reliability.",
+        "keywords": [
+          "ReactJS",
+          "Tailwind",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Bcrypt",
+          "JWT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "File Uploader",
+        "description": "Implemented backend functionality for image and video uploads, leveraging Cloudinary for efficient cloud storage and management. Developed APIs with NodeJS and ExpressJS to handle file uploads, including validation for supported file types and size reduction for images. Enabled secure and streamlined media uploads and retrieval, ensuring a reliable and user-friendly experience.",
+        "keywords": [
+          "Cloudinary",
+          "MongoDB",
+          "Node.js",
+          "Express.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "MediaTube",
+        "description": "Developed a fully functional video-sharing website using React, HTML, CSS, and JavaScript. Implemented API integration to fetch and display video content. Designed and optimized the user interface for a seamless and engaging user experience. Ensured responsiveness and cross-browser compatibility for a wide range of devices.",
+        "keywords": [
+          "React",
+          "HTML",
+          "Tailwind",
+          "RapidApi",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "iHub Anubhuti-IIITD Foundation",
+        "description": "Elevated user experiences by creating captivating front-end designs. worked on ihub Anubhutti Website using WordPress. Designed & Developed various comprehensive & pixel-to-pixel responsive projects.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "July 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "SQL",
+      "HTML/CSS",
+      "C++",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Git",
+      "VS Code",
+      "Postman",
+      "RapidApi",
+      "WordPress",
+      "Tailwind CSS",
+      "Axios",
+      "Bcrypt",
+      "React Router"
+    ],
+    "soft_skills": [],
+    "name": "Punit Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

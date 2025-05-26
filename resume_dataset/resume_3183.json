@@ -1,0 +1,163 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Nishanth J",
+  "college": "Chennai Institute of Technology",
+  "locations": [
+    "Chennai, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Intro to Cybersecurity & Cybersecurity Essentials",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Robotic Process Automation (RPA)",
+        "issuer": "UiPath",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Machine Learning",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA 1 & CCNA 2 crash course",
+        "issuer": "CISCO",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "B.E",
+        "location": "Chennai, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.10 / 10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Staff Allocation Automator",
+        "description": "Produced automated and optimized staff allocation during examination periods, ensuring fair and effective distribution of responsibilities based on user requirements and resulting in 90% increase in efficiency in allocation.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PostgreSQL",
+          "Python (logic script)"
+        ],
+        "endDate": "Dec 2022",
+        "startDate": "",
+        "url": "https://staffalloc-server.vercel.app/"
+      },
+      {
+        "name": "Real world Object Detection",
+        "description": "Composed a real-world object detection project using deep learning and led it on a Raspberry Pi for hardware. Utilized Convolutional Neural Networks (CNNs) trained on extensive datasets to automatically identify and localize objects within images or video streams in real-time, and converts achieving object detection accuracy by 70%.",
+        "keywords": [],
+        "endDate": "Apr 2023",
+        "startDate": "",
+        "url": "https://github.com/nxshanth13/Object-detection"
+      },
+      {
+        "name": "Scan hub QR",
+        "description": "Generated an Info Services app offering an emergency QR code system to provide vital information quickly during emergencies. QR codes can be placed on items like wallet cards, phone cases, or smartphone lock screens for easy access by first responders or anyone in need boosting user engagement by 40%.",
+        "keywords": [
+          "MERN stack"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": "https://scanhubgenweb.vercel.app/"
+      },
+      {
+        "name": "Tech Nex",
+        "description": "Engineered a test portal for college placements, providing resources and enabling students to take mock tests interviews in the style of companies they're applying to and robust monitoring and security measures, achieving a 0% cheat rate. Currently developing another version for GATE examination preparation, including mock tests and practice exams and Question bank resources.",
+        "keywords": [
+          "React",
+          "Express",
+          "MySQL"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": "https://github.com/nxshanth13/TechNex"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "WEB DEVELOPER INTERN",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Django",
+          "PostgreSQL"
+        ],
+        "endDate": "Nov 2023",
+        "company_name": "Global Tech Engineering Services Pvt Ltd.",
+        "description": "Developed a popular online platform showcasing unique products. Led frontend development, focusing on UI/UX design with HTML, CSS, and JavaScript. Engineered backend infrastructure using Django and PostgreSQL, optimizing database queries, which resulted in a 40% faster loading time for web pages and decreased bounce rate by 25%.",
+        "location": "Chennai, India",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Python",
+      "Java (OOPs)",
+      "React.js",
+      "Express",
+      "ReactNative",
+      "Node.js",
+      "Django",
+      "HTML5",
+      "CSS",
+      "Tailwind CSS",
+      "Bootstrap",
+      "MongoDB",
+      "MySQL",
+      "Vercel",
+      "Figma",
+      "WordPress",
+      "Docker",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "Nishanth J",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Improving the Rate of Facial Emotion Recognition using CNN based Attention Capsule Networks. Nov 2023 Nishanth J, R Janarthanan Conference: International Conference on Data science, Agents & Artificial Intelligence (IEEE)"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.E"
+}

@@ -1,0 +1,125 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Souradeep Ghosh",
+  "college": "Narula Institute of Technology",
+  "locations": [
+    "West Bengal",
+    "India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Narula Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "West Bengal",
+        "ID": 0.0,
+        "grade_received": "7.9/10 (upto 5th sem)",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ECOMZY",
+        "description": "Utilizing ReactJS for dynamic and responsive user interface development. Upon tapping add to cart, a pop-up screen confirms successful addition and remove to cart as well.",
+        "keywords": [
+          "React.JS",
+          "Redux"
+        ],
+        "endDate": "2021",
+        "startDate": "2019",
+        "url": "Live Link"
+      },
+      {
+        "name": "MOVIX",
+        "description": "MOVIX offers users an extensive platform to explore movies and TV shows seamlessly. Utilizing React and Redux, the application provides a dynamic user interface. Delve into the intricate details of each movie or TV show with MOVIX. Leveraging the TMDB API, users can access comprehensive information such as directors, writers, release dates, and runtimes, enriching their viewing experience.",
+        "keywords": [
+          "React.JS",
+          "Redux",
+          "SCSS"
+        ],
+        "endDate": "2021",
+        "startDate": "2019",
+        "url": "Live Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Internship",
+        "skillsUsed": [
+          "JavaScript"
+        ],
+        "endDate": "June. 2023",
+        "company_name": "Oasis Infobyte",
+        "description": "Assisted in the implementation of responsive and visually appealing user interfaces. Contributed to the frontend logic by writing JavaScript code to enhance user interactivity. Ensured the websites responsiveness across various devices and screen sizes, making it user-friendly.",
+        "location": "India",
+        "links": "",
+        "startDate": "May. 2023"
+      },
+      {
+        "role_name": "Open Source Contribution",
+        "skillsUsed": [],
+        "endDate": "Feb. 2024",
+        "company_name": "Social Winter of Code",
+        "description": "Identified and resolved bugs within the codebase, ensuring smoother operation and enhanced user experience. Proficient in creating, managing, and merging pull requests, facilitating seamless collaboration within the open-source community.",
+        "location": "India",
+        "links": "",
+        "startDate": "Jan. 2024"
+      },
+      {
+        "role_name": "Open Source Contribution",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Girls Script",
+        "description": "Identified and resolved bugs within the codebase, ensuring smoother operation and enhanced user experience. Proficient in creating, managing, and merging pull requests, facilitating seamless collaboration within the open-source community.",
+        "location": "India",
+        "links": "",
+        "startDate": "May. 2024"
+      }
+    ],
+    "skills": [
+      "C++ STL",
+      "ReactJs",
+      "C/C++",
+      "Python",
+      "Javascript",
+      "HTML",
+      "VScode",
+      "Git",
+      "Github",
+      "ExpressJs",
+      "MongoDb",
+      "Postman",
+      "Nodejs"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Self-learning",
+      "Presentation",
+      "Adaptability"
+    ],
+    "name": "Souradeep Ghosh",
+    "position": "",
+    "interests": [
+      "Web Design and Development",
+      "Backend Development"
+    ],
+    "achievements_and_awards": [
+      "Solved more than 800+ DSA questions on different coding platform.",
+      "25th rank among 2100+ College-Mates on Geeksforgeeks.",
+      "Selected in Hackathon in top 50 teams, where applied 900 teams in different colleges. (Hack4Bengal2.0)"
+    ],
+    "publications": []
+  },
+  "current_location": "India",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

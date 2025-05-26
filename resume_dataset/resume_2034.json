@@ -1,0 +1,138 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aditya Roll No.: 20216028",
+  "college": "Motilal Nehru National Institute of Technology Allahabad",
+  "locations": [
+    "Prayagraj",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Motilal Nehru National Institute of Technology Allahabad",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Prayagraj",
+        "ID": 0.0,
+        "grade_received": "7.63",
+        "field_of_study": "Production and Industrial Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School SAIL Township",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.6",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Assembly of God Church School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "91",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce Customer Segmentation using K-Means Clustering",
+        "description": "Segmented customers of an E-commerce platform based on their purchasing behaviour to improve customer satisfaction. Collected and preprocessed customer data to apply K-means clustering, determining clusters using Elbow Method and Silhouette Score. Examined segments to provide insights for personalised marketing strategies.",
+        "keywords": [
+          "Python",
+          "Jupyter Notebook"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Pizza Sales Analysis and Visualisation",
+        "description": "Analysed and visualised pizza sales data to uncover trends, optimise inventory, and enhance decision making. It is a data analysis and visualisation initiative focused on the analysis and visualisation of sales data from a fictional pizza restaurant chain. SQL is utilised for data extraction and transformation, while Power BI is employed for data visualisation. The projects goal is to provide insights to assist in improving sales, optimising operations, and enhancing customer satisfaction for the pizza restaurant chain.",
+        "keywords": [
+          "Power BI",
+          "SQL"
+        ],
+        "endDate": "July 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Customer Feedback Analysis",
+        "description": "Evaluated customer feedback and identified key areas of improvement. Built a sentiment analysis tool to assess and analyze large volumes of customer feedback, and help prioritize areas for improvement for Happay.",
+        "keywords": [
+          "Python",
+          "Jupyter Notebook"
+        ],
+        "endDate": "December 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Remote Sales Internship",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "CavinKare",
+        "description": "Market research and Analysis: Conducted research to understand the needs and preferences of the target audience, identify trends, and analysed the effectiveness of current strategies. Data Analysis: Inspected sales data to identify patterns, trends, and opportunities for improvement. Prepared reports and presentations based on findings.",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Social Sector Marketing Internship",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Pawzz",
+        "description": "Campaign Management: Assisted in planning, executing, and monitoring marketing campaign aimed at raising awareness and promoting the organisations initiatives and programs.",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "SQL",
+      "Basic Python(Numpy, Pandas, Matplotlib, Seaborn)",
+      "Power BI",
+      "MySql Workbench",
+      "Jupyter Notebook"
+    ],
+    "soft_skills": [
+      "Quick Learner",
+      "Active Listener",
+      "Time management"
+    ],
+    "name": "Aditya Roll No.: 20216028",
+    "position": "",
+    "interests": [
+      "Data Base Management System",
+      "Supply Chain Management",
+      "Market Research and Analysis",
+      "Predictive Analytics"
+    ],
+    "achievements_and_awards": [
+      "Achieved First Rank in Automax, an event organised under Avishkar(Technical fest of MNNIT)",
+      "Achieved Second Rank in Survivor Series, a quiz event organised under Avishkar",
+      "Achieved Second Rank in Trading Strategist, a trading event organised under Avishkar"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

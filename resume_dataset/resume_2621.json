@@ -1,0 +1,143 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Ishani Sangal",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Noida, India",
+    "Jaipur, India",
+    "Gurugram, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Generative AI",
+        "issuer": "Walmart Converge",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Large Language Models",
+        "issuer": "Walmart Converge",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analytics",
+        "issuer": "Walmart Converge",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "Walmart Converge",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lotus Valley International School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Noida, India",
+        "ID": 0.0,
+        "grade_received": "96/100",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, India",
+        "ID": 1.0,
+        "grade_received": "CGPA - 8.34",
+        "field_of_study": "Computer science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "RAG Chatbot",
+        "description": "Developed a web application using Flask. Integrated OpenAI API using LangChain for context based response. Used ChromaDB to store Data objects and Embeddings. Added functionality of URL based input and voice recognition.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "ChromaDB",
+          "OpenAI API",
+          "Embeddings",
+          "Vectorstores"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Monet Style Transfer using CycleGAN",
+        "description": "Used Tensorflow to construct the layers, normalization and activation functions. Keras integrated with Tensorflow handles training process with optimizers. Performs unpaired image to image translation.",
+        "keywords": [
+          "Python",
+          "CycleGAN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "AbsolutData, An Infogain Company",
+        "description": "Worked on Data Analytics using PySpark for Retail Ops dataset. Implemented Exploratory Data Analytics.",
+        "location": "Noida, India",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "XR Central",
+        "description": "Developed a RAG Chatbot Model using Flask, LangChain, ChromaDB in Python. Explored various fields in Generative AI. Explored various prevailing AI Models and their documentation.",
+        "location": "Gurugram, India",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Ishani Sangal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Noida, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

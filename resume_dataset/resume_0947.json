@@ -1,0 +1,142 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Malika Garg",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, UP",
+    "Hapur, UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "LabVIEW CORE I And II",
+        "issuer": "AKGEC-NI LABVIEW ACADEMY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Additive Manufacturing (3D Printing)",
+        "issuer": "National Skill Development Corporation (NSDC), FABLAB (AKGEC)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CS50 - Introduction To Computer Science",
+        "issuer": "edX (Harvard University)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Django Web Framework",
+        "issuer": "Coursera (Meta)",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, UP",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Dewan Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Hapur, UP",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "JustAsk- Search Engine",
+        "description": "Just Ask: A Python and Django-based search engine. Employs web scraping techniques to gather links and text from various search engines. Seamlessly aggregates data from multiple sources and Delivers search results promptly on a single webpage for convenience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "StockPulse",
+        "description": "StockPulse is a stock monitoring app that allows users to track the latest stock trends, manage their watchlist with CRUD operations, although the stock data is not real-time.",
+        "keywords": [
+          "Python",
+          "Django",
+          "React",
+          "TypeScript",
+          "Material UI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Coordinator",
+        "skillsUsed": [
+          "Leadership",
+          "Teamwork",
+          "Time Management",
+          "Adaptability"
+        ],
+        "endDate": "",
+        "company_name": "SPEED -TIFAC CORE, AKGEC",
+        "description": "Organized workshops, seminars, and competitions to promote engineering education and development. Engaged with industry experts and academia to enhance learning opportunities for students. Volunteered in convocation ceremonies to assist with logistical arrangements and guest coordination. Demonstrated leadership skills and teamwork in various roles to achieve organizational goal.",
+        "location": "Ghaziabad",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "Django",
+      "Django Rest Framework",
+      "PostgreSQL",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Leadership",
+      "Teamwork",
+      "Adaptability"
+    ],
+    "name": "Malika Garg",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,113 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Harsh Kumar",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Gr. Noida",
+    "Bihar"
+  ],
+  "full_output": {
+    "summary": "Ambitious junior at NIET pursuing B.Tech in Computer Science and Engineering, I specialize in web development and design. Proficient in creating dynamic, responsive websites using advanced frontend technologies, including JavaScript and React. Strong problem-solving abilities, dedicated to continuous learning and innovation in web technologies.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "Gr. Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering in Data Science",
+        "startDate": ""
+      },
+      {
+        "school": "GEMS Polytechnic College",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Electrical Engineering",
+        "location": "Bihar",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Temperature Convertor Application",
+        "description": "Developed a user interface for temperature conversion, incorporating input fields, trigger conversion. Displayed converted temperature values in a visually clear, appealing format with responsive design.",
+        "keywords": [
+          "Java",
+          "XML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image Caption Generator using Deep Learning",
+        "description": "Implemented an image caption generator utilizing deep learning, employing Convolutional Neural Networks (CNNs) for image feature extraction and Long Short-Term Memory networks (LSTMs) for sequentially caption generation.",
+        "keywords": [
+          "CNN",
+          "LSTMs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "Oct 2023",
+        "company_name": "The Sparks Foundation",
+        "description": "Used Python and Machine Learning Algorithm to complete the specified projects using datasets from kaggle. The Specified projects were:- Titanic Survival Prediction and Credit Card Fraud Detection.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [
+          "Python",
+          "Machine Learning",
+          "Clustering Algorithms"
+        ],
+        "endDate": "Aug 2024",
+        "company_name": "Celebal Technology",
+        "description": "Used Python libraries and Machine Learning Algorithms to complete the specified projects using provided datasets from team. Applying clustering algorithms like Latent Dirichlet Allocation (LDA) or K-means to group similar documents together for topic modeling and understanding large text corpora.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "HTML",
+      "SQL",
+      "CSS",
+      "PYTHON",
+      "NoSql",
+      "R"
+    ],
+    "soft_skills": [],
+    "name": "Harsh Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Greater Noida,Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Btech"
+}

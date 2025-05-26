@@ -1,0 +1,116 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Chenchali Tarun Kumar",
+  "college": "Indian Institute of Information Technology Bhagalpur",
+  "locations": [
+    "Bhagalpur, Bihar",
+    "Visakhapatnam",
+    "Narsannapeta"
+  ],
+  "full_output": {
+    "summary": "To make use of my interpersonal skills to achieve goals of a company that focuses on customer satisfaction and customer experience.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Gained in-depth knowledge of various data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables. Developed skills in algorithm design and analysis, including sorting and searching algorithms, dynamic programming, and graph algorithms. Implemented and optimized data structures and algorithms in C++.",
+        "skillsLearned": [],
+        "title": "Data structures and algorithms",
+        "issuer": "IIIT Bhagalpur",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology Bhagalpur",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Bhagalpur, Bihar",
+        "ID": 0.0,
+        "grade_received": "CGPA : 7.67",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Pandiit Junior college",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Visakhapatnam",
+        "ID": 1.0,
+        "grade_received": "CGPA : 9.46",
+        "field_of_study": "Stream: MPC",
+        "startDate": ""
+      },
+      {
+        "school": "S T Claret E.M High School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Narsannapeta",
+        "ID": 2.0,
+        "grade_received": "CGPA : 9.80",
+        "field_of_study": "State Board of Andhra Pradesh",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "File Management System",
+        "description": "The Mini Linux Terminal significantly accelerates file management tasks, with users experiencing up to a 40 percent reduction in time spent on common operations compared to traditional graphical interfaces. The Mini Linux Terminal ensures accurate execution of file operations, achieving a 99.9 percent success rate in file creation, deletion, and modification tasks. This project includes more than 10 commands that mimic essential functions found in the Linux file system. An operating system relies on a structured file system where data is stored in folders and their subfolders. This system typically comprises thousands of directories and subdirectories, providing a hierarchical organization for efficient data storage and retrieval.",
+        "keywords": [
+          "C++",
+          "DSA"
+        ],
+        "endDate": "June 2023",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Malware Detection",
+        "description": "This project leads the way in automated malware detection by utilizing a Python-scripted dataset that includes a collection of infected and clean executables, totaling over 10,000 samples. Employing a combined LSTM and GRU deep learning model, it achieves an outstanding 99 percent accuracy. This project uses new ways to quickly find and remove harmful software, making cybersecurity better. It detects 99.9 percent of threats and cuts removal time by 50 percent. Its a big step forward in keeping computers safe.",
+        "keywords": [
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "endDate": "June 2024",
+        "startDate": "January 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "Java",
+      "SQL",
+      "Data Structures",
+      "Algorithms",
+      "DBMS",
+      "OOPS",
+      "VS Code",
+      "Power BI",
+      "Tableau",
+      "Linux",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Chenchali Tarun Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved a maximum rating of 3 stars on CodeChef.",
+      "Gold Medalist - Received gold medal in individual and team volleyball tournaments organized under Udyatva23, the sports fest of IIIT Bhagalpur."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

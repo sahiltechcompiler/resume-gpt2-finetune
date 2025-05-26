@@ -1,0 +1,120 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Gopala krishna Parimi",
+  "college": "SRM University AP",
+  "locations": [
+    "Guntur, Andhra Pradesh, INDIA"
+  ],
+  "full_output": {
+    "summary": "Proficient multitasker with an exceptional work ethic and outstanding collaboration, problem-solving, and organizational abilities. I am consistently eager to assume extra responsibilities to accomplish team objectives. As a dependable and committed team player, I tackle every task with diligence and ingenuity.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.36/10.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "NRI Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Laurels EM School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Marks: 917/1000 (CGPA: 9.8/10.0)",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Shared Wheels - A Carpooling site",
+        "description": "Developed a carpooling webpage to connect commuters for shared rides, reducing travel costs and environmental impact. Implemented features like ride matching, user profiles, and scheduling, enabling users to plan and organize trips in advance. Enhanced user experience by innovative solutions to promote efficient carpooling.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Jan 2024",
+        "url": ""
+      },
+      {
+        "name": "Fake Review Detection",
+        "description": "Developed a model using BERT and BiLSTM to detect fake reviews with high precision. Performed data analysis, preprocessing, and feature engineering to improve model accuracy. Trained and fine-tuned the model, achieving a 90.5% accuracy in distinguishing between fake and genuine reviews.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "Voice Assistant",
+        "description": "Developed a voice assistant to recognize and respond to user commands using speech recognition technology. Integrated Python libraries for voice recognition, natural language processing, and text-to-speech functionality. Created a system that delivers accurate responses to user commands through efficient speech processing.",
+        "keywords": [],
+        "endDate": "Dec 2022",
+        "startDate": "Aug 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analysis using Python Intern",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "APSSDC",
+        "description": "Developed a model to analyze car manufacturing data, performed exploratory data analysis, and applied machine learning algorithms to enhance car recommendations based on user specifications and budget. Optimized the model to deliver precise and tailored recommendations for users.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Salesforce Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Jun 2024",
+        "company_name": "SmartBridge",
+        "description": "Proposed custom applications with Apex and Lightning Web Components, improving functionality on the Salesforce platform.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "MERN-Stack",
+      "MongoDB",
+      "MySQL",
+      "VS Code",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Gopala krishna Parimi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Guntur, Andhra Pradesh, INDIA",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

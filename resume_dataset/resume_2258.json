@@ -1,0 +1,150 @@
+{
+  "project_count": 3.0,
+  "designation": "Entry-level position",
+  "name": "Shweta Gupta",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Uttarakhand",
+    "Online"
+  ],
+  "full_output": {
+    "summary": "Passionate and curious programmer eager to secure an entry-level position with a reputable organization. Dedicated to leveraging my technical skills to contribute effectively while fostering continuous learning and growth within the industry.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Javascript Essentials",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning Foundations",
+        "issuer": "University of Washington",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "84.3%",
+        "field_of_study": "Computer Science Engineering with AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Peters Sr. Sec. School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St. Peters Sr. Sec. School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "94.4%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Digit Recognition",
+        "description": "Developed an artificial neural network classifier for recognizing handwritten digits which was trained and tested using MNIST dataset giving 98% accuracy.",
+        "keywords": [],
+        "endDate": "Apr, 2023",
+        "startDate": "Mar, 2023",
+        "url": ""
+      },
+      {
+        "name": "Travelling Website",
+        "description": "Developed a fully functional front-end for a travel website, showcasing intuitive design and seamless user experience.",
+        "keywords": [],
+        "endDate": "Nov, 2023",
+        "startDate": "Oct, 2023",
+        "url": ""
+      },
+      {
+        "name": "Skin Disease Identification",
+        "description": "Developed and integrated a CNN-based skin disease identification model with a website interface, allowing users to upload photos for automated diagnosis and view results.",
+        "keywords": [],
+        "endDate": "Apr, 2024",
+        "startDate": "Mar, 2024",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English [Fluent]",
+      "Hindi [Native]",
+      "French [Learning]"
+    ],
+    "experiences": [
+      {
+        "role_name": "Developer",
+        "skillsUsed": [],
+        "endDate": "August 2022",
+        "company_name": "SUVEN CONSULTANTS PVT. LTD",
+        "description": "Developed chatbots for various small scaled businesses, achieving an average customer satisfaction rating of 4.5 out of 5. Created a chatbot for an Online Food Ordering Application using Google Dialogflow, resulting in a 30 % increase in order accuracy and a 20 % reduction in customer support inquiries. Created a chatbot for a Diagnostic Center using Google Dialogflow, improving appointment scheduling efficiency by 50% and reducing waiting times for customers by 40%.",
+        "location": "Online",
+        "links": "",
+        "startDate": "July 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "React.js",
+      "SQL",
+      "MySQL",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "AI",
+      "Machine learning"
+    ],
+    "soft_skills": [
+      "Professional speaking skills",
+      "Problem Solving",
+      "DSA",
+      "Creative Problem-Solving",
+      "Adaptability"
+    ],
+    "name": "Shweta Gupta",
+    "position": "Entry-level position",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Uttarakhand",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,153 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Gaurav Shukla",
+  "college": "Mumbai University, Lokmanya Tilak College of Engineering",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "AWS Academy Cloud Foundations",
+        "skillsLearned": [],
+        "title": "AWS ACADEMY GRADUATE",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Object Oriented Programming in C++",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Mumbai University, Lokmanya Tilak College of Engineering",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.8 CGPA",
+        "field_of_study": "Computer Science (Artificial Intelligence and Machine Learning)",
+        "startDate": ""
+      },
+      {
+        "school": "Maharashtra State Board of Technical Education, Muchhala College Polytechnic",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "75 Percentage",
+        "field_of_study": "Computer Engineering",
+        "startDate": "Aug 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "LTCE Connect Application",
+        "description": "Designed and developed an application to resolve student connectivity issues. Implemented this project in Android Studio, utilizing Kotlin and XML for Frontend and SQLite for Backend.",
+        "keywords": [
+          "KOTLIN",
+          "SQLITE",
+          "ANDROID STUDIO"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Car Rental Portal",
+        "description": "We make a website for booking the car for rent on an hour or day basis. We make this project with the help of HTML/CSS for Frontend php and Sql for Backend. We keep track record of user data in this portal.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "PHP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Expense Tracker Application",
+        "description": "Designed and developed an application for tracking personal expenses. Implemented this project in Android studio and written in Kotlin, XML, and MySQL A user-friendly interface for easy expense management.",
+        "keywords": [
+          "KOTLIN",
+          "XML",
+          "MYSQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "IOT based Smart Hospital Management System",
+        "description": "Designed and implemented an IoT-based system to manage and control hospital appliances remotely via a smartphone application. Utilized Flutter and Dart for front-end development and Firebase for real-time database management and user authentication. Leveraged ESP32 microcontroller with integrated Wi-Fi, programmed using Arduino IDE for efficient and cost-effective control of hospital devices. Developed a customizable GUI in Android Studio, enabling real-time monitoring and control of electrical devices, improving operational efficiency and patient care.",
+        "keywords": [
+          "FLUTTER",
+          "FIREBASE",
+          "ESP32",
+          "ARDUINO"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "December 2023",
+        "company_name": "JP Morgan Chase",
+        "description": "Set up a local development environment by downloading the necessary files, tools, and dependencies. Fixed broken files in the repository to make web application output correctly. Used JP Morgan Chases open-source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Python Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2020",
+        "company_name": "Jeet Techno Solutions LLP",
+        "description": "During my 4-week internship at Jeet Techno Solutions, I immersed myself in a comprehensive program focused on Python programming language. Under the guidance of experienced mentors, I delved into various aspects of Python, gaining hands-on experience in both fundamental concepts and advanced techniques.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2020"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "XML",
+      "JavaScript",
+      "SQL",
+      "NodeJs",
+      "ReactJs",
+      "Dart"
+    ],
+    "soft_skills": [],
+    "name": "Gaurav Shukla",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Wagle Estate Thane(W),400604,Maharashtra",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Engineering"
+}

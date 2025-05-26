@@ -1,0 +1,186 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Mahesh Kunchala",
+  "college": "SRM University",
+  "locations": [
+    "AP",
+    "Vijayawada"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS - Cloud Computing",
+        "issuer": "APSSDC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Specialization",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C++ Programming",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.64/10.0",
+        "field_of_study": "CSE (AI/ML)",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2021",
+        "maximum_grade": "1000",
+        "degree": "Class 12th",
+        "location": "Vijayawada",
+        "ID": 1.0,
+        "grade_received": "Marks: 949/1000",
+        "field_of_study": "MPC",
+        "startDate": "2019"
+      },
+      {
+        "school": "Krishna Chaitanya School",
+        "endDate": "2019",
+        "maximum_grade": "10.0",
+        "degree": "Class 10th",
+        "location": "Vijayawada",
+        "ID": 2.0,
+        "grade_received": "GPA: 9.8/10.0",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "BlogVerse Live",
+        "description": "Developed a blog website featuring a dynamic home page with animations that displays trending and top-rated posts, resulting in a 40% increase in user engagement. Enabled comprehensive CRUD operations for blog posts, including creation, reading, updating, and deletion. Integrated upvote and downvote features, enhancing user interaction by 30%.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "TaskMaster Live",
+        "description": "Developed a task management system with features like task creation, editing, deletion, and categorization, leading to a 30% boost in user productivity. Increased user interaction by 25% through task categorization (due, overdue, completed), secure authentication, and responsive design using React-Bootstrap.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "Developed a responsive e-commerce platform featuring integrated order management and cart functionality, which significantly improved user experience and operational efficiency.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "HTML",
+          "CSS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Alexa Music Playlist Skill",
+        "description": "Utilized AWS Lambda for serverless execution, S3 for audio storage, RDS for playlist data management, and EC2 for scalable backend processing. Users can create/delete the playlists, add the songs to a specific playlist.",
+        "keywords": [
+          "AWS Lambda",
+          "S3",
+          "RDS",
+          "EC2",
+          "Python",
+          "Amazon Developer Console"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Bootstrap",
+      "React-Bootstrap",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "C++",
+      "C",
+      "Python",
+      "JavaScript",
+      "HTML/CSS",
+      "SQL",
+      "AWS",
+      "VS Code",
+      "Git",
+      "Github",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "Mahesh Kunchala",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 700+ problems | Max Rating - 1757 | Best Contest Rank - 2695 / 27523",
+      "Solved 250+ problems | 3 Star Rating | Max Rating - 1657 | 50+ Contests",
+      "Solved 70+ problems | Max Rating - 1156 | 20+ Contests",
+      "Solved 350+ problems | Top 15 Institute Rank | Coding Score - 1000+"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

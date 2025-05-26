@@ -1,0 +1,148 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "AYUSH KANT",
+  "college": "Noida Institute Of Engineering And Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundations",
+        "issuer": "",
+        "certiLink": "(Link)"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute Of Engineering And Technology",
+        "endDate": "Jul. 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.56",
+        "field_of_study": "Information Technology",
+        "startDate": "Nov. 2021"
+      },
+      {
+        "school": "Sushant Public School",
+        "endDate": "Jul. 2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "80",
+        "field_of_study": "PCM",
+        "startDate": ""
+      },
+      {
+        "school": "D.A.V. Public School",
+        "endDate": "Apr. 2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "83",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Movie Revenue Prediction",
+        "description": "Developed a Random Forest Regression model to predict movie revenue, leveraging its ability to manage complex datasets and improve prediction accuracy. Improved decision-making by identifying key factors affecting movie revenue through thorough data analysis.",
+        "keywords": [
+          "Knime",
+          "Data Analytics",
+          "Machine Learning"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": "github"
+      },
+      {
+        "name": "ERP Management System",
+        "description": "Implemented core functionalities such as user login, attendance tracking, faculty, and student data management, and result display on the site. Worked with a team to design and create a reliable and user-friendly system to improve administrative efficiency. Deployed and managed the application database on a XAMPP server, by learning both XAMPP and PHP.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "VS Code"
+        ],
+        "endDate": "Nov. 2023",
+        "startDate": "",
+        "url": "github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [
+          "Microsoft Azure"
+        ],
+        "endDate": "Aug. 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Done comprehensive training on various technical modules provided by the company, and gained valuable hands-on experience with Microsoft Azure. Primary focus was on leveraging Microsoft Azure to create, deploy, and maintain secure cloud architectures. Implemented various cloud infrastructure tasks on Microsoft Azure, including the creation of Virtual Networks (VNET) and Virtual Machines (VMs). Developed a three-tier architecture and deployed it across multiple VMs, ensuring secure and efficient network operations using VNET peerings and network security groups.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Cloud AWS Intern",
+        "skillsUsed": [
+          "AWS Elastic Beanstalk",
+          "AWS EC2",
+          "AWS RDS"
+        ],
+        "endDate": "May 2024",
+        "company_name": "Techplement",
+        "description": "Managed application deployment using AWS Elastic Beanstalk, ensuring high availability and auto-scaling. Created and configured AWS EC2 instances to host the application, improving performance and reliability. Monitored and managed cloud resource usage to ensure efficient load balancing and cost-effective operations. Integrated AWS RDS for database management, optimizing data storage and retrieval. Collaborated with team members to resolve deployment issues, achieving successful project completion on time.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Dec. 2023",
+        "company_name": "Bharat Intern",
+        "description": "Developed a personal portfolio website using HTML and CSS and Created a replica of the Netflix home page using HTML and CSS, demonstrating proficiency in front-end development and attention to detail. Implemented the layout of the Netflix home page, integrating responsive design concepts to guarantee optimal display on diverse devices and screen resolutions.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov. 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "JavaScript",
+      "Python",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [],
+    "name": "AYUSH KANT",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated in GFG HackFest Conducted on 27th January 2024.",
+      "Authored and published a Desktop Voice Assistant project research paper."
+    ],
+    "publications": []
+  },
+  "current_location": "Noida, Uttar Pradesh(flexible)",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor Of Technology"
+}

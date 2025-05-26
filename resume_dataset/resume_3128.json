@@ -1,0 +1,154 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "NABIL AKHTAR",
+  "college": "Noida Institute of Engg & Technology",
+  "locations": [
+    "Greater Noida",
+    "New Delhi",
+    "Patna, Bihar"
+  ],
+  "full_output": {
+    "summary": "A B.Tech student with a passion for technology. Skilled in data analysis and cloud computing, I enjoy exploring insights from data and leveraging cloud platforms for scalable solutions. Eager to learn and innovate, I'm always seeking opportunities to expand my knowledge and contribute to exciting projects in the tech industry.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Visualization with Python",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Lakes & Warehouses",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Big Data",
+        "issuer": "INFOSYS",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engg & Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CS (Data Science)",
+        "startDate": "2022"
+      },
+      {
+        "school": "Jamia Millia Islamia University",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "computer engg",
+        "startDate": "2018"
+      },
+      {
+        "school": "DAV Public School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Patna, Bihar",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Exploratory Data Analysis on Walmart sales data",
+        "description": "Led EDA project, extracted actionable insights from Walmart sales data. Performed data cleaning, feature engineering, and statistical analysis. Created visually compelling reports to communicate findings.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Diabetes Prediction Model",
+        "description": "Developed a diabetes prediction model using machine learning. Implemented data preprocessing, feature selection, and model development. Achieved high prediction accuracy and documented results effectively.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Twitter Airflow Data Engineering Project",
+        "description": "Extracted Twitter data using Python's Tweepy API and transformed it for analysis. Deployed and managed the ETL workflow with Apache Airflow on an EC2 instance. Stored the processed data in an Amazon S3 bucket for scalable and secure access.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data analytics &Visualisation virtual intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "Accenture, North America(Remote)",
+        "description": "Assessed data quality and completeness. Conducted customer segmentation analysis using demographic data. Presented insights using Tableau and Excel.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "Data Visualization with Python",
+      "Data Lakes & Warehouses",
+      "Big Data",
+      "Python (Pandas, Numpy, Matplotlib, Seaborn)",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Tableau",
+      "Power BI",
+      "Google Cloud Platform",
+      "AWS",
+      "MS Excel",
+      "MS Word",
+      "PowerPoint",
+      "Figma",
+      "Adobe XD",
+      "Data cleaning",
+      "Data modeling",
+      "Presentation & preparation"
+    ],
+    "soft_skills": [
+      "Adaptable",
+      "Continuous & Adaptive Learner",
+      "Innovative",
+      "Problem solver"
+    ],
+    "name": "NABIL AKHTAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Btech"
+}

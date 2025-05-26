@@ -1,0 +1,128 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ritesh Jadhav",
+  "college": "SRM University AP",
+  "locations": [
+    "Vijayawada, Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.43 / 10.00",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "SRI Gayatri Jr College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Intermediate Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "PERCENTAGE: 88.1%",
+        "field_of_study": "MPC",
+        "startDate": ""
+      },
+      {
+        "school": "VPS Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Marks : 463/500",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Brain Tumor Detection Research Paper",
+        "description": "Utilizing object detection techniques in Matlab and Python for automated identification and analysis of brain tumors within medical imaging. Introduced a novel convolution-based hybrid model to improve brain tumor identification accuracy, comparing deep learning algorithms such as Inception V3, GoogleNet, and Vgg-19. Explored fusion techniques and transfer learning to enhance model performance, achieving significant improvements in accuracy and robustness.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Loan Prediction System",
+        "description": "Performed exploratory Data analysis on the dataset provided to us. Achieved accurate results by cleaning the dataset and utilizing decision tree algorithms for output generation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AdventureWorks Business Intelligence Dashboard",
+        "description": "Developed dynamic PowerBI dashboard showcasing sales, inventory, and customer data with interactive visualizations and drill-down capabilities. Efficiently extracted and transformed data using Power Query, establishing accurate data models for sales and inventory analysis. Overcame challenges by optimizing SQL queries and implementing user-driven design improvements, empowering stakeholders with actionable insights for strategic decision-making.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cyber Security Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Sep 2022",
+        "company_name": "TalaKunchi Networks",
+        "description": "Performed a Vulnerability Assessment on a provided sample operating system using Burp Suite. Authored three comprehensive Vulnerability Assessment reports outlining recommended changes to remediate the identified vulnerabilities.",
+        "location": "Vijayawada, Andhra Pradesh, India (Remote)",
+        "links": "",
+        "startDate": "Aug 2022"
+      },
+      {
+        "role_name": "Software Engineer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "City, State",
+        "description": "",
+        "location": "Vijayawada, Andhra Pradesh",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PowerBi",
+      "SQL",
+      "Machine learning",
+      "probability and Statistics",
+      "Natural Language Processing",
+      "Excel",
+      "Git",
+      "Visual Studio",
+      "Jupyter",
+      "MySql WorkBench",
+      "Matlab"
+    ],
+    "soft_skills": [],
+    "name": "Ritesh Jadhav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Vijayawada, Andhra Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Science"
+}

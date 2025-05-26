@@ -1,0 +1,151 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Radhika Gupta",
+  "college": "Noida Institute of Engineering & Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering & Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.45",
+        "field_of_study": "Computer Science & Engineering (AI & ML) with minor in Data Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "KV Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.4%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "KV Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "96.0%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sign Language Detection Model",
+        "description": "Developed a sign language detection model using YOLO algorithm. Worked upon American-Sign-Language-Letter-2 dataset to train the model. Model is working great with an accuracy of 93%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis on YouTube",
+        "description": "Worked with real-time review analysis to fetch a percentage of positive, negative, and neutral sentiments. Worked with Google API to fetch real-time data from youtube.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Parkinsons Disease Prediction Model",
+        "description": "Ideate and developed a model using Support Vector Machine model (SVM) to detect Parkinsons disease. Perform features selection over 24 features and word over 46K data points to perform data preprocessing. SVM achieves good accuracy of 87% in classifying patients correctly.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Machine Learning, Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "September, 2022",
+        "company_name": "Suven Consultants and Services",
+        "description": "Developed an e-commerce chatbot using Google Dialog Flow to order food and fulfill entire food ordering requirements independently. Conceptualized and developed 12 intents and 5 entities serving customers entire ordering journey with prompt solutions and answers.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Python Developer, Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "August, 2023",
+        "company_name": "Cloud Sync Systems",
+        "description": "Built a dynamic registration form using tkinter library of Python with the capability of storing each registration detail in a separate text file.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Data Science, Intern",
+        "skillsUsed": [],
+        "endDate": "June, 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Analyse a large customer dataset to provide customer churn prediction.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "SQL",
+      "NoSql",
+      "Regression model",
+      "Classification Model",
+      "SVM model",
+      "Recommendation model",
+      "Ridge & Lasso Regression",
+      "ANN",
+      "CNN",
+      "RNN",
+      "GRU",
+      "LSTM",
+      "Deep RNN",
+      "Deep LSTM",
+      "NLP",
+      "Auto-Encoder",
+      "DSA",
+      "Linear search",
+      "Binary search",
+      "Bubble sort",
+      "Insertion sort",
+      "Quick sort",
+      "Count sort",
+      "Radix sort"
+    ],
+    "soft_skills": [],
+    "name": "Radhika Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Participated in a 48-hour hackathon and worked on real-world problem. Developed a full-scale app based on sustainable development. Worked in a stressful environment and maintained team strength."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

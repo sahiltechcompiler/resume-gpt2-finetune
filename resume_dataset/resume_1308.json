@@ -1,0 +1,162 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Shivantika Tripathi",
+  "college": "Manipal University, Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University, Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.21",
+        "field_of_study": "Computer Science and Technology",
+        "startDate": ""
+      },
+      {
+        "school": "City Montessori School, Lucknow",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Loreto Convent Intermediate College, Lucknow",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "95.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Travelio: AI Trip Planner",
+        "description": "Currently working on an AI Trip planning platform with ability to generate personalized itineraries.",
+        "keywords": [
+          "Next.js",
+          "React.js",
+          "GeminiAI",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FinTrack: Finance Manager SaaS",
+        "description": "Finance SaaS Platform with ability to track income and expenses, categorize transactions and assign them to specific accounts.",
+        "keywords": [
+          "Next.js",
+          "React.js",
+          "Clerk Authentication",
+          "NeonDB"
+        ],
+        "endDate": "Present",
+        "startDate": "July. 2024",
+        "url": ""
+      },
+      {
+        "name": "Enhancing Fraud Detection in Mobile Payment Systems",
+        "description": "Co-Authored a conference paper accepted in the 1st edition of the International Conference on Data Science & Exploration in Artificial Intelligence, 2024 organised by MAHE and MIT Bengaluru. Explored the effectiveness of five machine learning models (Logistic Regression, Random Forest, Decision Tree, Nave Bayes, and XG Boost) for fraud detection in mobile payment systems. Random Forest emerged as the top performer with the highest accuracy(99.96%), recall(77.99%), precision(98.06%), and F1 score(86.88%).",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "May. 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Restaurant Review Sentiment Analysis",
+        "description": "Developed a sentiment analysis model for restaurant reviews using NLP techniques and machine learning algorithms, achieving 80% accuracy.",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "Dec. 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Lilah",
+        "description": "Team project for Hack It Up hackathon, earned Honorable Mention. Developed a Full Stack Web 2.0 based mental health wellness website which enables peer-to-peer communication and recommends suitable experts based on subscriptions. Learned how to use React and other JavaScript libraries in conjunction with backend databases.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "JavaScript",
+          "HTML/CSS",
+          "PHP",
+          "Bootstrap",
+          "Xampp",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "Apr. 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Creative Head",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "Humans of Manipal Jaipur Club",
+        "description": "Involved in the club centered around documenting peoples lives and worked as creative head managing social media, event management, interviews, and design. Volunteered for a fashion-based cultural event as a disciplinary committee member and event operations.",
+        "location": "",
+        "links": "",
+        "startDate": "2022"
+      },
+      {
+        "role_name": "Member",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "The Music Club",
+        "description": "Routinely participated in and won many singing competitions centered around Indian Classical/Bollywood Music.",
+        "location": "",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "Problem-Solving",
+      "Java",
+      "C",
+      "HTML/CSS",
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "LATEX"
+    ],
+    "soft_skills": [],
+    "name": "Shivantika Tripathi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans List (2x)",
+      "Finalist at Hack It Up hackathon by TECHIDEATE X IEEE (top 2% all over India)",
+      "Finalist at Hacks 8.0 hackathon by ACM Student Chapter (top 1% all over India)",
+      "scored 70/100 (top 5% all over India) in the NPTEL Design and Analysis of Algorithms Certification Exam",
+      "50 Days LeetCode Badge"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

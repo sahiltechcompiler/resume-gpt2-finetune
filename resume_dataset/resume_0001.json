@@ -1,0 +1,149 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "AYUSH SACHAN",
+  "college": "KIET Group of Institutions, Delhi - NCR, Ghaziabad",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions, Delhi - NCR, Ghaziabad",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.5/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Subhash Public School, Kanpur",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Resume Builder",
+        "description": "Developed a user-friendly and interactive resume builder website with robust data storage and retrieval capabilities. Leveraged React.js and Node.js to improve application responsiveness, achieved a remarkable 50% reduction in loading times. Incorporated real-time preview features, dynamic templates for exporting resumes in multiple formats.",
+        "keywords": [
+          "ReactJS",
+          "Chakra UI",
+          "CSS",
+          "Bootstrap",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "2023-01-22",
+        "startDate": "2023-01-20",
+        "url": "GitHub"
+      },
+      {
+        "name": "FilmFlix Suggester",
+        "description": "Created a movie review and suggestion application using React, providing users with a platform to discover movies. Add user authentication and authorization using OAuth 2.0, ensuring secure access to personal data. Increased user engagement by 50% through personalized movie recommendations, leading to extended session durations and improved user retention. Streamlined user experience by integrating external APIs (TMDB and IMDb), providing users with the latest movie data, including ratings, cast information, and genre details.",
+        "keywords": [],
+        "endDate": "2023-07-31",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Cloud-Based Note-Taking Application",
+        "description": "Built user-friendly note-taking application leveraging advanced technologies, achieving a 40% increase in user engagement and reduced syncing issues by 60% through seamless integration. Used real-time synchronization, reducing data conflicts by 95% and enhancing user experience. Spearheaded the implementation of React, Redux, Node.js, Express.js, MongoDB to revamp the frontend and backend architecture, resulting in a 40% improvement in website performance.",
+        "keywords": [],
+        "endDate": "2023-06-30",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [
+          "Javascript",
+          "React",
+          "Redux",
+          "Nodejs",
+          "MongoDB",
+          "Jira",
+          "Keep-React"
+        ],
+        "endDate": "present",
+        "company_name": "PROTUT",
+        "description": "Currently employed as a software engineer at startup, pioneering the development of cutting-edge tools. Overseeing the visual appeal and responsiveness of over 20+ website pages, while actively identifying and resolving 25+ bugs. Drive the development of cutting-edge web-based solutions using the MERN stack, demonstrating proficiency in modern web development technologies and frameworks. Orchestrated the creation of 10+ comprehensive website wireframes and workflows, optimizing project clarity and fostering team collaboration. Leveraged Jira for efficient task management, ensuring alignment with project objectives and timelines.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "Frontend Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "July 2023",
+        "company_name": "IBM",
+        "description": "Collaborated seamlessly with cross-functional teams to develop and maintain dynamic web applications, gaining valuable hands-on experience in crafting intuitive user interfaces and robust web solutions. Assisted in the design and implementation of user interfaces, ensured an exceptional user experience and seamless functionality by prioritizing intuitive design and efficient performance.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "SQL",
+      "NodeJs",
+      "Express",
+      "ReactJs",
+      "BootStrap",
+      "Material UI",
+      "Redux",
+      "NumPy",
+      "Pandas",
+      "Git",
+      "GitHub",
+      "Docker",
+      "Linux",
+      "MySQL",
+      "MongoDB",
+      "Rest API",
+      "Figma",
+      "Strapi",
+      "Heroku"
+    ],
+    "soft_skills": [],
+    "name": "AYUSH SACHAN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked 3-star on Codechef/ayushsachan123 Highest Rating 1715 (3-star) May 2024",
+      "Solved 1500+ Problems on Leetcode, geeksforgeeks and multiple other platforms. March 2024",
+      "Contributed to 5+ open source projects in GirlScript Summer of Code(GSSOC23) May 2023 - August 2023",
+      "2200+ contributions and streak of 400+ consecutive days of coding on GitHub/ayushsachan123 June 2023",
+      "Top-5 among 80+ teams PARTICIPATED in the HackOverflow Hackathon organized by IIT Jodhpur January 2023",
+      "Achieved 2nd place in competitive programming competition among 800+ Students in our college. November 2021"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

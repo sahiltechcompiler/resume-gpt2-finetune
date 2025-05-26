@@ -1,0 +1,174 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Tanisha Maurya",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Lucknow, Uttar Pradesh",
+    "Mau, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Essential 2",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Become a Full-Stack Web Developer",
+        "issuer": "Linkedin Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate",
+        "issuer": "AWS Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "Programming Pathshala",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction in SQL",
+        "issuer": "Simplilearn",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.9 CGPA",
+        "field_of_study": "CSIT",
+        "startDate": ""
+      },
+      {
+        "school": "Lucknow Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90.4 percent",
+        "field_of_study": "Science",
+        "startDate": ""
+      },
+      {
+        "school": "Maharshi Dayanand Children School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "86.4 percent",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chat-App",
+        "description": "Developed a chat application with the ability to create and manage 5+ servers, supporting 10+ text, audio, and video channels per server. Implemented admin controls for role management, moderating 100+ members, and handling multi-channel creation. Designed a dynamic UI that supported real-time message editing and deletion, improving user interaction efficiency by 30%.",
+        "keywords": [
+          "NodeJS",
+          "Socket.io",
+          "TailwindCSS",
+          "ReactJS",
+          "MYSQL",
+          "Prisma"
+        ],
+        "endDate": "Present",
+        "startDate": "November 2021",
+        "url": "Link"
+      },
+      {
+        "name": "Nexus Reality",
+        "description": "Engineered an advanced AR application that revolutionized surgical procedures, increasing preoperative planning efficiency by 40%, enhancing intraoperative precision by 50%, and improving postoperative assessment, resulting in a 30% increase in patient outcomes. Conceived and executed cutting-edge 3D anatomical models to advance medical education, enabling students to engage in immersive AR experiences for a thorough understanding of human anatomy. Spearheaded the development of a robust AR training module for medical professionals, reducing training time by 25% and increasing retention of complex surgical procedures by 35%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "ReactJS"
+        ],
+        "endDate": "May 2021",
+        "startDate": "April 2020",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "ReactJS",
+          "NodeJS",
+          "MongoDB",
+          "CSS",
+          "ExpressJS"
+        ],
+        "endDate": "August 2024",
+        "company_name": "Webstack Academy",
+        "description": "Designed a food ordering platform integrating 20+ restaurants, boosting user engagement by 30%. Implemented cart management features, reducing abandoned carts by 25%. Added a previous order chart, increasing repeat orders by 40%.",
+        "location": "",
+        "links": "Link",
+        "startDate": "July 2024"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "ReactJS",
+          "NodeJS",
+          "MongoDB"
+        ],
+        "endDate": "April 2024",
+        "company_name": "Edunet Foundation(EY GDS-AICTE)",
+        "description": "Orchestrated the creation of a robust news aggregator using MongoDB, NodeJS, ExpressJS, and Tailwind CSS, resulting in a 40% increase in user engagement. Streamlined news content into a unified platform, reducing user search time by 50%, thereby enhancing accessibility to relevant information across disparate sources. Accelerated timely updates and increased user retention by 25%.",
+        "location": "",
+        "links": "Link",
+        "startDate": "February 2024"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Tanisha Maurya",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured runner-up in RANN22 Intra-Level Fest volleyball event, 2022",
+      "Competed as a volleyball player in the 2023 AKTU Zonal Tournament, showcasing athletic skill and teamwork."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

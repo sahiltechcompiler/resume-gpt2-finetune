@@ -1,0 +1,135 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Prashant Singh",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "8.65/10 CGPA",
+        "field_of_study": "Computer Science and Information Technology",
+        "startDate": "November 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "GradCart - Web Platform for Student-to-Student Exchange",
+        "description": "Developed a web platform enabling seamless exchange of goods among students within the college community. Utilized advanced technologies including Node.js, Mongoose, MongoDB, and Express to ensure robust and efficient back-end functionality. Designed and implemented an intuitive user interface utilizing handlebars (hbs), CSS, and JavaScript for dynamic HTML generation, enhancing user experience. Spearheaded the creation of a user-friendly interface, prioritizing accessibility and ease of navigation for optimal user engagement.",
+        "keywords": [
+          "Node.js",
+          "Mongoose",
+          "MongoDB",
+          "Express",
+          "handlebars",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "March 2024",
+        "startDate": "February 2024",
+        "url": ""
+      },
+      {
+        "name": "STABLE DIFFUSION - IMAGE TO PROMPT",
+        "description": "Created an image prompting system utilizing deep learning techniques to generate descriptive prompts for images automatically. Utilized the paraphrase-MiniLM-L6-v2 model, a state-of-the-art pre-trained sentence transformer, for computing sentence embeddings. Employed a ResNet-50-based convolutional neural network (CNN) to extract meaningful image features. Employed Python, TensorFlow, and Keras for model development and training, utilized Sentence Transformer for sentence embeddings and Kaggle notebooks for experimentation and evaluation.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "deep learning",
+          "CNN"
+        ],
+        "endDate": "June 2023",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Doctello | Curriculum Project",
+        "description": "Developed website to provide healthcare facilities to our users virtually. AI prescribes the medicine and precautions to be taken by the user. Drafted the interface using Figma and Canva for 15+ screens for web and smartphone display sizes. Implemented the front-end using HTML5, CSS3 and vanilla JavaScript and Bootstrap-5 for responsive design.",
+        "keywords": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "Bootstrap-5",
+          "Figma",
+          "Canva"
+        ],
+        "endDate": "present",
+        "startDate": "November 2022",
+        "url": ""
+      },
+      {
+        "name": "TnP Automation - Centralized College Placement Monitoring System",
+        "description": "Spearheaded development of a centralized system to track and manage student placements effectively. Implemented four modules: Student, Department, CRPC (College Placement and Recruiting Cell), and Recruiter, ensuring comprehensive stakeholder coverage. Utilized cutting-edge technologies: EJS, CSS, JavaScript for enhanced front-end user experience. Employed Node.js, Express, MongoDB for robust back-end functionality, ensuring seamless data management.",
+        "keywords": [
+          "EJS",
+          "CSS",
+          "JavaScript",
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "present",
+        "startDate": "November 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "WEB DEVELOPER INTERN",
+        "skillsUsed": [
+          "JavaScript",
+          "HTML5",
+          "CSS",
+          "Tailwind",
+          "React Js"
+        ],
+        "endDate": "current",
+        "company_name": "matchmyflight",
+        "description": "Develop user interface with modern JavaScript Framework HTML5 CSS Tailwind which improved user satisfaction. Developed modern landing page using React Js. Deployed and hosted front-end code on google cloud storage.",
+        "location": "",
+        "links": "",
+        "startDate": "Sep 2023"
+      }
+    ],
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Problem Solving",
+      "OOP",
+      "Java",
+      "JavaScript",
+      "C++",
+      "HTML/CSS",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "Prashant Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Competitive Coding: Solved over 300+ problems over various platforms including Leetcode, CodeChef, and CodeForces. Mentored 50+ students for competitive coding in various languages including Java, and C++.",
+      "CodeChef: Ranked 18 and 32 globally in Codechef contests, with a Codechef rating of 1638.",
+      "Codeforces: Ranked 3124 and 3824 globally in codeforces contests, with a Codeforces rating of 1242 (pupil)."
+    ],
+    "publications": [
+      "Prashant Singh (Jan. 2023) \"Comparative Analysis of food distribution\" in IEEE CICTN-2023"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

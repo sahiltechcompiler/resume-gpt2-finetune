@@ -1,0 +1,192 @@
+{
+  "project_count": 3.0,
+  "designation": "Backend Developer",
+  "name": "HIREN MISTRY",
+  "college": "Shah & Anchor Kutchhi Engineering College",
+  "locations": [
+    "Borivali , Mumbai , Maharashtra , India",
+    "remote"
+  ],
+  "full_output": {
+    "summary": "Motivated software engineer intern with passion for technology. Aspiring to contribute as a software developer engineer, I bring expertise in MERN Stack web development and Android app development using Java. My Fascination lies in building robust software solutions, and I look forward to exploring data science and devOps in the near future.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction To Cyber-Security",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Event's Head at EBSB CLUB Shah & Anchor Kutchhi Engineering College",
+      "Event's Head at Computer Council Shah & Anchor Kutchhi Engineering College",
+      "Graphics Co-lead at SAKEC Magazine Shah & Anchor Kutchhi Engineering College",
+      "Graphics Co-lead at SIP Magazine Shah & Anchor Kutchhi Engineering College"
+    ],
+    "education": [
+      {
+        "school": "Shah & Anchor Kutchhi Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Nirmala Memorial Foundation College of Commerce and Science",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "HSC",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "88 / 100",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Rustomjee International School & Junior College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2005"
+      }
+    ],
+    "projects": [
+      {
+        "name": "University Android Application",
+        "description": "An android application that manages the data of the university. The project was created in Android Studio using Java. Firebase was used for the firestore database and realtime database.",
+        "keywords": [
+          "Java",
+          "Android Studio",
+          "XML"
+        ],
+        "endDate": "APR 2023",
+        "startDate": "JAN 2023",
+        "url": ""
+      },
+      {
+        "name": "Money Management",
+        "description": "A web application that tracks the Expense and Income of the User. Front-end was developed using Tailwind CSS and Bootstrap, ensuring a seamless and user-friendly experience. JavaScript is used for the back-end, and Firebase is used for the real-time database.",
+        "keywords": [
+          "Tailwind CSS",
+          "Bootstrap",
+          "JavaScript",
+          "Firebase"
+        ],
+        "endDate": "DEC 2023",
+        "startDate": "AUG 2023",
+        "url": "https://savesphere-a38d8.web.app/"
+      },
+      {
+        "name": "GraphQL Web Development",
+        "description": "Designed and implemented responsive user interfaces using Next.js, ensuring a seamless and user-friendly experience.",
+        "keywords": [
+          "Next.js",
+          "Tailwind CSS",
+          "MongoDB",
+          "Express.js",
+          "Node.js",
+          "GraphQL",
+          "HTML5",
+          "CSS3"
+        ],
+        "endDate": "AUG 2023",
+        "startDate": "JUN 2023",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Gujarati",
+      "Hindi",
+      "Marathi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Backend Developer",
+        "skillsUsed": [
+          "Next.js",
+          "Tailwind CSS",
+          "MongoDB",
+          "Express.js",
+          "Node.js",
+          "GraphQL",
+          "HTML5",
+          "CSS3"
+        ],
+        "endDate": "PRESENT",
+        "company_name": "Firebase",
+        "description": "Designed and implemented GraphQL APIs to handle data flow between the front- end and the back -end systems. Implemented API routing for efficient communication between different components of the application. Monitored project resulting in improved visibility of key performance and enabling decision making at all levels of the organization.",
+        "location": "",
+        "links": "",
+        "startDate": "OCT 2023"
+      },
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "AkshayaShakti",
+        "description": "remote NGO",
+        "location": "remote",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Graphic Designer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Trio Events",
+        "description": "remote A Destination Wedding Planner.",
+        "location": "remote",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Wow Testimonials",
+        "description": "remote",
+        "location": "remote",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Git",
+      "Github",
+      "Typescript",
+      "Javascript",
+      "MongoDB",
+      "Java",
+      "Figma",
+      "UI/UX",
+      "React",
+      "ExpressJS",
+      "Node",
+      "Firebase"
+    ],
+    "soft_skills": [
+      "Team Management"
+    ],
+    "name": "HIREN MISTRY",
+    "position": "Backend Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Borivali , Mumbai , Maharashtra , India",
+  "graduation_year": 2025.0,
+  "experience_count": 4.0,
+  "degree": "B.Tech"
+}

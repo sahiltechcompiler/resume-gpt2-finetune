@@ -1,0 +1,115 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aryan Sardana",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "BTech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.20/10 (6th Semester)",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Spotify Music Discord Bot",
+        "description": "Developed a Discord bot using Node.js, integrating Spotifys Web API with Discord.js for seamless interaction. Implemented backend features such as playlist management, song requests, and real-time playback control, ensuring efficient communication between Spotify and Discord servers.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Cloud File Storage App",
+        "description": "Built an online file storage app using Node.js, Express, and MongoDB GridFS. Developed features for file upload, download, sharing, and user authentication with OAuth. Designed REST APIs for managing files and folders, including renaming and deletion.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Driver Drowsiness Detection with SMS alerts",
+        "description": "Designed and implemented a robust Driver Drowsiness Detection System using Python, leveraging the DLib Library for 68 facial landmark recognition through Deep Learning techniques. The system calculates the Eye Aspect Ratio (EAR) to predict levels of driver drowsiness and proactively send alerts to the vehicle owner using the Twilio SMS API.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "Defence Research & Development Organisation (DRDO)",
+        "description": "Researched on finding an optimal and accurate Model for implementing Network Intrusion Detection System using the USNW NB15 Dataset. Implemented Classifiers based on SVM, K-NN, Decision Tree, Random Forest, GradientBoost, ANN, CNN, LSTM and RNN (Scikit-Learn and TensorFlow). Compared the Models on the basis of Accuracy, Precision, F1 Score, Recall and Time to Train. Achieved an accuracy of 95.11% with the Random Forest Classifier and 93.40% with ANN.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Software Engineering Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Bharti Airtel Limited",
+        "description": "Developed reactive APIs for Airtels Offer Engine serving 20M+ daily users, utilizing Spring Boot & Spring WebFlux. Implemented unit tests for Campaign Manager Service using JUnit5 & Mockito, ensuring code quality. Migrated Campaign Manager Service from Caffeine Cache to Aerospike Cache, optimizing performance and scalability. Built a reactive web service for online shopping with caching (Aerospike, Spring Reactive MongoDB, Spring Web).",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Connected Cars Intern",
+        "skillsUsed": [],
+        "endDate": "June 2022",
+        "company_name": "Mahindra Research Valley",
+        "description": "Designed and developed a voice-controlled in-car assistant using Python (SpeechRecognition, PyAudio, Pyttsx3, Geocoder, Geopy, GMaps). Enabled hands-free Spotify music control and navigation, enhancing user experience and safety. integrated Google Maps API for real-time location-based features like locating workshops and washrooms nearest to the car.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "Scikit-Learn",
+      "TensorFLow",
+      "JQuery",
+      "Node.js",
+      "Express.js",
+      "EJS",
+      "Passport.js",
+      "Axios",
+      "Kafka",
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Aryan Sardana",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "BTech."
+}

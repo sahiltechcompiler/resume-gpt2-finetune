@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Adarsh Agarwal",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.8",
+        "field_of_study": "Data Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School, Siliguri",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90",
+        "field_of_study": "Central Board of Secondary Education",
+        "startDate": ""
+      },
+      {
+        "school": "Don Bosco School, Siliguri",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "95.2",
+        "field_of_study": "Indian Certificate of Secondary Education",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sign Language Translator",
+        "description": "Devised a deep learning model to translate Indian Sign Language to speech, aiding individuals with speech impairments. Achieved an 85% accuracy in classifying 10 signs. Implemented the model in a web application using ReactJS and Flask, enabling real-time sign language translation with a latency of under 2 seconds through a simple user interface.",
+        "keywords": [],
+        "endDate": "2025",
+        "startDate": "2021",
+        "url": "Source Code"
+      },
+      {
+        "name": "Waste Classification",
+        "description": "Engineered a machine learning model for automated waste classification, enhancing sorting efficiency and promoting eco-friendly waste management. The model was trained on more than 4000 images. Integrated the models results into applications, enabling real-time classification of waste items with 90% accuracy, and designed intuitive interfaces to simulate seamless user interactions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      },
+      {
+        "name": "Smart AI Assistant",
+        "description": "Built an AI-driven Streamlit app that generated concise summaries for over 500 YouTube videos, analyzed 1,000+ PDF pages, and facilitated chatbot interactions using Google Gemini and LangChain. Implemented transcript extraction, vector search, and content generation features, reducing manual content review time by 40% and improving information retrieval accuracy by 85% with FAISS, Google GenAI, and PyPDF2.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2024",
+        "company_name": "HealthKart",
+        "description": "Developed an OCR-based feature for extracting nutritional data from food images, automating data capture for over 1,000 food labels and cutting manual entry time by 70%. Built the feature into the companys mobile application using Flutter, with a Python-based backend for data processing and storage. Integrated a comprehensive healthiness prediction feature, utilizing company food label data to provide users with personalized dietary insights, resulting in a 20% boost in user engagement with the apps nutritional tools.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "Feb 2023",
+        "company_name": "Acciojob",
+        "description": "Led live Discord sessions on Java programming, assisting over 100 students monthly by addressing more than 200 queries and simplifying complex concepts. Conducted Java skills interviews, carefully evaluating candidates and selecting the top 20% for advanced Data Structures and Algorithms training, resulting in higher retention rates and positive feedback for thoroughness and clarity in the selection process.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2022"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Java",
+      "Javascript",
+      "HTML+CSS",
+      "Python",
+      "Tensorflow",
+      "openCV",
+      "ReactJs",
+      "Nodejs",
+      "VScode",
+      "Git",
+      "Github",
+      "ExpressJs",
+      "MongoDb",
+      "Relational Database(mySql)"
+    ],
+    "soft_skills": [],
+    "name": "Adarsh Agarwal",
+    "position": "",
+    "interests": [
+      "Web Design and Development",
+      "Backend Development",
+      "Machine and Deep Learning"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

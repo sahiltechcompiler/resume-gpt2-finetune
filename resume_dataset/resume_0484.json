@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Priyam Pallab Bora",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Gandhinagar, Gujarat",
+    "Ahmedabad, Gujarat"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "10.00",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.25 / 10.00",
+        "field_of_study": "Computer and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School Gandhinagar",
+        "endDate": "",
+        "maximum_grade": "100",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "percentage: 83.4/100",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School Gandhinagar",
+        "endDate": "",
+        "maximum_grade": "100",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "percentage: 89.8/100",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Job Recommendation System",
+        "description": "A basic job recommendation project which uses various python libraries such as NumPy, panda and nltk. Uses a simple frontend through which user can get job recommendations on his/her entered search prompt.",
+        "keywords": [
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VC Portfolio Management System",
+        "description": "Ranked Startups by Credit Score: Developed a system to rank startups based on credit scores, facilitating informed investment decisions. Visual Portfolio Management: Implemented features for venture capitalists to view and analyze their portfolio both overall and on a company-specific level. Enhanced Data Visualization: Created interactive dashboards and charts for intuitive performance tracking and data analysis.",
+        "keywords": [
+          "React.js",
+          "MongoDB",
+          "Node.js",
+          "Express.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Centralized Data Repository of IRS for various Development Groups",
+        "description": "Developed a Centralized Data Repository for the IRS (Institute of Reservoir Studies) using a tech stack that Django, MongoDB, Danfo.js, Vue.js, and Python. The project aimed to centralize data management and streamline access for various development groups. It involved designing the backend architecture, integrating MongoDB for scalable data storage and utilizing Danfo.js for efficient data manipulation. Implemented the frontend interface using Vue.js to provide a seamless user experience.",
+        "keywords": [
+          "Django",
+          "MongoDB",
+          "Danfo.js",
+          "Vue.js",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "June 2021",
+        "company_name": "Oil and Natural Gas Corporation Ltd. (ONGC)",
+        "description": "Worked at Institute of Reservoir Studies (IRS), ONGC, Ahmedabad for a project on 'Centralized Data Repository (Production, Injection, and sporadic Data) of IRS for various Development Groups.",
+        "location": "Gandhinagar, Gujarat",
+        "links": "",
+        "startDate": "May 2021"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Java",
+      "C",
+      "Python",
+      "Bash scripting",
+      "UNIX",
+      "SQL",
+      "React.js",
+      "Node.js",
+      "MySQL",
+      "MongoDB",
+      "Linux"
+    ],
+    "soft_skills": [],
+    "name": "Priyam Pallab Bora",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

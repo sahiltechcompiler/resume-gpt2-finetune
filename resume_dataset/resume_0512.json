@@ -1,0 +1,183 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "RADHIKA GUPTA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Ambala, Haryana",
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "Energetic and ambitious 4th-year B Tech student majoring in Information Technology. I am passionate about leveraging technology to solve real-world problems. With a strong academic foundation and a drive for continuous learning, I am eager to embark on new challenges and contribute meaningfully to innovative projects. Seeking opportunities to gain hands-on experience and make a positive impact.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and analysis of algorithm",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Software Engineering",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CISCO CCNA",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CISCO cyber security certifications",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Web Development Bootcamp by Colt Steele",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP Programming Essentials In Python",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "8.4",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Murlidhar DAV Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior High School",
+        "location": "Ambala, Haryana",
+        "ID": 1.0,
+        "grade_received": "92.4",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "SD Vidya School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary School",
+        "location": "Ambala, Haryana",
+        "ID": 2.0,
+        "grade_received": "93.2",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Brain Tumor Classification",
+        "description": "Conducted statistical analysis on brain tumor classification utilizing MRI images. By implementing a Convolutional Neural Network (CNN) architecture and applied pre-tained models VGG-19,VGG-16,ResNet-50, I engineered a cutting-edge solution capable of accurately detecting and classifying brain tumors from MRI scans.",
+        "keywords": [
+          "Deep learning",
+          "Python",
+          "Numpy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Machine Learning-Based Detection of Sleep Disorders: A Comparative Analysis of Sleep Apnea, Normal Sleep and Insomnia",
+        "description": "Focuses on developing and evaluating machine learning models to classify different sleep conditions. Using algorithms such as Random Forest, Decision Tree, and k-Nearest Neighbors (KNN), the study aims to accurately differentiate between sleep apnea, normal sleep, and insomnia based on various sleep-related features.",
+        "keywords": [],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "EventWorx-Event Management Website",
+        "description": "Developed and implemented a responsive event management website using HTML, CSS, and JavaScript. The platform offers features like event scheduling, guest management, venue booking, and real-time updates, all in one place. Users can create, customize, and manage various events, from corporate meetings to social gatherings. The website aims to simplify event management, providing a seamless experience for both organizers and attendees.",
+        "keywords": [
+          "Java Script"
+        ],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "News App Website",
+        "description": "Express News is a dynamic news app website. This project highlights my proficiency in web development, particularly in creating responsive and feature-rich applications that deliver the latest news to users. Implemented JavaScript functions for efficient data retrieval and display from the API, ensuring organized and accurate news presentation. This project underscores my proficiency in front-end web development, API integration, responsive design, and user-centered application creation, emphasizing my capacity to deliver engaging digital experiences.",
+        "keywords": [
+          "Java script",
+          "API"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AI/ML Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Samajh.AI",
+        "description": "Worked on YOLOv8, advanced object detection model, and integrating it with TensorRT for self-driving cars while using INT8 calibration. This combination helps achieve high-speed inference while maintaining accuracy, which is crucial for self-driving applications.",
+        "location": "Noida",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "SQL",
+      "Data Structures and Algorithms",
+      "Object oriented programming"
+    ],
+    "soft_skills": [],
+    "name": "RADHIKA GUPTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

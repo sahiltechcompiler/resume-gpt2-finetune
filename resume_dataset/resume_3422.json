@@ -1,0 +1,138 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Madhu Sathvik Maguluri",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analytics and Visualization Job Simulation",
+        "issuer": "Accenture",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "Percentage: 92%",
+        "degree": "B.tech",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.9",
+        "field_of_study": "Computer Science and Engineering with specialization in Big Data Analytics",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "M.P.C",
+        "startDate": "2019"
+      },
+      {
+        "school": "Holy Faith School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "SSC",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fruit Recognition using Machine Learning",
+        "description": "Developed a fruit recognition system utilizing VGG19 technology, achieving over 90% accuracy. The model accurately identifies five fruits: apple, banana, mango, orange, and pineapple, even in blurry images. Key innovation includes a custom modification to the VGG19 architecture, integrating an unblurring layer for enhanced performance.",
+        "keywords": [
+          "VGG19",
+          "Python",
+          "Image Processing",
+          "CNN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Weather App",
+        "description": "Developed a weather app using HTML, CSS, and JavaScript to display real-time weather information. Integrated a weather API to fetch and show live weather data for different locations. Ensured the app works well on various devices by using responsive design techniques.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Market Place",
+        "description": "Designed and developed an online marketplace using Python and Django, featuring essential functionalities such as item listing, category filtering, price specification, and detailed item descriptions. Implemented user-friendly features including item search, related item suggestions, and real-time status updates. Integrated a secure user authentication system with signup and login capabilities.",
+        "keywords": [
+          "Django",
+          "Python",
+          "Tailwind CSS",
+          "HTML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "Python",
+          "Django"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Interned at APSSDC, where I gained proficiency in Python programming and Django, enhancing my web development skills. Utilized Python and Django to build and optimize back-end services.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React",
+      "Django",
+      "MySQL",
+      "VS Code",
+      "Google Colab",
+      "Github",
+      "Microsoft Workbench"
+    ],
+    "soft_skills": [],
+    "name": "Madhu Sathvik Maguluri",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

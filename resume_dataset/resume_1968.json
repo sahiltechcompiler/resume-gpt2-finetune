@@ -1,0 +1,139 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Abdul Samad A",
+  "college": "Reva University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate in NLP -Natural Language Processing with Python",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep learning specialization",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Scaler",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Specialized in Data Science & Machine Learning",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Reva University",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "BE/B.Tech/BS in Electronic and Communication Engineering (ECE)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sales support bot",
+        "description": "Developed a FastAPI application for real-time event processing and query management. Implemented asynchronous tasks with Redis Queue (RQ) for efficient background processing. Designed data synchronization processes, managing MongoDB data and JSON file storage. Automated AI-based crew management to improve query processing and response generation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/samadali-ai/Build-a-Retrieval-Augmented-Generation-RAG-based-LLM-assistant-using-Streamlit-and-Snowflake-Cortex-"
+      },
+      {
+        "name": "Multimodal AI Agent System-chatbot",
+        "description": "Designed and deployed a Multimodal AI Agent system using Streamlit, CrewAI, Replicate AI models, Groq hardware, and Tavily Enabled advanced functionalities including text-to-speech, image generation, image captioning, and web search. Optimized AI workflows for task routing, information retrieval, and multimodal processing. Implemented robust error handling and performance monitoring strategies. Deployed the solution using Streamlit for a user-friendly interface.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/samadali-ai/Multimodal-AI-Agent/tree/main"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AI Reasercher",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "Greenpepper",
+        "description": "Fine-tuned large language models (LLMs) for chatbot applications, improving conversational AI by optimizing prompt engineering and incorporating retrieval-augmented generation (RAG) techniques. Designed and deployed AI chatbots using advanced RAG and prompting techniques, enhancing user interactions and delivering accurate, context-aware responses across various platforms. Led and contributed to interdisciplinary projects focused on applying AI technologies in diverse domains, including healthcare and customer service, driving innovation and operational efficiency.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "AI/ML Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2024",
+        "company_name": "USEReady",
+        "description": "Enhanced large language models (LLMs) through fine-tuning and prompt engineering techniques to improve performance for diverse generative tasks, utilizing Langraph and Retrieval-Augmented Generation (RAG) methods to integrate external knowledge sources. Deployed AI models and applications on Google Cloud Platform (GCP), leveraging cloud services for scalable and efficient deployment while utilizing vector databases such as Pinecone and FSSAI for managing and querying large-scale embeddings. Designed and maintained data processing workflows using Redis for efficient data management and retrieval, developing and testing APIs with Postman to ensure robust connectivity and functionality for AI agents and other backend services.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2024"
+      },
+      {
+        "role_name": "Sales Analyst",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "CARS 24",
+        "description": "Analyzed sales data using Excel, and Tableau to identify trends, patterns, and opportunities, resulting in a 15% increase. Implemented data cleaning techniques to ensure accuracy, reducing errors by 20%, while leveraging pivot tables in Excel for efficient summarization and analysis. Extracted relevant data keywords using analytics to facilitate targeted sales strategies. Collaborated with cross-functional teams to develop and implement data-driven sales strategies, resulting in improved sales targeting and customer engagement, ultimately contributing to a 10% increase in customer retention rates.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML",
+      "SQL",
+      "snowflakes database",
+      "llama-index",
+      "streamlit",
+      "RAG",
+      "difusion models",
+      "PyTorch",
+      "TensorFlow",
+      "EDA",
+      "Data Analysis",
+      "Tableau",
+      "Machine Learning",
+      "web scraping",
+      "NLP",
+      "Deep Learning",
+      "cloud deployement",
+      "computer vision",
+      "RESTful API",
+      "Postman"
+    ],
+    "soft_skills": [],
+    "name": "Abdul Samad A",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 3.0,
+  "degree": "BE/B.Tech/BS in Electronic and Communication Engineering (ECE)"
+}

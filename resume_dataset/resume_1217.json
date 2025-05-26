@@ -1,0 +1,107 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "GARVIT NARULA",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Database Foundations Certified Junior Associate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Operating Systems from Scratch: The Complete Course",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (Hons)",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.2/10 (up to 6th semester)",
+        "field_of_study": "Computer Science & Engineering with specialization in AI & ML",
+        "startDate": "August 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Satellite Image Processing",
+        "description": "Hyperspectral Imaging Type-I land cover classification using hyperspectral imaging",
+        "keywords": [
+          "Principal Component Analysis (PCA)",
+          "Stochastic Gradient (SGD)",
+          "Multilevel Perceptron (MLP)",
+          "Random Forest"
+        ],
+        "endDate": "May 2024",
+        "startDate": "January 2024",
+        "url": ""
+      },
+      {
+        "name": "Apple Stock Price Prediction",
+        "description": "Developed an LSTM-based model for stock price forecasting, achieving a high accuracy of 97.5% through comprehensive data cleaning, pre-processing, and model training on a subset of data with reserved validation for performance assessment.",
+        "keywords": [
+          "LSTM",
+          "Mean Absolute Error (MAE)",
+          "Root Mean Squared Error (RMSE)"
+        ],
+        "endDate": "November 2023",
+        "startDate": "August 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Medicamen Biotech Limited",
+        "description": "Secured data through server backups and resolved intra network communication issues",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "GARVIT NARULA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology (Hons)"
+}

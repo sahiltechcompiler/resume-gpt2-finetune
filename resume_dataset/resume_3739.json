@@ -1,0 +1,176 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Lasya Priya Pullepu",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Technically proficient engineering student with a passion for creating innovative solutions. Dedicated to keeping up with industry advancements and applying knowledge to real-world challenges.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Crash Course on Python",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate of Participation",
+        "skillsLearned": [],
+        "title": "MachineKnight Season 02 Quiz Round",
+        "issuer": "TechBairn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Practitioner Badge",
+        "issuer": "Amazon Web Services",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.46",
+        "field_of_study": "CSE, Big Data Analytics",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.3%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Ravindra Bharathi School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93.0%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Walmart Sales Analysis Using GCP",
+        "description": "Designed a Python-based system with BigQuery and GCP Pub/Sub for managing Sales Data. Enabled real-time inventory updates and sales transaction tracking for comprehensive sales analysis. Utilized Looker Studio for dynamic data visualization, empowering decision-making for strategic choices.",
+        "keywords": [
+          "Python",
+          "BigQuery",
+          "GCP Pub/Sub",
+          "Google Looker Studio"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MongoDB Integration with Kafka Brokerage",
+        "description": "Developed a data pipeline using Kafka for efficient processing of sales data, ensuring reliable storage. Implemented Avro schema for structured data handling, data serialization within the pipeline. Orchestrated the creation of the Kafka topic with 5 partitions, optimizing data distribution.",
+        "keywords": [
+          "Python",
+          "Kafka",
+          "MongoDB",
+          "Docker"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ayra skyways",
+        "description": "Designed Ayra skyways, a responsive Tour and Travel website design offering booking options for users. Focused on delivering a clean and intuitive user interface for seamless travel planning. Deployed on Vercel for reliable and high-performance hosting.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Vercel"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "Seaborn",
+          "Tableau"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Created detailed visualizations and dashboards with Tableau to present findings to stakeholders. Successfully identified and communicated key insights that contributed to understanding the impact of the virus.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "MongoDB",
+      "Kafka",
+      "C++",
+      "GCP",
+      "Docker",
+      "Git",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Tableau",
+      "Google Looker Studio",
+      "Excel",
+      "AWS",
+      "Java",
+      "Next.js",
+      "Express.js"
+    ],
+    "soft_skills": [],
+    "name": "Lasya Priya Pullepu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

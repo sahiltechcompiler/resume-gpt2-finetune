@@ -1,0 +1,119 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kasarla Vishwas",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Remote, IN"
+  ],
+  "full_output": {
+    "summary": "Results-driven and technically proficient Computer Science graduate with a solid grounding in software engineering and extensive hands-on experience through academic projects and internships. Adept in multiple programming languages, including Java and Python, with a strong understanding of algorithms, data structures, and software development life cycles. Proven ability to design, develop, and deploy robust software applications. Demonstrates strong analytical capabilities, meticulous attention to detail, and a collaborative mindset, ensuring effective teamwork in dynamic environments. Eager to apply technical skills and innovative thinking to contribute to cutting-edge software development projects and drive technological advancements.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.37/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": "August 2020"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "May 2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "945/1000",
+        "field_of_study": "",
+        "startDate": "June 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sudoku Solver",
+        "description": "Developed an automated Sudoku solver using Java and created an interactive Sudoku board using JavaScript to visualize the solving process. Implemented a backtracking algorithm in Java to efficiently solve Sudoku puzzles of varying difficulty levels. Ensured the solver adhered to Sudoku rules by incorporating constraints to prevent duplicate numbers in rows, columns, and 3x3 sub-grids. Optimized the Java code to enhance performance and reduce solution time for complex puzzles. Integrated the Java solver with the JavaScript board for seamless user interaction.",
+        "keywords": [
+          "Java",
+          "JavaScript",
+          "Algorithm Design",
+          "Data Structures"
+        ],
+        "endDate": "July 2022",
+        "startDate": "May 2022",
+        "url": ""
+      },
+      {
+        "name": "Face Recognition",
+        "description": "Designed and implemented the face detection and recognition algorithms using OpenCV's Java bindings. Pre-processed images to improve recognition accuracy, including grayscale conversion, histogram equalization, and noise reduction. Utilized Haar Cascade classifiers for efficient and accurate face detection. Integrated the Local Binary Patterns Histogram (LBPH) algorithm for reliable face recognition. Conducted extensive testing and validation to ensure high accuracy and performance in diverse lighting conditions and backgrounds. Developed a user-friendly graphical interface to facilitate easy interaction and management of the face recognition system.",
+        "keywords": [
+          "Java",
+          "OpenCV",
+          "Image Processing"
+        ],
+        "endDate": "August 2023",
+        "startDate": "March 2023",
+        "url": ""
+      },
+      {
+        "name": "Intelligent Crop Disease Detection",
+        "description": "Developed a deep learning model using Convolutional Neural Networks (CNNs) for accurate crop disease classification. Implemented the VGG architecture to enhance feature extraction and classification performance. Conducted data preprocessing, including normalization and augmentation, to improve model robustness and training efficiency. Evaluated model performance using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "TensorFlow",
+          "Keras",
+          "Deep Learning"
+        ],
+        "endDate": "January 2024",
+        "startDate": "September 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "UpGrad",
+        "description": "Collected and pre-processed large datasets of medical images (X-rays, MRIs) for training deep learning models. Implementing data augmentation and normalization techniques to enhance model training. Developed and implemented Convolutional Neural Network (CNN) architectures for disease diagnosis. Utilized transfer learning techniques with pre-trained models (e.g., DenseNet121, EfficientNet) to enhance model performance. Conducted hyperparameter tuning and model optimization to achieve high accuracy and robustness. Evaluated model performance using evaluation metrics such as accuracy, precision, recall, and F1-score. Created visualizations (e.g., ROC curves, confusion matrices) to illustrate model performance and diagnostic capabilities. Proposed potential improvements and future directions for the project based on the analysis.",
+        "location": "Remote, IN",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "MySQL",
+      "PL-SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "AWS",
+      "EC2",
+      "S3",
+      "Robotics Process Automation",
+      "Tableau",
+      "Microsoft Power BI",
+      "Exploratory Data Analysis"
+    ],
+    "soft_skills": [],
+    "name": "Kasarla Vishwas",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,114 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Omkar Geedh",
+  "college": "Lokmanya Tilak College of Engineering",
+  "locations": [
+    "Navi Mumbai",
+    "Mumbai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lokmanya Tilak College of Engineering",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Navi Mumbai",
+        "ID": 0.0,
+        "grade_received": "CGPA of 7.2",
+        "field_of_study": "Computer Science and Engineering (IoT, Cyber Security incld. Blockchain Technology)",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Vidyalankar Polytechnic",
+        "endDate": "June 2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Mumbai",
+        "ID": 1.0,
+        "grade_received": "Passed with 90%",
+        "field_of_study": "Computer Engineering",
+        "startDate": "August 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Video Streaming Website",
+        "description": "This platform is introduced for video streaming, allowing users to watch videos, express preferences through likes or dislikes, comment on videos, and subscribe to channels. The application utilizes MongoDB for database management, Firebase to store video and image assets, and a technology stack featuring Node.js with Express.js for the backend, complemented by ReactJS for the frontend interface.",
+        "keywords": [
+          "MongoDB",
+          "ExpressJS",
+          "ReactJS",
+          "NodeJS",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Food Delivery App",
+        "description": "This app is designed for a food delivery app, allowing users to order food from their favourite nearby restaurants. Developed a cross-platform app using React Native, integrating Firebase for efficient image storage and user authentication, and Razorpay for handling payments.",
+        "keywords": [
+          "React Native",
+          "Firebase",
+          "Razorpay",
+          "NodeJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2019",
+        "company_name": "Tata Institute of Fundamental Research (TIFR)",
+        "description": "I developed both the backend and frontend of an online student reimbursement form specifically implemented for TIFR (Tata Institute of Fundamental Research), enhancing the institutions efficiency in processing reimbursement requests.",
+        "location": "Mumbai, India",
+        "links": "",
+        "startDate": "May 2019"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "HTML/CSS",
+      "JavaScript",
+      "Python",
+      "ReactJS",
+      "MongoDB",
+      "NodeJS",
+      "React Native",
+      "MongoDB",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Self-Learning",
+      "Presentation",
+      "Communication"
+    ],
+    "name": "Omkar Geedh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Collaborated with a cross-functional team to develop an innovative solution during the Smart India Hackathon 2023; selected at the institute level for exceptional problem-solving skills and innovative thinking.",
+      "Achieved 1st place in the CSESA, LTCE 2023 Hackathon where more than 300 participated.",
+      "Selected for Aviskar 2023 hosted by Mumbai University.",
+      "Solved more than 100+ problems across platforms."
+    ],
+    "publications": []
+  },
+  "current_location": "Mumbai, Maharashtra",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.E."
+}

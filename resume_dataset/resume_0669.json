@@ -1,0 +1,209 @@
+{
+  "project_count": 6.0,
+  "designation": "",
+  "name": "Hemraj",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "Palwal,Haryana"
+  ],
+  "full_output": {
+    "summary": "An enthusiastic working professional with excellent problem-solving skills. Passionate about coding and eager to learn new technologies.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Course",
+        "issuer": "Internshala",
+        "certiLink": "certificate/Internshala/Web Development Training - Certificate of Completion.pdf"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AI Tools workshop",
+        "issuer": "Be 10x",
+        "certiLink": "certificate/Be10X/Certificate Be10x.pdf"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://coursera.org/share/60066b0bf284e5ae5d51e082cda0183f",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Building AI Powered Chatbots Without Programming",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://coursera.org/share/f80977141ccd4eef9814ab9524a2ee7d",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Basic Data Descriptors, Statistical Distributions and Application to Business Decisions",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://coursera.org/share/64ced26716d2de8435b23843bd4d9bde",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "https://coursera.org/share/7c98d35f3b24ed5c0e06b87355185ebb",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to AI",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "GPA:7.13",
+        "field_of_study": "computer Science AI&Ml",
+        "startDate": "Aug 2021"
+      },
+      {
+        "school": "S.N.D Public School",
+        "endDate": "March 2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary (XII)",
+        "location": "Palwal,Haryana",
+        "ID": 1.0,
+        "grade_received": "Percentage: 88%",
+        "field_of_study": "",
+        "startDate": "March 2020"
+      },
+      {
+        "school": "S.N.D Public School",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "High School (X)",
+        "location": "Palwal,Haryana",
+        "ID": 2.0,
+        "grade_received": "Percentage: 84%",
+        "field_of_study": "",
+        "startDate": "March 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Stone,Paper,Scissors Game",
+        "description": "This is a simple game created using HTML, CSS, JavaScript .In this we have to select any one option from Stone, Paper, Scissors and the random move will taken from the project side . After that it will provide a pop message that win or losse the game.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Hemraj0808/Projects/blob/main/Stone%2CPaper%2CScissor%20Game.html"
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "This is a simple project is created using python. In this project Movie is Recommended on the basis of the actor/actress name.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Hemraj0808/Projects/blob/main/MRS.ipynb"
+      },
+      {
+        "name": "Dashboard - Hotel cancellation",
+        "description": "This project contains hotel cancellations information. Data is shown using graphs, pivot table etc.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "file:///Users/hemraj/Desktop/Hotel_Dashboard.xlsx"
+      },
+      {
+        "name": "Dashboard (using Tableau)",
+        "description": "In this project I have created many charts like created donut chart, created horizontal bar chart, created average salary bar chart, created average salary map, created average salaray by job title experience. with the help of these chart and dashboard we can easily find data science employes by job salaries depending on the experience level employement type country and job title.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "file:///Users/hemraj/Desktop/Dashboard by tableau.png"
+      },
+      {
+        "name": "Personal Portfolio Page",
+        "description": "It is a simple webpage showcasing my skills, projects, and contact information using HTML for structure, CSS for styling and Javascript for typing animation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Hemraj0808/GEMCORE/tree/main/Portfolio"
+      },
+      {
+        "name": "Interactive Image Gallery",
+        "description": "In this project I have use HTML for structure, CSS for styling and Utilize JavaScript to create an image gallery where users can click thumbnails to view larger images, providing a dynamic user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Hemraj0808/GEMCORE/tree/main/Image%20gallery%20using%20html%2Ccss%2C%20js"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development",
+        "skillsUsed": [],
+        "endDate": "16/06/2024",
+        "company_name": "GemCore",
+        "description": "",
+        "location": "",
+        "links": "certificate/GemCore/Gemcore Internship Certificate   (Hemraj).pdf",
+        "startDate": "04/05/2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "Java",
+      "Data Structure & Algorithms",
+      "OOPS",
+      "Operating Systems",
+      "Machine Learning",
+      "Deep Learning",
+      "Data analytics",
+      "DBMS",
+      "SQL",
+      "MS Excel",
+      "Tableau"
+    ],
+    "soft_skills": [],
+    "name": "Hemraj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 100+ coding questions in codeforces (rating = 1100+) - https://codeforces.com/profile/hemrajgujjar0808",
+      "1st Position in SPAT Competition (10/2018)",
+      "1st Position in Cricket in Inter-School Competition (08/2019)",
+      "2nd Position in 200m Race in Inter-School Competition (08/2019)"
+    ],
+    "publications": []
+  },
+  "current_location": "Greater Noida, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

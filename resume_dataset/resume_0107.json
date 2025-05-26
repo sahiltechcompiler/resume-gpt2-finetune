@@ -1,0 +1,121 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rohan Sutradhar",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Delhi",
+    "Remote",
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "B.Tech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "9.25/10 CGPA",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Indrapastha International School",
+        "endDate": "2021",
+        "maximum_grade": "100%",
+        "degree": "Senior Secondary School",
+        "location": "Delhi",
+        "ID": 1.0,
+        "grade_received": "97%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MNIST Digit Classification",
+        "description": "Dataset contained size of 64x64 of 0-9 numbers. Used a ANN model for training of the images and testing results gave 97% accuracy.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Object Detection in low light Environment",
+        "description": "Used ExDark dataset comprising of 7363 images of 12 classes. Used Image Enhancement Technique CLAHE to brighten the dark spots in the image using histogram equalization. Used Image Restoration Technique Adaptive Retinex to restore and remove any blurr or noise in the images. Object Detection done using YOLOv9 with custom 12 weights.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Stress Prediction Analysis",
+        "description": "(Research Paper accepted in conference ADCIS 2024) Dataset picked from IoT devices from earring, shoe and ring. Data Preprocessing done using Python. Used BERT transformer Model for prediction analysis for each of the devices used to get the data. Visualization done using Seaborn and Matplotlib for better understanding of the analysis and prediction of the model.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Scientist Intern",
+        "skillsUsed": [
+          "Python",
+          "Numpy",
+          "Pandas",
+          "Scikit-learn",
+          "Plotly"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Oasis Infobyte",
+        "description": "Analyzed the Dataset to find anomalies and trends in the data. Displayed the insights gathered with the team and used ML algorithms to predict possible outcomes of the data for further business activities.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "SAP BASIS Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "The Silicon Partners (TSP)",
+        "description": "Learned about the SAP system, its work processes, architecture and HANA Database. Did System monitoring through Tcodes for a SAP system and documenting the findings as per the need and communicating with the team.",
+        "location": "Noida",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "C",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "UiPath",
+      "VS Code",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Rohan Sutradhar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Research Paper accepted in conference ADCIS 2024"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

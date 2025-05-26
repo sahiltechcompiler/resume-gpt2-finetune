@@ -1,0 +1,106 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "BHUSHIT JAISWAL",
+  "college": "KJ COEMR",
+  "locations": [
+    "Pune",
+    "Maharashtra",
+    "DNH",
+    "Silvassa"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KJ COEMR",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Pune",
+        "ID": 0.0,
+        "grade_received": "CGPA:7.9",
+        "field_of_study": "Computer",
+        "startDate": "December 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Library Management System",
+        "description": "Created a library management system that allows users to read or write books, featuring a basic chatbot, utilizing Tkinter, Python, and MySQL.",
+        "keywords": [
+          "Tkinter",
+          "Python",
+          "MySQL"
+        ],
+        "endDate": "December 2021",
+        "startDate": "August 2021",
+        "url": ""
+      },
+      {
+        "name": "GFM Management System",
+        "description": "Developed a Python Project which Enables The Respective GFM And Students To Manage Their Data.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "May 2023",
+        "startDate": "January 2023",
+        "url": ""
+      },
+      {
+        "name": "Smart Tree",
+        "description": "Created an intelligent tree utilizing multiple IoT components to identify any anomalies in the environment.",
+        "keywords": [
+          "IoT"
+        ],
+        "endDate": "October 2023",
+        "startDate": "September 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python Development Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "September 2023",
+        "company_name": "Dronasthra Energy Flights Private Limited",
+        "description": "",
+        "location": "Pune,Maharashtra",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "MySQL",
+      "Mongo",
+      "HTML",
+      "CSS",
+      "Django",
+      "JS"
+    ],
+    "soft_skills": [],
+    "name": "BHUSHIT JAISWAL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "The House I Served As Vice-Captain In High School Emerged And Won The Annual Trophy in 2019.",
+      "Was Awarded The Title Of Mr. Fresher For The Year 2022.",
+      "Served As The Vice Captain Of My House During High School."
+    ],
+    "publications": [
+      "Enhancing Privacy and Security in Cloud Computing",
+      "Investigated critical privacy and security challenges in cloud computing environments. Suggested efficient methods utilizing encryption techniques."
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

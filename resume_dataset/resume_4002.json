@@ -1,0 +1,182 @@
+{
+  "project_count": 8.0,
+  "designation": "Software Developer",
+  "name": "KARANMEHTA",
+  "college": "Shah And Anchor Kutchhi Engineering College",
+  "locations": [
+    "Mumbai",
+    "Maharashtra",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "Software Developer, Backend Developer and Data Scientist with 1 year of experience in IT sector , seeking a position in accelerate my career in IT sector.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah And Anchor Kutchhi Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Of Engineering",
+        "location": "Mumbai University",
+        "ID": 0.0,
+        "grade_received": "C.G.P.A :- 8.4",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Nirmala Memorial Foundation College Of Commerce And Science",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage:-91",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Plant Disease Detection",
+        "description": "I spearheaded a project focused on Plant Disease Detection utilizing Deep Learning methodologies. Leveraging state-of-the-art neural network architectures, I developed a robust system capable of accurately identifying diseases in plants based on visual cues extracted from images. Through extensive training and optimization, the model achieved high levels of accuracy, enabling early detection and intervention to mitigate crop losses. This project not only showcased my proficiency in deep learning techniques but also highlighted my commitment to addressing real-world challenges through innovative applications of technology in agriculture.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Netflix-Clone",
+        "description": "Ive harnessed my skills to craft a Netflix-inspired platform using AngularJS and integrated it with an online API to dynamically showcase trailers of top movies. This project not only honed my proficiency in AngularJS but also allowed me to delve into API integration, user interface design, and data management. Through this endeavor, I demonstrated my ability to conceptualize and execute projects, ensuring seamless user experiences while staying abreast of industry trends.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Post Estimation Gym Tracker",
+        "description": "I conceptualized and developed a Post-Estimation Gym Tracker, designed to streamline workout routines and enhance fitness tracking efficiency.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Finance application",
+        "description": "As a Backend Developer, I designed and implemented the backend for a finance application with a focus on scalability, security, and efficient data handling. I created RESTful APIs for financial data processing and management, developed secure authentication and authorization mechanisms using JWT and OAuth, and integrated various third-party financial APIs for real-time data fetching and transaction processing. I implemented robust error handling and logging to ensure application stability, utilized PostgreSQL/MySQL for data storage and management, and ensured data integrity through the use of ACID properties and database transactions. Additionally, I conducted performance optimization to handle large volumes of financial transactions efficiently and deployed backend services on cloud platforms such as AWS and Azure for scalability and reliability. I collaborated with frontend developers to ensure seamless integration between frontend and backend systems and adhered to best practices in code versioning, testing, and CI/CD. Technologies used included Python, Java, Node.js, Django, Flask, Spring Boot, Express.js, PostgreSQL, MySQL, MongoDB, Docker, Kubernetes, Git, Jenkins, and cloud services like AWS, Azure, and Google Cloud Platform.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Transport System (MERN Stack)",
+        "description": "Developed a comprehensive transport system using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project involved designing and implementing a web application that allows users to book and manage transport services. Key features included user authentication, real-time vehicle tracking, route management, and booking history. Leveraged MongoDB for efficient data storage and retrieval, Express.js and Node.js for robust server-side logic, and React.js for a responsive and interactive user interface. Focused on creating a seamless user experience while ensuring high performance and scalability of the application.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Restaurant Website",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Fire Alert System using Python-Django",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fake News Detection using SVM and Naive Bayes Algorithm",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Electric Vehicles Market Size Analysis",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Fabcare Enterprise",
+        "description": "Real-Time Sales Insights. Forecasting and Predictive Modelling. Product Performance Analysis.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Software Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Sai Corporation",
+        "description": "Full Stack Developer. Connected the systems inputs to the database to keep a track on the sales. Lead the Technical Team.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Dec 2023"
+      },
+      {
+        "role_name": "Software Developer",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "Sai Corporation",
+        "description": "Full Stack Developer. Connected the systems inputs to the database to keep a track on the sales. Lead the Technical Team.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "Data Science",
+      "Python",
+      "Java",
+      "AngularJS",
+      "ReactJS",
+      "SQL",
+      "Django",
+      "React Native",
+      "Machine Learning"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Observation",
+      "Decision Making",
+      "MultiTasking"
+    ],
+    "name": "KARANMEHTA",
+    "position": "Software Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "GDSC Hackathon :- 3rd Rank Developed AI Travel itenary Website using LLM",
+      "Published Paper on AI Based Generative Design of Hydro-PowerPlant",
+      "Published Paper on Sitting Posture Detection Using Classification Approach",
+      "Published dataset for Safety of Street Animals",
+      "Finalist of Aarambh -National Level Entreprenurship Competition",
+      "Finalist of Aavishkar - State Level Hackathon Competition",
+      "Participated in Smart India Hackathon"
+    ],
+    "publications": []
+  },
+  "current_location": "Mumbai, Maharashtra",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelors Of Engineering"
+}

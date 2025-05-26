@@ -1,0 +1,159 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sameer Ali",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida",
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "A proficient Software Developer with extensive experience in building and optimizing web applications. Known for strong problem-solving skills and the ability to deliver high-quality solutions efficiently.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures",
+        "issuer": "IIT- Delhi (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Algorithmic Toolbox",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Using Html,css and Javascript",
+        "issuer": "IBM- Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.7",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "August 2021"
+      },
+      {
+        "school": "Dashmesh Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "New Delhi",
+        "ID": 1.0,
+        "grade_received": "Percentage: 86%",
+        "field_of_study": "CBSE (Class XII)",
+        "startDate": ""
+      },
+      {
+        "school": "Dashmesh Public School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "New Delhi",
+        "ID": 2.0,
+        "grade_received": "Percentage: 88%",
+        "field_of_study": "CBSE (Class X)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "JobHunt- an Online Job Portal",
+        "description": "JobHunt is a dynamic platform built with the MERN stack, enabling students to seamlessly apply for jobs while recruiters post new opportunities. With Multer integration, users can easily upload resumes, ensuring a smooth and efficient job search experience. Users can personalize their job search by filtering opportunities based on city, role, and salary.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Study Notion- an Online Education Platform",
+        "description": "StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. Supports Payment Mechanism Using RazorPay Integration and OTP Verification. The platform is built using the MERN stack which includes ReactJS, NodeJS, MongoDB, and ExpressJS.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SHEMA- an Online Shopping Website",
+        "description": "An innovative online shopping platform built with the MERN stack, offering a seamless and intuitive user experience. Enjoy a vast product selection, secure transactions, and fast delivery, all powered by MongoDB, Express.js, React.js, and Node.js.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analytics Consulting Virtual Internship",
+        "skillsUsed": [],
+        "endDate": "Apr 2023",
+        "company_name": "KPMG",
+        "description": "Learned Data Analytics Tools in Python, made Presentations for Data Analysis.",
+        "location": "",
+        "links": "",
+        "startDate": "Mar 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "Java",
+      "JavaScript",
+      "Oracle",
+      "Mysql",
+      "Nosql",
+      "Mongodb",
+      "Git",
+      "GitHub",
+      "React.js",
+      "Node.js",
+      "Redux",
+      "Express.js",
+      "Springboot",
+      "Scikit",
+      "Matplotlib",
+      "Numpy"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Event Management",
+      "Writing",
+      "Public Speaking",
+      "Time Management"
+    ],
+    "name": "Sameer Ali",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved a top 20/500 Team rank in a competitive hackathon, demonstrating strong technical and problem-solving skills.",
+      "Solved 650+ Questions on LeetCode and Ranked Under 50k among Total Users.",
+      "5Star Coder at HackerRank in Python.",
+      "Hackerrank Certified in Python."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

@@ -1,0 +1,143 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Anubhav Goyal",
+  "college": "Indian Institute of Information Technology Una",
+  "locations": [
+    "Himachal Pradesh",
+    "Dhaulpur, Rajasthan",
+    "Bangalore"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology Una",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Himachal Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.77/10",
+        "field_of_study": "Computer Science & Engg.",
+        "startDate": ""
+      },
+      {
+        "school": "AVM Convent School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Dhaulpur, Rajasthan",
+        "ID": 1.0,
+        "grade_received": "84.3%",
+        "field_of_study": "Computer Science & Tech.",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Similarity Search - Image Processing and Search Engine Optimization",
+        "description": "Built a web application that tackles the problem of finding items that are the closest or the most similar to the input. Optimized the existing similarity search engine using Euclidean distance improvement with up to 94% accuracy. Created a new dataset of 10,000+ leaves categorized by length and width of Sepal and Petal.",
+        "keywords": [
+          "Python",
+          "ReactJS",
+          "NodeJS",
+          "Sci-Kit Learn",
+          "Google Colab",
+          "Kaggle"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Musicality",
+        "description": "Developed a music streaming web app of 50K+ tracks that allows users to listen to new songs anytime, anywhere. Used Spotify-Developer APIs and Advanced UI designs with overlays, animations, and modern features.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "BootStrap",
+          "ReactJS",
+          "MySQL",
+          "NodeJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Internship",
+        "skillsUsed": [
+          "ReactJS",
+          "NodeJS",
+          "ATS",
+          "MongoDB",
+          "RESTful APIs"
+        ],
+        "endDate": "Jul 2023",
+        "company_name": "Paonta Valley LLP",
+        "description": "Developed a Web Recruitment Tech Platform which helps the sales team in recruitment of technology professionals. As a Full Stack Developer, enhanced job description search engine accuracy to 92.56% using Web Search Optimization.",
+        "location": "Bangalore",
+        "links": "",
+        "startDate": "Jan 2023"
+      },
+      {
+        "role_name": "Internship",
+        "skillsUsed": [
+          "Database",
+          "AICTE Portal"
+        ],
+        "endDate": "Jan 2023",
+        "company_name": "All India Council for Technical Education (AICTE)",
+        "description": "Worked as Data Management Volunteer in preparation for the National Cooperative Database of cooperative societies.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "Python",
+      "Mysql",
+      "MongoDB",
+      "phpMyAdmin",
+      "HTML",
+      "CSS",
+      "XML",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "Latex",
+      "VSCode",
+      "Google Collab",
+      "Google Cloud Console",
+      "GitHub",
+      "Microsoft Office",
+      "MATLAB",
+      "Kaggle"
+    ],
+    "soft_skills": [],
+    "name": "Anubhav Goyal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 128th rank out of 20K+ participants in Weekly Contest 117 conducted on Coding Ninjas (max rating 2439).",
+      "Secured 817th rank out of 9200+ students in Google Kick Start Round E 2022 conducted by Google.",
+      "Solved more than 1000+ Data Structure and Algorithms on Leetcode, Geeksforgeeks, Codechef, Coding Ninjas.",
+      "Winner of Google Cloud Ready Facilitator Program 2022 Prize among 50,000 participants."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech."
+}

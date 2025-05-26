@@ -1,0 +1,182 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Satyendra Kumar",
+  "college": "Noida Institute of Engineering & Technology",
+  "locations": [
+    "Greater Noida, UP",
+    "Kanpur, UP",
+    "Lalganj, UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Using Java",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development using HTML, CSS, JavaScript",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Responsive Web Design",
+        "issuer": "FreeCodeCamp",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Cloud Fundamentals",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to NoSQL",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering & Technology",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida, UP",
+        "ID": 0.0,
+        "grade_received": "8.77/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Pt.Deen Dayal Upadhayaya Sanatan Dharam Vidyalaya",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Intermediate (CBSE)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "SJS Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "High School (CBSE)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "89%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Shopify",
+        "description": "Implemented distinct categories for womens, mens, and kids fashion, enhancing product organization. Integrated a seamless cart functionality to streamline shopping experiences and customer satisfaction. Developed a robust admin panel within Shopify to facilitate easy updates and management of product listings.",
+        "keywords": [
+          "React.js",
+          "MongoDB",
+          "Express",
+          "Node.js",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "[GitHub]"
+      },
+      {
+        "name": "NotesApp",
+        "description": "Integrated user authentication mechanisms for secure access to personal notes, ensuring data privacy. Implemented robust search functionalities to efficiently retrieve specific notes based on content, enhancing user productivity and organization.",
+        "keywords": [
+          "MongoDB",
+          "Express",
+          "Node.js",
+          "React",
+          "Tailwind"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "[GitHub]"
+      },
+      {
+        "name": "NewsApp",
+        "description": "Developed a responsive NewsApp utilizing the NewsAPI to fetch and display current news from various countries and categories, enhancing global news accessibility. Implemented a user-friendly interface with customizable dark and light modes for optimal viewing experience.",
+        "keywords": [
+          "Express",
+          "React",
+          "Tailwind",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "[GitHub]"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "UpSkill Campus",
+        "description": "Implemented microservices architecture using Node.js and Express, improving API response time. Led a cross-functional team in implementing a new feature using React resulting in a user engagement within the first month. Using the MERN Stack, our team developed a user-engaging project named CloudNotes.",
+        "location": "Greater Noida, UP",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "HTML",
+      "SQL",
+      "TypeScript",
+      "React.js",
+      "Angular",
+      "Express.js",
+      "Bootstrap",
+      "Node.js",
+      "Git",
+      "Github",
+      "Jupyter Notebook",
+      "VS code"
+    ],
+    "soft_skills": [],
+    "name": "Satyendra Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 100+ coding Problems on prominent platforms such as LeetCode, HackerRank, and CodeChef.",
+      "College club Co-ordinator: NIET CloudShastra (2022-2024).",
+      "Ranked 3rd in college Annual Tech Fest (Cyber Sapiens)."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

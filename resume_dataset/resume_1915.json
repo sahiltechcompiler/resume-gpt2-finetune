@@ -1,0 +1,137 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Suyash Agnihotri",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.00",
+        "field_of_study": "Computer Science & Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Property Price Predictor",
+        "description": "Developed a property price predictor website that gives detailed and accurate insights to help users make better real estate decisions. The site analyzes various factors to estimate property values effectively. Designed and deployed a scalable RESTful API using Django and Django REST Framework, achieving a 30% improvement in data retrieval speed.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "Matplotlib",
+          "Flask",
+          "Nginix"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Snapgram",
+        "description": "Designed and implemented a social media web application focused on facilitating new friendships and enabling user-generated posts. Used Appwrite for data storage and relationship management, achieving a fast data uploading and fetching. Applied a real-time chat feature using WebSocket and Socket.io, enhancing user engagement and reducing response time by 20%.",
+        "keywords": [
+          "React.js",
+          "Express.js",
+          "Typescript",
+          "Node.js",
+          "Socket.io",
+          "Appwrite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Sharp Career Technologies",
+        "description": "Implemented microservices architecture using Node.js and Express, improving API response time by 25% and reducing server load by 30%. Participated in a cross-functional team that introduced a new feature using React and Redux. This led to a 20% increase in user engagement within the first month. Our focus was on improving the user interface and performance to create a more interactive and user-friendly experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Mar 2024"
+      },
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "Shine&Venture Technologies",
+        "description": "Developed an aesthetically pleasing and user-engaging website using Next.js and Redux, which resulted in a 10% increase in user interaction. The website features a smooth user interface, improved performance, and interactive elements to enhance user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "R",
+      "XML/HTML",
+      "Go Lang",
+      "React.js",
+      "Angular",
+      "Next.js",
+      "Three.js",
+      "Vue.js",
+      "Django",
+      "Flask",
+      "Express.js",
+      "TensorFlow",
+      "Matplotlib",
+      "Seaborn",
+      "jQuery",
+      "Bootstrap",
+      "Node.js",
+      "Strapi"
+    ],
+    "soft_skills": [
+      "Compiler",
+      "Operating System",
+      "Virtual Memory",
+      "Cache Memory",
+      "Encryption",
+      "Decryption",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Neural Networks",
+      "API",
+      "Database Normalization",
+      "Agile Methodology",
+      "Cloud Computing"
+    ],
+    "name": "Suyash Agnihotri",
+    "position": "",
+    "interests": [
+      "Enjoy cooking Indian food and experimenting with different regional recipes and flavors.",
+      "Enjoy reading self-help books to enhance personal growth, improve skills, and gain new perspectives."
+    ],
+    "achievements_and_awards": [
+      "Participated in the Smart India Hackathon, developing a prototype of a brain-controlled wheelchair.",
+      "Took part in the national competition Anveshna, where my team engineered a machine learning-based application to assist farmers in determining the optimal crop to cultivate each season."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

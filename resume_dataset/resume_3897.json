@@ -1,0 +1,135 @@
+{
+  "project_count": 5.0,
+  "designation": "Data Scientist, ML Engineer, Data Analyst, Web Developer",
+  "name": "Aryan Verma",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan, India",
+    "Jaipur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "B. Tech (Hons.)",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.92",
+        "field_of_study": "Computer Science and Engineering with specialization in IoT&IS",
+        "startDate": "August 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Brain Tumor Detection",
+        "description": "Achieved 94% accuracy in detecting brain tumors by utilizing a pre-trained VGG 16 model and a Convolutional Neural Network (CNN).",
+        "keywords": [
+          "Python",
+          "VGG-16",
+          "CNN",
+          "Jupyter Lab"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Spam Email Classification",
+        "description": "Implemented spam email detection using Naive Bayes, Random Forest, Gradient Booster, and CNN with accuracies of 89%, 99%, 97%, and 95%, respectively.",
+        "keywords": [
+          "Python",
+          "Naive Bayes",
+          "CNN",
+          "Jupyter Lab"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Hospital Management System",
+        "description": "Launched a web portal to analyze and present global disease information effectively.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Self Driving Car",
+        "description": "Engineered an autonomous self-driving car project with advanced obstacle detection capabilities, ensuring instant halting upon detecting obstacles.",
+        "keywords": [
+          "Arduino Uno",
+          "IoT Sensors",
+          "C"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Plant Diseases Detection",
+        "description": "Employed the MobileNet architecture and Keras framework to successfully identify and categorize plant diseases using images from the PlantVillage dataset.",
+        "keywords": [
+          "Python",
+          "MobileNet",
+          "Keras",
+          "Jupyter Lab"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [
+          "Programming Languages",
+          "Libraries/Frameworks",
+          "Tools / Platforms",
+          "Databases"
+        ],
+        "endDate": "July 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Enhanced machine learning models for email classification at Celebal Technologies, boosting accuracy from 82% to 92%.",
+        "location": "Jaipur, India",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "Django",
+      "ReactJs",
+      "IntelliJ IDEA",
+      "Visual Studio Code",
+      "Git",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Aryan Verma",
+    "position": "Data Scientist, ML Engineer, Data Analyst, Web Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Published an article on Transforming Casual Observers into Devout Followers: The Unstoppable Force of Storytelling in Driving Sales in Laconic Magazines by House Of Marketers."
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajsthan",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech (Hons.)"
+}

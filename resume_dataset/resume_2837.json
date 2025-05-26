@@ -1,0 +1,180 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Gokul Kannan P",
+  "college": "Chennai Institute of Technology (CIT)",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Web Development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Developing backend apps with Node JS and Express JS",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Frontend Development with React JS",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction & Cyber Security Essentials",
+        "issuer": "CISCO",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute of Technology (CIT)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.38",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Bikes",
+        "description": "Developed a comprehensive web application for booking, rental, and servicing, achieving user satisfaction to 20%. Implemented role-based authentication and intuitive UI/UX using React.js and Material-UI. Utilized MySQL, and Azure cloud for efficient backend, reducing response time by 40% and ensuring 99.9% uptime.",
+        "keywords": [
+          "React JS",
+          "Node JS",
+          "Express JS",
+          "MySQL"
+        ],
+        "endDate": "Jun 2024",
+        "startDate": "May 2024",
+        "url": "https://github.com/Gokulkannan3/bikes"
+      },
+      {
+        "name": "Easyhouse",
+        "description": "Crafted a house rentals application with secure role-based authentication, increasing login success rate by 15%. Integrated NodeMailer for automated email notifications of booking inquiries, reducing response time by 40%. Developed a responsive frontend with React.js and Material-UI, and a robust backend with Express.js and MySQL on Aiven cloud, achieving 90% uptime and reducing server response time by 35%.",
+        "keywords": [
+          "React JS",
+          "Node JS",
+          "Express JS",
+          "MySQL"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Apr 2024",
+        "url": "https://github.com/Gokulkannan3/easyrentals"
+      },
+      {
+        "name": "Innum Vai",
+        "description": "Created a user-friendly food ordering site with secure token-based authentication, enhancing login security by 30%. Employed MySQL and Express.js for a robust and seamless backend, improving access speed by 25%. Deployed the frontend on Vercel and the backend on Aiven, ensuring 90% uptime, scalable access from anywhere.",
+        "keywords": [
+          "React JS",
+          "Node JS",
+          "Express JS",
+          "MySQL"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "Dec 2023",
+        "url": "https://github.com/Gokulkannan3/foodorder"
+      },
+      {
+        "name": "Timely Vax",
+        "description": "Developed a vaccination website with slot booking and status tracking, improving booking efficiency by 40%. Utilized MySQL and Express.js for a structured backend, enhancing data management and retrieval speed by 30%. Deployed the frontend on Vercel, ensuring a professional platform for convenient and reliable slot reservations.",
+        "keywords": [
+          "React JS",
+          "Node JS",
+          "Express JS",
+          "MySQL"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Apr 2024",
+        "url": "https://github.com/Gokulkannan3/screening"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Fullstack Developer",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "United Parcel Services (UPS)",
+        "description": "Contributed to crafting a Parcel Tracking System web application, enhancing tracking efficiency with serial data using springboot. Integrated Raspberry Pi and RFID technology for automated tracking, resulting in optimized parcel management.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2023"
+      },
+      {
+        "role_name": "Front-end Developer",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Cognizant Technology Solutions - (CTS)",
+        "description": "Integrated Unmanned Ground Vehicles (UGVs) into our MERN stack-inventory management app, optimizing efficiency. Streamlined Agile collaboration for a user-friendly interface with role-based authentication. Leveraged UGVs to enhance development processes, delivering a well-documented inventory management system.",
+        "location": "",
+        "links": "",
+        "startDate": "Jul 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C++",
+      "C",
+      "MySQL",
+      "MongoDB",
+      "CSS",
+      "Azure",
+      "Aiven",
+      "Selenium",
+      "Figma",
+      "Wix Studio",
+      "React JS",
+      "React Native",
+      "Node JS",
+      "Express JS",
+      "HTML5",
+      "CSS3",
+      "AWS",
+      "Git Hub",
+      "Docker",
+      "CI/CD pipelines",
+      "Apache",
+      "Linux",
+      "Jenkins"
+    ],
+    "soft_skills": [],
+    "name": "Gokul Kannan P",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "LEETCODE - Solved 350+ problems, Contest ranking of 1581",
+      "CODEFORCES - Contest rating of 823",
+      "Skillrack - Solved 1000+ problems"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.E."
+}

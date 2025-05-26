@@ -1,0 +1,164 @@
+{
+  "project_count": 4.0,
+  "designation": "Full Stack Developer",
+  "name": "KRUSHNA BHARAT KORDE",
+  "college": "Savitribai Phule Pune University",
+  "locations": [],
+  "full_output": {
+    "summary": "Full Stack Web Developer with a strong foundation in both front-end and back-end development, specializing in in JavaScript, Node.js, MongoDB, Express.js and React.js. Proficient in creating dynamic and user-centric web applications using modern technologies and frameworks.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Savitribai Phule Pune University",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Bachelor's degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "71.16%",
+        "field_of_study": "",
+        "startDate": "2017"
+      },
+      {
+        "school": "New English School & Junior College, Baragoan Pimpri",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Certificate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "66.77%",
+        "field_of_study": "",
+        "startDate": "2016"
+      },
+      {
+        "school": "Adarsh Madhyamik Vidyalaya, Pimpalgaon Nipani",
+        "endDate": "2015",
+        "maximum_grade": "",
+        "degree": "Secondary School Certificate",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "85.60%",
+        "field_of_study": "",
+        "startDate": "2014"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Busy-Buy - E-commerce Website Builder",
+        "description": "Frontend development using React.js, and Bootstrap for creating an interactive and responsive user interface. Backend is built on Firebase-cloud, handle authentication and made the platform more secured. Role-based architecture is used in this project, such that admin and users have their own access to the panels. Website Building, Product catalogue, shopping cart functionality, and other features like search, filtering, and sorting this functions are implemented.",
+        "keywords": [
+          "Node.js",
+          "Express",
+          "MySQL",
+          "JavaScript",
+          "React.js",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Store-fleet API",
+        "description": "Backend is built in mongoose with Node.js, Express.js framework to perfectly handle routing and make the platform more secure and versatile. Email Approval and rejection requests, voucher data store. Like and Comment APIs are there for posts and got counts of likes. MongoDB is used to handle the data storage in database. Implemented robust security measures with JWT authentication and encryption techniques, ensuring enhancement in platform security.",
+        "keywords": [
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Issue-Tracker",
+        "description": "Developed a compressive issue-tracking system leveraging HTML, CSS, JavaScript for the front- end and Node.js for the back-end, ensuring a seamless user experience and efficient server-side operations. Implemented user authentication using JSON Web Tokens (JWT) and role-based access control to secure the application, allowing authorized personal to manage issues effectively. Developed robust search and filtering functionalities, allowing users to quickly locate issues based on various criteria and implemented full-text search indexing for optimized data retrieval.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hospital-API , CSV-Upload, Chat-App, Contact-List",
+        "description": "This project and there is many more project I have created.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "React.js",
+          "JavaScript",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer (Teaching Assistance)",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Sunrise Mentors Private Limited (Coding Ninjas)",
+        "description": "Provided in-depth technical guidance and support to students working on web development projects, offering expertise in HTML5, CSS3, and JavaScript for front-end development as well as Node.js, Express, MongoDB, and Mongoose for Back-end development. Conducted thorough code reviews, offering constructive feedback on coding practices, code structure and optimization techniques, with a focus on enhancing students proficiency in web development technologies. Assisted students in diagnosing and resolving technical issues and bugs in their web applications, leveraging debugging tools and methodologies to identify root causes and implement effective solutions. Guided students through the implementation of full stack web applications, emphasizing best practices in architecture design, database modelling, and RESTful API development using Node.js and Express, with MongoDB as the backend database. Clarified complex technical concepts and theories related to web development technologies, including React component architecture, asynchronous programming in JavaScript, and database querying and manipulation with MongoDB.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "Customer Service",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "ICICI BANK",
+        "description": "To enhance customer experience with ICICI Bank, assisted customer for using digital platform, handled queries and given appropriate solution. Learned banking technologies like I-CORE, Power- BI, CRM, VRM.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2021"
+      }
+    ],
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "Java",
+      "DSA",
+      "React.js",
+      "Redux",
+      "JavaScript",
+      "Bootstrap",
+      "HTML",
+      "CSS",
+      "MongoDB",
+      "No-SQL",
+      "Git",
+      "GitHub",
+      "WebSocket",
+      "Socket.IO",
+      "Axios"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Critical Thinking",
+      "Creativity"
+    ],
+    "name": "KRUSHNA BHARAT KORDE",
+    "position": "Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2020.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor's degree"
+}

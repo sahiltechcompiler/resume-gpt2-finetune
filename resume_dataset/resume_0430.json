@@ -1,0 +1,151 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Junaid Jakir Tamboli",
+  "college": "Trinity college of Engineering and Research",
+  "locations": [
+    "Pune,India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "certification course in Mysql",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Crescent high school",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "81.27%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Anglo Boys High School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "79.09%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Trinity college of Engineering and Research",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "SGPA : 8.63",
+        "field_of_study": "",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "StudyNotion",
+        "description": "Developed \"StudyNotion,\" a feature-rich MERN stack project for online learning, enabling students to purchase the latest technology courses and instructors to create and manage their own courses. Integrated secure payment processing using Razorpay API, ensuring safe and hassle-free transactions for course purchases. Implemented a responsive design for optimal user experience across devices, improving accessibility and engagement. Utilized Redux for smooth shopping cart functionality, allowing users to add multiple courses and seamlessly proceed to checkout.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GITHUB"
+      },
+      {
+        "name": "Weather App",
+        "description": "Developed a responsive web application using Javascript and the Weather API to provide users with access to a vast database of climate, temperature and wind speed. The app includes a search through which a user can access weather of any country, state or city. HTML, CSS, JS: Used to develop the frontend of the web application, providing a dynamic and interactive user interface. Weather API: Integrated to access the extensive database of temperature, wind speed and climate ensuring up-to-date information.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GITHUB"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Odoo Developer Intern",
+        "skillsUsed": [
+          "Python programming",
+          "database management",
+          "ERP system customization"
+        ],
+        "endDate": "",
+        "company_name": "Bista Solutions",
+        "description": "As an Odoo Developer Intern worked closely with our experienced team to develop, customize, and implement Odoo modules to meet the specific needs of our clients. This hands-on experience will provide you with valuable skills in Python programming, database management, and ERP system customization.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "MERN Stack Web Development Intern",
+        "skillsUsed": [
+          "ReactJS",
+          "NodeJS",
+          "MongoDB",
+          "ExpressJS",
+          "frontend development",
+          "backend development",
+          "API integration",
+          "database management"
+        ],
+        "endDate": "2023",
+        "company_name": "TwiLearn EduTech",
+        "description": "The MERN Stack Web Development internship is relevant as it signifies my expertise in building web applications using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS. This knowledge is highly valuable in the field of software development, particularly for creating interactive and scalable web applications. With this internship, I have demonstrated proficiency in frontend and backend development, API integration, and database management, in SQL.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Javascript",
+      "Python",
+      "Odoo ERP",
+      "MySQL",
+      "SQL",
+      "MongoDB (Beginner)",
+      "HTML",
+      "CSS",
+      "ReactJS (Intermediate)",
+      "Node.js",
+      "Express.js (Intermediate)",
+      "Git",
+      "GitHub",
+      "Visual Studio Code",
+      "npm",
+      "Redux",
+      "React Context API (Intermediate)",
+      "Tailwind CSS",
+      "Inheritance",
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction"
+    ],
+    "soft_skills": [],
+    "name": "Junaid Jakir Tamboli",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "220+ coding Questions solved on GeeksforGeeks platform, showcasing strong problem-solving skills and algorithmic proficiency.",
+      "I secured the top rank on GeeksforGeeks, showcasing my proficiency in tackling a diverse range of programming challenges."
+    ],
+    "publications": []
+  },
+  "current_location": "Pune,India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": ""
+}

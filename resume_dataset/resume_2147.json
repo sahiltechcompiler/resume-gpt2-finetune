@@ -1,0 +1,160 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Sravani Karri",
+  "college": "SRM AP University",
+  "locations": [],
+  "full_output": {
+    "summary": "Final-year undergraduate with a strong foundation in Computer Science and hands-on experience in Systems Software Development and AI/ML. Proficient in programming languages and various technologies including virtualization, microservices, and modern UI frameworks. Adept at full product development life cycle from design to support. Demonstrates leadership and a commitment to high-quality standards.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL DBMS",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Number Theory",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM AP University",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.66/10",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Tirumula Jn College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "958/1000",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bhashyam Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Music Recommendation System Using Python",
+        "description": "Developed a music recommendation system to analyze user preferences and deliver personalized recommendations. Employed Pandas for data manipulation, scikit-learn for recommendation algorithms, and Matplotlib for data visualization. Implemented preprocessing, feature engineering, and similarity metrics.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "scikit-learn",
+          "Matplotlib",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Brain Stroke Identification",
+        "description": "Developed a machine learning model to classify brain images for stroke detection, enhancing healthcare diagnostics. Conducted model evaluation using accuracy metrics, ROC curves, and cross-validation.",
+        "keywords": [
+          "Python",
+          "scikit-image",
+          "NumPy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Django",
+          "HTML/CSS",
+          "JavaScript",
+          "SQL"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Contributed to a Django project focusing on web development and database management. Enhanced user interfaces, optimized database queries, and improved application performance.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Research",
+        "skillsUsed": [
+          "Python",
+          "NLTK",
+          "scikit-learn",
+          "Pandas"
+        ],
+        "endDate": "June 2023",
+        "company_name": "",
+        "description": "Conducted sentiment analysis involving data preprocessing, model development, and analysis using machine learning techniques.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "SQL",
+      "Data Structures",
+      "Operating Systems Concepts",
+      "Unix/Linux Internals",
+      "Relational Databases",
+      "Computer Architecture",
+      "Agile"
+    ],
+    "soft_skills": [
+      "Excellent communication",
+      "Problem solving",
+      "multi-tasking",
+      "proactive actions",
+      "collaborative teamwork"
+    ],
+    "name": "Sravani Karri",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

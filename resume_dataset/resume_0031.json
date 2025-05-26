@@ -1,0 +1,178 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "J ATIN MADAAN",
+  "college": "Ajay Kumar Garg Engineering College(AKGEC)",
+  "locations": [
+    "Ghaziabad ,India",
+    "Ghaziabad, India",
+    "India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed a 8 month course of Data Science from Physics Wallah.",
+        "skillsLearned": [],
+        "title": "Data Science",
+        "issuer": "Physics Wallah",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analytics with Python",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enhancing Soft Skills and Personality",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College(AKGEC)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of technology(B.Tech)",
+        "location": "Ghaziabad ,India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.67",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "SVSVM",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CBSE (Class XII)",
+        "location": "Ghaziabad, India",
+        "ID": 1.0,
+        "grade_received": "Aggregate:96%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Modern School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE (Class X)",
+        "location": "India",
+        "ID": 2.0,
+        "grade_received": "Aggregate:93%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Email Spam Detector",
+        "description": "Developed a machine learning model to classify emails as spam or not spam. Utilized Python, scikit-learn, and Natural Language Processing techniques. Implemented a Naive Bayes classifier for email classification. Achieved a 95% accuracy rate in spam email classification.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Car Price Prediction Model",
+        "description": "Built a machine learning model to predict car prices based on various features. Employed Python, pandas, scikit-learn for data preprocessing and modeling. Utilized regression analysis techniques. Improved car price predictions with an R-squared value of 0.85.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Diabetes Detection Model",
+        "description": "Built a machine learning model using Python, pandas, and scikit-learn. Predicted diabetes presence with an 85% accuracy rate. Conducted data preprocessing, model selection, and hyperparameter tuning. Addressed class imbalance and identified opportunities for future improvements. GitHub repository available for project details.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Developed a personalized movie recommendation system using collaborative filtering and content-based approaches. Enhanced recommendation quality by combining these methods. Achieved an 96% accuracy rate in movie suggestions. Addressed data sparsity and scalability challenges. Future improvements include real-time recommendations and user feedback integration.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Credit Card Fault Detection",
+        "description": "Developed a machine learning model for detecting fraudulent credit card transactions. Utilized Python, pandas, scikit-learn, and imbalanced dataset techniques. Preprocessed and analyzed transaction data, identifying patterns and anomalies. Implemented algorithms like logistic regression, decision trees, or random forests for fraud detection. Achieved a high detection accuracy, reducing financial losses due to fraud. Continuously improved the model to adapt to evolving fraud patterns. Contributed to enhanced security and risk mitigation in financial transactions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Scientist Intern",
+        "skillsUsed": [
+          "Python",
+          "scikit-learn",
+          "Natural Language Processing"
+        ],
+        "endDate": "",
+        "company_name": "Oasis Infobyte",
+        "description": "Developed a machine learning model to classify emails as spam or not spam. Utilized Python, scikit-learn, and Natural Language Processing techniques. Implemented a Naive Bayes classifier for email classification. Achieved a 95% accuracy rate in spam email classification.",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Data Scientist Intern",
+        "skillsUsed": [
+          "Python",
+          "pandas",
+          "scikit-learn"
+        ],
+        "endDate": "",
+        "company_name": "Bharat Intern",
+        "description": "Built a machine learning model using Python, pandas, and scikit-learn. Predicted diabetes presence with an 85% accuracy rate. Conducted data preprocessing, model selection, and hyperparameter tuning. Addressed class imbalance and identified opportunities for future improvements. GitHub repository available for project details.",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Machine Learning",
+      "Statistical analysis",
+      "Data analysis",
+      "Data visualization",
+      "MySQL",
+      "Data wrangling"
+    ],
+    "soft_skills": [],
+    "name": "J ATIN MADAAN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Consistently ranked among the top 5 students academically.",
+      "Completed advanced coursework in Data Science and Data analyst, gaining expertise in data analyzing skills.",
+      "Actively participated in the Smart India Hackathon (SIH) and qualified internally.",
+      "Maintained a consistently high GPA of 8.7 throughout my academic career, demonstrating strong dedication to academic excellence."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of technology(B.Tech)"
+}

@@ -1,0 +1,114 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sanchi Kataria",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Gurgaon"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor in Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "8.75",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Summz-AI Summarizer",
+        "description": "Summary Generation: Users can input the URL of a lengthy article, and the web app utilizes AI to provide a concise summary of the article content. History Saving with Local Storage: Allowing users to save summaries locally, providing a convenient way to revisit and manage their reading history. Copy to Clipboard Functionality: Enables users to easily share or store the summarized content by copying it to their clipboard. Advanced RTK Query API Requests: Utilizes the advanced capabilities of Redux Toolkit (RTK) Query for making API requests.",
+        "keywords": [
+          "Reactjs",
+          "TypeScript",
+          "Redux Toolkit",
+          "Tailwindcss"
+        ],
+        "endDate": "2024",
+        "startDate": "January 2024",
+        "url": ""
+      },
+      {
+        "name": "BitSavvy- cryptocurrency app",
+        "description": "Developed a Crypto web application with State Management using Redux Toolkit, UI Creation using Ant Design, creating charts using Chart.js, fetching data from multiple sources using RapidAPI and React as the frontend. Visualized data to show the real-time prices, and market trends, daily changes. Top 100 cryptocurrencies, filter by search, insights: in-depth data and trends and latest news.",
+        "keywords": [
+          "Reactjs",
+          "Redux toolkit",
+          "Rapid APIs",
+          "Chartjs"
+        ],
+        "endDate": "2023",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "E-commerce Website",
+        "description": "It involves designing and developing a platform that allows customers to purchase products online. The website has a user-friendly interface, a product catalog, search and filter capabilities, a secure payment gateway, and order management functionalities.",
+        "keywords": [
+          "HTML",
+          "Tailwind CSS",
+          "sass",
+          "JavaScript"
+        ],
+        "endDate": "2022",
+        "startDate": "December 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Spinny",
+        "description": "Developed a React.js web page featuring interactive Chart.js visuals to showcase the companys new loan offerings. Developed a Django-based web application to collect user details and manage database processes for a company dashboard.",
+        "location": "Gurgaon",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "C",
+      "HTML/CSS",
+      "Problem Solving",
+      "Reactjs",
+      "Node.js",
+      "Django",
+      "MongoDB",
+      "MySQL",
+      "Git"
+    ],
+    "soft_skills": [],
+    "name": "Sanchi Kataria",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Earned recognition twice on the Deans List: Excellence in Academics for outstanding academic performance in 2023 and 2024.",
+      "Achieved First place in the ACM Mini Hacks hackathon for building a platform for carbon emission and carbon credits.",
+      "Received Elite certificate in Design and Analysis of Algorithms course on NPTEL by IIT Madras.",
+      "Secured a place in top 10% in the IT Branch.",
+      "Ranked in top 200k on leetcode, 5+ badges on Leetcode.",
+      "9+ GPA in three semesters."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor in Technology"
+}

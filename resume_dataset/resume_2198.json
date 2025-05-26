@@ -1,0 +1,110 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kiran Tummala",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.85/10.0",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Jr.College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "959/1000",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Montfort High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.8/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Build a Browser Code Editor in React",
+        "description": "Developed a browser-based code editor using React, enabling a responsive and interactive coding environment. Integrated support for multiple programming languages, including Python and Java, within the editor interface. Implemented code execution and output/error display features, allowing users to run code and view results directly in the browser.",
+        "keywords": [
+          "React",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Weather API Integration",
+        "description": "Integrated a Weather API using JavaScript to fetch real-time weather data for various locations. Developed a user interface with HTML and CSS to display current weather conditions, forecasts, and other relevant information. Implemented JavaScript for error handling and data validation, ensuring accurate and reliable weather information is presented to users.",
+        "keywords": [
+          "React",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ChatEase: Realtime Private Chat Application",
+        "description": "Developed a responsive chat interface using React, providing a seamless experience for private, real-time messaging with components for user interaction and chat management. Utilized Firebase for backend support, including Firestore for real-time data synchronization, Firebase Authentication for secure user logins, and Cloud Functions for serverless operations. Implemented secure and instant messaging with end-to-end encryption, ensuring private conversations and reliable message delivery.",
+        "keywords": [
+          "React",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Vs code",
+      "Jupyter Notebook",
+      "C++",
+      "Python(Basic)",
+      "React",
+      "SQL",
+      "JavaScript"
+    ],
+    "soft_skills": [
+      "Creativity",
+      "Communication"
+    ],
+    "name": "Kiran Tummala",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved around 200+ problems on Codechef, Leetcode, and Hackerrank",
+      "Codechef 3-star Coder (Maximum Rating: 1658)",
+      "Certified Salesforce Platform Developer"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelors Degree"
+}

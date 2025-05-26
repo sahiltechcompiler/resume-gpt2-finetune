@@ -1,0 +1,136 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Gnanesh Chowdary Tummala",
+  "college": "SRM University, AP",
+  "locations": [
+    "Guntur, India",
+    "Vijayawada",
+    "Gudivada"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.52/10.0",
+        "field_of_study": "Computer Science",
+        "startDate": "Sep 2021"
+      },
+      {
+        "school": "Sri Chaitanya Jr College",
+        "endDate": "Apr 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Vijayawada",
+        "ID": 1.0,
+        "grade_received": "Scored 951 Marks out of 1000 - 95.1%",
+        "field_of_study": "PCM",
+        "startDate": "Jul 2019"
+      },
+      {
+        "school": "Dr KKR Gowtham Concept School",
+        "endDate": "Mar 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Gudivada",
+        "ID": 2.0,
+        "grade_received": "Scored 461 Marks out of 500 - 92.2%",
+        "field_of_study": "",
+        "startDate": "Jul 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mini Banking Application",
+        "description": "Developed a mini banking application in C++ using (OOP) principles. The app offers ATM services like PIN change, deposits, withdrawals, and account management, with transaction times under 1 second and a 50 percent reduction in unauthorized access attempts.",
+        "keywords": [
+          "C++",
+          "OOP",
+          "ATM services"
+        ],
+        "endDate": "December 2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Biometric Template Protection using PHE and LPP",
+        "description": "Engineered an approach for enhancing the template security by integrating Paillier Homomorphic Encryption (PHE) and Locality Preserving Projection (LPP). Increased the accuracy by 5-10% without compromising the security.",
+        "keywords": [
+          "PHE",
+          "LPP",
+          "biometric security"
+        ],
+        "endDate": "December 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ],
+    "experiences": [
+      {
+        "role_name": "Member",
+        "skillsUsed": [
+          "artificial intelligence",
+          "machine learning",
+          "research"
+        ],
+        "endDate": "December 2022",
+        "company_name": "Mccarthy Lab Next Tech Lab",
+        "description": "As a member in the AIML of next tech lab, I worked on artificial intelligence and machine learning, participated in hackathons, and collaborated with other lab members for research and projects.",
+        "location": "Guntur, India",
+        "links": "",
+        "startDate": "May 2021"
+      },
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [
+          "biometric security",
+          "homomorphic encryption",
+          "dimensionality reduction"
+        ],
+        "endDate": "December 2023",
+        "company_name": "SRMAP",
+        "description": "Gained practical experience in biometric template protection schemes. Worked with the professor for exploring new aspects of that domain. Integrated homomorphic encryption and dimensionality reduction for enhancing template security.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "MySQL",
+      "Numpy",
+      "Pandas",
+      "Matplotlib",
+      "Scikit-learn"
+    ],
+    "soft_skills": [],
+    "name": "Gnanesh Chowdary Tummala",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

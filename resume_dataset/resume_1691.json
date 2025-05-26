@@ -1,0 +1,140 @@
+{
+  "project_count": 3.0,
+  "designation": "Event Management Head at Odyssey Literary Society",
+  "name": "Aditi Mishra",
+  "college": "KIET Group Of Institutions",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MySQL essential training",
+        "issuer": "LinkedIn Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Cloud Computing Foundations",
+        "issuer": "Google Cloud",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "BSD PUBLIC SCHOOL",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "72.8",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "KENDRIYA VIDYALAYA",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "95.0",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Flask GIF Messenger",
+        "description": "Created a real time chat application using web sockets and socket.io. Connected and utilized SQL using SQLAlchemy ORM for storage and retrival of messages and GIFs. Also coded additional features like Chat rooms, Live GIF Capture and transfer.",
+        "keywords": [
+          "python",
+          "flask",
+          "sql",
+          "socketio"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Django Micro Blogging platform",
+        "description": "Implemented Blog application with Authentication and authorization. Users can create, read, update and delete blogs. Comment functionality is also implemented. Utilized PostgreSQL for storing blogs, comments and profile pictures. Also implemented email service for forget password functionality.",
+        "keywords": [
+          "python",
+          "django",
+          "sql",
+          "email service"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Minigames",
+        "description": "Created classic Ping Pong and Meteor Shooting game. Coded gaming mechanics from scratch. Implemented physics required for movement, collision and bouncing. Created GUI interface using pygame module layering methodology.",
+        "keywords": [
+          "python",
+          "pygame"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python Intern",
+        "skillsUsed": [],
+        "endDate": "31 Aug 2022",
+        "company_name": "YBI Foundation",
+        "description": "Worked on python language exploring libraries like pygame and flask. Also learned about data structures and alogrithms using python.",
+        "location": "",
+        "links": "",
+        "startDate": "8 Aug 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Flask",
+      "Django",
+      "PyCharm",
+      "Visual Studio Code"
+    ],
+    "soft_skills": [
+      "Event Management",
+      "Public Speaking",
+      "Team Management"
+    ],
+    "name": "Aditi Mishra",
+    "position": "Event Management Head at Odyssey Literary Society",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

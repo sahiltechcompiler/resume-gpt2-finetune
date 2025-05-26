@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "AVANISH SHUKLA",
+  "college": "AJAY KUMAR GARG ENGINEERING COLLEGE",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "AJAY KUMAR GARG ENGINEERING COLLEGE",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA:8.8",
+        "field_of_study": "Computer Science and Engineering - AI-ML",
+        "startDate": "2021"
+      },
+      {
+        "school": "Aatmdeep Vidyalaya,Gorakhpur",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Central Board Of Secondary Education",
+        "startDate": "2019"
+      },
+      {
+        "school": "Aatmdeep Vidyalaya,Gorakhpur",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "Central Board Of Secondary Education",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-state Price prediction",
+        "description": "Architected a seamless and interactive user experience by integrating a Flask-based backend with Machine Learning algorithms and creating the Frontend using HTML, CSS, and JavaScript. Various ML algorithms such as Logistic Regression, DecisionTreeRegressor, GridSearchCV to reduce error up to 80. Tools & technologies used: Python, Machine learning, Flask, Scikit-learn, HTML with model accuracy of 97%.",
+        "keywords": [
+          "Python",
+          "Machine learning",
+          "Flask",
+          "Scikit-learn",
+          "HTML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Face mask detection model",
+        "description": "Implemented a real-time face mask detection model using computer vision techniques and deep learning algorithms, with the VGG16 prebuilt model, to enhance accuracy. Processed image data, trained neural networks, and integrated the model into video systems for real-time mask detection. Spearheaded the implementation of Python, Machine Learning, and CNN techniques to detect face masks with an accuracy of 92%.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "CNN"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Fake news classification",
+        "description": "Developed a high-accuracy fake news classification model using advanced machine learning techniques. Implemented Python, NLP, and RandomForest classifier, which improved detection accuracy by 95% and reduced misinformation spread by 40%. This project involved preprocessing news classified data, training using machine learning, and achieving an accuracy of 98% on the test dataset. Tools & technologies used: Python, Scikit-learn, NLP.",
+        "keywords": [
+          "Python",
+          "NLP",
+          "RandomForest"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      }
+    ],
+    "languages": [
+      "English(Working Prof.)",
+      "Hindi(Native Prof.)"
+    ],
+    "experiences": [],
+    "skills": [
+      "Operating System",
+      "Databases",
+      "ComputerNetworks",
+      "Compiler Design",
+      "Data Structures",
+      "Software engineering",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "C++",
+      "Pandas",
+      "Numpy",
+      "TensorFlow",
+      "Matplotlib",
+      "Django-Rest",
+      "Flask",
+      "NLP",
+      "Datascience",
+      "Git",
+      "Github",
+      "Visual Studio Code",
+      "Remix IDE"
+    ],
+    "soft_skills": [
+      "Collaboration",
+      "Public Speaking",
+      "Management",
+      "Flexibility"
+    ],
+    "name": "AVANISH SHUKLA",
+    "position": "",
+    "interests": [
+      "Data Structure and Algorithms",
+      "Object Oriented Programming",
+      "Web Development",
+      "Data Analytics",
+      "Machine Learning",
+      "Generative-AI"
+    ],
+    "achievements_and_awards": [
+      "Participation certificate of Scrolls 2023,n which 100+ teams participated.",
+      "100-day streak batch on Leetcode Practiced more than 400 problems on Leetcode(Highest rating-1600).",
+      "Solved more than 200 problem on CodeChef(Highest Rating-1503).",
+      "Solved more than 250 problems on Codeforces."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

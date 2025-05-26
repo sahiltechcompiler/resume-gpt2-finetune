@@ -1,0 +1,110 @@
+{
+  "project_count": 2.0,
+  "designation": "Full Stack Developer",
+  "name": "Vivek Kumar Dubey",
+  "college": "Ghaziabad",
+  "locations": [
+    "Gurugram Haryana sector 48"
+  ],
+  "full_output": {
+    "summary": "Full Stack Developer with over a year of experience in crafting, developing, and launching robust web applications. Procient in contemporary client-side and server-side technologies, with a focus on optimizing performance, ensuring scalability, and fostering eective team collaboration.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ghaziabad",
+        "endDate": "06/2019",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Mechanical Engineering",
+        "startDate": "07/2015"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Checkout Cart",
+        "description": "Designed an e-commerce website with shopping cart using Reactjs and Redux. Used react libraries to add styling Added Payment Method Using stripe",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Contact Management",
+        "description": "Contact management system is designed to help users organize and manage their contacts eciently. This system allows users to store and retrieve contact information such as names, phone numbers, email addresses, and other relevant details. Contacts can be categorized and tagged based on dierent criteria, such as family, friends, colleagues, and business partners, for easier organization and retrieval. The system provides robust search and ltering capabilities, allowing users to quickly nd specic contacts or groups of contacts based on various attributes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "HINDI Full Professional Prociency",
+      "English Full Professional Prociency"
+    ],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Pensys Software Pvt. Limited",
+        "description": "Steak House, a Super Admin or any authorized user with the necessary permissions can create a company. Each company can have multiple stores, which oer products and feature an advanced cart system where users can add products and manage cart items. The project integrates seamless payment processing and utilizes highly ecient APIs. Additionally, it oers a powerful ltering functionality, enabling users to eortlessly search for products. Designed and implemented a robust database schema for an e-commerce platform, which included key entities such as Customers, Products, Orders, Payments, Shipments, Companies, Store, Ratings and Reviews. I established relationships between these entities using normalization techniques to ensure data integrity and minimize redundancy. The schema allowed for multiple products to be associated with a single company while enabling customers to leave ratings and reviews for products they purchased. Designed a feature-rich e-commerce website using React.js for building Reusable UI components and Redux for managing the shopping cart and user authentication. The site utilizes CSS for responsive design and integrates Stripe for secure payment processing. Key functionalities include dynamic product fetching from an external API, persistent shopping cart management, user account creation, and mobile-friendly design.",
+        "location": "Gurugram Haryana sector 48",
+        "links": "",
+        "startDate": "09/2023"
+      },
+      {
+        "role_name": "Software Developer Internship",
+        "skillsUsed": [],
+        "endDate": "03/2023",
+        "company_name": "HOPIND MINDS",
+        "description": "Assisted in the development and maintenance of web applications using JavaScript, React.js, and Node.js. Collaborated with the development team to design and implement new features for an e-commerce platform Participated in code reviews and contributed to improving code quality by following best practices and standards.",
+        "location": "",
+        "links": "",
+        "startDate": "09/2022"
+      }
+    ],
+    "skills": [
+      "Javascript",
+      "Java",
+      "Nodejs",
+      "Reactjs",
+      "Express.js",
+      "Html",
+      "CSS",
+      "SQL",
+      "MongoDB",
+      "PostgreSql",
+      "Prisma",
+      "Ajax",
+      "JQuery",
+      "Kafka",
+      "Redis",
+      "Docker",
+      "GitHub",
+      "AwsS3Client",
+      "Elasticsearch",
+      "Debugging",
+      "SSE",
+      "Meilisearch",
+      "WebSocket"
+    ],
+    "soft_skills": [
+      "Creative thinking",
+      "Collaboration and teamwork",
+      "Problem-solving"
+    ],
+    "name": "Vivek Kumar Dubey",
+    "position": "Full Stack Developer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Gurugram, India",
+  "graduation_year": 2019.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor Of Technology"
+}

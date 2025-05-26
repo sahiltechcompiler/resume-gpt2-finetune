@@ -1,0 +1,163 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Ishita Gupta",
+  "college": "Dr. A. P. J. Abdul Kalam Technical University",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh, India",
+    "Gorakhpur, Uttar Pradesh, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mastering Data Structures & Algorithms using C and C++",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NodeJS, MongoDB, and Express - Beginner to Intermediate",
+        "issuer": "Infosys",
+        "certiLink": "Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Springboot Hands-on Web Development with React",
+        "issuer": "Infosys",
+        "certiLink": "Link"
+      }
+    ],
+    "social_work": [
+      "Volunteering in NayePankh Foundation."
+    ],
+    "education": [
+      {
+        "school": "Dr. A. P. J. Abdul Kalam Technical University",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "SGPA: 8.07",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "October 2021"
+      },
+      {
+        "school": "Oxford Public School",
+        "endDate": "July 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Gorakhpur, Uttar Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "81.2%",
+        "field_of_study": "",
+        "startDate": "June 2019"
+      },
+      {
+        "school": "Carmel School",
+        "endDate": "March 2019",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "Gorakhpur, Uttar Pradesh, India",
+        "ID": 2.0,
+        "grade_received": "96.8%",
+        "field_of_study": "",
+        "startDate": "July 2008"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Burgers Co",
+        "description": "Worked with MVC frameworks to develop robust and scalable back end, enhancing code maintainability by 25%. Created REST APIs to retrieve and display data from databases, improving data access speed by 30%. Enabled a 25% faster, authentication and authorization system with Express.js for efficient server-side development. Stripe API integration for secure payment processing along with Product and order management.",
+        "keywords": [
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "EstateEase",
+        "description": "Developed a real estate application using the MERN stack to manage property listings, user authentication and interactive maps. Designed a responsive front end with React.js, increasing user engagement by 40%. Integrated Google Maps API for location-based services and geolocation, enhancing user experience by 35%. Utilized Socket.IO for real-time chat features, facilitating instant communication between users and agents, improving user retention by 20%.",
+        "keywords": [
+          "MongoDB",
+          "Express",
+          "ReactJS",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "React.js",
+          "Next.js"
+        ],
+        "endDate": "March 2024",
+        "company_name": "Adnecto Technologies",
+        "description": "Leveraged Google API for authentication and YouTube API for multimedia content integration, boosting user login speed by 35% and increasing multimedia content accessibility by 30%. Utilized Node.js, Express.js, and MongoDB for back end development, enhancing data retrieval efficiency by 30%. Implemented design using React.js and Next.js, focusing on user-friendly interfaces, which improved user engagement by 25%.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "February 2024"
+      },
+      {
+        "role_name": "Coordinator [Training And Placement Cell]",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "",
+        "description": "Coordinated and executed over 60 campus recruitment drives and pool campus drives, along with 15+ training programs, workshops, and seminars annually. Collaborated with 500+ students, 20+ faculty members, and numerous industry professionals.",
+        "location": "",
+        "links": "",
+        "startDate": "October 2022"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "C/C++",
+      "HTML",
+      "CSS",
+      "NodeJS",
+      "ExpressJS",
+      "ReactJS",
+      "Next.js",
+      "MongoDB",
+      "MySQL",
+      "Visual Studio Code",
+      "Git",
+      "Postman",
+      "Mongoose"
+    ],
+    "soft_skills": [],
+    "name": "Ishita Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Noida, Uttar Pradesh, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,153 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ravneet Singh",
+  "college": "GTBIT",
+  "locations": [
+    "Rajouri Garden, Delhi",
+    "Mansarover Garden, Delhi",
+    "Kanpur Uttar Pradesh, Virtual",
+    "Mumbai, Maharashtra, Virtual",
+    "kolkata, west bengal, Virtual"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GTBIT",
+        "endDate": "2025",
+        "maximum_grade": "10",
+        "degree": "B.Tech",
+        "location": "Rajouri Garden, Delhi",
+        "ID": 0.0,
+        "grade_received": "8.77",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "GTB SCHOOL",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Mansarover Garden, Delhi",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "STUDYNOTION",
+        "description": "StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS. StudyNotion aims to provide: A seamless and interactive learning experience for students, making education more accessible and engaging. A platform for instructors to showcase their expertise and connect with learners across the globe.",
+        "keywords": [
+          "MERN",
+          "ReactJS",
+          "NodeJS",
+          "MongoDB",
+          "ExpressJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Code"
+      },
+      {
+        "name": "DEV-DETECTIVE",
+        "description": "Dev-Detective is a useful project that can help you find the GitHub details and profile of any person. This project is developed using HTML, CSS, and JavaScript.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Link"
+      },
+      {
+        "name": "AUTH-APP",
+        "description": "Authentication app made using Express.js and MongoDB, facilitates user login/signup using JWT tokens. Post authentication, users can access designated routes with additional security enforced via middlewares.",
+        "keywords": [
+          "Express.js",
+          "MongoDB",
+          "JWT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FrontEnd Developer Intern",
+        "skillsUsed": [
+          "React",
+          "CSS"
+        ],
+        "endDate": "January 24",
+        "company_name": "BHARAT TECH",
+        "description": "I played a pivotal role in the BCode project, leveraging React and CSS to develop the frontend while seamlessly integrating backend functionality for a cohesive user experience.",
+        "location": "Kanpur Uttar Pradesh, Virtual",
+        "links": "",
+        "startDate": "October 23"
+      },
+      {
+        "role_name": "Crowfunding-Intern",
+        "skillsUsed": [],
+        "endDate": "October 23",
+        "company_name": "MUSHKURAT FOUNDATION",
+        "description": "",
+        "location": "Mumbai, Maharashtra, Virtual",
+        "links": "",
+        "startDate": "September 23"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "September 23",
+        "company_name": "CODSOFT",
+        "description": "Designed and implemented responsive and user-friendly front-end interfaces using HTML, CSS, and JavaScript to improve user engagement and experience.",
+        "location": "kolkata, west bengal, Virtual",
+        "links": "",
+        "startDate": "August 23"
+      }
+    ],
+    "skills": [
+      "C++",
+      "HTML",
+      "C",
+      "Javascript",
+      "CSS",
+      "Node.js",
+      "React.js",
+      "Tailwind CSS",
+      "Express.js",
+      "MongoDb",
+      "MySQL",
+      "Java",
+      "Python"
+    ],
+    "soft_skills": [],
+    "name": "Ravneet Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "2023 Completion Web Dev Bootcamp",
+      "2023 Completion DSA Batch",
+      "2023 Hackathon Participation(VIHAAN 6.0)",
+      "Codehelp",
+      "Codehelp IEE-DTU"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

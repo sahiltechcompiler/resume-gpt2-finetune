@@ -1,0 +1,156 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Harsh Mittal",
+  "college": "Indian Institute of Information Technology, Kottayam",
+  "locations": [
+    "Kerala, India",
+    "Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology, Kottayam",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Kerala, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.3",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Dec 2020"
+      },
+      {
+        "school": "Saraswati Vidya Mandir Sr. Sec. School, Kosi Kalan",
+        "endDate": "Mar 2019",
+        "maximum_grade": "",
+        "degree": "AISSCE",
+        "location": "Uttar Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "Aggregate: 97.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Saraswati Vidya Mandir Sr. Sec. School, Kosi Kalan",
+        "endDate": "Mar 2017",
+        "maximum_grade": "",
+        "degree": "AISSE",
+        "location": "Uttar Pradesh, India",
+        "ID": 2.0,
+        "grade_received": "Aggregate: 10 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dice Chess",
+        "description": "Innovated a real-time desktop application with intuitive UI for the traditional game of Chess using PyGame library. Added twist to the traditional rules by introducing randomness based on dice-roll(6 faces of dice to 6 pieces of chess) for choosing the pieces to be moved. Implemented move validation for all pieces and incorporated play-with-computer feature based on Minimax algorithm with a depth of 3.",
+        "keywords": [
+          "Python",
+          "PyGame"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SneakPeak - Ecommerce Website",
+        "description": "Developed a sneaker e-commerce site featuring secure user authentication, dynamic shopping cart, and user friendly interface. Integrated secure user authentication and role-based authorization using JWT, allowing users to sign up, log in, and manage their accounts. Built RESTful APIs for product management and order processing.",
+        "keywords": [
+          "NodeJs",
+          "Express",
+          "React",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Class Automation",
+        "description": "Automated Class Attendance: Implemented an automation script to join online classes on time ensuring consistent class participation. Scheduled Task Execution: Utilized Windows Task Scheduler to run the script daily at specific times. Web Scraping and Interaction: Leveraged Selenium to interact with the college portal, including handling login and navigating to class options.",
+        "keywords": [
+          "Python",
+          "Selenium",
+          "Windows Task Scheduler"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MLH Unofficial API",
+        "description": "Web Crawler: Crawls the MLH Website weekly to save hackathon details in MongoDB Atlas Database. API: Gives details of past and upcoming MLH Hackathons. Worked on merging it with discord bot.",
+        "keywords": [
+          "FastAPI",
+          "PyMongo",
+          "Selenium",
+          "BeautifulSoup",
+          "MongoDB Atlas"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [
+          "React",
+          "Jest",
+          "Git"
+        ],
+        "endDate": "June 2023",
+        "company_name": "Amazon.com, Inc.",
+        "description": "Worked with FireTv team to implement Model-View-ViewModel design into settings package. Enhanced the performance of MVVM modules by 64 percent, optimizing react hooks. Explored architectural best practices and gained practical experience in react-native development, unit testing with Jest, and using git as the version control system.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Javascript ES6",
+      "Python",
+      "HTML5",
+      "NodeJs",
+      "ExpressJs",
+      "ReactJs",
+      "React Native",
+      "Tailwind CSS",
+      "Jest",
+      "Restful API",
+      "GIT",
+      "GitHub",
+      "MongoDB",
+      "Selenium",
+      "Data Structures",
+      "Algorithms",
+      "OOPS",
+      "Computer Networks",
+      "Operating Systems"
+    ],
+    "soft_skills": [],
+    "name": "Harsh Mittal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured Global Rank 402 among 15,000 contestants in Codechef January Long Challenge 2022",
+      "Secured Global Rank 4789 in Google Hash Code 2022",
+      "Secured global rank 378 among 4500 contestants in Codechef Starters 120"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,212 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Deepica G",
+  "college": "Chennai Institute Of Technology",
+  "locations": [
+    "Chennai,Tamilnadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Data Analytics",
+        "issuer": "COURSERA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MySQL",
+        "issuer": "GUVI",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The complete 2023 web Development Bootcamp",
+        "issuer": "UDEMY",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Data Engineering and Big Data",
+        "issuer": "GUVI",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA 1(Introduction To Networks)",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA 2(Switching,Routing and Wireless Essentials)",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "CISCO",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chennai,Tamilnadu",
+        "ID": 0.0,
+        "grade_received": "CGPA 8.37",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Care Companion( Medical ChatBot)",
+        "description": "Developed a comprehensive medical chatbot application utilizing Python and advanced natural language processing (NLP) techniques and large language models (LLMs) to facilitate patient engagement and improve healthcare services. Integrated the chatbot with Pinecone for efficient vector database management and Hugging Face for state-of-the-art NLP models. Implemented Langchain to manage conversational flows and ensure seamless interactions.",
+        "keywords": [
+          "python",
+          "ctransformers",
+          "Langchain",
+          "Pinecone",
+          "Hugging Face"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Insight Retriever",
+        "description": "A tool that allows users to ask questions and retrieve information from PDF documents using advanced AI models. Utilized Gemini and LLaMA-2 for language understanding and retrieval. Connected language models with PyPDFLoader for seamless document processing.",
+        "keywords": [
+          "Retrieval-Augmented Generation (RAG)",
+          "OpenAI",
+          "LlamaIndex"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Recommendation System",
+        "description": "Constructed a Recommendation System, employing Machine Learning algorithms to suggest movies based on user watch history and ratings implemented cosine similarity techniques for accurate results. Achieved a maximum of 87% accuracy.",
+        "keywords": [
+          "Numpy",
+          "Matplotlib",
+          "Pandas",
+          "Cosine Similarity"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Petal Artistry(Flower Delivery website)",
+        "description": "Petal Artistry revolutionizes the floral industry with a state-of-the-art web application developed using React.js, Node.js/Express, MySQL Achieving an impressive 35% increase in performance and reducing deployment time by 60%.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [
+          "data analytics",
+          "Power BI",
+          "data analysis",
+          "database management"
+        ],
+        "endDate": "22 March 2024",
+        "company_name": "Hyundai Motor India Ltd",
+        "description": "During my internship, I actively engaged in data analytics tasks, extracting meaningful insights from complex datasets. Employing visualization tools such as Power BI to create dynamic dashboards, enabling real-time data visualization and decision-making. This experience enhanced my proficiency in data analysis and database management.",
+        "location": "Chennai,Tamilnadu",
+        "links": "",
+        "startDate": "18 March 2024"
+      },
+      {
+        "role_name": "Data Analytics Intern",
+        "skillsUsed": [
+          "data analytics",
+          "machine learning",
+          "problem-solving"
+        ],
+        "endDate": "June 2023",
+        "company_name": "Oasis Infobyte",
+        "description": "During my internship at Oasis, I Undertook: Customer Segmentation, Wine Quality prediction and Housing Price Prediction. Leveraging data analytics techniques, I uncovered patterns, detected anomalies, and forecasted outcomes, refining my expertise in data analysis, machine learning, and problem-solving.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Python"
+        ],
+        "endDate": "March 2024",
+        "company_name": "Teachzee",
+        "description": "During my internship, I gained hands-on experience in frontend development, utilizing HTML, CSS, and JavaScript and have developed an application in the website with python programming language Automatic TimeTable Generator which generates timetable for school and college students.",
+        "location": "Chennai,Tamilnadu",
+        "links": "",
+        "startDate": "February 2024"
+      }
+    ],
+    "skills": [
+      "Programming-Python",
+      "Java",
+      "Data Exploration and Visualization-Excel",
+      "PowerBI",
+      "Data Science Libraries-Numpy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "langchain"
+    ],
+    "soft_skills": [],
+    "name": "Deepica G",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

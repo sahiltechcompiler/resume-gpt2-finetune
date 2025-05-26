@@ -1,0 +1,219 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Pramod Kumar",
+  "college": "Noida institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "Passionate beginner-level ethical hacker pursuing a B.Tech, dedicated to mastering cybersecurity. Eager to learn and apply ethical hacking techniques to enhance digital security. Strong foundational knowledge and a commitment to staying updated with industry trends. Seeking opportunities to contribute to cybersecurity efforts and solve security challenges.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Java",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming in C",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structure Using Python",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to AI",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate of completion of basic python",
+        "issuer": "Coursra",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Ethical hacking course",
+        "issuer": "FN carrer",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Cybersecurity Certification",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Cloud Fundamentals & Infrastructure",
+        "issuer": "Google Cloud",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida institute of Engineering and Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B-Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": ""
+      },
+      {
+        "school": "Paras public senior secondary school",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "92%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Paras public junior high school",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "82.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Password Manager",
+        "description": "Key Features: Implemented encryption for safe password storage and retrieval. Technologies Used: Utilized Python libraries such as Tkinter for the GUI and cryptography for encryption. Functionality: Enabled users to generate, store, and manage complex passwords efficiently. Outcome: Enhanced user security by providing a reliable tool for managing and protecting passwords.",
+        "keywords": [
+          "Python",
+          "Tkinter",
+          "cryptography"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Expanse Tracker",
+        "description": "Key Features: Implemented real-time tracking and categorization of expenses. Technologies Used: Utilized Python libraries such as Tkinter for the GUI and SQLite for database management. Functionality: Enabled users to input, categorize, and visualize expenses through interactive charts. Outcome: Improved financial management by providing a user-friendly tool for monitoring and analyzing spending habits.",
+        "keywords": [
+          "Python",
+          "Tkinter",
+          "SQLite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "File-Organizer",
+        "description": "Key Features: Implemented automatic sorting and categorization of files. Technologies Used: Utilized Python libraries such as os and shutil for file operations. Functionality: Enabled users to organize files into predefined folders based on file types and extensions. Outcome: Enhanced productivity by simplifying file management and reducing clutter on users' systems.",
+        "keywords": [
+          "Python",
+          "os",
+          "shutil"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Tank game using Python",
+        "description": "Key Features: Implemented player controls, enemy AI, and collision detection. Technologies Used: Utilized Python libraries such as Pygame for game development. Functionality: Enabled users to control a tank, engage in combat with AI enemies, and navigate through various levels. Outcome: Enhanced gaming experience by providing an interactive and engaging game with smooth controls and challenging gameplay.",
+        "keywords": [
+          "Python",
+          "Pygame"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Industrial Task Monitoring System",
+        "description": "Key Features: Implemented real time monitoring capability, track task progress, task allocation. Technologies Used: Utilized Spring Boot, Spring Security, H2 Database, Maven, Thymeleaf. Functionality: Enable users to monitor running tasks, assign new tasks, create new tasks, add new users. Outcome: Enhanced efficiency, increased productivity, cost savings, greater accountability.",
+        "keywords": [
+          "Spring Boot",
+          "Spring Security",
+          "H2 Database",
+          "Maven",
+          "Thymeleaf"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python (including GUI development with Tkinter)",
+      "C/C++",
+      "Java",
+      "Ethical hacking",
+      "network security",
+      "penetration testing",
+      "vulnerability assessment",
+      "Wireshark",
+      "Metasploit",
+      "Nmap",
+      "Burp Suite",
+      "Pygame",
+      "SQLite",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Communication",
+      "Teamwork",
+      "Adaptability",
+      "Time Management"
+    ],
+    "name": "Pramod Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Gr. Noida, 201306",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B-Tech"
+}

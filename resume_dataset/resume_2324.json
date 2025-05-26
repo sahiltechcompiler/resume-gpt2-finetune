@@ -1,0 +1,86 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "AMIT CHAUHAN",
+  "college": "Ajay kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Agra, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay kumar Garg Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (B.Tech)",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering and Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "St.Andrews Senior Secondary School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Agra, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Science with Mathematics",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Expance Tracker",
+        "description": "Developed a web-based Expense Tracker application to assist users in managing their finances by tracking income and expenses. Key Features: Real-time balance calculation Add, edit, and delete transactions Responsive design for mobile and desktop devices",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github link"
+      },
+      {
+        "name": "AKGEC Chatbot",
+        "description": "Developed a chatbot for my college using Botpress, integrating AI capabilities for enhanced functionality and user interaction. Key Features: Conversational interface for intuitive interaction Access to real-time information on campus resources and services Integration with AI capabilities for natural language processing and contextual understanding",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "C++",
+      "React.js",
+      "BootStrap",
+      "Tailwind CSS",
+      "MongoDB",
+      "Visual Studio Code",
+      "IntelliJ IDEA",
+      "Replit"
+    ],
+    "soft_skills": [],
+    "name": "AMIT CHAUHAN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed over 300+ coding challenges on LeetCode",
+      "Awarded second prize for outstanding performance in the project exhibition",
+      "Codeforces Rating: 1400+"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology (B.Tech)"
+}

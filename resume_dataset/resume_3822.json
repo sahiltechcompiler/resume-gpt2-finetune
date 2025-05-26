@@ -1,0 +1,184 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anjali Soni",
+  "college": "PSIT College of Engineering",
+  "locations": [
+    "Kanpur, UP",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Modern JavaScript: ES6 Basics",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to cloud Identity",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with AWS Machine Learning",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Skill Certification for Python and SQL",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Link",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Automation Developer Associate Training",
+        "issuer": "UiPath",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "PSIT College of Engineering",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Kanpur, UP",
+        "ID": 0.0,
+        "grade_received": "CGPA-8.23",
+        "field_of_study": "Computer Science",
+        "startDate": "Dec 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-time chat application using Django channels",
+        "description": "I Successfully developed a Real-time chat application using Django channels. This hands-on project allowed me to enhance my technical skills in Python, Django, HTML, CSS, JavaScript and Bootstrap. Users can sign up, log in, join various channels representing different communities, and actively participate in discussions through real-time chat.",
+        "keywords": [
+          "Django",
+          "Python"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "October 2023",
+        "url": "Link"
+      },
+      {
+        "name": "Green Vision",
+        "description": "Developed a solution to enhance food security through early disease detection using Deep learning algorithms. Collected 2152 files from Kaggel a of potato leaf and implemented diverse data augmentation techniques to enrich the training dataset, ensuring robust model performance and effective disease identification. We applied CNN to increase the models efficiency, and numerous data augmentation techniques have been applied on the training data and get the accuracy of 98.2.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "Tensorflow",
+          "CNN",
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "September 2023",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Predicting the health Risk of Pregnant Patient",
+        "description": "The applicability and performance of Machine learning methods used to identify pregnancy complications. The dataset used here consists data of from 1014 patients who have consented to share data such as age, systolic blood pressure, diastolic blood pressure, heart rate, blood glucose levels, body temperature. With an accuracy of 93.2 Percentage we deployed the model using streamlit which Classify the patients with a low, medium or high risk of having pregnancy complications.",
+        "keywords": [
+          "Python",
+          "Scikit-learn",
+          "Numpy",
+          "Pandas",
+          "Streamlit"
+        ],
+        "endDate": "October 2022",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend Developer",
+        "skillsUsed": [
+          "PostgresSQL",
+          "ChromaDB",
+          "LLM model",
+          "Prompt",
+          "Python APIs"
+        ],
+        "endDate": "Present",
+        "company_name": "Tarro-AI-Powered Market Insights for Investors",
+        "description": "The AI-Powered Market Insights for Investors in Stock markets and this project helps investors make better decisions by providing valuable and actionable market insights. This project includes several smaller projects that work together to collect, process, and analyze financial data from sources like Yahoo Finance and the National Stock Exchange (NSE). To use AI and Large language model for advanced data analysis and trend prediction. Use APIs and web scraping to collect data on stock prices, market trends, financial news, etc.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "April 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL(Structured Query Language)",
+      "VS Code",
+      "Google Cloud Platform",
+      "UiPath Studio",
+      "Jupyter NoteBook",
+      "Google Collab",
+      "MySQL",
+      "Reactjs",
+      "Rest API",
+      "Tensorflow",
+      "Keras",
+      "PyTorch",
+      "LLM models",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Scikit-learn",
+      "OpenCV",
+      "Streamlit",
+      "Flask",
+      "Bootstrap",
+      "Git/Github",
+      "ChromaDB",
+      "Prompt Engineering",
+      "Supervised Learning Algorithm",
+      "Image Recognition Model",
+      "Agile methodology"
+    ],
+    "soft_skills": [],
+    "name": "Anjali Soni",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured AIR 765 and College Rank 5 in Codekaze-Sept23 held by Coding Nijas.",
+      "Earned GFG Swags for coming in the top 150 of Mega Job-A-Thon for Professionals Scored. [152/175]",
+      "Open Source Contribution at Hacktober Fest- Badge.",
+      "Solved 550+ Question of Problem Solving with 1600+ Contest Rating at Leetcode.[Username: anjali17]",
+      "Accomplished 1 month training from Code clause of webdevelopment and Create 2 projects i,e BG Remover and Link Facial recognition Attendance System.-Livesite1 , Livesite2."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,101 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vishnu Aggarwal",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "YamunaNagar"
+  ],
+  "full_output": {
+    "summary": "Dedicated and enthusiastic Software Developer eager to embark on a journey in the world of technology. With a strong passion for programming and problem-solving, I am poised to contribute to your team and learn from the wealth of experience it has to offer. Throughout my academic journey and personal projects, I have gained a solid foundation in various programming languages, software development methodologies, and the latest industry trends.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Delhi Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "YamunaNagar",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Factory Billing Software",
+        "description": "Developed using Python. The database used to store data is MYSQL. It also provide features like billing is done of different sizes of plywood and the total amount is calculated including GST. All the details and older invoices are stored in MySQL. User details and orders can be viewed in form of tables and some specific details can be searched.",
+        "keywords": [
+          "Python",
+          "MYSQL"
+        ],
+        "endDate": "07/2021",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Multilingual Chatbot",
+        "description": "Using Generational AI. Seamlessly communicate in multiple languages with our Multilingual Chatbot. Powered by Generational AI, it adapts its conversational style based on the user's generation. Engage naturally, whether you're a Gen Z digital native or a Baby Boomer. Personalized interactions make conversations smoother and more intuitive.",
+        "keywords": [
+          "Generational AI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Data Extraction and Preprocessing",
+        "description": "Efficiently gather and prepare raw data from various sources. Utilize automated extraction techniques for accuracy and completeness. Clean, transform, and format data through preprocessing methods. Ensure data readiness for insightful analysis and decision-making.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "HTML",
+      "JAVA",
+      "CSS",
+      "C",
+      "JavaScript",
+      "AWS Cloud",
+      "MYSQL",
+      "Windows",
+      "Linux"
+    ],
+    "soft_skills": [],
+    "name": "Vishnu Aggarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Flipkart Grid 5.0",
+      "Smart India Hackathon",
+      "Hackx"
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur, India",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

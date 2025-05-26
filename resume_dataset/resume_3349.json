@@ -1,0 +1,170 @@
+{
+  "project_count": 4.0,
+  "designation": "Software Engineer",
+  "name": "KHUSH SANGHAVI",
+  "college": "Shah & Anchor Kutchhi Engineering College",
+  "locations": [
+    "Chembur, Mumbai",
+    "Kandivali, Mumbai",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah & Anchor Kutchhi Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E. (IT)",
+        "location": "Chembur, Mumbai",
+        "ID": 0.0,
+        "grade_received": "8.83 CGPA",
+        "field_of_study": "",
+        "startDate": "2022"
+      },
+      {
+        "school": "Thakur Polytechnic",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Diploma(IT)",
+        "location": "Kandivali, Mumbai",
+        "ID": 1.0,
+        "grade_received": "84.88%",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce Watches/Clocks",
+        "description": "User Registration and Authentication. Secure Payment Processing through Braintree. User can search products and can filter products by category and price range.",
+        "keywords": [
+          "MONGODB",
+          "EXPRESS",
+          "REACT",
+          "NODE"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Student Tracking System",
+        "description": "Having sign up and login functionality for Student, Teacher, Mentor. Uses Hashing for password encryption using bcrypt.js, also having light/dark mode. Storing and retrieving of certifications of students in image form. The data can be retrieved in the form of an excel sheet.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "TechCrunch - Tech Blogs",
+        "description": "User Registration and Authentication. Takes Title and Description. Integration of OpenAI API for description generation.",
+        "keywords": [
+          "React",
+          "Hono",
+          "TypeScript",
+          "PostGres",
+          "Prisma"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "ChatCord",
+        "description": "Displays the name of the person and also can handle many people in the room. Also tells the name and the time when one enters or leaves the room.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "NODE",
+          "EXPRESS",
+          "SOCKETS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE - Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Bootstrap",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "ITJOBXS",
+        "description": "Worked on the Development part of a fully Responsive Web- page of ITJOBXS.com. Worked on User Verification/Authentication + Engineering challenges of detecting and removing the fake bots and posts. Integrated Recaptcha with the website - Google Layer of Protection for websites.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Web Developer - Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Bootstrap",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "Dec 2021",
+        "company_name": "Static.Int",
+        "description": "Worked on the Design and Development part of a Responsive Webpage for some sections of Static.Int. Worked on styling and animation of the website achieved a 30 % improvement in page load times and a 15 % increase in user interaction metrics.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Oct 2021"
+      }
+    ],
+    "skills": [
+      "java",
+      "C++",
+      "Javascript",
+      "Typescript",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "MongoDB",
+      "PHP",
+      "MySQL",
+      "Firebase",
+      "Postgresql",
+      "Bootstrap",
+      "Git",
+      "Github",
+      "Postman",
+      "Docker"
+    ],
+    "soft_skills": [],
+    "name": "KHUSH SANGHAVI",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved Over 500+ Data Structures and Algorithm problems in various platforms like Leetcode and GFG",
+      "Achieved 5 Star Certification in Problem Solving from HackerRank",
+      "Ranked 15/934 on GFG at the institutional level."
+    ],
+    "publications": []
+  },
+  "current_location": "Mumbai - India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.E. (IT)"
+}

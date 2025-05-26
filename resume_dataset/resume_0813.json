@@ -1,0 +1,119 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "SHIKHAR SHARMA",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA- 7.63",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Tagore Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "XII(CBSE)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "84.5%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St Anselms North City School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "X(CBSE)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "87%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chat Application",
+        "description": "Developed using HTML, CSS, and Vite for the frontend, the chat application boasts a contemporary technology stack that enables rapid development and enhanced performance, ensuring a seamless user experience.",
+        "keywords": [
+          "Vite",
+          "NodeJS",
+          "HTML/CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Ochi Website",
+        "description": "Developed using ReactJS, Vite, and Tailwind CSS for the frontend, the Ochi website offers a visually appealing and responsive user interface, ensuring an immersive browsing experience for visitors.",
+        "keywords": [
+          "Vite",
+          "ReactJs",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Tailwind CSS"
+        ],
+        "endDate": "Jul 2024",
+        "company_name": "Stegback Technologies",
+        "description": "Enhanced Inventory and Order Management Page: Spearheaded the redesign and enhancement of Stegbacks inventory and order management page, resulting in a more intuitive and efficient user interface.",
+        "location": "Jaipur",
+        "links": "",
+        "startDate": "Jun 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Java",
+      "JavaScript",
+      "HTML/CSS",
+      "Tailwind CSS",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "SHIKHAR SHARMA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved highest GPA of 10.00 in 5th semester, earning Deans Excellence Award.",
+      "Secured University Rank 1 in the SCSE MUJ Kickstart Coding Contest.",
+      "Secured Global Rank-278 in Codechef Starters 129(div-3) contest.",
+      "Secured Global Rank-2623 in Codeforces round 918(div-4) contest.",
+      "Solved 550+ DSA problems on Leetcode (contest rating: 1600+), 400+ CP problems on Codeforces (contest rating: Pupil, max. 1234), and 3* at Codechef (contest rating : 1645).",
+      "Nptel Design and Analysis of Algorithms(DAA)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

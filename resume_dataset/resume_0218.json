@@ -1,0 +1,104 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Tanish Sharma",
+  "college": "SRM University, AP",
+  "locations": [
+    "Amaravati, Andhra Pradesh, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Amaravati, Andhra Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.43",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Password Generator",
+        "description": "Developed a secure password generator with customisable options for uppercase letters, lowercase letters, numbers, and symbols. Implemented a versatile password generation tool that provides real-time feedback on password strength, promoting user awareness of security best practices. Created a user-friendly password generator that allows for customisable password criteria.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "MyString - Custom String Class",
+        "description": "Developed and implemented a custom string class, MyString in C++ with comprehensive functionalities. Functionalities include concatenation, size determination, empty string detection, string appending, and more. Overloaded the insertion operator for streamlined input operations. Applied OOPs principles, ensuring modularity, encapsulation, and reusability of code components.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Voix",
+        "description": "Developed Voix, a voice assistant utilizing speech recognition and APIs for tasks such as send emails, web searches, and computations. Integrated Voix with WolframAlpha and ChatGPT, enhancing its functionality to provide comprehensive results directly within the console interface. Leveraged advanced technologies to create an efficient and user-friendly voice assistant.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Salesforce Developer Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "TheSmartBridge",
+        "description": "Mastered modules including Salesforce Fundamentals, Organizational Setup, and Apex Testing & Debugging. Developed and deployed applications using Lightning Web Components (LWC) and Salesforce CLI, enhancing process automation and security. Earned Super Badges: Apex Specialist, Process Automation Specialist, and Developer Super Set, demonstrating advanced skills in Salesforce development and automation.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Frontend Developer Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "CodeSwap Solutions PVT LTD",
+        "description": "Developed a responsive ChatGPT Client using HTML, CSS, and JavaScript. Integrated OpenAI API to enable natural language processing capabilities, facilitating seamless communication between users and the AI model. Collaborated with cross-functional teams to ensure efficient implementation.",
+        "location": "Remote",
+        "links": "GitHub",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "React.js",
+      "Tailwind CSS"
+    ],
+    "soft_skills": [],
+    "name": "Tanish Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 83% in NPTEL Examination for DBMS 2, ranking among the Top 2% of candidates",
+      "Solved 200+ problems on Data Structures and Algorithms on multiple platforms",
+      "3 Star on CodeChef with a Max Rating of 1653",
+      "Earned 13 Salesforce Superbadges",
+      "Granted with a 100% Scholarship on tuition fee for Bachelors Degree"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

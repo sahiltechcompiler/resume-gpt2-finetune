@@ -1,0 +1,132 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vineet Kumar",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "Percentage :81.8%",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA :9.26/10",
+        "field_of_study": "CSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Microservice",
+        "description": "Developed a Spring Boot microservice with CRUD operations, integrated with Postgres, and containerized using Docker. Used Swagger for API documentation, Postman for endpoint testing, and implemented JUnit test cases for robust validation.",
+        "keywords": [
+          "Java Spring Boot",
+          "Docker",
+          "Postgres SQL",
+          "Swagger"
+        ],
+        "endDate": "Sep,2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Detection System for Helmet Less Bikers",
+        "description": "Developed a real-time helmet-less detection system using machine learning. This system detects and classifies individuals without helmets in video streams, aiding in safety enforcement and risk mitigation in various settings.",
+        "keywords": [
+          "Numpy",
+          "OpenCV",
+          "Pandas",
+          "YoloV8",
+          "Deep Learning",
+          "LabelImg"
+        ],
+        "endDate": "May,2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CV Generator",
+        "description": "Crafted a user-friendly website using HTML, CSS, and JavaScript to gather user information and dynamically generate a professional CV, simplifying the CV creation process.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "DOM Manipulation"
+        ],
+        "endDate": "Sep,2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cloud Infra & Security Summer Intern",
+        "skillsUsed": [
+          "IAC",
+          "Cloud Computing",
+          "Problem Solving"
+        ],
+        "endDate": "2024",
+        "company_name": "Celebal Technology",
+        "description": "Leveraged an IAC tool to deploy virtual machine-based web servers and load balancers. Hosted a website on two virtual machine instances, integrated into the backend of an Azure Load Balancer.",
+        "location": "Remote",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Artificial Intelligence Intern",
+        "skillsUsed": [
+          "Deep Learning",
+          "Natural Language Processing",
+          "Tkinter",
+          "JSON",
+          "Python",
+          "Object Detection"
+        ],
+        "endDate": "Mar,2024",
+        "company_name": "CodeClause",
+        "description": "Developed and implemented a chatbot using AI technologies, enhancing user interaction, and automating responses. Utilized natural language processing (NLP) tools to improve chatbot understanding and response quality.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jul,2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "JavaScript",
+      "Nodejs",
+      "Spring Boot",
+      "AWS",
+      "GitHub",
+      "Docker",
+      "MySQL",
+      "Postgres SQL"
+    ],
+    "soft_skills": [],
+    "name": "Vineet Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Three-time Dean's List Award honoree for sustained academic excellence.",
+      "Earned an NPTEL Elite completion certificate in Design and Analysis of Algorithm with a 62% score.",
+      "AWS Academy Cloud Foundations badge.",
+      "LeetCode Contest Rating -1486 | CodeChef Starters 108 Div3 Rating - 144"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

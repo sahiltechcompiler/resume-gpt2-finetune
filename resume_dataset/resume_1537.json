@@ -1,0 +1,136 @@
+{
+  "project_count": 5.0,
+  "designation": "Software Engineer",
+  "name": "Sai Chakradhar Rao Mahendrakar",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.2/10.0",
+        "field_of_study": "CSE with AIML",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Enterprise eLearning Platform",
+        "description": "Designed a scalable eLearning platform using the MERN Stack, with 80% and above Real Experience Score(Speed Analytics). Implemented user roles for Teachers and Administrators, significantly reducing unauthorized access attempts. Conducted comprehensive SDLC practices with over 10 UML diagrams and 100+ test cases leading to a enhancing content management efficiency.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "MongoDB",
+          "MERN Stack"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RealEstate MarketPlace App",
+        "description": "Developed MERN stack real estate marketplace with increased user engagement, enhancing usability. Built advanced search system, reducing search time and improving user experience. Implemented real-time messaging using Socket.io, enhancing user satisfaction by facilitating seamless transactions.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "MongoDB",
+          "MERN Stack"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Healthcare Data privacy using Federated Learning",
+        "description": "Enhanced healthcare analysis using CNN-trained brain tumor data, improving diagnosis accuracy by 27%. Used homomorphic encryption for secure processing of 1GB of sensitive healthcare data with zero data breaches. Ensured compliance with data privacy regulations through Federated Learning and Homomorphic Encryption, reducing data exposure risk across 5+ distributed healthcare facilities.",
+        "keywords": [
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Digital Watermarking System",
+        "description": "Engineered a robust Digital Watermarking System using Java, integrating AWT and Swing for an intuitive GUI experience. A successful watermark insertion rate. Reduced piracy by using Java watermarking manipulation resilience.",
+        "keywords": [
+          "Java",
+          "GUI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Typing Speed Test Application",
+        "description": "Planned a interactive Typing Speed Test app with Python and Tkinter, resulting increase in user retention. Initiated time-based speed and accuracy , showcasing mastery of Python modules and GUI development.",
+        "keywords": [
+          "Python",
+          "Tkinter"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [
+          "Machine Learning Algorithms",
+          "Data Analysis in Python(Numpy, Pandas, MatplotLib, Seaborn)"
+        ],
+        "endDate": "2023",
+        "company_name": "SRM University AP",
+        "description": "Conducted a machine learning project focused on Person Authentication and Identification. Developed cutting-edge BCI technology for real-time biometric security, processing EEG data at 250 Hz. Research Include AI models including Machine Learning achieving 90% accuracy in user identification. Utilized EEG signals from 64-channel headsets for robust user authentication, reducing false accept rates to 0.1%.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "MYSQL",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "NodeJS",
+      "RESTful API",
+      "Git",
+      "Github",
+      "CI/CD",
+      "System Design",
+      "MicroServices"
+    ],
+    "soft_skills": [],
+    "name": "Sai Chakradhar Rao Mahendrakar",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Top 5% in Database management System in NPTEL Exam (Elite+Silver) 2023.",
+      "Best Research Paper in Federated Learning in the 8th Research Day of SRMAP 2024.",
+      "Active Leetcode(200+ Problems) and CodeChef(2* star) weekly test participator.",
+      "Qualified GATE 2024: Achieved the Top 10% ranking out of 150,000 candidates."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

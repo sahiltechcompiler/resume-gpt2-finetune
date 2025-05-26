@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Divyansh Singh",
+  "college": "Manipal University, Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University, Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.82/10",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "LeaveEase",
+        "description": "Streamlined leave management, automating request routing, real-time balance updates, and seamless calendar integration using an Android app built on React Native. Developed functionalities like secure login, leave requests, balance checks, approval workflow, calendar sync, leave history, and employee directory Built using React Native, TypeScript, Expo, and Supabase, ensuring robust and scalable performance.",
+        "keywords": [
+          "React Native",
+          "TypeScript",
+          "Expo",
+          "Supabase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Demo"
+      },
+      {
+        "name": "FinanceFusion",
+        "description": "Built a Finance Dashboard utilizing MongoDB for database management, Express.js for backend development, React with TypeScript for frontend design, and Node.js for runtime environment. Integrated machine learning to provide predictive analytics for revenue forecasting, enhancing the dashboards functionality for business insights. Designed intuitive data visualization components such as interactive tables and charts using DataGrid and Recharts libraries.",
+        "keywords": [
+          "MongoDB",
+          "Express.js",
+          "React",
+          "TypeScript",
+          "Node.js",
+          "machine learning",
+          "DataGrid",
+          "Recharts"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Demo, Code"
+      },
+      {
+        "name": "E-commerce website",
+        "description": "Created a platform with features like product listings, cart, and secure payment options. Implemented secure user authentication using Passport.js and security measures to protect sensitive financial data. Applied information retrieval techniques to enhance search functionality. Utilized a modern tech stack, including React 18 with Tailwind CSS for the front-end, Redux Toolkit with Async Thunk for state management, MongoDB with Mongoose as the database, REST API with Express, Nodemailer for emails, and Stripe for secure online payments.",
+        "keywords": [
+          "React 18",
+          "Tailwind CSS",
+          "Redux Toolkit",
+          "Async Thunk",
+          "MongoDB",
+          "Mongoose",
+          "REST API",
+          "Express",
+          "Nodemailer",
+          "Stripe"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Demo, Frontend, Backend"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Dec. 2023",
+        "company_name": "Made Up News",
+        "description": "Enhanced the companys online presence by revamping the companys website, leading to an improved user experience and increase in traffic. Implemented new website features, resulting in an improvement in overall site functionality. Collaborated with the team to solve complex issues, demonstrating strong problem-solving and technical skills.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov. 2023"
+      },
+      {
+        "role_name": "Full Stack Web Developer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Freelance",
+        "description": "Architected and deployed a seamless full-stack questionnaire platform leveraging React.js, Express.js, Node.js, and MongoDB; improved data accuracy by 30% and streamlined survey processes for a college professor. Developed a sophisticated backend infrastructure to analyze individual behaviors and contributions within team dynamics, enhancing performance reviews and boosting overall team productivity. Utilized react redux for efficient state management and data flow in the application.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "SQL",
+      "MySQL",
+      "JavaScript",
+      "HTML/CSS",
+      "React",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "Material-UI",
+      "Fast API",
+      "REST API",
+      "MongoDB",
+      "Git",
+      "GitHub",
+      "Docker"
+    ],
+    "soft_skills": [],
+    "name": "Divyansh Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Strong Problem-Solving Skills: Consistently solved 300+ questions on LeetCode & CodeChef, demonstrating analytical thinking and algorithmic problem-solving abilities.",
+      "Fast Learner: Proactively exploring new technologies and updating skills to adapt to changing industry demand."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

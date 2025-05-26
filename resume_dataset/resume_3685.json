@@ -1,0 +1,206 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "DHRUVI RAHEVAR",
+  "college": "Parul University",
+  "locations": [
+    "Vadodara"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Cloud concepts, Azure architecture and services and Azure management and governance.",
+        "skillsLearned": [],
+        "title": "Microsoft Certified: Azure Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Artificial Intelligence workloads and considerations, fundamental principles of machine learning, computer vision, Natural Language Processing.",
+        "skillsLearned": [],
+        "title": "Microsoft Certified: Azure AI Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Build and train neural network with TensorFlow to perform multi-class classification.",
+        "skillsLearned": [],
+        "title": "Advanced Learning Algorithms",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Parul University",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Vadodara",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.71",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "June 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Traffic Flow Optimization",
+        "description": "In an attempt to reduce traffic congestion, developed an improved traffic management system in the form of a Computer Vision-based traffic signal controller that can automatically adapt to the traffic situation at the traffic signal. The system sets the green signal time adaptively according to the traffic density at the signal and ensures that the direction with less traffic is allotted a green signal for a shorter duration of time.",
+        "keywords": [
+          "python",
+          "OpenCV",
+          "pandas",
+          "Numpy",
+          "Matplotlib",
+          "convolutional neural network(yolov3)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Heart Disease Prediction Using Machine Learning",
+        "description": "Developed a heart disease prediction model in python using machine learning and data science. Carried out a thorough preprocessing and exploratory analysis of the data to find trends and relationships.",
+        "keywords": [
+          "Matplotlib",
+          "Seaborn",
+          "Machine learning",
+          "Scikit-learn",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Vehicle detection using Yolov5",
+        "description": "Detection of vehicle going in and out, using live camera applied the model to count the total number of vehicles moving in both directions(in and out).",
+        "keywords": [
+          "Python",
+          "Opencv",
+          "Neutral Network",
+          "YOLO",
+          "GPU"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Number plate Recognition with mapping",
+        "description": "Amid rising crime and increased vehicle theft, this innovative computer vision system captures license plates at key junctions, aiding law enforcement to swiftly track vehicle locations via a user-friendly dashboard, bolstering urban security.",
+        "keywords": [
+          "Python",
+          "Opencv",
+          "Neutral Network",
+          "YOLO",
+          "GPU"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Restaurant Sentiment Analysis using NLP and Machine Learning",
+        "description": "Aimed at harnessing the power of natural language processing and machine learning to gain valuable insights into customer sentiments and opinions about various restaurants.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research and Development Team",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "Research and Development Cell- Parul University",
+        "description": "Designed smart traffic surveillance system using python for reducing traffic congestion and roadside accident mitigation.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2021"
+      },
+      {
+        "role_name": "Project Trainee",
+        "skillsUsed": [],
+        "endDate": "March 2024",
+        "company_name": "ITCG solutions",
+        "description": "Contributed innovative features to ongoing projects as a Data Analyst intern specializing in Power BI and python, enhancing data visualization and analysis capabilities.",
+        "location": "",
+        "links": "",
+        "startDate": "December 2023"
+      },
+      {
+        "role_name": "Web Designer",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "M2 Web Solutions",
+        "description": "Worked on ongoing projects and assisted the designers.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "Smart Insurance",
+        "description": "Worked on aspects like data visualization, model development, and feature engineering in Python.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Data analyst Intern",
+        "skillsUsed": [],
+        "endDate": "September 2022",
+        "company_name": "Aniruddhsinh Infrastructure Private Limited",
+        "description": "Worked on practical aspects of Data Analysis in Python and actively contributed to database management.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Advance MS Excel",
+      "Machine learning",
+      "Deep Learning",
+      "OpenCV",
+      "Neural Networks",
+      "Numpy",
+      "Pandas",
+      "Sci-kit learn",
+      "keras",
+      "Matplotlib",
+      "Seaborn",
+      "AZURE"
+    ],
+    "soft_skills": [],
+    "name": "DHRUVI RAHEVAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Letter of Incubation Support from Parul Innovation and Entrepreneurship Research Cell",
+      "Winner of Vadodara Police Hackathon 2023",
+      "Winner of Best Innovative Idea title in Hackvenger national level hackathon"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 5.0,
+  "degree": "Bachelor of Technology"
+}

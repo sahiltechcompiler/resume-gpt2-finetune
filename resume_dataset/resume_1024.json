@@ -1,0 +1,136 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Judith Kavya A",
+  "college": "Madras Christian College",
+  "locations": [
+    "Tambaram, India",
+    "Chennai, India"
+  ],
+  "full_output": {
+    "summary": "Data Science student, currently pursuing my masters degree at Madras Christian College. I consider myself responsible and orderly. I am looking forward to my rst work experience.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science with Python",
+        "issuer": "Besant Technologies",
+        "certiLink": "Sep 2022"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Learning Power BI Desktop",
+        "issuer": "Linkedin",
+        "certiLink": "Jan 2023"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Madras Christian College",
+        "endDate": "Apr 2025",
+        "maximum_grade": "",
+        "degree": "Master of Science",
+        "location": "Tambaram, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Data Science",
+        "startDate": ""
+      },
+      {
+        "school": "Stella Maris College",
+        "endDate": "Apr 2023",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Applications",
+        "location": "Chennai, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "IOS vs Android OS comparison analysis",
+        "description": "Conducted a comprehensive survey using Google Forms to gather data for dataset creation. Gained a deeper understanding of user preference and demographics through the statistical insights and visualizations in R programming. With python, robust data wrangling methodologies and various machine learning models were deployed to t and predict.",
+        "keywords": [
+          "R Project",
+          "Data Wrangling",
+          "Machine Learning"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Personal Finance Website",
+        "description": "Built a expense tracker and nancial calculators for EMI, Fixed deposit, Income tax, Compound interest. Featured educational resources on personal nance, investments (bonds, stocks, mutual funds, ETFs), and insightful articles. Managed a sign up and contact page to securely store user information and message in a database.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "PHP"
+        ],
+        "endDate": "Apr 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Uvakai Research Foundation",
+        "description": "Analyzing Waterbodies within Anumanadhi Sub-basin and Visualizing. Collected and validated geographic data for a sub-basin. Cleaned and structured data in Excel, and integrated multiple datasets. Created and rened detailed visualizations in Microsoft Power BI.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "Jun 2024",
+        "company_name": "MCC MRF",
+        "description": "Collected MCC staffs publications, articles, journals, books and book chapters details and stored data in Excel. Optimized information in various les for Power BI to understand. Department-specic visualizations dashboards were created using Power BI for enhanced data analysis and reporting.",
+        "location": "Chromepet, India",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "Data Preprocessing",
+      "Data Visualization",
+      "HTML",
+      "CSS",
+      "NumPy",
+      "Pandas",
+      "Scikit-learn",
+      "Seaborn",
+      "Matplotlib",
+      "NLTK",
+      "Jupyternotebook"
+    ],
+    "soft_skills": [
+      "Responsible",
+      "Orderly"
+    ],
+    "name": "Judith Kavya A",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 2.0,
+  "degree": "Master of Science"
+}

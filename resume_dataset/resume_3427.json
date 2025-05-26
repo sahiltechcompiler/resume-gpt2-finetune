@@ -1,0 +1,153 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Aditya Kumar",
+  "college": "KIET Group of Institutions, (AKTU)",
+  "locations": [
+    "Delhi NCR, Ghaziabad",
+    "Barabanki, Uttar Pradesh",
+    "Virtual"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Web Development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Certified Developer - Associate Certification",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Become a Data Analyst",
+        "issuer": "LinkedIn Learning",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions, (AKTU)",
+        "endDate": "Jun 2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Delhi NCR, Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "8.7 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "Central Academy (CBSE)",
+        "endDate": "Jun 2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Barabanki, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "92.6%",
+        "field_of_study": "PCM",
+        "startDate": "Apr 2019"
+      },
+      {
+        "school": "Central Academy, (CBSE)",
+        "endDate": "May 2018",
+        "maximum_grade": "",
+        "degree": "Matriculation",
+        "location": "Barabanki, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "84%",
+        "field_of_study": "",
+        "startDate": "Apr 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "InnoVenture Hub",
+        "description": "Developed a user-friendly fundraising platform to empower startups and aspiring unicorns by addressing the common challenge of limited resources and communication channels. Created a robust infrastructure for creators to connect securely and transparently with a global network of backers. Leveraged decentralized principles and peer-to-peer transactions to promote collaboration. Prioritized security and transparency to instill trust among users and foster a conducive environment for idea exchange and investment. Positioned the platform as a catalyst for growth, providing creators with the support needed to turn their ideas into successful ventures.",
+        "keywords": [
+          "Solidity",
+          "Vite",
+          "Thirdweb",
+          "Firebase"
+        ],
+        "endDate": "Progess",
+        "startDate": "Dec 2023",
+        "url": ""
+      },
+      {
+        "name": "Supplier Database Management",
+        "description": "Engineered a Supplier Database System with Java, Servlet, and MySQL, featuring a user login system with buyer and supplier and an item storage database handling 100+ items and boosting user interaction by 30%. Collaborated on a Team Project with Two Members, Equally Splitting Responsibilities to Maintain Both Frontend (40%) and Backend (60%) Development.",
+        "keywords": [
+          "Java",
+          "JSP",
+          "Servlet",
+          "MySQL"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "Nov 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web development",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "EY Global Delivery Services | AICTE",
+        "description": "Designed and developed a note-sharing platform utilizing Django; enforced access control measures to authorize course-specific faculty members, elevating communication efficiency and fostering a collaborative learning environment among students and professors. Benefited from mentorship by EY-GDS mentors, acquiring valuable insights into efficient project execution methodologies and adept at conducting proper sessions to address project-related issues effectively.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "AI and Machine Learning",
+        "skillsUsed": [],
+        "endDate": "Sept 2023",
+        "company_name": "YBI Foundation",
+        "description": "Proficient in utilizing data analysis techniques and libraries such as Pandas, NumPy, Matplotlib, and Seaborn to analyze datasets, particularly in the context of a bank customer churn model. Skilled in summarizing customer details including credit score, age, gender, and balance, among other relevant factors.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "HTML/CSS",
+      "JavaScript",
+      "MySQL",
+      "ReactJS",
+      "GitHub/Git"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved notable recognition and awards for outstanding performance in Academic Excellence.",
+      "Recognized for exceptional leadership and dedication in facilitating the smooth execution of inter-school programs while serving as Head Boy, a position of significant responsibility."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

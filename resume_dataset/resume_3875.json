@@ -1,0 +1,171 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "DEVANSHI KUMAR",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Gurgaon",
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PWC Analytics Insights Launchpad",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA",
+        "issuer": "Cisco Network Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CS50 Introduction to Python Programming",
+        "issuer": "Harvard University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Academy Database Foundations",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM Python for Data Science, AI & Development",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.35",
+        "field_of_study": "Computer Science Engineering with AIML",
+        "startDate": ""
+      },
+      {
+        "school": "Mount Carmel School",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Grade XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Mount Carmel School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Grade X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "93.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "DeepFake Detection",
+        "description": "Employed a dataset consisting of 62k images labeled as real and fake. Developed a deepfake detection project utilizing CNN and Mesonet4, achieving accuracies of 76.8% and 97.3% respectively. The same dataset was trained using ResNet18 and ResNetInspection where it had accuracies of 98.7% and 98.95% respectively.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Table Reservation System",
+        "description": "Collaborated with a team from Southern Federal University, Russia, utilizing Agile methodology to deliver the project ahead of schedule. Played a key role in backend development by conducting regular performance testing, resulting in a 40% improvement in system uptime. Utilized MERN stack to develop a robust and scalable web application for efficient table reservations.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "November 2023",
+        "url": ""
+      },
+      {
+        "name": "Stock Price Prediction",
+        "description": "Trained the model on S&P500 index spanning from 2019 to 2022. Demonstrated the effectiveness of LSTM model with metrics, including RMSE of 0.02, MAE of 0.01 and R2 value of 0.99. Conducted in-depth research on LSTM to find the optimal sequence length of 50.",
+        "keywords": [],
+        "endDate": "November 2023",
+        "startDate": "February 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "Orange Business",
+        "description": "Developed a Flask-based project to create RESTful API endpoints while implementing CRUD operations. Conducted testing of API endpoints using POSTMAN to ensure robust API integration. Participated in code reviews and actively contributed to project documentation.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "Jun 2021"
+      },
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [],
+        "endDate": "Jul 2023",
+        "company_name": "PNB Housing Finance Ltd.",
+        "description": "Collaborated with a 7-member team to enhance the management system. Prepared a Housing Loan Project that showcased expertise in FICO Blaze Advisor and Eclipse IDE using SRL (Structured Rule Language) for creating a robust decision-making system for loan approvals. Implemented an efficient and automated approach in the project, allowing the system to take user input, calculate loan salary ratios, assign scores based on various criteria, and evaluate overall risk levels.",
+        "location": "Gurgaon",
+        "links": "",
+        "startDate": "May 2019"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks",
+      "Computer Vision",
+      "Web Development"
+    ],
+    "soft_skills": [],
+    "name": "DEVANSHI KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

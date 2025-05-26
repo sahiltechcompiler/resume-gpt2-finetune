@@ -1,0 +1,143 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aditya Pandey",
+  "college": "Dr. APJ Abdul Kalam University(AKTU)",
+  "locations": [
+    "Ghaziabad, IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam University(AKTU)",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA:8.14",
+        "field_of_study": "Computer Science",
+        "startDate": "Aug. 2021"
+      },
+      {
+        "school": "Central Board of Secondary Education(CBSE)",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "84.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Book Store",
+        "description": "Led the development of a MERN Stack-based Online Library platform, managing books with seamless CRUD operations. Integrated Tailwind CSS for optimized interface design, resulting in 30% faster loading times and 40% improved user engagement.",
+        "keywords": [
+          "ReactJs",
+          "ExpressJs",
+          "NodeJs",
+          "MongoDB",
+          "Tailwind CSS"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "The Monthly Wrap",
+        "description": "Developed a comprehensive full-stack blogging platform featuring rich text format (RTF) capabilities, enabling users to read, write, like, and comment on blogs. Implemented user authentication functionalities, including signup, login, and profile management, with individual profile pages allowing users to customize and edit their details.",
+        "keywords": [
+          "ReactJs",
+          "Tailwind CSS",
+          "Python",
+          "Django"
+        ],
+        "endDate": "August 2023",
+        "startDate": "June 2023",
+        "url": ""
+      },
+      {
+        "name": "E-Cell Clone",
+        "description": "Developed a frontend clone of the E-Cell website utilizing React.js and Tailwind CSS to replicate the interface and functionalities. Deployed the frontend clone on Netlify, ensuring seamless accessibility and reliability for users.",
+        "keywords": [
+          "ReactJs",
+          "Tailwind CSS",
+          "Headless UI",
+          "Netlify"
+        ],
+        "endDate": "Jan 2023",
+        "startDate": "Dec 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Technical Intern",
+        "skillsUsed": [
+          "Next.js",
+          "Tailwind CSS"
+        ],
+        "endDate": "October 2023",
+        "company_name": "Technology Business Incubator KIET",
+        "description": "Led frontend development of TBI KIETs website using Next.js and Tailwind CSS, from conception to execution. Enhanced user engagement with an automated event details section for both upcoming and past events. Coordinated 5+ events with 95% attendee satisfaction by fostering cross-functional collaboration. Developed and integrated modules for TBI KIETs website, providing comprehensive organization information, detailed scheme insights, user-friendly incubation forms, and showcasing diverse facilities.",
+        "location": "Ghaziabad, IN",
+        "links": "",
+        "startDate": "August 2023"
+      },
+      {
+        "role_name": "Technical Team Member",
+        "skillsUsed": [
+          "Next.js",
+          "TypeScript",
+          "Tailwind CSS"
+        ],
+        "endDate": "July 2023",
+        "company_name": "KIET Entrepreneurship Cell",
+        "description": "Orchestrated and executed a highly successful E-Summit event spanning 3 days with over 10 sub-events, attracting 1500+ registrations. Developed the frontend of the events website using Next.js, TypeScript, and Tailwind CSS, facilitating seamless user registration for 500+ participants. Played a key role in managing and coordinating various facets of the event, ensuring its success. Provided mentorship to over 20 participants during a hackathon held as part of the E-Summit.",
+        "location": "Ghaziabad, IN",
+        "links": "",
+        "startDate": "January 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "SQL",
+      "JavaScript",
+      "HTML/CSS",
+      "ReactJs",
+      "NodeJs",
+      "NextJs",
+      "ExpressJs",
+      "MongoDB",
+      "Tailwind CSS",
+      "Git",
+      "Github",
+      "Linux",
+      "VS Code",
+      "Netlify"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Pandey",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Contributed actively to Hacktoberfest 2022 with 7+ merged pull requests.",
+      "Elevated to maintainer in Hacktoberfest 2023, fostering open-source collaboration.",
+      "Achieved a top 10 ranking during the Monsoon Season of Code competition at my college, surpassing over 100 participants.",
+      "Solved 100+ DSA problems across various coding platforms"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

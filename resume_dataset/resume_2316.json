@@ -1,0 +1,111 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ritik Srivastava",
+  "college": "Pranveer Singh Institute of Technology",
+  "locations": [
+    "Kanpur, India",
+    "Varanasi, India",
+    "[Remote]"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Pranveer Singh Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.TECH",
+        "location": "Kanpur, India",
+        "ID": 0.0,
+        "grade_received": "CGPA : 8.23",
+        "field_of_study": "COMPUTER SCIENCE",
+        "startDate": "2020"
+      },
+      {
+        "school": "St. Joseph's Convent School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Varanasi, India",
+        "ID": 1.0,
+        "grade_received": "PERCENTAGE : 76",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "LANDSLIDE DETECTION USING SATELLITE IMAGES",
+        "description": "Implemented a system for landslide detection using satellite images, incorporating image processing and machine learning techniques. Developed a working model with HTML, CSS, and Flask to visualize and interact with the landslide detection results.",
+        "keywords": [],
+        "endDate": "Present",
+        "startDate": "Aug 2023",
+        "url": ""
+      },
+      {
+        "name": "PIC PULSE - ONLINE PICTURE STORER",
+        "description": "Engineered a secure online image storage application with Python Django and SQL, delivering robust functionality. Designed an intuitive user interface using HTML, CSS, and Bootstrap, ensuring a seamless experience for efficient image management.",
+        "keywords": [],
+        "endDate": "Nov 2023",
+        "startDate": "Oct 2023",
+        "url": "[View Project]"
+      },
+      {
+        "name": "URL SHORTENER",
+        "description": "Developed a custom URL shortener using Django, providing a robust and scalable solution for generating shortened URLs. Leveraged Djangos powerful features to ensure seamless integration and efficient management of URL redirection and analytics.",
+        "keywords": [],
+        "endDate": "Oct 2023",
+        "startDate": "Sep 2023",
+        "url": "[View Project]"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "THE SPARK FOUNDATION",
+        "description": "Developed a basic banking website with CRUD operations as part of an internship project at The Spark Foundation. Enhanced and secured a banking website developed during The Spark Foundation internship using advanced Django skills for optimal functionality.",
+        "location": "[Remote]",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "BOOTSTRAP",
+      "OOPS",
+      "DBMS",
+      "DATABASES",
+      "MySQL",
+      "Oracle SQL"
+    ],
+    "soft_skills": [],
+    "name": "Ritik Srivastava",
+    "position": "",
+    "interests": [
+      "Practicing Meditation",
+      "Listening to Music",
+      "Investing Time in Fitness Activities",
+      "Playing video games"
+    ],
+    "achievements_and_awards": [
+      "5 star coder at Hackerrank!",
+      "Solved over 500+ problems on Leetcode, showcasing proficiency in algorithmic problem-solving.",
+      "Ranked 32nd in college on GeeksForGeeks for consistent daily problem solving.",
+      "Secured an 402 Rank in Codechef Starters 77 competition."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.TECH"
+}

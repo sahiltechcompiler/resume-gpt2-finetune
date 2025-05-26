@@ -1,0 +1,126 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Dinesh Kottakota",
+  "college": "SRMAP University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRMAP University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2019",
+        "maximum_grade": "10.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "8.8/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Bangalore House Price Predictor",
+        "description": "Developed an interactive application using Streamlit that enables users to choose specific house details such as total area, number of bedrooms (BHK), bathrooms, and location. The application utilizes Machine Learning for predicting the estimated cost of the selected house and is seamlessly integrated with a Flask server.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Federated Cloud Resource Management Using Deep Learning",
+        "description": "Implemented a cutting-edge solution using advanced deep learning and time series forecasting techniques, specifically Long Short-Term Memory (LSTM) and Autoregressive Integrated Moving Average (ARIMA) models.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Food Munch",
+        "description": "Designed and developed an engaging and user-friendly website for Food Munch, an online food delivery service, utilizing HTML, CSS, and Bootstrap technologies. Delivered a modern and responsive website for Food Munch, showcasing a visually appealing design, intuitive user interface, and seamless user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "",
+        "description": "Leveraged machine learning methodologies in practical data analytics scenarios, uncovering valuable insights and contributing to more informed decision-making processes. Demonstrated proficiency in applying a range of machine learning techniques to analyze data effectively, resulting in enhanced solutions and strategic decision support.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Frontend Intern",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "",
+        "description": "I actively contributed to the design, development, and maintenance of responsive web applications. I played a key role in implementing design strategies and integrating cutting-edge technologies. My responsibilities also included thorough testing and debugging to optimize site performance.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "C",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Pandas",
+      "Bootstrap",
+      "Tensorflow",
+      "jQuery",
+      "Tailwind CSS",
+      "Git",
+      "GitHub",
+      "AWS",
+      "VS Code",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Dinesh Kottakota",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

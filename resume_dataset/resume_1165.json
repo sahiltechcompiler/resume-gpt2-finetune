@@ -1,0 +1,169 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Yash Varshney",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh, India",
+    "Sambhal, Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Co.Lab Software Developer Certificate",
+        "issuer": "",
+        "certiLink": "Certificate"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA of 8.8",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "Silver Stone Public School, Bahjoi",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "90%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Silver Stone Public School, Bahjoi",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90.4%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "One-Stop Portal For KIET",
+        "description": "Developed a portal for Kiet where students can register for various competitions, including quiz competitions and coding competitions. I designed and implemented the backend, including database management, and integrated API calls in the front end for seamless communication.",
+        "keywords": [
+          "React Js",
+          "JavaScript",
+          "Node Js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Frontend Link | Backend Link"
+      },
+      {
+        "name": "KietConnectX STC Portal",
+        "description": "As Full Stack Developer, crafted a student-centric portal, presenting comprehensive placement data to aid college students in effective preparation for successful job placements. Built a responsive React.js web page using Material-UI, fetching dynamic data via API. Employed Redux store to efficiently manage and display real-time information, enhancing the user experience for students.",
+        "keywords": [
+          "React Js",
+          "JavaScript",
+          "Node Js",
+          "MySQL",
+          "Material UI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "We Care",
+        "description": "A one-stop point for all your medical needs. When you need treatment for an illness or condition, you can count on our expertise in a variety of specialty areas.",
+        "keywords": [
+          "JavaScript",
+          "EJS",
+          "NodeJs",
+          "MongoDB",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Apr 2024",
+        "company_name": "Regan Software LLC",
+        "description": "MatchMyFlight offers compassionate flight matching for travelers to/from the Indian Subcontinent, redefining travel with love and innovation.",
+        "location": "Sambhal, Uttar Pradesh, India",
+        "links": "Link",
+        "startDate": "Sept 2023"
+      },
+      {
+        "role_name": "Core Member & Web Lead",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "GDSC KIET",
+        "description": "Google Developer Student Club(GDSC) initiative to help students grow their knowledge of developer technologies and more through workshops and events.",
+        "location": "Ghaziabad, Uttar Pradesh, India",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Front End Developer",
+        "skillsUsed": [],
+        "endDate": "Jan 2024",
+        "company_name": "Sudans Tech",
+        "description": "Developed Hack the Mountains hackathon portal with React for participant registration, event details, project submission, and an admin interface.",
+        "location": "Ghaziabad, Uttar Pradesh, India",
+        "links": "Link",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Freelancing",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "University of Delhi",
+        "description": "Successfully developed the SBSC Model United Nations website for the official academic society of Shaheed Bhagat Singh College, University of Delhi.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "HTML/CSS",
+      "JavaScript",
+      "Python",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Yash Varshney",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "SheBuilds Hackathon healthcare track winner.",
+      "HACK KRMU 2.0 education & healthcare track hackathon winner."
+    ],
+    "publications": []
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 4.0,
+  "degree": "Bachelor of Technology"
+}

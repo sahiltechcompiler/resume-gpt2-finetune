@@ -1,0 +1,159 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Chhavi Patel",
+  "college": "Kiet Group Of Institutions",
+  "locations": [
+    "Muradnagar",
+    "Ghaziabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mastering Full Stack Development",
+        "issuer": "Apna College",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C++",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Mastering Data Structures And Algorithm",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL Course",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Kiet Group Of Institutions",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ConvoHub",
+        "description": "Engineered a feature-rich web platform with real-time messaging and efficient chat room management, enhancing message delivery speed by 35%. Optimized authentication process with JWT, reducing authentication time by 40% and ensuring secure user sessions. Utilized ES6+ syntax to enhance code readability and conciseness by 40%",
+        "keywords": [
+          "MERN",
+          "Websockets",
+          "Redux"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TechCommerce",
+        "description": "Architected a high-performance E-Commerce website. Enhanced product search functionality using MongoDBs full-text search, improving search accuracy by 20%. Implemented user authentication and authorization using JWT and bcrypt achieving a 95.9% security compliance rate.",
+        "keywords": [
+          "MERN",
+          "API development",
+          "Bootstrap"
+        ],
+        "endDate": "Sep 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CodeMate",
+        "description": "Designed an online code editor with syntax highlighting for 5 languages, achieving a 40% reduction in initial page load time improved developer efficiency by 50% and decreased project timelines by 20%.",
+        "keywords": [
+          "React.js",
+          "Vite"
+        ],
+        "endDate": "May 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TechTussle",
+        "description": "Developed a tic-tac-toe game showcasing proficiency in front-end web development. Integrated features such as player vs computer gameplay, game logic for player moves and win detection. Reduced game load time by 30% through optimized JavaScript code and efficient use of CSS.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "June 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [
+          "Node.js",
+          "Express.js",
+          "React"
+        ],
+        "endDate": "Apr 2024",
+        "company_name": "EY (Ernst & Young)",
+        "description": "Leveraged proficiency in [Node.js,Express.js,React etc.] to develop robust and scalable web applications, ensuring seamless user experiences.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "JavaScript",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "React.Js",
+      "MongoDB",
+      "Express.Js",
+      "Node.Js",
+      "Redux",
+      "Bootstrap",
+      "RestFUL API"
+    ],
+    "soft_skills": [],
+    "name": "Chhavi Patel",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Directed the successful execution of Sprinthacks, engaging more than 300 tech enthusiasts and fostering a 40% increase in cross-functional collaboration and innovative project outcomes",
+      "Spearheaded the organization of Fresco 2k23, a flagship event engaging over 1000 students in diverse disciplinary activities."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

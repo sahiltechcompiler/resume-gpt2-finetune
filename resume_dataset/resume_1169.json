@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aayush Raj Verma",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Gorakhpur, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DBMS",
+        "issuer": "Oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enterprise Networking, Security, and Automation",
+        "issuer": "Cisco",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Gorakhpur, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.35/10.0",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Josephs Inter College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Gorakhpur, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "St. Josephs Inter College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Gorakhpur, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Autonomous Driving System with Road Sign Recognition",
+        "description": "Developed/Investigated Traffic Sign Recognition (TSR) for autonomous vehicles using deep learning techniques (Multilayer Perceptron) and machine learning (Random Forest Classifier). Optimized real-time performance of TSR algorithms for efficient autonomous navigation. Contributed to the development of a robust and reliable autonomous driving system.",
+        "keywords": [],
+        "endDate": "Apr. 2024",
+        "startDate": "Jan. 2024",
+        "url": ""
+      },
+      {
+        "name": "Netflix Clone",
+        "description": "Developed a front-end web application replicating the core user interface of Netflix using HTML for structure and organization. Implemented responsive design principles using CSS to ensure the application adapts to various screen sizes and devices. Utilized JavaScript for dynamic features, potentially which includes interactive navigation elements (e.g.hover effects , on hovering the window it initalizes the video).",
+        "keywords": [
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Mar. 2023",
+        "startDate": "Feb. 2023",
+        "url": ""
+      },
+      {
+        "name": "Snake Game",
+        "description": "Built classic Snake game in Java using OOP, demonstrating game development skills. Implemented features such as player controlled snake movement, collision detection, food generation, scoring, and game over conditions. Leverages Javas Swing library for UI. Showcased problem-solving through game mechanics and edge cases.",
+        "keywords": [
+          "Java",
+          "OOPs",
+          "IntelliJ IDEA"
+        ],
+        "endDate": "Oct. 2022",
+        "startDate": "Sep. 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "scikit-learn",
+      "OpenCV",
+      "MongoDB",
+      "MYSQL",
+      "Git/GitHub",
+      "VS Code",
+      "IntelliJ",
+      "PyCharm",
+      "Jupyter Notebook",
+      "Google Colab",
+      "MS Office"
+    ],
+    "soft_skills": [],
+    "name": "Aayush Raj Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

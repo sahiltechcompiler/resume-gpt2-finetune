@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anushka Singh",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida,UP,India",
+    "Patna, Bihar",
+    "Hajipur, Bihar"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida,UP,India",
+        "ID": 0.0,
+        "grade_received": "7.8",
+        "field_of_study": "Computer Science and Engineering with Artificial Intelligence",
+        "startDate": "2021"
+      },
+      {
+        "school": "Veena Vidya Niketan",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Patna, Bihar",
+        "ID": 1.0,
+        "grade_received": "78%",
+        "field_of_study": "Science and Mathematics",
+        "startDate": "2019"
+      },
+      {
+        "school": "St. Pauls High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "High school education",
+        "location": "Hajipur, Bihar",
+        "ID": 2.0,
+        "grade_received": "94.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Online Learning management System",
+        "description": "Frontend Development: Created intuitive and seamless user interfaces using HTML, CSS, and JavaScript for easy navigation and user interaction. Backend and Database Management: Implemented robust backend functionality using frameworks like Django or Ruby on Rails, with MySQL or PostgreSQL databases for efficient data storage and retrieval. API Integration: Integrated APIs for real-time communication and third-party tool incorporation, enhancing the platform's versatility and overall user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Signature Detection System",
+        "description": "Image Processing for Frontend: Utilized Python libraries like OpenCV and PIL for preprocessing signature images, enhancing image quality, and extracting key features for analysis. Machine Learning for Backend: Employed machine learning algorithms such as SVM or Random Forests, trained on a dataset of genuine and forged signatures to enable accurate detection. Enhanced Security: Integrated the image processing and machine learning components to create a system that accurately detects signatures, thereby improving security and authenticity in document verification processes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "House Price Prediction and Wine Quality Prediction",
+        "description": "Data Preprocessing: Used Pandas and NumPy in Python for reliable data preprocessing in both house price prediction and wine quality prediction projects. Predictive Modeling: Employed regression models like Linear Regression and Gradient Boosting for house price predictions, and classification algorithms like Random Forest and Neural Networks for wine quality assessment. Feature Engineering and Optimization: Applied rigorous feature engineering and model optimization techniques to enhance accuracy, enabling reliable real estate valuations and precise wine quality predictions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software developer Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "CEASE-FIRE",
+        "description": "contributed in building the company website using AngularJS, enhancing customer interaction and streamlining product sales through middle-man integration.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov 2021"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Bharat Intern",
+        "description": "Completed a 1-month Machine Learning internship, developing projects like an Online Learning Management System and a Wine Quality Prediction model.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Bharat IQ",
+        "description": "Completed a 1-month Web Development internship at Bharat IQ, where I built a portfolio website, an online Tic Tac Toe game, and a weather-telling web page.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "C(basic)",
+      "Solidity",
+      "SQL",
+      "Generative Ai",
+      "Blockchain",
+      "Data Analysis",
+      "DataBase Management",
+      "ML",
+      "Flask",
+      "Node-js",
+      "Mysql",
+      "Google cloud",
+      "Microsoft Azure Services",
+      "Git",
+      "Google Cognitive Services",
+      "Window",
+      "Arduino",
+      "Web 3.0"
+    ],
+    "soft_skills": [
+      "Strategist",
+      "Leadership",
+      "Decision-making"
+    ],
+    "name": "Anushka Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

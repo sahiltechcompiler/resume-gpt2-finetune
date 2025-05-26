@@ -1,0 +1,208 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "PRASAD SONAWANE",
+  "college": "Deogiri Institute of Engineering",
+  "locations": [
+    "Aurangabad",
+    "REMOTE"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hackerrank DBMS MySQL Certificate",
+        "issuer": "",
+        "certiLink": "Cert.ID:60533DFE74A0"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Amcat Certified Software Trainee",
+        "issuer": "",
+        "certiLink": "(Cert.ID: 418060324096913)"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Data Analaytics Professional Certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Infosys- Web-Design Begins with HTML,CSS,JavaScript",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "TCS iON Career Young Edge Professional",
+        "issuer": "",
+        "certiLink": "(Certificate ID : 19854-18719505-1016)"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Deogiri Institute of Engineering",
+        "endDate": "August 2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Aurangabad",
+        "ID": 0.0,
+        "grade_received": "GPA : 7.84",
+        "field_of_study": "Computer Science",
+        "startDate": "January 2020"
+      },
+      {
+        "school": "Deogiri Junior College",
+        "endDate": "August 2018",
+        "maximum_grade": "",
+        "degree": "HSC-Science",
+        "location": "Aurangabad",
+        "ID": 1.0,
+        "grade_received": "Precentage : 70.46",
+        "field_of_study": "",
+        "startDate": "May 2020"
+      },
+      {
+        "school": "Secondary",
+        "endDate": "July 2018",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "Aurangabad",
+        "ID": 2.0,
+        "grade_received": "Percentage : 90.20",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Images and Weather Forcast API Fetch",
+        "description": "Built a web application that extracts geolocation metadata from uploaded images using the Unsplash API and fetches real-time weather forecasts via the Open Weather API. Implemented a secure image storage solution, ensuring data privacy and accessibility, without relying on third-party services like AWS.",
+        "keywords": [
+          "React JS",
+          "JavaScript",
+          "Unsplash",
+          "Open Weather API"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Create M2M (Minutes of Meeting)",
+        "description": "Developed M2M (Minutes to Meeting) application to transcribe audio files into text and generate summarized outputs in different languages. Utilized machine learning and natural language processing techniques, leveraging Google APIs for accurate transcription and translation.",
+        "keywords": [
+          "Python",
+          "Machine Learning (Basics)",
+          "NLP",
+          "Google APIs"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "Oct 2023",
+        "url": ""
+      },
+      {
+        "name": "Basic Banking System",
+        "description": "Implemented secure login, account management, and transaction processing functionalities for a banking system and hosting at web000host or localhost. Developed an intuitive admin panel, ensured system security, and conducted rigorous testing to ensure reliability and user satisfaction.",
+        "keywords": [
+          "PHP",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "MySQL"
+        ],
+        "endDate": "July 2022",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Freelancer",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Shashwat InfoSystem",
+        "description": "Gained hands-on experience with project-based learning, working on diverse client projects to deliver customized solutions. Collaborated with a team to meet project requirements, ensuring timely and high-quality deliverables.",
+        "location": "REMOTE",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Front End Developer Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "IBM - SKILLBUILD",
+        "description": "Developed a Netflix clone website using HTML, CSS, and JavaScript, focusing on user interface and experience. Creation of Clone Website i.e. Net-flix Clone I have been design for the people who enjoy the fill of the Nextux clone. Conducted thorough testing and debugging to optimize performance and address any front-end issues.",
+        "location": "REMOTE",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python(Basic)",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React JS",
+      "Node JS",
+      "MYSQL",
+      "VS Code",
+      "Google-Colab",
+      "Eclipse",
+      "Git-Github",
+      "API",
+      "AWS Cloud",
+      "SQL Server"
+    ],
+    "soft_skills": [],
+    "name": "PRASAD SONAWANE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Resolved over 500 challenges across diverse coding platform, showcasing a breadth of problem-solving expertise",
+      "Secured an impressive LeetCode Rating of 2 Star, demonstrating mastery in solving 200+ problems with stratergic insights.",
+      "Attained a commendable CodeChef Rating of 1 Star, showcasing proficiency in solving 150+ problems and algorithmic challenges.",
+      "JEE-MAINS = 88.89 Percentile.",
+      "HackerRank Java : 5 star",
+      "100 days badge in 2023",
+      "50 days badge in 2024 on Leetcode",
+      "Participant of Google Ready Facillitator Program",
+      "AWS Student League Participation in Oct 2022.",
+      "Participated and Contribute the Idea in the WalMart Sparkathon"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

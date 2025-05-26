@@ -1,0 +1,137 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ravinesh Mishra",
+  "college": "Bhagwan Parshuram Institute of Technology",
+  "locations": [
+    "Delhi",
+    "Agra"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence and Machine Learning",
+        "issuer": "HEXNBIT",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Bhagwan Parshuram Institute of Technology",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "8.4/10.0",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "Sep. 2022"
+      },
+      {
+        "school": "Dayalbagh Educational Institute",
+        "endDate": "Aug. 2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Agra",
+        "ID": 1.0,
+        "grade_received": "8.25/10.0",
+        "field_of_study": "Electronics Engineering",
+        "startDate": "Sep. 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Book Wallah",
+        "description": "User Registration and Authentication: Engineered a secure system for user account creation and login, ensuring data privacy and integrity. Book Listing: Developed functionality allowing users to list books available for exchange or lending, promoting a community-driven book-sharing platform. Book Search: Integrated an advanced search feature enabling users to find books by title, author, genre, and other criteria, enhancing user experience. Book Request: Implemented a feature that allows users to request to borrow books from other users, facilitating book exchanges.",
+        "keywords": [
+          "JavaScript",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "React"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Stream Hub",
+        "description": "User Authentication: Implemented secure user authentication mechanisms to protect user data and manage access. Video Streaming: Developed functionalities for streaming videos, enabling users to upload, view, and interact with multimedia content. Social Interactions: Added features for posting tweets, allowing users to engage in social interactions around the video content.",
+        "keywords": [
+          "JavaScript",
+          "MongoDB",
+          "Express.js",
+          "Node.js"
+        ],
+        "endDate": "Feburary 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Chat App",
+        "description": "Messaging Platform: Created a robust messaging application using Firebase Authentication for secure user login and identity management. Real-time Messaging: Utilized Firebase Realtime Database to enable real-time messaging, ensuring seamless and instant communication between users.",
+        "keywords": [
+          "JavaScript",
+          "Firebase",
+          "React"
+        ],
+        "endDate": "December 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "PHP",
+      "SQL",
+      "ReactJS",
+      "Nodejs",
+      "Expressjs",
+      "VS Code",
+      "IntelliJ IDEA",
+      "Postman",
+      "MongoDB Compass",
+      "Github",
+      "Chrome Dev Tools",
+      "Figma",
+      "MongoDB",
+      "NoSQL",
+      "Linux",
+      "Windows",
+      "Git",
+      "Render",
+      "Vercel",
+      "Bash"
+    ],
+    "soft_skills": [],
+    "name": "Ravinesh Mishra",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "LeetCode Profile",
+      "CodeChef Profile",
+      "GeekForGeeks Profile",
+      "Solved over more than 200 questions on above coding platforms.",
+      "Secured 188th rank in IPUCET among 2000 participants.",
+      "Selected through Campus Hiring process at Tata Motors for the position of Diploma Engineer Trainee (DET)."
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

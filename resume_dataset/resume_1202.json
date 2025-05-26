@@ -1,0 +1,176 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Bhoomika Kotharu",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "Computer Science student at SRM University AP with proficiency in Python, C, C++, Java, and front-end development. Passionate about software engineering and eager to learn new technologies. Demonstrated ability to apply technical skills to solve real-world problems and contribute to positive social change. Seeking opportunities to expand my skill set and contribute to innovative projects in a dynamic environment.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DataBase Management System (DBMS)",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development Using Django",
+        "issuer": "APSSDC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming in Java",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Board of Intermediate Education Andhra Pradesh",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA: 9.28/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Board of Secondary Education Andhra Pradesh",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Marks: 968/1000 (GPA: 10.0/10.0)",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Typing game(Fingers First)",
+        "description": "Developed a typing game to enhance typing skills in a competitive manner. Improve accuracy and speed of typing skills.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Admission Management",
+        "description": "Developed a portal to manage student admissions based on EAMCET rank. Includes separate logins for students and colleges to manage admissions and verification.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bakery Management System(Doughlicious Dashboard)",
+        "description": "Developed a GUI program for a bakery management system to enable users to select and place orders online. Purpose: Provide a user-friendly interface for customers to order food online and manage delivery and payment.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "2022",
+        "startDate": "2022",
+        "url": ""
+      },
+      {
+        "name": "Mystery-Match (Dating App)",
+        "description": "Developed a dating app to provide users with traditional and authentic dating experiences through carefully matched in-person encounters. Purpose: Facilitate genuine connections by orchestrating blind dates, emphasizing shared interests, values, and preferences.",
+        "keywords": [
+          "DBMS",
+          "HTML",
+          "CSS",
+          "Python"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Patient Database Management Using Blockchain",
+        "description": "Developed a system to enhance security and efficiency in medical record-keeping and processing medical bills and insurance claims. Purpose: Address vulnerabilities in traditional medical record-keeping using blockchain technology.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "Solidity"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2024",
+        "company_name": "",
+        "description": "Conducted in-depth research on biometric authentication systems, focusing on EEG (Electroencephalogram) authentication as a novel approach. Investigated various biometric recognition systems such as fingerprint, voice, iris, and face recognition, identifying their strengths and limitations. Analyzed the efficacy of different classifier models (K-Nearest Neighbors, Auto Encoders, Support Vector Machines, XGBoost, and Convolutional Neural Networks) in biometric data classification, feature learning, and pattern recognition. Contributed to the understanding of EEGs significance in liveness detection and its potential applications in secure biometric systems.",
+        "location": "",
+        "links": "",
+        "startDate": "Oct 2023"
+      }
+    ],
+    "skills": [
+      "Time Management",
+      "Problem-solving",
+      "Communication",
+      "Collaborative",
+      "Teamwork",
+      "Data Structure and Algorithms (DSA)",
+      "Design and Analysis of Algorithms (DAA)",
+      "SQL",
+      "Operating Systems",
+      "Oops Concepts",
+      "AIML",
+      "Applied Data Science",
+      "C/C++",
+      "Python",
+      "Java",
+      "HTML/CSS",
+      "JavaScript"
+    ],
+    "soft_skills": [],
+    "name": "Bhoomika Kotharu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

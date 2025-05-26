@@ -1,0 +1,228 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Tejas Sharma",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming for Complete Beginners",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Software Engineering",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Enterprise-grade AI",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with Cisco Packet Tracer",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat System Administration I",
+        "issuer": "Redhat Rhcsa Rhce Linux Training Certification Center",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat System Administration II",
+        "issuer": "Redhat Rhcsa Rhce Linux Training Certification Center",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations",
+        "issuer": "Oracle",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA: Enterprise Networking, Security, and Automation",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "VMware Data Center Virtualization - Core Technical Skills",
+        "issuer": "VMware IT Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA: IT Academy: Cloud and Virtualization Concepts",
+        "issuer": "VMware IT Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNA: AWS Academy Graduate - AWS Academy Cloud Foundations",
+        "issuer": "Amazon Web Services (AWS)",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Have participated in outbound camps for people with special needs, have facilitated team building activities and curated other various social skill activities via Evoluer (An organization that promotes inclusion)."
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.39",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "November 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Music Recommendation System using Machine Learning",
+        "description": "Developed a personalized music recommendation system using machine learning techniques to analyze song attributes and user preferences. Utilized data preprocessing and feature extraction with Pandas and NumPy, and visualized data using Seaborn, Matplotlib, and Plotly. Implemented K-Means clustering, Euclidean distance metrics, and regression analysis for accurate song recommendations, integrated with a scikit-learn pipeline for preprocessing and scaling.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Research Paper",
+        "description": "Conducted an extensive review on the integration of AI in autonomous vehicles, tracing the historical development and current state of AI-driven technology in this domain. Investigated and documented various challenges in AI implementation, including decision-making, problem-solving, financial feasibility, and public acceptance. Utilized machine learning techniques such as Convolutional Neural Networks (CNNs) for object detection and segmentation, and Reinforcement Learning (RL) for real-time decision-making.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Details Management System",
+        "description": "Engineered a comprehensive student details management system using the principles of database management system (DBMS). Implemented features for storing, retrieving, and updating student information efficiently, facilitating streamlined administrative processes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Arcade System",
+        "description": "Constructed an arcade system employing the principles of object-oriented programming (OOPs) for modular design and efficient code organization. Designed various game modules with distinct functionalities to create an interactive and engaging gaming experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AWS Datasync",
+        "description": "Automated the data transfer between on-premises storage and AWS using AWS DataSync, ensuring efficient and secure synchronization of large-scale data sets.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FastAPI Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "A5E Consulting",
+        "description": "Helped develop a web-based application to perform statistical calculations and keep scores for a fantasy sports app. Worked on the user entry and admin process using FastAPI. Utilized DB Browser for SQLite to manage and interact with databases, ensuring efficient data storage and retrieval. Collaborated with cross-functional teams to ensure seamless integration of FastAPI with existing systems, contributing to a more cohesive and efficient tech stack.",
+        "location": "",
+        "links": "",
+        "startDate": "February 2024"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [],
+        "endDate": "January 2024",
+        "company_name": "Reliance Industries Limited",
+        "description": "Applied visualization and regression techniques on company data using tools such as NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, and Plotly to identify outliers and trends, achieving a 0.99 accuracy rate in predictive models. Conducted comprehensive data analysis, uncovering critical insights that informed strategic business decisions and improved operational efficiency.",
+        "location": "",
+        "links": "",
+        "startDate": "December 2023"
+      },
+      {
+        "role_name": "Natural Language Processing Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Trantor Software Private Limited",
+        "description": "Created projects using online news articles, employing preprocessing techniques such as tokenization, stop word removal, stemming, and lemmatization with NLTK and spaCy to extract valuable NLP insights. Analyzed textual data to uncover key insights, including sentiment trends and named entity recognition, which supported strategic planning and market analysis.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Python (NLTK, spaCy, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, FastAPI)",
+      "Java",
+      "C",
+      "MySQL",
+      "Cisco Packet Tracer"
+    ],
+    "soft_skills": [],
+    "name": "Tejas Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech."
+}

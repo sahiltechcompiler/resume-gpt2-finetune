@@ -1,0 +1,156 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SAIYAM RAWAT",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "Passionate Full Stack Developer skilled in JavaScript, React, Node.js, Express, and MongoDB, focused on creating responsive web applications and efficient server-side solutions.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor in Information Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Tagore Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "CBSE",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "D.A.V. Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Share Prompt",
+        "description": "Created a dynamic website for generating writing prompts using Next.js. Implement Next.js for server-side rendering, API routes for generating prompts, and optimized SEO. A fast, interactive website that delivers unique writing prompts with a user-friendly interface and seamless navigation.",
+        "keywords": [
+          "NextJs",
+          "Tailwind"
+        ],
+        "endDate": "present",
+        "startDate": "June 2024",
+        "url": ""
+      },
+      {
+        "name": "Mental Wellness with Chatbot",
+        "description": "Immediate Support: Chatbot offers instant help for mental health queries, available anytime. Anonymous Guidance: Users receive confidential advice without revealing their identity, fostering comfort. Tailored Resources: Chatbot suggests personalized tips and resources for mental wellness based on user interactions.",
+        "keywords": [
+          "React",
+          "Tailwind",
+          "Node",
+          "Python",
+          "Flask"
+        ],
+        "endDate": "April 2024",
+        "startDate": "February 2024",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Interactive 3D Visuals: The portfolio leverages Three.js to create immersive and interactive 3D graphics, enhancing the visual appeal and user experience. Optimized Performance and SEO: Built with Next.js, the portfolio benefits from server-side rendering (SSR) and static site generation (SSG), ensuring fast load times and improved performance. Modern Web Development Practices: The portfolio incorporates modern web development techniques, including modular components, efficient state management, and responsive design.",
+        "keywords": [
+          "React",
+          "Tailwind",
+          "Threejs",
+          "NextJs",
+          "Framer Motion"
+        ],
+        "endDate": "June 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Diabetes Prediction Using ML",
+        "description": "Analyzed health data and predict diabetes risk based on factors like glucose levels, BMI, age, and blood pressure. Algorithms used are Logistic Regression, Random Forest Classifier, Support Vector Machine (SVM), and Gradient Boosting algorithms like XGBoost.",
+        "keywords": [
+          "Python",
+          "Jupyter"
+        ],
+        "endDate": "May 2024",
+        "startDate": "April 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full-Stack Developer",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "2WheelR",
+        "description": "Server-Side Rendering: Leveraged Next.js SSR capabilities using getServerSideProps to enhance SEO and performance. Built reusable React components for handling user interactions. Developed RESTful API routes for CRUD operations, integrating with AWS S3 for file management.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "Sept 2023",
+        "company_name": "LetsGrowMore",
+        "description": "Proficient in time management and project execution, demonstrated through successful completion of three projects within a rigorous 30-day deadline during internship at LetsGrowMore. Cultivated discipline, accountability, and results-oriented mindset through internship experience, translating into consistent achievement and surpassing performance expectations in professional endeavours.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "SQL",
+      "Python(Basic)",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Three.js",
+      "AWS",
+      "S3 Bucket",
+      "Figma",
+      "React",
+      "Tailwind",
+      "Storybook",
+      "Node",
+      "MongoDB",
+      "Express",
+      "Next.js",
+      "Git",
+      "Canva",
+      "VSCode"
+    ],
+    "soft_skills": [],
+    "name": "SAIYAM RAWAT",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor in Information Technology"
+}

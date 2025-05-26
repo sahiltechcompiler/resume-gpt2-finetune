@@ -1,0 +1,104 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Development Intern",
+  "name": "NITESH SINGH",
+  "college": "Krishna Institute of Engineering and Technology",
+  "locations": [
+    "Ghaziabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Krishna Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "Percentage: 89.8",
+        "field_of_study": "Information and Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sunbeam School Mirzapur",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "CBSE",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce Website",
+        "description": "Developed a full-stack e-commerce website using the MERN stack. Implemented user authentication and authorization using JWT. Integrated payment gateways for secure transactions. Designed and optimized database schema for efficient data storage and retrieval.",
+        "keywords": [],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Task Management App",
+        "description": "Built a task management application using React.js for the front end and Node.js/Express.js for the back end. Implemented CRUD functionality for tasks and user authentication. Utilized MongoDB for data storage and retrieval. Designed responsive user interfaces for seamless user experience across devices.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Weather Forecast App",
+        "description": "Developed a weather forecast application using React.js for the front end and a weather API for fetching weather data. Implemented functionality to display current weather conditions and forecasts for multiple locations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Yantra Bytes",
+        "description": "Developed and maintained responsive web applications using HTML, CSS, and JavaScript. Assisted in implementing front-end components and user interfaces using React.js. Collaborated with senior developers to debug and troubleshoot issues. Gained hands-on experience with version control systems like Git.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Javascript",
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Node.js"
+    ],
+    "soft_skills": [
+      "Problem Solving Abilities",
+      "Communication",
+      "Empathy"
+    ],
+    "name": "NITESH SINGH",
+    "position": "",
+    "interests": [
+      "DSA",
+      "Web Development"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Information and Technology"
+}

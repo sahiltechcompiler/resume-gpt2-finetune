@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Harsh Kushwah",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Agra, IN",
+    "Delhi, IN",
+    "Jaipur, IN"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "JUL 2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, IN",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.19",
+        "field_of_study": "Computer and Communication Engineering",
+        "startDate": "AUG 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Criminal Activity Detection",
+        "description": "Developed an crime detection system integrating real-time surveillance analysis and alert generation using YOLO models. Overcame challenges in data collection and labeling by leveraging RoboFlow for efficient annotation and dataset management. Applied full-stack development skills to integrate machine learning models and build a comprehensive, interactive interface.",
+        "keywords": [
+          "Yolov8",
+          "HTML",
+          "CSS",
+          "Js",
+          "RoboFlow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Streaming Website",
+        "description": "Developed a Netflix clone using React.js, implementing Firebase for user authentication and video playback features. Integrated React Router for seamless navigation and dynamic content display. Utilized CSS Modules for modular styling and GitHub Actions for continuous integration and deployment.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "MongoDb",
+          "Express"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Joke Chrome Extension",
+        "description": "Developed a Chrome extension utilizing HTML, CSS, and JavaScript to deliver jokes in the browser, integrating with a Dad joke API for regular updates.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "JAN 2023",
+        "company_name": "Gearloose Labs Pvt. Ltd.",
+        "description": "Spearheaded the development of a MERN-stack multivendor e-commerce web application, specializing in laboratory equipment. Enhanced user experience by implementing innovative features and functionalities. Optimized website performance through AWS (Amazon Web Services) scalability solutions. Ensured high traffic periods stability by proactive monitoring and maintenance. Streamlined development and deployment processes by establishing efficient CI/CD pipelines using GitHub Actions.",
+        "location": "Agra, IN",
+        "links": "",
+        "startDate": "JUL 2022"
+      },
+      {
+        "role_name": "Frontend Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "APR 2022",
+        "company_name": "DecoderLabs Pvt. Ltd.",
+        "description": "Spearheaded frontend development of multiple website using React.js, Tailwind CSS, and Material UI. Successfully collaborated in a remote setting, ensuring seamless integration of frontend elements with a backend built on Node.js (Express.js) and MongoDB. Implemented a comprehensive dashboard, incorporating libraries such as Recharts for data visualization, Redux for state management, and Axios for API calls to ensure seamless data flow and interactive user interfaces.",
+        "location": "Delhi, IN",
+        "links": "",
+        "startDate": "JAN 2022"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "C++",
+      "TypeScript",
+      "SQL",
+      "NoSQL",
+      "VS Code",
+      "AWS",
+      "Git",
+      "GitHub",
+      "Linux",
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "Redux",
+      "NextJS",
+      "TailwindCSS",
+      "NodeJS",
+      "ExpressJS"
+    ],
+    "soft_skills": [],
+    "name": "Harsh Kushwah",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Noida, Uttar Pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

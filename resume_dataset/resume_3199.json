@@ -1,0 +1,168 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Dev Singhal",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Noida",
+    "Mumbai"
+  ],
+  "full_output": {
+    "summary": "Passionate IT enthusiast with a strong foundation in software development and problem-solving. Adapt at quickly learning new technologies and applying them to real-world challenges. Ready to bring innovation and dedication to a dynamic IT role",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Back-end Web development",
+        "issuer": "Microsoft",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C++ Basic Selection and Iteration",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Computer Vision and Image Processing",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Business Analytics for Management Decision",
+        "issuer": "IIT Kharagpur",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence and Responsible Entrepreneurship",
+        "issuer": "AI+MUNICH",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Project Planning: Putting It All Together",
+        "issuer": "Google",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "The Art Of Living Youth Empowerment and skills - Implementation of Knowledge and practice of the techniques taught in this program help build learning capacity, enhances creativity and communication that helps in developing leadership skills"
+    ],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.TECH",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.5",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Apeejay School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Senior Secondary, 12th",
+        "location": "Noida",
+        "ID": 1.0,
+        "grade_received": "Marks - 89%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Apeejay School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "High School, 10th",
+        "location": "Noida",
+        "ID": 2.0,
+        "grade_received": "Marks - 81%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Attack on Data Plane of SDN (Software-Defined Networking)",
+        "description": "Conducted a detailed analysis of SDN architecture, focusing on data plane interactions with the control plane. Simulated various attack scenarios (e.g., DDoS, packet interception) targeting the SDN data plane.",
+        "keywords": [],
+        "endDate": "05/2024",
+        "startDate": "01/2024",
+        "url": ""
+      },
+      {
+        "name": "Sentiment-Aware Movie Recommendation System",
+        "description": "Cleaned and preprocessed textual data using techniques like tokenization, lemmatization, and removal of stop words. Implemented Natural Language Processing (NLP) techniques to analyze the sentiment of critics' reviews using model BERT. Trained machine learning models using algorithms such as Logistic Regression, Random Forest for sentiment classification.",
+        "keywords": [],
+        "endDate": "12/2023",
+        "startDate": "08/2023",
+        "url": ""
+      },
+      {
+        "name": "Text Classification Model",
+        "description": "Collected and pre-processed text data, including cleaning, tokenization, and feature extraction using techniques like TF-IDF. Built and trained various machine learning models (e.g., Logistic Regression, Naive Bayes, and SVM) to classify text into categories.",
+        "keywords": [],
+        "endDate": "12/2022",
+        "startDate": "08/2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Participant",
+        "skillsUsed": [],
+        "endDate": "08/2024",
+        "company_name": "AIC Launchpad Program NMIMS",
+        "description": "Completed the Launchpad Program at AIC under NMIMS, where I gained hands-on experience in entrepreneurial skills, product development, and market analysis. Developed a strong understanding of the startup ecosystem, with a focus on innovation and business strategy. This program enhanced my ability to translate ideas into actionable business plans and sharpened my leadership skills.",
+        "location": "Mumbai, India",
+        "links": "",
+        "startDate": "06/2024"
+      },
+      {
+        "role_name": "Organising Committee Member",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "Techideate",
+        "description": "I was the part of the Organising Commitee under Finance and Registration.",
+        "location": "Jaipur, India",
+        "links": "",
+        "startDate": "2023"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Dev Singhal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.TECH"
+}

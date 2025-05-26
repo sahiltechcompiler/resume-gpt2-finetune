@@ -1,0 +1,174 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Vineesh Singh",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Bangalore"
+  ],
+  "full_output": {
+    "summary": "Ambitious and resourceful software engineering student with a strong foundation in software development, AI/ML, SQL, and data structures. Experienced in Android and web development, and eager to apply and further develop my technical skills in a challenging and dynamic environment.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Dart and Flutter: Complete Developer Guide",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL: Data Analysis, Algorithm and Software Engineering",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "HackerRank: Proficient in Java and Python",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Lucknow Public School",
+        "endDate": "",
+        "maximum_grade": "Percentage: 94.5%",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA: 9.1",
+        "field_of_study": "PCM + Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pneumonia Detection via Explainable AI",
+        "description": "Constructed a CNN ResNet50 model integrated with SHAP, achieving high accuracy in X-ray image classification.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Drowsiness Detection System",
+        "description": "Devised a real-time alert system employing Python, ML, and computer vision.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Organize",
+        "description": "Architected a productivity app using Flutter and Dart, optimizing task management for users.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Infovia",
+        "description": "Developed a gaming insights platform with HTML, CSS, JavaScript, and React, engaging the gaming community.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Finder",
+        "description": "Innovating a dating app with Flutter and Dart, focusing on user-centric match algorithms and seamless communication.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AI/ML Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "ISRO-URSC",
+        "description": "Engineered AI models using advanced CNNs, optimized via hyperparameter tuning and data augmentation, significantly improving predictive accuracy. Integrated SHAP for interpretability, enhancing transparency in AI-driven diagnostics. Presented key insights to senior scientists, advancing space research initiatives. The developed AI model is being implemented in ISRO-affiliated hospitals for medical diagnostics, particularly in detecting pneumonia from chest X-rays, improving early detection rates.",
+        "location": "Bangalore",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Communications Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Pawzz",
+        "description": "Orchestrated content strategy for social media, elevating engagement by 30%. Crafted newsletters that strengthened subscriber loyalty and championed animal rights.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "R",
+      "SQL",
+      "C/C++",
+      "Flutter",
+      "Dart",
+      "Html",
+      "Css",
+      "Js",
+      "AI",
+      "ML",
+      "Deep Learning",
+      "Data Science",
+      "Front-End Development",
+      "UI/UX Design",
+      "Data Analytics",
+      "MS-Excel",
+      "LINUX/UNIX",
+      "DBMS",
+      "TCP/IP",
+      "PowerBI"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Collaboration",
+      "Creativity",
+      "Strategic Management",
+      "Resilience"
+    ],
+    "name": "Vineesh Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans Excellence Award (2x)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

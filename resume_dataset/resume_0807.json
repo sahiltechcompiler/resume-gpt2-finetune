@@ -1,0 +1,206 @@
+{
+  "project_count": 6.0,
+  "designation": "",
+  "name": "Pranathi Jayanthi",
+  "college": "SRM University, AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University, AP",
+        "endDate": "Present",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.01",
+        "field_of_study": "CSE, AI ML",
+        "startDate": "2021"
+      },
+      {
+        "school": "Fiitjee International College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Fiitjee International School",
+        "endDate": "2019",
+        "maximum_grade": "10.0",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10.0",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fully automated quality control of rigid and affine registrations of T1w and T2w MRI in big data using diffusion models",
+        "description": "Tried to automate quality control for MRI registrations using Denoising Diffusion Implicit Models, focusing on T1w and T2w brain scans from 700 subjects with a total of 1400 slices. It aims to enhance accuracy beyond the current 96% benchmark and stability in MRI analysis by replacing traditional DL methods with advanced diffusion models.",
+        "keywords": [
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Deep Learning",
+          "Diffusion Models",
+          "Generative AI",
+          "Neural Networks",
+          "Python",
+          "Engineering Mathematics"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SkyBox",
+        "description": "A modern Email client for GenZ which includes all the basic email features integrated with novel AI features such as Email Templates, Summarising and Paraphrasing to enhance effective communication and user productivity.",
+        "keywords": [
+          "React Js",
+          "Express Js",
+          "Node Js",
+          "MongoDB",
+          "Artificial Intelligence",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Credit Card Approval Prediction",
+        "description": "Implemented Logistic Regression, Support Vector Machine and Random Forest models to predict credit card approval by achieving an ROC-AUC score of 0.9244 for Random Forest, 0.6521 for Support Vector Machine and 0.6520 for Logistic Regression.",
+        "keywords": [
+          "AI",
+          "ML",
+          "Python",
+          "Numpys",
+          "Pandas",
+          "Random Forest",
+          "Logistic Regression",
+          "SVM"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Prisoner Management System",
+        "description": "It is a user-friendly C project designed to facilitate the record-keeping process for prisoners in a prison environment with features such as adding, searching, editing, viewing, and deleting records.",
+        "keywords": [
+          "C"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Payroll Management System",
+        "description": "Being a crucial component of any business, handling the intricate tasks of calculating employee wages, tracking hours worked, managing payroll taxes, aims to automate these processes.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Rock Paper Scissors Game",
+        "description": "A GUI-based game with an aesthetically pleasing and user-friendly interface that is primarily designed for kids. It offers entertainment and fun while adhering to the classic rules of Rock Paper Scissors.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Member",
+        "skillsUsed": [
+          "Html",
+          "Css",
+          "Javascript",
+          "React Js",
+          "Node Js",
+          "Express JS",
+          "MongoDB",
+          "Data Structures"
+        ],
+        "endDate": "Present",
+        "company_name": "Next Tech Lab, SRM AP",
+        "description": "A student run multi-disciplinary research lab with 200+ students. Explored Web Developement and built 5+ projects through hands-on learning. Participated and organized more than 3 hackathons and workshops conducted by the lab.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2023"
+      },
+      {
+        "role_name": "Web Development & Designing Intern",
+        "skillsUsed": [
+          "React JS",
+          "Next Js",
+          "Tailwind Css",
+          "Github",
+          "Git",
+          "Vercel",
+          "Canva",
+          "Figma"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "DBA Technologies",
+        "description": "Maintained the companys old Wordpress website at first. Later developed a new website using Next JS that is fast and has higher SEO than old one. Made 5+ design elements like pamphlets, banners etc for marketing purposes.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Core Member",
+        "skillsUsed": [
+          "Teamwork",
+          "Event Planning",
+          "Team Building",
+          "Product Innovation",
+          "Leadership",
+          "Designing",
+          "Project Management",
+          "Documentation",
+          "Product Replication"
+        ],
+        "endDate": "Feb 2023",
+        "company_name": "Innovator Square, Ecell, SRM AP",
+        "description": "One of the 3 core members at Innovator Square Community. It is a student-led hub that supports and transforms ideas into market-ready innovations, extending their impact to society and rural areas. Led a team of 25 and a group of 100 members for a period of 9+ months. Certificate of contribution from MHRD IIC, UBA (Central Govt), Hatchlab Research Centre.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2022"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "Pranathi Jayanthi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Bagged Silver medal, goodies and a cash prize of Rs.8000 in Pitch 101 contest by Ecell.",
+      "Won 2nd prize and a reward of Rs.6000 in Pitch and Win contest by ECell, SRM AP.",
+      "Top 5 out of 206+ applications in Best Suggestion Contest with a bounty of Rs.1000.",
+      "AR effect got approved in Reskill Spark Meta AR hackathon. Got goodies & certificate.",
+      "Participated in 10+ hackathons."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech"
+}

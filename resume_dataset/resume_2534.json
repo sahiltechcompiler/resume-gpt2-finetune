@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Divyansh Khare",
+  "college": "Pranveer Singh Institute of Technology (PSIT)",
+  "locations": [
+    "Kanpur, Uttar Pradesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python (Basic)",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Industry-Connect Program of IEEE UP Section",
+        "skillsLearned": [],
+        "title": "Certificate of Industrial Internship Training",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Pranveer Singh Institute of Technology (PSIT)",
+        "endDate": "06/2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Kanpur, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.13",
+        "field_of_study": "Computer Science, Specialization in AI",
+        "startDate": "12/2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Brain Hemorrhage Classification Using Transfer Learning",
+        "description": "Developed a deep learning model employing transfer learning to efficiently and accurately classify all 4 types of brain hemorrhages. Designed a machine learning model by training a convolutional neural network (CNN) on 200 CT scan images, with 160 images in the training set and 40 images in the test set depicting brain hemorrhages. Achieved an accuracy rate of 87% in order to function a robust diagnostic tool for identifying and classifying brain hemorrhages, showcasing the models potential in the field of Radiology and healthcare.",
+        "keywords": [
+          "Python",
+          "Deep learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Crowd Counting Using Drone",
+        "description": "Engineered a drone-based crowd counting solution with a 2.5 PPF MAE in 100 frames, aimed to optimize crowd management and enhance public safety, the solution also increases resource allocation by 30%. Calibrated a drone using Pixhawk flight controller, achieving 100% functionality and superior flight performance. Objective is to achieve 95% accuracy in crowd detection for counting the number of pedestrian in public places.",
+        "keywords": [
+          "Pixhawk",
+          "Mission Planner",
+          "FS-i6 (radio controller)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Lane Detection In Accident Prevention System",
+        "description": "Trained and optimized a computer vision-based lane detection system achieving 90% accuracy in real-time detection of lane markings on the road. Devised and executed an image processing pipeline to detect and track lanes in real-time, resulting in a 25% increase in safety and efficiency on the road.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "Open CV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [],
+        "endDate": "09/2021",
+        "company_name": "CONNECTING IT TECHNOLOGIES",
+        "description": "Created and deployed 20+ virtual machines on AWS Cloud using EC2 instance, enabling remote access for apprentices to use as separate work-spaces. Implemented the use of PuTTY for secure and reliable remote access to virtual machines, ensuring smooth operation for over 20 users.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "06/2021"
+      },
+      {
+        "role_name": "Collaborative member in Web Designing Team(Full-time)",
+        "skillsUsed": [],
+        "endDate": "08/2021",
+        "company_name": "IEEE PSIT Student Branch",
+        "description": "Conducted research to determine the most effective layout and design for a gallery and blog page of IEEE Student Branch official website leading to a 20% increased engagement. Implemented responsive design to ensure optimal viewing on 12+ screen sizes and devices using Wordpress.",
+        "location": "Kanpur",
+        "links": "",
+        "startDate": "04/2021"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C",
+      "SQL",
+      "Linux",
+      "Windows",
+      "AWS",
+      "Wordpress",
+      "git",
+      "OpenAI/ LLM tools",
+      "Data Structures and Algorithms",
+      "OOPs",
+      "API development",
+      "OS",
+      "Machine Learning",
+      "Virtualization",
+      "Computer Networks"
+    ],
+    "soft_skills": [],
+    "name": "Divyansh Khare",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

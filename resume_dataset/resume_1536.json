@@ -1,0 +1,221 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "Khushi Rathi",
+  "college": "Manipal University",
+  "locations": [
+    "Mumbai, Maharashtra, India",
+    "Jaipur",
+    "Andheri",
+    "Chandivali"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React Basics",
+        "issuer": "Meta (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Server side JavaScript with Node.js",
+        "issuer": "NIIT (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Single Page Web Applications with AngularJS",
+        "issuer": "John Hopkins University (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat Certified System Administrator (RHCSA)",
+        "issuer": "Red Hat Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Introduction to Networks",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.0 (no backlogs)",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Pace Junior Science College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "HSC (Class XII)",
+        "location": "Andheri",
+        "ID": 1.0,
+        "grade_received": "Aggregate - 88.3%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Pawar Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "ICSE (Class X)",
+        "location": "Chandivali",
+        "ID": 2.0,
+        "grade_received": "Aggregate - 91%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Book Recommendation Chatbot",
+        "description": "Developed a bookshop chatbot using Python, NLTK, and Keras, implementing natural language processing techniques like tokenization and lemmatization, and using a bag of words model to preprocess text data. Built and trained a neural network with 3 dense layers and 1 dropout layer, consisting of 128, 64, and 32 neurons respectively, achieving an accuracy of 92% using stochastic gradient descent (SGD) with Nesterov momentum. The chatbot effectively classifies 15 distinct user intents and responds within 1 second on average, enhancing the user experience with accurate and relevant recommendations.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Moda: Appareal Ecommerce Website",
+        "description": "Engineered a robust, end-to-end e-commerce platform for clothing sales, leveraging Bootstrap to craft a visually stunning, responsive frontend that captivates users. Designed and integrated efficient backend systems using PHP, ensuring seamless interactions and fast load times, which significantly enhanced user engagement and boosted conversion rates.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Node Rest API",
+        "description": "Developed and optimized a RESTful API using Node.js, Express.js, and Mongoose, efficiently handling over 10,000 CRUD operations daily for enhanced data manipulation. Architected the API to support scalability, accommodating up to 100 concurrent requests with 99.9% uptime. Implemented robust error handling and optimized database queries, reducing response times by 30.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [
+          "Python",
+          "SQL"
+        ],
+        "endDate": "Present",
+        "company_name": "Riverdale Software Solutions",
+        "description": "Actively contributed to the development of an advanced email security platform. Involved analyzing large datasets to identify potential threats and vulnerabilities, developing algorithms to enhance threat detection, and collaborating with the team to implement robust security measures. Utilized tools like Python, SQL, and various data visualization techniques and provide actionable insights to improve the platforms effectiveness and ensure optimal performance.",
+        "location": "",
+        "links": "",
+        "startDate": "2024"
+      },
+      {
+        "role_name": "Associate Product Manager",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Rezonance India (Building)",
+        "description": "Led product strategy, operations, and marketing at Rezonance India, an ad-free, high-performance music streaming platform. Orchestrated successful achievements in lag-free streaming, initiated an upcoming affordable merch store, and directed diverse projects merging high-speed streaming with innovative platforms and games. Oversaw UX enhancements through product development, managed resources, budgets, logistics, and product roadmap. Strategized for marketing and sustainable growth, handling dependencies and pipelines for holistic product advancement.",
+        "location": "",
+        "links": "",
+        "startDate": "2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "Python",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "PHP",
+      "Node.js",
+      "Express.js",
+      "RESTful API design",
+      "MongoDB",
+      "Mongoose",
+      "MySQL",
+      "Keras",
+      "Neural Networks",
+      "NLP (Tokenization, Lemmatization)",
+      "Bag of Words Model",
+      "Data manipulation",
+      "Optimization",
+      "Performance tuning",
+      "Git",
+      "GitHub",
+      "NLTK"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Analytical Thinking",
+      "Communication",
+      "Teamwork",
+      "Leadership",
+      "Adaptibility",
+      "Time Management",
+      "Attention to Detail"
+    ],
+    "name": "Khushi Rathi",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Mumbai, Maharashtra, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

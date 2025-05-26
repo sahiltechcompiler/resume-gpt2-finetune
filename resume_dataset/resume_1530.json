@@ -1,0 +1,137 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Debojyoti Chanda",
+  "college": "SRM University AP",
+  "locations": [
+    "Vijaywada, Andhra Pradesh",
+    "Vijaywada, AP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Hacker Rank SQL (Intermediate)",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "Jun. 2025",
+        "maximum_grade": "10.00",
+        "degree": "Bachelor of Technology",
+        "location": "Vijaywada, Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.74",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Sep. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Olympics-Data-Analysis",
+        "description": "Led the development of a Olympics-Data-Analysis platform with web based architecture, improving user interaction with data and to make useful inferences out of it by 10%. Data is analysed based on Overall data, Country wise and Athletic wise, making it easier for user to go for the granular details.",
+        "keywords": [
+          "Python",
+          "Panda",
+          "streamlit",
+          "seaborn",
+          "matplotlib"
+        ],
+        "endDate": "Jul 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Auto Email Reply Generator with Gemini AI",
+        "description": "Automated email responses and classifed emails, enhancing organization and productivity by 20%. Implemented functionality to fetch the latest email from the users inbox and generate a response using Google Gemini API, improving response eciency by 30%.",
+        "keywords": [
+          "NodeJS",
+          "Express",
+          "Express-session",
+          "Gmail API",
+          "Gemini API",
+          "Docker"
+        ],
+        "endDate": "Jul 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Magic Estate",
+        "description": "Developed a MERN stack website for buying, selling, or renting properties with user prole management. Enhanced security and user experience with JWT authentication, OAuth integration with Firebase, and route protection, leading to a 30% increase in user signups. Implemented search, ltering, and sorting functionality, enabling users to nd specic properties easily.",
+        "keywords": [
+          "React",
+          "Redux",
+          "TailwindCSS",
+          "Firebase",
+          "Swiper",
+          "Node",
+          "Express",
+          "JWT",
+          "Mongoose",
+          "MongoDB"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Enhancing Retention in Credit Card Portfolios via Predictive Analysis",
+        "description": "Conducted Exploratory Data Analysis (EDA) on raw data, performing skewness, correlation, and outlier analysis with visualizations. Processed data by normalizing, removing outliers, and converting categorical data to numeric format. Implemented Logistic Regression and Random Forest models on training data, and compared their accuracy on testing data.",
+        "keywords": [
+          "Python",
+          "Panda",
+          "Matplotlib",
+          "sklearn"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "SRM University AP",
+        "description": "Conducted an in-depth analysis of video synopsis techniques in computer vision, leading to the identication of key algorithms; improved processing speed by 5% for analyzing large video datasets. Authored a comprehensive literature review on optimization algorithms in video synopsis, synthesizing over 50 peer-reviewed articles to identify key trends and methodologies that could enhance processing eciency by 20%.",
+        "location": "Vijaywada, AP",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C++",
+      "C",
+      "Bash",
+      "TypeScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Debojyoti Chanda",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Authored a conference paper titled Performance Study of Standalone and Hybrid Optimization Algorithms For Energy Minimization in Surveillance Video Synopsis. Presented at IC3Com at UEM, Jaipur, attended by over 300 professionals, academics and students.",
+      "Achieved a perfect normalized score of 10/10 in the NPTEL exam for Economics of Banking and Finance Markets."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

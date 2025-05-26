@@ -1,0 +1,148 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Sidak Taneja",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Rajasthan, India",
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "Experienced full stack developer Python, Java and SQL",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "8.2 CGPA",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Amity International School, Mayur Vihar",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "High School Diploma",
+        "location": "Delhi, India",
+        "ID": 1.0,
+        "grade_received": "94.2 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AveloAir App",
+        "description": "Developed the official AveloAir mobile app using ReactNative (Expo). Leveraged Selligent services to enhance user experience. Crafted and executed an appealing and professional frontend for a seamless user interface.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Base 10 Builder",
+        "description": "Designed and constructed an interactive 2D game to teach children the concept of base 10 effectively. Employed the Phaser.js framework and Adobe Illustrator for precise client delivery.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Relate Tools",
+        "description": "Engineered a MS Teams app providing a dashboard and multiple tools to facilitate online meetings using React. Delivered a sleek and userfriendly UI by integrating various frontend libraries. Implemented multiple and SignalR websocket for realtime statistics updates.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Path Finder",
+        "description": "Developed a Python application for finding the shortest path between userdefined points while considering obstacles. Implemented efficient algorithms (e.g., A* and Dijkstras) to enhance route calculation. Built an intuitive graphical user interface to improve accessibility, highlighting software development and user experience design capabilities.",
+        "keywords": [],
+        "endDate": "Dec 2022",
+        "startDate": "Nov 2022",
+        "url": ""
+      },
+      {
+        "name": "Health Care App",
+        "description": "Created the UI/UX from scratch. Offered multiple functionalities to user to provide a sleek and dynamic experience heavy use of recycler views, SQLite.",
+        "keywords": [],
+        "endDate": "Jun 2023",
+        "startDate": "Jan 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [
+          "React",
+          "ReactNative",
+          "Firebase",
+          "SQL",
+          "Phaser.js"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Veersa Technologies",
+        "description": "Engineered a userfriendly and dynamic mobile application using React, ReactNative and Firebase integration, contributing to a seamless and intuitive user experience. Proactively contributed to the development of an efficient MS Teams application using React, providing a professional dashboard, enhancing productivity and communication and also providing multiple tools to both host and participant of the meeting. Demonstrated creative and problemsolving skills by developing an interactive educational game as a proofofconcept, utilizing the Phaser.js framework. Optimized a complex SQL query, achieving an impressive 66 percent reduction in query runtime, leading to enhanced database performance and overall system efficiency. Collaborated effectively with crossfunctional teams, adapted to fastpaced environments, and remained committed to delivering highquality software solutions.",
+        "location": "OnSite",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "General Secretary",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "IEEE RAS MUJ",
+        "description": "Successfully led a 70+ member IEEE RAS chapter, organizing 10+ technical events within a single year, fostering student engagement and technological innovation. Coordinated and executed highimpact events such as Line Following Robot competitions, AWS Deepracer challenges, and work shops in collaboration with prestigious institutions like IIT Bombay, expanding members technical knowledge and handson skills. Spearheaded crossfunctional teams to conceptualize, plan, and execute innovative events, utilizing strong leadership and project management skills to ensure the seamless operation of each event.",
+        "location": "Rajasthan, India",
+        "links": "",
+        "startDate": "Jan 2023"
+      },
+      {
+        "role_name": "App Developer",
+        "skillsUsed": [
+          "React"
+        ],
+        "endDate": "Present",
+        "company_name": "Enactus MUJ",
+        "description": "Led the development of an educational app for underprivileged women, utilizing React. Designed userfriendly interfaces and integrated interactive learning modules to enhance the user experience. Coordinated a team of 3 developers to ensure the successful completion of the project.",
+        "location": "Rajasthan, India",
+        "links": "",
+        "startDate": "Jul 2023"
+      }
+    ],
+    "skills": [
+      "React.js",
+      "Node.js",
+      "Java",
+      "SQL",
+      "Python",
+      "TypeScript",
+      "PHP",
+      "JavaScript",
+      "C/C++",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [],
+    "name": "Sidak Taneja",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winners @ International Space Settlement Design Competition (Kennedy Space Centre, NASA)",
+      "1st Place, Top 30 @ Beamline for School (CERN, Switzerland)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 3.0,
+  "degree": "BTech"
+}

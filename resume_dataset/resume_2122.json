@@ -1,0 +1,164 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Raghav Jaiswal",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "I am an enthusiastic, diligent and highly motivated student with a passion for technology and coding. Punctuality, a level-headed approach, and multitasking are inherent traits that enable me to perform well in academics and extracurricular activities. It is my nature to be proactive and to be committed to ethical principles. As an analytical thinker, I enjoy solving complex problems and am committed to keep improving my technical and soft skills.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DAA",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Fundamentals of ML",
+        "issuer": "AWS DeepRacer",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C++ with DSA",
+        "issuer": "Abdul Bari (Udemy)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7 : Introduction To Networks",
+        "issuer": "Cisco Network Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco: Endpoint Security",
+        "issuer": "",
+        "certiLink": "Nov. 2023"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Current CGPA: 7.94/10.0",
+        "field_of_study": "Computer and Communication Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Boys High School And College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "ICSE: 78%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Boys High School And College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "ICSE: 82%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Detection of Deepfake Photos and Videos",
+        "description": "Developed a deep learning model utilizing ResNext and LSTM architectures to combat the spread of misinformation. Trained the model on a robust dataset of 7000 videos (sources: DFDC, Celeb-DF, FaceForensics) achieving 93% accuracy and a loss of 0.177. Conducted training and testing on an 80/20 split to ensure model reliability.",
+        "keywords": [
+          "Pyhton",
+          "Pytorch",
+          "NumPy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Lecture Q&A ChatBot",
+        "description": "Implemented web scraping to automatically extract structured content from lecture websites. Leverages the Gemini API to power a conversational interface, allowing users to ask questions about the lecture material in their own words. Employs text processing techniques and the FAISS vector store for efficient retrieval of relevant information to answer user queries. Created a user-friendly chat interface with Streamlit.",
+        "keywords": [
+          "Python",
+          "BeautifulSoup4",
+          "Gemini API",
+          "FAISS",
+          "Lang Chain",
+          "StreamLit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Endless Third-person plane game",
+        "description": "Developed an immersive endless arcade game featuring aircraft control, obstacle avoidance and high-score achievement; integrated dynamic gameplay elements that engaged players. Used Unitys built-in Terrain System, Lightning and Skybox to make a captivating landscape. Enhanced competitiveness by developing a dynamic scoreboard feature, integrated storage capability for player scores; leading to 20% longer average session duration.",
+        "keywords": [
+          "Unity",
+          "Unity Asset Store"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "Java",
+      "Python",
+      "DSA",
+      "DAA",
+      "MySQL",
+      "Computer Networks",
+      "Machine Learning",
+      "Git/GitHub",
+      "Unity",
+      "Unreal Engine-5",
+      "Tensorflow"
+    ],
+    "soft_skills": [
+      "Adept",
+      "Level-Headed",
+      "Punctual",
+      "Multitasking"
+    ],
+    "name": "Raghav Jaiswal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "BTech"
+}

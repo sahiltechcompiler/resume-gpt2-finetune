@@ -1,0 +1,142 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Junnel Eswar Dutta",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Supervised Machine Learning",
+        "issuer": "Andrew NG",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Neural Networks and Deep Learning",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Jr College",
+        "endDate": "2021",
+        "maximum_grade": "CGPA: 9.8/10.0",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "951/1000 marks",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bhashyam EM School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Cum. GPA: 8.2/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Twitter Sentiment Analysis and Modeling",
+        "description": "Performed exploratory data analysis (EDA) on Twitter data to enhance sentiment accuracy by 25%. Developed NLP models for sentiment extraction, achieving 85% accuracy. Utilized Python and libraries like Spacy for text analysis, reducing processing time by 40%.",
+        "keywords": [
+          "Spacy",
+          "Python",
+          "NLP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fine-tuning Large Language Models (LLMs)",
+        "description": "Developed a Q&A chatbot with 95% accuracy in responses. Implemented NLP models for seamless interaction, increasing by 20%. Integrated diverse question handling, achieving 90% user satisfaction.",
+        "keywords": [
+          "NLP"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "computer vision",
+          "natural language processing",
+          "Hugging Face",
+          "OpenAI"
+        ],
+        "endDate": "present",
+        "company_name": "Infosys Springboard",
+        "description": "Developed an AI system leveraging computer vision and natural language processing techniques. Implemented a system to detect objects in images using Hugging Face for object detection, achieving a 90% detection accuracy. Integrated OpenAI for scene generation and story generation based on detected objects, resulting in a 30% increase in user engagement.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Programming Languages",
+      "Technologies/Frameworks",
+      "NLP",
+      "PyTorch",
+      "TensorFlow",
+      "OpenCV",
+      "Hugging Face",
+      "LangChain",
+      "Developer Tools",
+      "VS Code",
+      "MATLAB",
+      "Git",
+      "Github",
+      "Java",
+      "C++",
+      "Python",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Junnel Eswar Dutta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Reached the final round of the Adobe GenAI Hackathon",
+      "Secured 97.2 Percentile in JEE MAIN",
+      "Ranked Top 2 percent in AP EAPCET among 1.75 Lakh students",
+      "Solved 400+ problems on CodeChef, HackerRank, LeetCode"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,161 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Bhanu Chaudhary",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Foundations on Oracle",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis Of Algorithms course on NPTEL",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enterprise Networking, Security, and Automation on Cisco Networking academy",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Switching, Routing, and Wireless Essentials on Cisco Networking Academy",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B-Tech (Hons.)",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.10",
+        "field_of_study": "Computer Science Engineering with AI and ML",
+        "startDate": "Aug 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pizza Sales Report Dashboard",
+        "description": "Created a comprehensive report dashboard providing insights into a pizza shops business performance over one year. This project integrates various data sources such as sales figures, customer demographics, product performance, and operational metrics like popular pizza sizes. The dashboard provides several key features: Daily and monthly Trends for total orders, Percentage of Sales by pizza category, Pizza size, and pizza category. Top and bottom 5 sellers by revenue, quantity, and total orders.",
+        "keywords": [
+          "SQL",
+          "MySQL",
+          "SQL Server Management Studio",
+          "Power BI"
+        ],
+        "endDate": "May 2024",
+        "startDate": "March 2024",
+        "url": ""
+      },
+      {
+        "name": "Web App for Plant Leaf Disease Detection",
+        "description": "Attained a 94% accuracy rate on a deep learning CNN model with 84,000-image dataset. Actively improving the model to include comprehensive disease details and treatment options for identified diseases, and providing actionable steps for effective disease management.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Python",
+          "Flask",
+          "CNN",
+          "ResNet50",
+          "TensorFlow",
+          "Keras"
+        ],
+        "endDate": "March 2024",
+        "startDate": "January 2024",
+        "url": ""
+      },
+      {
+        "name": "Coffee Shop Website (Front-end)",
+        "description": "Developed an animated coffee shop website to enhance web development skills as a practice project. Implemented the front end using HTML, CSS, and JavaScript to create a visually appealing and interactive user experience. Gained a wide understanding of front-end technologies and their practical application in web development.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "JavaScript"
+        ],
+        "endDate": "June 2023",
+        "startDate": "April 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Ongoing",
+        "company_name": "Salesforce CRM Developer Internship",
+        "description": "Learning to develop and customize CRM (Customer Relationship Management) applications on the Salesforce platform. Gaining proficiency in Salesforce architecture, APEX programming, and various Salesforce components. Enhancing skills in cloud-based CRM solutions to improve business processes and customer relationship management.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "SQL",
+      "Power BI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "3JS",
+      "TensorFlow",
+      "Keras",
+      "Blender"
+    ],
+    "soft_skills": [],
+    "name": "Bhanu Chaudhary",
+    "position": "",
+    "interests": [
+      "Computer Hardware",
+      "Learning Japanese",
+      "Traditional, 2D, and 3D Animation",
+      "Motion Graphics",
+      "Image and Video Editing",
+      "Digital Art",
+      "Drawing and Sketching",
+      "Listening to classical piano and violin compositions",
+      "Reading novels"
+    ],
+    "achievements_and_awards": [
+      "Codeforces Rating - 1133",
+      "CodeChef Rating - 1565",
+      "Selected for smart India hackathon 2022"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B-Tech (Hons.)"
+}

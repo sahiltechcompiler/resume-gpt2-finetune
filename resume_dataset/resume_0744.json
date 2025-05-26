@@ -1,0 +1,222 @@
+{
+  "project_count": 7.0,
+  "designation": "",
+  "name": "Manisai Yalavarthipati",
+  "college": "SRM UNIVERSITY AP",
+  "locations": [
+    "Andhra Pradesh, India",
+    "Banglore",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internship completion as FrontEnd developer",
+        "issuer": "Oasis Infobyte",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Internship completion on Data Analysis",
+        "issuer": "APSSDC",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem Solving",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY AP",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Andhra Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "9.20*",
+        "field_of_study": "Computer Science Specialization : Artificial Intelligence and Machine Learning",
+        "startDate": "September 2021"
+      },
+      {
+        "school": "Narayana Junior Collage",
+        "endDate": "March 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Andhra Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "96.7%",
+        "field_of_study": "Board of Intermediate Education AP",
+        "startDate": "June 2019"
+      },
+      {
+        "school": "10th Standard",
+        "endDate": "April 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Andhra Pradesh, India",
+        "ID": 2.0,
+        "grade_received": "10.0",
+        "field_of_study": "Board of Secondary Education AP",
+        "startDate": "June 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Extractive Text Summarization on Medical Insights using Fine-tuned Transformers",
+        "description": "A detailed analysis of using Finetuned and pretrained Language Models for Extractive text summarization, evaluated these models on datasets of diseases like cancer, tinnitus, Alzheimer, brain cancer for concluding which model performs well.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Addition, Subtraction and Multiplication of Polynomials",
+        "description": "Developed a polynomial manipulation program capable of handling polynomials of any length and order, adeptly managing duplicate terms and zero cases for optimal functionality.",
+        "keywords": [
+          "C++",
+          "Linked List",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Process Scheduling Algorithms",
+        "description": "Developed an interactive web page showcasing diverse process scheduling algorithms: SJF, LFJ, Priority (preemptive and non-preemptive), FCFS, Round Robin, and non-preemptive HRRN; enhanced understanding of complex concepts.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Java Script",
+          "Data Structures",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "HR Data Project",
+        "description": "Developed a web page featuring Admin and User panels for streamlined workflow initiation and execution. Implemented comprehensive attributes for efficient task management.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Java Script",
+          "PHP",
+          "SQL",
+          "JSON",
+          "VS Code",
+          "Xampp"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FastKart",
+        "description": "I developed an interactive fast food delivery web page with admin and user panels, including features like product management, order updates, and data management.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Java Script",
+          "PHP",
+          "SQL",
+          "JSON",
+          "VS Code",
+          "Xampp"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Credit Card Fraud Detection",
+        "description": "Led the development of a credit card fraud detection system using multiple algorithms, identifying Isolation Forest as the most effective for accurate anomaly detection in transaction data.",
+        "keywords": [
+          "Machine Learning",
+          "Data Science",
+          "Python",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Resume Builder",
+        "description": "Built user-friendly resume tool with automated formatting, customization using Java. Showcased programming skills and commitment to practical solutions.",
+        "keywords": [
+          "Java",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "PHP Developer",
+        "skillsUsed": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "JS",
+          "JSON",
+          "SQL"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Agumentik software private limited",
+        "description": "I developed HR data, e-commerce, and portfolio page projects for 3 months at Augmentik Group, utilizing PHP, HTML, CSS, JS, JSON and SQL.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Associate Program Analyst",
+        "skillsUsed": [],
+        "endDate": "August 2024",
+        "company_name": "Moodys",
+        "description": "Tested the product functionality at Moodys by creating new .NET-based testing methodologies, Unit Testing processes, and collaborating with teams to resolve defects.",
+        "location": "Banglore",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "PHP",
+      "SQL",
+      "C#"
+    ],
+    "soft_skills": [],
+    "name": "Manisai Yalavarthipati",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

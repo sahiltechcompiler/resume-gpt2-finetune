@@ -1,0 +1,148 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Harsidak Singh",
+  "college": "Guru Tegh Bahadur Institute Of Technology",
+  "locations": [
+    "New Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Codsoft Internship Completion Certificate",
+        "issuer": "Codsoft",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem Solving (Intermediate)",
+        "issuer": "HackerRak - HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "TCS CodeVita S11",
+        "issuer": "TCS",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute Of Technology",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.665",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "The Air Force SChool",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th Board",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 94%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "The Air Force SChool",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th Board",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 85%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Kinnect (Discord Clone)",
+        "description": "Developed Kinnect,a Discord clone aimed at real-time communication,in collaboration with a team of 4. Spearheaded the creation of core modal components including initial modal, navigation sidebar, and server modal. Engineered server settings, manage members, and delete message functionalities, enhancing user control. Led the development of the database schema and setup using PrismaORM, ensuring efficient data management and scalability.",
+        "keywords": [
+          "Nextjs",
+          "Reactjs",
+          "MySQL",
+          "Socket.IO",
+          "PrismaORM",
+          "TypeScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "EstateSphere",
+        "description": "Collaborated in a team of 4 to develop a real estate marketplace facilitating property listing and buyer-seller communication for seamless transactions. Enhanced user profiles, crafted listing creation, and optimized listing display for improved user experience. Integrated Google authentication using Firebase for secure access and assisted in developing sign-in, sign-out, and user profile update functionalities. Connected the database to the application and designed user and listing models.",
+        "keywords": [
+          "MongoDb",
+          "Expressjs",
+          "React",
+          "Nodejs",
+          "TailwindCSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "September 2023",
+        "company_name": "CODSOFT",
+        "description": "Developed a responsive landing page using HTML, CSS, and JavaScript to enhance user engagement. Created a personal portfolio showcasing projects and skills, improving online presence. Built a functional calculator website, applying JavaScript for interactive and user-friendly functionality.",
+        "location": "New Delhi, India",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Reactjs",
+      "Nextjs (Basics)",
+      "VSCode",
+      "GitHub",
+      "MySQL",
+      "MongoDb"
+    ],
+    "soft_skills": [],
+    "name": "Harsidak Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

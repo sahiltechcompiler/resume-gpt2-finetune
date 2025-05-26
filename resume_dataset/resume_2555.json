@@ -1,0 +1,137 @@
+{
+  "project_count": 2.0,
+  "designation": "Treasurer",
+  "name": "POORV MANGLA",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Virtual",
+    "On-Site (Noida, Uttar Pradesh)"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Crash Course on Python",
+        "issuer": "Google (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Visualization and Dashboards with Excel",
+        "issuer": "IBM (Coursera)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Databases and SQL for Data Science with Python",
+        "issuer": "IBM (Coursera)",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.51",
+        "field_of_study": "Computer Science & Engineering (IOT & IS)",
+        "startDate": "Oct. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Car Price Prediction",
+        "description": "Predicted car prices with 8 regression models, achieving 97% accuracy using Random Forest model. The Project aims for the transparency of car prices in the market among the customers and sellers.",
+        "keywords": [],
+        "endDate": "Mar. 2024",
+        "startDate": "Jan. 2024",
+        "url": ""
+      },
+      {
+        "name": "Smart IOT Cradle System",
+        "description": "Built an innovative Smart IoT Cradle System designed to monitor and enhance infant care. Used Arduino Uno, sensors(Ky-037 sound sensor, Proximity sensor, DHT-11 sensor,HC-05 Bluetooth Module,ESP 8266 WIFI module) and Conducted data collection and analysis to optimize cradle.",
+        "keywords": [],
+        "endDate": "Nov. 2023",
+        "startDate": "Sept. 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "YBI",
+        "description": "Developed a Python-based sentiment analysis tool for financial news, delivering real-time insights to enhance trading strategies and decision-making with a data of over 4000 entries. Provided predictive insights for investors, financial analysts, and market researchers with a F1-Score 51%.",
+        "location": "Virtual",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "ERP Architecture Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Mitzvah Private and Limited",
+        "description": "Trained in ERP (Enterprise Resource Planning) system architecture and managed 10+ Excel spreadsheets, optimizing data organization and WATI software. Created an SQL database for real-time employee attendance, enhancing data accuracy by 95% and saving 40 hours monthly.",
+        "location": "On-Site (Noida, Uttar Pradesh)",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Numpy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Scikit-Learn",
+      "Tenserflow",
+      "My SQL",
+      "Excel",
+      "Arduino IDE",
+      "Google Colab",
+      "Git/Github",
+      "Tableau",
+      "Python",
+      "C/C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Deadline Management",
+      "Problem-solving",
+      "Presentation Delivery",
+      "Team Coordination"
+    ],
+    "name": "POORV MANGLA",
+    "position": "Treasurer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans List(Academic Award (9+ GPA))"
+    ],
+    "publications": [
+      "Smart Cradle System for Enhancing Infant Care and Safety Using IoT and Machine Learning Accepted / 2nd ICSSAS /Paper ID: ICSSAS 234",
+      "Home Pollution Control System Using IOT Device Accepted / Patent / Application No. 202411057621"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors of Technology"
+}

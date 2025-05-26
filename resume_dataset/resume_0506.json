@@ -1,0 +1,131 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "MOHIT SINHA",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "learned Xcode, UIKit , SwiftUI, ARKit, CoreML and CoreData along with advanced app design models.",
+        "skillsLearned": [],
+        "title": "iOS and Swift - The Complete iOS App Development Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.1/10",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Army Public School Kanpur",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "85/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Live Messaging iOS Application",
+        "description": "Established secure user authentication and real-time database for cloud messaging using FireBase-FireStore. Implemented CocaPods as 3rd party Libraries to enhance the Label Title Animation. Engineered and implemented an intuitive user interface featuring Multiple Navigation Tabs and refined message visualization through the strategic utilization of Navigation Controller and UITableView within the Swift UIKit Framework.",
+        "keywords": [
+          "Swift",
+          "UIKit",
+          "CocaPods",
+          "FireBase",
+          "MVC"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Weather Application",
+        "description": "Achieved live weather such as temperature for an input location using OpenWeather API. Live weather details for current location of user using coreLocation. Transformed suitable icons for respected weather condition using Weather Icon Libraries by Apple.",
+        "keywords": [
+          "Swift",
+          "UIKit",
+          "JSON-Parse",
+          "Rest API",
+          "coreLocation"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Senior Coordinator",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "IEEE WIE",
+        "description": "Collaborated with a team of 50+ members in event planning, execution, and delivery within strict deadlines. Coordinated weekly team meetings to discuss project progress and address any challenges or roadblocks.",
+        "location": "",
+        "links": "",
+        "startDate": "2022"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Java",
+      "Swift",
+      "HTML/CSS",
+      "JavaScript",
+      "UIKit",
+      "SwiftUI",
+      "CoreData",
+      "CoreAnimation",
+      "CocoaPods",
+      "CoreML",
+      "ARKit",
+      "MySQL",
+      "FireBase",
+      "Data Structures",
+      "Algorithms",
+      "Rest APIs",
+      "OOPS",
+      "AWS",
+      "iOS",
+      "Windows",
+      "Linux(Ubantu)",
+      "Git",
+      "GitHub",
+      "Xcode",
+      "VSCode"
+    ],
+    "soft_skills": [],
+    "name": "MOHIT SINHA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved Over 150+ DSA Problems on LeetCode / Codechef / Codestudio",
+      "Awarded Rank 522 in START106D conducted on CodeChef",
+      "Reseach on Cryptographic Systems using Quantum Cell Automata(Live) using BB84 Algorithm for Quantum Key Distribution. (Live)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "BTech"
+}

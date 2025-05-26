@@ -1,0 +1,153 @@
+{
+  "project_count": 2.0,
+  "designation": "Aspiring Software Engineer",
+  "name": "SHAIK ISMAIL",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Mydukur, Andhra Pradesh",
+    "Phagwara, IN",
+    "Vijayawada, IN",
+    "Kurnool, IN"
+  ],
+  "full_output": {
+    "summary": "Dedicated and innovative aspiring Software Engineer with a strong foundation in designing and developing scalable web applications and software solutions. Skilled in low-level design, OOP, schema design, DSA in Java, Python, JavaScript, SQL, and data analysis with NumPy, Pandas, and Matplotlib. Passionate about leveraging technology to solve complex challenges.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming for Every Body",
+        "issuer": "University of Michigan",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete 2023 Web Development Internship Training on MERN Stack",
+        "issuer": "Cipher schools",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "May 2022",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Phagwara, IN",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.81",
+        "field_of_study": "Computer Science (Data Science ( ML & AI )",
+        "startDate": "Aug '21"
+      },
+      {
+        "school": "Sri Chaitanya Boys College Aarya Bhavan",
+        "endDate": "Jun '19",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Vijayawada, IN",
+        "ID": 1.0,
+        "grade_received": "Percentage - 97.2",
+        "field_of_study": "( MPC )",
+        "startDate": ""
+      },
+      {
+        "school": "Indus EM High School",
+        "endDate": "Mar '19",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "Kurnool, IN",
+        "ID": 2.0,
+        "grade_received": "CGPA - 10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Food Ordering Application using the MERN stack",
+        "description": "Developed 'LovelyTastes,' a Food Ordering Application using the MERN stack (MongoDB, Express.js, React.js, Node.js). Designed a responsive, user-friendly interface, ensuring seamless order management and enhancing user experience. Deployed on a cloud platform for scalability.",
+        "keywords": [
+          "ReactJs",
+          "JavaScript",
+          "MongoDB"
+        ],
+        "endDate": "Aug23",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hotel Dataset Analysis and Visualization using Python Libraries",
+        "description": "Conducted data analysis on a hotel dataset to derive meaningful insights for business decisions. Cleaned and processed data, performed statistical analysis and visualised data to identify trends and opportunities for improvement.",
+        "keywords": [
+          "Python",
+          "Numpy",
+          "Pandas",
+          "Matplotlib"
+        ],
+        "endDate": "Apr'23",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Training",
+        "skillsUsed": [
+          "React.JS",
+          "Node.JS",
+          "Express.JS",
+          "MongoDB"
+        ],
+        "endDate": "Jul '23",
+        "company_name": "CipherSchools",
+        "description": "Collaborated with the development team to understand and implement user interface components using react.JS. Back end Development using node.JS and express.JS, and building a rest full API to facilitate communication between the frontend and the backend. Database Management with MongoDB, work on designing and maintaining MongoDB databases. Write queries and perform data manipulation to ensure efficient data storage and retrieval.",
+        "location": "Mydukur, Andhra Pradesh",
+        "links": "",
+        "startDate": "Jun '23"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML5",
+      "CSS",
+      "Node.js",
+      "React.js",
+      "Numpy",
+      "Pandas",
+      "Matplotlib",
+      "Scikit-learn",
+      "MySQL",
+      "MongoDB",
+      "Unix",
+      "Windows",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "SHAIK ISMAIL",
+    "position": "Aspiring Software Engineer",
+    "interests": [
+      "Event planning and Organisation",
+      "Adept football player",
+      "Fostering cross-cultural communication and understanding"
+    ],
+    "achievements_and_awards": [
+      "Merit Award For Outstanding Academic Performance.",
+      "5 Star Rating in SQL on HackerRank.",
+      "Merit Scholarship Recipient."
+    ],
+    "publications": []
+  },
+  "current_location": "Mydukur, Andhra Pradesh",
+  "graduation_year": 2022.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

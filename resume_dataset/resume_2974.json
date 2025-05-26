@@ -1,0 +1,154 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Tilak Raj Dixit",
+  "college": "KIET Group Of Institution",
+  "locations": [
+    "Ghaziabad, UP",
+    "Kanpur, UP",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institution",
+        "endDate": "Aug 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad, UP",
+        "ID": 0.0,
+        "grade_received": "CGPA - 7.68",
+        "field_of_study": "Computer Science",
+        "startDate": "Nov 2021"
+      },
+      {
+        "school": "St. Aloysius High School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "ISC",
+        "location": "Kanpur, UP",
+        "ID": 1.0,
+        "grade_received": "Percentage - 88.5%",
+        "field_of_study": "Intermediate",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Eshop",
+        "description": "Implemented robust user authentication and authorization mechanisms using JSON Web Tokens (JWT) and Express.js middleware. Integrated Stripe payment gateway for seamless and secure online transactions, resulting in a 25% increase in completed transactions and a 15% decrease in checkout abandonment rate.",
+        "keywords": [
+          "React",
+          "Tailwind CSS",
+          "Express",
+          "MongoDB",
+          "Nodejs",
+          "Redux",
+          "Stripe",
+          "Render"
+        ],
+        "endDate": "October 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student GPA Predictor",
+        "description": "Developed a GPA prediction model using linear regression and Gradient Descent algorithm, achieving a 92% accuracy rate through cross-validation. Emphasizes data preprocessing and parameter optimization, reducing prediction errors by 20% compared to standard models.",
+        "keywords": [
+          "Linear Regression",
+          "Python",
+          "Numpy",
+          "Pytorch"
+        ],
+        "endDate": "April - July 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FilmFlix-Viewer",
+        "description": "Developed a user-friendly web app using Node.js, MySQL, and TMDB API for seamless movie exploration. Backend functionality implemented in Node.js ensures smooth data retrieval and manipulation.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Materialize CSS",
+          "Node.js",
+          "MySQL"
+        ],
+        "endDate": "May-2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Voltsec.io",
+        "description": "Created an API for vulnerability scanning for web applications using FastAPI. Developed APIs for network scanning and currently working on further enhancements. Designed and implemented the frontend using ReactJS, and integrated public APIs for additional functionalities and purposes.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "Open Source Contributor",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "GirlScript Summer of Code",
+        "description": "Collaborated with a diverse team of developers to address project requirements and implement solutions. Gained hands-on experience with version control systems and project management tools. Enhanced understanding of software development best practices through real-world project contributions.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "Python",
+      "JAVA",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "VSCode",
+      "Pycharm",
+      "Sublime",
+      "Git",
+      "Github",
+      "Postman Api",
+      "Data Structures and Algorithms",
+      "Object-Oriented Programming",
+      "ReactJs",
+      "Express(node.js)",
+      "jquery",
+      "Django",
+      "Flask",
+      "REST API",
+      "MongoDb",
+      "SQL",
+      "MySql",
+      "SQLite",
+      "Windows",
+      "Linux"
+    ],
+    "soft_skills": [],
+    "name": "Tilak Raj Dixit",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured Global rank-261 in div-3 of Codechef starters 111",
+      "Departmental Level Winner in hardware category at InnoTech 2023",
+      "Coding Competition Winner - Secured 2nd position among 600 candidates",
+      "Solved more than 500+ dsa problems across various coding platforms",
+      "Round 1 winners in Hack it Out conducted by IIT BHU 2024"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

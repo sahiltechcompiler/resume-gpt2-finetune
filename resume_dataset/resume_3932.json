@@ -1,0 +1,165 @@
+{
+  "project_count": 3.0,
+  "designation": "React Js Teaching Assistant",
+  "name": "Priyam Kumar Maurya",
+  "college": "Dr. Ram Manohar Lohiya Awadh University",
+  "locations": [
+    "Ayodhya",
+    "Lucknow",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "Innovative software developer proficient in multiple languages, specializing in MERN stack web development; excels in collaboration, meeting deadlines, and delivering high-quality code; dedicated to mastering emerging technologies and continuously advancing skills.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction To Java",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures In Java",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Frontend Backend using Node.js",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React JS Training",
+        "issuer": "Coding Ninjas",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Web Developer",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. Ram Manohar Lohiya Awadh University",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Master In Computer Application",
+        "location": "Ayodhya",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.10",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Shri RamSwaroop Memorial University",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Bachelor In Computer Application",
+        "location": "Lucknow",
+        "ID": 1.0,
+        "grade_received": "CGPA: 6.02",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Node Api",
+        "description": "Developed an API with CRUD operations: Incorporated a 1 POST request for user registration, Implemented 2 GET requests to retrieve all users and individual user details, Used 1 DELETE for specific user removal and Employed 1 PUT for updating user information. Leveraged the Postman app for seamless 100% data retrieval from the database. Engineered a sophisticated data storage solution using Node.js and MongoDB Atlas, defining a detailed schema that boosted data processing efficiency by 50% and decreased query response time by 35%.",
+        "keywords": [
+          "NodeJS",
+          "ExpressJS",
+          "Mongoose"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Amazon Clone",
+        "description": "Developed an Amazon clone using the MERN stack, featuring user authentication, product listings, shopping cart, and secure checkout functionalities. Revamped the homepage using Mui Styles and Mui Material library of React, incorporating dynamic content display with Carousel and real-time alert notifications via React-Toastify, enhancing user experience and interaction by 40%. The application encompasses 9 CRUD operations, comprising 6 GET requests and 3 POST requests on the backend, mirrored by an equal number of API requests on the frontend to facilitate various functionalities. It mandates the implementation of a required 1 ProductSchema for storing data on MongoDB Atlas, alongside a 1 UserSchema to persist user details during the Sign-up process in the database.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Javascript",
+          "Mui Styles",
+          "Express JS",
+          "Node JS",
+          "Mongoose",
+          "React JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Demo"
+      },
+      {
+        "name": "Zomato Clone",
+        "description": "Engineered a search feature that enables users to locate items by name, thereby enhancing 100% usability of the Live platform. Implemented the Skeleton effect for homepage component loading, enhancing user experience and achieving a 20% reduction in perceived load time, leading to a 15% increase in user engagement. Utilized the Filter method adeptly to streamline the sorting and display of specific elements, thereby 100% optimizing both user experience and navigation.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Javascript",
+          "Bootstrap",
+          "React JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "React Js Teaching Assistant",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "Coding Ninjas",
+        "description": "Resolved over 150+ student doubts on React.js topics like hooks, state management, and lifecycle, ensuring comprehensive understanding and application. Mentored a cohort of 20 students through four complex React projects, doubling their comprehension of key concepts and boosting practical skill proficiency by 40%. Achieved a high satisfaction rating of 4.66/5, reflecting the positive impact of my support on students learning.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "DSA",
+      "OOPS",
+      "HTML/CSS",
+      "JavaScript",
+      "Node JS",
+      "React JS",
+      "Mongo DB Atlas",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "Priyam Kumar Maurya",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Raebareli, Uttarpradesh",
+  "graduation_year": 2022.0,
+  "experience_count": 1.0,
+  "degree": "Master In Computer Application"
+}

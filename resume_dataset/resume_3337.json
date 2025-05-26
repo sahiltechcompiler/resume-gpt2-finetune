@@ -1,0 +1,141 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "KRASH NAGAR",
+  "college": "Netaji Subhas University of Technology",
+  "locations": [
+    "Delhi, India",
+    "New Delhi, India",
+    "U.P, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Netaji Subhas University of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (B. Tech)",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.54",
+        "field_of_study": "Electrical Engineering (EE)",
+        "startDate": "2020"
+      },
+      {
+        "school": "Lal Bahadur Shastri School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "CBSE (Class XII)",
+        "location": "New Delhi, India",
+        "ID": 1.0,
+        "grade_received": "Aggregate: 88.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Delhi Public School, Vidyut Nagar",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "CBSE (Class X)",
+        "location": "U.P, India",
+        "ID": 2.0,
+        "grade_received": "Aggregate: 91.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ecommerce-App",
+        "description": "Created a Full Stack (MERN) app. Provides features like sign up, login, profile management, payment, authorization & authentication.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "REACTJS",
+          "NODEJS",
+          "EXPRESSJS",
+          "API",
+          "MONGODB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://ecommapp-frontend.onrender.com"
+      },
+      {
+        "name": "I- Notebook",
+        "description": "It performs authentication and privacy of your notes made using MERN tech stack. Provides users a secured platform where they can make their notes and do operations on them.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "REACTJS",
+          "NODEJS",
+          "EXPRESSJS",
+          "API",
+          "MONGODB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://appnotebook.netlify.app"
+      },
+      {
+        "name": "Pinterest-Clone",
+        "description": "Developed a Pinterest clone enabling users to upload and view photos, enhancing the platform visual content.",
+        "keywords": [
+          "NODEJS",
+          "EXPRESSJS",
+          "MONGODB",
+          "EJS",
+          "PASSPORT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://pinterest-tb65.onrender.com"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Automation Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Apex Automation & Control",
+        "description": "Apex is a System Integrator of Omron & a leading Global Technology provider of Industrial Automation solutions. Understanding and supporting the working of PLC (Programmable Logic Control) and HMI (Human Machine Interface). Exploring the application of PLCs as they find use in various applications in power plants, smart grid systems, monitoring and machine tools.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "JavaScript",
+      "NodeJS",
+      "ReactJS",
+      "CSS",
+      "MySQL",
+      "HTML",
+      "Postman",
+      "MongoDB",
+      "Express.js"
+    ],
+    "soft_skills": [],
+    "name": "KRASH NAGAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Selected As Mentee for MICROSOFT INTERN ENGAGE 2022.",
+      "Knight at Leetcode (Top 5%).",
+      "Secured 407 rank among 25000 users in Leetcode Biweekly Contest 118.",
+      "Cleared Round 1 of Flipkart Grid 5.0."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology (B. Tech)"
+}

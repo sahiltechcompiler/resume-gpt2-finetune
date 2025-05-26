@@ -1,0 +1,148 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ANREEN KOUR",
+  "college": "Vellore Institute of technology",
+  "locations": [
+    "Bhopal",
+    "Kota",
+    "Baramulla"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning",
+        "issuer": "Udemy",
+        "certiLink": "Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MERN Full Stack",
+        "issuer": "ETHNUS",
+        "certiLink": "Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AIML",
+        "issuer": "Smart Bridge",
+        "certiLink": "Link"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Vellore Institute of technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Science",
+        "location": "Bhopal",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.66",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Central Academy",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Kota",
+        "ID": 1.0,
+        "grade_received": "percentage: 86.2",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "St. Josephs school",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Baramulla",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.8",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Salary prediction",
+        "description": "Orchestrated an innovative web application for personalized salary prediction, leveraging Python-3.12.3, Flask, and ScikitLearn. Utilized pipelines for data processing with EDA and necessary modifications, and deployed the model with Pickle, trained on a dataset of 2,639 rows. Achieved a97% increase in accuracy, enhancing user engagement and satisfaction.Integrated with a website using HTML, CSS, JS, and Flask.",
+        "keywords": [],
+        "endDate": "December 23",
+        "startDate": "December 23",
+        "url": ""
+      },
+      {
+        "name": "Book recommendation system",
+        "description": "Developed an advanced platform for tailored book recommendations, leveraging Python-3.12.3 (Flask), HTML, CSS, and Bootstrap. Employed three datasets totaling 1,699,998 rows, processed through pipelines with exploratory data anal- ysis and essential adjustments, to train a custom ML model. Accomplished 20%-time savings for users, significantly enhancing the recommendation accuracy and user satisfaction. Incorporated seamlessly with a web app using JS, CSS, HTML and Flask, ensuring a refined and engaging user experience.",
+        "keywords": [],
+        "endDate": "September 23",
+        "startDate": "September 23",
+        "url": ""
+      },
+      {
+        "name": "Hemastats(CBC analyser)",
+        "description": "Architected a highly responsive web application for clients to study their blood report with 10+ cell counts in a a team of 3. Spearheaded System Designincluding the idea of horizontal scaling, followed by architecture design and data modelling to make website 2x responsive and stable. Engineered and optimized data for back-end support of a high-traffic website, enhancing data integrity and system performance by 50%.",
+        "keywords": [],
+        "endDate": "November 23",
+        "startDate": "November 23",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Urdu",
+      "Punjabi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Machine learning intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "Mentorness",
+        "description": "Pioneered an end-to-end machine learning project for salary prediction, leveraging a comprehensive tech stack to ensure robust results with 97% accuracy. Executed streamlined deployment pipelines, improving model precision. Constructed a comprehensive machine learning notebook for exploratory data analysis of the World Cup 2023, incorporating advanced visualization techniques and thorough data preprocessing with dataset of 1408 rows and 20 columns. Authored a 1000-word article on decision trees and random forests, providing in-depth insights into their appli- cations and functionalities.",
+        "location": "",
+        "links": "(Article)",
+        "startDate": "Nov 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "Machine learning",
+      "Flask",
+      "NLP",
+      "React",
+      "HTML/CSS",
+      "Data analysis",
+      "Power BI"
+    ],
+    "soft_skills": [],
+    "name": "ANREEN KOUR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Championed a high-performing team, achieving finalist status amidst 700 participants at Hack it Out 2023, IIT Patna; showcased exceptional leadership and technical expertise, propelling team to success",
+      "4 stars(java),HackerRank."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Computer Science"
+}

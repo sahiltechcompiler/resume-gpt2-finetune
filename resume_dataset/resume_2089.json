@@ -1,0 +1,151 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Laxman Bankupalle",
+  "college": "SRM AP University",
+  "locations": [
+    "Amaravathi, Andhra Pradesh",
+    "Mumbai, Maharashtra",
+    "Self Employed"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM AP University",
+        "endDate": "Sep. 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Amaravathi, Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": "Sep. 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Opuluxe jewelry",
+        "description": "Integrated Firebase authentication with OTP verification for secure and user-friendly login. Implemented Firebase Realtime Database for dynamic user data storage, improving app experience.",
+        "keywords": [
+          "MERN Stack",
+          "React Native",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FAARAS",
+        "description": "Developed a facial recognition system for hostel attendance, reducing manual check-in time by 50%. Automated email notifications for late arrivals, enhancing hostel security.",
+        "keywords": [
+          "MERN Stack",
+          "Tensorflow JS",
+          "Google Teachable Machine"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Similarity Search",
+        "description": "Created a system to generate transcripts for YouTube videos using speech-to-text technology. Integrated with Pinecones vector database for efficient storage and retrieval of embeddings.",
+        "keywords": [
+          "JavaScript",
+          "Express",
+          "Pinecone",
+          "OpenAI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bus Booking System",
+        "description": "Designed a ticketing system for SRMAP hostel residents to book bus seats, including a payment gateway for seamless transactions.",
+        "keywords": [
+          "MERN Stack",
+          "React-Native",
+          "Stripe"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Management Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "Current",
+        "company_name": "SRM University, AP",
+        "description": "Organized and managed critical data for the Department of Student Affairs, enhancing data accuracy and security. Automated key processes using advanced Python scripting, reducing manual errors and saving significant time.",
+        "location": "Amaravathi, Andhra Pradesh",
+        "links": "",
+        "startDate": "November 2023"
+      },
+      {
+        "role_name": "Fullstack Developer Intern",
+        "skillsUsed": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "Python"
+        ],
+        "endDate": "November 2023",
+        "company_name": "Snap Smart, Inc",
+        "description": "Specialized in responsive design and full-stack development using React, Node.js, and MongoDB. Created and distributed daily test result reports with HTML, JavaScript, CSS, and Python, improving team efficiency.",
+        "location": "Mumbai, Maharashtra",
+        "links": "",
+        "startDate": "April 2023"
+      },
+      {
+        "role_name": "Full Stack Development",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "Freelance",
+        "description": "Developed a dynamic and user-friendly website for UDGAM with modern technologies, optimizing registration for over 1,000 participants and integrating a secure payment gateway.",
+        "location": "Self Employed",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C/C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL",
+      "MongoDB",
+      "React",
+      "React Native",
+      "Node.js",
+      "Solidity",
+      "Express"
+    ],
+    "soft_skills": [
+      "Interpersonal",
+      "Presentation",
+      "Communication"
+    ],
+    "name": "Laxman Bankupalle",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Bengaluru, India",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

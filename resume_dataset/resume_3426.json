@@ -1,0 +1,153 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "HARSHA PASUPULA",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Blockchain Developer certificate",
+        "issuer": "Dcodeblocks",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Developer",
+        "issuer": "Academor",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.67",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Medha Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "93.0%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Santiniketan High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Voting Dapp",
+        "description": "Designed and developed a secure Decentralized Voting System to achieve 100% tamper proof and ensure efficiency, utilizing JavaScript, Node.js, and Solidity for smart contracts. Implemented features for candidate registration, user registration, election committee management, and winner declaration. Successfully integrated Metamask for secure address authentication, ensuring a transparent and reliable voting process.",
+        "keywords": [
+          "JavaScript",
+          "Node.js",
+          "Solidity"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Website_Link"
+      },
+      {
+        "name": "News Aggregator",
+        "description": "Developed a comprehensive news aggregator platform, integrating 5+ APIs to deliver all types of news. Implemented features like bookmarking, weather check, and advanced search, enhancing user experience by 40%. Boosted user engagement by 35% through personalized news curation and streamlined interface.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Restaurant Management System",
+        "description": "Proposed a user-friendly interface for both customers and managers to get 100% satisfaction. Customers can: Select desired number of items(1 or more) for ordering. Make payments securely(100% secure). Automatically download receipts after successful payment to there end systems only 1 time. Managers have additional privileges: Add or remove (1 or more) menu items. Authenticate any number(1 or more) of users.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Blockchain Developer",
+        "skillsUsed": [
+          "Solidity",
+          "Blockchain",
+          "Smart Contracts"
+        ],
+        "endDate": "Present",
+        "company_name": "DCODEBLOCKS",
+        "description": "Developed and tested smart contracts using Solidity for various blockchain platforms. Verified contract functionality through rigorous test case implementation and debugging. Deployed contracts on multiple testnets including Polygon, Optimism, and Binance Smart Chain (BNB) 10+ networks and 5+ languages. Worked on minting NFTs, integrating with platforms like OpenSea, and implementing automated minting processes.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2024"
+      },
+      {
+        "role_name": "Urop",
+        "skillsUsed": [],
+        "endDate": "Jun 2023",
+        "company_name": "SRMAP",
+        "description": "Developed a blockchain-based Healthcare Management System (ICP) under mentor Ashok Kumar Pradhan's guidance. Published a research paper on the project's patient-centric application, showcasing innovative healthcare solutions.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C++",
+      "MySQL",
+      "HTML/CSS",
+      "React",
+      "Solidity",
+      "Motoko",
+      "Smart Contract",
+      "DSA"
+    ],
+    "soft_skills": [],
+    "name": "HARSHA PASUPULA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Published a patent on A HEALTHCARE DATA MANAGEMENT OPTIMIZATION SYSTEM USING BLOCKCHAIN AND A METHOD THEREOF, Patent Application No : 202441036549",
+      "Participated in Hacker House Goa Hackathon.",
+      "Participated in Hero Campus Challenge Season 9"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

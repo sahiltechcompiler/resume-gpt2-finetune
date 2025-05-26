@@ -1,0 +1,131 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Abhishek J Singh",
+  "college": "Mumbai University",
+  "locations": [
+    "Mumbai, maharashtra"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Mumbai University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.7/10.00",
+        "field_of_study": "Computer Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "V.P.M. Jr College",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage 76.77/100",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Certificate Minting",
+        "description": "Engineered a decentralized web application using blockchain technology to generate and verify completion certificates for students; increased certificate authenticity and reduced verification time by 40%. Integrated features such as real-time certificate validation, MongoDB for data storage, and a user-friendly interface to obtain certificates.",
+        "keywords": [
+          "React.js",
+          "MongoDB",
+          "Solidity",
+          "Smart Contracts",
+          "Node.js"
+        ],
+        "endDate": "June 2024",
+        "startDate": "July 2020",
+        "url": "Live"
+      },
+      {
+        "name": "DirectRideExchange-Carpooling using Blockchain",
+        "description": "Orchestrated the development of a decentralized carpooling app, leveraging React.js, Node.js, Solidity, and MongoDB; facilitated 1,000+ ride shares in the first quarter, enhancing community connectivity by 35%. Developed and launched user-centric features like ride search, acceptance, and cancellation, implementing JWT token authentication.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "Solidity",
+          "MongoDB"
+        ],
+        "endDate": "September 2023",
+        "startDate": "",
+        "url": "GitHub | Live"
+      },
+      {
+        "name": "TechChat Messaging website",
+        "description": "Engineered a cutting-edge real-time chat platform using React, Node.js, and Socket.io; enabled seamless user communication and reduced message latency by 50 %, enhancing user engagement by 35 %. Integrated user authentication with Auth0, enabling seamless login and chat room access; enhanced user security and boosted active user engagement by 40% within three months.",
+        "keywords": [
+          "React",
+          "Node.js",
+          "Socket.io",
+          "MongoDB"
+        ],
+        "endDate": "June 2022",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer (FrontEnd)",
+        "skillsUsed": [],
+        "endDate": "April 2022",
+        "company_name": "OCS OnCareService (Freelance-Internship)",
+        "description": "Orchestrated a team of 3 developers in designing and implementing responsive websites with HTML, CSS, and JavaScript; achieved seamless cross-browser compatibility and mobile responsiveness, resulting in a 20% increase in user engagement. Established code organization standards, version control protocols, and comprehensive documentation practices that increased team productivity by 40% and accelerated development cycles by 25%.",
+        "location": "Mumbai, maharashtra",
+        "links": "",
+        "startDate": "Jan 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "Javascript",
+      "Solidity",
+      "HTML",
+      "CSS",
+      "React js",
+      "Node js",
+      "Express",
+      "Bootstrap",
+      "Tailwind",
+      "Docker",
+      "MYSQL",
+      "MongoDB",
+      "Git",
+      "Github",
+      "VS-Code",
+      "Vercel",
+      "Netfliy"
+    ],
+    "soft_skills": [],
+    "name": "Abhishek J Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Intercollege Hackathon Winner: Ranked 1st in Hackathon Project among 20+ teams.",
+      "Top 25 Finalist of National level Code Unnati Innovation Marathon 2023-24.",
+      "IBM SkillsBuild Web Development Internship.",
+      "Participate Various open source Contribution and Challenges."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.E."
+}

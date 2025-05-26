@@ -1,0 +1,109 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "NIHAL SINGH",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Demonstrating proficiency in fundamental database management skills.",
+        "skillsLearned": [],
+        "title": "SQL Basic Certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed a comprehensive course on Udemy, gaining proficiency in fundamental algorithms and data management techniques.",
+        "skillsLearned": [],
+        "title": "Data Structures in C and C++",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "7.58/10 SGPA",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Workout Tracker Web App",
+        "description": "Developed a full-stack CRUD application using the MERN (MongoDB, Express.js, React.js, Node.js) stack to facilitate tracking of daily workouts and exercises. Implemented user authentication and authorization functionalities using JWT (JSON Web Tokens) for secure access to user-specific data and features. Designed and developed RESTful APIs with Express.js to handle HTTP requests and interact with the MongoDB database for storing and retrieving workout data. Implemented comprehensive error handling and validation mechanisms to enhance application robustness and provide users with informative feedback on input validation and error resolution.",
+        "keywords": [],
+        "endDate": "Feb 2024",
+        "startDate": "Jan 2024",
+        "url": "Source Code"
+      },
+      {
+        "name": "Parking Automation",
+        "description": "Developed a parking automation system using OpenCV for real-time identification and verification of users. Implemented facial recognition algorithms to match user identities with their driving license photos stored in a database. Generated real-time parking access passes upon successful verification, allowing authorized users seamless entry and exit. Implemented YOLOv4, a state-of-the-art object detection algorithm, to accurately detect and localize vehicle license plates in real-time video streams.",
+        "keywords": [],
+        "endDate": "Oct 2022",
+        "startDate": "Sep 2022",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python and Data Analytics (EDA)",
+        "skillsUsed": [],
+        "endDate": "Sep 2023",
+        "company_name": "YANTRA BYTE INTERNSHIP",
+        "description": "Developed data processing scripts using Python, resulting in a 20% improvement in data accuracy. Conducted exploratory data analysis (EDA) to identify key trends and insights, leading to data-driven decision-making. Analysis of Credit Card Fraud Detection Using Python. Utilized statistical techniques and data visualization tools, such as Python (Pandas, NumPy, Matplotlib, Seaborn), to analyze transactional data and extract meaningful insights. Successfully uncovered previously undetected patterns of fraudulent activity through in-depth EDA, resulting in a 5% increase in fraud detection accuracy.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "2021"
+      }
+    ],
+    "skills": [
+      "C",
+      "Python",
+      "C++",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "React",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Postman",
+      "VS Code",
+      "GitHub",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "NIHAL SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Conquering over 200+ LeetCode challenges, including 20+ hard questions, demonstrating dedication, tenacity, and proficiency in tackling complex coding problems, thereby sharpening skills and expanding the repertoire in algorithmic optimization.",
+      "Secured the 2nd position out of 200 participants at KICCS-D-HACK23.6, a prestigious coding competition hosted by KIET Group of Institutions; demonstrated outstanding determination in resolving complex collegiate coding challenges within a competitive collegiate environment.",
+      "Achieved a maximum CodeChef rating of 1500, showcasing proficiency in competitive programming."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

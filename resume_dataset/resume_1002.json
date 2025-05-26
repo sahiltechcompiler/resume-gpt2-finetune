@@ -1,0 +1,201 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Divyansh Dev",
+  "college": "Dr APJ Abdul kalam Technical University",
+  "locations": [
+    "Lucknow",
+    "Farrukhabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ReactJs",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning ANN",
+        "issuer": "INeuron",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning",
+        "issuer": "INeuron",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr APJ Abdul kalam Technical University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Lucknow",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.5",
+        "field_of_study": "CSE(Data Science)",
+        "startDate": ""
+      },
+      {
+        "school": "RABIC",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Farrukhabad",
+        "ID": 1.0,
+        "grade_received": "79.8%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "ARSIC",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Farrukhabad",
+        "ID": 2.0,
+        "grade_received": "87%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mycare",
+        "description": "Ensured secure authentication for users and doctors using JWT, safeguarding sensitive data and enabling personalized features. Developed comprehensive CRUD operations for appointment scheduling and management. Leveraged MongoDB for efficient and scalable data management of user profiles, doctor information, and appointments. Constructed a virtual lab module for early disease prediction based on symptoms, achieving a 90% accuracy rate in initial tests.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "ExpressJs",
+          "MongoDB",
+          "TailwindCSS"
+        ],
+        "endDate": "April 2024",
+        "startDate": "January 2024",
+        "url": ""
+      },
+      {
+        "name": "Multiple Disease Prediction",
+        "description": "Engineered a multiple disease prediction system using machine learning models for over five diseases, enhancing prediction accuracy by more than 85%. Performed extensive data cleaning, wrangling, and preprocessing on a dataset of over 30,000 records. Optimized various ML models, achieving up to 85% accuracy for each disease. Developed and managed over 5 Flask APIs for machine learning predictions.",
+        "keywords": [
+          "Python",
+          "Scikit-Learn",
+          "Flask",
+          "Pandas",
+          "NumPy"
+        ],
+        "endDate": "April 2024",
+        "startDate": "March 2024",
+        "url": ""
+      },
+      {
+        "name": "Snippet",
+        "description": "Architected and implemented custom CRUD functionalities for blog posts. Utilized MongoDB to provide scalable and flexible storage solutions for posts, comments, and user data.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "ExpressJs",
+          "MongoDB",
+          "Redux",
+          "TailwindCSS"
+        ],
+        "endDate": "January 2024",
+        "startDate": "September 2023",
+        "url": ""
+      },
+      {
+        "name": "Bank-app",
+        "description": "Engineered a banking application using vanilla JavaScript, enriched with a diverse array of over 4 predefined user profiles and facilitating more than 30 transactions seamlessly.",
+        "keywords": [
+          "JavaScript"
+        ],
+        "endDate": "March 2023",
+        "startDate": "February 2023",
+        "url": ""
+      },
+      {
+        "name": "Expense Tracker",
+        "description": "Developed a React project for expense tracking, enabling users to input and categorize their expenses. Implemented features for viewing, editing, and deleting expenses, providing users with comprehensive control over their financial data.",
+        "keywords": [
+          "ReactJs"
+        ],
+        "endDate": "February 2023",
+        "startDate": "January 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Code Clause",
+        "description": "Designed and implemented a user login/signup dashboard with React.js and Firebase authentication. Developed a real-time weather application using the OpenWeatherMap API.",
+        "location": "",
+        "links": "",
+        "startDate": "December 2020"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "October 2022",
+        "company_name": "Antrix Academy",
+        "description": "Attained a comprehensive understanding of data analysis fundamentals using Python during the internship. Executed exploratory data analysis (EDA) on the Forbes Billionaire dataset 2021.",
+        "location": "",
+        "links": "",
+        "startDate": "September 2021"
+      }
+    ],
+    "skills": [
+      "C/C++",
+      "JavaScript",
+      "Python",
+      "Core Java(Beginner)",
+      "SQL",
+      "ReactJs",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "TailwindCSS",
+      "Flask",
+      "VSCode",
+      "PyCharm",
+      "GitHub",
+      "Jupyter Notebook",
+      "Data Analysis",
+      "Problem Solving",
+      "Data Structure",
+      "DBMS"
+    ],
+    "soft_skills": [],
+    "name": "Divyansh Dev",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Ranked among the top 15 out of 4500 participants in college on GeeksforGeeks, demonstrating exceptional problem-solving skills.",
+      "Completed 15 diverse projects across multiple domains, showcasing versatility and comprehensive technical proficiency.",
+      "Achieved a top-tier ranking of under 2000 in Flipkart Grid 5.0, outperforming over 400,000 teams in a highly competitive environment."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

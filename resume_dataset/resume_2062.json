@@ -1,0 +1,125 @@
+{
+  "project_count": 1.0,
+  "designation": "Developer",
+  "name": "Saras Mehta",
+  "college": "Shiravane Vidhyalaya",
+  "locations": [
+    "Nerul Mumbai",
+    "Mumbai"
+  ],
+  "full_output": {
+    "summary": "Eager to leverage my academic excellence and practical experience in Al and machine learning, I am seeking a dynamic developer role. I have been named to the Dean's List twice for maintaining a GPA above 9 and hold an NPTEL certification in Design and Analysis of Algorithms. My education includes advanced coursework in AIML and Advanced Computer Design. A two-month internship allowed me to refine my skills in Python and PHP, and I am also an Oracle Cloud Infrastructure 2023 Al Certified Foundations Associate. I am excited to apply my skills in a team environment to drive impactful Al and ML solutions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Threat Prism Training",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Nptel Design and Analysis of Algorithms",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Cloud Infrastructure 2023 Al Certified Foundations Associate",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shiravane Vidhyalaya",
+        "endDate": "05/2021",
+        "maximum_grade": "",
+        "degree": "12th: Science(PCM)",
+        "location": "Nerul Mumbai",
+        "ID": 0.0,
+        "grade_received": "94.30/100",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Avalon Heights International School",
+        "endDate": "05/2019",
+        "maximum_grade": "",
+        "degree": "10th: Science CISCE",
+        "location": "Mumbai",
+        "ID": 1.0,
+        "grade_received": "89/100",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Potato Leaf and Disease Detection System",
+        "description": "Developed an advanced Al system for identifying potato leaves and detecting diseases. Key responsibilities included: Dataset Handling: Collected and pre-processed images of potato leaves, applying techniques like resizing, normalization, and augmentation. Model Development: Fine-tuned ResNet-50 and designed a custom CNN for accurate leaf detection, optimizing performance through hyperparameter tuning. Detection Techniques: Implemented SSIM and histogram analysis for precise leaf identification and disease classification. Achievements: Delivered a robust system with high accuracy, aiding in early disease detection and enhanced crop management.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "OpenCV",
+          "NumPY",
+          "scikit-image"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://colab.research.google.com/drive/1D1-3Ab4gehMorJoF6ZxQO0u_-M78JMBek?usp=sharing"
+      }
+    ],
+    "languages": [
+      "Fluent bilingual"
+    ],
+    "experiences": [
+      {
+        "role_name": "Developer",
+        "skillsUsed": [
+          "Python",
+          "PHP",
+          "Problem-Solving",
+          "Collaboration"
+        ],
+        "endDate": "07/2024",
+        "company_name": "Pagentra Infosec",
+        "description": "Python Development: Participated in the development and maintenance of various projects, showcasing skills in coding, debugging, and implementing features using hon. + PHP Development: Assisted in creating and enhancing web applications, demonstrating proficiency in PHP, and contributing to backend development tasks. + Problem Solving: Showed excellent problem-solving skills by addressing technical challenges and providing effective solutions. Collaboration: Worked effectively with team members, contributing to a collaborative and productive work environment.",
+        "location": "Mumbai, India",
+        "links": "",
+        "startDate": "05/2024"
+      }
+    ],
+    "skills": [
+      "Machine Learning And Al",
+      "Python Programming",
+      "Algorithm Design",
+      "PHP Development",
+      "Problem-Solving & Collaboration",
+      "Cloud Computing",
+      "Technical Communication"
+    ],
+    "soft_skills": [],
+    "name": "Saras Mehta",
+    "position": "Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Dean's List"
+    ],
+    "publications": []
+  },
+  "current_location": "Mumbai, India",
+  "graduation_year": 2021.0,
+  "experience_count": 1.0,
+  "degree": "12th: Science(PCM)"
+}

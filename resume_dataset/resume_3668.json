@@ -1,0 +1,222 @@
+{
+  "project_count": 7.0,
+  "designation": "",
+  "name": "KALPANA KUSHWAHA",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh, India - 201014"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Netacad :JavaScript Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Netacad :PCAP: Programming Essentials in Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL:Data Analytics With Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL:Introduction to Internet Of Things",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "100",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "79.16",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Kendriya vidyalaya vigyan vihar",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "95",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya vidyalaya vigyan vihar",
+        "endDate": "2019",
+        "maximum_grade": "100",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "92.60",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Employee-Attrition-Prediction",
+        "description": "A Shiny dashboard for predicting attrition based on various factors. Includes interactive plots for visualizing attrition distribution.",
+        "keywords": [
+          "R"
+        ],
+        "endDate": "01 May, 2024",
+        "startDate": "17 Apr, 2024",
+        "url": "https://github.com/kalpana-kushwaha/Employee-Attrition-Prediction"
+      },
+      {
+        "name": "A Comparative Analysis of Brain Tumor Detection Using Pre-Processing Techniques",
+        "description": "Conducted a comparative study examining pre-processing techniques applied to MRI brain tumor images, focusing on their impact on classification accuracy. Ensemble models demonstrated superior performance, highlighting their significance in early tumor detection through machine learning methods.",
+        "keywords": [
+          "Machine Learning",
+          "Python"
+        ],
+        "endDate": "30 Apr, 2024",
+        "startDate": "01 Dec, 2023",
+        "url": "https://github.com/kalpana-kushwaha/Brain_tumor_detection_using_pre-processing_techniques"
+      },
+      {
+        "name": "Sort Visualiser",
+        "description": "Implemented a sorting visualizer using Python and Tkinter, showcasing Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort algorithms. Provided an interactive platform to visualize sorting processes, aiding in understanding algorithmic complexities and optimizations.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "23 Nov, 2023",
+        "startDate": "16 Nov, 2023",
+        "url": "https://github.com/kalpana-kushwaha/sort_visualiser"
+      },
+      {
+        "name": "HOSPITAL WEBSITE",
+        "description": "Designed and implemented a user-friendly hospital website featuring detailed service information and appointment booking functionality.",
+        "keywords": [
+          "HTML",
+          "Javascript",
+          "CSS"
+        ],
+        "endDate": "16 Nov, 2023",
+        "startDate": "01 Nov, 2023",
+        "url": "https://github.com/kalpana-kushwaha/hospital_management_system"
+      },
+      {
+        "name": "Language Translator",
+        "description": "Developed a Language Translator application using Python and Tkinter GUI toolkit. The application allows users to translate text between various languages utilizing Google Translate API. Features include autocomplete comboboxes for language selection, dynamic label updates, and interactive translation functionality.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "01 Sep, 2023",
+        "startDate": "24 Aug, 2023",
+        "url": "https://github.com/kalpana-kushwaha/language_translatorpy_kalpana"
+      },
+      {
+        "name": "Quotes generator",
+        "description": "Developed a Java-based application capable of generating random quotes across different categories, allowing users to contribute additional quotes.",
+        "keywords": [],
+        "endDate": "31 Dec, 2022",
+        "startDate": "16 Oct, 2022",
+        "url": "https://github.com/kalpana-kushwaha/quotes-generator_java"
+      },
+      {
+        "name": "MINIMUM COST PATH",
+        "description": "Implemented a Python program utilizing Kruskal's algorithm to compute the minimum cost path connecting all given points.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "16 Dec, 2022",
+        "startDate": "01 Dec, 2022",
+        "url": "https://github.com/kalpana-kushwaha/minimum_cost_path_python"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "09 Sep, 2023",
+        "company_name": "CodeAlpha",
+        "description": "Participated in a foundational Python internship, where I developed proficiency in Python programming fundamentals. Engaged in practical exercises and projects focused on basic syntax, data structures, and problem-solving techniques. Strengthened my understanding of Python's capabilities and its applications in various domains, setting a solid foundation for further growth.",
+        "location": "",
+        "links": "",
+        "startDate": "03 Aug, 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Cyber Security",
+          "Cisco Packet Tracer"
+        ],
+        "endDate": "23 Jul, 2023",
+        "company_name": "AICTE CISCO Virtual Internship Program",
+        "description": "During my internship, I acquired certificates in Cybersecurity Essentials, Introduction to Packet Tracer, and Introduction to Cybersecurity. These certifications bolstered my understanding of cybersecurity fundamentals and practical skills in network simulation, enhancing my ability to contribute effectively to technology projects.",
+        "location": "",
+        "links": "",
+        "startDate": "28 Jun, 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "JAVA",
+          "Java Swing"
+        ],
+        "endDate": "08 Sep, 2022",
+        "company_name": "KIET Group of Institutions",
+        "description": "In my internship, I learned basic Java programming skills and how to use JDBC for connecting Java applications to databases. I grasped fundamental concepts of Java syntax and object-oriented programming. Through practical projects, I gained experience in implementing simple Java applications and integrating them with databases using JDBC.",
+        "location": "",
+        "links": "",
+        "startDate": "16 Aug, 2022"
+      }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "name": "KALPANA KUSHWAHA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "A Comparative Analysis of Early Brain Tumour Detection Using Pre-processing Techniques Scopus,Springer | Mentor: Dr. Rohit Vashisht | No. of Authors: 3"
+    ]
+  },
+  "current_location": "Ghaziabad, Uttar Pradesh, India - 201014",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech."
+}

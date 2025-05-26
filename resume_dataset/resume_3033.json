@@ -1,0 +1,137 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Mayank Kumar",
+  "college": "MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY",
+  "locations": [
+    "Delhi, Rohini",
+    "Delhi, Sreshtha Vihar"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Build and trained supervised machine learning models for prediction and classification tasks.",
+        "skillsLearned": [],
+        "title": "Supervised Machine Learning",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi, Rohini",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Artificial Intelligence and Machine Learning",
+        "startDate": ""
+      },
+      {
+        "school": "D.A.V. PUBLIC SCHOOL",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Delhi, Sreshtha Vihar",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "PCM with Computer Science, CBSE Board",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "PRIVATE-GPT WITH CUSTOM DATA DOCUMENTS",
+        "description": "Developed a secure, locally-deployed PDF chatbot using LaMini-T5, FAISS and LangChain. Implemented a Streamlit interface for user-friendly interactions and enhanced security",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FACIAL EMOTION RECOGNITION PLAYER",
+        "description": "Enhanced user experience by tailoring music to real-time emotional states. Integrated dynamic song playback based on users facial emotions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "KEYLOGGER MALWARE",
+        "description": "Configured automated email delivery of captured data to an attacker. Developed a Python script for logging user keystrokes on websites.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ROV FOR INSPECTION OF HRTS IN HYDROPOWER PLANT",
+        "description": "Innovated ROV equipped with advanced sensors and AI vision for precise HRT inspections. Engineered for high-pressure underwater environments hydropower plants with versatile robotic arm",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "LAPTOP PRICE PREDICTION",
+        "description": "Created a machine learning model to accurately predict laptop prices based on user specifications. Applied advanced data analysis techniques to enhance model accuracy and performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Cyber security internship",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "ALTTC BSNL",
+        "description": "Internship and training focused on practical digital asset protection, including digital forensics",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "MySQL",
+      "IoT",
+      "Machine Learning",
+      "Computer Vision",
+      "Ardunio",
+      "AI",
+      "LLM",
+      "Git",
+      "NLP",
+      "Ethical Hacking"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Pressure Handling",
+      "Problem Solving",
+      "Teamwork"
+    ],
+    "name": "Mayank Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Presented a research paper titled Facial Emotion Recognition Music Player at the ICIASC Conference-2023.",
+      "Won Hackathon organized by IOSD which was sponsored by Geeks for Geeks (GFG) at MAIT.",
+      "Finalist of Hackathon organized by Toyota for road safety at IIT Delhi."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

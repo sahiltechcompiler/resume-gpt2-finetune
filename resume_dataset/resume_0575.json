@@ -1,0 +1,129 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "dev gupta",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad,Uttar Pradesh",
+    "Noida ,Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "AWS Academy Cloud Architecting",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "(Programming Pathshala)",
+        "skillsLearned": [],
+        "title": "Data Structures & Algorithms and Fundamentals of Web Development",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "06/25",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Ghaziabad,Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "SGPA - 8.1",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "09/21"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Book & cook",
+        "description": "Analyzed a web-based booking application with CRUD functionalities and developed comprehensive MVC architecture with MongoDB, Express.js, React.js, and Node.js; optimized data storage solutions leading to a 50% improvement in database performance and a 25% reduction in server load. Designed and implemented robust RESTful API to handle property listings, user authentication, booking and accommodation to increase customer interaction by 30%.",
+        "keywords": [
+          "MERN Stack"
+        ],
+        "endDate": "04/24",
+        "startDate": "02/24",
+        "url": ""
+      },
+      {
+        "name": "Wasruk",
+        "description": "Led deployment and development of a website for a forward-thinking startup dedicated to sustainable waste management, leveraging a pioneering reward-based system minimizing reliance on imported waste, fostering a paradigm shift in waste management and segregation practices. Deployed the web server on decentralized blockchain leading to a 50% improvement in security and performance.",
+        "keywords": [
+          "Sphereon",
+          "Javascript"
+        ],
+        "endDate": "06/24",
+        "startDate": "03/23",
+        "url": ""
+      },
+      {
+        "name": "Securing IOT via blockchain",
+        "description": "Integrated IoT devices with blockchain using MQTT protocol for seamless communication, enhancing device interoperability by 45% and reducing data latency by 30% on the Hyperledger Fabric network. Designed and analyzed secure data transmission channels, ensuring end-to-end encryption, and implementing access control mechanisms to increase optimization and security by 25%.",
+        "keywords": [
+          "Blockchain",
+          "Hive MQ"
+        ],
+        "endDate": "01/24",
+        "startDate": "08/23",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Workshop Leader",
+        "skillsUsed": [],
+        "endDate": "02/24",
+        "company_name": "Agastya International Foundation",
+        "description": "Led 20+ STEAM workshops at Agastya International Foundation, delivering hands-on learning experiences that boosted cognitive skills and self-esteem of over 500 marginalized youth by 40%. Pioneered creative teaching techniques at Agastya International Foundation, inspiring curiosity and resilience in disadvantaged students, resulting in a 50% improvement in academic engagement and personal development.",
+        "location": "Ghaziabad,Uttar Pradesh",
+        "links": "",
+        "startDate": "07/23"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Javascript",
+      "Solidity",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "Node.js",
+      "Express.js",
+      "Hive MQ",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "Docker",
+      "AWS",
+      "Kubernetes",
+      "Raspberry pi"
+    ],
+    "soft_skills": [],
+    "name": "dev gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "InnoTech Winner2022: Won the largest hackathon organized by KIET Group of Institutions.",
+      "Anveshana Agastya: Finalist for Anveshana 2023-24 among 7 Union Territories.",
+      "Codechef contest rank 9: Secured a global rank 9 in the CodeChef Starters 125 Division 3 contest.",
+      "Competitive Programming: Solved 800+ coding questions on various online platforms."
+    ],
+    "publications": []
+  },
+  "current_location": "Noida ,Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

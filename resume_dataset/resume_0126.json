@@ -1,0 +1,192 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Tanishq Srivastava",
+  "college": "Ajay Kumar Garg Engineering College",
+  "locations": [
+    "Ghaziabad, UttarPradesh",
+    "Kanpur,UttarPradesh",
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science for Engineers",
+        "issuer": "National Programme on Technology Enhanced Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "National Programme on Technology Enhanced Learning",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System",
+        "issuer": "INFOSYS",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python",
+        "issuer": "INFOSYS",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Ajay Kumar Garg Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B-Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "70%",
+        "field_of_study": "Computer Science and Information Techonology",
+        "startDate": ""
+      },
+      {
+        "school": "Harmilap Mission School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "82.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Medi CONSULT APP",
+        "description": "This project revolves around an application that offers consultancy services to people worldwide. The app enables users to seek advice and guidance, from the comfort of their homes. Customers can submit their symptoms and obtain a list of ailments, along with fundamental details about each. It also has tools for calling emergency services and finding hospitals nearby.",
+        "keywords": [
+          "Java",
+          "Android Studio",
+          "GoogleMapApi"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-COMMERCE WEBSITE",
+        "description": "Designed and developed a web application to provide shopping interface to buy and sell products. Created front-end interface in HTML, CSS, and back-end in Reactjs and Mongodb for database. Used inheritance and other object-oriented programming techniques. Designed Admin Panel for admin with all functionalities in it.",
+        "keywords": [
+          "Html",
+          "Css",
+          "React js",
+          "Mongodb"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ONLINE EVENT MANAGEMENT SYSTEM",
+        "description": "I designed this online event management system during the pandemic period. The web applications server-side scripting is done with PHP. In addition, the frontend portion of the program uses Styled Components, HTML and CSS. Modules for landing, documentation, events, registration, and administration are handled easily. The Heroku Cloud is where the event management system is set up.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Sql",
+          "php"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "KRISHAK TOOLKIT",
+        "description": "Designed and developed a toolkit which help the farmer in precise farming. It works on the seven parameters including surrounding temperature. Created our own dataset with the help of various resources for the required parameters. Deployed the model in flask and contribute as a frontend and backend developer.",
+        "keywords": [
+          "IOT",
+          "Aurdino",
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python Developer Intern",
+        "skillsUsed": [],
+        "endDate": "2024",
+        "company_name": "SHAPEMYSKILLS PVT LTD",
+        "description": "Built a GUI-based Covid 19 Vaccine Slot Availability Portal using Python, Tkinter, Rest APIs and Postman. Utilized OTP authentication, and enabled real-time access to vaccine slot availability for users in their local area.",
+        "location": "Ghaziabad, UttarPradesh",
+        "links": "",
+        "startDate": "2020"
+      },
+      {
+        "role_name": "ML Developer, Co-Founder",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "KRISHAK ENTERPRISES",
+        "description": "Established a firm in collaboration with Rajasthan Government with the goal of creating a toolset to improve crop yield. Oversaw a 25 lakh work order while arranging marketing, product development, and strategic planning.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "Apr 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "HTML5/CSS3",
+      "JavaScript",
+      "MYSQL",
+      "MongoDB",
+      "Node JS",
+      "MS Office",
+      "AWS",
+      "Jupyter",
+      "Springboot",
+      "Microservices",
+      "J2EE",
+      "Git",
+      "GitHub",
+      "Express",
+      "Flask",
+      "IoT",
+      "Tailwind",
+      "GitLab",
+      "Docker",
+      "Kubernates",
+      "Linux"
+    ],
+    "soft_skills": [],
+    "name": "Tanishq Srivastava",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winner of Rajasthan IT Day Hackathon 2023.",
+      "Solved 200+ dsa problems on leetcode.",
+      "Secured a grant of 25 Lakhs Work Order from Rajasthan Government."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B-Tech"
+}

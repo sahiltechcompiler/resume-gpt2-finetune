@@ -1,0 +1,100 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "VRIDHI GARG",
+  "college": "MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY",
+  "locations": [
+    "NewDelhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "NewDelhi, India",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.03 / 10.00",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "FitBit",
+        "description": "Designed a Web app to demonstrate daily exercises in the form of animated GIFs. With over 1300+ exercises to pick from, it also recommends YouTube videos and related exercises. Website is fully responsive and hosted on Netlify.",
+        "keywords": [
+          "React JS",
+          "Javascript",
+          "MaterialUI",
+          "RapidAPI"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Track My Expenses",
+        "description": "Developed an income and expense tracker website that allows users to visually track their spending. Transactions are stored in local storage supported by web. Additional Feature: Implemented voice capabilities using Speechly to enhance user experience.",
+        "keywords": [
+          "React JS",
+          "Javascript",
+          "MaterialUI",
+          "Speechly"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "IEEE WIE Chairperson",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "IEEE",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2023"
+      },
+      {
+        "role_name": "IEEE SB Vice Chairperson",
+        "skillsUsed": [],
+        "endDate": "Feb 2024",
+        "company_name": "IEEE",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "C/ C++",
+      "Java",
+      "Javascript",
+      "Github",
+      "VS Code",
+      "Netlify",
+      "ReactJs",
+      "SpringBoot",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "soft_skills": [],
+    "name": "VRIDHI GARG",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

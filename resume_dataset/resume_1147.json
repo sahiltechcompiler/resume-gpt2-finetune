@@ -1,0 +1,126 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ponvitha Nerusu",
+  "college": "University A.P",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "University A.P",
+        "endDate": "2025",
+        "maximum_grade": "91.0%",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.38",
+        "field_of_study": "Computer Science and Engineering with specialization in Big Data Analytics",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Mahila Jr College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "M.P.C",
+        "startDate": "2019"
+      },
+      {
+        "school": "Sri Chaitanya School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "SSE",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Black Jack Game",
+        "description": "Created a blackjack game using HTML, CSS, and JavaScript, featuring real-time score updates and card displays. Developed core functionalities such as HIT, STAND, DEAL, and RESTART, resulting in a 100. Implemented robust state management for tracking wins, losses, and draws, with functionality to reset scores, enhancing long-term playability.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Java Script"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Customer Churn Prediction",
+        "description": "Analyzed customer churn behavior to understand key factors influencing attrition and predicted probabilities. Conducted a thorough exploratory data analysis (EDA) to uncover hidden patterns and gain insights from the banks customer data, ultimately leading to a deeper understanding of churn behavior. Rigorously evaluated model performance using metrics like accuracy(86% for random forest), precision, recall, and F1-score. This meticulous approach ensured the models reliability in predicting future churn.",
+        "keywords": [
+          "Python",
+          "Jupyter Notebook",
+          "Pandas",
+          "Numpy",
+          "Machine Learning Algorithms"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "VULNERABILITY ASSESSMENT FOR MOBILE BANKING",
+        "description": "Developed and implemented comprehensive security recommendations to strengthen the applications overall security posture. Conducted penetration testing to exploit identified vulnerabilities and assess their potential impact on the applications security. Established a foundation for a continuous security improvement process for the mobile banking application.",
+        "keywords": [
+          "Python",
+          "API",
+          "SQL injections"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "Python",
+          "Django",
+          "Analytical Skills"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Interned at APSSDC, where I gained proficiency in Python programming and Django, enhancing my web development skills. Utilized Python and Django to build and optimize back-end services.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "SQL",
+      "C++",
+      "Python",
+      "React",
+      "TailwindCSS",
+      "Django",
+      "MySQL",
+      "Docker"
+    ],
+    "soft_skills": [],
+    "name": "Ponvitha Nerusu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

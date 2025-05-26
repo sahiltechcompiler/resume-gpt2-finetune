@@ -1,0 +1,171 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SWARAJ SINGH NEGI",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan, India",
+    "Visakhapatnam, Andhra Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "I am a dedicated third-year undergraduate student with a strong interest in Machine Learning, Software Engineering, and Robotics. Throughout my academic journey, I have honed my skills through hands-on experience and practical applications in the field of ML. As I look ahead to new opportunities, I bring a wealth of knowledge in Machine Learning, Data Science, and Computer Vision. Additionally, I am proficient in Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP), positioning myself to make meaningful contributions to the world of technology.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [
+          "Arduino UNO",
+          "Python"
+        ],
+        "title": "Interfacing with the Arduino",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [
+          "Java",
+          "OOPs"
+        ],
+        "title": "Create a Supermarket app using Java OOP",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [
+          "Python",
+          "Data Science",
+          "AIML"
+        ],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [
+          "EDA"
+        ],
+        "title": "Exploratory Data Analysis for Machine Learning",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.90 / 10",
+        "field_of_study": "CSE",
+        "startDate": ""
+      },
+      {
+        "school": "FIITJEE, Visakhapatnam",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 84 / 100",
+        "field_of_study": "BIEAP",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya School, Visakhapatnam",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 92 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data Integration and Analytics Automation using SQL and Power BI",
+        "description": "Developed a robust data integration pipeline using SQL Server Integration Services (SSIS) in conjunction with .NET technologies. The pipeline will automate the extraction of data from both Excel spreadsheets and SQL Server databases, transforming and loading it into a unified data warehouse. Once integrated, Power BI is leveraged for generating insightful analytical reports and visualizations. This project aims to streamline data workflows, enhance data-driven decision-making capabilities, and optimize operational efficiencies through advanced analytics.",
+        "keywords": [
+          "SQL",
+          "Power BI",
+          "Microsoft Excel",
+          "EDA"
+        ],
+        "endDate": "05 Jul, 2024",
+        "startDate": "15 Jun, 2024",
+        "url": ""
+      },
+      {
+        "name": "Fake Social Accounts Detection Web App on Streamlit",
+        "description": "- Technologies used: TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib - Models trained on: Tuned KNN, Tuned Random Forest, Dense Neural Network, LSTM, ResNet, Autoencoder-Classifier. - Optimization Techniques used: Hyperparameter Tuning - Result: Highest accuracies achieved are 93% (ResNet), 92.5% (DNN), 91.6 (LSTM) - Uploaded the model using Flask, Docker and Github Actions. - Interactive web app uploaded on streamlit.",
+        "keywords": [
+          "EDA",
+          "Hyperparameter Tuning",
+          "Machine Learning",
+          "Deep Learning",
+          "Flask",
+          "Docker"
+        ],
+        "endDate": "24 May, 2024",
+        "startDate": "15 Mar, 2024",
+        "url": "https://github.com/Swarajnegi/fakeaccountdetection"
+      },
+      {
+        "name": "Hazardous Asteroids classification (Python)",
+        "description": "A model predicting if an asteroid is Hazardous or not. Dataset taken from NASA. - Libraries used : NumPy, pandas, matplotlib, sklearn, TensorFlow, Keras etc - Models trained on : SVM, Log Regression and Neural Network with maximum accuracy reaching 99.5.",
+        "keywords": [
+          "Neural Networks",
+          "Deep Learning",
+          "NumPy",
+          "Pandas",
+          "Tensorflow",
+          "Keras",
+          "Machine Learning"
+        ],
+        "endDate": "30 Sep, 2023",
+        "startDate": "10 Sep, 2023",
+        "url": "https://github.com/Swarajnegi/hazardous-asteroid-detection"
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "English",
+      "Telugu"
+    ],
+    "experiences": [],
+    "skills": [
+      "Data Science",
+      "Machine Learning",
+      "Deep Learning",
+      "Java",
+      "Python",
+      "Computer Vision",
+      "SQL",
+      "Excel"
+    ],
+    "soft_skills": [],
+    "name": "SWARAJ SINGH NEGI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan, India - 303007",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

@@ -1,0 +1,147 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Yash Tiwari",
+  "college": "KIET Group Of Institutions,AKTU",
+  "locations": [
+    "Lucknow",
+    "Ghaziabad, Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Worked as Volunteer at Non-Governmental Organisation (NGO) Uddesheya."
+    ],
+    "education": [
+      {
+        "school": "Kendriya Vidyalaya CRPF Bijnor",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Lucknow",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "KIET Group Of Institutions,AKTU",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, Uttar Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Object Detection",
+        "description": "Developed and implemented an advanced object detection Project using OpenCV, achieving an accuracy rate of 95 percent and reducing false positive by 40 percent. Detection with YOLO integration boasting a 0.90 mAP. Achieve real-time image processing at 60 FPS using OpenCV. Enjoy a 30% boost in performance optimization.",
+        "keywords": [
+          "Python",
+          "Open-CV",
+          "YO-LO"
+        ],
+        "endDate": "July 2022",
+        "startDate": "May 2020",
+        "url": ""
+      },
+      {
+        "name": "Rock-Paper-Scissors",
+        "description": "Developed an web-based game using HTML,CSS,Javascript. Achieved a seamless user experience with 95%+ cross-browser compatibility.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "August 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WeatherWave",
+        "description": "Developed an web-based Weather Forecast using HTML,CSS,Javascript. Present a multi-day forecast with details like temperature, humidity, wind speed, etc. Incorporated asynchronous JavaScript to fetch and dynamically update weather data using OpenWeatherMap API.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "August 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Coordinator",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "AI/ML Club of College",
+        "description": "Operated as the Coordinator at the AI/ML Club of College Data Science and Deep Learning(DSDL), where I orchestrated and managed diverse club activities, fostering high member engagement and executing successful events.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Coordinator",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "DevUp",
+        "description": "Mentored students as the Coordinator in Web Development Domain at DevUp, where I organized community level bootcamps.Implemented innovative features, enhancing the functionality and aesthetic appeal of the clubs website.Elevated the clubs digital footprint through strategic web development initiatives.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Data Analytics",
+        "description": "Completed Internship in Data Analytics where I learned basics of Cloud Foundations(AWS) and tried hands on experience on AWS virtual labs.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Java",
+      "JavaScript",
+      "Typescript",
+      "Dart",
+      "VS Code",
+      "Git and GitHub",
+      "Go Daddy",
+      "Postman",
+      "Flutter",
+      "Tailwind",
+      "React Js",
+      "Next Js",
+      "Express Js",
+      "Node Js",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Yash Tiwari",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Codechef 2 star rated 1504(max).",
+      "Achieved Global Rank 350 (out of 21,000 participants) in CodeChef Starters 107.",
+      "Secured Global Rank 1007 (out of 22,000 participants) in CodeChef Starters 109.",
+      "Hackerrank 5 star rating in C/C++.",
+      "4 star rated in Python."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

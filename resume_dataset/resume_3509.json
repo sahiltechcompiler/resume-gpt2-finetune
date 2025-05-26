@@ -1,0 +1,118 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "DEVDATTA RAORANE",
+  "college": "A.C. Patil College of Engineering",
+  "locations": [
+    "A. C. Patil College"
+  ],
+  "full_output": {
+    "summary": "Passionate student with industrious and systematic approach towards learning new skills. Open and team player with discipline execution and methodical nature. Extensive knowledge of soft and software skills.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "A.C. Patil College of Engineering",
+        "endDate": "2025",
+        "maximum_grade": "10.00",
+        "degree": "B. E.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.56/10.00 CGPA (till 6th Sem)",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "St John Junior College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "HSC",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "84.00",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Shreeram Vidyalaya",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "88.00",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real Time Sports Player Auction",
+        "description": "Developed a real-time sports player auction platform using React.js,MongoDB, NodeJS enabling dynamic bidding and live updates for users. Implemented features for real-time notifications, bid tracking, and intuitive user interface, enhancing the auction experience.",
+        "keywords": [
+          "React.js",
+          "MongoDB",
+          "NodeJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Time Table Generator",
+        "description": "Developed a Time Table Generator for college teachers. The application features a user-friendly interface that allows for easy input of courses, teachers, and available time slots. It automatically generates optimized schedules, ensuring no conflicts and balanced workloads. The design is responsive, ensuring usability across different devices. The project aims to streamline the scheduling process, saving time and reducing errors in timetable creation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Learning Platform",
+        "description": "Developed a robust E-learning platform using HTML, CSS, and JavaScript. The platform features a responsive design for seamless use, interactive elements to enhance user engagement, and organized course content for easy navigation. Implemented user authentication and progress tracking to provide a personalized learning experience and monitor student performance effectively.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Vice President",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Computer Society of India (CSI)",
+        "description": "Conducted events, seminars, and developer talks in different technical domains which impacted over 100+ students.",
+        "location": "A. C. Patil College",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "React",
+      "Bootstrap",
+      "MongoDB",
+      "VS Code",
+      "Github",
+      "Eclipse"
+    ],
+    "soft_skills": [],
+    "name": "DEVDATTA RAORANE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. E."
+}

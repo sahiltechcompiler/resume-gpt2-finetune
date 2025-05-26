@@ -1,0 +1,162 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Prabhjot Singh",
+  "college": "Guru Tegh Bahadur Institute of Technology, GGSIPU, Delhi, India",
+  "locations": [
+    "Rishabh Vihar, Delhi, India",
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "[Link]",
+        "description": "The event which mainly focuses on the intersection of industrial processes and digital technologies through IoT solutions. Its an opportunity to gain insights into real-world IIoT deployments, learn about industry standards.",
+        "skillsLearned": [],
+        "title": "Industrial Internet of things",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "[Link]",
+        "description": "This 7-day bootcamp offers a unique opportunity for aspiring web developers to dive into the world of web development. Focused on replicating the user interface and functionalities of the popular streaming platform Hotstar.",
+        "skillsLearned": [],
+        "title": "Google Developer Group Bootcamp",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Modern Public School, Rishabh Vihar, Delhi, India",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Rishabh Vihar, Delhi, India",
+        "ID": 0.0,
+        "grade_received": "68",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Modern Public School, Rishabh Vihar, Delhi, India",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "Rishabh Vihar, Delhi, India",
+        "ID": 1.0,
+        "grade_received": "84",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology, GGSIPU, Delhi, India",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi, India",
+        "ID": 2.0,
+        "grade_received": "85",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather App",
+        "description": "- Integrated with a weather API to fetch accurate, detailed and up-to-date weather information for various locations.\n- Also Implemented location-based services to allow users to search and retrieve weather information for specific cities or regions.",
+        "keywords": [
+          "React JS",
+          "CSS",
+          "RESTful API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "Zoom Clone",
+        "description": "- Secure user login via Clerk, supporting social sign-up and email/password methods.\n- Features for recording, reactions, screen sharing, participant management, and viewing past recorded meetings and meeting details.\n- Schedule or join instant meetings via links, with real-time, secure interactions and a responsive design for all devices.",
+        "keywords": [
+          "Next JS",
+          "TypeScript",
+          "Clerk",
+          "getstream",
+          "shadcn",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      },
+      {
+        "name": "UrTracker",
+        "description": "- Allows users to track and manage their expenses and income, with data stored securely in MongoDB.\n- Employs Chart.js to provide visual representations of expenses and income, enhancing user insights and financial tracking.",
+        "keywords": [
+          "React JS",
+          "Shadcn",
+          "Node JS",
+          "Express JS",
+          "Mongo DB",
+          "Chart JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Project Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "LetsGrowMore",
+        "description": "- Designed and developed a fully functional MERN stack blog web application with a user-friendly interface, responsive design, ensuring seamless content management and user experience.\n- Implemented secure back-end features including user authentication, database management, and content publishing capabilities for a dynamic blog platform.",
+        "location": "",
+        "links": "[Link1] [Link2]",
+        "startDate": "2019-2020"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "OOPs",
+      "Data Structure",
+      "DBMS",
+      "React JS",
+      "Next JS",
+      "Node JS",
+      "Express JS",
+      "Material UI",
+      "Tailwind CSS",
+      "ShadCN",
+      "Version Control System",
+      "Postman",
+      "Mongo DB",
+      "Clerk",
+      "getStream",
+      "RESTful API"
+    ],
+    "soft_skills": [
+      "Communication Skills",
+      "Problem-solving",
+      "Teamwork"
+    ],
+    "name": "Prabhjot Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

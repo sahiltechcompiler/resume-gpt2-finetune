@@ -1,0 +1,124 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Yashmith Raj",
+  "college": "SRM AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM AP",
+        "endDate": "Aug 2025",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.11/10.0",
+        "field_of_study": "Computer Science: AI-ML",
+        "startDate": "Sep 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Doctor Appointment",
+        "description": "Developed a responsive doctor appointment booking application using JavaScript and React.js, improving user engagement across devices. Implemented client-side routing with JavaScript and React Router, reducing page load times by 30%. Integrated authentication mechanisms using JavaScript and React Context API, enhancing user security and session persistence, boosting user interaction by 35%.",
+        "keywords": [
+          "JavaScript",
+          "React.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Repo"
+      },
+      {
+        "name": "Medical Data Exchange",
+        "description": "Collaboratively developed a responsive blockchain-based web application in a team, utilizing HTML, CSS, JavaScript, and Solidity to ensure secure and automated transactions on the Ethereum blockchain. Worked on frontend development, designing an intuitive user interface to enhance user experience. Optimized the development workflow with Vite, improving code quality and reducing development time by 20%.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Solidity"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Repo"
+      },
+      {
+        "name": "Banking Data Analysis Case Project",
+        "description": "Data Analysis: Analyzed banking data to identify client trends and assess marketing campaign effectiveness, utilizing data cleaning, exploratory analysis, and visualizations. Data Preparation: Addressed missing values in 12% of the dataset, removed redundant columns, and encoded categorical variables, which enhanced model accuracy by 20% and simplified the dataset for improved processing efficiency. Insightful Visualizations: Created and interpreted visualizations to provide actionable insights and drive strategic decisions. Advanced Analytical Techniques: Conducted correlation analysis and outlier detection to uncover key relationships and anomalies within the data.",
+        "keywords": [
+          "Python",
+          "Data Analysis"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Repo"
+      },
+      {
+        "name": "Placement Prediction System",
+        "description": "Built a placement prediction system using TensorFlow, applying deep learning techniques to accurately forecast student placements. Designed and implemented a comprehensive data preprocessing pipeline that included scaling and normalization techniques, enhancing model accuracy by 25%. Trained and fine-tuned neural network models, enhancing prediction accuracy and reliability. Deployed the model via a Flask web application, allowing real-time placement predictions through an intuitive user interface.",
+        "keywords": [
+          "Python",
+          "ML",
+          "TensorFlow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Repo"
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Front End Web Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Codeswap Solutions",
+        "description": "Built a responsive e-commerce website using HTML, CSS, and JavaScript, incorporating UI/UX principles to create an interactive user interface. Oversaw front-end development, accelerating application performance by 25%. Leveraged JavaScript and modern web standards to develop high-performance, responsive web applications 20% faster. Successfully troubleshooted and deployed solutions, resulting in a 40% decrease in bug reports.",
+        "location": "",
+        "links": "GitHub Repo",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TensorFlow",
+      "Scikit-learn",
+      "Matplotlib",
+      "MySql"
+    ],
+    "soft_skills": [],
+    "name": "Yashmith Raj",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Unfold - 2023 Hackathon Product authentication through blockchain technology.",
+      "DUHacks3.0 - 2023 Hackathon",
+      "Qusar2.0 - 2024 Hackathon",
+      "HackHazards - 2024 Hackathon",
+      "Tech Quest - 2024 Hackathon",
+      "NutriCheck: Website for personalized nutritional guidance and diet planning."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Btech"
+}

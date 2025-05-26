@@ -1,0 +1,281 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "AKARSH VERMA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Kolkata",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "As a passionate and dedicated coding enthusiast, I leverage my proficiency in Python, C, and C++ to tackle complex problems. With a solid foundation in Data Structures and Algorithms and with my exceptional problem-solving and interpersonal skills, I am actively seeking roles in Artificial Intelligence, Machine Learning, Robotics, and Automation fields, where I can apply my skills to drive innovation.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning Specialization: Sequence Models",
+        "issuer": "Deeplearning.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning Specialization: Convolutional Neural Networks",
+        "issuer": "Deeplearning.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning Specialization: Structuring Machine Learning Projects",
+        "issuer": "Deeplearning.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning Specialization: Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization",
+        "issuer": "Deeplearning.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Deep Learning Specialization: Neural Networks and Deep Learning",
+        "issuer": "Deeplearning.ai",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Joy of Computing using Python",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "First Principles of Computer Vision: Camera and Imaging",
+        "issuer": "Columbia University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "First Principles of Computer Vision: Features and Boundaries",
+        "issuer": "Columbia University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "First Principles of Computer Vision: 3D Reconstruction- Single Viewpoint",
+        "issuer": "Columbia University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "First Principles of Computer Vision: 3D Reconstruction - Multiple Viewpoints",
+        "issuer": "Columbia University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "First Principles of Computer Vision: Visual Perception",
+        "issuer": "Columbia University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design and Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "GPA: 8.55/10",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.58/10",
+        "field_of_study": "Computer Science & Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "The Air Force School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Dalhousie Public School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "85.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Intelligent Traffic Flow Prediction Model",
+        "description": "Developed/Implemented/Tested a traffic flow prediction framework called \"The Intelligent Traffic Prediction with Dijkstra and LSTM System\" to find the best routes. The system generates adjacency matrices from several network graphs of roads and then applies Dijkstra's algorithm to the resulting matrix.",
+        "keywords": [
+          "Python",
+          "TensorFlow"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Solar Powered Servo-Driven IOT Based Hydroponics Vertical Tower Garden",
+        "description": "Built a Tower Garden, a vertical hydroponic system leveraging IoT technology, equipped with solar panels and omnidirectional wheels to provide a time-efficient and cost-effective alternative to conventional gardening.",
+        "keywords": [
+          "C++",
+          "Arduino",
+          "Solar Panels",
+          "Photo-resistive sensors",
+          "Solar Power Manager",
+          "Servo-driven wheels"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Automatic License Plate Detection using Neural Networks",
+        "description": "Created a learning model to make predictions in Jupyter Notebook.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "TensorFlow"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Brain Tumor Detection using Neural Network",
+        "description": "Prepared image datasets for training/testing to create a learning model to detect whether a patient has a tumor in Jupyter Notebook.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "TensorFlow"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Transformative Quadruped",
+        "description": "Studied/Designed quadruped capable of switching between two locomotion i.e., rolling and walking in TinkerCAD.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Industrial Training Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Manvik Packaging Industries",
+        "description": "Assisted in the utilisation of automation machines for corrugating, cutting and stapling processes, enhancing efficiency and precision in the production process. Gained insights into the programming of the control systems. Observed the utilization of data analysis techniques to monitor and optimize production processes, ensuring quality control and reducing waste.",
+        "location": "Kolkata",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Brain O Vision Solutions India Pvt Ltd",
+        "description": "Gained practical experience in data science methodologies and applications. Learned techniques for creating and selecting features to improve model performance. Utilized Matplotlib for visualizing data and presenting insights.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "February 2024",
+        "company_name": "Edu-versity",
+        "description": "Trained under Edu-versity on the implementation of various models. Gained experience in the field of Artificial Intelligence.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "Data Structures & Algorithms",
+      "Artificial Intelligence & Machine Learning",
+      "Algebra",
+      "Calculus",
+      "Computer Vision",
+      "Data Science",
+      "Statistics",
+      "Probability",
+      "Image Processing",
+      "Robotics & Automation"
+    ],
+    "soft_skills": [
+      "Strong problem-solving",
+      "Fast learning",
+      "Attention to detail",
+      "Critical thinker",
+      "Conflict Resolution",
+      "Adaptibility"
+    ],
+    "name": "AKARSH VERMA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "B. Tech"
+}

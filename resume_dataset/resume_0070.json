@@ -1,0 +1,127 @@
+{
+  "project_count": 1.0,
+  "designation": "Python Backend Developer",
+  "name": "ANSHITA ARYA",
+  "college": "Guru Tegh Bahadur Institute Of Technology",
+  "locations": [
+    "Delhi",
+    "Noida"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Volunteered to support specially-abled students at Ekta Shakti Foundation.",
+      "Contributed as a volunteer for Warriors Without a Cause."
+    ],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute Of Technology",
+        "endDate": "08/2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (B.Tech)",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "8.4",
+        "field_of_study": "Computer Science",
+        "startDate": "12/2021"
+      },
+      {
+        "school": "Salwan Public School",
+        "endDate": "03/2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "Mayur Vihar, Delhi",
+        "ID": 1.0,
+        "grade_received": "86.4%",
+        "field_of_study": "PCM",
+        "startDate": ""
+      },
+      {
+        "school": "Vishwa Bharati Public School",
+        "endDate": "03/2019",
+        "maximum_grade": "",
+        "degree": "Secondary Education",
+        "location": "Noida",
+        "ID": 2.0,
+        "grade_received": "92.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Employee Management System",
+        "description": "I created an Office Management System with user and admin logins, robust authentication, CRUD operations via a user-friendly UI, powered by a MySQL backend with XAMPP. APIs were used for efficient frontend-backend communication, and the system offers an intuitive dashboard for streamlined office administration.",
+        "keywords": [
+          "MySQL",
+          "CRUD",
+          "API Integration",
+          "Dashboard"
+        ],
+        "endDate": "05/2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "French"
+    ],
+    "experiences": [
+      {
+        "role_name": "Python Backend Developer Intern",
+        "skillsUsed": [
+          "Python",
+          "Django",
+          "MySQL",
+          "API Integration"
+        ],
+        "endDate": "05/2023",
+        "company_name": "RxAdvance PBM India Pvt Ltd",
+        "description": "Leading Payer and PBM platform using cloud RPA for cost-effective, quality healthcare automation. Django Development: Collaborated with the development team to work on Django-based projects for medical portals at Nirvana Health. API Integration: Gained hands-on experience in integrating APIs to enhance the functionality of the medical portals, ensuring seamless data flow. Database Management: Managed MySQL databases using XAMPP, ensuring data integrity and optimal performance. Technical Skills: Developed proficiency in Python and Django for web application development, including creating and maintaining backend functionality. Problem Solving: Contributed to troubleshooting and problem-solving efforts, helping to identify and resolve issues in a timely manner. Team Collaboration: Worked closely with the development team, fostering effective communication and teamwork to achieve project goals. Documentation: Maintained documentation of backend processes, API integrations, and database configurations for future reference. Contribution to Projects: While primarily an intern role, provided valuable support and assistance on several key projects, contributing to the team's overall success.",
+        "location": "Noida",
+        "links": "",
+        "startDate": "03/2023"
+      },
+      {
+        "role_name": "Content and Social Media Management",
+        "skillsUsed": [],
+        "endDate": "09/2023",
+        "company_name": "The Phoenix Guild",
+        "description": "Created engaging content for WhatsApp, LinkedIn, Twitter, and Instagram. Managed social media presence, fostering community engagement. Enhanced brand visibility within the Web 3 community. Cultivated a vibrant online community with meaningful interactions. Collaborated with cross-functional teams to align content with initiatives.",
+        "location": "Delhi",
+        "links": "",
+        "startDate": "02/2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Django",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React",
+      "CI/CD using Docker",
+      "Git/Github",
+      "OOPS",
+      "DSA",
+      "RESTful APIs"
+    ],
+    "soft_skills": [],
+    "name": "ANSHITA ARYA",
+    "position": "Python Backend Developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured the First Position in Anugoonj University-Level Collage Making Competition Preliminary Round.",
+      "Achieved the Second Position in Anugoonj University-Level Collage Making Competition Final Round."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology (B.Tech)"
+}

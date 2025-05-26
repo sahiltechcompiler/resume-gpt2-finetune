@@ -1,0 +1,120 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "ASHUTOSH",
+  "college": "Noida Institute Of Engineering And Technology",
+  "locations": [
+    "Patna, Bihar"
+  ],
+  "full_output": {
+    "summary": "I am a dedicated B.tech student with a keen interest and proficiency in frontend development. My passion lies in crafting intuitive user interfaces that seamlessly blend functionality with aesthetic appeal. I have strong Knowledge in Data Structures and Algorithms(DSA).Efficient in problem solving through my critical thinking and open to new learning oppurtunities.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute Of Engineering And Technology",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA:7.3",
+        "field_of_study": "Information technology",
+        "startDate": ""
+      },
+      {
+        "school": "St.Michaels High School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage:84",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St.Michaels High School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage:84",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "YelpCamp",
+        "description": "Created a web app for booking camps. Supports CRUD operations on camps. Implemented React.js for UI.",
+        "keywords": [
+          "Javascript",
+          "Html",
+          "Css",
+          "Express.js",
+          "node.js",
+          "MongoDb"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "ScoreKeeper",
+        "description": "Created a ScoreKeeper which records score of two teams. The scores are dynamically updated using DOM manipulation. Implemented Css flexbox.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "May 2021"
+      }
+    ],
+    "skills": [
+      "Javascript",
+      "C++",
+      "HTML",
+      "CSS",
+      "Sql",
+      "React",
+      "Node.js",
+      "Express",
+      "Git",
+      "VsCode"
+    ],
+    "soft_skills": [
+      "Disciplined",
+      "Team-player",
+      "Communication",
+      "Problem Solving",
+      "Leadership",
+      "Critical thinking"
+    ],
+    "name": "ASHUTOSH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Patna, Bihar",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.tech"
+}

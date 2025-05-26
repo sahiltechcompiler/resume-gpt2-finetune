@@ -1,0 +1,121 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anubhav Thakur",
+  "college": "Guru Tegh Bahadur Institute Of Technology ,GGSIPU",
+  "locations": [
+    "New delhi, Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute Of Technology ,GGSIPU",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "New delhi, Delhi",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.0",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Rajkiya Sarvoday Bal Vidalaya Shakarpur",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "New delhi, Delhi",
+        "ID": 1.0,
+        "grade_received": "CGPA - 7.0",
+        "field_of_study": "PCM",
+        "startDate": ""
+      },
+      {
+        "school": "Rajkiya Sarvoday Bal Vidalaya Shakarpur",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "New delhi, Delhi",
+        "ID": 2.0,
+        "grade_received": "CGPA - 7.6",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Shopzee",
+        "description": "Each product in the catalog includes details such as name, image, price, and a brief description. Well-organized catalog with categorized and filterable products. Users can add products to their shopping cart and proceed to the checkout process. The shopping cart dynamically updates as users add or remove items, displaying the total order amount. Customer reviews and ratings for product feedback.",
+        "keywords": [
+          "JavaScript",
+          "ReactJs"
+        ],
+        "endDate": "2021",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Imdb Movie Clone",
+        "description": "Implemented API calls for real-time Latest Movie, favourite etc. Ensured intuitive user interface. Applied modern frontend practices for an enhanced user experience. Add algorithm to sort favourite movies according to genre of movie.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "ReactJs"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "NewsMonkey",
+        "description": "Implemented API calls for real-time Popular sports news, General news etc. Ensured a responsive and intuitive user interface. Added 5-6 new features like Enhance the user interface by adding Infinite Scroll Home Page. Add algorithm to sort news according to genre.",
+        "keywords": [
+          "Bootstrap",
+          "JavaScript",
+          "ReactJs"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Instructor",
+        "skillsUsed": [
+          "C++",
+          "DSA"
+        ],
+        "endDate": "08-2023",
+        "company_name": "Self-employed",
+        "description": "Taught basic C++/DSA in offline Mode.",
+        "location": "",
+        "links": "",
+        "startDate": "05-2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "ReactJS",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "Anubhav Thakur",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

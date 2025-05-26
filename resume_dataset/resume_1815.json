@@ -1,0 +1,146 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ADARSH",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "North East Delhi, Delhi, India - 110093",
+    "B-106, Street No. 5, Hardevpuri, Shahdara, Delhi-110093"
+  ],
+  "full_output": {
+    "summary": "As a MERN stack developer, I craft modern web applications with a solid foundation in HTML5, CSS3, JavaScript, React, Node.js, and MongoDB. Proficient in a diverse range of programming languages, including C, C++, and Java, I leverage various tools and techniques in problem-solving. With a passion for software development, I excel in creating robust, scalable solutions that meet client and user needs. My attention to detail, commitment to staying updated with industry trends, and ability to turn design concepts into functional code set me apart. Eager for new opportunities to enhance my skills and collaborate with dynamic teams, I'm driven to make a meaningful impact in web and software development.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "This comprehensive program provides me with a strong foundation and practical expertise in the dynamic field of web development. Throughout this course, I acquired in-depth knowledge and hands-on experience in key web technologies, including HTML5, CSS3, JavaScript, and responsive web design. I also gained proficiency in front-end and back-end development, mastering frameworks like React and Node.js, as well as database integration and deployment strategies.",
+        "skillsLearned": [
+          "Reactjs",
+          "Nodejs",
+          "Expressjs",
+          "MongoDB"
+        ],
+        "title": "The Complete 2023 Web Development Bootcamp",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "This course covered fundamental and advanced data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables, as well as essential algorithms for searching, sorting, and problem-solving. Through hands-on coding exercises and projects, I gained practical experience in implementing these data structures and algorithms efficiently using C and C++.",
+        "skillsLearned": [
+          "DSA"
+        ],
+        "title": "Mastering Data structures and algorithms using C and C++",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "100",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "84.72 / 100",
+        "field_of_study": "IT",
+        "startDate": "2021"
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83.33 / 100",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE",
+        "endDate": "2019",
+        "maximum_grade": "100",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "80.16 / 100",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Trello app",
+        "description": "Led development of a task management platform using MERN stack. Collaborated with a team member on frontend-backend integration for seamless functionality. Introduced hierarchical user structure for streamlined task management. Implemented role-based access controls for managers and employees. Orchestrated user-friendly registration process and real-time task handling. Implemented efficient task creation, updating, and tracking capabilities within individual user accounts. Prioritized data security and scalability using MongoDB.",
+        "keywords": [
+          "Reactjs",
+          "Nodejs",
+          "Expressjs",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://trello001.netlify.app/"
+      },
+      {
+        "name": "Portfolio website",
+        "description": "Designed and developed engaging portfolio website using React. Implemented intuitive navigation for easy exploration. Ensured responsiveness across various devices. Incorporated relevant technologies for dynamic presentation.",
+        "keywords": [
+          "Reactjs",
+          "Framer-motion"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://adarshverma.netlify.app/"
+      },
+      {
+        "name": "Keeper app",
+        "description": "Developed task management website with MERN stack. Ensured smooth user registration and personalized access. Enabled efficient task creation, updating, and tracking. Leveraged MongoDB for secure, scalable data storage.",
+        "keywords": [
+          "Reactjs",
+          "Nodejs",
+          "Expressjs",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://keeper001.netlify.app/"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React JS",
+      "Bootstrap",
+      "jQuery",
+      "framer-motion",
+      "Node JS",
+      "Express JS",
+      "Passport JS",
+      "REST API",
+      "MongoDB",
+      "My-SQL",
+      "Python",
+      "C",
+      "C++",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "ADARSH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "North East Delhi, Delhi, India - 110093",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech."
+}

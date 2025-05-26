@@ -1,0 +1,153 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Anuj Soni",
+  "college": "Chandigarh University",
+  "locations": [
+    "Mohali, Punjab",
+    "Jhansi, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chandigarh University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.89 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Modern Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "75%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sun International School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "7.4 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-time Device Tracking System using Node, Express and Socket.io",
+        "description": "* Utilized Socket.io for real-time data exchange, enhancing responsiveness and user interaction.\n* Deployed Developed using Node.js, Express.js, and Socket.io to ensure instant updates and accurate location tracking, increasing performance efficiency by 30%.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "Socket.io"
+        ],
+        "endDate": "July 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Personal Portfolio Website",
+        "description": "* Responsive Design: Designed and developed a personal portfolio website using HTML, CSS, and JavaScript, ensuring compatibility across various devices and screen sizes.\n* Interactive Features: Employed JavaScript to create interactive elements, such as a contact form and smooth scrolling navigation, enhancing user experience by 25%.",
+        "keywords": [
+          "Html",
+          "CSS",
+          "Javascript",
+          "Django",
+          "SQlite"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Attendance Management system using face-recognition",
+        "description": "* Developed an Attendance Management System with Python and OpenCV, utilizing face recognition for automated, accurate attendance tracking, enhancing operational efficiency by 40% and data integrity by 35%.\n* Built a user-friendly interface for real-time face recognition to track attendance efficiently and reliably.",
+        "keywords": [
+          "Python",
+          "OpenCV",
+          "Pandas"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Internship",
+        "skillsUsed": [
+          "DSA",
+          "DBMS",
+          "Python",
+          "Linux"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Persistent Systems",
+        "description": "* Technical Immersion and Skill Development: Gained hands-on experience with Database Management Systems (DBMS), Python programming, Linux operating system, and Data Structures and Algorithms (DSA), significantly enhancing technical proficiency by 60%.\n* Collaborated with mentors and team members, enhancing learning by 30%.",
+        "location": "Mohali, Punjab",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Python Developer Intern",
+        "skillsUsed": [
+          "Python",
+          "Django",
+          "API",
+          "Razorpay"
+        ],
+        "endDate": "May 2023",
+        "company_name": "Western Panda",
+        "description": "* Participated in regular meetings and code reviews to align development efforts with project goals and stakeholder expectations, increasing project alignment by 40%.\n* Designed and implemented various payment gateway methods, including integration with Razorpay, facilitating secure and efficient payment processing, improving transaction speed by 35%.\n* Utilized debugging tools and techniques to troubleshoot and resolve software defects, enhancing the overall stability and performance of the application by 50%.",
+        "location": "Jhansi, Uttar Pradesh",
+        "links": "",
+        "startDate": "Feb 2023"
+      }
+    ],
+    "skills": [
+      "Django",
+      "Express",
+      "NodeJS",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "Figma",
+      "MySQL",
+      "MongoDB",
+      "SQLite",
+      "C++",
+      "Python"
+    ],
+    "soft_skills": [],
+    "name": "Anuj Soni",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Got a certificate of appreciation in SAP Hackfest 24",
+      "Got a certificate of appreciation in ELICIT 2023 by MUJ ACM",
+      "Winner in Inter-Department Cricket(Chandigarh University)",
+      "Engaged in multiple hackathons on Unstop such as HackOn With Amazon - Season 3, Accenture Innovation Challenge 2023 and etc"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Engineering"
+}

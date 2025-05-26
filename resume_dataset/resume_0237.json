@@ -1,0 +1,144 @@
+{
+  "project_count": 2.0,
+  "designation": "Full Stack Developer",
+  "name": "Nilay Kumar",
+  "college": "Manipal University",
+  "locations": [
+    "Noida",
+    "Pune"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Certified Network Associate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IBM certification: AIML",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Academy certification: RDBMS",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.02 (pursuing)",
+        "field_of_study": "engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Manav Rachna International School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "85%",
+        "field_of_study": "Science",
+        "startDate": ""
+      },
+      {
+        "school": "Manav Rachna International School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "90%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Job Portal",
+        "description": "Created a Job Portal using JavaScript involves building a backend service that allows you to manage job postings. Used Node.js with Express for Backend Developed a job listing and application interface with Angular, including search functionality and user profile.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Low Light Image Enhancement",
+        "description": "Developed a deep learning model to enhance low light images using python. Compiled a diverse dataset of low-light images for training and testing, applying pre-processing techniques to remove noise.",
+        "keywords": [],
+        "endDate": "Feb 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2024",
+        "company_name": "Mealawe",
+        "description": "Developed and implemented new features for the marketplace, including adding item sections and creating item cards for orders. Designed and built a reactive form to enhance user interaction and data submission processes. Collaborated with cross-functional teams to integrate features seamlessly into the platform. Contributed to improving the overall user experience through innovative UI/UX design and development. Engaged in testing and debugging to ensure high-quality, reliable software delivery. Assisted in optimizing the platform's performance by identifying and resolving front-end issues. Conducted research and contributed ideas for improving the UI/UX design of the marketplace. Gained hands-on experience with agile methodologies and software development best practices.",
+        "location": "Pune",
+        "links": "",
+        "startDate": "Jun 2024"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Python",
+      "C",
+      "MongoDb",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Team Player",
+      "Personable"
+    ],
+    "name": "Nilay Kumar",
+    "position": "Full Stack Developer",
+    "interests": [
+      "Web Development",
+      "Computer Vision",
+      "Reading",
+      "Sports"
+    ],
+    "achievements_and_awards": [
+      "Hackathon Win: Secured 2nd position in Inter University hackathon showcasing problem-solving and coding skills.",
+      "Research Project: Collaborated with a professor on a research project focused on Computer Network Visualization, leading to a presentation at ICICV conference."
+    ],
+    "publications": []
+  },
+  "current_location": "Noida, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

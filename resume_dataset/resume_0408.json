@@ -1,0 +1,166 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Navanet P",
+  "college": "HINDUSTAN UNIVERSITY",
+  "locations": [
+    "Chennai, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "HINDUSTAN UNIVERSITY",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Chennai, India",
+        "ID": 0.0,
+        "grade_received": "CGPA:9.0",
+        "field_of_study": "CSE",
+        "startDate": ""
+      },
+      {
+        "school": "SHREE NIKETAN SCHOOL",
+        "endDate": "Apr 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Chennai, India",
+        "ID": 1.0,
+        "grade_received": "CGPA:8.9",
+        "field_of_study": "Computer Science Stream",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "SNAP SHOT",
+        "description": "Snap Shot is a gallery created using React, Hooks, Router and Context API. The Routes were setup for four default pages and a search page.",
+        "keywords": [
+          "React",
+          "Hooks",
+          "Router",
+          "Context API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      },
+      {
+        "name": "TODO APP",
+        "description": "Developed a task management app with local and session storage for data retention and customisable categories. Implemented multiple task selection for streamlined organization and efficiency in task management.",
+        "keywords": [
+          "React"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      },
+      {
+        "name": "ECOMMERCE WEBSITE (FASHION CUBE)",
+        "description": "Designed a dynamic and intuitive web interface with responsive design for optimal device compatibility. Implemented an interactive product catalog and secure checkout process to enhance user satisfaction and conversion rates in e-commerce.",
+        "keywords": [
+          "Angular"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      },
+      {
+        "name": "CUSTOM BUDGET TRACKER",
+        "description": "Engineered a user-centric budget management system enabling detailed tracking of income and expenses. Enhanced financial management capabilities by implementing features to track and achieve financial goals effectively.",
+        "keywords": [
+          "PHP",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Angular"
+        ],
+        "endDate": "June 2023",
+        "company_name": "LEARNWIK SOLUTIONS PVT LTD",
+        "description": "Designed and implemented responsive websites with HTML, CSS, JavaScript, React, and Angular, increasing user engagement by 30% and reducing page load times by 20%.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2023"
+      },
+      {
+        "role_name": "Cloud Computing Intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "DEVSKILLHUB",
+        "description": "Developed dynamic and user-friendly web interface with responsive design. Designed a dynamic and intuitive web interface with responsive design for optimal device compatibility.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Java Programming Intern",
+        "skillsUsed": [
+          "Java",
+          "Object-oriented programming",
+          "Data structures",
+          "Multi-threading"
+        ],
+        "endDate": "Apr 2024",
+        "company_name": "VAULT OF CODES",
+        "description": "Developed robust Java applications leveraging object-oriented programming, advanced data structures, and multi-threading techniques, resulting in a 20% improvement in application performance.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "React",
+      "Angular",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "Node.js",
+      "Express",
+      "PHP",
+      "Python",
+      "Ruby on Rails",
+      "Git",
+      "Docker",
+      "AWS",
+      "Heroku"
+    ],
+    "soft_skills": [],
+    "name": "Navanet P",
+    "position": "",
+    "interests": [
+      "Reading Books",
+      "Fitness",
+      "Cooking",
+      "Hiking",
+      "Photography",
+      "Football"
+    ],
+    "achievements_and_awards": [
+      "First position SAEINDIA in Mobile Robotics"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B.Tech."
+}

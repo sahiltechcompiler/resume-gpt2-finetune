@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Monish Banthia",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Rajasthan",
+    "India"
+  ],
+  "full_output": {
+    "summary": "A dedicated and self-motivated solutions developer. The developer is also technically-savvy and offers the ability to quickly learn new concepts, software, and technology. I'm excited to use my prior experience and growing knowledge in algorithm creation and analysis to support the expansion of a progressive business that is prepared to take on new challenges.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design And Analysis of Algorithms",
+        "issuer": "NPTEL - IIT MADRAS",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Foundation",
+        "issuer": "AWS",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.7",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Bikaner Boys School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "85.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bikaner Boys School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "85%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "FinTrack",
+        "description": "FinTrack is a personal finance tracker that helps users manage income, expenses, and balances with features like data visualization, transaction filtering, and CSV import/export. It was developed using React for the frontend, Firebase Authentication for user management, and Ant Design for UI, with React Toastify for notifications and CSV handling.",
+        "keywords": [
+          "React",
+          "Firebase",
+          "Ant Design",
+          "React Toastify"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CryptoTracker",
+        "description": "Crypto Currency Tracker is a web application that allows users to compare and analyze the top 100 cryptocurrencies in real-time based on price, volume, and market cap, with interactive graphs. It was built using React for the frontend, ChartJS for data visualization, Axios for API calls, and the CoinGecko API to fetch cryptocurrency details.",
+        "keywords": [
+          "React",
+          "ChartJS",
+          "Axios",
+          "CoinGecko API"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "NewsBash",
+        "description": "NewBash is a sleek news app developed using HTML, CSS, and JavaScript, featuring a modern design and interactive elements. It offers an intuitive user interface for seamless browsing of news content.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "NOV 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "C++",
+      "HTML",
+      "CSS (Bootstrap & TailwindCSS)",
+      "JavaScript",
+      "SQL",
+      "AWS",
+      "React-Redux",
+      "DBMS"
+    ],
+    "soft_skills": [],
+    "name": "Monish Banthia",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Finished in the top 5% of a Data Structure and Algorithm course test, outperforming more than 3000 other students.",
+      "Received certification with a small group of over 1200 students, displaying remarkable problem-solving and algorithmic thinking skills."
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan, India-303007",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Btech"
+}

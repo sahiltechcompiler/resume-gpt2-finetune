@@ -1,0 +1,165 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ekaspreet Singh",
+  "college": "GGSIPU, Guru Tegh Bahadur Institute Of Technology",
+  "locations": [
+    "New Delhi, India",
+    "remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "Cursa",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem Solving",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GGSIPU, Guru Tegh Bahadur Institute Of Technology",
+        "endDate": "July 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi, India",
+        "ID": 0.0,
+        "grade_received": "86%",
+        "field_of_study": "Computer Science",
+        "startDate": "July 2020"
+      },
+      {
+        "school": "Guru Harkrishan Public School",
+        "endDate": "March 2020",
+        "maximum_grade": "",
+        "degree": "12th Grade",
+        "location": "New Delhi, India",
+        "ID": 1.0,
+        "grade_received": "80%",
+        "field_of_study": "Non Medical",
+        "startDate": "March 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Code Dual",
+        "description": "A LeetCode-inspired platform allowing real-time collaboration on coding problems. Utilized Socket.io to facilitate real-time friend's code, elevating the collaborative coding experience. Designed a responsive user interface with an adjustable slider for view.",
+        "keywords": [
+          "React",
+          "Firebase",
+          "Tailwind",
+          "Javascript",
+          "node",
+          "express",
+          "socket"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link | Github"
+      },
+      {
+        "name": "Delhi Metro Seva",
+        "description": "Developed for my colleges Industrial Training program. Utilized Dijkstra algorithm for finding shortest route between stations. Integrated Google Maps API for locating nearest station. Resembles DMRC website in final design.",
+        "keywords": [
+          "Flask",
+          "Javascript",
+          "Jinja",
+          "Html",
+          "Css"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Face Recognition-attendance",
+        "description": "Developed under the Microsoft Engage 2022 mentorship program. Utilizes a machine learning algorithm for face detection and recognition. Records individual attendance along with timestamp data.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Javascript",
+          "Python",
+          "Flask",
+          "Opencv"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link | Github"
+      }
+    ],
+    "languages": [
+      "English - Fluent",
+      "Hindi - Native",
+      "Punjabi - Native"
+    ],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "BasketHunt Pvt Ltd.",
+        "description": "Collaborated with senior developers to design and develop responsive web applications using modern JavaScript frameworks such as React.js. Assisted in the implementation of front-end features and user interface components, ensuring high performance and cross-browser compatibility. Participated in daily stand-up meetings to discuss project progress, identify challenges, and propose solutions in an agile development environment. Utilized version control systems such as Git for managing codebase. Resolved bugs and addressed technical issues promptly to maintain smooth project execution.",
+        "location": "remote",
+        "links": "",
+        "startDate": "August 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Javascript",
+      "Flask",
+      "Opencv",
+      "React",
+      "Nodejs",
+      "express",
+      "Redux",
+      "Bootstrap",
+      "Tailwind",
+      "Data Structures and Algorithms",
+      "OOPS",
+      "OS",
+      "Networking",
+      "GitHub",
+      "HTML",
+      "CSS",
+      "Firebase",
+      "Mysql",
+      "Mongodb"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Analytical Skills",
+      "Time Management",
+      "Team Player"
+    ],
+    "name": "Ekaspreet Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved proficiency by solving over 500+ questions on LeetCode.",
+      "1700+ rating in LeetCode contests.",
+      "Actively participated in numerous Hackathons, showcasing problem-solving skills and teamwork"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

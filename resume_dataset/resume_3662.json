@@ -1,0 +1,144 @@
+{
+  "project_count": 5.0,
+  "designation": "Data Analytics | Data Science",
+  "name": "Vivan Jaiswal",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Gurgaon, Haryana"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.77 (Till Sem 6)",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Brain Tumor Detection and Classification",
+        "description": "Brain Tumor Detection and Classification using Hybrid DNN Model Utilized a hybrid of CNN and DNN architectures Made use of an attention head with spatial and colour channels for enhanced accuracy on validation set Analyzed result using ROC curve, confusion matrix and classification report",
+        "keywords": [
+          "Tensorflow",
+          "keras",
+          "Tqdm"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mariana Command Line Music Player",
+        "description": "A terminal based music player Utilized a feature-rich command-line music player compatible with Linux Debian-based and Windows operating systems Integrated the Shazamio wrapper API to fetch track lyrics Made use of the PRAW Reddit API wrapper to display live sessions from the Reddit Public Access Network (RPAN) Employed the yt-dlp module to obtain streaming links and download YouTube videos and audio Utilized the Python-VLC wrapper to stream both audio and video content",
+        "keywords": [
+          "Python3",
+          "praw",
+          "yt-dlp",
+          "shazamio",
+          "python-vlc",
+          "pyDrive",
+          "ffmpeg"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Youtube wav Downloader",
+        "description": "An audio downloader for YouTube Batch downloads audios from multiple YouTube video URLs Has a built-in YouTube search to find videos based on query string Features automatic detection and deduplication of downloaded files The ability to download all songs from Playlists on YouTube Music Downloads YouTube audios by adding URLs to a separate 'urls.txt' file instead of typing each one Downloading songs from Spotify (with the requirement of Spotify API credentials) After confirming downloads, the selected videos are shown in your browser",
+        "keywords": [
+          "ffmpeg",
+          "beautifulsoup4"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Crop Recommendation System",
+        "description": "Developed a Flask web application utilizing machine learning algorithms for crop prediction based on soil conditions Implemented AJAX with Vanilla JS for asynchronous user input processing and enhanced user experience with real-time feedback Allowed users to upload a trained model and dataset, along with environmental parameters, for model performance evaluation Validated all required inputs, processed data, and visualized predictions through charts and analysis",
+        "keywords": [
+          "Matplotlib",
+          "Scikit-Learn",
+          "Pandas",
+          "JavaScript",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "House Pricing Prediction with XGBoost",
+        "description": "A house pricing prediction model based on XGBRegressors 2 Models were created, both with 1000 estimators, wit varying learning rates (0.1 and 0.5) Calculated r2 score, MSE and RMSE for the models to compare their predictive power",
+        "keywords": [
+          "sklearn",
+          "XGBoost",
+          "pandas",
+          "numpy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Automation Engineering Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Nokia",
+        "description": "Created config parsers for dealing with console data from the SAS MXP Router OS Made the webpage for the dashboard relating to the audited data for the router portal Created a chatbot for gaining insights on business data",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "Nov 2021"
+      },
+      {
+        "role_name": "Co-conducted IoT Workshop",
+        "skillsUsed": [],
+        "endDate": "Sep. 2023",
+        "company_name": "Manipal University Jaipur",
+        "description": "Co-conducted IoT Workshop with Dr. Girish Sharma Included guest lectures from guest faculty from universities including IIT Madras",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "TensorFlow",
+      "Pandas",
+      "Numpy",
+      "Scikit-Learn",
+      "Seaborn",
+      "SciPy",
+      "bash",
+      "git",
+      "GitHub",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Vivan Jaiswal",
+    "position": "Data Analytics | Data Science",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Sector 56, Gurgaon, Haryana - 122011",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B. Tech"
+}

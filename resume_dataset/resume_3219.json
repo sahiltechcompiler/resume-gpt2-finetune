@@ -1,0 +1,155 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Jasti Gopi Harshavardhan",
+  "college": "SRM -AP University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "Java (Basic)",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Micro-Certification",
+        "issuer": "ServiceNow",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM -AP University",
+        "endDate": "2021",
+        "maximum_grade": "10.0",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.7/10.0",
+        "field_of_study": "CSE",
+        "startDate": ""
+      },
+      {
+        "school": "Sri chaitanya",
+        "endDate": "2021",
+        "maximum_grade": "1000",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "913/1000",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Nris Indian Springs",
+        "endDate": "2019",
+        "maximum_grade": "10",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.2/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "3-Phase Authentication KYC System",
+        "description": "Implemented multi-phase authentication: email-password, email OTP, and mobile OTP. Integrated KYC data collection post-authentication for user verification. Built with MERN stack, focusing on security and scalability.",
+        "keywords": [
+          "MERN",
+          "MongoDB",
+          "Express.js",
+          "React",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Agri-Food Supplychain Traceability",
+        "description": "Developed a traceability system for agri-food products to track the journey from farm to consumer. Ensured data integrity and transparency across the supply chain using blockchain principles. Implemented using Java, focusing on scalability and real-time data processing.",
+        "keywords": [
+          "Java"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Student Dropout Prediction",
+        "description": "Developed an ML model to predict student dropout likelihood based on various factors. Integrated a user-friendly interface for easy data input and prediction visualization. Focused on accuracy and interpretability of the model using Python libraries.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Admission Management System",
+        "description": "Developed a C++-based system to streamline the administration of student records. Enabled efficient management of enrollment (100+ students) and grading across 5 levels. Focused on creating an intuitive interface for academic management tasks.",
+        "keywords": [
+          "C++",
+          "OOP Concepts"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Development Intern",
+        "skillsUsed": [],
+        "endDate": "June 2024",
+        "company_name": "Bharat Intern",
+        "description": "Project-Based Learning",
+        "location": "",
+        "links": "GitHub",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "BootStrap",
+      "Javascript",
+      "React.js",
+      "Node.js",
+      "MySQL",
+      "MongoDB",
+      "DBMS",
+      "Python",
+      "C",
+      "C++",
+      "Java",
+      "Operating System",
+      "Networks",
+      "OOPS",
+      "DSA"
+    ],
+    "soft_skills": [],
+    "name": "Jasti Gopi Harshavardhan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

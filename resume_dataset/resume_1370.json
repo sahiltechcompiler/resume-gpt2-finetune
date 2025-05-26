@@ -1,0 +1,167 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sanjana Racharla",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "CodeHelp",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PowerBI",
+        "issuer": "Skill Nation",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DBMS",
+        "issuer": "NPTEL",
+        "certiLink": "Jul 2023"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem-Solving",
+        "issuer": "Hackerrank",
+        "certiLink": "Jul 2024"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Gayatri Junior College, Vijayawada",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "CGPA: 8.84/10",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Chegu Vidyalayam, Jaggayyapet",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage 96.3%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Social Media Sentiment Analysis on COVID-19 and Omicron",
+        "description": "Conducted sentiment classification on a 100,000-tweet dataset of COVID-19-related content using advanced deep learning models (CNN, RNN, LSTM, BiLSTM, Transformers) to categorize tweets into positive, negative, and neutral sentiments. Achieved a 20% increase in accuracy of deep learning models compared to traditional machine learning approaches. Evaluated model performance across diverse datasets and time periods, highlighting strengths of RNN and LSTM in accurately capturing nuances in sentiment.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blogging Website",
+        "description": "Developed a full-stack application using MongoDB, Express.js, React.js, and Node.js. Developed a multifaceted user authentication system incorporating account creation, login, and logout capabilities. This implementation resulted in a 40% reduction in unauthorized access attempts, significantly enhancing overall system security. Users can manage their blogs by creating, editing, and deleting posts(CRUD). Implemented read-only mode for other users to view blogs.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SAI (Supreme Artificial Intelligence)",
+        "description": "Cutting-edge voice-controlled AI assistant integrating speech recognition, web scraping, and GPT-powered voice capabilities. Excels in web searches, weather updates, task scheduling, WhatsApp messaging, and system controls.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Research Internship on Sentiment Analysis",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "",
+        "description": "Co-authored a research paper on sentiment analysis, currently in the publishing process. Reviewed and researched over 15+ papers in the field of NLP and sentiment analysis, contributing to a deep understanding of the subject.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "UI/UX Internship",
+        "skillsUsed": [],
+        "endDate": "December 2023",
+        "company_name": "BragTech",
+        "description": "Designed user-friendly mobile and web interfaces using Figma for Bragtechs nutrition app and blog website. Designed over 15 panels and conducted extensive UX research to enhance usability and user experience.",
+        "location": "",
+        "links": "",
+        "startDate": "November 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "JavaScript",
+      "Data Structures and Algorithms",
+      "OOPS",
+      "Machine Learning",
+      "SQL",
+      "NumPy",
+      "Pandas",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Node.js",
+      "Express.js",
+      "React.js",
+      "MongoDB"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Team Management",
+      "Adaptability"
+    ],
+    "name": "Sanjana Racharla",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Qualified for the semi-finals among 15,000 teams by developing a personalized product recommender system website to enhance user experience through tailored recommendations."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ADITI SINGH",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.08 / 10",
+        "field_of_study": "Electrical and Computer Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Maheshwari Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 72 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Maheshwari Public School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 87 / 100",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Operational Scheduler for hospital management",
+        "description": "Designed and developed an operational scheduler for hospital management, utilizing HTML, CSS, and JavaScript. Implemented a user-friendly interface for easy scheduling and management. Utilized Firebase for backend services and database management.",
+        "keywords": [
+          "Front-End Web Development",
+          "GIT",
+          "API integration",
+          "Basic UI- UX"
+        ],
+        "endDate": "07 Jul, 2024",
+        "startDate": "11 Jun, 2024",
+        "url": ""
+      },
+      {
+        "name": "Expense Tracker",
+        "description": "Successfully created a functional expense tracker with a user-friendly interface using frontend Frameworks. Implemented data validation and calculation to ensure accurate expense tracking. Designed a responsive layout that adapts to different screen sizes and devices.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Github",
+          "Firebase",
+          "Front-End Web Development"
+        ],
+        "endDate": "15 Jun, 2024",
+        "startDate": "10 May, 2024",
+        "url": ""
+      },
+      {
+        "name": "Patient Health Monitoring System",
+        "description": "Designed and developed a patient health monitoring system using IOT to track vital signs and alert healthcare professionals to potential health issues. Implemented real-time data transmission and visualization to enhance patient care and improve healthcare outcomes.",
+        "keywords": [
+          "IOT",
+          "Arduino",
+          "Cloud",
+          "Hardware Engineering"
+        ],
+        "endDate": "12 Apr, 2024",
+        "startDate": "15 Feb, 2024",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Education Web Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Firebase",
+          "Git",
+          "Github"
+        ],
+        "endDate": "08 Aug, 2024",
+        "company_name": "Unified Mentor",
+        "description": "Contributed to the development of multiple web applications using HTML, CSS, and JavaScript. Utilized Firebase for backend services and database management. Implemented responsive design and user-centered design principles to ensure a seamless user experience. Collaborated with the development team to troubleshoot and debug code using Git and Git Bash.",
+        "location": "",
+        "links": "",
+        "startDate": "06 Jun, 2024"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Firebase",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "ADITI SINGH",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "Patient health monitoring using IOT"
+    ]
+  },
+  "current_location": "Jaipur, Rajasthan, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

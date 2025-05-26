@@ -1,0 +1,150 @@
+{
+  "project_count": 4.0,
+  "designation": "Student",
+  "name": "Khushi Kohli",
+  "college": "MANIPAL UNIVERSITY",
+  "locations": [
+    "JAIPUR",
+    "GURUGRAM, INDIA"
+  ],
+  "full_output": {
+    "summary": "A result-driven engineering student with a passion for problem-solving, procient in programming languages such as Python. Strong communication and collaboration abilities enable eective teamwork and project coordination.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "JAIPUR",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "09/2021"
+      },
+      {
+        "school": "ST'THOMAS SCHOOL",
+        "endDate": "07/2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "04/2008"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Investigated Intracranial Hemorrhage detection via computer vision",
+        "description": "Used python for computer vision to classify dierent hemorrhage types, showcasing algorithmic problem- solving skills.",
+        "keywords": [
+          "PYTHON"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Engineered a Python-MySQL application for comprehensive sta data management",
+        "description": "Including attendance tracking, salary administration, and automated tax deduction processes. Developed with user-friendly interfaces, the software eciently stores employee information, facilitates salary management, and automates tax deduction processes. Ideal for rms seeking streamlined data storage and employee management solutions.",
+        "keywords": [
+          "PYTHON",
+          "MYSQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Constructed an e-commerce shopping website",
+        "description": "Using HTML and CSS, integrating SQL databases with PHP and Java backend development.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "SQL",
+          "PHP",
+          "Java"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Conducted exploratory data analysis",
+        "description": "Using Python, exploring insights from the Zomato dataset.",
+        "keywords": [
+          "PYTHON"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "HINDI Full Professional Prociency",
+      "ENGLISH Full Professional Prociency"
+    ],
+    "experiences": [
+      {
+        "role_name": "INTERN",
+        "skillsUsed": [
+          "React",
+          "Bootstrap",
+          "CSS"
+        ],
+        "endDate": "03/2023",
+        "company_name": "IBM",
+        "description": "Started internship with IBM learning web development. Project was to make a single page application on college. Achievements/Tasks Launched a React-based single-page application for a college project, utilizing Bootstrap and CSS. Developed 5 pages, incorporating dynamic navigation and CSS animations.",
+        "location": "",
+        "links": "",
+        "startDate": "12/2022"
+      },
+      {
+        "role_name": "INTERN",
+        "skillsUsed": [
+          "Nodejs",
+          "SQL",
+          "PostgreSQL"
+        ],
+        "endDate": "Present",
+        "company_name": "Indi Technologies pvt limited",
+        "description": "Developed and implemented Rule Engine to automate decision making process across various validations check. Optimized a complex stored procedure in PostgreSQL, leading to an 80% increase in eciency.",
+        "location": "",
+        "links": "",
+        "startDate": "05/2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "Nodejs",
+      "SQL",
+      "PostgreSQL",
+      "React"
+    ],
+    "soft_skills": [
+      "Strong communication",
+      "Collaboration abilities",
+      "Problem-solving"
+    ],
+    "name": "Khushi Kohli",
+    "position": "Student",
+    "interests": [
+      "Reading Books",
+      "Badminton"
+    ],
+    "achievements_and_awards": [
+      "GirlScript Summer of Code",
+      "RAMSTES CONFERENCE presented my research paper.",
+      "BAJAJ HACKATHON Secured a place among the top 10 nalists in the Bajaj Hackathon"
+    ],
+    "publications": []
+  },
+  "current_location": "GURUGRAM, INDIA",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": ""
+}

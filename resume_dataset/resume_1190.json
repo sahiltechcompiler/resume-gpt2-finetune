@@ -1,0 +1,164 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "KUNAL KUMAR",
+  "college": "National Institute of Technology, Hamirpur",
+  "locations": [
+    "Gurgaon",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine-Learning and deep-learning in Python",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS-Machine Learning Deep-Racer",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute of Technology, Hamirpur",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Mathematics and Computing",
+        "startDate": "Dec 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Music Genre Classification",
+        "description": "- A website which provides the genre of music by uploading the .wav audio file.\n- Classify the music as pop, country, hiphop, etc categories.",
+        "keywords": [
+          "Django",
+          "KNN",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Comprehensive Analysis of Bank Loan Processes and Data Utilization",
+        "description": "- Aims toward improving decision-making and risk management for loan.\n- Provide bank data-driven strategies for efficient loan management.",
+        "keywords": [
+          "SQL",
+          "Tableau",
+          "Excel"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CRUD Application",
+        "description": "- Created user registration and login page with functionalities of updating and deleting details.\n- Real time Data is stored in Mongodb using PyMongo.\n- API-Testing is done using Postman.",
+        "keywords": [
+          "Python",
+          "Django",
+          "MongoDB",
+          "Pymongo",
+          "Postman"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python Developer (Internship)",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "Rocket Flyer Technologies",
+        "description": "Developed a business solution for the company with CHATGPT API Integration using Django.\nWorked in a collaborative team of 3 members and presented different business ideas.\nImproved the accuracy of a resume parsing application by training a transformer model through API development.",
+        "location": "Gurgaon",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Secretary of External Affairs",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "E-Cell, NIT Hamirpur",
+        "description": "Implemented 5 workshops and organized E-summit.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2021"
+      },
+      {
+        "role_name": "Data Science (AS contract)",
+        "skillsUsed": [],
+        "endDate": "present",
+        "company_name": "Soul AI",
+        "description": "Worked on LLM project named Flamingo, enhancing the performance of models.\nLeveraged human judgment to guide the model towards generating higher quality as it worked on reinforcement learning.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "C++",
+      "Data Structure and algorithms",
+      "HTML5",
+      "CSS",
+      "React",
+      "Node js",
+      "Scikit-learn",
+      "TensorFlow",
+      "Keras",
+      "OpenCV",
+      "Numpy",
+      "Pandas",
+      "Seaborn",
+      "Matplotlib",
+      "Django",
+      "MongoDB",
+      "BeautifulSoup",
+      "Matlab",
+      "MySQL",
+      "Excel",
+      "PowerBI"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Event Management",
+      "Public Speaking",
+      "Time Management"
+    ],
+    "name": "KUNAL KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 200+ DSA problems on different coding platforms -leetcode,coding ninjas and GFG.",
+      "Scored AIR 13,225 in JEE Mains and AIR 9,725 in JEE Advance."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

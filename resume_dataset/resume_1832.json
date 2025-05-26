@@ -1,0 +1,110 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "MIHIR SINGHAL",
+  "college": "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY",
+  "locations": [
+    "Kota, India",
+    "Agra, India"
+  ],
+  "full_output": {
+    "summary": "Recent computer science graduate with strong programming skills in languages such as C++, Python and SQL with a solid understanding of data structures and algorithms. Proficient in tensorflow, keras and OpenCV. Eager to kick-start my career in ML and AI development and related fields. Highly motivated, quick learner, and eager to contribute to software projects while continuously expanding my technical skills.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Kota, India",
+        "ID": 0.0,
+        "grade_received": "93.00%",
+        "field_of_study": "Major in Computer Science and Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "MILTON PUBLIC SCHOOL",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "CBSE",
+        "location": "Agra, India",
+        "ID": 1.0,
+        "grade_received": "95.60%",
+        "field_of_study": "Class XII",
+        "startDate": "2018"
+      },
+      {
+        "school": "ST. PAULS CHURCH COLLEGE",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "ICSE",
+        "location": "Agra, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "Class X",
+        "startDate": "2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "IMAGE RECOGNITION SYSTEM",
+        "description": "Designed and built an ANN model (based on efficient net) for medical use. Model predicts and gives a positive or negative output for 14 different pathologies after scanning the front view human chest x-ray. Compared existing models on the basis of accuracy.",
+        "keywords": [
+          "Python",
+          "Keras",
+          "Tensorflow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "OBJECT COUNTER",
+        "description": "Used technologies of OpenCV like grayscaling and contours. Counts the number of coins in the input image.",
+        "keywords": [
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "CHATBOT",
+        "description": "Built a bot using the speech recognition module of python. Performs basic tasks upon recognizing speech commands.",
+        "keywords": [
+          "Python",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Python",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "Javascript",
+      "VS Code",
+      "Github",
+      "Google Colab",
+      "Canva"
+    ],
+    "soft_skills": [],
+    "name": "MIHIR SINGHAL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Agra, India",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

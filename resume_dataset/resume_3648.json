@@ -1,0 +1,136 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "K D S NARAYANA REDDY",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, IN",
+    "Kakinada, IN"
+  ],
+  "full_output": {
+    "summary": "To work in an environment which encourages me to succeed and grow professionally, where I can utilize my skills and knowledge appropriately. Looking forward to an opportunity in the technologically savvy and fast-paced industry to pursue a career as a web. A clear understanding of responsibility.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PYTHON COURSE",
+        "issuer": "INFOSYS",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "REACT.JS COURSE",
+        "issuer": "HITBULLSEYE",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Volunteer in helping for children organization."
+    ],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Phagwara, IN",
+        "ID": 0.0,
+        "grade_received": "6.78",
+        "field_of_study": "Computer Science",
+        "startDate": "Apr '20"
+      },
+      {
+        "school": "Sri Sai Aditya Junior College",
+        "endDate": "Mar '20",
+        "maximum_grade": "",
+        "degree": "Intermediate Education",
+        "location": "Kakinada, IN",
+        "ID": 1.0,
+        "grade_received": "9.5",
+        "field_of_study": "",
+        "startDate": "Jun '18"
+      }
+    ],
+    "projects": [
+      {
+        "name": "TO-DO APPLICATION",
+        "description": "Implemented To-Do Application where users can list out their daily applications. It is fast and efficient as it utilizes local storage instead of a database. It allows users to keep track of their task progress.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Boot Strap"
+        ],
+        "endDate": "Jul 22",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FOOD ORDERING SYSTEM",
+        "description": "User can find the item just by entering the name of it. Users have the option to fast search their orders based on preferences. Integrated live APIs to dynamically populate food items on the website, enhancing user experience and real-time data accessibility.",
+        "keywords": [
+          "React.JS",
+          "Tailwind CSS"
+        ],
+        "endDate": "Jan 24",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MINESWEEPER GAME",
+        "description": "Developed a Minesweeper game in Python using the Tkinter library for GUI development. Implemented game logic, user interface, and difficulty levels for an interactive gaming experience. Designed as a single-player game, providing an engaging and challenging gameplay experience.",
+        "keywords": [
+          "Python",
+          "TKinter Library"
+        ],
+        "endDate": "Mar 24",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "React.JS"
+        ],
+        "endDate": "Jul 23",
+        "company_name": "LPU",
+        "description": "Training regarding React.JS. Gained plenty of experience in React.JS and created some projects.",
+        "location": "Phagwara, IN",
+        "links": "",
+        "startDate": "Jun 22"
+      }
+    ],
+    "skills": [
+      "JAVA SCRIPT",
+      "HTML",
+      "CSS",
+      "BOOT STRAP",
+      "PYTHON",
+      "EXPRESS",
+      "NODE JS",
+      "SQLITE"
+    ],
+    "soft_skills": [
+      "LEADERSHIP SKILLS",
+      "SELF MANAGEMENT",
+      "COLLABORATION"
+    ],
+    "name": "K D S NARAYANA REDDY",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Konkuduru, India",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

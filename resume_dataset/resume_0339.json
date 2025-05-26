@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kalyan Ram Pothuraju",
+  "college": "SRM University AP",
+  "locations": [
+    "amaravati",
+    "guntur",
+    "narasaraopet",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "I am a fresher in the corporate culture, but ready to accept the challenges, utilizing my technical skills, would like to work with highly esteemed company which gives me a platform to use my expertise and skills by mutual growth and benefit of company and myself.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "amaravati",
+        "ID": 0.0,
+        "grade_received": "7.67/10",
+        "field_of_study": "CSE",
+        "startDate": "Nov. 2021"
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "Mar 2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "guntur",
+        "ID": 1.0,
+        "grade_received": "9.87/10",
+        "field_of_study": "MPC",
+        "startDate": "Jun. 2018"
+      },
+      {
+        "school": "Sri Krishna Chaitanya High School",
+        "endDate": "May 2018",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "narasaraopet",
+        "ID": 2.0,
+        "grade_received": "9.8/10",
+        "field_of_study": "SSC",
+        "startDate": "Jun. 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Employee Management Application",
+        "description": "developed this application using the Java Swing framework. we have created a login page for the admin where the user can edit update, insert, and delete the records.",
+        "keywords": [
+          "Java",
+          "SQL"
+        ],
+        "endDate": "Apr 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fake image generation using Generative Adversarial Networks",
+        "description": "The aim of the project is to generate a fake image from real image using two adversarial neural network (generator and discriminator) generator make fake images discriminator classifies either fake or real. The generator improves on the feedback of the discriminator use the classification algorithm and machine learning algorithm to generate the image. Dataset: Tensorflow mnist fashion Dataset.",
+        "keywords": [
+          "GAN",
+          "CNN"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "House price prediction",
+        "description": "developed a machine learning algorithm to predict the price from the previous data. we have used data cleaning, data processing, virtualization, and machine learning algorithm.",
+        "keywords": [
+          "Python",
+          "ML",
+          "Excel",
+          "JupiterNotebook"
+        ],
+        "endDate": "June 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data analyst Intern",
+        "skillsUsed": [
+          "Python",
+          "Data Analysis",
+          "Data Visualization",
+          "Data Cleaning"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Andhra Pradesh State Skill Development Corporation",
+        "description": "Developed a House price prediction model on metropolitan cites in India using python modules, showcasing adept skills in data analysis, data visualisation, data cleaning on datasets and helps to understand the data.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C/C++",
+      "SQL",
+      "JavaScript",
+      "HTML/CSS",
+      "React",
+      "Node.js",
+      "Git",
+      "VS Code",
+      "Visual Studio",
+      "PyCharm",
+      "Eclipse",
+      "pandas",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "soft_skills": [],
+    "name": "Kalyan Ram Pothuraju",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

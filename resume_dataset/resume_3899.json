@@ -1,0 +1,206 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Himanshu Singh",
+  "college": "NIET",
+  "locations": [
+    "Greater Noida",
+    "Gonda"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analytics and Visualization",
+        "issuer": "Accenture",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Visualization",
+        "issuer": "Tata Group",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Blockchain Platforms, Cryptography, Decentralized Applications, Introduction to AI",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Artificial Intelligence",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NIET",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Greater Noida",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE(AI)",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Xaviers",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Gonda",
+        "ID": 1.0,
+        "grade_received": "76%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "St. Xaviers",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "Gonda",
+        "ID": 2.0,
+        "grade_received": "89%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "College Library Website",
+        "description": "Built an Open-Source Library Website in which you get Resources to learn different topics, Donate book section to donate your old books, and a Book issue section to keep a record.",
+        "keywords": [
+          "Html",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "APIs",
+          "Netlify"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Cryptonance",
+        "description": "Real-time cryptocurrency tracker with up-to-date prices, market cap and trading volumes.",
+        "keywords": [
+          "ReactJS",
+          "SCSS",
+          "Coin gecko API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Blood Bank And Donation Management System",
+        "description": "Manages blood donations, requests, admin approvals, and real-time blood stock updates.",
+        "keywords": [
+          "Python",
+          "Django",
+          "SQLite"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "E-Mail Classification ML Model",
+        "description": "Classify e-mails as spam or not on the basis of the message.",
+        "keywords": [
+          "Naive Bayes",
+          "Random Forest Classifier",
+          "XG Boost Classifier",
+          "NumPy",
+          "Pandas",
+          "Sklearn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "June,2024",
+        "company_name": "Sorbitol Transmission Pvt. Ltd.",
+        "description": "Analyzed sales data, leading to a 15% increase in monthly revenue. Developed customer segmentation models, improving targeted marketing efforts by 20%.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2024"
+      },
+      {
+        "role_name": "Full-Stack Developer Intern",
+        "skillsUsed": [],
+        "endDate": "Oct,2023",
+        "company_name": "Prodigy Infotech",
+        "description": "Developed a web-based Color Prediction Game, enhancing user interaction by 25%. Integrated real-time chat feature, improving player engagement and retention by 20%.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "Html",
+      "CSS",
+      "React",
+      "NodeJS",
+      "ExpressJs",
+      "MongoDB",
+      "SQL",
+      "Git/GitHub",
+      "TensorFlow",
+      "NumPy",
+      "Pandas",
+      "Keras",
+      "DBMS",
+      "OOPs",
+      "Machine Learning",
+      "Data Structure and Algorithms"
+    ],
+    "soft_skills": [
+      "Organizational",
+      "Leadership",
+      "Responsiveness",
+      "Problem Solving"
+    ],
+    "name": "Himanshu Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Completed Cybersecurity Workshop from IIT Roorkee.",
+      "President of Kshitiksha Foundation responsible for several Social Activities.",
+      "Solved 200+ questions on GFG and 150+ on LeetCode."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

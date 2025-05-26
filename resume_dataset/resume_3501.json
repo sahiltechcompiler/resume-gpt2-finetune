@@ -1,0 +1,133 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "NAMAN GUPTA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan"
+  ],
+  "full_output": {
+    "summary": "Aspiring Software Engineer with Over 2 Years of Experience in Full-Stack Development and Open Source. Seeking Full-Time Software Development Roles and Internship Opportunities.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Backend Developement and APIs",
+        "issuer": "FreeCodeCamp",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Computer Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA upto 6th sem- 7.82",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Jayshree Periwal High School",
+        "endDate": "March, 2021",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "Jaipur",
+        "ID": 1.0,
+        "grade_received": "82 percentage",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Jayshree Periwal High School",
+        "endDate": "March, 2019",
+        "maximum_grade": "",
+        "degree": "Secondary",
+        "location": "Jaipur",
+        "ID": 2.0,
+        "grade_received": "90 percentage",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MyChatApp",
+        "description": "A comprehensive full-stack application developed using Next.js, with a custom backend server built on MongoDB, Express, and Node.js. The application utilizes Socket.io for seamless real-time data transfer between the frontend and backend, facilitating one-on-one chats. Users can easily log in and add existing users to their chats with just a few clicks. Future enhancements for this app include implementing file uploads and transfers, enabling group creation, and introducing additional advanced functionalities.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WatchTube",
+        "description": "A robust backend server built with Express, Node.js, and MongoDB, offering advanced functionalities such as profile customization with images, user watch history, channel subscriber count, and tweet integration. Many of these features leverage MongoDB Aggregation Pipelines to provide powerful data processing capabilities. The future scope of this project includes the development of a dynamic frontend and the incorporation of additional modern features similar to those found on platforms like YouTube and Dailymotion.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Problem Solving And Optimization Platform",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Leetcode, CodeStudio, CodeForces",
+        "description": "Proficiency in Java, C++ and Python Core Concepts, Development of Logical and Programming Skills. Program Optimization and Enhancement Skills, with Wide Knowledge of Data Structures and Algorithms.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "Jan 2023"
+      },
+      {
+        "role_name": "WatchTube-Backend",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "",
+        "description": "A Complex Backend Server, Built Using MongoDB, Express and Node.js. Basic functionalities, Such as User Registration, Login, and Profile Updates, Have Been Implemented. Complex Functionalities, Such as User Watch History and Channel Subscriber Count, Have Been Worked On. Improvised and Enhanced the Backend Resulting in Lower Response Times.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "C++",
+      "Dart",
+      "JavaScript",
+      "TypeScript",
+      "React DOM",
+      "Tailwind CSS",
+      "HTML",
+      "MERN",
+      "Next.js with NestJS",
+      "Django",
+      "Flask",
+      "RESTful API",
+      "PostgreSQL"
+    ],
+    "soft_skills": [
+      "Active Listener",
+      "Problem-Solving",
+      "Adaptability",
+      "Teamwork",
+      "Critical Thinking"
+    ],
+    "name": "NAMAN GUPTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor Of Computer Science"
+}

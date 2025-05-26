@@ -1,0 +1,163 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Disha Goel",
+  "college": "KIET Group of Institutions affiliated to Dr. APJ Abdul Kalam Technical University",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Programming Master Course",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to SQL",
+        "issuer": "SimpliLearn",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions affiliated to Dr. APJ Abdul Kalam Technical University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.8",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "CBSE",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "97.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "F.R.I.E.N.D.S",
+        "description": "Developed a fully functional chat application with real-time messaging capabilities. Used Firebase Firestore to store and retrieve chat messages in real time. Implemented user authentication system allowing users to register and log in securely.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "ReactJS",
+          "Firebase Firestore",
+          "Firebase Authentication"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Voting App",
+        "description": "Implemented full-stack solutions using Django to develop the core functionalities of the online voting app. Designed and optimized the database schema using PostgreSQL, ensuring efficient storage and retrieval of voter information while maintaining data integrity.",
+        "keywords": [
+          "Python",
+          "Django",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "PostgreSQL",
+          "Javascript"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full Stack Web Development Intern",
+        "skillsUsed": [
+          "Django",
+          "PostgreSQL",
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "Apr 2024",
+        "company_name": "EY Global Delivery Services in collaboration with AICTE",
+        "description": "Completed a 6-week internship as part of the Next Gen Employability Program 2023-24, focusing on Full Stack Web Development. Designed and developed a robust online voting application from scratch using the Django framework. Implemented features such as user authentication, candidate management, voting interface and results display.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      },
+      {
+        "role_name": "Google Developer Student Clubs Coordinator",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "KIET",
+        "description": "Led a diverse team of members in planning and executing technical projects and events. Facilitated collaboration and communication within the team to ensure successful project outcomes. Organized workshops, hackathons, and meetups to foster learning and skill development among club members.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Javascript",
+      "Python",
+      "SQL",
+      "Data Structures and Algorithms (DSA)",
+      "Object Oriented Programming (OOPS)",
+      "DataBase Management Systems (DBMS)",
+      "Operating Systems (OS)",
+      "Django",
+      "PostgreSQL",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Git",
+      "Github",
+      "React",
+      "UI/UX",
+      "Figma",
+      "Visual Studio"
+    ],
+    "soft_skills": [],
+    "name": "Disha Goel",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 5th rank in Computer Science and Engineering Department with 8.8 CGPA.",
+      "Solved 250+ questions on Leetcode and GFG."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

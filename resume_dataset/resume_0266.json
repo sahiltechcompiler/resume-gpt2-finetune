@@ -1,0 +1,107 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Inderpreet Singh",
+  "college": "Guru Tegh Bahadur Institute of Technology",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "endDate": "June. 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.64",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Voting Decentralized Application",
+        "description": "Developed a secure voting Dapp using Solidity, React, Node.js, Express.js MongoDB for transparent verifiable elections. Integrated Ethereum blockchain functionality with Solidity smart contracts to ensure transparent and secure voting processes. Integrated MetaMask for seamless user authentication and transaction management, ensuring a user-friendly and secure voting experience.",
+        "keywords": [
+          "React",
+          "Solidity",
+          "Express",
+          "Mongodb",
+          "Nodejs"
+        ],
+        "endDate": "Nov. 2020",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Blogging Application",
+        "description": "Created a full stack web application using react as frontend, Cloudflare as backend and Postgres as database. Implemented features as user authentication through jwt, blog creation etc. Used Prisma as ORM, with connection pooling with Postgres as the database. Used Zod as the validation library, type inference for the frontend.",
+        "keywords": [
+          "Typescript",
+          "React",
+          "Cloudflare",
+          "Postgress",
+          "Prisma",
+          "Jwt"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sudoku Solver",
+        "description": "Developed a Sudoku solver application using HTML, CSS, and JavaScript, employing algorithms to efficiently solve puzzles of varying difficulty levels. Implemented a user-friendly interface allowing input, visualization, and solution display, enhancing user experience and engagement.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Live Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Javascript",
+      "TypeScript",
+      "Solidity",
+      "HTML",
+      "CSS",
+      "Nodejs",
+      "Express",
+      "React",
+      "Tailwind CSS",
+      "Git",
+      "Docker",
+      "Cloudflare",
+      "Blockchain",
+      "Vercel",
+      "Mongodb",
+      "PostgreSQL",
+      "Prisma"
+    ],
+    "soft_skills": [],
+    "name": "Inderpreet Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Published a research paper titled Exploring Blockchain In Voting Systems.",
+      "Presented paper in 2nd International Conference on Artificial Intelligence and Applications 2024 (ICAIA).",
+      "Secured funding for future research from Springer.",
+      "Solved 300+ problems on Geeksforgeeks"
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

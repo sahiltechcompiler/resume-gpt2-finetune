@@ -1,0 +1,195 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Sandip Bhande",
+  "college": "KJEI Trinity Collage of Engineering",
+  "locations": [
+    "Pune",
+    "India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ReactJS",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Linux",
+        "issuer": "Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NodeJS with Express & MongoDB",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advanced ReactJS",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "C++",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Command Line in Microsoft cloud computing Classroom",
+        "issuer": "Microsoft",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KJEI Trinity Collage of Engineering",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "BTECH",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.5",
+        "field_of_study": "Computer engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Sinhgad city school",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "7.2",
+        "field_of_study": "Science - PCM",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Docter-Appointment",
+        "description": "Developed a Doctor Appointment application utilizing HTML, CSS, JavaScript, PHP, and MySQL. Integrated a user authentication system, including login and signup pages, using HTML, CSS, JavaScript, and MySQL for data storage. Designed and implemented a comprehensive dashboard with features such as scheduling appointments and accessing patient details.",
+        "keywords": [
+          "css",
+          "Javascript",
+          "php",
+          "mysql",
+          "html"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "Jan 2022",
+        "url": ""
+      },
+      {
+        "name": "Movie Clone with Api",
+        "description": "Developed a Movie API application utilizing React.js, HTML, CSS, JavaScript, and REST API. Created a user-friendly interface for managing movie data, including features for browsing and searching. Implemented functionality to fetch the latest movie data and organize it within the applications home page. Managed database operations and integrated new modules with existing ones to ensure seamless functionality.",
+        "keywords": [
+          "Reactjs",
+          "css",
+          "Rapid Api",
+          "html"
+        ],
+        "endDate": "Jan 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bus PMPL Pune",
+        "description": "Developed a scalable and performant bus ticketing application using React.js, Tailwind CSS, and JavaScript. Implemented validation for the login page and enhanced the user interface of the home page. Integrated QR code authentication and Stripe for secure payment processing. Significantly reduced server processing load by 50% through efficient QR code scanning implementation and optimization.",
+        "keywords": [
+          "Reactjs",
+          "Javascript",
+          "taliwadcss",
+          "Css",
+          "html"
+        ],
+        "endDate": "March 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Crime Predication with machine Learning",
+        "description": "Developed a crime prediction system using machine learning techniques in Python. Utilized libraries such as NumPy, Pandas, and Matplotlib for data processing and visualization. Implemented predictive models to forecast crime occurrences based on historical data. Enhanced the accuracy and performance of the prediction system through iterative testing and optimization.",
+        "keywords": [
+          "Python",
+          "numpy",
+          "Pandas",
+          "matplotlib"
+        ],
+        "endDate": "April 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "",
+        "skillsUsed": [],
+        "endDate": "11/2023 - Present",
+        "company_name": "Intersavy",
+        "description": "Developed a weather API app utilizing HTML, JavaScript, and CSS. Also learn more thing and make more small project. Integrated GitHub and LinkedIn APIs to gather data from user repositories.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "Reactjs",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "PostgreSQL",
+      "taliwadcss"
+    ],
+    "soft_skills": [],
+    "name": "Sandip Bhande",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 0.0,
+  "experience_count": 1.0,
+  "degree": "BTECH"
+}

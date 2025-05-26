@@ -1,0 +1,130 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Developer",
+  "name": "Shubham Kadam",
+  "college": "A C Patil College Of Engineering",
+  "locations": [
+    "Mumbai",
+    "Thane"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "A C Patil College Of Engineering",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "BE",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.4 cgpa",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Government Polytechnic",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "Mumbai",
+        "ID": 1.0,
+        "grade_received": "74.80 %",
+        "field_of_study": "Computer Engineering",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Voice-Enabled News Scraper",
+        "description": "Developed a system for voice-activated retrieval and summarization of news articles using html, CSS, and NextJS Framework. Utilized voice recognition and NLP for spoken command processing. Ensured real-time updates and personalized news content, reducing information retrieval time by 50%. Focused on accuracy, reliability, and user data privacy, adhering to ethical and legal standards.",
+        "keywords": [
+          "Python",
+          "HTML",
+          "CSS",
+          "Java Script",
+          "NextJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SysMocap",
+        "description": "Developed SysMocap, a cross-platform, real-time motion capture system for 3D virtual character animation on Windows, macOS, and Linux. Achieved a user-friendly GUI and integrated WebXR API compatibility. Utilized Mediapipe and Kalidokit for full-body motion capture and auto skeleton detection. Achieved full-body motion capture by 85%, auto skeleton detection by 80%, hardware efficiency 90%.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Pricewise",
+        "description": "Developed an e-commerce product scraping site using Next.js and Bright Data's webunlocker. Designed to assist users in making informed decisions by notifying them when a product drops in price. Implemented functionality to alert competitors when the product is out of stock, managed through cron jobs.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web development Virtual internship",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Git"
+        ],
+        "endDate": "July 2023",
+        "company_name": "CSRBOX",
+        "description": "Developed and maintained web applications using HTML, CSS, and JavaScript to enhance user experience. Utilized Git for version control and participated in code reviews to ensure code quality and consistency.",
+        "location": "Mumbai",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "Android App Developer Intern",
+        "skillsUsed": [
+          "JAVA",
+          "Android Studio"
+        ],
+        "endDate": "June 2019",
+        "company_name": "APPDID INFOTECH",
+        "description": "Collaborated on feature development using JAVA and Android Studio. resolved bugs and conducted unit testing. Contributed to code reviews and maintained quality. Assisted in app deployment and problem-solving. Communicated effectively within cross-functional teams.",
+        "location": "Thane",
+        "links": "",
+        "startDate": "May 2019"
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "Java Script",
+      "MS SQL Server",
+      "Node JS",
+      "Next JS",
+      "Electron Js"
+    ],
+    "soft_skills": [
+      "Multitasking",
+      "Observation",
+      "Decision making"
+    ],
+    "name": "Shubham Kadam",
+    "position": "Web Developer",
+    "interests": [
+      "Gaming",
+      "Hiking",
+      "Learning Languages (currently learning Japanese)"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 2.0,
+  "degree": "BE"
+}

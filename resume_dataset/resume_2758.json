@@ -1,0 +1,147 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Shivam Agarwal",
+  "college": "SRM University-AP, Andhra Pradesh",
+  "locations": [
+    "Remote - Singapore Based",
+    "Amaravathi, Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University-AP, Andhra Pradesh",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.86",
+        "field_of_study": "Computer Science and Engineering (Cloud Computing & Minor in Management)",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Xaviers School, Nevta - Jaipur",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "85.6%",
+        "field_of_study": "CBSE - AISSCE",
+        "startDate": ""
+      },
+      {
+        "school": "St. Xaviers School, Nevta - Jaipur",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "94%",
+        "field_of_study": "CBSE - AISSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Crop Prediction and Monitoring System",
+        "description": "Received a grant of 1 lakh rupees while collaborating with senior mentors on the project, demonstrating the projects potential. Implemented features such as user authentication, weather data integration, and crop recommendation using RF Classifier. Leveraged a real-time database Firebase to display sensor data (N, P, K, pH) on a dashboard and also utilized Chart.js for data visualization, providing a clear and informative representation of agricultural metrics.",
+        "keywords": [
+          "Nodejs",
+          "MongoDB",
+          "Open Weather API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Realtime Collaborative Document Editing Webapp (noteit)",
+        "description": "Architected and deployed a robust SaaS platform, enabling seamless user sign-up, workspace creation, and real-time file editing. Implemented real-time collaboration features, allowing concurrent editing and selection by multiple users within the same document, boosting team productivity by 40%.",
+        "keywords": [
+          "Tailwind",
+          "Supabase",
+          "Sockets"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github Link"
+      },
+      {
+        "name": "Serverless Email Marketing Application Architecture",
+        "description": "Deployed various AWS Services to build a system to send emails on a schedule, grabbing HTML email templates and a list of contacts from an S3 bucket, used to send 10k+ emails/hour.",
+        "keywords": [
+          "AWS Simple Email Service (SES)",
+          "EventBridge",
+          "S3",
+          "Lambda",
+          "Identity & Access Management (IAM)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Product Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Cashvisory Pvt Ltd",
+        "description": "Spearheaded the development and launch of a mobile app version of Cashvisorys financial advisory platform, projected to cater to 17,000+ users in one year. Revamped the user onboarding experience using adaptive design principles and actionable insights, resolved major user challenges and expanding the user base by 8% in the first quarter.",
+        "location": "Remote - Singapore Based",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "UI/UX Designer",
+        "skillsUsed": [],
+        "endDate": "Dec 2022",
+        "company_name": "Hatchlab Research Center",
+        "description": "Transformed the User Interface and Experience of the Hatchlab Research Centres Website spanning over 47+ pages, boosting User Engagement and higher click rates while also crafted compelling graphics, delivering about 70+ graphics each month.",
+        "location": "Amaravathi, Andhra Pradesh",
+        "links": "",
+        "startDate": "May 2022"
+      }
+    ],
+    "skills": [
+      "C/C++ STL",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "Express.js",
+      "RESTful APIs",
+      "MongoDB",
+      "MySQL",
+      "AWS Cloud",
+      "Google Cloud Platform",
+      "Git",
+      "GitHub",
+      "TCP/IP",
+      "Adobe Creative Suite",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Shivam Agarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "AIR 570, SRMJEE 2021",
+      "100% Scholarship on Tuition Fees, SRM University-AP",
+      "Xavierite of the Year 2019, St. Xaviers School, Nevta"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "BTech"
+}

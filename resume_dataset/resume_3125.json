@@ -1,0 +1,125 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Swapna Gupta",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, UP",
+    "Delhi-NCR, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.8 CGPA",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      },
+      {
+        "school": "SRB Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "83.8%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Universal Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "78.9%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Road Lane Line Detection",
+        "description": "Developed a system for detecting road lane lines in real-time using machine learning techniques. Collected and pre-processed image datasets for training and testing the model. Implemented image processing techniques such as edge detection, color filtering, and perspective transformation. Developed and trained convolutional neural networks (CNNs) for lane detection. Evaluated model performance using metrics like accuracy, precision, and recall. Integrated the lane detection model with a real-time video feed to detect lane lines. Collaborated with team members to optimize the model and improve detection accuracy.",
+        "keywords": [
+          "Machine Learning"
+        ],
+        "endDate": "Present",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fast Food Website",
+        "description": "Designed and implemented the front-end interface using HTML, CSS, and React. Developed back-end services and RESTful APIs using Node.js and Express. Integrated MongoDB for storing user data, orders, and menu items. Implemented user authentication and authorization using JWT. Created a responsive design to ensure compatibility across various devices. Conducted usability testing to improve user experience and interface design.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React"
+        ],
+        "endDate": "June 2024",
+        "startDate": "May 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "ServiceNow System Administrator - Intern",
+        "skillsUsed": [],
+        "endDate": "06/2025",
+        "company_name": "ServiceNow",
+        "description": "One-month internship focused on Certified System Administration (CSA) within the ServiceNow platform. Immersed in hands-on learning, mastering essential CSA concepts and techniques. Equipped with a solid foundation in CSA, ready to apply knowledge in real-world scenarios.",
+        "location": "Ghaziabad, UP",
+        "links": "",
+        "startDate": "11/2021"
+      },
+      {
+        "role_name": "Front End Developer - Intern",
+        "skillsUsed": [],
+        "endDate": "06/2023",
+        "company_name": "IBM SkillsBuild",
+        "description": "Worked on front-end development using technologies like HTML, CSS, JavaScript, and frameworks such as React. I worked on real-world projects, collaborated with experienced developers, and received personalized mentorship. Collaborated with team members using version control systems such as Git to organize modifications and assign tasks.",
+        "location": "Delhi-NCR, India",
+        "links": "",
+        "startDate": "05/2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Bootstrap",
+      "ReactJs",
+      "WordPress",
+      "Tailwind CSS"
+    ],
+    "soft_skills": [
+      "Time management",
+      "Organizational skills",
+      "Negotiation",
+      "Communication skills"
+    ],
+    "name": "Swapna Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Science"
+}

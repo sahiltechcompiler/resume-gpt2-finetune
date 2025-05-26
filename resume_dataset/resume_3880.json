@@ -1,0 +1,142 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Shashwat",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Gurugram, Haryana"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.9",
+        "field_of_study": "CSE(AI&ML)",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "KIET Kaksha",
+        "description": "A handy app for faculties of KIET. App features marking, updating, and deleting student attendance, checking individual attendance, giving remarks, and accessing a KIET directory with teacher contacts.",
+        "keywords": [
+          "React Native"
+        ],
+        "endDate": "Present",
+        "startDate": "December, 2023",
+        "url": ""
+      },
+      {
+        "name": "MobiKiet",
+        "description": "A handy app for students of KIET. App provides features such as attendance tracking, examination schedules, marks monitoring, etc. Deployed iOS version to Apple AppStore.",
+        "keywords": [
+          "React Native"
+        ],
+        "endDate": "Present",
+        "startDate": "July, 2022",
+        "url": ""
+      },
+      {
+        "name": "django-sslserver-v2",
+        "description": "It is a clone of django-sslserver. It supports latest version of Django and Python. It was aimed at fixing major bugs which broke the previous package in Python 3.12.",
+        "keywords": [
+          "Python"
+        ],
+        "endDate": "October, 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Timter",
+        "description": "Open source alternative of Twitter(Clone). App provides user registration, profile building, interaction with other users, etc.",
+        "keywords": [
+          "React Native",
+          "Django"
+        ],
+        "endDate": "February, 2023",
+        "startDate": "November, 2022",
+        "url": ""
+      },
+      {
+        "name": "react-native-otp-textinput",
+        "description": "Contributed in this open source project to fix bug(s). The library has 6K+ weekly downloads.",
+        "keywords": [
+          "React Native"
+        ],
+        "endDate": "September, 2022",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "App & Backend Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Team ERP, KIET",
+        "description": "An in-house system for our college completely managed by students. Everything right from SRS discussions to development life cycle to deployment was done by us. I am lucky to be a part of the team where I work as a App & Backend Developer currently. I also have a good experience in working in a team and handling responsibilities with deadlines.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "April, 2022"
+      },
+      {
+        "role_name": "Backend Developer, DevOps",
+        "skillsUsed": [],
+        "endDate": "December, 2022",
+        "company_name": "Chemin eSports",
+        "description": "Developed the companys official website backend using Django that led to companys advancement. Handled the DevOps part as well.",
+        "location": "Gurugram, Haryana",
+        "links": "",
+        "startDate": "August, 2022"
+      }
+    ],
+    "skills": [
+      "Typescript",
+      "JavaScript",
+      "Python",
+      "Linux",
+      "VS Code",
+      "Git",
+      "Docker",
+      "Cloudfare",
+      "Gitlab",
+      "Commitlint",
+      "React Native",
+      "RePack",
+      "React Native Elements",
+      "React Native ReAnimated",
+      "NativeWind",
+      "React",
+      "NextJS",
+      "Tailwind",
+      "MySQl",
+      "Django",
+      "Nginx",
+      "Apache",
+      "ThreeJS"
+    ],
+    "soft_skills": [],
+    "name": "Shashwat",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Received an invitation to the exclusive Google Foobar program, a discreet invitation-only hiring process.",
+      "Hackathon Winner / Endeavour22 Oraganized by E-Cell of KIET"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors of Technology"
+}

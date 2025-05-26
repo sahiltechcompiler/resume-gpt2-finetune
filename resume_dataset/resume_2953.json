@@ -1,0 +1,167 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SHRUTI MHAN SAHAY",
+  "college": "Shah and Anchor Kutchhi Engineering College",
+  "locations": [
+    "Mumbai-88",
+    "Bhandup(W) Mumbai:78"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advanced Excel & Word",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL from A-EIT",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "SQL Fundamentals from Microsoft",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud Computing and Amazon Web Services (AWS) Fundamentals from Udemy",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript Complete Course from Udemy",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python from Udemy",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and Anchor Kutchhi Engineering College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.E.",
+        "location": "Mumbai-88",
+        "ID": 0.0,
+        "grade_received": "6.75",
+        "field_of_study": "Information Technology Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "K.J Somaiya Polytechnic",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "85.6%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Guru Nanak School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "42%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "AIRLINE RESERVATION SYSTEM",
+        "description": "Created a python based Web App, which allows users to enquire/book/cancel domestic airline tickets. Used MySQL database for storing flight, user, booking data and Tkinter to create user friendly interface. Used python libraries like Tkinter, mysql.connector, email.mime.text, twilio.rest and SMS service Twilio.",
+        "keywords": [
+          "Python",
+          "MySQL",
+          "Tkinter",
+          "Twilio"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "APTITUDE PRACTICE APPLICATION",
+        "description": "Built a Python based app allowing users to test their aptitude and programming knowledge via short MCQ tests. Created a excel database to keep records of users, tests, scores and set up a mailing system which emails the users their test reports. Used python modules like OpenPyXL, Pathlib, Threading, email.mime.text, email.mime.multipart.",
+        "keywords": [
+          "Python",
+          "Excel",
+          "OpenPyXL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TEMPERATURE MONITORING SYSTEM",
+        "description": "Built a Refrigerator Temperature Monitoring System which alerts the user incase of temperature drop. Worked with a team of 2 and used technologies like Bolt Esp8266 Wifi Module, Javascript, Twilio, Mailgun. My responsibilities included assembling hardware and attaching it to the refrigerator for maximum functioning efficiency.",
+        "keywords": [
+          "Bolt Esp8266",
+          "Javascript",
+          "Twilio"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "MySQL",
+      "Tkinter"
+    ],
+    "soft_skills": [],
+    "name": "SHRUTI MHAN SAHAY",
+    "position": "",
+    "interests": [
+      "Dancing",
+      "Drawing",
+      "Painting"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.E."
+}

@@ -1,0 +1,234 @@
+{
+  "project_count": 5.0,
+  "designation": "Student",
+  "name": "Nishit Shukla",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Indore, Madhya Pradesh"
+  ],
+  "full_output": {
+    "summary": "My adaptability and eagerness to learn and a relentless drive to push boundaries make me a valuable asset in any team setting, and I am eager to leverage these qualities to drive impactful initiatives.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Analysis and Algorithms",
+        "issuer": "NPTEL (IITM)",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Bits and Bytes of Computer Networking",
+        "issuer": "google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Technical Support Fundamentals",
+        "issuer": "google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "IT Security: Defense against the digital dark arts",
+        "issuer": "google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Operating Systems and You: Becoming a Power User",
+        "issuer": "google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "System Administration and IT Infrastructure Services",
+        "issuer": "google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Supervised Machine Learning",
+        "issuer": "Stanford University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advanced M.L. Algorithm",
+        "issuer": "Stanford University",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Unsupervised Machine Learning",
+        "issuer": "Stanford University",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "05/2025",
+        "maximum_grade": "",
+        "degree": "B. Tech.",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "11/2021"
+      },
+      {
+        "school": "G.D. Goenka Public School",
+        "endDate": "10/2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Certificate (HSC) and Matriculation",
+        "location": "Indore, Madhya Pradesh",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Thoutghts",
+        "description": "A Blog Application built using Backend ( Spring boot , Java), Database(MySQL) and Frontend (Thymeleaf, HTML, CSS, JS). It consists of various springboot functions i.e. Spring Security, Validation in Login, Signup pages, Main Page consisting of blogs of all users on the app, Add Blog,User's Profile, User's Blogs, Like, Comment, Delete Blogs etc.",
+        "keywords": [
+          "Spring boot",
+          "Java",
+          "MySQL",
+          "Thymeleaf",
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Data-driven multi-step prediction and analysis of monthly rainfall using deep learning",
+        "description": "Used various ML Algorithms, Regression Models, and Python Libraries to predict rainfall in an area and improved prediction accuracy to 85% using various datasets and representing them graphically.",
+        "keywords": [
+          "ML Algorithms",
+          "Regression Models",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "The Spice",
+        "description": "A Webpage for a restaurant including Menu, About the restaurant, Contact details, Order Now etc. using HTML, CSS, JS.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Big Data Analytics at the ISRO Advanced Supercomputing Facility",
+        "description": "Researched on Big Data Analysis and challenges faced by ISRO.",
+        "keywords": [
+          "Big Data",
+          "ISRO"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Google's Battle with Privacy Concerns",
+        "description": "Discussed various events and problems faced by Google in Privacy.",
+        "keywords": [
+          "Google",
+          "Privacy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English Full Professional Proficiency",
+      "Hindi Native or Bilingual Proficiency"
+    ],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [
+          "Spring Boot"
+        ],
+        "endDate": "06/2024",
+        "company_name": "Shiavnski Technology Inc.",
+        "description": "Being a part of Shiavnski Tech INC I gained experience with Spring Boot, a powerful framework for building Java-based applications.",
+        "location": "Indore",
+        "links": "",
+        "startDate": "04/2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C++",
+      "Springboot",
+      "HTML",
+      "CSS",
+      "JS",
+      "Angular",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Python",
+      "Git",
+      "Rest API",
+      "Jenkins"
+    ],
+    "soft_skills": [],
+    "name": "Nishit Shukla",
+    "position": "Student",
+    "interests": [
+      "Football",
+      "Gaming",
+      "Music",
+      "Photography"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech."
+}

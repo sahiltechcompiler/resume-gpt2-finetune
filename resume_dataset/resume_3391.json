@@ -1,0 +1,104 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Developer",
+  "name": "Tushar Chaudhary",
+  "college": "Guru Tegh Bahadur Insitute of Technology",
+  "locations": [
+    "Canada",
+    "New Delhi,India"
+  ],
+  "full_output": {
+    "summary": "MERN stack developer skilled in building dynamic web applications using MongoDB, Express.js, ReactJS, and Node.js. Proficient in Next.js for server-side rendering and performance optimization. Adept at creating secure authentication systems, managing cloud databases and implementing RESTFUL APIs. Committed to delivering robust, scalable, user-friendly solutions with a strong track record of successful project completion.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Rocket Propulsion and Spacecraft Dynamics",
+        "issuer": "Indian Space Research Organization Management Guru Tegh Bahadur Institute of Technology",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Insitute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi,India",
+        "ID": 0.0,
+        "grade_received": "8.805",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "TextUtils",
+        "description": "Enhanced user experience with live preview and word count. Developed text manipulation functions for efficiency. Programmed customizable background color feature with TextUtils.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/tushar12357/TextUtils"
+      },
+      {
+        "name": "News Wizard",
+        "description": "Learned about using React.js along with news API. This website extracts news from the API in real time and shows it to the user. Its features include: infinite scrolling, distinguishing news according to genres like- science, sports etc.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/tushar12357/News-Wizard"
+      },
+      {
+        "name": "Zwigato",
+        "description": "Enable secure sign-up and login. Users can browse food items, add them to their cart, and manage selections before placing orders. Securely store user data and orders in a MongoDB cloud database. Users can view order history, track orders, and receive real-time updates. Utilize ReactJS for a seamless user experience. The responsive design ensures compatibility across devices, providing a consistent interface for browsing, ordering, and managing account details.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/tushar12357/Zwigato"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer",
+        "skillsUsed": [],
+        "endDate": "February 2024",
+        "company_name": "Dimitra",
+        "description": "Contributed to the development of the company's website by designing the user interface for the new land suitability component. Facilitated seamless integration of the API with the designed UI. Additionally, provided support in debugging existing projects to enhance their performance and functionality.",
+        "location": "Canada",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "Full Stack Web Developement: HTML",
+      "CSS",
+      "Bootstrap",
+      "Javascript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Next.js",
+      "MongoDB",
+      "RESTFUL APIs",
+      "Programming Languages: C++",
+      "Python",
+      "Database: MySQL"
+    ],
+    "soft_skills": [],
+    "name": "Tushar Chaudhary",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Was part of the core team in organizing the college tech fest 'SANCHAAR'"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

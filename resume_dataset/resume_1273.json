@@ -1,0 +1,143 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "RITIK TIWARI",
+  "college": "Guru Tegh Bahadur Institute Of Technology (GGSIPU)",
+  "locations": [
+    "India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Data Analytics Professional Certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Microsoft Power BI Desktop for Business Intelligence",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Science & Machine learning",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute Of Technology (GGSIPU)",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Electronics and Communication",
+        "location": "India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.7",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "Kamal Model Senior Secondary School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "CBSE (Class XII)",
+        "location": "India",
+        "ID": 1.0,
+        "grade_received": "Aggregate:81.8%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Kamal Model Senior Secondary School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "CBSE (Class X)",
+        "location": "India",
+        "ID": 2.0,
+        "grade_received": "Aggregate: 92.2%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "MUSHROOM CLASSIFICATION",
+        "description": "Design and implement a machine learning classification model to discern the edibility of mushrooms, distinguishing between edible and poisonous varieties. The model is built upon 22 attributes including root, shape, color, and others. Use Random Forest Classifier (with 99.7% accuracy) to train the model, make its GUI for better understanding.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "github.com/ritiktiwarri/Mushroom-Classification"
+      },
+      {
+        "name": "SALES DISTRIBUTION DASHBOARD",
+        "description": "Designed and developed a visually engaging and informative dashboard utilizing Power BI, showcasing crucial metrics including sales, revenue, and inventory levels. Empowered end-users to make informed, data-driven decisions. Crafted a comprehensive dashboard using PowerBI to present key metrics and insightful visualizations for enhanced data analysis and decision-making. Cleaned and transformed data using Power Query Editor in Power BI to remove missing values, duplicates, and outliers, Analyze a data model using Power Pivot in Power BI to organize and analyze data from different sources.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/ritiktiwarri/SALES-DASHBOARD"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "RESEARCH INTERN",
+        "skillsUsed": [],
+        "endDate": "Aug23",
+        "company_name": "SIDALCEAS EDUTECH",
+        "description": "Played an integral role in formulating marketing strategies grounded in data-driven insights, resulting in a notable 10% enhancement in overall campaign performance. Engineered intricate Excel models to forecast sales trends and monitor key performance indicators, culminating in a remarkable 25% surge in sales conversion rates. Dedicated efforts to crafting 75% of the documentation and user guides for the product.",
+        "location": "",
+        "links": "",
+        "startDate": "May23"
+      },
+      {
+        "role_name": "DATA SCIENCE INTERN",
+        "skillsUsed": [],
+        "endDate": "Mar23",
+        "company_name": "YBI",
+        "description": "Collaborated extensively with the development team to offer constructive feedback aimed at enhancing the product's functionality and performance. Gained proficiency and expertise in regression and classification algorithms. Executed projects encompassing credit card fraud detection and gold price prediction.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan23"
+      }
+    ],
+    "skills": [
+      "C++",
+      "MySQL",
+      "Excel",
+      "Power Bi",
+      "Data Analytics",
+      "DBMS",
+      "Project Management",
+      "Ms-office",
+      "Market Research",
+      "Data Science"
+    ],
+    "soft_skills": [],
+    "name": "RITIK TIWARI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "2nd Position in inter school Zonal Competition",
+      "got local cleanliness award for being a consistent participator in Swach Mohalla Drives"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Electronics and Communication"
+}

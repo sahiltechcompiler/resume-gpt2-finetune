@@ -1,0 +1,98 @@
+{
+  "project_count": 3.0,
+  "designation": "Frontend Intern",
+  "name": "Azhad Batt",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information and Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "CRYPTO-TRACKER",
+        "description": "Led the development and deployment of Crypto-X, a comprehensive web application for tracking and analyzing cryptocurrency trends, ensuring real-time data accuracy and user-friendly design.",
+        "keywords": [
+          "React",
+          "css",
+          "Chakra-ui"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub Live"
+      },
+      {
+        "name": "CHROME-EXTENSION",
+        "description": "Designed and deployed a Chrome extension for displaying random dad jokes, enhancing user engagement and entertainment while browsing. Managed the projects front-end using HTML, CSS, and JavaScript, ensuring seamless integration with the Chrome browser and maintaining user-friendly functionality.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "3D-SHIRT MODEL",
+        "description": "Developed an interactive 3D model viewer using Three.js and React, allowing users to customize 3D shirts in real-time. Deployed the project on Vercel, ensuring smooth performance and accessibility, while integrating Tailwind CSS for a responsive and visually appealing design.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS(Tailwindcss, Material UI)",
+          "Javascript",
+          "Reactjs",
+          "Redux",
+          "Nextjs",
+          "Express",
+          "Nodejs",
+          "Framer-Motion"
+        ],
+        "endDate": "January 2024",
+        "company_name": "Robocraftlabs.com",
+        "description": "Developed a fully functional website from scratch using React, including components, state management, and user interactions. Add many features like Newsletter integration and whatsapp integration.",
+        "location": "",
+        "links": "",
+        "startDate": "November 2023"
+      }
+    ],
+    "skills": [
+      "Git and Github",
+      "Problem Solving Skill",
+      "Vs code",
+      "Computer Vision",
+      "firebase"
+    ],
+    "soft_skills": [],
+    "name": "Azhad Batt",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "chess team lead (2022-2023)",
+      "GDSC group member (2022-2023)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

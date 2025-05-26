@@ -1,0 +1,146 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Vatsal Agarwal",
+  "college": "Vellore Institute of Technology",
+  "locations": [
+    "Bengaluru",
+    "Remote, New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "MERN Full Stack Developer",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Meta Front-End Developer Specialization",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Event Manager and Social Media Coordinator at Bit-by-Bit Club, successfully organized and managed over 10 events, enhancing engagement and visibility."
+    ],
+    "education": [
+      {
+        "school": "Vellore Institute of Technology",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.71",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MyKicks",
+        "description": "Engineered MyKicks, an E-Commerce web application using React.js and Node.js, integrating Stripe API for secure transactions, which supported payments from over 8 card brands. Enhanced the platforms performance and scalability through optimized state management and effective REST API integration.",
+        "keywords": [
+          "HTML",
+          "TailwindCSS",
+          "JavaScript",
+          "Vite+React.js",
+          "React Redux",
+          "Stripe API",
+          "Node.js",
+          "Express"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://mykicks.vercel.app"
+      },
+      {
+        "name": "PitchPassta",
+        "description": "Developed PitchPassta, a community-driven football forum, utilizing the MERN stack to enable real-time updates and user engagement features. Launched a comprehensive news section with real-time updates, establishing PitchPassta as the 1-stop destination for football enthusiasts.",
+        "keywords": [
+          "MERN Stack"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/vatsal-agarwal-20/PitchPassta"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [
+          "C# .NET",
+          "Flask",
+          "Node.js"
+        ],
+        "endDate": "Jul 2024",
+        "company_name": "Anheuser Busch InBev",
+        "description": "Resolved over 20+ critical issues and change requests across 7 products, enhancing functionality and user experience significantly. Took ownership and spearheaded critical changes in two key products, driving approximately 25% cost savings in one, optimizing resource allocation and enhancing project efficiency. Engineered a reusable file upload microservice with integrated virus scanning and Azure Blob Storage management, enhancing security and reducing potential threats by 35%, while ensuring seamless integration and scalability across multiple applications. Built and maintained projects using diverse technologies, including C# .NET, Flask, and Node.js, showcasing versatility in software development across projects impacting over 9000 users.",
+        "location": "Bengaluru",
+        "links": "",
+        "startDate": "Jan 2024"
+      },
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "React.js",
+          "Node.js"
+        ],
+        "endDate": "Dec 2022",
+        "company_name": "Energy Efficiency Services Limited",
+        "description": "Developed a robust PMS module using React.js, and Node.js for the internal E-begin platform, benefiting 530+ employees across 18+ departments by optimizing task management. Integrated REST APIs into the UI, enhancing the platforms responsiveness and streamlining data flow. Streamlined communication and task management processes, resulting in a more cohesive and efficient operational environment, decreasing email traffic by 20%.",
+        "location": "Remote, New Delhi",
+        "links": "https://github.com/vatsal-agarwal-20/eesl",
+        "startDate": "Oct 2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "MySQL",
+      "C# .NET",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Bootstrap",
+      "Vite",
+      "Redux",
+      "Typescript",
+      "TailwindCSS",
+      "Git",
+      "Microsoft Azure",
+      "Azure DevOps",
+      "SQL Server Management Studio",
+      "MongoDB",
+      "Postman",
+      "Visual Studio"
+    ],
+    "soft_skills": [],
+    "name": "Vatsal Agarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured a global rank of 1269 out of 19k+ participants in Leetcode Biweekly Contest 117.",
+      "Solved 600+ problems on LeetCode and ranked in the top 14.15% of users globally.",
+      "Secured 2nd Place in Geek Week Local among 650+ students."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

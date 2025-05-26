@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Potti NVSS Avinash",
+  "college": "SRM University",
+  "locations": [
+    "AP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "AP",
+        "ID": 0.0,
+        "grade_received": "8.94 CGPA",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Sri Sarada Junior College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "AP",
+        "ID": 1.0,
+        "grade_received": "9.88 CGPA",
+        "field_of_study": "",
+        "startDate": "2017"
+      },
+      {
+        "school": "NRIs Indian Springs EM HS",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "AP",
+        "ID": 2.0,
+        "grade_received": "10 GPA",
+        "field_of_study": "",
+        "startDate": "2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Plant Leaf disease Detection",
+        "description": "Implemented a Convolutional Neural Network (VGG16) to detect the leaf disease using PlantVillage dataset from Kaggle website. Trained and predicted the model and got an accuracy of 95%.",
+        "keywords": [
+          "Deep Learning",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Loan Management System",
+        "description": "Developed a website where the clients could apply for loans. The Administrator analyzes the submitted documents and issues the loan. After the verification of the documents the loan amount is added to their account.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Railway Reservation System",
+        "description": "Designed a website where passengers can check all the available trains and book the ticket. Created a database which has 2 tables to store all the details of the trains and the details of the passengers.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "Django",
+          "Sqlite"
+        ],
+        "endDate": "07/2021",
+        "company_name": "APSSDC",
+        "description": "Designed a website for users where they could schedule an appointment and check the status of their appointments. Implemented technologies are HTML, CSS, Bootstrap, Django and Sqlite.",
+        "location": "",
+        "links": "",
+        "startDate": "06/2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "Java",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "PHP",
+      "MySQL",
+      "Numpy",
+      "Pandas",
+      "Matplotlib",
+      "Scikit-learn"
+    ],
+    "soft_skills": [],
+    "name": "Potti NVSS Avinash",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

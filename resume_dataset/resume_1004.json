@@ -1,0 +1,200 @@
+{
+  "project_count": 3.0,
+  "designation": "Data Science Intern",
+  "name": "Sumedha Pandey",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Haldwani"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning A-Z: AI, Python & R + ChatGPT Bonus",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DFo Database Foundations Learner - English Course",
+        "issuer": "Oracle academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP: Programming Essentials in Python",
+        "issuer": "CISCO",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "NPTEL Design and Analysis of Algorithm",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Red Hat Certified System Administrator",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech (Hons)",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.85",
+        "field_of_study": "Computer Science (AI & ML)",
+        "startDate": "2021"
+      },
+      {
+        "school": "A.V.B.I.L",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate(XII)",
+        "location": "Haldwani",
+        "ID": 1.0,
+        "grade_received": "CGPA/% - 95.8",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "A.V.B.I.L",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Matriculation(X)",
+        "location": "Haldwani",
+        "ID": 2.0,
+        "grade_received": "CGPA/% - 96.8",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Emotion Recognition In Conversation",
+        "description": "Analyzed and accurately identified emotions in conversations using datasets such as IEMOCAP, DailyDialog, MELD, and EmoryNLP. Executed and evaluated baseline models, including DialogueRNN, DialogueGCN, COSMIC, and bc-LSTM- pyTorch, achieving 2% higher accuracy than the original research papers. Utilized Python and NLP techniques, leveraging libraries like NLTK, to enhance emotion detection and classification.",
+        "keywords": [
+          "Python",
+          "NLP",
+          "Emotion Detection"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Automatic Number Plate Recognition Model",
+        "description": "Developed an Automatic Number Plate Recognition (ANPR) system using TensorFlow and EasyOCR, trained on 350 images and tested on 150 images. Administered SSD (Single Shot Multibox Detector) architecture for improved object detection accuracy. Utilized the COCO dataset for robust training and evaluation. Attained a 92% accuracy rate.",
+        "keywords": [
+          "TensorFlow",
+          "EasyOCR",
+          "Object Detection"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Genetic Algorithm For Autonomous Vehicles",
+        "description": "Designed a feedforward neural network for a car driving simulator game entirely in Vanilla JS. Introduced a genetic algorithm to mutate intelligence and optimize car performance within each batch. Developed a best-fit algorithm using reinforcement learning to identify the best-performing car in the batch.",
+        "keywords": [
+          "Vanilla JS",
+          "Neural Network",
+          "Genetic Algorithm"
+        ],
+        "endDate": "Nov 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [
+          "Data Manipulation",
+          "Data Visualization",
+          "Machine Learning"
+        ],
+        "endDate": "Aug 2024",
+        "company_name": "Celebal Technologies",
+        "description": "Completed a 12-week data science training program, focusing on data manipulation, visualization, and analytical methods. Attended Charcha e Celebal sessions with company mentors, gaining insights into cutting-edge technologies and business operations. Animal Species Recognition: Developed and deployed a machine learning model to identify and classify animal species, applying advanced techniques in image classification and model evaluation.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jun 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "C",
+      "SQL",
+      "Git",
+      "VSCode",
+      "AI",
+      "ML",
+      "NLP",
+      "CV",
+      "DBMS",
+      "OOPS"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Teamwork"
+    ],
+    "name": "Sumedha Pandey",
+    "position": "Data Science Intern",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans list excellence in academics award",
+      "Deans List Excellence in Academics 3x | 3rd , 5th & 6th Semester"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech (Hons)"
+}

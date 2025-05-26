@@ -1,0 +1,124 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Jatin Yadav",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "Highly Diligent and Rational Software Engineer, with sharp Analytical thinking and Problem-Solving abilities. Flexible to new technologies and challenges. Seeking employment in my area of expertise. Strong command in C++, DSA, Node JS, React JS and OOPS. Adept at writing clean, reusable, and maintainable solutions.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Mastered fundamental Python syntax, proficiently utilizing control flow, loops, functions, OOPS and data structures.",
+        "skillsLearned": [],
+        "title": "Python Basics",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learned about the HTML, CSS and JavaScript Functions and build Projects.",
+        "skillsLearned": [],
+        "title": "Introduction to Web Development with HTML, CSS, JavaScript (IBM)",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learned about the uses of NoSQL Database.",
+        "skillsLearned": [],
+        "title": "Introduction to NoSQL Databases (IBM)",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "81",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "Jp Academy X, Meerut",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "80",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Spring Dales Public School XII, Mawana",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "78",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "WANDERLUST(Website)",
+        "description": "Developed and launched Wanderlust, a full-stack Airbnb-like website, utilizing Express.js for server-side logic, Node.js for backend development, and MongoDB for database management. Implemented CRUD operations for user listings, bookings, and reviews, ensuring a seamless and dynamic user experience. Integrated secure user authentication and authorization with Passport.js, enabling users to sign up, log in, and manage their profiles safely.",
+        "keywords": [],
+        "endDate": "October 2023",
+        "startDate": "September 23",
+        "url": "LINK"
+      },
+      {
+        "name": "Real-Time Chat Application",
+        "description": "Created a robust chat application with React and Firebase, facilitating real-time messaging with instant updates across multiple clients. Leveraged Firebase Firestore for efficient data storage and retrieval, delivering a seamless user experience with low latency. Incorporated Firebase Authentication to handle user sign-ups, logins, and secure access control, enhancing application security and protecting user data. Integrated OAuth providers (Google, Facebook, etc.) for streamlined authentication, improving user convenience and onboarding.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "April 24",
+        "url": "LINK"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Python",
+      "JavaScript",
+      "React JS",
+      "Express JS",
+      "Node JS",
+      "Bootstrap"
+    ],
+    "soft_skills": [
+      "Flexible",
+      "Co-operative",
+      "Team Player",
+      "Interpersonal skill"
+    ],
+    "name": "Jatin Yadav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Cul-Tech Event- 5th Position Event organized by Reboot Club.",
+      "Solving 200+ Problems on coding platforms like LeetCode, Coding Ninja, GFG.",
+      "Web Development- Certificate awarded by Coursera HTML, CSS and JavaScript.",
+      "Completed 6+ Coursera Certificates on Coursera."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B Tech"
+}

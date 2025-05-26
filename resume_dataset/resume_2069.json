@@ -1,0 +1,132 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Revanth Upadhyayula",
+  "college": "SRM University AP",
+  "locations": [
+    "Amaravati, Andhra Pradesh",
+    "Visakhapatnam, Andhra Pradesh",
+    "Vizinagaram, Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Front End development - HTML",
+        "issuer": "Great Learning Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Career Essentials in Data Analysis",
+        "issuer": "Microsoft and LinkedIn",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "BTech",
+        "location": "Amaravati, Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.13",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Visakhapatnam, Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "Percentage - 95.3%",
+        "field_of_study": "MPC",
+        "startDate": ""
+      },
+      {
+        "school": "Narayana e-Techno school",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Vizinagaram, Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "CGPA - 10.00",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "ERC20 Token generator and transfer Decentralized Application",
+        "description": "Completed a basic ERC20 token generator and transfer DApp that allows token creation with parameters such as name, symbol, and Total supply. Engineered and implemented 40% of the project using Web3.js and React.js for the user interface, and integrated MetaMask for user authentication. Developed 60% of the project by implementing Ethereum smart contracts for token generation and handled blockchain interactions. Provided a well-written, safe DApp for creating and controlling ERC20 tokens. Created 20 unique tokens during local testing.",
+        "keywords": [],
+        "endDate": "May - 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Trip Fare Prediction",
+        "description": "Completed a machine learning model to calculate trip fare depending on location and travel distance. Trained the model with an Uber dataset containing 30,000 records and saved in a .pkl file for predictions. Focused and created 20% of the project with a user interface form using HTML, CSS, and JS. Involved 80% of the project by training the model with Python, saving it in a .pkl file, and creating a Flask API for predictions. Executed a system that provides accurate fare estimates by taking multiple factors. Achieved an accuracy rate of 93.64% in local testing scenarios.",
+        "keywords": [],
+        "endDate": "April - 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Matrimony using Java Server Page",
+        "description": "Built an online matrimony using Java Server Pages (JSP) to help users find partners based on interests. Designed 50% of the project with responsive forms and interfaces using HTML, CSS, and JS. Implemented 50% of the project using Java Servlets for user requests and profile matching algorithms. Used Java HashMaps to store and retrieve user data in an effective and secure manner. Matched 10+ users successfully during testing.",
+        "keywords": [],
+        "endDate": "April - 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "Python",
+      "JS",
+      "MySQL Workbench",
+      "Eclipse",
+      "SQL",
+      "MongoDB",
+      "Ethereum",
+      "Smart Contracts",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "solidity",
+      "truffle",
+      "Computer Networks",
+      "MetaMask",
+      "Web3.js",
+      "VS Code",
+      "Jupyter",
+      "Machine Learning"
+    ],
+    "soft_skills": [],
+    "name": "Revanth Upadhyayula",
+    "position": "",
+    "interests": [
+      "Photography"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 0.0,
+  "degree": "BTech"
+}

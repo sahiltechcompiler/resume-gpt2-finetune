@@ -1,0 +1,157 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Danda Satya Naga Sathwik",
+  "college": "SRM A.P",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Machine Learning and Data Science Master Class",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Web Developer Bootcamp 2024",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM A.P",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.00",
+        "field_of_study": "Computer Science and Engineering, Artificial Intelligence and Machine Learning",
+        "startDate": "2021"
+      },
+      {
+        "school": "Narayana Olympiad School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Secured 93%",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Celebrity Image Generation using DCGANs",
+        "description": "Implemented a research paper on Deep Convolutional Generative Adversarial Networks (DCGANs) to generate realistic images. Fine-tuned hyperparameters and experimented with various configurations to enhance the quality of generated images. Integrated findings into a comprehensive report detailing model architecture, training process, and results analysis. Conducted thorough evaluations and analyses of generated images, comparing them with ground truth data using deep learning frameworks.",
+        "keywords": [
+          "Python",
+          "Pytorch",
+          "Deep Learning",
+          "Convolutional Neural Networks (CNNs)",
+          "Generative Adversarial Networks (GANs)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MedicSage",
+        "description": "Developed a MERN stack web app for disease prediction based on user-entered symptoms, leveraging machine learning models for accurate diagnostics. Provided users with clear disease descriptions and simple remedies, aiding informed decision-making about health concerns. Maintained a comprehensive database with up-to-date information on various diseases, enhancing usability for users and healthcare professionals.",
+        "keywords": [
+          "MERN Stack",
+          "MongoDB",
+          "Express.js",
+          "React",
+          "Node.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SmartFlix: Content-Based Movie Recommendation System",
+        "description": "Developed a system to recommend movies based on their similarity to other movies, enhancing user discovery of films with similar attributes. Extracted and analyzed features from movie metadata, including genres, cast, directors, plot summaries, and user ratings, to build a comprehensive dataset. Applied algorithms such as cosine similarity and TF-IDF to measure and calculate the similarity scores between movies.",
+        "keywords": [
+          "Scikit learn",
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Streamlit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "SRM - AP",
+        "description": "Implemented an image generation project focusing on Generative Adversarial Networks (GANs). Collaborated with a team of interns to design and implement a GAN architecture for synthesizing realistic images. Conducted extensive research on GAN frameworks, including DCGAN, SRGAN to identify the most suitable approach for the project objectives.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      },
+      {
+        "role_name": "UROP (Undergraduate Research Opportunity Program)",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "",
+        "description": "Designed and implemented an advanced object detection model to recognize and report accidents in images and videos. Implemented an automated email notification system to alert authorities on accident detection. Crafted email notifications containing crucial details: Date and time stamp for chronological incident organization. Attached image capturing the accident scene at the moment of detection.",
+        "location": "",
+        "links": "",
+        "startDate": "Sept 2023"
+      }
+    ],
+    "skills": [
+      "Web Development",
+      "Node.js",
+      "Express.js",
+      "React",
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Pytorch",
+      "Scikit-learn",
+      "Beautiful Soup",
+      "Numpy",
+      "Pandas",
+      "Matplotlib",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Danda Satya Naga Sathwik",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded merit-based scholarship covering 100% tuition fees for 4 consecutive years in recognition of outstanding academic excellence and achievements."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

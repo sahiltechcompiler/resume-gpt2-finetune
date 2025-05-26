@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "Internship for Machine Learning",
+  "name": "Prateek Kumar",
+  "college": "KIET Group Of Institutions(A.K.T.U)",
+  "locations": [
+    "Ghaziabad, UP",
+    "Varanasi, UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions(A.K.T.U)",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "70",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Central Hindu Boys School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Senior secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "75.2",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce site",
+        "description": "Designed and developed a fully responsive e-commerce site from scratch. Implemented responsive design techniques to ensure optimal viewing experience across various devices, including desktops, tablets, and mobile phones. Implemented modern design principles and user experience (UX) best practices. Integrated e-commerce functionality, including product listings, shopping cart management.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Virtual Video Player",
+        "description": "Developed a virtual video player application using Unity game engine, C sharp, and augmented reality (AR) technology to create an immersive multimedia experience. Implemented video playback functionality within the virtual environment, allowing users to play, pause and stop videos seamlessly. Ensured smooth and responsive user interactions through optimized performance and frame rates. Ensured cross-platform compatibility by deploying the virtual video player application to various platforms, including iOS and Android.",
+        "keywords": [
+          "Unity",
+          "Augmented Reality",
+          "C sharp"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Plant Disease Classification",
+        "description": "Developed a plant disease classification system using machine learning and deep learning techniques to accurately identify and classify plant diseases from images. Gathered and curated a comprehensive dataset of plant images encompassing various crops and disease types. Designed and developed user-friendly interfaces and dashboards to facilitate easy interaction and interpretation of classification results for end-users. Split the dataset into training, validation, and test sets to train and evaluate the models performance.",
+        "keywords": [
+          "Deep Learning",
+          "Machine learning"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Internship for Machine Learning",
+        "skillsUsed": [
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Django"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Bharat Intern",
+        "description": "Developed a machine learning model for house price prediction using Python and libraries like NumPy, Pandas. Preprocessed raw data, including handling missing values, feature scaling, and encoding categorical variables. Explored various regression algorithms such as Linear Regression, Decision Trees, Random Forest, and Gradient Boosting Regressor to identify the best-performing model. Deployed the trained machine learning model using frameworks Django to create a web application for house price prediction.",
+        "location": "Ghaziabad, UP",
+        "links": "",
+        "startDate": "November 2021"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "SQL",
+      "JavaScript",
+      "HTML/CSS",
+      "Node.js",
+      "Tailwind",
+      "Bootstrap",
+      "WordPress",
+      "GitHub",
+      "Docker",
+      "TravisCI",
+      "VS Code",
+      "PyCharm",
+      "IntelliJ",
+      "MySQL",
+      "MongoDB"
+    ],
+    "soft_skills": [],
+    "name": "Prateek Kumar",
+    "position": "Coordinator of sports",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

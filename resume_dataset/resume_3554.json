@@ -1,0 +1,157 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Karri Sravani",
+  "college": "SRM AP University",
+  "locations": [],
+  "full_output": {
+    "summary": "Final-year undergraduate in Computer Science with a strong foundation in object-oriented programming (OOP), data structures, and full-stack software development. Proficient in relational and non-relational databases, and building scalable and efficient applications. Experienced in designing user interfaces, optimizing applications for speed, scalability, and security, and collaborating with cross-functional teams in agile environments.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management Systems",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Number Theory",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM AP University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.61/10",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Tirumula Jn College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "958/1000",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Bhashyam Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10 CGPA",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Music Recommendation System",
+        "description": "Built a scalable recommendation engine by analyzing user preferences and benchmarking against industry trends. Leveraged Pandas for data manipulation, scikit-learn for model building, and Matplotlib for data visualization.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "scikit-learn",
+          "Matplotlib",
+          "SQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Brain Stroke Identification",
+        "description": "Developed a machine learning model to classify brain images for stroke detection, enhancing healthcare diagnostics. Conducted model evaluation using accuracy metrics, ROC curves, and cross-validation.",
+        "keywords": [
+          "Python",
+          "scikit-image",
+          "NumPy"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "SQL",
+          "HTML/CSS",
+          "JavaScript"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Contributed to web development and database management projects, optimizing application performance. Designed user interfaces and enhanced database schemas for better performance and scalability.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Research",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "",
+        "description": "Conducted fundamental investigations into NLP methods and ML algorithms to discern sentiment in textual data. Engaged in data preprocessing, model development, and analysis. Applied these techniques in the context of AI research.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "SQL",
+      "Git",
+      "Visual Studio Code",
+      "Data Structures",
+      "OOP",
+      "Algorithms",
+      "Integration",
+      "Security",
+      "Documentation",
+      "Machine learning",
+      "Deep Learning",
+      "NLP",
+      "Gen AI"
+    ],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Problem Solving skills",
+      "Communication",
+      "Teamwork"
+    ],
+    "name": "Karri Sravani",
+    "position": "",
+    "interests": [
+      "Music"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

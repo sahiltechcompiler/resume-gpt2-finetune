@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Tanish Gupta",
+  "college": "Thadomal Shahani Engineering College",
+  "locations": [
+    "Mumbai, Maharashtra, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Remote Data Science Master Course",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Thadomal Shahani Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Mumbai, Maharashtra, India",
+        "ID": 0.0,
+        "grade_received": "9.00 (Current)",
+        "field_of_study": "Information Technology",
+        "startDate": "2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Diamond Price Prediction",
+        "description": "Predicted the price of Diamond using ML Pipeline for various Regression Algorithm. Random Forest Algorithm was found to be the best with an accuracy of 97 percent.",
+        "keywords": [
+          "Python",
+          "Jupyter Notebook",
+          "MLOps"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Cricket Data Analysis",
+        "description": "Conducted an end-to-end analysis of T20 World Cup 2022, extracting data from ESPN Cricinfo, preparing with Pandas, transforming in Power Query Editor, and creating an interactive Power BI dashboard.",
+        "keywords": [
+          "Web Scraping",
+          "Pandas",
+          "Power Query editor",
+          "Power BI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Orphanage Management System",
+        "description": "Developed an Orphanage Management System enabling users to donate items, volunteer for events, and track donations to orphanages. Recognized as a Top 10 project in the IT Dept Project Expo.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "Arb Dossier",
+        "description": "Used Microsoft Power Automate software to create a workflow that perform Web Automation and Web Scraping on various Government Websites.",
+        "location": "On Site",
+        "links": "",
+        "startDate": "Dec 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Streamlit",
+      "Sklearn",
+      "Matplotlib",
+      "Seaborn",
+      "Numpy",
+      "Pandas",
+      "Scipy",
+      "Visual Studio Code",
+      "Git",
+      "Jupyter",
+      "Canva",
+      "Pycharm",
+      "Power BI",
+      "Anaconda"
+    ],
+    "soft_skills": [],
+    "name": "Tanish Gupta",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "PenTest Magazine: Approach of Detecting Dependency Confusion Attacks using Artificial Intelligence and Machine Learning. Identified exploited vulnerability in the package.json file of an organization, and reported that vulnerability to that respective organization."
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

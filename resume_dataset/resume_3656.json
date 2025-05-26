@@ -1,0 +1,164 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Shaily Upendra Sharma",
+  "college": "Lokmanya Tilak College of Engineering",
+  "locations": [
+    "Navi Mumbai",
+    "Ambarnath"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Data Structure",
+        "issuer": "University of Michigan on Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI, and Development",
+        "issuer": "IBM on Coursera",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Completed Deep Blue Season 7",
+        "issuer": "Mastek Organization",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Completed 74 days Data Analyst Bootcamp",
+        "issuer": "Alexander Freberg Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PL-300 Certification",
+        "issuer": "Microsoft Power BI Data Analyst",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lokmanya Tilak College of Engineering",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "B.E.in Computer Science and Engineering(Data Science)",
+        "location": "Navi Mumbai",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.74/10",
+        "field_of_study": "",
+        "startDate": "December 2020"
+      },
+      {
+        "school": "RCTs PMM Rotary High School",
+        "endDate": "June 2020",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Certificate",
+        "location": "Ambarnath",
+        "ID": 1.0,
+        "grade_received": "Percentage: 64.4",
+        "field_of_study": "",
+        "startDate": "July 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "HR Analytics Using Power BI",
+        "description": "Analysed a three-month dataset on employee presence using Power BI, to assess company attendance patterns and implement the targeted improvement strategies. Utilized Power Query for data transformation, developed metrics using DAX, and built a dashboard to provide insights into employee behavior, and performance trends for decision-making.",
+        "keywords": [],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Music Genre Classification Based Face Detection using Machine Learning",
+        "description": "Generated real-time dataset through webcam using OpenCV. Used Python and Machine Learning libraries such as Mediapipe and Keras for emotion recognition and training for the dataset. Developed an application interface using Streamlit to visualize, interact with the real-time emotion recognition system, and recommend music.",
+        "keywords": [],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Optimization Tool",
+        "description": "Implemented the yfinance API to fetch real-time financial data, enabling analysis of stock performance and historical trends and utilized pandas and numpy libraries. Preprocessed and transformed raw data into actionable insights, facilitating statistical modeling and developed an interface using Streamlit, allowing interaction with the Portfolio Optimization Tool.",
+        "keywords": [],
+        "endDate": "September 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Pneumonia Detection System",
+        "description": "Developed a pneumonia detection system using Python and CNN model, implemented data preprocessing to enhance model accuracy on medical imaging data. Trained and validated the CNN model on a large dataset of chest X-rays, achieving high diagnostic accuracy, deployed the model for automated detection, significantly reducing the time required for pneumonia diagnosis.",
+        "keywords": [],
+        "endDate": "March 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "SQL (MySQL, PostgreSQL)",
+      "Pandas",
+      "NumPy",
+      "Seaborn",
+      "Matplotlib",
+      "scikit-learn",
+      "TensorFlow",
+      "OpenCV",
+      "MediaPipe",
+      "Keras",
+      "Streamlit",
+      "Flask",
+      "PowerBI (Power Query, DAX, API)",
+      "Microsoft Excel",
+      "Git/Github",
+      "VS Code",
+      "Jupyter Notebook",
+      "Google Colaboratory"
+    ],
+    "soft_skills": [
+      "Detail-oriented",
+      "Communications skills",
+      "Analytical skills",
+      "Leadership and Management",
+      "Presentation skills",
+      "Teamwork and Collaboration",
+      "Problem-solving",
+      "Critical Thinking"
+    ],
+    "name": "Shaily Upendra Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Served as Head of the Publicity Team of Data Science Association, directing marketing strategies and content creation, 2022 - 2024",
+      "Secured first position in Talent Hunt organized by Data Science Association, 2022."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.E.in Computer Science and Engineering(Data Science)"
+}

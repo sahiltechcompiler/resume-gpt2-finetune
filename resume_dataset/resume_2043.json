@@ -1,0 +1,138 @@
+{
+  "project_count": 4.0,
+  "designation": "Software Development Engineer",
+  "name": "ARYAN ARVIND",
+  "college": "MANIPAL UNIVERSITY",
+  "locations": [
+    "Jaipur, Rajasthan, India",
+    "Gorakhpur, Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "Bachelors of Technology",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "Cumulative GPA: 8.64/10.0",
+        "field_of_study": "Major in Computer and Communication",
+        "startDate": ""
+      },
+      {
+        "school": "KENDRIYA VIDYALAYA NO.-1",
+        "endDate": "July 2020",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Education",
+        "location": "Gorakhpur, Uttar Pradesh, India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 85.8%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "DOCS MINI WEB APP UI",
+        "description": "A uniquely new design docs application to write notes, make shopping lists with fast copy and paste features. It has some cool animations which have been implemented using react framer motion. Used Tailwind CSS for designing and JavaScript, and ReactJs to structure and display the content.",
+        "keywords": [
+          "Tailwind CSS",
+          "JavaScript",
+          "ReactJs"
+        ],
+        "endDate": "Aug 2024",
+        "startDate": "Apr 2024",
+        "url": ""
+      },
+      {
+        "name": "STUDYNOTION",
+        "description": "Developed backend for StudyNotion which is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The technology used - MongoDB, ExpressJs, and NodeJs.",
+        "keywords": [
+          "MongoDB",
+          "ExpressJs",
+          "NodeJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "PASSWORD GENERATOR",
+        "description": "Built a Password Generator with a checklist of 5 different options to create a strong combination of characters for a password. Styled using HTML, Tailwind CSS, and JavaScript to generate different password combinations and a copy text feature.",
+        "keywords": [
+          "HTML",
+          "Tailwind CSS",
+          "JavaScript"
+        ],
+        "endDate": "Jun 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WEATHER APP",
+        "description": "Built a Weather App using an API which lets a user fetch weather reports of their current location or any given location. Utilized Tailwind CSS for styling and javascript for API calls to fetch and process the data.",
+        "keywords": [
+          "Tailwind CSS",
+          "JavaScript"
+        ],
+        "endDate": "Jun 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Media Coordinator",
+        "skillsUsed": [
+          "Social Media Management",
+          "Canva"
+        ],
+        "endDate": "Oct 2022",
+        "company_name": "IAESTE LC MUJ",
+        "description": "Managed IAESTE's social media accounts, resulting in a 33% increase in followers. Created and designed posters for various purposes using Canva. Made reel videos to attract students to enroll in IAESTE's foreign internship opportunity programs.",
+        "location": "Jaipur, Rajasthan, India",
+        "links": "",
+        "startDate": "Feb 2022"
+      }
+    ],
+    "skills": [
+      "Data Structures and Algorithms",
+      "DAA",
+      "Operating Systems/File Systems",
+      "OOPs",
+      "HTML",
+      "CSS",
+      "Tailwind",
+      "ReactJs",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "Github",
+      "SQL",
+      "Linux",
+      "C",
+      "C++",
+      "Java",
+      "Javascript",
+      "shell scripting"
+    ],
+    "soft_skills": [],
+    "name": "ARYAN ARVIND",
+    "position": "Software Development Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Won CSS Combat, a web designing competition organized by the IEEE club during the Genesis 3.0 event held at Manipal University Jaipur.",
+      "Deans List Of Excellence Award for highest grades in the semester (Sem-V)"
+    ],
+    "publications": []
+  },
+  "current_location": "Jaipur, Rajasthan, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors of Technology"
+}

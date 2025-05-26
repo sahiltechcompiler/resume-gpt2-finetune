@@ -1,0 +1,194 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SNOW NISHA AMALA DOSS",
+  "college": "Offenburg University of Applied Sciences",
+  "locations": [
+    "Baden-Wrtemberg, Germany",
+    "Chennai, India",
+    "Vilsbiburg, Bavaria",
+    "Vilsbiburg, Bavaria, Germany"
+  ],
+  "full_output": {
+    "summary": "Motivated and ambitious young professional with a strong passion for soft- ware development. Completed Masters degree in Communication and Media Engineering at Offenburg University of Applied Sciences.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming in Python",
+        "issuer": "Meta",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Version Control and Introduction to database for Back-End development",
+        "issuer": "Meta",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "5 Days coding Challenge (Includes html, css and JavaScript)",
+        "issuer": "Code Institute",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming in C/ C++",
+        "issuer": "NIIT",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Offenburg University of Applied Sciences",
+        "endDate": "02.2024",
+        "maximum_grade": "",
+        "degree": "M.Sc",
+        "location": "Baden-Wrtemberg, Germany",
+        "ID": 0.0,
+        "grade_received": "1.9 (Till 4th Sem)",
+        "field_of_study": "Communication and Media Engineering",
+        "startDate": "10.2021"
+      },
+      {
+        "school": "Loyola ICAM College of Engineering and Technology",
+        "endDate": "04.2019",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "Chennai, India",
+        "ID": 1.0,
+        "grade_received": "7.1 CGPA",
+        "field_of_study": "Electrical and Electronics Engineering",
+        "startDate": "07.2015"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Implementing a Docker and CI/CD based Web Application with a Friendly and Intuitive Interface",
+        "description": "I was responsible for implementing the Backend functionality. I have im- plemented features like Backend Authentication using JSON Web To- ken(JWT), Sqlite3 database for storing users information during signup and used Djoser setup for sending mails to the users.",
+        "keywords": [],
+        "endDate": "01.2023",
+        "startDate": "10.2022",
+        "url": ""
+      },
+      {
+        "name": "Optimisation of wind and solar energy using single converter",
+        "description": "I was responsible to build and simulate a circuit diagram in Matlab and conducting extensive reserch about solar and wind energy.",
+        "keywords": [],
+        "endDate": "04.2019",
+        "startDate": "11.2018",
+        "url": ""
+      },
+      {
+        "name": "Using ultrasonic sensor to detect the distance between vehicles",
+        "description": "",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "03.2018",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English- C1",
+      "German- A2.1"
+    ],
+    "experiences": [
+      {
+        "role_name": "Master Thesis",
+        "skillsUsed": [],
+        "endDate": "01.2024",
+        "company_name": "Drxlmaier Group",
+        "description": "Development and Improvement of estimation method for software de- velopment projects (Effort Estimation using Function Point Analysis, COCOMO model, Delphi, Three Point Estimation and Descriptive Statistics)",
+        "location": "Vilsbiburg, Bavaria",
+        "links": "",
+        "startDate": "06.2023"
+      },
+      {
+        "role_name": "Internship",
+        "skillsUsed": [],
+        "endDate": "05.2023",
+        "company_name": "Drxlmaier Group",
+        "description": "Optimizing and extension of Windchill RV and S Client and Microsoft project using Python",
+        "location": "Vilsbiburg, Bavaria, Germany",
+        "links": "",
+        "startDate": "03.2023"
+      },
+      {
+        "role_name": "Engineer- Project Coordination (Railways)",
+        "skillsUsed": [],
+        "endDate": "08.2021",
+        "company_name": "TUV India Private Limited (TUV NORD Group)",
+        "description": "Raised invoice for all the services in SAP system Created Tender documents to solicit bids, and documented offers for new enquiries from contractors and suppliers Created Rolling Stock Certification (RSC) for Railway Coaches",
+        "location": "",
+        "links": "",
+        "startDate": "05.2021"
+      },
+      {
+        "role_name": "Project Coordinator- Railways",
+        "skillsUsed": [],
+        "endDate": "04.2021",
+        "company_name": "TUV India Private Limited (TUV NORD Group)",
+        "description": "Coordinated with customers and Manufacturers for Man Day and Man Month Inspection Extensively experienced in project management activities from Planning to Execution",
+        "location": "",
+        "links": "",
+        "startDate": "01.2020"
+      },
+      {
+        "role_name": "Electrical Inspection Engineer",
+        "skillsUsed": [],
+        "endDate": "11.2019",
+        "company_name": "EliTes India Private Limited",
+        "description": "Tested electrical safety of train carriages and wagons to ensure passen- ger safety",
+        "location": "",
+        "links": "",
+        "startDate": "09.2019"
+      },
+      {
+        "role_name": "Academic Coordinator",
+        "skillsUsed": [],
+        "endDate": "06.2019",
+        "company_name": "The Scholars Academy",
+        "description": "Established partnerships with various schools and colleges to train stu- dents for Competitive Examination and Job Placement",
+        "location": "",
+        "links": "",
+        "startDate": "02.2019"
+      }
+    ],
+    "skills": [
+      "Effort Estimation Techniques",
+      "Python",
+      "Jupyter Notebook",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Django",
+      "Html/CSS",
+      "Data Analytics",
+      "SQLite",
+      "GIT",
+      "Azure Repos"
+    ],
+    "soft_skills": [],
+    "name": "SNOW NISHA AMALA DOSS",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Trichy- 621 308",
+  "graduation_year": 2024.0,
+  "experience_count": 6.0,
+  "degree": "M.Sc"
+}

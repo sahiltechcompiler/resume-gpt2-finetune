@@ -1,0 +1,226 @@
+{
+  "project_count": 6.0,
+  "designation": "",
+  "name": "Manchikanti Apurupa",
+  "college": "Amrita Vishwa Vidyapeetham",
+  "locations": [
+    "Chennai",
+    "Visakhapatnam, Andhra Pradesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "I am Manchikanti Apurupa, a Python developer based in Chennai with a Btech in Communication and Communication Engineering. I have extensive experience in remote programming, fundraising, and serving as a campus ambassador. Throughout my career, I've contributed to various projects including iris flower classification, wasp identification, windmill project, and arm robot motion using computer vision techniques. Additionally, I've honed my skills through courses in web development using HTML, IoT, and managing emotions in times of stress and uncertainty. My passion lies in data science and data analysis, where I've tackled projects such as coding Saathi, Muskurahat Foundation, Pledge a Smile Foundation, and IITB. I excel in data preprocessing, feature engineering, and model optimization. Proficient in Python and C, I am deeply committed to advancing in the fields of data science and data analysis.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learnt about the structures of HTML and CSS.",
+        "skillsLearned": [],
+        "title": "Web Development using HTML",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Developed an Object detection system using Raspberry pi to identify the objects according to the data given.",
+        "skillsLearned": [],
+        "title": "Five day Course in IoT",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learnt to apply social and emotional skills and strategies in times of uncertainty.",
+        "skillsLearned": [],
+        "title": "Managing emotions in times of stress and uncertainty",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Learnt about energy, its generation, its consumption, wastage, carbon footprint and their impact on the environment.",
+        "skillsLearned": [],
+        "title": "Energy Literacy Training",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Amrita Vishwa Vidyapeetham",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Btech",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "GPA - 7.3",
+        "field_of_study": "Communication and Communication Engineering",
+        "startDate": "October 2021"
+      },
+      {
+        "school": "Sri Chaitanya Jr College",
+        "endDate": "September 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Visakhapatnam, Andhra Pradesh",
+        "ID": 1.0,
+        "grade_received": "percentage - 97.2",
+        "field_of_study": "Maths, Science and Chemistry",
+        "startDate": "June 2019"
+      },
+      {
+        "school": "Bhashyam High School",
+        "endDate": "April 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Visakhapatnam, Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "GPA - 10.0",
+        "field_of_study": "",
+        "startDate": "June 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Classification of Iris Flower",
+        "description": "Developed and implemented a machine learning model for the classification of Iris flowers. Achieved great accuracy of more than 90 percent showcasing strong proficiency in data pre processing, feature engineering, and model optimization.",
+        "keywords": [],
+        "endDate": "August 2022",
+        "startDate": "June 2022",
+        "url": ""
+      },
+      {
+        "name": "An Automated Approach to Identifying Wasps",
+        "description": "Implemented a computer vision-based system for the identification of wasps in a field using deep learning techniques, achieving a high accuracy of 80 percent. Collaborated with domain experts to curate and annotate a diverse data set of wasp images, demonstrating strong teamwork and communication.",
+        "keywords": [],
+        "endDate": "December 2022",
+        "startDate": "August 2022",
+        "url": ""
+      },
+      {
+        "name": "Wind Mill Project",
+        "description": "Worked on analysing the data of a windmill machine consisting of Sound and Co-eff of friction values. Integrated in a team of 2, leading to a knowledge of more than 80 percent.",
+        "keywords": [],
+        "endDate": "present",
+        "startDate": "September 2023",
+        "url": ""
+      },
+      {
+        "name": "Motion of Arm Robot by Hand Sign Actions using Computer Vision Technique",
+        "description": "Worked on arm robot and rpi to integrate arm robot with rpi to work according to the handsigns. Trained Rpi and arm robot with the images of hand gestures.",
+        "keywords": [],
+        "endDate": "August 2023",
+        "startDate": "November 2023",
+        "url": ""
+      },
+      {
+        "name": "Crop Irrigation System using the Moisture of Soil using MSP432",
+        "description": "Created a crop irrigation system which enables the drip when the moisture level is below the threshold. Integrated the MSP 432 with the temperature, soil sensor and the stepper motor. Executed the code in keil such that the rotation of stepper motor are set based on the moisture level of the soil.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Telegrambot with Rpi",
+        "description": "Developed a chatbot using telegram and trained it using raspberry pi which gave a very good accuracy.",
+        "keywords": [],
+        "endDate": "November 2023",
+        "startDate": "August 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Python Developer",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "",
+        "company_name": "Coding Saathi",
+        "description": "Developed 5 projects using Python and learned a lot about data analytics. Explored ways to analyze and visualize the data of the 5 projects.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Python Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "",
+        "company_name": "Pantech AI",
+        "description": "Learnt about data science and developed numerous projects under the same domain.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Fundraising Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Muskurahat Foundation",
+        "description": "Efficiently handled the fundraising campaign collecting more than 10k by continuous improvement strategy to help children get education. Helped with enhancing the communication and social skills by 90 percent.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Fundraising Intern",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "Pledge a Smile Foundation",
+        "description": "Effectively managed the fundraising effort, raising over 5k using a continuous improvement approach to support children's education.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "February 2023"
+      },
+      {
+        "role_name": "Campus Ambassador",
+        "skillsUsed": [],
+        "endDate": "December 2023",
+        "company_name": "IITB",
+        "description": "Worked as a Campus Ambassador for 6 months to promote their upcoming tech fest in the campus.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "pandas",
+      "NumPy",
+      "Matplotlib",
+      "Tinkercad",
+      "Multism",
+      "proteus",
+      "Matlab",
+      "xilinx",
+      "Keil microvision",
+      "Cisco packet tracer",
+      "Anaconda"
+    ],
+    "soft_skills": [],
+    "name": "Manchikanti Apurupa",
+    "position": "",
+    "interests": [
+      "Data Science",
+      "Data Analysis"
+    ],
+    "achievements_and_awards": [
+      "Won a certificate of achievement in codekaze conducted by Coding Ninjas",
+      "Won 2nd prize in the inter college weightlifting competition"
+    ],
+    "publications": []
+  },
+  "current_location": "Chennai",
+  "graduation_year": 2025.0,
+  "experience_count": 5.0,
+  "degree": "Btech"
+}

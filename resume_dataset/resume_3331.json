@@ -1,0 +1,145 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Samarth Krishna",
+  "college": "Manipal University Jaipur, MUJ",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Lucknow, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Networks",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "PCAP: Programming Essentials in Python",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur, MUJ",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA - 8.94",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "City Montessori School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Lucknow, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "Percentage - 95.25",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "City Montessori School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Lucknow, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "Percentage - 96.4",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Text Summarization using Transformers(Google Pegasus)",
+        "description": "Developed a model for summarizing messenger-like conversations using Python, TensorFlow, Hugging Face. Utilized the SAMSum dataset (16,369 conversations with summaries in four groups). Fine-tuned the Pegasus model for optimized summarization. Deployed the model using FastAPI for real-time summarization. Achieved ROUGE scores: ROUGE-1: 0.024595, ROUGE-2: 0.0, ROUGE-L: 0.024311, ROUGE-Lsum: 0.024418.",
+        "keywords": [
+          "Transformers",
+          "Pegasus",
+          "FastAPI"
+        ],
+        "endDate": "2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Drowsiness Detection Model",
+        "description": "Developed a CNN-based system for detecting driver drowsiness using TensorFlow, OpenCV, scikit-learn. Utilized the Kaggle Drowsiness Dataset with 1452 binarily classified images. Implemented a CNN achieving 96.2% accuracy in drowsiness classification. Visualized training progress over 60 epochs. Developed an interactive application using Streamlit to enhance user engagement.",
+        "keywords": [
+          "TensorFlow",
+          "OpenCV",
+          "scikit-learn",
+          "matplotlib",
+          "pandas",
+          "Streamlit"
+        ],
+        "endDate": "2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "C",
+      "Python",
+      "SQL",
+      "Numpy",
+      "Pandas",
+      "Streamlit",
+      "Matplotlib",
+      "Scikit-learn",
+      "Tensorflow",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [],
+    "name": "Samarth Krishna",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved a contest rating of 1530 on Leetcode",
+      "Deans Academic Excellence Award in 3rd and 5th semesters"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

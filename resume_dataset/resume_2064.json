@@ -1,0 +1,157 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Kavya P",
+  "college": "Chennai Institute Of Technology",
+  "locations": [
+    "Chennai, TamilNadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to ReactJs",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Docker",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Selenium with Java - Coursera",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS S3 Basics-Coursera",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Chennai Institute Of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Chennai, TamilNadu",
+        "ID": 0.0,
+        "grade_received": "CGPA:8.7",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "SkyScan",
+        "description": "This is a Weather Application that provides users with real-time weather updates for their desired locations. The standout feature is voice search capability.Implemented a messaging and email notification system that sends alerts to users five minutes before sunrise and sunset. Enabled real-time weather updates with 85% accuracy, ensuring users receive timely information.",
+        "keywords": [
+          "React Js",
+          "Node Js",
+          "MySQL"
+        ],
+        "endDate": "March 2024",
+        "startDate": "February 2024",
+        "url": "https://github.com/Kavya013/skyscan_app"
+      },
+      {
+        "name": "BotaniQ",
+        "description": "Users can input detailed information about their plants, receive reminders for watering and fertilizing Achieved 78% accuracy in real time care schedules, ensuring optimal plant health management. Integrated unique features such as photo uploads for tracking plant growth, a community forum for sharing tips and advice, and the ability to create shopping lists for plant care items. These features enhance user engagement and support a collaborative plant care community.",
+        "keywords": [
+          "ReactJs",
+          "NodeJs",
+          "MySQL"
+        ],
+        "endDate": "June 2024",
+        "startDate": "May 2024",
+        "url": "https://github.com/Kavya013/BotaniQ"
+      },
+      {
+        "name": "Pennsylvania Medical Drug Website-Automation Testing",
+        "description": "Developed comprehensive test plans and test cases to guarantee thorough functional coverage. Used TestNG to organize tests,run them simultaneously,and implemented Allure to create visually engaging reports that show test status,trends.Achieved 95% test coverage through test plans and automated scripts.",
+        "keywords": [
+          "Selenium with Java",
+          "TestNG",
+          "Jira",
+          "Allure reports"
+        ],
+        "endDate": "July 2023",
+        "startDate": "June 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Quality Assurance Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "VNC DIGITAL SERVICES",
+        "description": "Gained extensive hands-on experience in quality assurance practices and procedures,Utilized bug tracking tools to log, prioritize, and manage defects contributing to improved software quality. Conducted comprehensive manual testing while also developing and executing automated test scripts achieving increased test coverage and improved overall testing efficiency.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Java Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "OASIS INFOBYTE",
+        "description": "Gained hands-on experience in Java programming, focusing on application development and understanding about object-oriented programming principles, including inheritance and polymorphism. Enhanced problem-solving skills and developed time management by completing tasks within the one month internship period working efficiently and effectively.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "ReactJs",
+      "NodeJs",
+      "ExpressJs",
+      "Selenium",
+      "Jira",
+      "TestNG",
+      "Allure Reports",
+      "Log4j",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Kavya P",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Skillrack - 500 Problems Solved",
+      "Sponsorship Head - IT Department Technical Symposium 2023.Securing partnership with company like Softrate, which contributed cash prizes and internship opportunities."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

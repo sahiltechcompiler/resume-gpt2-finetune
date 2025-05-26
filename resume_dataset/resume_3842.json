@@ -1,0 +1,154 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SHIVANI SHUKLA",
+  "college": "Bhagwan Parshuram Institute of Technology",
+  "locations": [
+    "New Delhi",
+    "India",
+    "Basti, U.P"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Bhagwan Parshuram Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.81 CGPA (up to 6th sem)",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "H.L. Ambedkar Intercollege",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "70.8%",
+        "field_of_study": "Class XII",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather Web App",
+        "description": "Developed a weather app which allows users to access real time temperature and weather description of the desired location. Used Weather API Integration and geocoding in development. Employed asynchronous programming to fetch and process weather data in real-time.",
+        "keywords": [
+          "Mailchimp API",
+          "HTML",
+          "CSS",
+          "EJS",
+          "JavaScript"
+        ],
+        "endDate": "2023",
+        "startDate": "2021",
+        "url": ""
+      },
+      {
+        "name": "E-Waste Facility Locator (ongoing)",
+        "description": "Website that tells you the location of the nearest E-waste collection and recycling facility. The system will generate credit points for the E-Waste, which users can then redeem for government subsidies or other rebates.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "ReactJS",
+          "PostgreSQL",
+          "NodeJS",
+          "API"
+        ],
+        "endDate": "",
+        "startDate": "2023",
+        "url": ""
+      },
+      {
+        "name": "Amazon Clone",
+        "description": "Created an clone version of Amazon, utilizing HTML, CSS and JavaScript. Implemented responsive design for seamless user experience across device.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FrontEnd Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js",
+          "Node.js",
+          "Express.js"
+        ],
+        "endDate": "2023",
+        "company_name": "CodSoft",
+        "description": "Developed dynamic websites and learnt about Web Development. Led the development of a Weather Web App, utilizing HTML, CSS, JavaScript, React.js, and Node.js (Express.js), resulting in a responsive and user-friendly website. Gained hands-on experience with React.js, Node.js, and API integrations through daily coding and problem solving.",
+        "location": "New Delhi (Remote)",
+        "links": "",
+        "startDate": "2023"
+      },
+      {
+        "role_name": "Participant",
+        "skillsUsed": [],
+        "endDate": "2024",
+        "company_name": "Google Girl Hackathon",
+        "description": "Selected for the prestigious Google Girl Hackathon '24; networked with industry leaders and completed 6 advanced learning cohorts, significantly expanding knowledge in cutting-edge technologies and innovation strategies.",
+        "location": "India",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "ReactJS",
+      "NodeJS",
+      "Bootstrap",
+      "Git",
+      "GitHub",
+      "VsCode",
+      "MSOffice",
+      "MS Excel",
+      "MS word",
+      "MS powerpoint",
+      "Data Structures and algorithms",
+      "OOPS",
+      "DBMS",
+      "OS",
+      "Frontend Development",
+      "Backend Development",
+      "Competitive Programming"
+    ],
+    "soft_skills": [],
+    "name": "SHIVANI SHUKLA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Maximum Rating of 1214 on CodeChef.",
+      "Achieved a score of 42% in the ZS Campus Beats program, demonstrating strong analytical skills and competitive problem-solving abilities.",
+      "Solved 500+ questions on various coding platforms.",
+      "Secured the winning position in the internal round of the Smart India Hackathon, demonstrating innovative problem solving and teamwork skills."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

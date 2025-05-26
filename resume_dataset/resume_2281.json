@@ -1,0 +1,87 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Abhiram Pabolu",
+  "college": "SRM University-AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Enthusiastically pursue continuous growth through coding, adept at tackling challenging tasks, and collaborate effectively with others to achieve shared goals.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University-AP",
+        "endDate": "2027",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Alzheimers Detection",
+        "description": "Assessed Alzheimers detection with KNN, Random Forest, Decision Tree, and SVM. Enhanced models via Crow Search Algorithm and Grid Search Algorithm. Conducted performance comparisons between traditional models and optimized CNN architecture. Demonstrated proficiency in classical ML and deep learning for Alzheimers detection.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "Travel Buddy",
+        "description": "Engineered a specialized transportation platform for college students, facilitating seamless travel between Railway Stations or Bus Stands. Streamlined user experience by empowering customization of travel times, enhancing flexibility. Tailored the platform to specifically address the unique needs of college students, ensuring ease of use and accessibility. Designed an intuitive and user-friendly website to simplify the transportation process.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Using Django",
+        "skillsUsed": [],
+        "endDate": "14-08-2023",
+        "company_name": "",
+        "description": "Developed a patient and doctor portal website, enabling patients to upload their health problems. Implemented a chat feature allowing doctors to view patient problems and provide personalized suggestions. Ensured patient data privacy and security by implementing robust authentication and encryption mechanisms. Collaborated with a team of developers to design and implement user-friendly interfaces for both patients and doctors. Received positive feedback from users for improving communication and efficiency in the healthcare process.",
+        "location": "",
+        "links": "",
+        "startDate": "19-06-2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JSP",
+      "Bootstrap",
+      "React",
+      "Java Servlets",
+      "SQL",
+      "MangoDB",
+      "JDBC",
+      "Django",
+      "Express",
+      "Node",
+      "Machine Learning",
+      "Deep Learning",
+      "Pytorch",
+      "MERN Stack"
+    ],
+    "soft_skills": [],
+    "name": "Abhiram Pabolu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2027.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

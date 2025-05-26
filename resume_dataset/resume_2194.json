@@ -1,0 +1,92 @@
+{
+  "project_count": 0.0,
+  "designation": "DevOps Engineer",
+  "name": "HEMENDRA CHAUDHARY",
+  "college": "Gurukula Kangari (Deemed to Be University)",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Gurukula Kangari (Deemed to Be University)",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Haridwar",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "DevOps Engineer",
+        "skillsUsed": [
+          "AWS",
+          "Python",
+          "Docker",
+          "GitHub Actions",
+          "AWS CodePipeline",
+          "AWS Lambda",
+          "MongoDB"
+        ],
+        "endDate": "Present",
+        "company_name": "Myways.ai",
+        "description": "Started as DevOps Trainee and progressed to DevOps Engineer, maintaining the infrastructure on AWS Cloud for Python and Web Development teams and helped them to create applications faster by setting up CI/CD Pipelines and infrastructure on AWS. Automating the infrastructure using AWS CDK. We have created a in-house cdk helper library built to manage infrastructure of AWS services using cdk Python. Library contains highly used services coded using cdk and allows for easy management by passing key-values. It is hosted on CodeArtifacts. Setup ElasticBeanstalk for the web application where all the servers using single Application LoadBalancer, congured all the required load balancing rules. These Beanstalk servers are containerized servers and all the applications are dockerized. Maintained the DNS records on the Route53, managing multiple hosted zones. Firstly, setup the CI/CD Pipelines on GitHub using GitHub Actions from scratch. Now migrated all the CI/CD pipelines on the AWS CodePipeline. We have pipelines for our ElasticBeanstalk servers and Lambda Applications. It is using CodeBuild to build the applications and CodeDeploy to deploy them. Minimize the AWS Cost from 900$ to 470$ by optimizing the uses of resources. Created a searching application using AWS OpenSearch, designed and developed end to end from getting the data and transforming & transferring the data to OpenSearch Index and then writing search query. Created an API for this using AWS Lambda and AWS API Gateway using Python. Managing the servers on AWS Lambda. Setup SAM CLI for local testing or server testing. Also work on various AWS Services like S3, Lambda, EC2, ECS, ECR, CloudWatch, System Manager, Secret Manager, ApiGateway, IAM, and others. Created API to perform operations on MongoDB using API Gateway and MongoDB Data API. Migrated the MongoDB Standalone cluster to MongoDB Atlas. Implemented the WebSockets APIs using AWS API Gateway and Lambda and use this API to solve some of the use-cases like searchable dropdowns on product whose data come directly from OpneSearch Index within milliseconds and others as well. Integrated third party tools in the system as well.",
+        "location": "",
+        "links": "",
+        "startDate": "Dec 2021"
+      },
+      {
+        "role_name": "ARTH-Learner",
+        "skillsUsed": [
+          "Machine Learning",
+          "Deep Learning",
+          "Terraform",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "Azure"
+        ],
+        "endDate": "Sept 2021",
+        "company_name": "ARTH-The School of Technologies",
+        "description": "Learned the various latest technologies and integrated them. Explored various algorithms of Machine Learning and Deep Learning. Created strategies to deploy any app using DevOps tools i.e., Terraform, Jenkins (CI/CD), Containerization tool Docker, Docker management tool Kubernetes, AWS, Azure. Explored Data Structure and Algorithms. Worked on Apache HTTPD server on Linux environment.",
+        "location": "",
+        "links": "",
+        "startDate": "Sept 2020"
+      }
+    ],
+    "skills": [
+      "AWS (Solution Architecture & Developer)",
+      "Linux Server Administration",
+      "Docker",
+      "GIT & GITHUB",
+      "GitHub Actions",
+      "Jenkins",
+      "Ansible",
+      "Kubernetes",
+      "Terraform",
+      "OpenShift",
+      "OpenSearch"
+    ],
+    "soft_skills": [],
+    "name": "HEMENDRA CHAUDHARY",
+    "position": "DevOps Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "EX294 Red Hat Certied Engineer (RHCE)",
+      "EX180 Red Hat Certied Specialist in Containers and Kubernetes"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2022.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ARUN CHAUHAN",
+  "college": "NOIDA INSTITUTE OF ENGINEERING AND TECHNOLGY",
+  "locations": [
+    "Greater Noida"
+  ],
+  "full_output": {
+    "summary": "Highly motivated and dedicated Computer Science and Engineering student pursuing Bachelors in Technology. Known for a strong work ethic, passion for technology, and unwavering determination to excel.Possesses adeptness in team management, leadership, and collaboration, coupled with exceptional time management skills. Demonstrated problem-solving abilities and a commitment to delivering results",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "NOIDA INSTITUTE OF ENGINEERING AND TECHNOLGY",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors in Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.51 overall",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "DOON BHARTI PUBLIC SCHOOL",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary School",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "DOON BHARTI PUBLIC SCHOOL",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "74.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce Site",
+        "description": "An End to End Online E-commerce site for man to buy and sell cloths. It is completely based on MERN Stack Key Features: Admin Dashboard by which it can create, update and delete product and users. Cart in which we can add, remove and checkout products User can post, update review, update its profile and forget password",
+        "keywords": [
+          "MERN Stack"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Restaurant Management System",
+        "description": "Developed a Restaurant Management System based on MERN stack It is used to place orders in restaurant and by which we can provide offers to our customers. Key Features: Admin Dashboard by which it can create, update, delete and get orders which can also be used to detect wastage of food Customers can place orders, and give ratings or reviews about dishes",
+        "keywords": [
+          "MERN Stack"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bad-Jokes",
+        "description": "A chrome extension which is based on simple HTML, CSS and Javascript. Key Features: A chrome extension which will fetch a random Joke every time a user Used to add fun while you are working in chrome",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "FRONT END TRAINING",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js"
+        ],
+        "endDate": "Nov 2023",
+        "company_name": "Coding Ninjas",
+        "description": "Completed intensive training program focused on front-end development technologies under the expert guidance of Ankush Singla Developed proficiency in HTML, CSS, JavaScript, and popular front-end frameworks such as React.js Participated in code reviews, debugging sessions, and team-based projects",
+        "location": "",
+        "links": "",
+        "startDate": "Sept 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "React-js",
+      "C++",
+      "Javascript",
+      "MySQL",
+      "MongoDB",
+      "Windows"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Leadership",
+      "Time Management"
+    ],
+    "name": "ARUN CHAUHAN",
+    "position": "",
+    "interests": [
+      "Problem Solving",
+      "Playing-Chess",
+      "Listening-Music"
+    ],
+    "achievements_and_awards": [
+      "350+ problem solved on Geeks-For-Geeks",
+      "3 Star at CodeChef",
+      "482 rank in Codechef starters",
+      "84 among 20661"
+    ],
+    "publications": []
+  },
+  "current_location": "Greater Noida",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors in Technology"
+}

@@ -1,0 +1,151 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Chirag Aggarwal",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, India",
+    "Delhi, India",
+    "Bengaluru, Karnataka, India",
+    "Noida, India",
+    "Uttarakhand, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, India",
+        "ID": 0.0,
+        "grade_received": "8.68",
+        "field_of_study": "Computer Science and Engineering (with Specialization in AI & ML)",
+        "startDate": ""
+      },
+      {
+        "school": "Rainbow Public School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "AISSCE",
+        "location": "Delhi, India",
+        "ID": 1.0,
+        "grade_received": "94.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Website Preview Tool",
+        "description": "Developed Website Preview Tool which helps in previewing a website on a specified IP Address by acting as a reverse proxy. Utilized Python/FastAPI for performance, Redis for Instant Database and Supabase for Persistent Database.",
+        "keywords": [],
+        "endDate": "June 2023",
+        "startDate": "May 2023",
+        "url": "https://resolvehost.link"
+      },
+      {
+        "name": "College Job Portal",
+        "description": "Worked with the team to develop an interactive public form and HR Dashboard by utilizing NodeJS, MongoDB and AWS. Optimized the platform to handle 100+ concurrent sessions for applications.",
+        "keywords": [],
+        "endDate": "February 2023",
+        "startDate": "November 2022",
+        "url": "https://www.manipaljaipurcareers.tech"
+      },
+      {
+        "name": "CyberPanel",
+        "description": "Contributed as a Core Developer during the initial stages of a now popular server management panel. Author of several core functions Including Cron Job Management, One-Click Joomla Installer, Server Status Page, Backups etc. Utilized Python and Docker to create an interface to manage and deploy containers resulted in 30%+ increase in GitHub stars.",
+        "keywords": [],
+        "endDate": "June 2020",
+        "startDate": "October 2017",
+        "url": "https://cyberpanel.net"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Contributor",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Python Software Foundation",
+        "description": "Second time contributor in GSoC with Sub Organization Pwndbg (a plugin for GDB used for Reverse Engineering). Added support for jemalloc - a malloc implementation that emphasizes on fragmentation avoidance and scalable concurrency support. Authored code to parse and navigate intricate metadata structure used by jemalloc to help debug applications using jemalloc.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Undergraduate Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Dell Technologies",
+        "description": "Proposed and implemented automation in Python for data compilation to reduce weekly hands-on time by 67% on average. Developed a Dashboard to allow users to monitor automation jobs using Angular, Flask, and Ansible. Optimized API used for Sourcing Guidance resulting in a 20% decrease in response time and a 40% decrease in connection errors.",
+        "location": "Bengaluru, Karnataka, India",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Contributor",
+        "skillsUsed": [],
+        "endDate": "September 2023",
+        "company_name": "Python Software Foundation",
+        "description": "Developed new features including Advanced Filtering, Passphrase change option for Borg Repositories, time-based filtering for Borgmatic. Discovered and fixed a critical bug in BorgBackup's filtering logic that crashed the application resulting in prompt merge by maintainers. Introduced Integration tests for BorgBackup in Vorta along with Nox configuration and GitHub Actions to automate these tests.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [],
+        "endDate": "September 2023",
+        "company_name": "AceIPM eLearning Private Limited",
+        "description": "Collaborated with the aspirants to identify issues and improve the mock test platform. Utilized Python, Django, and PostgreSQL to create interactive report allowing users to overview their progress and identify key weaknesses. Added feature to gamify the scores for 1.5K+ users resulting in more than 17% increase in user engagement.",
+        "location": "Noida, India",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Co-Founder",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "VapourHost Private Limited",
+        "description": "Maintained Linux production and backup servers hosting 8,500+ domains serving over 150 million pages monthly. Wrote Internal and Public Technical Documentation and was responsible for managing it. Wrote scripts to perform repeated tasks and automated deployment of servers using Bash, Python and Ansible.",
+        "location": "Uttarakhand, India",
+        "links": "",
+        "startDate": "October 2016"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Python",
+      "Bash",
+      "SQL",
+      "Supervised Learning",
+      "Beginner NLP",
+      "Django",
+      "FastAPI",
+      "Flask",
+      "Technical Writing",
+      "Git",
+      "Linux"
+    ],
+    "soft_skills": [],
+    "name": "Chirag Aggarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "2 consecutive Deans List recipient",
+      "Student Excellence Awardee",
+      "Finalist and Team Leader at Smart India Hackathon 2022",
+      "Head of Web Development at CodeChef MUJ Club",
+      "Winner of Code-It-On IEEE Genesis and Designathon by IEEE MUJ"
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 5.0,
+  "degree": "Bachelor of Technology"
+}

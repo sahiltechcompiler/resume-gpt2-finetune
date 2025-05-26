@@ -1,0 +1,126 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Chinmoy Nath",
+  "college": "Bhagwan Parshuram Institue of Technology, Delhi",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data structures and Algorithm",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "UI/UX Design",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "React",
+        "issuer": "Internshala",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Volunteered for CSI, BPIT and organized a 24-hour hackathon in my college."
+    ],
+    "education": [
+      {
+        "school": "Bhagwan Parshuram Institue of Technology, Delhi",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA  8.1",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": "Aug. 2017"
+      },
+      {
+        "school": "Kendriya Vidyalaya New Bongaigaon, Assam",
+        "endDate": "Sept. 2022",
+        "maximum_grade": "",
+        "degree": "Class XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage  75",
+        "field_of_study": "",
+        "startDate": "May 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chat app",
+        "description": "Developed a modern, real-time web application for chatting using React, Firebase, CSS and Context API. Designed and implemented a responsive user interface with React, providing a seamless user experience across all devices and screen sizes. Managed global state and shared data between components using Context API, improving code organization and reducing the need for props drilling and also used CRUD operations. Implemented real-time messaging functionality using Firebase web SDK, allowing users to instantly send and receive messages without refreshing the page. Built a secure authentication system with Firebase Authentication, allowing users to create accounts and sign in securely using email and password or social media accounts.",
+        "keywords": [
+          "React",
+          "JavaScript",
+          "Firebase",
+          "ContextAPI"
+        ],
+        "endDate": "Present",
+        "startDate": "Nov. 2020",
+        "url": ""
+      },
+      {
+        "name": "Box-Office",
+        "description": "Developed Box Office, a web application using React, RestfulAPI, TvmazeAPI, CSS, and other modern web technologies. Leveraged RestfulAPI and TvmazeAPI to retrieve and display accurate and up-to-date information about movies and actors. Designed an engaging user interface using CSS and dynamic styles for a seamless user experience. Utilized react-router for seamless navigation and custom hooks for efficient code management.",
+        "keywords": [
+          "React",
+          "CSS",
+          "RestfulAPI",
+          "TvmazeAPI"
+        ],
+        "endDate": "Present",
+        "startDate": "Aug. 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C/C++",
+      "SQL (Postgres)",
+      "JavaScript",
+      "Java",
+      "Python",
+      "HTML/CSS",
+      "MySQL",
+      "React",
+      "Node.js",
+      "Material-UI",
+      "RestAPI",
+      "MongoDB",
+      "Expressjs"
+    ],
+    "soft_skills": [],
+    "name": "Chinmoy Nath",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved around 100+ questions across multiple platforms like leetcode, hackerrank, codestudio.",
+      "In Top 33 percent coders in Leetcode.",
+      "Participated in various coding competitions.",
+      "Become second in chess competition which happened in our college in 2021 and also represent college chess team."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

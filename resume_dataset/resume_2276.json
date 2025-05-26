@@ -1,0 +1,108 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SHASHWAT MISHRA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "7.5",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "LIVE-DOCS (DEMO)",
+        "description": "Addressed and resolved the need for seamless collaboration in document editing. Developed a real-time collaborative text editor that allows multiple users to edit documents simultaneously with live updates. Enhanced team productivity by 40% through the introduction of inline comments for threaded discussions and a notification system, leading to faster decision-making and collaboration.",
+        "keywords": [
+          "Next.js 14",
+          "Tailwind CSS",
+          "Typescript",
+          "LiveBlocks"
+        ],
+        "endDate": "July 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "PATH-VISUALIZER (DEMO)",
+        "description": "Tackled and demystified the challenge of understanding complex algorithms through visualization. Developed a web app that visualizes algorithm paths using Maze, Graph, and Speed features, allowing users to track the algorithm's process. Improved learning outcomes by 35%, providing users with a clear and interactive visual representation of algorithm operations.",
+        "keywords": [
+          "Next.js 14",
+          "Tailwind CSS",
+          "Typescript"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TEXT-SUMMARIZER FOR NEWS AGGREGATION PLATFORM",
+        "description": "Simplified and optimized the process of consuming large volumes of news articles. Developed a Python app that summarizes news articles, added categorization and search options, and implemented adjustable quantity control using a seek bar. Enhanced user experience by reducing reading time by 50% while maintaining over 90% of the original content's key information.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "Streamlit",
+          "Google News RSS API",
+          "Newspaper3k"
+        ],
+        "endDate": "April 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "MERLIN AI by FOYER",
+        "description": "Designed and deployed a versatile chatbot code snippet that seamlessly integrates into any website, increasing client interaction rates by 35% and reducing customer service response time by 30%. Developed domain-specific chatbot capabilities to provide tailored responses to client inquiries. Optimized the chatbot's functionality to promote courses and products listed on the website, boosting sales conversion rates by 25% through integrated email marketing strategies.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "Next.js 14",
+      "React",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Typescript",
+      "Convex",
+      "Node.js",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "SHASHWAT MISHRA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured a notable 3rd place position in the esteemed IOSD Manipal ALLOCATE competition of 2023 among 2000+ participants of different colleges."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

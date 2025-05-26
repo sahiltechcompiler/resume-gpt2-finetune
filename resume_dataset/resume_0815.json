@@ -1,0 +1,253 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Kishore Harshan Kumar",
+  "college": "St.Josephs College of Engineering",
+  "locations": [
+    "Chennai, Tamil Nadu",
+    "Kolkata, West Bengal",
+    "Ontario, Canada"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Fundamentals of AI || NLP || Computer Vision || Gen AI || Document Intelligent || Azure Auto ML",
+        "skillsLearned": [],
+        "title": "Microsoft AI-900",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "SQL || Python for Data analysis || Tableau || Power BI || Mathematics For Machine Learning",
+        "skillsLearned": [],
+        "title": "Google Data Analytics",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Linear Algebra || Statistics || Vectors || Algorithms",
+        "skillsLearned": [],
+        "title": "Linear Algebra",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Deep Learning || Image Processing || Video Analytics || Tensorflow || Keras || PyTorch",
+        "skillsLearned": [],
+        "title": "IBM AI Professional Certificate",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "St.Josephs College of Engineering",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "OMR, Chennai",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Artificial Intelligence and Data Science",
+        "startDate": "08/2021"
+      },
+      {
+        "school": "Dakshin Bharat Hindi Prachar Sabha",
+        "endDate": "09/2020",
+        "maximum_grade": "",
+        "degree": "Diploma",
+        "location": "T.Nagar, Chennai",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "Hindi",
+        "startDate": "03/2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Skin Disease Prognoser",
+        "description": "Built a Skin Disease Prognoser model harnessing state-of-the-art Convolutional Neural Networks (CNNs) and advanced Deep Learning techniques to accurately predict skin conditions. Integrated cutting-edge recommendation algorithms such as collaborative filtering and matrix factorization to provide personalized skincare product suggestions based on individual skin needs and characteristics.",
+        "keywords": [],
+        "endDate": "01/2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image Denoising",
+        "description": "Pioneered an underwater image denoising model employing Artificial Neural Networks (ANNs) and Deep Convolutional Neural Networks (DCNNs), leveraging advanced techniques in deep learning to effectively remove noise and enhance image clarity in underwater environments.",
+        "keywords": [],
+        "endDate": "08/2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Product Mapping and Automatic Billing system using Deep Learning",
+        "description": "Developed a Deep Learning model with YOLO to detect objects that customer adds in their cart using Computer Vision and recommend product based for their choice.",
+        "keywords": [],
+        "endDate": "07/2022",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI for intelligent camera decision making",
+        "description": "Engineered an AI-powered camera system with CNNs for image captioning, RNNs for data processing, and GANs for evidence generation. Integrated Virtual FIR system with NLP for automatic FIR filing, utilized k-means clustering for crime hotspot detection, and employed PCA for feature extraction. Offers proactive police assistance and enables effective law enforcement through real-time decision-making.",
+        "keywords": [],
+        "endDate": "01/2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Gesture-Driven Colon Detection Toolkit for Doctors",
+        "description": "Creating a surgical assistance tool for doctors to classify colon types using ResNet50 and EfficientNet, and understanding colon tissue through semantic segmentation with pigment and tissue depth analysis. Incorporating rule-based recommendations to guide doctors in dissecting personalized tissue types for patient safety during surgery.",
+        "keywords": [],
+        "endDate": "Currently working",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "experiences": [
+      {
+        "role_name": "Deep Learning Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Phosphene AI",
+        "description": "Working on an Audio Neural Style Transfer model using PyTorch to generate deep fake audios, employing advanced techniques such as WaveNet for audio synthesis and Transformer networks for enhanced style transfer. Implemented a Lip Sync model for both static and dynamic faces, integrating Generative Adversarial Networks (GANs) for realistic visual generation and Long Short-Term Memory (LSTM) networks for temporal coherence and synchronization. Utilized CNNs for feature extraction and RNNs for sequential data handling, ensuring high-quality and accurate lip-syncing in various facial contexts.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "02/2024"
+      },
+      {
+        "role_name": "Cloud Intern",
+        "skillsUsed": [],
+        "endDate": "Current",
+        "company_name": "PWC",
+        "description": "Serving as a Cloud Intern, gaining proficiency in Core Java and IT fundamentals, alongside RDBMS and DevOps practices. Engaged in hands-on labs with AWS, Azure, and GCP, and gaining skills in responsive web design using HTML, CSS, and JavaScript.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "03/2023"
+      },
+      {
+        "role_name": "Software Developer",
+        "skillsUsed": [],
+        "endDate": "01/2024",
+        "company_name": "Contents Shark",
+        "description": "Authored numerous technical articles featuring source code on advanced topics such as Generative AI, Machine Learning, Deep Learning, and emerging technologies. Devised a BERT-based language model employing state-of-the-art NLP techniques including tokenization, attention mechanisms, and transfer learning to accurately answer NEET exam questions. Engineered a comprehensive Flight Management System incorporating microservices architecture, with functionalities for schedule tracking, flight availability, and dynamic ticket pricing, utilizing Node.js and React.js frameworks. This project involved developing scalable backend APIs, integrating RESTful services, implementing WebSockets for real-time updates, and ensuring efficient state management with Redux for optimal data handling and user experience.",
+        "location": "Kolkata, West Bengal",
+        "links": "",
+        "startDate": "05/2023"
+      },
+      {
+        "role_name": "Project Intern",
+        "skillsUsed": [],
+        "endDate": "09/2023",
+        "company_name": "Cognizant",
+        "description": "Crafted an Agile technology solution utilizing .NET ASP Core, React.js, and C#, delivering a scalable backend system and interactive user interfaces. Conducted comprehensive software testing, encompassing unit testing, integration testing, and end-to-end testing, employing frameworks such as xUnit and Selenium to ensure high-quality and reliable software performance. Implemented a sophisticated file organization validation module using advanced algorithms and data structures, such as hash tables and balanced binary trees, to ensure data integrity and compliance with industry standards.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "02/2023"
+      },
+      {
+        "role_name": "Machine Learning Engineer",
+        "skillsUsed": [],
+        "endDate": "03/2023",
+        "company_name": "Stigmata Techno Solutions",
+        "description": "Automated invoice processing leveraging AWS EC2 instances and AWS Textract, significantly reducing manual effort and enhancing efficiency. Integrated RabbitMQ as a message broker to streamline workflows and manage OCR processing tasks effectively. Implemented robust error handling and monitoring mechanisms using CloudWatch and Sentry to ensure data integrity and reliability throughout the OCR processing pipeline. Post-extraction, validated data against the existing database using fuzzy matching algorithms and served the extracted data to the frontend using RESTful APIs. Aggregated data was then analyzed using predictive algorithms like ARIMA and LSTM for future trend prediction, providing valuable insights for user applications.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "01/2023"
+      },
+      {
+        "role_name": "Machine Learning Lead",
+        "skillsUsed": [],
+        "endDate": "Current",
+        "company_name": "Google Developers Students Club",
+        "description": "Mentored and guided over 100 students in machine learning and deep learning, providing valuable insights and hands-on support throughout their learning journey. Facilitated interactive sessions and discussions, covering advanced topics such as supervised learning, neural networks, model optimization, reinforcement learning, natural language processing, generative adversarial networks (GANs), transfer learning, and hyperparameter tuning. Enabled students to grasp fundamental concepts and gain practical experience in applying cutting-edge machine learning algorithms, demonstrating strong leadership and fostering a collaborative learning environment.",
+        "location": "Chennai, Tamil Nadu",
+        "links": "",
+        "startDate": "11/2022"
+      },
+      {
+        "role_name": "ML Developer Intern",
+        "skillsUsed": [],
+        "endDate": "10/2022",
+        "company_name": "TactLabs",
+        "description": "Formulated a Handwriting Recognition model employing Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) to identify handwritten content across diverse languages, orchestrating a sophisticated workflow with AWS services and streamlined pipelines to optimize model performance and scalability. Additionally, Constructed a personalized AI-powered chatbot for the healthcare industry using the Rasa bot framework, integrating advanced vectorization algorithms such as Word2Vec, GloVe, and BERT to enhance natural language understanding and tailor conversations for improved patient interaction and privacy.",
+        "location": "Ontario, Canada",
+        "links": "",
+        "startDate": "01/2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "React Native",
+      "C",
+      "MongoDB",
+      "MySQL",
+      "React",
+      "Julia",
+      "NoSQL",
+      "Git",
+      "GAN",
+      "Neural Style Transfer",
+      "AWS",
+      "Sage Maker",
+      "EC2",
+      "Rekognition",
+      "Machine Learning",
+      "Data Analytics",
+      "Lambda",
+      "Lex",
+      "Polly",
+      "BedRock",
+      "Azure",
+      "Docker",
+      "Kubernetes(Basic)",
+      "Frontend",
+      "Backend",
+      "Full-Stack"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Mentoring",
+      "Collaboration"
+    ],
+    "name": "Kishore Harshan Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "First prize in open innovation expo organized by AMET University and honored with One Lakhs Rupees Incubation for Start-Up.",
+      "Rajasthan Police Hackathon Finalist organized by Government of Rajasthan with Ministry of Education.",
+      "First prize in AIRO.2.0 a National level Hackathon organized by Sri Sairam College of Engineering.",
+      "Finalist in YESIST-17 organized by IEEE in Egypt.",
+      "First Prize in Hack 0 Holics organized by Idea lab and IIC.",
+      "First prize in VIVID-8.0 & VIVID-7.0 a National level hackathon organized by Sri Sivasubramaniya Nadar College of Engineering."
+    ],
+    "publications": [
+      "Payday loan vs real estate: Detail Analysis of payday loans and analysis of real estate growth using machine learning techniques.",
+      "Underwater Photography Noise cancellation Using Artificial Intelligence and Deep Learning: Image denoising using various neural network architecture.",
+      "Product Mapping in supermarkets Using Deep Learning: AI simplifies daily tasks, like cashier-less supermarkets using computer vision for automated product management, enhancing user convenience.",
+      "Automatic Skin Pathology Prognoser: Automated scanning for early detection of skin diseases is crucial due to varying prevalence rates across India and the tendency for conditions like Psoriasis to escalate if left untreated."
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 7.0,
+  "degree": "Bachelor of Technology"
+}

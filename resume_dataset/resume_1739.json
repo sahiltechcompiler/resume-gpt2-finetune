@@ -1,0 +1,190 @@
+{
+  "project_count": 6.0,
+  "designation": "Full stack developer",
+  "name": "Yash Srivastava",
+  "college": "Guru Gobing Singh Indraprastha University",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Gobing Singh Indraprastha University",
+        "endDate": "June 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "9.32",
+        "field_of_study": "Information Technology",
+        "startDate": "August 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ChatApp",
+        "description": "Welcome to ChatApp, a user-friendly platform built with ReactJS and Firebase integration. Seamlessly register with an avatar, authenticate securely, and engage in real-time chats. With intuitive design and robust backend support, ChatApp offers a seamless communication experience for users, ensuring privacy, reliability, and ease of use.",
+        "keywords": [
+          "React.js",
+          "Firebase",
+          "SASS",
+          "Vercel",
+          "Firestore",
+          "Realtime Database",
+          "Git"
+        ],
+        "endDate": "March 2024",
+        "startDate": "March 2024",
+        "url": "chat-app-nine-lime-26.vercel.app"
+      },
+      {
+        "name": "BlogApp",
+        "description": "Crafted a feature-rich blog app with Node.js, MongoDB, and JWT authentication for seamless user experiences. Encompassing CRUD operations, an intuitive admin panel, and protected routes with session storage, it offers secure and scalable content management. Elevate your blogging journey with effortless pagination and dynamic functionality.",
+        "keywords": [
+          "Node.js",
+          "MongoDB",
+          "EJS",
+          "CSS",
+          "Render"
+        ],
+        "endDate": "March 2024",
+        "startDate": "February 2024",
+        "url": "blogapp-tp3d.onrender.com"
+      },
+      {
+        "name": "Market Stock Prediction system",
+        "description": "AI model to predict stock price using multivariate linear regression and clean, testable code with unit tests.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Pandas",
+          "Plotly",
+          "Anaconda",
+          "Jupyter Notebook"
+        ],
+        "endDate": "December 2023",
+        "startDate": "October 2023",
+        "url": "finance-ochre.vercel.app"
+      },
+      {
+        "name": "Notes App",
+        "description": "Developed a dynamic notes app using React.js for frontend and Firebase for backend. Employs user authentication, real-time data storage, and CRUD operations for seamless note management.",
+        "keywords": [
+          "React.js",
+          "Firebase",
+          "Firestore",
+          "CSS",
+          "Git",
+          "Vercel"
+        ],
+        "endDate": "October 2023",
+        "startDate": "September 2023",
+        "url": "notes-app-black-one.vercel.app"
+      },
+      {
+        "name": "WeatherApp",
+        "description": "Weather Forecasting web app based on real-time data of OpenWeatherAPI provides accurate information on weather, humidity, visibility, pressure.",
+        "keywords": [
+          "React.js",
+          "JSX",
+          "CSS",
+          "JavaScript",
+          "RESTful API"
+        ],
+        "endDate": "July 2023",
+        "startDate": "June 2023",
+        "url": "weather-forcast-4e6c.vercel.app"
+      },
+      {
+        "name": "Restaurant website",
+        "description": "Simple restaurant website to implement responsiveness.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "July 2022",
+        "startDate": "June 2022",
+        "url": "restaurant-website-yakl.vercel.app"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Outreach Lead",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "GFSGTBIT",
+        "description": "Conducted online and offline technical & soft-skills training impacting over 3000 students.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "May 2021"
+      },
+      {
+        "role_name": "Virtual Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Goldman Sachs",
+        "description": "Completed virtual training in Password Hashing and Implementing security and data protection solutions.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "July 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "Java",
+      "HTML",
+      "CSS",
+      "SQL",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "ES6+",
+      "EJS",
+      "GIT",
+      "Vite",
+      "Tailwind CSS",
+      "Bootstrap",
+      "GitHub",
+      "VSCode",
+      "MySQL",
+      "Redux",
+      "Axios",
+      "RESTful API",
+      "Linux",
+      "Web",
+      "Windows",
+      "Firebase",
+      "Firestore Cloud",
+      "Realtime Database",
+      "Postman"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Event Management",
+      "Writing",
+      "Public Speaking",
+      "Time Management"
+    ],
+    "name": "Yash Srivastava",
+    "position": "Full stack developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Certificate of Recognition - Gurugram Police Cyber Intern - July 2021",
+      "Certificate of Achievement - GDSC Uplift Program - May 2021",
+      "State Level Quiz Champion - Delhi Traffic Police - January 2017"
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi -110059",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

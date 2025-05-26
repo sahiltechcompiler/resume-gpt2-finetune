@@ -1,0 +1,111 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Siva Charan Karthik Kammampati",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College AP",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Narayana E.M School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA: 8.40/10.00 (Marks: 976/1000) (Percentage: 93.4)",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Cooperative Localization using 5G enabled vehicular network",
+        "description": "The project focused on developing a cooperative localization approach for 5G-enabled vehicular networks. The algorithm was integrated seamlessly with 5G communication protocols, optimizing bandwidth and low-latency communication. Real-time data exchange between vehicles, improving localization accuracy by comparing to GPS-only solutions.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Learning Website for Cyber Security Students",
+        "description": "Created a responsive front-end for a cybersecurity learning website using HTML5, CSS3, and JavaScript. Utilized React.js to create dynamic, user-friendly interfaces and ensure a seamless user experience. Engineered a responsive front-end for a cybersecurity learning platform using HTML5, CSS3, and JavaScript; decreased page load time by 40 percent and increased user engagement by 25 percent within three months.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Programming intern",
+        "skillsUsed": [],
+        "endDate": "Mar 2024",
+        "company_name": "SystemTron",
+        "description": "Developed four interactive C++ games: Rock Paper Scissors, Connect Four, Tic Tac Toe, and Number Guess, adhering to strict timelines of one game per week. Achieved high accuracy and reliability in game results, contributing to a positive user experience. Applied principles of game theory to balance gameplay mechanics and ensure fair and enjoyable player experiences. Utilized version control systems like Git to manage code changes and collaborate effectively with team members.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb 2024"
+      }
+    ],
+    "skills": [
+      "DSA",
+      "Operating System",
+      "Computer Networks",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Data Analysis",
+      "C++",
+      "C",
+      "Python",
+      "Git Bash",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Adaptability"
+    ],
+    "name": "Siva Charan Karthik Kammampati",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded a 3-star rating in HackerRank SQL.",
+      "Solved over 50 problems on GeeksForGeeks.",
+      "Solved over 150 competitive coding problems on CodeChef, climbing to the top 5 percent of global participants in algorithmic challenges."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

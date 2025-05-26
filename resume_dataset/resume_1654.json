@@ -1,0 +1,134 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Nannapaneni Navyasri",
+  "college": "SRM University",
+  "locations": [],
+  "full_output": {
+    "summary": "Seeking an internship to work on impactful projects, gain practical experience, and advance technical skills under experienced professional supervision.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaithanya Mahila Jr College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81.9/100",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Sri Chaithanya School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.5/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MindSight: Revolutionizing Brain Tumor Diagnosis with Deep Learning",
+        "description": "Developed MindSight: Revolutionizing Brain Tumor Diagnosis with Deep Learning to enhance medical imaging diagnostics. Implemented cutting-edge deep learning architectures (EfficientNetB3, ResNet50, MobileNetV3, VGG16) to analyze MRI images.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Transportation Scheduling using Artificial Intelligence",
+        "description": "Implemented the A* algorithm to determine optimal routes based on combined current and estimated future costs. This approach systematically evaluates paths, prioritizing those with minimized overall expenses. The project focuses on optimizing logistics between warehouses and customers, ensuring efficient pathfinding in diverse environments.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Tic-Tac-Toe",
+        "description": "This project utilizes HTML, CSS, and JavaScript to create a visually appealing and interactive experience. The game is designed to be intuitive and user-friendly, making it accessible for players of all ages.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development using Django",
+        "skillsUsed": [
+          "Django",
+          "Python",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Successfully completed APSSDCs Web Development Using Django program. Demonstrated proficiency in Django framework and delivered impactful web development project. Developed a Django-based Student Portal utilizing Python, HTML, CSS, JavaScript, and Bootstrap. Enabled teachers to manage student data and facilitated student access to attendance, marks, and administrative features. Empowered administrators with centralized control for efficient communication and streamlined tasks.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Research Internship",
+        "skillsUsed": [
+          "AI",
+          "ML",
+          "Predictive Modeling"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Heart Disease Prediction",
+        "description": "This research internship, under the guidance of Dr. Murali Krishna Enduri, focused on advancing AI and ML algorithms to improve the accuracy of heart disease prediction. Using data of patient, I trained models to identify whether the Heart disease was present or not. Utilizing machine learning algorithms, it aimed to develop the Predictive Modeling for Heart Disease Detection successfully published Research paper In IEEE Conference.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "NodeJS",
+      "MongoDB",
+      "Django",
+      "ReactJS",
+      "SQL",
+      "C++",
+      "Python",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "Nannapaneni Navyasri",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": [
+      "R. Gandham, K. R. Manambakam, S. V. N. Madala, N. S. Nannapaneni, S. Tokala and M. K. Enduri, Predictive Modeling for Heart Disease Detection with Machine Learning, click here",
+      "R. Gandham, K. R. Manambakam, N. Nannapaneni, M. K. Enduri, K. Hajarathaiah and S. Anamalamudi, MindSight: Revolutionizing Brain Tumor Diagnosis with Deep Learning, click here"
+    ]
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

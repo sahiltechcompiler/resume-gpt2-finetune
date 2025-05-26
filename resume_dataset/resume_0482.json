@@ -1,0 +1,128 @@
+{
+  "project_count": 7.0,
+  "designation": "Business Analyst Intern",
+  "name": "Rahul Chaudhary",
+  "college": "Maharaja Agrasen Institute of Technology, GGSIPU",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology, GGSIPU",
+        "endDate": "July,2025",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA 7.9/10",
+        "field_of_study": "Artificial intelligence and data science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Churn Prediction Model",
+        "description": "machine learning model that predicts whether a customer is likely to leave a business soon.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Credit Card Fraud Detection Model",
+        "description": "A dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Genre Classification Model",
+        "description": "Predicting the genre of a movie based on its plot summary or other textual information, by using techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Object Detection Model",
+        "description": "Using CNN and Transfer Learning",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Diabetes Prediction Model",
+        "description": "Using ANN and deployed using streamlit",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "A tool to optimize the time codes of a SRT File",
+        "description": "Input- video file and text script",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Integrated computer vision model",
+        "description": "with my webcam to detect whether the user is wearing a facemask or not.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Business Analyst Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "UNO Minda",
+        "description": "Process the Inventory data and create some calculated fields to visualize the data more efficiently using tableau dashboard. Process customer and product data and create some calculated fields to visualize the data more efficiently using tableau dashboard. Forecasting the customer and product data using the standard Extreme Gradient Boosting (XGBoost) model.",
+        "location": "",
+        "links": "",
+        "startDate": "February 2024"
+      },
+      {
+        "role_name": "Virtual Internship",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Code Soft",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "SQL",
+      "Python (OOPs and Libraries)",
+      "Tableau",
+      "Machine Learning (Regression, Classification, Clustering)",
+      "Model Selection and Hyperparameter Tunning (Model Optimization)",
+      "Deep Learning (Neural Networks optimization)",
+      "Computer Vision (Digital image processing, Convolutional Neural Networks)",
+      "Natural Language Processing (RNN, LSTM, BERT)"
+    ],
+    "soft_skills": [],
+    "name": "Rahul Chaudhary",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Artificial intelligence and data science"
+}

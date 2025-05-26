@@ -1,0 +1,105 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sanjana Kumari Sharma",
+  "college": "PDPM IIITDM Jabalpur",
+  "locations": [
+    "Kolkata, West Bengal, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Served as assistant Counseling Committee Coordinator at IIITDM Jabalpur, mentoring 40 students directly and influencing over 500 students indirectly.",
+      "Served as active member of Avartan, the Dance Society of IIITDM Jabalpur, contributing to FlashMob for the annual Cultural Fest (2023)."
+    ],
+    "education": [
+      {
+        "school": "PDPM IIITDM Jabalpur",
+        "endDate": "May 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CPI: 7.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Poll Application",
+        "description": "Developed an polling Application using Django. Developed the poll creation and vote casting functionality.",
+        "keywords": [],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": "github.com/sanxzk/Django-Poll-App"
+      },
+      {
+        "name": "NotesKey",
+        "description": "Developed an efficient task management platform, NotesKey, using the MERN stack. Integrated Redux Toolkit and Axios for state management and data fetching. Implemented robust backend functionalities with bcryptjs, jsonwebtoken, and mongoose.",
+        "keywords": [],
+        "endDate": "Sept 2023",
+        "startDate": "",
+        "url": "github.com/sanxzk/Task-Management-application"
+      },
+      {
+        "name": "Youtube Analyser",
+        "description": "Developed a user-friendly YouTube Analyzer web app, predicting earnings for videos based on links. Led the development to analyze video statistics and manage user queries efficiently. Implemented a user callback feature for user queries, allowing users to receive detailed responses via email.",
+        "keywords": [],
+        "endDate": "Dec 2023",
+        "startDate": "",
+        "url": "github.com/sanxzk/Youtube analyser"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "React Developer Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Leaf Technologies",
+        "description": "Designed and developed Chrome extension using HTML, CSS and Javascript. Created the Analytical website using ReactJs.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Software Development Engineering Intern",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Crystal Clear Services",
+        "description": "Designed and developed dynamic web applications using various technologies. Created the frontend for an e-commerce website allowing customers to customize t-shirts and shirts. Collaborated with team members, utilizing the MERN stack for implementation.",
+        "location": "",
+        "links": "",
+        "startDate": "Jan 2024"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Python3",
+      "Django",
+      "ReactJs",
+      "ExpressJs",
+      "NodeJs",
+      "MongoDb",
+      "VS Code",
+      "Git/GitHub",
+      "Figma"
+    ],
+    "soft_skills": [],
+    "name": "Sanjana Kumari Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Kolkata, West Bengal, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

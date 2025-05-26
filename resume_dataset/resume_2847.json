@@ -1,0 +1,164 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Shivani Rakesh",
+  "college": "Indian Institute of Technology (ISM), Dhanbad",
+  "locations": [
+    "New Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Volunteer work in the rural area of Siwan, Bihar, as part of The Rural Immersion Programme, organized by DPS, Patna."
+    ],
+    "education": [
+      {
+        "school": "Indian Institute of Technology (ISM), Dhanbad",
+        "endDate": "MAY 2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.48",
+        "field_of_study": "Mining Engineering",
+        "startDate": "DECEMBER 2020"
+      },
+      {
+        "school": "Delhi Public School, Patna",
+        "endDate": "APRIL 2019",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "94%",
+        "field_of_study": "",
+        "startDate": "APRIL 2017"
+      },
+      {
+        "school": "Delhi Public School, Patna",
+        "endDate": "APRIL 2017",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "CGPA-10",
+        "field_of_study": "",
+        "startDate": "APRIL 2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Student Attendance and Performance Recording System",
+        "description": "Developed as part of Hackfest22 organized by IIT(ISM) Dhanbad. Development of an attendance recording model along with a performance detection model using machine learning. The attendance model analyzed faces using webcam input and stored the attendance. The performance detection model contained an eye detection model and an emotion detection model. The eye-detection model analyzed whether the eyes of a student were open or closed while the emotion-detection model analyzed the emotions of a student during a particular class. The entire project was made using OpenCV, TensorFlow, and Keras Library.",
+        "keywords": [
+          "Machine Learning",
+          "OpenCV",
+          "TensorFlow",
+          "Keras Library"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Mask Detection Application and Entry System",
+        "description": "Development of a mask detection software using Machine Learning and OpenCV. This software was combined with an IoT Design(using TinkerCAD software), which performed the task of granting/denying entry upon receiving the signal from the mask detection software.",
+        "keywords": [
+          "IOT",
+          "Machine Learning",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SWE Intern",
+        "skillsUsed": [
+          "JAVA",
+          "Streamz",
+          "Monarch instrumentation",
+          "Mash query language",
+          "Automon dashboards"
+        ],
+        "endDate": "JULY 2023",
+        "company_name": "Google India",
+        "description": "Worked as a SWE intern in Google India with the Google Cloud team. Work involved defining and using various metrics to monitor the performance of the Jump Start Solutions page developed by the Solutions Catalog team. The metrics were defined using Streamz library in JAVA and monitored using Monarch instrumentation and queried with the help of Mash query language. The results obtained through the metrics were visualized in the form of graphs with the help of Automon dashboards.",
+        "location": "",
+        "links": "",
+        "startDate": "MAY 2023"
+      },
+      {
+        "role_name": "STEP Intern",
+        "skillsUsed": [
+          "GoogleSQL",
+          "HTML",
+          "CSS",
+          "protocol buffer"
+        ],
+        "endDate": "JULY 2022",
+        "company_name": "Google India",
+        "description": "Worked as a STEP intern in Google India with the Google Cloud team. Work involved creating a dashboard to track and analyze the tests running internally in different workstreams within the Anthos team of Google Cloud. The dashboard was developed by importing test result data(stored in protocol buffer format), and then querying the data(using GoogleSQL commands) to extract the required information. After extraction, the obtained results were displayed in a user interface built with PLX technology using HTML and CSS elements.",
+        "location": "",
+        "links": "",
+        "startDate": "MAY 2022"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Content Writing"
+        ],
+        "endDate": "AUGUST 2021",
+        "company_name": "Commtail Maxima",
+        "description": "Worked as a content writing intern in this Delhi-based company. Articles were written on a wide range of technical topics such as Basics of Coding, Python, and Various Operations using Python.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "JULY 2021"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Algorithms",
+      "Data Structures",
+      "HTML",
+      "CSS",
+      "SQL",
+      "JAVA",
+      "Python",
+      "IoT",
+      "Machine Learning",
+      "OpenCV",
+      "Mash",
+      "Tensorflow",
+      "Keras",
+      "Content Writing",
+      "Photoshop"
+    ],
+    "soft_skills": [],
+    "name": "Shivani Rakesh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winner, Hackfest 22, IIT ISM Dhanbad",
+      "Mentee, Microsoft Engage 2022",
+      "AIR Top 50, TATA Women of Mettle, Season 6, 2022",
+      "AIR 15 in (Algorithms and DS) Indias Super Brain 2021 conducted by Alien Brains.",
+      "AIR 23 in (Game Development and JS) Indias Super Brain 2021 conducted by Alien Brains.",
+      "AIR 37 in (IOT+ML) Indias Super Brain 2021 conducted by Alien Brains.",
+      "Finalist. TechGig Code Gladiators, 2023",
+      "Finalist, CodeQueen, IIIT Allahabad, 2022",
+      "Fourth Rank in NVCTI Winter Challenge IIT(ISM) Dhanbad, 2022",
+      "First Runner Up, NIT Durgapur Parliamentary Debate(Open Category), 2022.",
+      "ProQuizzin League 2021 Super Cup Winner (Team Kolkata Wizards)."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

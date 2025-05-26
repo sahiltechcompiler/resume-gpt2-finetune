@@ -1,0 +1,130 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "ABHAY SINGH",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, Uttar Pradesh",
+    "Salempur, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine learning with Python",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Using Java",
+        "issuer": "Infosys",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Development",
+        "issuer": "Internshala",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "St Xaviers School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "CBSE, Class XII",
+        "location": "Salempur, Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "St Xaviers School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "CBSE, Class X",
+        "location": "Salempur, Uttar Pradesh",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Optical Character Recognition",
+        "description": "Developed an Optical Character Recognition model using Tesseract for text extraction, OpenCV for image preprocessing, and Python for implementation. Utilized libraries like Pytesseract and NumPy for data handling, and PIL for image manipulation.",
+        "keywords": [
+          "Python",
+          "Tesseract",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Fitness Activities Website",
+        "description": "Developed a fitness activities website using HTML, CSS, and JavaScript for the frontend. Implemented Node.js and Express for backend functionality, with MongoDB for database management. Integrated APIs for fitness data and React for dynamic UI.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Node.js",
+          "React.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "Basic Python",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "MySQL"
+    ],
+    "soft_skills": [],
+    "name": "ABHAY SINGH",
+    "position": "",
+    "interests": [
+      "Cricket",
+      "Video Games"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

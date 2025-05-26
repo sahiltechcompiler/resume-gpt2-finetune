@@ -1,0 +1,112 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Hiten Gehlot",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Partapur",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "New Look Central School",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Partapur",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "March 2020"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Krishna AI - Personalised Voice Assistant",
+        "description": "Designed and implemented a chatbot application using Python and TensorFlow, focusing on natural language processing to facilitate engaging and accurate user interactions. Integrated Machine Learning Models: Utilized pre-trained models and fine-tuned them to enhance the AIs ability to understand and respond to user queries effectively.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Ensured website performance through code optimization and implemented accessibility best practices to make the site usable for a broader audience. Performed extensive testing across multiple browsers and mobile devices to ensure consistent performance and user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Front End Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Jun 2024",
+        "company_name": "Bharat Intern",
+        "description": "Created and styled interactive and responsive web pages using HTML and CSS, ensuring compatibility across various devices and browsers. Utilized JavaScript to develop dynamic user interfaces, including modals, sliders, and form validations, enhancing user engagement and experience. Improved web performance by optimizing HTML, CSS, and JavaScript code, reducing load times and ensuring smooth navigation for users. Ensured consistent appearance and functionality across multiple browsers by writing cross-browser compatible CSS code.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Centre of Excellence",
+        "skillsUsed": [
+          "PowerBI",
+          "SQL"
+        ],
+        "endDate": "Present",
+        "company_name": "Celebal Technologies",
+        "description": "Developed and optimized interactive dashboards using PowerBI, enabling data-driven decision-making for business processes. Utilized DirectQuery mode to load and integrate the Production table from SQL Server, ensuring real-time data analysis and reporting. Collaborated with cross-functional teams to understand business requirements and translate them into actionable insights.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jul 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Python",
+      "Bootstrap",
+      "Git",
+      "JavaScript"
+    ],
+    "soft_skills": [],
+    "name": "Hiten Gehlot",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "3rd Position (2021): Under ACM - Elicit 2023",
+      "AWS Academy Graduate: Cloud Foundation",
+      "Forage Certified Accenture North America: Data Analytics and Visualization Job Simulation"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

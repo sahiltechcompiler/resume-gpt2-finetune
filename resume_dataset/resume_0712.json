@@ -1,0 +1,154 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Mohit Sahu",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi-NCR, Ghaziabad",
+    "ONLINE",
+    "Hyderabad"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web Dev.",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "DSA with Java",
+        "issuer": "Apnacollege",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "Nov. 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Delhi-NCR, Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "SGPA 7.5 ( till 4th Sem. )",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "St.Johns School Marhauli, VNS",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "82%",
+        "field_of_study": "ICSE",
+        "startDate": ""
+      },
+      {
+        "school": "Narayana Jr. College, Hyderabad",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "92%",
+        "field_of_study": "TSBIE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "HEALTHINESS",
+        "description": "AI based health care ecosystem showcasing many features like real time health monitor according to change in quality of air of different places. Also integrating computer vision for exercise posture corrector and recommender according to your health.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "NODE.JS",
+          "MONGODB",
+          "Bootstrap",
+          "Git"
+        ],
+        "endDate": "Ongoing",
+        "startDate": "Jul. 2023",
+        "url": ""
+      },
+      {
+        "name": "STREAMLINING OF JUDICIAL CASES THROUGH DCM SYSTEM",
+        "description": "Solution to categorize cases according to their complexity. Developed a portal which will extract the information about the case from its description and predict its complexity. According to the predicted complexity the required judicial resources will be provided, and amount of time will be decided to conclude its verdict.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "NODE.JS",
+          "MONGODB",
+          "Bootstrap",
+          "Git"
+        ],
+        "endDate": "",
+        "startDate": "Sep. 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Internship",
+        "skillsUsed": [],
+        "endDate": "Sept. 23",
+        "company_name": "yantra byte",
+        "description": "AIML Live Certificate Course cum Internship.",
+        "location": "ONLINE",
+        "links": "",
+        "startDate": "Aug."
+      },
+      {
+        "role_name": "Ml internship",
+        "skillsUsed": [],
+        "endDate": "Sept. 22",
+        "company_name": "department of Information Technology, KIET Group Of Institutions",
+        "description": "Work on Handwritten Digit Recognition on mnist Data Set.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug."
+      }
+    ],
+    "skills": [
+      "Java",
+      "Html",
+      "C",
+      "Python",
+      "JavaScript",
+      "CSS",
+      "Node.js",
+      "Git",
+      "GitHub",
+      "MongoDB",
+      "Express.js",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "Mohit Sahu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Top 10 at HackKRMU held at K. R. Mangalam University",
+      "Participated in Innotech 22 at KIET Group Of Institutions"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech."
+}

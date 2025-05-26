@@ -1,0 +1,148 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "SHYAM DHARAN",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Jalandhar, Punjab",
+    "Pollachi, Tamilnadu"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Problem Solving (Intermediate)",
+        "issuer": "HackerRank",
+        "certiLink": "https://www.hackerrank.com/certificates/b42307e53658"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Genrative AI",
+        "issuer": "Coursera",
+        "certiLink": "https://coursera.org/verify/DJPDL6G6ZGNE"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Data Analytics Specialization",
+        "issuer": "Coursera",
+        "certiLink": "https://coursera.org/verify/professional-cert/ZMPYBPTFK24W"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CS50AI: CS50s Introduction to Artificial Intelligence with Python",
+        "issuer": "Edx",
+        "certiLink": "https://courses.edx.org/certificates/9895370564354624b2532232db6c56"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor's",
+        "location": "Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.06",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Vishwa Sishya Vidyodaya School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Pollachi, Tamilnadu",
+        "ID": 1.0,
+        "grade_received": "Percentage: 92.60%",
+        "field_of_study": "Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hallucination Detection in Contextual QA",
+        "description": "Compiled and annotated datasets with context-question-answer and Optimized BERT-based neural network models to enhance performance in distinguishing accurate information from hallucinations. Assessed model efficacy through key performance indicators such as accuracy, precision, and recall, ensuring reliable deployment. Implemented the refined model into real-time contextual question-answering systems to prevent the propagation of false information.",
+        "keywords": [
+          "Python",
+          "NLP",
+          "Machine Learning"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "Feb 2024",
+        "url": "https://github.com/Shyam-007/hallucination-detection"
+      },
+      {
+        "name": "Drowsiness Detection System",
+        "description": "Used video data from cameras for continuous monitoring and Applied facial landmark detection to identify key features. Tracked eye movement and blink patterns for drowsiness assessment. Trained models like CNN to classify drowsiness-related features and Implemented alerts, for timely intervention. Implemented alerts, such as alarms, for timely intervention based on drowsiness detection.",
+        "keywords": [
+          "python",
+          "CNN",
+          "Computer Vision"
+        ],
+        "endDate": "March 2023",
+        "startDate": "Feb 2023",
+        "url": "https://github.com/Shyam-007/drowsiness-detection"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Internship",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Learntricks",
+        "description": "Contributed to enhancing LearnTricks' Document Manager application, emphasizing data management and user interaction improvements. Implemented critical functionalities like comprehensive data filtering and efficient data retrieval techniques, enhancing data accessibility and usability. Optimized data retrieval processes, ensuring faster access to records and improving overall efficiency in data handling. Ensured data integrity and accuracy through rigorous testing and validation procedures, maintaining high standards of data quality and reliability.",
+        "location": "Jalandhar, Punjab",
+        "links": "",
+        "startDate": "Apr 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Advanced-SQL",
+      "R",
+      "C++",
+      "Pandas",
+      "NumPy",
+      "Tableau",
+      "Power BI",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "Django",
+      "Git",
+      "Docker",
+      "MySQL"
+    ],
+    "soft_skills": [
+      "Data Structures and Algorithms",
+      "Problem-Solving",
+      "Scripting in Python",
+      "Data modeling",
+      "Data visualization"
+    ],
+    "name": "SHYAM DHARAN",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Jalandhar, Punjab",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor's"
+}

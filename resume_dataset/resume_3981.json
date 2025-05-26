@@ -1,0 +1,154 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Prince Yadav",
+  "college": "KIET Group Of Institutions (AKTU)",
+  "locations": [
+    "Delhi-NCR",
+    "Ghaziabad, UP"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with AI and Machine Learning",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Beginners: Learn Python from Scratch",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python Data Structures",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions (AKTU)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi-NCR",
+        "ID": 0.0,
+        "grade_received": "SGPA 7.0",
+        "field_of_study": "Computer Science",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sunbeam School (CBSE)",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "Ghaziabad, UP",
+        "ID": 1.0,
+        "grade_received": "Percentage  75.6%",
+        "field_of_study": "XII",
+        "startDate": "2019"
+      },
+      {
+        "school": "Sunbeam School (CBSE)",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Ghaziabad, UP",
+        "ID": 2.0,
+        "grade_received": "Percentage  82.33%",
+        "field_of_study": "X",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Nemo-Intelligent Fish Species Identification & Insights",
+        "description": "Automated fish species identification app for fisherman to achieve more productivity and recording catch data for getting insights to help in issuing enhanced fisherman advisories. Uses CameraX technology to facilitate users in capturing fish images within the app. Integrated trained ML model to correctly identify fish species. Developed user catch history functionality with location and weather details.",
+        "keywords": [
+          "Kotlin",
+          "Jetpack Compose",
+          "Firebase"
+        ],
+        "endDate": "Present",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "ChargeMitra  EV Solutions App",
+        "description": "Empowering homeowners with vacant land to set up their charging stations bridging the gap in India's EV charging infrastructure making significant growth towards environment sustainability and greener energy. Implemented Google Maps SDK to get current location and for showing route to the booked Charging Station. Used Firebase for implementing authentication, data storage and retrieval.",
+        "keywords": [
+          "Android SDK",
+          "Kotlin",
+          "Firebase",
+          "XML"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "Sept 2023",
+        "url": ""
+      },
+      {
+        "name": "Video Downloader",
+        "description": "Software that lets user download videos available at online platforms in your local storage. On downloading a playlist, downloaded videos get auto numbered in correct sequence. It also offers capability to choose the destination folder. User can switch between Light mode and Dark mode.",
+        "keywords": [
+          "Python",
+          "VS Code"
+        ],
+        "endDate": "Jan 2023",
+        "startDate": "Nov 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "June 2020",
+        "company_name": "IIPC, KIET Group of Institutions",
+        "description": "Mini Project  C/C++ | Remote",
+        "location": "Delhi-NCR",
+        "links": "",
+        "startDate": "May 2020"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Prince Yadav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

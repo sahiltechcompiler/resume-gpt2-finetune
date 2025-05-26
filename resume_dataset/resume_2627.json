@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Geeth Krishna Potnuru",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya School",
+        "endDate": "2021",
+        "maximum_grade": "100",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.1",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Sri Venkateswara Junior College",
+        "endDate": "2019",
+        "maximum_grade": "10",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Quizzz-Ai",
+        "description": "Engineered a quiz platform leveraging ChatGPT API for automated quiz generation from prompts or file uploads. Incorporated a feature for manual quiz creation with automatic option generation. Designed a user system allowing quiz-taking without login while providing account features for progress tracking. Established search functionality for users to discover and engage with public quizzes. Enabled privacy controls, allowing quiz creators to set their quizzes as public or private.",
+        "keywords": [
+          "Next.js",
+          "Supabase",
+          "Drizzle ORM",
+          "Tailwind CSS",
+          "ChatGPT API",
+          "TypeScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ConnectZ",
+        "description": "Created ConnectZ, a full-stack social media platform similar to LinkedIn using React.js for frontend development. Implemented features like profiles, messaging, posting, and interacting with content. Leveraged Firebase for backend tasks, including user authentication and real-time data synchronization. Enhanced application performance through efficient state management and lazy loading techniques.",
+        "keywords": [
+          "React.js",
+          "Firebase",
+          "Zustand",
+          "HTML5",
+          "CSS3",
+          "JavaScript (ES6+)"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Meeting Scheduler Website",
+        "description": "Designed and developed a robust meeting scheduling application using Next.js. Integrated Firebase for real-time database management and secure data storage. Applied responsive design principles for optimal performance across various devices.",
+        "keywords": [
+          "Next.js",
+          "Firebase",
+          "Node.js",
+          "HTML5",
+          "CSS3",
+          "JavaScript"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "TypeScript",
+      "C",
+      "Tailwind CSS",
+      "Redux",
+      "Drizzle ORM",
+      "Data Structures and Algorithms",
+      "DBMS",
+      "Operating Systems",
+      "Git",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "MongoDB",
+      "Firebase",
+      "Supabase"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Team Collaboration",
+      "Communication"
+    ],
+    "name": "Geeth Krishna Potnuru",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Winner of the C square Hackathon.",
+      "Solved over 500 problems on LeetCode.",
+      "Secured a rank of 3550 out of 100,000 participants in the EAMCET examination."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

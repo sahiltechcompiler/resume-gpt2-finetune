@@ -1,0 +1,156 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ishan Singh",
+  "college": "Pranveer Singh Institute of Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Web Development",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python (Basic)",
+        "issuer": "HackerRank",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms using Python - Part 1",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms - Part 2",
+        "issuer": "Infosys Springboard",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CodeKaze Round 1 Qualification",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Pranveer Singh Institute of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.60",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Sumbeam School Mughalsarai",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Senior Secondary",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 85.6",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "QR COde and Bar Code REader",
+        "description": "A Computer Vision model which can predict any given QR code or barcode image. Used Computer Vision technology to build a model which can be deployed in AI applications such as self driving cars,object detection,etc.",
+        "keywords": [
+          "Python",
+          "Pyzbar",
+          "Pillow",
+          "OpenCV"
+        ],
+        "endDate": "01/2022",
+        "startDate": "12/2021",
+        "url": ""
+      },
+      {
+        "name": "Disease Prediction System",
+        "description": "Disease Prediction system based on predictive modeling predicts the disease of the user based on the symptoms that user provides as an input. The model analyses the symptoms and relevant parameters provided by the user and gives the probability that the user has the disease as an output.",
+        "keywords": [
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "12/2022",
+        "startDate": "11/2022",
+        "url": ""
+      },
+      {
+        "name": "ProFit : Health Is What We Care For",
+        "description": "Will recommend a diet plan for the user to follow as per his/her preferences. The user will give input such as height, weight and any medical conditions he/she has and the model will recommend a diet plan for the user based on these factors.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "ReactJS",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "Present",
+        "startDate": "07/2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Algorithms",
+      "JavaScript",
+      "Object Oriented Programming",
+      "Node.js",
+      "Data Structures",
+      "React",
+      "SQL",
+      "MongoDB",
+      "Data Analysis",
+      "DBMS",
+      "Machine Learning",
+      "CSS",
+      "HTML"
+    ],
+    "soft_skills": [],
+    "name": "Ishan Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Gold Medalist College Fest (Ignitia)",
+      "Team Captain",
+      "Rank 296 In Job-a-Thon conducted by GeeksForGeeks",
+      "1592 Rating On Leetcode",
+      "750+ Questions on various coding platforms Like LeetCode,Hackerrank,Codechef"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

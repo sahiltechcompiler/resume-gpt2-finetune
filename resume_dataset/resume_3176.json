@@ -1,0 +1,117 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "SOMYA DWIVEDI",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "Highly motivated and detail-oriented student with a strong academic background and practical experience in various projects. Demonstrates excellent problem-solving skills, a collaborative spirit, and a keen interest in continuous learning.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Enterprise Networking, Security, and Automation",
+        "issuer": "CISCO",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "St. Pauls Church College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "ISC",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "87%",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "St. Pauls Church College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "ICSE",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "85%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "User Management System",
+        "description": "Worked on Asp.Net MVC, MS SQL server. Integrated backend functionalities to handle user data storage, retrieval, and management efficiently. Incorporated data validation and error handling to enhance the robustness of the user registration system.",
+        "keywords": [],
+        "endDate": "July 2024",
+        "startDate": "May 2024",
+        "url": ""
+      },
+      {
+        "name": "Employee Management System",
+        "description": "Worked on React native, MongoDB, nodejs. An android application designed with React Native to initialize, build, and run the project and Node.js used as runtime environment. Developed a Robust system to organise the employee data such as no. of employees, employee attendance.",
+        "keywords": [],
+        "endDate": "April 2024",
+        "startDate": "January 2024",
+        "url": ""
+      },
+      {
+        "name": "A Simple File Zipper Using Greedy Huffman",
+        "description": "Used Huffmans algorithm to construct a tree that entails-CISCO Database Foundations- Oracle Red Hat System Administration II (RH134) - Red Hat is used for data compression. Two unordered maps, one for the character and coding pairs and another for the character and the frequency or number of times repeated.",
+        "keywords": [],
+        "endDate": "November 2023",
+        "startDate": "October 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "IDEMIA",
+        "description": "Worked on Asp.Net MVC, MS SQL server. Integrated backend functionalities to handle user data storage, retrieval, and management efficiently.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2024"
+      }
+    ],
+    "skills": [
+      "JAVA 8",
+      "SQL",
+      "Python 3.0",
+      ".NET core",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "React",
+      "Nodejs"
+    ],
+    "soft_skills": [],
+    "name": "SOMYA DWIVEDI",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,185 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Satish Yadav",
+  "college": "MANIPAL UNIVERSITY JAIPUR",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Zuarinagar, Goa",
+    "Mormugao, Goa",
+    "Vasco Da Gama, Goa"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+        "issuer": "AWS Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "The Complete Python Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Cybersecurity",
+        "issuer": "Cisco",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY JAIPUR",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.17/10.0 (Till 6th Semester)",
+        "field_of_study": "Information Technology",
+        "startDate": "July 2021"
+      },
+      {
+        "school": "M.E.S HIGHER SECONDARY SCHOOL",
+        "endDate": "May 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Zuarinagar, Goa",
+        "ID": 1.0,
+        "grade_received": "79% (474/600)",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "DEEPVIHAR HIGH SCHOOL",
+        "endDate": "May 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Mormugao, Goa",
+        "ID": 2.0,
+        "grade_received": "86.5% (519/600)",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Weather Application",
+        "description": "Developed a responsive weather dashboard using Flask, HTML, CSS, and JavaScript. Integrated the OpenWeather API for real-time weather data, with API key security managed through environment variables and .gitignore. Implemented version control with Git and managed environments using Virtual Environment (venv) and Python-dotenv.",
+        "keywords": [
+          "Python",
+          "Flask",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "OpenWeather API",
+          "Git",
+          "GitHub",
+          "Virtual Environment (venv)",
+          "Python-dotenv"
+        ],
+        "endDate": "August 2024",
+        "startDate": "June 2024",
+        "url": ""
+      },
+      {
+        "name": "Game Collection Manager",
+        "description": "Built a web application for managing game collections, featuring a responsive UI and complete CRUD operations.",
+        "keywords": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "EJS",
+          "Bootstrap",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Morgan",
+          "Git",
+          "GitHub"
+        ],
+        "endDate": "August 2024",
+        "startDate": "July 2024",
+        "url": ""
+      },
+      {
+        "name": "Nuclear Power Generation by Countries: Statistics, Analysis, and Prediction",
+        "description": "Sourced and cleaned datasets from Kaggle using Excel, performed statistical analysis, and developed predictive models to forecast future trends in nuclear power generation. Created visualizations to effectively present findings. Access the project report here.",
+        "keywords": [
+          "Excel",
+          "Python",
+          "Kaggle",
+          "Data Cleaning",
+          "Statistical Analysis",
+          "Predictive Modeling",
+          "Data Visualization"
+        ],
+        "endDate": "December 2023",
+        "startDate": "November 2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "January 2023",
+        "company_name": "SAPNA SHIP REPAIR WORKS",
+        "description": "Executed the generation and management of detailed invoices and quotations for fabrication and repair projects, ensuring high accuracy in financial documentation. Streamlined stakeholder communication via structured email communication, resulting in accelerated payment processing and optimized financial workflows.",
+        "location": "Vasco Da Gama, Goa",
+        "links": "",
+        "startDate": "January 2022"
+      }
+    ],
+    "skills": [
+      "C",
+      "Python",
+      "SQL",
+      "JavaScript",
+      "Machine Learning",
+      "Data Analysis",
+      "Data Visualization",
+      "Networking",
+      "Version Control (Git)",
+      "CLI",
+      "AWS",
+      "Google Colabatory",
+      "Microsoft Office"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Communication",
+      "Teamwork & Leadership",
+      "Adaptability",
+      "Finance & Organizational Skills",
+      "Self-Starter",
+      "Digital Literacy",
+      "Attention to Detail"
+    ],
+    "name": "Satish Yadav",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Vasco Da Gama, Goa",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B. Tech"
+}

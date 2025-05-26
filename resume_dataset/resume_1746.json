@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Himanshu Garg",
+  "college": "Guru Teg Bahadur Institute of Technology (GGSIPU)",
+  "locations": [
+    "Delhi, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Member of Google Developer Student Club"
+    ],
+    "education": [
+      {
+        "school": "Guru Teg Bahadur Institute of Technology (GGSIPU)",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.4/10",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Prince Public School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Delhi, India",
+        "ID": 1.0,
+        "grade_received": "80.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "My Threads",
+        "description": "Implemented user authentication with JWT for secure session management and route protection. Allowing users to make and remove their own posts, promoting engagement and content creation on the site. Users can engage with posts by liking, commenting, interacting, and giving feedback. Developed a chat app enabling real-time messaging and image sharing capabilities.",
+        "keywords": [
+          "MongoDB",
+          "Express.js",
+          "Socket.io",
+          "Chakra UI React",
+          "Node.js"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Youtube Clone",
+        "description": "The project is a replica of the YouTube platform, including its UI design and functionalities. The app displays a paginated list of YouTube videos fetched from the YouTube API. The app uses debouncing to optimize the search functionality. The app includes a live chat feature that allows users to view and send messages in real-time.",
+        "keywords": [
+          "Tailwind",
+          "JavaScript",
+          "React"
+        ],
+        "endDate": "January 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Github Finder",
+        "description": "Retrieve the necessary data of the user by accessing their information through the GitHub API and storing it in a JSON file format. Displays the public repositories belonging to a user that has been searched for. Showcasing the list of people who follow a user and the list of people whom the user follows.",
+        "keywords": [
+          "Tailwind",
+          "JavaScript",
+          "React"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "React Developer Intern",
+        "skillsUsed": [
+          "MaterialUI",
+          "TypeScript",
+          "React.js",
+          "React Admin",
+          "Redux",
+          "MongoDB",
+          "NodeJs"
+        ],
+        "endDate": "September 2023",
+        "company_name": "ChefKart",
+        "description": "Implemented debouncing mechanism to optimize API calls, reducing redundant requests by 90%, with a 200ms call frequency, improving application performance and responsiveness. Redesigned website layout to be mobile-responsive, enhancing user experience on smartphones and tablets, resulting in a 20% increase in mobile traffic engagement. Worked closely with the back-end development team to integrate front-end components with the server-side logic, ensuring seamless functionality. Successfully identified and resolved bugs in UI, ensuring improved functionality and user experience.",
+        "location": "Delhi, India",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "TypeScript",
+      "Object Oriented Programming",
+      "DBMS",
+      "Computer Networks",
+      "ReactJS",
+      "Redux",
+      "Recoile",
+      "NextJS",
+      "MongoDB",
+      "NodeJS",
+      "ExpressJS",
+      "Sockets",
+      "JWT",
+      "Git/GitHub"
+    ],
+    "soft_skills": [],
+    "name": "Himanshu Garg",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "LeetCode : Solved 350+ problems on Data Structures and Algorithms",
+      "Max Ratings: CodeChef: 1444",
+      "Codeforces: 887"
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,118 @@
+{
+  "project_count": 1.0,
+  "designation": "",
+  "name": "AYUSH KUMAR",
+  "college": "Guru Gobind Singh Indraprastha University",
+  "locations": [
+    "New Delhi",
+    "Panchsheel Park, New Delhi",
+    "Bengaluru, India",
+    "Mumbai, Maharashtra, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Fellow A Junior VC - Assists the team with research work related to startups. Works closely with VC Aviral Bhatnagar."
+    ],
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "endDate": "2025",
+        "maximum_grade": "91.4 percent",
+        "degree": "Bachelor of Technology",
+        "location": "New Delhi",
+        "ID": 0.0,
+        "grade_received": "9.07 CGPA",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Apeejay School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Panchsheel Park, New Delhi",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Realtors Listing Web Application",
+        "description": "",
+        "keywords": [
+          "Python",
+          "Django",
+          "PostgreSQL",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Neuralix.ai",
+        "description": "Developed RESTful APIs using FastAPI framework to enhance the functionality of neural network-based applications. Implemented unit tests with pytest, achieving a test coverage of 85 percent and ensuring the reliability of the codebase. Documented APIs and technical specifications, improving the onboarding process for new team members and facilitating knowledge sharing within the organization.",
+        "location": "New Delhi, India",
+        "links": "",
+        "startDate": "Mar 2024"
+      },
+      {
+        "role_name": "Backend Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "Next Toppers",
+        "description": "Developed and maintained backend systems using Django and PostgreSQL. Collaborated with cross-functional teams to build the basic product within a tight deadline of 25 days. Achieved revenue of 15 million within 5 days and attracted 1 lakh visitors within a day.",
+        "location": "New Delhi, India",
+        "links": "",
+        "startDate": "Sep 2023"
+      },
+      {
+        "role_name": "Marketing Intern",
+        "skillsUsed": [],
+        "endDate": "Oct 2022",
+        "company_name": "Toprankers",
+        "description": "Analyzed and improved all the YouTube channels with more than 636K subscribers. Worked on multiple analytics projects closely with the digital marketing team.",
+        "location": "Bengaluru, India",
+        "links": "Remote",
+        "startDate": "Aug 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "TailwindCSS",
+      "Django",
+      "FastAPI",
+      "PostgreSQL",
+      "MySQL",
+      "Git",
+      "SQL",
+      "Data Structures",
+      "Algorithms",
+      "OOPs"
+    ],
+    "soft_skills": [],
+    "name": "AYUSH KUMAR",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "New Delhi, India",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}

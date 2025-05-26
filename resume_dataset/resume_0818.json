@@ -1,0 +1,179 @@
+{
+  "project_count": 7.0,
+  "designation": "",
+  "name": "Kapish Jain",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Raipur, Chhattisgarh",
+    "Virtual Mode"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech (Hons)",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "9.55 (upto semester VI)",
+        "field_of_study": "Artificial Intelligence and Machine Learning",
+        "startDate": "2021"
+      },
+      {
+        "school": "Bharatiya Vidya Bhavans",
+        "endDate": "",
+        "maximum_grade": "Class 10 | Percentage: 90.1 %",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Class 12 | Percentage: 96.9 %",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "RumorRadar",
+        "description": "It utilizes Random Forest and Natural Language Processing (NLP) techniques. The project's primary goal is to assess the authenticity of news articles.",
+        "keywords": [
+          "Machine Learning",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WebHelpers",
+        "description": "Primary objective is to enhance Amazon shopping through sentiment analysis and a helpful chatbot.",
+        "keywords": [
+          "Machine Learning",
+          "LSTM",
+          "Python",
+          "Streamlit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CryptoGuides",
+        "description": "Primary objective is to predict cryptocurrency prices and simulate trading strategies accordingly. Used Time Series analysis (LSTM) to predict prices.",
+        "keywords": [
+          "Machine Learning",
+          "LSTM",
+          "Python",
+          "Streamlit",
+          "CoinAPI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Zoe",
+        "description": "Virtual Voice Based Assistant",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "BeatLab",
+        "description": "Web Music Player",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "OS Scheduling Algorithms",
+        "description": "Simulate different scheduling algorithms",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Shuttle",
+        "description": "Ecommerce Sports Store",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "AI/ML Engineer Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Intel",
+        "description": "Developed 3 Major end-to-end projects. Gained hands-on experience in Computer Vision by working with Computer Vision for image processing and analysis tasks. Also trained a Sentimental Analysis model for classifying Amazon reviews using Natural Language Processing.",
+        "location": "Raipur, Chhattisgarh",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Internshala Student Partner (ISP)",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Internshala",
+        "description": "Promoted Internshala's internships and training programs among peers, Organized webinars, creating awareness about valuable learning opportunities. Organized webinars to inform college students about the significance of internships and skill development.",
+        "location": "Virtual Mode",
+        "links": "",
+        "startDate": "March 2023"
+      },
+      {
+        "role_name": "Apprentice",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "Amazon ML School",
+        "description": "During my apprenticeship at Amazon's ML Summer School, I learned directly from ML scientists about various topics, including Supervised Learning, Deep Neural Networks, Dimensionality Reduction, Unsupervised Learning, Probabilistic Graphical Models, Sequential Learning, Causal Inference, Reinforcement Learning. These topics provided me with a comprehensive understanding of machine learning, empowering me to explore and apply these concepts in real-world scenarios with confidence.",
+        "location": "Virtual Mode",
+        "links": "",
+        "startDate": "September 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "SQL",
+      "Pandas",
+      "PyTorch",
+      "NumPy",
+      "Scikitlearn",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Flask",
+      "Bootstrap",
+      "NLP",
+      "Computer Vision",
+      "Deep Learning",
+      "VCS",
+      "Linux",
+      "MySQL",
+      "Streamlit"
+    ],
+    "soft_skills": [],
+    "name": "Kapish Jain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "2nd Place in WebStorm Hackathon",
+      "Dean's List Excellence in Academics Award (3 Times)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B. Tech (Hons)"
+}

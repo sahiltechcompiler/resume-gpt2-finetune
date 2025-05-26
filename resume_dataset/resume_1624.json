@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "Web Dev. Lead",
+  "name": "Prashant Kumar Mishra",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Computer Science",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "SGPA: 7.4",
+        "field_of_study": "AIML",
+        "startDate": ""
+      },
+      {
+        "school": "Sanskar International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Marks: 86.00%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Family Reunification",
+        "description": "Developed a Family Reunification App: Created a web application using Django, HTML, Tailwind CSS, and JavaScript to tackle the critical challenge of family reunification. This platform leverages image recognition technology to match missing childrens pictures with existing databases, featuring an automatic email notification system to alert potential matches. This project showcases my diverse skillset, demonstrating expertise in full-stack development and the ability to integrate machine learning for positive social impact.",
+        "keywords": [
+          "Python",
+          "Django",
+          "Machine Learning"
+        ],
+        "endDate": "September 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "E-Commerce Website",
+        "description": "Built a full-stack e-commerce platform from scratch, featuring a user-friendly interface, secure payment processing, and content management with api response time of 15ms. Utilized HTML, CSS, and JavaScript for the frontend, React for a responsive and interactive user experience, Stripe for secure payment integration, and Strapi as a headless CMS for flexible content management. Successfully composed a shopping cart system with product search and filtering functionalities.",
+        "keywords": [
+          "React",
+          "Strapi",
+          "Stripe"
+        ],
+        "endDate": "February 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CRM App",
+        "description": "Utilized Model-View-Controller (MVC) architecture for clean and maintainable code. User permissions and access control for secure data management. Integrated efficient database management for customers information, reducing data retrieval time by 30%. Manage contact details including name, email, phone number, and custom fields.",
+        "keywords": [
+          "Django",
+          "Python",
+          "JavaScript"
+        ],
+        "endDate": "January 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "ReactJs Intern",
+        "skillsUsed": [
+          "React",
+          "Redux",
+          "Chart.js"
+        ],
+        "endDate": "July 2025",
+        "company_name": "HyggexWorld",
+        "description": "Developed a React and Redux-based landing page featuring cutting-edge design principles and interactive elements; increased conversion rates by 30% and enhanced mobile responsiveness, resulting in a 20% decrease in bounce rate. Used Chart.js to create various data visualizations, enhancing user engagement by 15%. Integrated APIs to fetch real-time data, using Redux for efficient state management and improved application performance upto 10%.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "August 2021"
+      },
+      {
+        "role_name": "Frontend Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Tailwind CSS"
+        ],
+        "endDate": "July 2023",
+        "company_name": "IBM Skills Build",
+        "description": "Designed high-performing responsive landing pages: Leveraged HTML, CSS, and JavaScript to design and develop visually engaging and user-friendly landing pages that seamlessly adapt across all devices (desktop, mobile, and tablet). Worked on a gym website landing page and streamlined the development process with Tailwind CSS, ensuring design consistency and improving page load times by 25%.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Prashant Kumar Mishra",
+    "position": "Web Dev. Lead",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Computer Science"
+}

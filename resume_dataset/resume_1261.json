@@ -1,0 +1,131 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Arjun Bhushan",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "India, Uttar Pradesh",
+    "India, Delhi"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "The course covered key AI concepts, including Azure ML, Azure CV, Azure NLP, with practical insights on using Microsoft Azure for AI solutions.",
+        "skillsLearned": [],
+        "title": "Azure AI Fundamentals",
+        "issuer": "Coincent",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Engineering",
+        "location": "India, Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science AIML",
+        "startDate": ""
+      },
+      {
+        "school": "Kerala Education Society Senior Secondary School",
+        "endDate": "June 2021",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "India, Delhi",
+        "ID": 1.0,
+        "grade_received": "82.4%",
+        "field_of_study": "Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Vehicle Detection and Tracking",
+        "description": "Collaborated on a vehicle detection and tracking system using Yolo V8 and Supervision which helped recognize traffic patterns and vehicle density with a 95% accuracy rate.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis ML Project for Product Reviews",
+        "description": "This project classifies product reviews as positive, negative, or neutral using machine learning with over 90% accuracy.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Amazon E-commerce site",
+        "description": "This project replicates the core features of Amazon's e-commerce platform, including product listings, user accounts, and checkout processes, to demonstrate e-commerce development skills.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Recommendation System",
+        "description": "Music and movie recommender systems using collaborative filtering on public datasets.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "QR code generator",
+        "description": "Engineered a user-friendly QR code generator that streamlined the process of creating codes for URLs and text; enhanced user experience led to a 40 % increase in engagement on digital marketing campaigns.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English (Full Professional proficiency)",
+      "Hindi (Native)",
+      "Malayalam (Native)",
+      "Japanese (Elementary Proficiency)"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "Coincent",
+        "description": "Internship program covering key AI concepts, including Azure ML, Azure CV, Azure NLP, with practical insights on using Microsoft Azure for AI solutions. Designed a highly accurate news categorization tool using NLP techniques, enabling real time classification of articles, with a throughput of over 1000 articles per hour. Used Open CV and Haar cascade algorithm to accurately detect face and eye with an accuracy of 97%. Implemented the Vision Transformer model for image classification by importing datasets, setting hyperparameters, applied data augmentation, created image patches, and developed the ViT classification model with an F1-score of 0.75. Created comprehensive visual reports using Power BI to track key performance indicators. Identifies key features in images through a process of data collection, preprocessing, model training, evaluation, and refinement.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "Java",
+      "SQL",
+      "Deep Learning",
+      "Computer Vision",
+      "Weights and biases",
+      "Docker",
+      "Git",
+      "GCP"
+    ],
+    "soft_skills": [],
+    "name": "Arjun Bhushan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Engineering"
+}

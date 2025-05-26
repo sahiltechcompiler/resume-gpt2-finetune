@@ -1,0 +1,172 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Utkarsh Singh",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Delhi",
+    "Gurugram"
+  ],
+  "full_output": {
+    "summary": "Looking for a challenging role in an organization to utilize my acquired technical skill- set and knowledge for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Computer Network & Internet protocol",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advance Google Analytics",
+        "issuer": "Google",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence with Python",
+        "issuer": "TCS ION",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Software Engineering",
+        "issuer": "IBM",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech.",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "8.30 CGPA",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "CBSE Board",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Delhi",
+        "ID": 1.0,
+        "grade_received": "83.2%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "CBSE Board",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "Delhi",
+        "ID": 2.0,
+        "grade_received": "88.43%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Forecasting and Visualizing Stock updates with Dash",
+        "description": "1) Developed a sophisticated stock forecasting and visualization dashboard using Dash, integrating dynamic data retrieval and predictive modeling for comprehensive stock market analysis, while featuring real-time updates and interactive visualizations 2) Implemented user-friendly components such as input fields for stock ticker symbols and date range selectors, ensuring seamless user interaction. The dashboard utilized yfinance for data retrieval, ARIMA for accurate forecasting, and Plotly for visually appealing graphs. 3) Tech Stack: Utilized Dash, Flask, scikit learn, Git, Jupyter Notebook for development.",
+        "keywords": [
+          "Dash",
+          "Flask",
+          "scikit learn",
+          "Git",
+          "Jupyter Notebook"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "YouTube Transcript Summarizer",
+        "description": "1) Built with a robust technology stack, the YouTube Transcript Summarizer leverages React to create a highly efficient and user-friendly application. This project integrates pivotal libraries such as Natural Language Toolkit (NLTK) for text processing 2) The combination of real-time data processing, secure authentication via Firebase, and advanced natural language processing techniques guarantees a comprehensive and reliable platform for summarizing video content. 3) Tech Stack: Utilizes HTML, CSS, JavaScript, Python, and Flask for development.",
+        "keywords": [
+          "React",
+          "Natural Language Toolkit",
+          "Firebase",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Python",
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "data visualization",
+          "dashboard creation",
+          "Power BI"
+        ],
+        "endDate": "2024-08-03",
+        "company_name": "Celebal Technologies",
+        "description": "Gained hands-on experience in data visualization, dashboard creation, and Power BI best practices. Worked on real-world projects to transform complex datasets into actionable insights for business decision-making.",
+        "location": "",
+        "links": "",
+        "startDate": "2024-06-03"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "Reactjs",
+      "Pytorch",
+      "Flask",
+      "Git",
+      "IntelliJ IDEA",
+      "HTML",
+      "CSS",
+      "Power BI",
+      "Machine Learning",
+      "Internet of Things",
+      "AWS"
+    ],
+    "soft_skills": [
+      "Positive Thinking",
+      "Have sense of Ownership",
+      "Dedication",
+      "Team collaboration to achieve goals"
+    ],
+    "name": "Utkarsh Singh",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Chintels Serenity, Tower 6- 901, Sector 109, Dwarka Expressway, Gurugram- 122006",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech."
+}

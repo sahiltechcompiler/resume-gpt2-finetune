@@ -1,0 +1,169 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rohan Rathi",
+  "college": "KIET Group of Institutions",
+  "locations": [
+    "Delhi-NCR, Ghaziabad",
+    "Noorpur, Bijnor",
+    "Bijnor",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed a MERN stack web development course with attempting 100% tasks and assignments to understand MongoDB, ExpressJS, React library and NodeJS covered in the course on the Udemy platform.",
+        "skillsLearned": [],
+        "title": "MERN Stack Web Development",
+        "issuer": "Angela Yu, Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed a course on data structures and algorithms on the platform Coursera and solved 75+ assigned problems.",
+        "skillsLearned": [],
+        "title": "Data Structures and Algorithms",
+        "issuer": "University of California, San Diego, Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group of Institutions",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi-NCR, Ghaziabad",
+        "ID": 0.0,
+        "grade_received": "8.1/10 CGPA",
+        "field_of_study": "Computer Science & Engineering With Specialization in AI and ML",
+        "startDate": ""
+      },
+      {
+        "school": "Roots International School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Noorpur, Bijnor",
+        "ID": 1.0,
+        "grade_received": "92%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "Roots International School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "Highschool",
+        "location": "Bijnor",
+        "ID": 2.0,
+        "grade_received": "83%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Safetii",
+        "description": "A women healthcare and safety web application. Distributed in 4 sections: a period tracker, an emergency calling system, nearby hospitals availability and AI doc bot.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "GPT3.5"
+        ],
+        "endDate": "07/2023",
+        "startDate": "05/2023",
+        "url": ""
+      },
+      {
+        "name": "HealthSuraksha",
+        "description": "A web app providing Medical facilities to the rural areas people. Contains 3 sections: an online doctor consultation, emergency medication AR tutorials and faster ambulance services.",
+        "keywords": [
+          "Django",
+          "Unity",
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "01/2023",
+        "startDate": "11/2022",
+        "url": ""
+      },
+      {
+        "name": "Customized Password Maker",
+        "description": "Generate passwords as per the given instructions. Can generate passwords with 8+ different instructions varieties that the user can set.",
+        "keywords": [
+          "React"
+        ],
+        "endDate": "07/2022",
+        "startDate": "06/2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "endDate": "Present",
+        "company_name": "Oasis Infobyte",
+        "description": "Completed a 1-month level-wise internship to upskill the frontend development skills. Made and committed 3 frontend projects on GitHub during the internship period. Orchestrated the implementation of HTML, CSS and Javascript to revamp the apps user interface; enhancing user experience and driving a 30% surge in user retention rates.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "2021"
+      },
+      {
+        "role_name": "Machine Learning Intern",
+        "skillsUsed": [
+          "Python",
+          "Machine Learning"
+        ],
+        "endDate": "09/2022",
+        "company_name": "YBI Foundation",
+        "description": "A 1-month virtual internship about the brief knowledge of the machine learning domain. Completed 5+ assignments assigned by the trainer during the internship period to get the completion certificate. Learned about: Python Programming and 3 ML libraries, Business Intelligence and Big Data Analytics.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "08/2022"
+      }
+    ],
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "VS Code",
+      "GitHub",
+      "IntelliJ Idea",
+      "Jupyter",
+      "React",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ],
+    "soft_skills": [],
+    "name": "Rohan Rathi",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved 150+ DSA problems on the Leetcode Coding Platform",
+      "Solved 200+ Coding problems and rated 2-star on the Codechef Competitive Programming Platform"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

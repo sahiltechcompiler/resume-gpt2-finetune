@@ -1,0 +1,165 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ADYASHA MAHANTA",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Bhubaneswar, Odisha"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Enterprise Networking, Security, and Automation",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science, AI & Development",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Participated in Microsoft Azure include <her> cohort 4.0",
+      "Joint Head of Editorial of IEEE RAS MUJ and part of the Social Media Team of MUJ ACM-W"
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.17/10",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "SAI International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "AISSCE (CBSE)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "98%",
+        "field_of_study": "Class XII Science (PCM with CS)",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "FACE RECOGNITION ATTENDANCE SYSTEM",
+        "description": "Developed a face recognition attendance system using Python and OpenCV, automating attendance tracking with real-time face detection and recognition, and built a user-friendly web interface using Flask and Javascript. Integrated Firebase for secure, scalable cloud storage for efficient management with real-time updates.",
+        "keywords": [
+          "Python",
+          "Computer Vision",
+          "Flask",
+          "Javascript",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "IMAGE STEGANOGRAPHY USING PSO, GA and SMO",
+        "description": "Implemented nature-inspired algorithms like Particle Swarm Optimisation, Genetic Algorithm and Spider Monkey Optimisation algorithm to optimize the embedding process, ensuring efficient utilization of available image space while minimizing distortion. Achieved a significant and near-perfect SSIM of 0.999.",
+        "keywords": [
+          "MATLAB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "TWITTER SENTIMENT ANALYSIS",
+        "description": "The application leverages Natural Language Processing (NLP) techniques and Random Forest Classifier to predict the sentiment of user tweets as positive, negative, or neutral with an accuracy of 81%.",
+        "keywords": [
+          "Python",
+          "NLP",
+          "Streamlit"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Research Intern",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "AHRC, IIT Bhubaneswar",
+        "description": "Enhanced the photogrammetry pipeline of Project Tirtha, an initiative by NISER Bhubaneswar for 3D reconstruction of heritage sites, by integrating advanced learning-based techniques for feature extraction and matching (e.g., SuperPoint, SuperGlue, LightGlue, LoFTR), resulting in a 10x increase in processing speed. Conducted comprehensive literature reviews, evaluated models, and optimized processes. Analyzed with performance metrics such as runtime, VRAM usage, and Homography AUC.",
+        "location": "Bhubaneswar, Odisha",
+        "links": "",
+        "startDate": "April 2019"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "3D Reconstruction",
+      "Web Development",
+      "Python",
+      "C++",
+      "C",
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "MATLAB",
+      "Tailwind CSS",
+      "PyTorch",
+      "Tensorflow",
+      "OpenCV",
+      "pycolmap"
+    ],
+    "soft_skills": [],
+    "name": "ADYASHA MAHANTA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Qualified the GATE 2024 examination",
+      "Recipient of AWS AI/ML Scholarship for Udacity AI Programming with Python nanodegree",
+      "Demonstrated the ability to integrate advanced AI architectures such as VGG16 within command-line applications, enabling seamless model training, validation, and testing for image classification tasks"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

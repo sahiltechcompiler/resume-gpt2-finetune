@@ -1,0 +1,117 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Dariya vali",
+  "college": "SRM UNIVERSITY - AP",
+  "locations": [
+    "Andhra Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY - AP",
+        "endDate": "May 2025",
+        "maximum_grade": "",
+        "degree": "B.tech",
+        "location": "Andhra Pradesh, India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.34/10",
+        "field_of_study": "Computer Science",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "TICKET BOOKING FOR AIRLINES",
+        "description": "Created a java application to book tickets. Processed user inputted information in the back-end of the application to return a subtotal price based on the tickets selected. Utilized layout editor to enable interactive scenes in the applications UI.",
+        "keywords": [
+          "Java",
+          "mySql"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "HOSTEL ROOM MANAGEMENT",
+        "description": "created a portal where students can login. Students can book their respective rooms. Students can complaint if there any issues.",
+        "keywords": [
+          "html",
+          "css",
+          "js",
+          "python",
+          "mySql"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RESEARCH INTRUSION DETECTION USING ML",
+        "description": "I have worked extensively on Intrusion Detection Systems (IDS) using machine learning techniques to automate security monitoring and enhance threat detection. This involved developing and implementing signature-based, specification-based, and behavior-based detection methods. My efforts in integrating these approaches have contributed to more proactive and robust defense mechanisms, significantly advancing overall system security.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Finance assistant chatbot",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "SRM-FULLSTACK",
+        "description": "Developed a chatbot website that offers guidance on managing finances based on varying income levels. Utilized Selenium to instantiate a Chrome browser for seamless interaction with specific elements on the webpage. Established a Linux virtual environment on Google Cloud to ensure daily execution of the program from the cloud infrastructure.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Vulnerability Assessment Analyst",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "SRM - SECURITY ANALYST",
+        "description": "As a vulnerability assessment analyst, I identify vulnerabilities such as cross-site scripting (XSS) on systems. I prioritize risks, recommend fixes, ensure compliance, collaborate with teams for implementation, and educate stakeholders on security practices.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "HTML/CSS",
+      "JavaScript",
+      "MySQL",
+      "Bash Scripting",
+      "Kubernetes",
+      "powerBI",
+      "Docker",
+      "AWS services",
+      "Apache Services",
+      "Tomcat Services",
+      "CI/CD Pipeline",
+      "Nmap",
+      "Firewalls",
+      "Routers",
+      "Burp Suite",
+      "Wireshark"
+    ],
+    "soft_skills": [],
+    "name": "Dariya vali",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "VVIT-HACKTHON | 2nd-prize"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.tech"
+}

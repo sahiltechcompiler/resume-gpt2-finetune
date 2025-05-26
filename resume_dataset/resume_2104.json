@@ -1,0 +1,156 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "PENTYALA KUMAR GOVIND",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Phagwara, Punjab",
+    "Bongloor, Hyderabad",
+    "Guntur, Andhra pradesh"
+  ],
+  "full_output": {
+    "summary": "Dedicated professional proficient in , SQL, Python, Machine Learning, and NLP. With a strong foundation in s data analysis, I'm eager to contribute effectively in entry- level roles. Committed to continuous learning and growth, I seek opportunities to enhance expertise and contribute to team projects. Ready to embark on a journey of professional development, with a proactive approach and passion for technology.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "ML algorithms course",
+        "issuer": "IBM",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Fundamentals of Web Development",
+        "issuer": "Meta",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Complete Python Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Community Service Projects",
+      "Debate Team or Public Speaking"
+    ],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Phagwara, Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA 7.79",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "Sep 2021"
+      },
+      {
+        "school": "Sri Chaitanya collage",
+        "endDate": "Mar 2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Bongloor, Hyderabad",
+        "ID": 1.0,
+        "grade_received": "95%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Chaitanya high school",
+        "endDate": "July 2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Guntur, Andhra pradesh",
+        "ID": 2.0,
+        "grade_received": "CGPA 10",
+        "field_of_study": "",
+        "startDate": "Mar 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI driven medical assitance chat bot",
+        "description": "Domain:Data scince, Machine learning",
+        "keywords": [],
+        "endDate": "04/2024",
+        "startDate": "02/2024",
+        "url": ""
+      },
+      {
+        "name": "MCQ Generator using Language Models (LLMs)",
+        "description": "Domain: Natural Language Processing, Generative AI. Data Preprocessing: The source text is tokenized, normalized, and enriched with part-of-speech tagging and named entity recognition to ensure the data is clean and structured. Sentence Selection: Identify informative sentences from the text. Question Types: Generate factual, conceptual, and application questions. Distractor Generation: Create plausible incorrect answers. Training the Model: Model Selection: Use a pre-trained language model (e.g., GPT-4). Fine-Tuning: Train on domain-specific data for improved relevance. Prompt Engineering: Craft prompts to guide question generation. Prediction: The trained model generates MCQs by creating the question stem, options, and identifying the correct answer. Example: From a paragraph about cancer cell characteristics, generate questions about key differences between cancerous and normal cells.",
+        "keywords": [],
+        "endDate": "02/2024",
+        "startDate": "01/2024",
+        "url": ""
+      },
+      {
+        "name": "Exploratory Data Analysis of Trend of Movies",
+        "description": "Domain: Data Science. Applied EDA techniques and conducted five hypothesis tests.",
+        "keywords": [],
+        "endDate": "12/2023",
+        "startDate": "10/2023",
+        "url": ""
+      },
+      {
+        "name": "SQL HR Database Analysis",
+        "description": "Domain: Database Management Systems (DBMS). Conducted analysis on HR data using MySQL for academic purpose.",
+        "keywords": [],
+        "endDate": "04/2023",
+        "startDate": "02/2023",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Industrial Training",
+        "skillsUsed": [
+          "Python",
+          "Machine Learning",
+          "Data Analysis"
+        ],
+        "endDate": "Present",
+        "company_name": "IBM",
+        "description": "Completed industrial training at IBM Skills Build program. Gained understanding of machine workings and machine learning algorithms. Developed a cancer prediction model using machine learning techniques. Designed and implemented a rain prediction model for Australia. Enhanced proficiency in Python programming language and machine learning concepts.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "NLP",
+      "Data Visualization",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn"
+    ],
+    "soft_skills": [],
+    "name": "PENTYALA KUMAR GOVIND",
+    "position": "",
+    "interests": [
+      "Art and Design",
+      "Reading"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Ongole, Andhra pradesh",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

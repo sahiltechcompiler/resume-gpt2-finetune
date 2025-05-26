@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ANIT DEBBARMA",
+  "college": "National Institute Of Technology, Agartala",
+  "locations": [
+    "Agartala, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "HTML, CSS3, JS, NodeJs, ReactJs, MongoDB.",
+        "skillsLearned": [],
+        "title": "The Complete Web Developer Bootcamp",
+        "issuer": "Udemy, Online",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Full-Stack Web-Development",
+        "skillsLearned": [],
+        "title": "Certification through HACKERRANK for Basic Java, Javascript, Python, SQL",
+        "issuer": "Udemy",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "National Institute Of Technology, Agartala",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA- 8.04",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "MyShop E-Commerce Website",
+        "description": "Designed and developed a full stack dynamic and responsive E-commerce Website using Tailwindcss, JavaScript with frameworks like Next.js, React.js, Express.js, and MongoDB. Implemented user authentication and authorization features, allowing customers to register, login, and securely manage their profiles and orders. Integrated third-party payment gateway (e.g., PayPal, Stripe) to facilitate seamless and secure online transactions. Implemented features like product search, sorting, and filtering to enhance user experience and product discoverability. Utilized Git and GitHub for version control and collaborative development. Deployed the application on Vercel for reliable and scalable hosting, ensuring high availability and performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Image-Algo(Computer Vison)",
+        "description": "A web app that shows different image processing algorithms. In the sidebar, I have added some values and with each of the values, a function is associated. When the user clicks on any one of them the corresponding function is triggered. By default, the first value which is the Welcome string is selected and the if statement calls the welcome() function. You can import a photo of any unidentified birds and animals in the web app and verify the type Colour Filter and Blur Face and Face Count and detection and Vehicle detection and Count and Background Remove.",
+        "keywords": [
+          "Python",
+          "CV2",
+          "numpy",
+          "streamlit",
+          "cvzone"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "House Search(React Front-end)",
+        "description": "Developed a responsive house search application using React, enabling users to browse, filter, and view real estate listings. Designed and implemented the user interface using React and Redux for state management. Implemented advanced search and filtering features to enhance user experience. Utilized React Router for seamless navigation and improved user flow and Ensured mobile responsiveness and cross-browser compatibility.",
+        "keywords": [
+          "React",
+          "Redux",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "SASS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Full-Stack Web-Development/Web-Design",
+        "skillsUsed": [],
+        "endDate": "2024",
+        "company_name": "NIELIT",
+        "description": "Developed a user-friendly interface using React.Js, HTML, CSS3(BootStrap), JavaScript, and jQuery.",
+        "location": "Agartala, India",
+        "links": "",
+        "startDate": "2020"
+      }
+    ],
+    "skills": [
+      "JAVA",
+      "C/C++",
+      "Python",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "NodeJs",
+      "Express",
+      "Next.Js",
+      "React.Js",
+      "MongoDB",
+      "MySQL",
+      "VS Code",
+      "PyCharm",
+      "Github",
+      "Git Bash",
+      "OOP",
+      "Operating System",
+      "Database Management System",
+      "Computer Network"
+    ],
+    "soft_skills": [],
+    "name": "ANIT DEBBARMA",
+    "position": "",
+    "interests": [
+      "Solving real world problem",
+      "Learning new Skills",
+      "Cricket",
+      "E-Sports"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,150 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "PRIYANKA PATWAL",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [],
+  "full_output": {
+    "summary": "A result - driven and resourceful student with an interest in machine learning, artificial intelligence & data analytics & front-end development, who is always yearning to encounter new experiences and constantly learn.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Machine Learning with Python (With Honors)",
+        "issuer": "Coursera Certifications",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Getting Started with AI using IBM Watson",
+        "issuer": "Coursera Certifications",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript Essentials",
+        "issuer": "Infosys Springboard Certifications",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA  8.22/ 10",
+        "field_of_study": "CSE-AIML",
+        "startDate": "2021"
+      },
+      {
+        "school": "S. S. Children Academy",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "10th Examination Score  90.2%",
+        "field_of_study": "",
+        "startDate": "2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Skin Disease Classification on HAM10000 Site",
+        "description": "Built a skin disease classification website on using Python (Machine Learning) for backend logic and Flask framework for web development, with skin disease predictor and symptoms generator. Employed machine learning models to classify skin diseases based on uploaded images. Utilized HTML, CSS, and JavaScript to design an intuitive and user-friendly interface for image uploading and result display. Integrated trained machine learning models into the website to provide real-time disease classification.",
+        "keywords": [],
+        "endDate": "May24",
+        "startDate": "March24",
+        "url": ""
+      },
+      {
+        "name": "Prediction Models",
+        "description": "Built different prediction models using machine learning libraries like NumPy, Pandas, Scikit-learn, TensorFlow, and Keras. House Price Prediction, Wine Quality Prediction, Diabetes Prediction.",
+        "keywords": [],
+        "endDate": "August 2023",
+        "startDate": "July 2023",
+        "url": ""
+      },
+      {
+        "name": "Expanding cards",
+        "description": "Developed an Expanding Card using HTML, CSS, and JavaScript to create an interactive user interface. It aims to enhance user engagement by providing a visually appealing and intuitive way to navigate through information or options.",
+        "keywords": [],
+        "endDate": "June 2023",
+        "startDate": "May 2023",
+        "url": ""
+      },
+      {
+        "name": "Infinity Scroller",
+        "description": "Developed an Infinity Scroller using HTML, CSS, and JavaScript to create a dynamic and responsive web application. It aims to provide an intuitive and engaging way for users to explore a large collection of content by continuously loading new items as the user scrolls down the page.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      "C",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "experiences": [
+      {
+        "role_name": "DS & ML Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Bharat Intern",
+        "description": "Worked on different machine learning projects like house prediction and wine quality prediction. Predicted quality and prices of products with the help of different algorithms like linear regression, decision trees, etc. and created models with the best accuracy results with the given parameters. Implemented cross-validation techniques to assess model performance and prevent overfitting.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "November 2023",
+        "company_name": "Vodafone Idea Foundation, _VOIS & AICTE",
+        "description": "Hands-on learning experience of 7 focused technologies with different courses with one -to- one expert sessions from the veterans of the industry. Worked on a project based on the focused technologies learnt, such as technologies in Python for data analysis and machine learning tasks, including libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and Keras.",
+        "location": "",
+        "links": "",
+        "startDate": "October 2023"
+      }
+    ],
+    "skills": [
+      "DSA",
+      "Front-end",
+      "Machine Learning (TensorFlow, Matplotlib, Scikit, NumPy, Pandas)",
+      "Artificial Intelligence",
+      "React"
+    ],
+    "soft_skills": [],
+    "name": "PRIYANKA PATWAL",
+    "position": "",
+    "interests": [
+      "Volleyball",
+      "Painting",
+      "Art",
+      "Craft"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

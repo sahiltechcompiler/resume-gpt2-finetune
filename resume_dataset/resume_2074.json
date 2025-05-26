@@ -1,0 +1,138 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "GANGA SINGH",
+  "college": "GURU TEGH BAHADUR INSTITUTE OF TECHNOLOGY",
+  "locations": [
+    "Delhi, India",
+    "Kolkata, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "LINK",
+        "description": "Acquired comprehensive mastery of data structures and algorithms through an intensive curriculum, from foundational concepts to advanced techniques using C++. Developed proficiency in critical problem-solving skills and enabling the design and implementation of efficient, scalable solutions.",
+        "skillsLearned": [],
+        "title": "MASTER DATA STRUCTURES AND ALGORITHMS USING C++",
+        "issuer": "Coding Blocks",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "LINK",
+        "description": "Demonstrated proficiency in problem-solving techniques through the successful resolution of three coding challenges using C++. Applied algorithmic principles and data structures to develop solutions, showcasing strong analytical and logical reasoning skills.",
+        "skillsLearned": [],
+        "title": "PROBLEM SOLVING (INTERMEDIATE)",
+        "issuer": "Hackerrank",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "GURU TEGH BAHADUR INSTITUTE OF TECHNOLOGY",
+        "endDate": "July 2024",
+        "maximum_grade": "100.00",
+        "degree": "Bachelor of Technology",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "85.00",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "CHAT HUB",
+        "description": "Developed a comprehensive real-time chat application using the MERN stack, featuring one-on-one and group chat functionalities, group admin controls, notifications, user profiles, and a typing indicator. Spearheaded the API development and database integration, ensuring robust backend connectivity utilizing Postman for API testing and troubleshooting. Implemented secure user authentication mechanisms using JWT, enhancing application security and user verification processes. Contributed to continuous integration and deployment processes, resulting in a scalable and responsive chat solution that supports real-time user interactions.",
+        "keywords": [
+          "React Js",
+          "Node.js",
+          "Express.js",
+          "MongoDb"
+        ],
+        "endDate": "Dec 2023",
+        "startDate": "",
+        "url": "LINK"
+      },
+      {
+        "name": "NOTEZIPPER",
+        "description": "Engineered a full-stack notes management application using the MERN stack, which facilitates features such as user authentication, note creation, editing, deletion, and user profile management. Led the development of RESTful APIs with complete CRUD operations, enhancing the application's data interaction capabilities. Designed and implemented database schemas and connectivity, ensuring efficient data storage and retrieval using MongoDB. Developed robust user authentication processes using JSON Web Tokens (JWT), reinforcing system security and user privacy.",
+        "keywords": [
+          "React Js",
+          "Node.js",
+          "Express.js",
+          "MongoDb"
+        ],
+        "endDate": "Jan 2024",
+        "startDate": "",
+        "url": "LINK"
+      },
+      {
+        "name": "YOUTUBE CLONE",
+        "description": "Engineered a front-end replica of the YouTube platform, integrating key features such as a sidebar, search panel, navigation bar, and subscription models. Developed a video playback feature, each embedded with hyperlinks to their original YouTube sources, simulating real YouTube video interactions. Enhanced user engagement through designed UI components that mirror the look and feel of the original YouTube.",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "Jun 2023",
+        "startDate": "",
+        "url": "LINK"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "Sep 2023",
+        "company_name": "CODSOFT",
+        "description": "Developed and maintained web pages using HTML, CSS, and JavaScript, ensuring compliance with web standards and responsiveness across devices. Executed diverse web development tasks across multiple projects of different levels, utilizing modern practices and frameworks to create dynamic and interactive features for web applications.",
+        "location": "Kolkata, India",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Problem Solving",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node Js",
+      "Express Js",
+      "DBMS",
+      "MySQL",
+      "OOPs",
+      "Operating Systems",
+      "Computer Networks"
+    ],
+    "soft_skills": [],
+    "name": "GANGA SINGH",
+    "position": "",
+    "interests": [
+      "Football",
+      "Sketching"
+    ],
+    "achievements_and_awards": [
+      "300+ LeetCode Questions",
+      "150+ days LeetCode",
+      "1445 rating Leetcode Contest",
+      "Participated in Flipkart Grid 4.0- SDE Challenge",
+      "Participated in Coding Battle-Code-e-Jung with Celebal Technologies"
+    ],
+    "publications": []
+  },
+  "current_location": "New Delhi, Delhi, India -110015",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,171 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Monika Sree Srinivasan",
+  "college": "SRM University",
+  "locations": [
+    "Guntur, Andhra Pradesh",
+    "Miyapur, Telangana",
+    "Kadapa, Andhra Pradesh"
+  ],
+  "full_output": {
+    "summary": "Enthusiastic and passionate Computer Science Undergraduate with a keen interest in Full Stack Development, including both Frontend and Backend technologies. Possesses a solid understanding of web technologies, including HTML, CSS, JavaScript, and modern frameworks such as Bootstrap, React.js, Node.js, and Express.js. Demonstrates proficiency in creating intuitive, user-friendly interfaces and ensuring seamless user experiences. Experienced in leveraging RESTful APIs to enhance application functionality and improve user interactions. Eager to contribute to dynamic projects and accelerate professional growth in the ever-evolving tech landscape.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate of Completion - Database Management System",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate of Completion - Web Development on Django",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certificate of completion - Salesforce Developer Virtual Internship",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Guntur, Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Sri Gayatri Junior College",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Miyapur, Telangana",
+        "ID": 1.0,
+        "grade_received": "Percentage: 91.5",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Vidhya Mandir Em High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class X",
+        "location": "Kadapa, Andhra Pradesh",
+        "ID": 2.0,
+        "grade_received": "Percentage: 80.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-Time Chat Application using MERN Stack",
+        "description": "Developed a full-stack chat application with a dynamic frontend using React JS and Chakra UI, and a robust backend using Node JS, Express JS, and MongoDB. Implemented secure user authentication (JWT), real-time messaging (Socket.io), user management (search, delete, rename), profile creation, login/logout, real-time notifications, and developed a RESTful API (Express.js) for a full-stack chat application. Utilized modern React hooks and Context API for efficient state management, ensuring smooth and secure user interactions. Crafted a responsive and scalable interface, guaranteeing a consistent and smooth user experience on all devices and screen sizes.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "React JS",
+          "Node JS",
+          "Express JS",
+          "MongoDB"
+        ],
+        "endDate": "July 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Ride Pooling using MERN Stack",
+        "description": "Created and deployed a real-time ride pooling platform using the MERN stack, optimizing for an enhanced user experience. Engineered scalable backend solutions with Node.js and Express.js to handle crucial functionalities like user authentication, profile management, ride requests, and ride creation. Developed a scalable and responsive front-end with React.js, delivering smooth user interactions across all devices.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "React JS",
+          "Node JS",
+          "Express JS",
+          "MongoDB"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Undergraduate Research Opportunities Project (UROP)",
+        "skillsUsed": [],
+        "endDate": "December 2023",
+        "company_name": "SRM University, AP",
+        "description": "Implemented Reversible data hiding method to ensure robust data integrity and confidentiality, enabling seamless extraction of embedded information without loss. This approach safeguarded sensitive data while maintaining accessibility and compliance with security standards of the embedded information without any loss.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2023"
+      },
+      {
+        "role_name": "Web Development On Django Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "APSSDC",
+        "description": "Contributed to a Django project, focusing on web development and database management. Improved user interfaces, optimized database queries, and enhanced overall application performance. Utilized Django framework, along with HTML/CSS, JavaScript, and SQL.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React JS",
+      "Bootstrap",
+      "Tailwind CSS",
+      "Vite JS",
+      "Node JS",
+      "Express JS",
+      "APIs",
+      "SQL",
+      "MongoDB",
+      "Firebase",
+      "Git",
+      "Github",
+      "Visual Studio Code",
+      "Jupyter Notebook",
+      "Data Structures and Algorithms (DSA)",
+      "Object Oriented Programming (OOPs)",
+      "Machine Learning",
+      "PowerBI",
+      "Problem Solving",
+      "Communication Skills"
+    ],
+    "soft_skills": [],
+    "name": "Monika Sree Srinivasan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

@@ -1,0 +1,122 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Divyanshu Pal",
+  "college": "Indian Institute of Information Technology, Una",
+  "locations": [
+    "Delhi, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [
+      "Volunteer head of the Event Management Club of IIIT Una with 70+ members (2020-Present). Organized successful events."
+    ],
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology, Una",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Delhi, India",
+        "ID": 0.0,
+        "grade_received": "7.35/10 CGPA",
+        "field_of_study": "Electronics & Communication Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Doctor Appointment System Website",
+        "description": "Architected and developed a full-stack doctor appointment system using ReactJS, Redux, NodeJS, and MongoDB. Implemented a secure registration and verification process for doctors, overseen by an admin panel to ensure authenticity of registered medical professionals. Enhanced user experience by automating appointment confirmations, resulting in a 15% increase in user satisfaction ratings.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "Redux",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Chit-Chat",
+        "description": "Engineered a real-time chat application using ReactJS, NodeJS, and Socket.io, enabling instant messaging with a focus on user experience and performance. Implemented secure user authentication via JWT, improving the user registration process by 25% and enhancing overall platform security. Made an API call for user profile management, which increased user personalization features by 30%. Built a robust messaging system that supports text and emoji communication.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "Socket.io",
+          "MongoDB",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Stack Overflow Clone Website",
+        "description": "Developed a fully functional Stack Overflow clone using MERN stack, facilitating community-driven Q&A with features for user-generated content and peer-to-peer learning. Optimized state management with Redux, resulting in smoother user interactions and a 15% reduction in page load times. Secured RESTful APIs with JWT authentication.",
+        "keywords": [
+          "MongoDB",
+          "NodeJS",
+          "ExpressJS",
+          "ReactJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Development Intern",
+        "skillsUsed": [],
+        "endDate": "April 2023",
+        "company_name": "Mobzway Technology Pvt. Ltd.",
+        "description": "Led the development of both frontend and backend features, utilizing Redux for efficient global state management. Improved application responsiveness by 20% through optimized state handling. MERN stack used: React.js for UI, Node.js/Express.js for backend, MongoDB for storage. Developed REST APIs for the user authentication module, reducing authentication time by 30%. Implemented token-based authentication and authorization using access token and refresh token.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Jan 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JAVA",
+      "JavaScript",
+      "C",
+      "Python (basic)",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "Tailwind CSS",
+      "HTML5",
+      "CSS3",
+      "NextJS",
+      "MongoDB",
+      "VS Code",
+      "Postman",
+      "Git",
+      "GitHub",
+      "RESTful APIs",
+      "LaTeX",
+      "Anaconda",
+      "Microsoft Office",
+      "Data Structures & Algorithms",
+      "Object-Oriented Programming (OOP)"
+    ],
+    "soft_skills": [],
+    "name": "Divyanshu Pal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured 2nd place in the Business Model Competition at IIT Kanpur, leading the ChannelsFlip.com team to develop a scalable and innovative business solution recognized for its potential impact."
+    ],
+    "publications": []
+  },
+  "current_location": "Delhi, India - 110009",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

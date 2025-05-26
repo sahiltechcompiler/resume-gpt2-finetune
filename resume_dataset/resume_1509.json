@@ -1,0 +1,130 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "ABHIVANDYA ABHIRAM",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Dubai (remote)",
+    "Lucknow"
+  ],
+  "full_output": {
+    "summary": "Highly motivated Software Engineer with a passion for innovation and a drive to excel in software development. Skilled in Java, and Object-Oriented Programming. Dedicated to delivering exceptional results in software product development. Eager to contribute my technical expertise and problem-solving abilities to a dynamic and forward-thinking organization in the field of software development. Seeking opportunities to collaborate on impactful projects and make a difference in the ever-evolving world of technology.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Attained the 'Elite' designation upon completing the Design and Analysis of Algorithms course offered by NPTEL in collaboration with I.I.T. Madras.",
+        "skillsLearned": [],
+        "title": "Elite D.A.A. Course",
+        "issuer": "I.I.T. Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Developed a User Credential Authentication Portal using Java in a hackathon on Jump Start with Cybersecurity and Ethical Hacking by Randomize(); in collaboration with Faculty of Computer Science and Engineering - Manipal University Jaipur.",
+        "skillsLearned": [],
+        "title": "Jumpstart with Cybersecurity and Ethical Hacking",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "July, 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.58 CGPA",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "September, 2021"
+      },
+      {
+        "school": "La Martiniere College, Lucknow",
+        "endDate": "March, 2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "93.2%",
+        "field_of_study": "",
+        "startDate": "April, 2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce Website",
+        "description": "Designed, developed, and tested a dynamic e-commerce website for a bookstore, incorporating essential features such as user registration, login, seamless order placement, and a fully functional shopping cart. Utilized a stack of technologies including PHP, HTML, CSS, XAMPP server, and SQL.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "mybookstore.com"
+      },
+      {
+        "name": "Detection of DDoS Attacks using RF and ANN Techniques",
+        "description": "Created and tested a model for detecting Distributed Denial-of-Service (DDoS) attacks utilizing Random Forest (RF) and Artificial Neural Networks (ANN) techniques. The model achieved 99.25% accuracy with RF and 98.38% accuracy with ANN, demonstrating high efficacy in identifying malicious network traffic. Authored a research paper detailing the methodology and findings, currently pending publication.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Password & OTP Generator and Authenticator",
+        "description": "Created and tested a Password & OTP Generator and Authenticator that generates random strong passwords that could be used by multiple websites using Java Language.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Student Attendance Manager",
+        "description": "Implemented and tested an attendance management system for students based on Doubly Linked List data structure in C programming language. Capable of storing, deleting, and modifying details of multiple students as well as marking their attendance for multiple subjects.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Integration Intern",
+        "skillsUsed": [],
+        "endDate": "July, 2024",
+        "company_name": "CES Holdings",
+        "description": "Facilitated the integration of middleware with Magento to streamline data synchronization and enhance e-commerce operations. Conducted extensive data preprocessing, including cleaning and organizing large datasets using Excel, to ensure data accuracy and consistency. Performed rigorous testing of products and data flow between Magento and Plytix to ensure system reliability and efficiency. Automated routine tasks, such as online product verification to enhance workflow. Worked in an agile environment to deliver high quality results.",
+        "location": "Dubai (remote)",
+        "links": "",
+        "startDate": "June, 2024"
+      }
+    ],
+    "skills": [
+      "Java",
+      "SQL",
+      "AWS",
+      "OOP",
+      "Data Structures and Algorithms",
+      "Version Control (Git)",
+      "DBMS",
+      "MS Excel"
+    ],
+    "soft_skills": [],
+    "name": "ABHIVANDYA ABHIRAM",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Achieved the highest marks in Computer Science at La Martiniere College in 10th and 12th grade.",
+      "Certificate of Appreciation, Blood Donation Camp, Rotaract Club of Manipal University Jaipur (2022)",
+      "Awarded best team award at Inter-House Debate Competition, La Martiniere College (2019)",
+      "Champions, 15th National Football CP (7-A-Side) Championship (2016)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

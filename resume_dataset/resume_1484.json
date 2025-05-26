@@ -1,0 +1,184 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "SHRUTI SHRIDHAR DANTALA",
+  "college": "Shah and anchor Kutchhi Engineering College",
+  "locations": [
+    "Mumbai"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Database Management System",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Operating System",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Object Oriented Programming",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud Computing",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Shah and anchor Kutchhi Engineering College",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Mumbai",
+        "ID": 0.0,
+        "grade_received": "8.94 (Till 6th Semester)",
+        "field_of_study": "Cyber Security",
+        "startDate": "2020"
+      },
+      {
+        "school": "Wilson College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "HSC",
+        "location": "Mumbai",
+        "ID": 1.0,
+        "grade_received": "62.62%",
+        "field_of_study": "Class XII",
+        "startDate": "2018"
+      },
+      {
+        "school": "I.E.S Modern English School",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "SSC",
+        "location": "Mumbai",
+        "ID": 2.0,
+        "grade_received": "81.20%",
+        "field_of_study": "Class X",
+        "startDate": "2016"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ace Guard",
+        "description": "Encryption Decryption of text and images. An interface that provides an enhanced security by encrypting and decrypting of text and images. Uses AES: Advanced Encryption Decryption operations for users and chats. Using Core Java and Apache NEtbeans. MySQL is used for the database. Cryptography i.e Symmetric type of key used.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Bruteware",
+        "description": "Bruteforce attack prevention Web application that is resistant to Brute force attack. Frontend using HTML, CSS, JavaScript. Backend using PHP for setting limits on number of attempts made. MySQL for database where we will store our correct credentials and logs.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Finter",
+        "description": "A file integrity monitoring tool. A tool that focuses on maintaining the CIA triads of data. Frontend, Visualization using HTML, CSS, JavaScript. Backend using Python and its libraries matplotlib, watchdog. Postgresql database to log events occurring. In-collaboration with industry expert i.e Cyber Secured India.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Log Analysis Tool",
+        "description": "Build a tool that collects and analyzes system logs from various sources, such as operating systems, applications, and network devices that helps identify suspicious activities, generate reports on security events, and assist in incident response. Backend using Java. Tools such as ELK stack, Kibana, Docker HTML, CSS, JS for frontend. In-collaboration with industry expert i.e Centre of Excellence (Coe).",
+        "keywords": [],
+        "endDate": "July23",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi",
+      "Telugu"
+    ],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Feb22",
+        "company_name": "NTIRT, NTRDC & Crime Free Bharat",
+        "description": "NTRDC project Intern Project- Enhancing the strategies for resolving crimes in the police Under NTRDC & National threat intelligence response team, India.",
+        "location": "",
+        "links": "",
+        "startDate": "Sept21"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Mar22",
+        "company_name": "SISTMR Australia Virtual Industry Project Internship Program",
+        "description": "Virtual cyber security Industry internship in association with VPKBIET, India.",
+        "location": "",
+        "links": "",
+        "startDate": "Feb22"
+      },
+      {
+        "role_name": "Cybersecurity intern",
+        "skillsUsed": [],
+        "endDate": "July23",
+        "company_name": "Senselearner Technologies Pvt. Ltd",
+        "description": "Various miniprojects involving usage of cyber security skills and gain knowledge.",
+        "location": "",
+        "links": "",
+        "startDate": "May22"
+      }
+    ],
+    "skills": [
+      "Core Java",
+      "SQL",
+      "Python",
+      "HTML",
+      "CSS",
+      "Data Science",
+      "JavaScript",
+      "Mongo DB",
+      "Oracle",
+      "AWS"
+    ],
+    "soft_skills": [],
+    "name": "SHRUTI SHRIDHAR DANTALA",
+    "position": "",
+    "interests": [
+      "Carrom",
+      "Movies",
+      "Social Activitites"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 3.0,
+  "degree": "Cyber Security"
+}

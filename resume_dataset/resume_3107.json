@@ -1,0 +1,116 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Polina Harika Harika",
+  "college": "SRM University AP",
+  "locations": [],
+  "full_output": {
+    "summary": "A dedicated and an aspiring Software Development Engineer with an objective of working in an organization that provides opportunities for technical and personal advancement",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.23/10.0",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "",
+        "endDate": "2021",
+        "maximum_grade": "10.0/10.0",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "97.2 percentage",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "",
+        "endDate": "2019",
+        "maximum_grade": "10.0/10.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Super Store Sales Board",
+        "description": "Identified critical KPIs such as total sales, sales growth rate, and average order value, providing actionable insights for business strategy. Pinpointed top-performing products, seasonal sales trends, and customer purchasing behavior. Utilized Excel and Power BI for data visualization and dashboard creation, highlighting sales trends and customer behavior.",
+        "keywords": [
+          "Excel",
+          "Power BI",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Insights Automation",
+        "description": "Developed a shell script on an AWS EC2 instance to automate the auditing of user access for a GitHub organization, focusing on visibility and operational efficiency. Implemented scripts to check repository collaborators and identify users with elevated permissions using GitHub API. Developed a Bash script to list and verify GitHub organization members and their roles.",
+        "keywords": [
+          "AWS",
+          "GitHub API",
+          "Shell Scripting"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "Code Clause",
+        "description": "Developed and implemented machine learning model to detect fraudulent credit card transactions.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Data Analysis Trainee",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "APSSDC",
+        "description": "Gained hands-on experience with Python modules including Pandas, NumPy for data manipulation and analyzing. Utilized Matplotlib and Seaborn to create insightful visualizations.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Problem Solving",
+      "Django(Novice)",
+      "MYSQL"
+    ],
+    "soft_skills": [],
+    "name": "Polina Harika Harika",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Finalist in DataVista Business Analytics Competition Advanced to the final round of DataVista, organized by 'D-Insights: The MIS and Analytics Club' -kolkata",
+      "Selected Participant, Amazon ML Summer School 2024"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

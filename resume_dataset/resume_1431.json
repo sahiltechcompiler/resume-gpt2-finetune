@@ -1,0 +1,87 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sanchita Agarwal",
+  "college": "Manipal Univeristy",
+  "locations": [
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal Univeristy",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Technology",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science Hons (AI & ML)",
+        "startDate": "October 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Age estimation using cnn",
+        "description": "Developed a deep learning model using Convolutional Neural Networks (CNN) to estimate age from facial images. Pre-processed facial images using resizing, normalization, and data augmentation to improve model performance. Designed and implemented a CNN architecture with multiple convolutional layers to extract facial features. Applied regularization techniques like dropout to prevent overtting and improve model generalization. Achieved high accuracy in predicting age groups, evaluated using Mean Absolute Error (MAE). Utilized Python, TensorFlow, Keras, and OpenCV for model development and image processing. Worked with large facial image datasets (e.g., UTKFace) for training and validation.",
+        "keywords": [
+          "Python",
+          "TensorFlow",
+          "Keras",
+          "OpenCV"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Responsive blogs",
+        "description": "Developed a responsive blog application using React, allowing users to create, read, and delete blog posts. The application was built with a mobile-rst approach, ensuring smooth functionality across various screen sizes and devices. Leveraged React for the front-end, implementing components for dynamic and interactive user interfaces. Enabled seamless creation and viewing of blog entries, and provided the functionality to delete posts. The back-end was developed using Node.js and Express, while MongoDB was used for persistent storage of blog data. The project emphasized responsiveness, performance, and ecient data handling.",
+        "keywords": [
+          "Html",
+          "Css",
+          "Javascript",
+          "React Js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Real time chat application",
+        "description": "Developed a real-time chat application to facilitate real-time messaging between users. The application allows users to create and join multiple chat rooms, with instant message updates through WebSocket connections. Implemented key features including user authentication, displaying online/oine status, and message timestamps. MongoDB was used for storing user data and chat history, ensuring message persistence. The interface was designed to be responsive, providing a seamless experience across both desktop and mobile devices.",
+        "keywords": [
+          "Node js",
+          "React js",
+          "Socet.io"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Javascript",
+      "C++",
+      "React",
+      "Django",
+      "NodeJs"
+    ],
+    "soft_skills": [],
+    "name": "Sanchita Agarwal",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor Of Technology"
+}

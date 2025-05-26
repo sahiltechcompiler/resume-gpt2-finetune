@@ -1,0 +1,134 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Aaryansh Sharma",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur",
+    "Faridabad",
+    "Gurgaon"
+  ],
+  "full_output": {
+    "summary": "Ambitious and detail-oriented B.Tech CSE student specializing in IoT and IS. Proficient in AI, ML, and web development. Skilled in creating intelligent systems for efficiency and user-friendly applications. Eager to contribute to organizational success through innovative problem-solving in technology.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.61",
+        "field_of_study": "CSE (IoT & Intelligent Systems)",
+        "startDate": ""
+      },
+      {
+        "school": "Manav Rachna International School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "12th Grade",
+        "location": "Faridabad",
+        "ID": 1.0,
+        "grade_received": "Percentage: 88.6%",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Autonomous Car Racing",
+        "description": "Developed the policy/reward function for autonomous driving using the SAC algorithm in the Trackmania 2020 environment with the TMRL library.",
+        "keywords": [],
+        "endDate": "Present",
+        "startDate": "Oct 2021",
+        "url": ""
+      },
+      {
+        "name": "Smart Crop Tracker",
+        "description": "Designed a modular sensor package for crop data tracking, integrating ESP8266 with Raspberry Pi for data logging and processing.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Password Manager",
+        "description": "Created a secure password manager with Tkinter UI and SQLite, emphasizing encryption and database security.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Algorithmic Trading",
+        "description": "Developed an automated trading bot implementing the Martingale strategy, achieving breakeven in backtests.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hand Gesture Recognition System for Trackmania",
+        "description": "Implemented a hand gesture recognition system using OpenCV and Googles Mediapipe to emulate user input for the video game Trackmania, enabling hands-free gameplay using the webcam.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [
+          "Apache Spark",
+          "PySpark",
+          "Databricks",
+          "Power BI",
+          "Deneb",
+          "Vega"
+        ],
+        "endDate": "Jul 2023",
+        "company_name": "KPMG Global Services",
+        "description": "Developed proficiency in Apache Spark, PySpark, and Databricks for efficient data management and analysis. Created custom visualizations for Power BI using Deneb in Vega, enhancing data presentation and insights. Contributed to establishing a flexible pipeline for rapid development of new visuals to meet future requirements.",
+        "location": "Gurgaon",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C/C++",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "Apache Spark",
+      "PySpark",
+      "React",
+      "FastAPI",
+      "Linux (WSL and native)-Ubuntu",
+      "Power BI",
+      "Tableau",
+      "GitHub",
+      "Databricks",
+      "Docker",
+      "Arduino",
+      "Raspberry Pi",
+      "ESP8266",
+      "TensorFlow",
+      "OpenCV"
+    ],
+    "soft_skills": [],
+    "name": "Aaryansh Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2021.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

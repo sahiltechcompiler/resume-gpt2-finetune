@@ -1,0 +1,141 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "S Sai Keerthan",
+  "college": "SRM UNIVERSITY AP",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY AP",
+        "endDate": "Present",
+        "maximum_grade": "10.0",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.71/10.0",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Crowdfunding platform",
+        "description": "Utilized React, Django, MySQL, and Python to implement features like user management, project handling, and project funding. Enabled fundraising for creative and entrepreneurial issues.",
+        "keywords": [
+          "React",
+          "Django",
+          "MySQL",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Note Application",
+        "description": "Designed secure authentication and CRUD operations using Django, React, and JWT. Created an application for user management with registration, login, and note management through JWT-based access.",
+        "keywords": [
+          "Django",
+          "React",
+          "JWT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Multi-Stream CNN For Salient Object Detection",
+        "description": "Developed a CNN model that captured contextual and multiscale features, enhancing saliency detection accuracy. Evaluated performance using metrics like f-measure, recall, precision, and MAE, demonstrating superiority over established methods. Conducted cross-dataset evaluations to validate generalization capabilities.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Book Recommender System",
+        "description": "Developed a Book Recommender System using collaborative filtering algorithms for personalized recommendations. Designed a user-friendly interface using Flask.",
+        "keywords": [
+          "Flask"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Deep Learning Researcher",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "SRM University, AP",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "Front End Developer",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "IBM SkillsBuild",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Django Developer",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "APSSDC",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      },
+      {
+        "role_name": "AI Engineer",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Infosys Springboard",
+        "description": "",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      }
+    ],
+    "skills": [
+      "Programming Languages",
+      "Data Structures and Algorithms (DSA)",
+      "Strong understanding and proficiency in DSA",
+      "Web Technologies",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Django",
+      "MERN",
+      "PowerBI",
+      "Excel",
+      "Machine Learning & Deep Learning",
+      "Python",
+      "C",
+      "C++",
+      "Java"
+    ],
+    "soft_skills": [],
+    "name": "S Sai Keerthan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 4.0,
+  "degree": "Bachelors Degree"
+}

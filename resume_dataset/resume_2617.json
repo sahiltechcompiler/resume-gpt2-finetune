@@ -1,0 +1,133 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "MOHD AADIL",
+  "college": "Dr. APJ Abdul Kalam Technical University",
+  "locations": [
+    "Ghaziabad, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam Technical University",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Ghaziabad, India",
+        "ID": 0.0,
+        "grade_received": "GPA: 7.3 / 10",
+        "field_of_study": "Computer Science",
+        "startDate": "September 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AIix",
+        "description": "Developed a web application using React.js, integrating OpenAI API and TMDB API, allowing users to both watch movies and receive personalized recommendations through a GPT search feature.",
+        "keywords": [
+          "React.js",
+          "Firebase"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "Cart Craze",
+        "description": "Developed a full-edged e-commerce application, using the MERN stack (MongoDB, Express.js, React.js, Node.js). Implemented essential e-commerce functionalities such as user authentication, product browsing, cart management, secure transactions, and order tracking.",
+        "keywords": [
+          "React.js",
+          "Express.js",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      },
+      {
+        "name": "BuzzSphere",
+        "description": "Developed a social media application using the MERN stack (MongoDB, Express.js, React.js, Node.js) enabling users to create, view, and interact with posts. Implemented features such as user authentication, post creation, like, comment, and share functionalities to enhance user engagement.",
+        "keywords": [
+          "React.js",
+          "Express.js",
+          "Node.js",
+          "MongoDB"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Github"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "Node.js",
+          "Express.js",
+          "RESTful APIs",
+          "Facebook Graph API",
+          "JWT"
+        ],
+        "endDate": "June 2024",
+        "company_name": "App Avengers Pvt ltd.",
+        "description": "Developed RESTful APIs using Node.js and Express.js, improving API response time by 25% and reducing server load by 30%. Integrated Facebook Graph API, enabling users to add, post, and view posts on their Facebook accounts through the app, enhancing social media connectivity. Implemented user authentication and authorization using JWT, ensuring secure access to the platform.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "React.js",
+          "UI Development",
+          "Responsive Web Design",
+          "Redux",
+          "Redux Toolkit"
+        ],
+        "endDate": "April 2024",
+        "company_name": "WowPetsCo",
+        "description": "Developed UI using React.js, enhancing user experience and reduce page loading time by 30%. Collaborated with designers to implement responsive web design, improving accessibility and usability across various devices. Utilized Redux and Redux Toolkit for global state management, ensuring consistent user experience.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "January 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Python",
+      "HTML",
+      "CSS",
+      "SQL",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "jQuery",
+      "Bootstrap",
+      "Next.js",
+      "Tailwind CSS",
+      "Postman",
+      "Git",
+      "Github",
+      "MongoAtlas",
+      "Figma",
+      "VS Code"
+    ],
+    "soft_skills": [],
+    "name": "MOHD AADIL",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Hapur, Uttar Pradesh, India",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology"
+}

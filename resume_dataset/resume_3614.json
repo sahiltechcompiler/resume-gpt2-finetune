@@ -1,0 +1,145 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aniruddha Dewangan",
+  "college": "SRM University",
+  "locations": [
+    "Andhra Pradesh",
+    "Bengaluru"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Andhra Pradesh",
+        "ID": 0.0,
+        "grade_received": "8.60 (6th Sem)",
+        "field_of_study": "Computer Science and Engineering with Specialization in Big Data Analytics",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Streak v2.0",
+        "description": "Engineered a fully functional game e-commerce site using React and Tailwind CSS; integrated product catalog, detailed game pages, shopping cart, and checkout. Introduced comprehensive filtering features including 10 genres, 5-scale ratings, and reviews, resulting in improved user satisfaction. Built the platform to initially support about 50 games with the capability to easily scale and add more games as needed. Utilized Framer Motion to create smooth and engaging animations, enhancing the overall user experience.",
+        "keywords": [
+          "JavaScript",
+          "Reactjs",
+          "TailwindCSS",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "Groovy - Music Player",
+        "description": "Developed a full-featured and scalable music player using the MERN stack, facilitating seamless music playback, user authentication, and playlist creation. Streamlined the outpass request process, reducing paper usage by 100% and eliminating the need for physical registers and paper outpasses. Implemented search functionality, enabling users to locate tracks within the database that contains over 300 tracks. Integrated robust RESTful APIs for efficient communication between the front-end and back-end, ensuring scalable and reliable performance.",
+        "keywords": [
+          "JavaScript",
+          "Reactjs",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "TailwindCSS",
+          "RESTful APIs",
+          "HTML",
+          "CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      },
+      {
+        "name": "SmartVerify",
+        "description": "Created a web application to scan Solidity files for critical vulnerabilities in Ethereum smart contracts, achieving a 95% accuracy rate using a machine learning model trained with PyTorch. Identified and mitigated four key vulnerabilities - Reentrancy, Timestamp Dependence, Delegate Call and Integer Overflow Vulnerability, reducing potential security risks by 80%. Utilized a robust backend stack including Flask, Node.js, Prisma, and Clerk for secure authentication, and deployed the application on Vercel and Ngrok.",
+        "keywords": [
+          "JavaScript",
+          "Next.js",
+          "TailwindCSS",
+          "Shadcn/UI",
+          "Aceternity UI",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "GitHub"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Software Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React"
+        ],
+        "endDate": "August 2024",
+        "company_name": "Bluestock Fintech",
+        "description": "Directed a team of 5 in creating and deploying new front-end functionalities for the companys website. Utilized technologies such as HTML, CSS, JavaScript, and React to develop responsive and visually appealing web pages; while working closely with backend developers to integrate the designs. Submitting code for reviews to ensure high-quality code and adherence to best practices.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Front-end and UI/UX Developer Intern",
+        "skillsUsed": [
+          "Figma",
+          "React",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Agumentik Group of Companies, Bengaluru",
+        "description": "Crafted intuitive and visually appealing user interfaces for web and mobile apps using Figma, enhancing user engagement and satisfaction by 40% across multiple client projects. Coordinated Agile sprints and task management, contributing to a 95% on-time project delivery rate. Redesigned the frontend for a Real Estate E-Commerce website using React, HTML, CSS, and JavaScript, resulting in a 52% improvement in user engagement.",
+        "location": "Bengaluru",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "C/C++",
+      "Python (Intermediate)",
+      "Java (Intermediate)",
+      "Reactjs",
+      "TailwindCSS",
+      "Shadcn/UI",
+      "Express.js",
+      "Node.js",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Azure",
+      "Postman",
+      "Figma",
+      "Visual Studio"
+    ],
+    "soft_skills": [],
+    "name": "Aniruddha Dewangan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Won 2nd Runners Up in the National Level Hackathon organised by GDSC IIIT Kalyani 2024"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

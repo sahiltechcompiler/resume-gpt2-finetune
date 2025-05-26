@@ -1,0 +1,173 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Mohd Affan Siddiqui",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud Practioner",
+        "issuer": "KodeKloud",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Docker Training Course for the Absolute Beginner",
+        "issuer": "KodeKloud",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Golang",
+        "issuer": "KodeKloud",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Certified Python Entry-Level Programmer",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "HTML, CSS, and Javascript for Web Developers",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "Present",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.06",
+        "field_of_study": "IT",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Spotify Playlist Management using Terraform",
+        "description": "Developed Terraform scripts to automate the creation and management of Spotify playlists. Integrated Terraform with the Spotify API to dynamically manage playlist resources. Utilized variables and data blocks to enhance code reusability and flexibility. Applied IaC principles to demonstrate efficient and error-free automation.",
+        "keywords": [
+          "Terraform",
+          "Spotify API",
+          "GitHub"
+        ],
+        "endDate": "July 2024",
+        "startDate": "June 2024",
+        "url": ""
+      },
+      {
+        "name": "Kubernetes TODO List App",
+        "description": "Dockerized a TODO List web application with MongoDB integration for task management. Deployed the Dockerized application on Kubernetes, including MongoDB with StatefulSets for improved scalability and management. Configured Kubernetes Services for exposing the application and database, ensuring efficient and reliable access. Deployed the Kubernetes-managed application on AWS, utilizing AWS Free Tier resources, including EC2 instances and EBS storage.",
+        "keywords": [
+          "Kubernetes",
+          "Docker",
+          "AWS"
+        ],
+        "endDate": "Feb 2024",
+        "startDate": "Dec 2023",
+        "url": ""
+      },
+      {
+        "name": "Hostel Management System",
+        "description": "Constructed a website incorporating HTML, CSS, JavaScript, and PHP. A portal for Students and Hostel Authority to perform various tasks related to hostel bookings and complaint management. Deployed on GitHub pages.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "PHP",
+          "SQL",
+          "GitHub"
+        ],
+        "endDate": "April 2023",
+        "startDate": "Feb 2023",
+        "url": ""
+      },
+      {
+        "name": "Vehicle Rental System",
+        "description": "Created a Python-based terminal backend. Enables users to easily rent or return a variety of two and four-wheeler vehicles. Offers flexible rental duration options.",
+        "keywords": [
+          "Python",
+          "GitHub"
+        ],
+        "endDate": "Jul 2022",
+        "startDate": "Apr 2022",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Go",
+      "HTML",
+      "CSS",
+      "SQL",
+      "PHP",
+      "DSA",
+      "RDBMS",
+      "Linux",
+      "Shell Scripting",
+      "Bash Scripting",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CLI",
+      "VS Code",
+      "Git",
+      "GitHub"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Deadline Adherence",
+      "Attention to Detail"
+    ],
+    "name": "Mohd Affan Siddiqui",
+    "position": "",
+    "interests": [
+      "CKAD",
+      "CKA",
+      "Jenkins",
+      "Azure",
+      "API"
+    ],
+    "achievements_and_awards": [
+      "Successfully completed Hacktoberfest 2022, contributing to open-source projects and earning a limited-edition T-shirt.",
+      "Received the Scholar Badge and Scholar Tie at my school for maintaining a consistent score of over 90% for four consecutive years."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

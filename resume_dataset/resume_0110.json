@@ -1,0 +1,224 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Yash Kumar Goel",
+  "college": "KIET Group Of Institutions",
+  "locations": [
+    "Ghaziabad, Uttar Pradesh",
+    "Uttar Pradesh, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "Linked in & Udemy",
+        "description": "",
+        "skillsLearned": [],
+        "title": "UX/UI Designer",
+        "issuer": "FIGMA",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Linked-in",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Competitive Tools & Software",
+        "issuer": "Microsoft Learn",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Linked-in",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Product Management",
+        "issuer": "PMI",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Udemy",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming language C++",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "Linked-in",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Healthcare Management & Excel Essential",
+        "issuer": "Linked-in",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "KIET Group Of Institutions",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.225",
+        "field_of_study": "Computer Science& Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "St.R.C. Scientific & Convent School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "95 %",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      },
+      {
+        "school": "St.R.C. Scientific & Convent School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "94.5 %",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Emergency Service Portal",
+        "description": "Built web & Android emergency portal with React & React Native. Used MongoDB, FCM, and WebSockets for data & real-time updates. Designed & deployed the entire system architecture for smooth operations.",
+        "keywords": [
+          "Figma",
+          "VPS",
+          "FCM",
+          "Ngnix Server",
+          "React Native",
+          "MongoDB"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sales Performance Analysis",
+        "description": "Detailed reports and dashboards showing sales performance by product, region, and time period, with actionable insights for improving sales strategies.",
+        "keywords": [
+          "Excel",
+          "SQL",
+          "Python (Pandas, Matplotlib, Seaborn)",
+          "Power BI"
+        ],
+        "endDate": "March 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Churn Prediction & Financial Analysis with Forecasting",
+        "description": "A comprehensive financial analysis and forecasting system that provides accurate and actionable insights into the companys financial performance.",
+        "keywords": [
+          "Python (Pandas, Scikit-learn)",
+          "R",
+          "SQL"
+        ],
+        "endDate": "February 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AmbuKalyan Janseva",
+        "description": "AmbuKalyan is a comprehensive healthcare assistance portal provided by Ambuvians, dedicated to guiding individuals towards accessing government healthcare schemes effectively.",
+        "keywords": [
+          "Figma",
+          "Javascript",
+          "React",
+          "MongoDB",
+          "FCM",
+          "Flask",
+          "VPS"
+        ],
+        "endDate": "November 2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Project Manager & Business Analyst",
+        "skillsUsed": [],
+        "endDate": "May 2024",
+        "company_name": "Ambuvians Healthcare Pvt. Ltd.",
+        "description": "Responsible for providing leadership, setting objectives, and overseeing overall operations. Adeptly manage operations, driving the companys innovative execution.",
+        "location": "Ghaziabad, Uttar Pradesh",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Global Community Ambassador",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Microsoft Learn Student Ambassador",
+        "description": "Proven ability to educate students in technology. Delivered workshops on Git, GitHub, Azure, data visualization tools (Power BI), and business essentials to over 1,000 students worldwide.",
+        "location": "",
+        "links": "",
+        "startDate": "Nov. 2023"
+      },
+      {
+        "role_name": "College Ambassador",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Physics Wallah",
+        "description": "As a PW Campus Ambassador, I foster campus community, organize events, and represent PW brand with professionalism.",
+        "location": "Uttar Pradesh, India",
+        "links": "",
+        "startDate": "Feb. 2024"
+      },
+      {
+        "role_name": "Chapter Leader",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "MLSA KIET Chapter",
+        "description": "I have hosted 8+ international events and 10+ national event, I empower students to acquire practical skills and knowledge in utilizing these tools to their fullest potential.",
+        "location": "Uttar Pradesh, India",
+        "links": "",
+        "startDate": "Feb. 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "MongoDB",
+      "NodeJS",
+      "SQL",
+      "R",
+      "Ruby",
+      "DAX",
+      "OOPS"
+    ],
+    "soft_skills": [],
+    "name": "Yash Kumar Goel",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "2 Patent filled",
+      "one Research paper"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 4.0,
+  "degree": "B.Tech"
+}

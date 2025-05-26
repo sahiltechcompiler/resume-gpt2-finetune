@@ -1,0 +1,142 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "VEDANT MISHRA",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "Proactive Data Analyst and Data Scientist skilled in Python, C++, and MySQL, focused on data visualization, statistical analysis, and delivering actionable insights to drive better decisions.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor in Information Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Morning Star School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "91",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Gwalior Glory High School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "94",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Mail Spam Classifier",
+        "description": "Developed an email spam classifier using Python and scikit-learn. Implemented machine learning algorithms for accurate spam detection and created RESTful API endpoints for real-time classification. Delivered a robust, high-performing classifier with a user-friendly interface and efficient spam filtering.",
+        "keywords": [
+          "Python",
+          "scikit-learn"
+        ],
+        "endDate": "June 2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "The portfolio leverages HTML, CSS, and JavaScript to create an engaging and interactive user experience. Built with efficient coding practices, the portfolio ensures fast load times and smooth performance. The portfolio incorporates modern web development techniques, including modular components, clean code, and responsive design.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Tailwind"
+        ],
+        "endDate": "Mar 2024",
+        "startDate": "Feb 2024",
+        "url": ""
+      },
+      {
+        "name": "Diabetes Prediction Using ML",
+        "description": "Analyzed health data and predict diabetes risk based on factors like glucose levels, BMI, age, and blood pressure. Algorithms used are Logistic Regression, Random Forest Classifier, Support Vector Machine (SVM), and Gradient Boosting algorithms like XGBoost.",
+        "keywords": [
+          "Python",
+          "Jupyter"
+        ],
+        "endDate": "May 2024",
+        "startDate": "Apr 2024",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern Data Analyst",
+        "skillsUsed": [
+          "Python",
+          "pandas",
+          "numpy",
+          "Tableau",
+          "matplotlib"
+        ],
+        "endDate": "Aug 2024",
+        "company_name": "Future",
+        "description": "Data Cleaning: Utilized Python libraries like pandas and numpy to preprocess and clean large datasets, ensuring data quality and consistency. Data Visualization: Created interactive dashboards using Tableau and matplotlib to present insights and trends effectively. Statistical Analysis: Conducted in-depth statistical analyses with Python to identify key patterns and correlations within the data.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Data Analyst",
+        "skillsUsed": [
+          "Excel"
+        ],
+        "endDate": "Sept 2023",
+        "company_name": "Good Host Spaces (MUJ)",
+        "description": "Assembled, cleaned, and organized large datasets, enhancing data accuracy and reducing analysis time by 30. Managed Excel datasets for over 5,000 students, performing advanced filtering and sorting.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "MY SQL",
+      "Python",
+      "HTML",
+      "CSS",
+      "Pandas",
+      "NumPy",
+      "MatPlotlib",
+      "MS Excel",
+      "Tableau",
+      "JavaScript",
+      "Matlab",
+      "PyCharm",
+      "SAS"
+    ],
+    "soft_skills": [],
+    "name": "VEDANT MISHRA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor in Information Technology"
+}

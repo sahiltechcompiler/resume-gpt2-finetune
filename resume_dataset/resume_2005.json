@@ -1,0 +1,135 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Priyal Jain",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech",
+        "location": "Jaipur",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Birthday Countdown & Wisher",
+        "description": "Designed and developed a personalized birthday countdown website using React.js, CSS, and HTML. Implemented features to capture user input, generate unique links, and initiate real-time countdowns, delivering an interactive and engaging user experience.",
+        "keywords": [
+          "React.js",
+          "CSS",
+          "HTML"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Tiffin Delivery System",
+        "description": "Designed and developed a user-friendly tiffin delivery platform using HTML, CSS, JavaScript, and PHP. Implemented intuitive navigation and a modern interface to streamline tiffin selection and ordering. Utilized MySQL for efficient order management and backend support.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Hand Gesture Model for HCI",
+        "description": "Utilized OpenCV and MediaPipe with live video feed and advanced algorithms to predict and classify hand gestures in real-time, enabling navigation and actions without traditional input devices. Developed and implemented a feature for controlling the mouse cursor with two fingers, significantly enhancing user interaction and accessibility.",
+        "keywords": [
+          "OpenCV",
+          "MediaPipe"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern - Oracle EBS Domain",
+        "skillsUsed": [],
+        "endDate": "July 2024",
+        "company_name": "Prisio Technologies Pvt Ltd",
+        "description": "Developed and optimized PL/SQL and advanced SQL queries for client project performance management. Contributed to database development and system enhancements. Focused on query optimization to improve efficiency and system performance.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Data Science Intern",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "GSTAMP Software Solutions",
+        "description": "Developed and refined a database deadlock prediction model, enhancing accuracy with advanced machine learning algorithms. Conducted in-depth research on database deadlocks, analyzing machine learning techniques to identify trends and improve prediction and prevention strategies.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Head of Public Relations",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Parvarish (Pre-incubated startup)",
+        "description": "Established connections with daycare centers and creches across Jaipur, fostering relationships, sharing information, and promoting engagement for mutual benefits. Conducted research work for the startup and created investor pitches, supporting strategic growth and funding opportunities.",
+        "location": "",
+        "links": "",
+        "startDate": "April 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React.js",
+      "MySQL",
+      "Oracle",
+      "MediaPipe",
+      "OpenCV",
+      "Canva",
+      "Generative AI",
+      "LLMs",
+      "Langchain",
+      "LLaMa"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Teamwork",
+      "Communication",
+      "Presentation",
+      "Report writing",
+      "Research",
+      "Data Management",
+      "Project management",
+      "Logical thinking"
+    ],
+    "name": "Priyal Jain",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "B. Tech"
+}

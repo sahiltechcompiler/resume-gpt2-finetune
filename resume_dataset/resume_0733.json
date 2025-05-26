@@ -1,0 +1,157 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Lakshya Sharma",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science and Machine Learning Bootcamp",
+        "issuer": "Udemy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "AWS Cloud with Artificial Intelligence Workshop",
+        "issuer": "LinuxWorld",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Essentials in Python",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Networks",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Swayam NPTEL - Design and Analysis of Algorithms",
+        "issuer": "IIT Madras",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence Bootcamp - Microsoft Learn Student Ambassador",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B. TECH",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "SLS DAV Public School, Delhi",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Higher Secondary Education",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "81.6",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "SLS DAV Public School, Delhi",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Secondary Education",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "82.6",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Predicting Next Events and Timestamps in Process Monitoring: A Deep Fusion Approach",
+        "description": "Implemented a Fusion Model Architecture (FMA) to predict next events and timestamps of event logs (Help Desk and BPI12) in business organizations. Furthermore, enhanced accuracy and efficiency by incorporating Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) algorithms, reducing training time by 55 percent.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SONAR Rock Vs Mine Prediction using Machine Learning",
+        "description": "Worked on this SONAR dataset i picked up from Kaggle, and applied a Logistic Regression model and it gave me an accuracy score of 83.4 percent. Divided the SONAR dataset into train and test datasets and then pre-processed it before fitting logistic regression to the training set. In this model, mines were predicted as mines 30 times, 5 times mines were predicted as rocks, rocks were predicted as mines 7 times, and 21 times rocks were predicted as rocks.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Intern",
+        "skillsUsed": [],
+        "endDate": "Aug 2023",
+        "company_name": "3i Infotech Pvt. Ltd",
+        "description": "Collaborated with peers to acquire insights into the functionality of AngularJS and Spring Boot frame- work for enhanced understanding of web application development. Researched emerging technologies related to web application development to identify potential solutions for customer problems.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun 2023"
+      }
+    ],
+    "skills": [
+      "Data Visualization: Power Bi",
+      "Java",
+      "Python",
+      "MySQL",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Angular Js",
+      "Object Oriented Programming (OOPs)",
+      "RDBMS",
+      "Computer Networks",
+      "Computer Vision and Image Processing"
+    ],
+    "soft_skills": [],
+    "name": "Lakshya Sharma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B. TECH"
+}

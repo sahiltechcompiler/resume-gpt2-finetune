@@ -1,0 +1,128 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sivaramakrishnan Muthu Subramanian",
+  "college": "SRM,KTR",
+  "locations": [
+    "Chennai,India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM,KTR",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor",
+        "location": "Chennai,India",
+        "ID": 0.0,
+        "grade_received": "CGPA: 8.8",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "MVM",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "XII",
+        "location": "Chennai,India",
+        "ID": 1.0,
+        "grade_received": "Percentage: 72.8%%",
+        "field_of_study": "Biology",
+        "startDate": "2019"
+      },
+      {
+        "school": "SSM,PERUNGALATHUR",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "X",
+        "location": "Chennai,India",
+        "ID": 2.0,
+        "grade_received": "Percentage: 76.6%%",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ANAHATHA",
+        "description": "1) Developed a machine learning model for precise heart disease identification, utilizing diverse medical data, including demographics, medical history, and clinical results. 2) Leveraged advanced algorithms and statistical techniques to analyze patient information and generate accurate predictions of heart disease probability. 3) Achieved effective risk assessment, contributing to improved healthcare outcomes by assisting in early heart disease diagnosis.",
+        "keywords": [
+          "React Native",
+          "Expo",
+          "Redux",
+          "FastApi",
+          "PostgreSQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "RIDESHARE",
+        "description": "Developed a trip budget calculation app with customized dashboards for both passengers and drivers, enhancing the user experience by providing real-time location-based information. Passenger features include location input, interactive maps for distance calculation, and easy accessibility, while the driver dashboard streamlines payment collection and offers insights into pending pickups and total fares. Prioritized user convenience by enabling quick access to essential trip details and offering additional utilities such as budget planning within the app.",
+        "keywords": [
+          "React Js",
+          "Node Js",
+          "MongoDB",
+          "ExpressJS",
+          "Google Maps Api",
+          "Redux"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "OFFPAY",
+        "description": "1) Developed OffPay, a Flutter app revolutionizing offline payments through wallet-based transactions, offering a unique offline payment experience akin to Google Pay. 2) Pioneered innovative financial technology, facilitating secure and convenient offline transactions, enhancing financial accessibility and convenience. 3) Seamlessly integrated offline payment functionality, bridging the digital payment gap and providing users with a versatile and robust payment solution.",
+        "keywords": [
+          "Flutter",
+          "Nodejs",
+          "Mongodb",
+          "ExpressJs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Javascript",
+      "C++",
+      "Python",
+      "Java",
+      "Dart",
+      "Swift",
+      "React",
+      "Next",
+      "Nuxt",
+      "React Native",
+      "Flutter",
+      "VSCode",
+      "Android Studio",
+      "Xcode",
+      "Github",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "soft_skills": [],
+    "name": "Sivaramakrishnan Muthu Subramanian",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Won Github sponsor award in Hack a Day",
+      "Finalist in GDSC DevJams Vit vellore",
+      "Won the best Game-fi theme award in Celo hackathon"
+    ],
+    "publications": []
+  },
+  "current_location": "A2 Janaki Flats 5/11 Gandhi street Srinivasa nagar New Perungalathur Chennai 600063",
+  "graduation_year": 2024.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor"
+}

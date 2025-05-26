@@ -1,0 +1,148 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Abhishek Vardhanapu",
+  "college": "SRM University-A.P.",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University-A.P.",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "Sri Chaitanya Junior College",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "96.40/100.00",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kommareddy High School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "10.00/10.00",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "HealthEase",
+        "description": "Developed HealthEase, a comprehensive healthcare platform using the MERN stack and Redux for efficient state management, improving user experience and application scalability. Implemented secure appointment booking, profile management, and real-time notifications, ensuring data protection and responsive design across all devices.",
+        "keywords": [
+          "MongoDB",
+          "Express",
+          "React",
+          "Nodejs"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      },
+      {
+        "name": "SerenityAI",
+        "description": "Developed SerenityAI, a medical healthcare chatbot utilizing NLP and machine learning algorithms to provide initial mental health support and assessments, engaging users in interactive conversations. Offered personalized mental health recommendations and resources based on user responses, demonstrating expertise in AI-driven healthcare solutions and natural language processing.",
+        "keywords": [
+          "Python",
+          "NLP",
+          "Tensorflow"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RecipeHive",
+        "description": "Developed RecipeHive, a recipe-sharing platform with a responsive, user-friendly UI, featuring a subscription model for premium content, secure data management with JWT authentication.",
+        "keywords": [
+          "MERN stack",
+          "HTML5",
+          "CSS3",
+          "JavaScript (ES6+)",
+          "Tailwind CSS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link to Demo"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "Dec 2023",
+        "company_name": "SRM University AP",
+        "description": "Developed heart disease prediction models using six machine learning algorithms, improving accuracy from 75% to 90% through effective data preprocessing. Led data collection, preprocessing, and analysis efforts, boosting model performance and driving a 20% increase in precision through optimized ML workflows.",
+        "location": "",
+        "links": "",
+        "startDate": "Mar 2023"
+      },
+      {
+        "role_name": "Subject Matter Expert",
+        "skillsUsed": [],
+        "endDate": "Nov 2023",
+        "company_name": "Chegg India Private Limited",
+        "description": "Worked as a Subject Matter Expert (SME) in Computer Science at Chegg, solving over 500 complex queries with concise explanations, improving student comprehension by 30%. Delivered accurate solutions, resulting in increase in satisfaction and engagement among 400+ students.",
+        "location": "",
+        "links": "",
+        "startDate": "Apr 2022"
+      }
+    ],
+    "skills": [
+      "Web Development",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "Node js",
+      "Express js",
+      "MySQL",
+      "MongoDB",
+      "C++",
+      "Python",
+      "DSA",
+      "VS Code",
+      "Git",
+      "GitHub",
+      "Tableau",
+      "Canva"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Leadership",
+      "Teamwork",
+      "Problem-Solving"
+    ],
+    "name": "Abhishek Vardhanapu",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "1st Prize in CodeClash2.0.",
+      "1st Prize in University Keyboardist Competition."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "Bachelors Degree"
+}

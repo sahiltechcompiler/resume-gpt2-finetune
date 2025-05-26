@@ -1,0 +1,145 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Balla Surya Kranthi Vardhan",
+  "college": "Amrita vishwa vidyapeetham",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for data science",
+        "issuer": "cognitive class",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Emotional intellegence",
+        "issuer": "coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Amrita vishwa vidyapeetham",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "B Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Communication Engineering",
+        "startDate": "Apr 2021"
+      },
+      {
+        "school": "Sri Shirdi Sai juniour college",
+        "endDate": "Mar 2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "MPC",
+        "startDate": "Mar 2019"
+      },
+      {
+        "school": "Sri Shiridi Sai Vidya Nikethan",
+        "endDate": "Mar 2019",
+        "maximum_grade": "",
+        "degree": "10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "State Board",
+        "startDate": "Mar 2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Secure cloud using cryptography",
+        "description": "Developed a secure cloud infrastructure with an emphasis on data confidentiality and integrity. Employed cryptographic protocols to ensure end-to-end encryption of sensitive information. Leveraged AWS tools like AWS key management system to manage encryption keys securely. Designed to provide a scalable and resilient solution for safeguarding data in cloud environments.",
+        "keywords": [
+          "AWS",
+          "cryptography",
+          "linux"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Twitter sentiment analysis",
+        "description": "Implemented sentiment analysis on Twitter data within Jupyter Notebook, applying machine learning algorithms. Employed data preprocessing techniques to clean and prepare Twitter data for analysis. Utilized various machine learning models to classify sentiments expressed in tweets with high accuracy. Contributed insights into public sentiment trends on social media platforms, facilitating informed decision-making processes.",
+        "keywords": [
+          "Machine learning",
+          "jupyter notebook"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "Telugu-Native",
+      "English-Proficient",
+      "Hindi-Conversational"
+    ],
+    "experiences": [
+      {
+        "role_name": "Data science intern",
+        "skillsUsed": [
+          "Spyder",
+          "Google colab"
+        ],
+        "endDate": "April 2023",
+        "company_name": "Code clause",
+        "description": "Developed an age gender detection system using machine learning algorithms during my data science internship. Achieved high accuracy in predicting age and gender from images using deep learning frameworks like TensorFlow.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      },
+      {
+        "role_name": "Customer segmentation system",
+        "skillsUsed": [
+          "Spyder",
+          "Google colab"
+        ],
+        "endDate": "",
+        "company_name": "Code clause",
+        "description": "Designed and implemented customer segmentation system using data science during my internship. Employed clustering algorithms such as K-means, hierarchical clustering to group customers into distinct segments.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C"
+    ],
+    "soft_skills": [],
+    "name": "Balla Surya Kranthi Vardhan",
+    "position": "",
+    "interests": [
+      "Badminton",
+      "Coding",
+      "Video games"
+    ],
+    "achievements_and_awards": [],
+    "publications": [
+      "DICCT | IEEE conference Remote health monitoring and alert network system | Raspberry pi, Python 15 Mar 2024 Published conference paper on Remote Health Monitoring and Alert Network System detailing innovative solutions for healthcare technology. Demonstrated expertise in remote health monitoring systems through conference presentation on cutting-edge alert network solutions. Shared insights on remote health monitoring advancements at a professional conference, emphasizing proactive healthcare approaches."
+    ]
+  },
+  "current_location": "Nagaram, India",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "B Tech"
+}

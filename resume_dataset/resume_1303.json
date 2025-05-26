@@ -1,0 +1,187 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "ANSH CHANDRA",
+  "college": "MANIPAL UNIVERSITY JAIPUR",
+  "locations": [
+    "NEW DELHI, INDIA",
+    "Ghaziabad,Uttar Pradesh",
+    "JAIPUR, RAJASTHAN"
+  ],
+  "full_output": {
+    "summary": "Seeking a challenging opportunity to apply and further develop skills, leveraging to contribute effectively to innovative projects and gain valuable real-world experience.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Artificial Intelligence and Machine Learning",
+        "issuer": "TEACHNOOK",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Packet Tracer",
+        "issuer": "Cisco Networking Academy",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "System Administration",
+        "issuer": "Red Hat",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "VMware Data Center Virtualization Certifications",
+        "issuer": "VMware",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Using HTML and CSS",
+        "issuer": "OpenWeaver",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Programming Using JavaScript",
+        "issuer": "OpenWeaver",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY JAIPUR",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "JAIPUR, RAJASTHAN",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology Engineering",
+        "startDate": "2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sentimental Analysis Of Image Data Sets",
+        "description": "For sentiment analysis of image datasets, Python is used with libraries like NumPy, Pandas, and OpenCV for preprocessing. CNNs, implemented with TensorFlow and Keras, extract features, which are classified into sentiment categories using fully connected layers and Softmax. Model performance is evaluated with metrics like accuracy and F1 score, using Scikit-Learn. The model is then deployed with Django for real-time sentiment analysis.",
+        "keywords": [],
+        "endDate": "2020",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Power BI dashboard",
+        "description": "Developed a Power BI dashboard connected to a MySQL database to visualize and analyze sales data. Designed interactive charts and graphs to display key metrics such as sales trends, regional performance, and product categories. Implemented features like filters and slicers to enable detailed exploration of data. This integration allowed for real-time updates and facilitated informed decision-making by providing clear insights into sales performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Web-Based File Storage System",
+        "description": "Built a file storage system with a frontend using HTML, CSS, and JavaScript for file uploads and management. Developed the backend with Node.js to handle file processing, storage, and metadata management. Integrated local or cloud storage solutions, ensuring secure and efficient file handling through a responsive and user-friendly interface.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Power BI Developer",
+        "skillsUsed": [],
+        "endDate": "31/01/2024",
+        "company_name": "Central Electronics Limited",
+        "description": "Created a Power BI dashboard for Central Electronics Limited to analyze sales data. Integrated data sources, cleaned and transformed data, and developed interactive visualizations with DAX formulas. Delivered insights that improved decision-making, identified top-performing regions, and optimized inventory management.",
+        "location": "Ghaziabad,Uttar Pradesh",
+        "links": "",
+        "startDate": "21/12/2023"
+      },
+      {
+        "role_name": "ML Developer",
+        "skillsUsed": [],
+        "endDate": "October 2023",
+        "company_name": "NullClass",
+        "description": "Developed a sentiment analysis model for image datasets using CNNs to classify emotions from images. Preprocessed data and implemented classification algorithms, enabling effective categorization of visual content into emotional sentiments.",
+        "location": "Online",
+        "links": "",
+        "startDate": "September 2023"
+      },
+      {
+        "role_name": "Trainee",
+        "skillsUsed": [],
+        "endDate": "September 2023",
+        "company_name": "DRDO",
+        "description": "Develop a web file storage system by creating an interface with HTML/CSS for uploads and downloads, using backend code using Node.js to manage file storage locally or in the cloud, and handle metadata with a database. Ensure security and provide a user-friendly UI for file management.",
+        "location": "New Delhi",
+        "links": "",
+        "startDate": "July 2023"
+      },
+      {
+        "role_name": "Research Assistant",
+        "skillsUsed": [],
+        "endDate": "19/06/2023",
+        "company_name": "Bharat Electronics",
+        "description": "Researched Trend Micro antivirus, analyzing effectiveness and performance, and provided insights for product enhancement.",
+        "location": "Ghaziabad,Uttar Pradesh",
+        "links": "",
+        "startDate": "22/05/2023"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "PHP",
+      "PYTHON",
+      "HTML",
+      "CSS",
+      "DBMS",
+      "CLOUD COMPUTING",
+      "Python: DS/ML",
+      "Spark: Big Data",
+      "ML Algos",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Plotly",
+      "SciKit-Learn",
+      "K- Means",
+      "Regression",
+      "Random Forest",
+      "DTs",
+      "NLP",
+      "Neural Nets"
+    ],
+    "soft_skills": [],
+    "name": "ANSH CHANDRA",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "NEW DELHI, INDIA",
+  "graduation_year": 2025.0,
+  "experience_count": 4.0,
+  "degree": "Bachelor of Technology"
+}

@@ -1,0 +1,107 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Gunjan Verma",
+  "college": "Noida Institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida, Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "A highly driven third-year B.Tech student in Information Technology with procient knowledge in web development, data structures and algorithms, and machine learning. Eager to obtain an internship to apply academic concepts, gain real-world experience, and contribute to innovative solutions in the tech industry.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B-Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "75.8%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Sunrise Public Sr. Sec. School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "74.8%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "B.D.M Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "High School",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "91.2%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Drowsiness Detection System",
+        "description": "Developed a real-time drowsiness detection system using convolutional neural networks (CNNs) to analyze facial features and eye movements from video streams, alerting users to prevent accidents. Implemented data preprocessing, augmentation, and model evaluation techniques to ensure high accuracy and robustness, contributing to enhanced driver safety and reduced road accidents.",
+        "keywords": [],
+        "endDate": "2025",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Online Job Portal using PHP",
+        "description": "Developed an online job portal using PHP, enabling job seekers to create proles, search for job listings, and apply online, while allowing employers to post job vacancies and manage applications. Implemented features such as user authentication, resume uploads, job alerts, and search lters to enhance user experience and streamline the job search and recruitment process.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "DBMS",
+          "PHP",
+          "JavaScript"
+        ],
+        "endDate": "September 2022",
+        "company_name": "Internshala",
+        "description": "During my internship with Internshala, I gained comprehensive hands-on experience in HTML, CSS, Bootstrap, DBMS, PHP and JavaScript. Throughout this immersive learning journey, I successfully applied these skills in real-world projects, honing my ability to design visually appealing and responsive web interfaces, manage databases efciently, and develop dynamic web applications. This internship not only enhanced my technical prociency but also provided valuable insights into collaborative teamwork, problem-solving, and project management within a professional environment.",
+        "location": "",
+        "links": "",
+        "startDate": "August 2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "PHP",
+      "Machine learning",
+      "Deep learning"
+    ],
+    "soft_skills": [],
+    "name": "Gunjan Verma",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Greater Noida, Uttar Pradesh",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B-Tech"
+}

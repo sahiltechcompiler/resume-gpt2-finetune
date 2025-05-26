@@ -1,0 +1,147 @@
+{
+  "project_count": 3.0,
+  "designation": "Student",
+  "name": "A G N E S R E E N A R J",
+  "college": "Hindustan Institute of Technology and Science",
+  "locations": [
+    "Chennai",
+    "Tirunelveli",
+    "Sahupuram"
+  ],
+  "full_output": {
+    "summary": "I am a dedicated and passionate third-year student pursuing a degree in Computer Science and Engineering. With a consistent GPA of 9.91 in the last semester, I have demonstrated my commitment to academic excellence. My interests lie at the intersection of Python programming and machine learning concepts.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Completed two months training on Full stack web development.",
+        "skillsLearned": [],
+        "title": "Full Stack Web development Training",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Did a course on the Introduction to Internet of Things in SWAYAM(NPTEL), got ELITE AND SILVER.",
+        "skillsLearned": [],
+        "title": "Introduction of Internet of Things",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Certificate for completing intern in web application development of an online food and grocery store using JavaScript.",
+        "skillsLearned": [],
+        "title": "RORA Basket Internship Certificate",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "A foundational certificate on AWS Course.",
+        "skillsLearned": [],
+        "title": "AWS Academy Cloud Foundations",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Hindustan Institute of Technology and Science",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "Chennai",
+        "ID": 0.0,
+        "grade_received": "9.91",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Pushpalata Vidya Mandir(CBSE Board)",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Tirunelveli",
+        "ID": 1.0,
+        "grade_received": "91%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kamlavati Senior Secondary(CBSE Board)",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Sahupuram",
+        "ID": 2.0,
+        "grade_received": "88.6%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "GUIDE MY SKINBOT(flaw)",
+        "description": "This project is a web application developed using streamlit, a python library. This web application has a facial flaw detection which also developed using python libraries such as dlib, openCV, and Cmake.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/Agnz24/guidemyskinbot-with-flaw-detection"
+      },
+      {
+        "name": "GUIDE MY SKINBOT",
+        "description": "This project is a web application developed using streamlit, a python library. This web application has Chatbot feature in it which deals with skincare complaints.",
+        "keywords": [],
+        "endDate": "2023",
+        "startDate": "",
+        "url": "https://github.com/Agnz24/webapplication-with-chatbot"
+      },
+      {
+        "name": "Bank Management",
+        "description": "This project is about how the data are manipulated in a bank, the project is mainly done using MySQL and Python.",
+        "keywords": [],
+        "endDate": "2020",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "PYTHON",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "C",
+      "C++",
+      "Web development",
+      "Internet of Things",
+      "Machine Learning",
+      "JAVA",
+      "Data Structure",
+      "Javascript"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Adaptability",
+      "Creativity",
+      "Work Ethic",
+      "Persuasion",
+      "Critical Thinking"
+    ],
+    "name": "A G N E S R E E N A R J",
+    "position": "Student",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B.Tech"
+}

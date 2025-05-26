@@ -1,0 +1,150 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "PUJALI SANDHYA SREE",
+  "college": "SRM UNIVERSITY AP",
+  "locations": [],
+  "full_output": {
+    "summary": "Im Pursuing my BTech at SRMAP University. Looking for a challenging role in a reputable organization to acquire new skills, broaden my knowledge, and apply my learnings For details, click here.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY AP",
+        "endDate": "present",
+        "maximum_grade": "",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "APBIE",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "88.3/100",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "BSEAP",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "GPA: 10/10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "QUIZZWIZZ CONNECT",
+        "description": "Developed and implemented Quiz Wiz Connect, a user-friendly learning platform for educators. Increased student engagement through a feature-rich web application accessible across devices. Empowered educators to create customized assessments and foster healthy competition. Enhanced data-driven instruction by providing insightful student performance metrics. Championed future-proof design using a MERN stack architecture for seamless integration of future educational technologies. Spearheaded initiatives to explore LMS integration for streamlined workflows and data management. Advocated for advanced features like adaptive learning and gamification to cater to diverse learning styles.",
+        "keywords": [
+          "MERN STACK"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "RESTAURANT CHATBOT",
+        "description": "This project delves into the creation of a user-friendly and informative chatbot specifically designed to assist restaurant patrons. Built using Python, it employs chatbot frameworks and libraries to provide an intelligent and interactive experience.",
+        "keywords": [
+          "PYTHON"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SPAM MAIL PREDICTION",
+        "description": "Developed a machine learning model to classify emails as spam or not spam using NLP techniques and ML algorithms. Achieved high accuracy in predicting spam emails and deployed the model as a web application using Flask.",
+        "keywords": [
+          "MACHINE LEARNING",
+          "PYTHON"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "MULTILINGUAL NEWS WEBSITE",
+        "description": "Developed a multilingual news website, enabling seamless management of articles in the database and integration of CRUD operations, user requests, and translation tasks. Admins efficiently oversee article assignments while translators access a dedicated frontend panel of assigned articles. Real-time communication between admins and translators is facilitated through web sockets. Translators initiate the translation process, utilizing the googletrans API for automated translation.",
+        "keywords": [
+          "FULL STACK DEVELOPMENT"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "STUDENT RECORD MANAGEMENT SYSTEM",
+        "description": "Developed a comprehensive C++ program for managing student data, encompassing personal information, academic records, roll numbers, and more. Gained hands-on experience with input and output operations and enhanced understanding of file management systems. Designed the program to handle incorrect inputs efficiently, ensuring robust and error-free data accumulation. Implemented file-handling techniques to accurately store and retrieve student information, demonstrating practical skills in system file management.",
+        "keywords": [
+          "C++"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "INTERN",
+        "skillsUsed": [
+          "Artificial Intelligence",
+          "Programming",
+          "Data Processing",
+          "Statistical Analysis",
+          "Problem Solving"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "Teachnook",
+        "description": "Participated in a virtual internship program offered by Teachnook specializing in Artificial Intelligence.Completed a hands-on project that enhanced skills in programming,data Processing, Statistical Analysis and Problem Solving. This inaugural experience has laid a solid groundwork for my future career aspirations.",
+        "location": "",
+        "links": "",
+        "startDate": "July 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "EXCEL",
+      "HTML/CSS",
+      "JAVASCRIPT",
+      "MONGODB",
+      "EXPRESS.js",
+      "REACT.js",
+      "NODE.js",
+      "MS OFFICE TOOLS"
+    ],
+    "soft_skills": [
+      "Time management",
+      "Able to adapt to various situations",
+      "Self-motivated"
+    ],
+    "name": "PUJALI SANDHYA SREE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "silver badge at Problem solver CodeChef",
+      "ServiceNow Successfully completed micro certification",
+      "Hackerrank Certified: software engineer intern,problem-solving(basic),python(basic)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

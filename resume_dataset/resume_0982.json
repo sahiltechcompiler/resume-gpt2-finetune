@@ -1,0 +1,132 @@
+{
+  "project_count": 5.0,
+  "designation": "",
+  "name": "Sai Akash Patnana",
+  "college": "SRM UNIVERSITY",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM UNIVERSITY",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "Bachelors Degree",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "7.57/10.0",
+        "field_of_study": "",
+        "startDate": "2021"
+      },
+      {
+        "school": "BIEAP",
+        "endDate": "2019",
+        "maximum_grade": "1000",
+        "degree": "Class 12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "955/1000",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "BSAP",
+        "endDate": "2019",
+        "maximum_grade": "10.0",
+        "degree": "Class 10th",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.5/10.0",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Cricket Alerts",
+        "description": "Utilized Python with BeautifulSoup for web scraping and Tkinter for a user-friendly GUI, providing real-time updates on live cricket matches, including scores and commentary. Enabled users to select specific matches of interest and view data stored in a database in an easily accessible format.",
+        "keywords": [
+          "Python",
+          "BeautifulSoup",
+          "Tkinter"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Loan Prediction System",
+        "description": "Developed a classification model and user interface to predict loan approval, achieving accurate results on the test dataset. Successfully trained and tested a model to predict loan approval on a provided test dataset.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis",
+        "description": "Conducted sentiment analysis on Amazon reviews to extract consumer opinions and trends, providing actionable insights for informed business decision-making. Utilizes HTML, CSS, and JavaScript for the front-end design, with flask and Python handling the backend operations, including maintaining bus schedules and details.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "flask",
+          "Python"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Amazon Prime Video data analysis project",
+        "description": "Developed Amazon Prime Video data analysis project, optimizing recommendation algorithms and user engagement metrics, enhancing user retention and content performance.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "APSSDC Link"
+      },
+      {
+        "name": "Research work on AI in Waste Management System",
+        "description": "Research work on the Artificial Intelligence.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "RESEARCH WORK ON AI IN WASTE MANAGEMENT SYSTEM Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Data Analysis Intern",
+        "skillsUsed": [
+          "Python"
+        ],
+        "endDate": "Aug 2023",
+        "company_name": "",
+        "description": "I have extensive experience in data analysis, utilizing statistical methods and tools to extract meaningful insights from complex datasets. My roles have involved cleaning and preprocessing data, creating visualizations, and developing models to support decision-making. I am adept at using programming languages like Python to analyze data and communicate findings effectively.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "HTML",
+      "CSS",
+      "Django",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Sai Akash Patnana",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors Degree"
+}

@@ -1,0 +1,142 @@
+{
+  "project_count": 3.0,
+  "designation": "Software Engineer",
+  "name": "SHREYASH CHANDRA",
+  "college": "Guru Tegh Bahadur Institute Of Technology - GGSIPU",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute Of Technology - GGSIPU",
+        "endDate": "June 2024",
+        "maximum_grade": "10.0",
+        "degree": "Bachelor",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "Current GPA: 8.5/10.0",
+        "field_of_study": "Electronics and Communication Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Trident Public School",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "High School XII",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 72%",
+        "field_of_study": "PCM",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "PayNow",
+        "description": "Built a full-stack virtual payment platform. Managed transaction sessions in MongoDB, ensuring data integrity and reliability. Enabled user-to-user payments. Implemented comprehensive user authentication, enhancing platform security using JWT.",
+        "keywords": [
+          "Node Js",
+          "Express Js",
+          "Mongoose",
+          "React Js",
+          "Tailwind"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "SpaceVerse",
+        "description": "Built an end-to-end gallery for storing and sharing space photos, using Next.js and TypeScript. Integrated authentication using Clerk Auth. Implemented image uploads with Uploadthing. Utilized PostgreSQL with Drizzle ORM for efficient data management.",
+        "keywords": [
+          "Next Js",
+          "TypeScript",
+          "Vercel Db",
+          "Drizzle ORM",
+          "Clerk Auth",
+          "Uploadthing"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "WeatherAPP",
+        "description": "Developed a weather application providing real-time weather updates using OpenWeather API. Ensured cross-browser compatibility and responsive design for optimal user experience. Implemented data fetching using the Fetch API.",
+        "keywords": [
+          "HTML/CSS",
+          "JavaScript",
+          "OpenWeather API",
+          "Git",
+          "VS Code"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "Present",
+        "company_name": "Tech Oceanic Technologies",
+        "description": "Developed a React.js project from scratch, enhancing user experience and reducing load times by 20%. Implemented a new design system, improving code maintainability and consistency across the application. Refactored the codebase, resulting in a 30% increase in development efficiency.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2024"
+      },
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "May 2023",
+        "company_name": "MPS LTD",
+        "description": "Contributed to React.js projects, enhancing frontend functionality and user engagement. Optimized backend processes by writing efficient MySQL queries, improving data retrieval speed by 15%. Resolved critical bugs, increasing application stability and user satisfaction.",
+        "location": "",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Next.Js",
+      "React.Js",
+      "Express",
+      "Node.Js",
+      "Prisma",
+      "Tailwind CSS",
+      "MongoDB",
+      "PostgreSQL",
+      "Git",
+      "GitHub",
+      "AWS",
+      "Linux",
+      "Cloudare"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Teamwork",
+      "Problem-solving",
+      "Time Management"
+    ],
+    "name": "SHREYASH CHANDRA",
+    "position": "Software Engineer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Won the hackathon",
+      "Built an AI tool called Padhlybh.ai which was designed to help students plan their study schedules effectively.",
+      "GPT-4o Hackathon May 2024"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor"
+}

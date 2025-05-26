@@ -1,0 +1,152 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "Mani Ravirala",
+  "college": "Lovely Professional University",
+  "locations": [
+    "Jalandhar, Punjab",
+    "Hyderabad, Telangana",
+    "Puttapaka, Telangana"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Advance React",
+        "issuer": "Coursera",
+        "certiLink": "Certificate Link"
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cloud Computing on AWS: Ultimate Beginners Course",
+        "issuer": "Udemy",
+        "certiLink": "Certificate Link"
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Jalandhar, Punjab",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.55",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      },
+      {
+        "school": "Narayana Junior College",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Hyderabad, Telangana",
+        "ID": 1.0,
+        "grade_received": "Percentage: 98.60%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "ZPHS High School Puttapaka",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary",
+        "location": "Puttapaka, Telangana",
+        "ID": 2.0,
+        "grade_received": "CGPA: 9.5",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "GitNinja",
+        "description": "Enhanced the Git workflow by providing simplified commands and automations. Created a CLI tool that streamlines commits, pushes, and automates commit message generation via Gemini AI; reduced manual input time by 40% and increased developer productivity by 25%.",
+        "keywords": [
+          "JavaScript (Node.js)",
+          "Gemini API",
+          "npm",
+          "Git",
+          "Node's fs module"
+        ],
+        "endDate": "May 2024",
+        "startDate": "",
+        "url": "https://github.com/maniravirala/GitNinja"
+      },
+      {
+        "name": "Resume Studio",
+        "description": "Designed a responsive resume builder website using React for the frontend, providing an intuitive user interface for creating professional resumes. Implemented user authentication to secure user accounts and resume data. Enabled users to create, edit, and download resumes, providing a comprehensive resume-building experience.",
+        "keywords": [
+          "React",
+          "NodeJS",
+          "MongoDB",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "endDate": "Apr 2024",
+        "startDate": "",
+        "url": "https://github.com/maniravirala/ResumeStudio"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Training",
+        "skillsUsed": [],
+        "endDate": "July 2023",
+        "company_name": "Board Infinity",
+        "description": "Embarked on a transformative journey to apply JavaScript skills across diverse projects. Beyond the realm of code, the journey sculpted skills in critical thinking, problem-solving, and effective collaboration. The experience resulted in the development of not only technical skills but also a heightened ability to think critically, solve problems, and collaborate effectively.",
+        "location": "",
+        "links": "",
+        "startDate": "June 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Tailwind CSS",
+      "NodeJS",
+      "React",
+      "Angular",
+      "Java Swing",
+      "Git",
+      "GitHub",
+      "Windows",
+      "Ubuntu",
+      "MySQL",
+      "MongoDB",
+      "Firebase"
+    ],
+    "soft_skills": [
+      "critical thinking",
+      "problem-solving",
+      "effective collaboration"
+    ],
+    "name": "Mani Ravirala",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Deans Top 10% students at university: For good academic performance and extra-curricular activities at university.",
+      "Secured 1st position in the Hackathon: ByteBash WEB 3.0 Oct 2023 Achieved 1st place in the Hackathon organized by the Department of Entrepreneurship and Student Welfare Wing at Lovely Professional University, showcasing strong analytical and problem-solving skills in Web3.0."
+    ],
+    "publications": []
+  },
+  "current_location": "Hyderabad, Telangana",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

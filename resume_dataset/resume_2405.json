@@ -1,0 +1,121 @@
+{
+  "project_count": 3.0,
+  "designation": "Backend developer",
+  "name": "krishan meena",
+  "college": "Lovely professional university",
+  "locations": [
+    "Jalandhar, punjab",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Lovely professional university",
+        "endDate": "2022",
+        "maximum_grade": "",
+        "degree": "Bachelors of technology",
+        "location": "Jalandhar, punjab",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "computer science",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Astronomer-cli",
+        "description": "Contributed to open-source project Astronomer CLI by migrating a modules logic from Python to Golang. Collaborated with a remote team of developers using GitHub and Slack to deliver high-quality code, meet project deadlines, and resolve issues in a timely manner.",
+        "keywords": [
+          "Golang",
+          "git"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "GoLog",
+        "description": "Developed a distributed log service in Golang that can be used as a package. Applied various concurrency concepts to make data persistence and system fault tolerant. Encoded and saved data in binary format, made data retrieval fast and efficient. 75% test coverage with Golang internal testing and require package.",
+        "keywords": [
+          "GO",
+          "Distributed System",
+          "GRPC",
+          "ProtoBuf"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      },
+      {
+        "name": "Convert-CLI",
+        "description": "Developed a Command Line application written in Golang Using Cobra package. Capable of changing type from over 200 extensions right in terminal. Designed the CLI with simple and easy to remember commands that are able to complete tasks quickly.",
+        "keywords": [
+          "Go",
+          "CLI",
+          "Cobra"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Backend developer",
+        "skillsUsed": [
+          "Golang",
+          "Python",
+          "C",
+          "Gin",
+          "Gorm",
+          "Jenkins",
+          "kubernetes",
+          "docker",
+          "Git",
+          "SQL",
+          "PostgresSql",
+          "Redis"
+        ],
+        "endDate": "present",
+        "company_name": "StudyMitr",
+        "description": "Engineered and deployed over 50 RESTful APIs using GoLang, including both microservices and monolithic architectures, enhancing system scalability and performance by 30%. Designed and implemented complex database schemas, optimizing data storage and retrieval, resulting in a 25% reduction in query response times. Managed infrastructure, integrating third-party libraries and tools to streamline development processes and reduce deployment times by 20%. Led efforts in bug fixing, code optimization, and writing comprehensive unit tests, achieving a 95% success rate in bug resolution and improving overall code quality by 40%.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "March 2023"
+      }
+    ],
+    "skills": [
+      "Golang",
+      "Python",
+      "C",
+      "Gin",
+      "Gorm",
+      "Jenkins",
+      "kubernetes",
+      "docker",
+      "Git",
+      "SQL",
+      "PostgresSql",
+      "Redis"
+    ],
+    "soft_skills": [],
+    "name": "krishan meena",
+    "position": "Backend developer",
+    "interests": [],
+    "achievements_and_awards": [
+      "Open source contributor at Keptn, LazyGit and Astronomer.",
+      "Goldman Sachs virtual engineer program",
+      "Author of a research paper on Gait Recognition (machine learning) which has been published in a publication",
+      "Got in top 5% from 200000 coders in CodeKaze 2.0 worldwide hackathon."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2022.0,
+  "experience_count": 1.0,
+  "degree": "Bachelors of technology"
+}

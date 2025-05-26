@@ -1,0 +1,123 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Manabendra Sandilya",
+  "college": "IIT Hyderabad",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "from coursera (University of california,Davis) with a grade of 95%",
+        "skillsLearned": [],
+        "title": "SQL for data science",
+        "issuer": "Coursera",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "IIT Hyderabad",
+        "endDate": "2023",
+        "maximum_grade": "",
+        "degree": "M.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.33",
+        "field_of_study": "Medical Device Innovation",
+        "startDate": ""
+      },
+      {
+        "school": "North Eastern Hill University",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "7.93",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya Jagiroad",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "XII (CBSE)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "83%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "Kendriya Vidyalaya Jagiroad",
+        "endDate": "2015",
+        "maximum_grade": "",
+        "degree": "X (CBSE)",
+        "location": "",
+        "ID": 3.0,
+        "grade_received": "10",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "React Note taking App",
+        "description": "1) Intuitive Group Creation: Users can create note groups with a color selection popup that closes when clicking outside. 2) Detailed and Persistent Notes: Notes include creation date/time and are saved in local storage. They can be fetched and displayed based on the selected group. 3) Responsive Design: Ensured usability on both desktop and mobile devices.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/sandilyamanabendra16/React_Note_App"
+      },
+      {
+        "name": "React multimedia App",
+        "description": "1) Registration Page: Includes field validation and error handling, stores user data in local storage. 2) Genre Selection Page: Displays user details (username, mobile number, email), allows genre selection, storing the data in local storage. 3) Home Page: Shows current date, time, news and weather using APIs, displays selected genres from local storage 4) Entertainment Page: Fetches and displays movies based on selected genres using a movies API.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/sandilyamanabendra16/SuperApp"
+      },
+      {
+        "name": "Job Listing App",
+        "description": "1) Development: Built a comprehensive job listing platform with features for job seekers and recruiters, including job posting, filtering, and detailed job views. 2) Backend: Developed a RESTful API with complete CRUD functionality for data persistence. Designed and implemented a NoSQL database schema in MongoDB to efficiently store user and job details. 3) Frontend: Created a responsive user interface with React, including pages for registration, login, job listings, job details, and job posting. Implemented JWT-based authentication and user session management.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": "https://github.com/sandilyamanabendra16/Job_listing"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React JS",
+      "Node JS",
+      "Express JS",
+      "Mongo DB",
+      "SQL",
+      "Python"
+    ],
+    "soft_skills": [],
+    "name": "Manabendra Sandilya",
+    "position": "",
+    "interests": [
+      "Playing Guitar",
+      "Workout and fitness"
+    ],
+    "achievements_and_awards": [
+      "Secured AIR 132 in GATE BM 2021",
+      "Our idea got selected in the IITH-initiated BUILD (Bold and Unique Ideas Leading to Development) program, which provides the fund up to INR 100,000 to foster unique ideas and make them prototypes."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2023.0,
+  "experience_count": 0.0,
+  "degree": "M.Tech"
+}

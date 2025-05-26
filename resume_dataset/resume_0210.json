@@ -1,0 +1,150 @@
+{
+  "project_count": 6.0,
+  "designation": "Student",
+  "name": "Anirudh Mukkamala",
+  "college": "Maharaja Agrasen Institute of Technology",
+  "locations": [
+    "Delhi",
+    "Delhi (East)"
+  ],
+  "full_output": {
+    "summary": "I'm a nal year B.Tech Computer Science Engineering student with a strong passion for technology leadership. As a full-stack developer, I specialize in backend development, ensuring robust server-side functionality and seamless user experiences in various web applications. My expertise also extends to deep learning, where I've worked with state-of-the-art transformers in NLP and CV applications. With my familiarity in Data Structures and Algorithms, I e\u0000ectively tackle complex problem-solving tasks. Committed to staying at the forefront of technological advancements, I aspire to lead innovative tech projects, contributing my skills and knowledge to drive progress in the tech industry.",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Udemy certification Open CV course completion",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B. Tech.",
+        "location": "Delhi",
+        "ID": 0.0,
+        "grade_received": "86.1%",
+        "field_of_study": "Computer Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "Mothers Global School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Class",
+        "location": "Delhi (East)",
+        "ID": 1.0,
+        "grade_received": "92.8%",
+        "field_of_study": "12",
+        "startDate": ""
+      },
+      {
+        "school": "Preet Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Class",
+        "location": "Delhi (East)",
+        "ID": 2.0,
+        "grade_received": "86.4%",
+        "field_of_study": "10",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Micro GPT chatbot",
+        "description": "A 22M params GPT based chatbot that is pre-trained and ne tuned from scratch, by using BERT tokenizer it performs basic chat",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Blog Website - BlogSite",
+        "description": "A blog website, utilizing Django for the backend, NextJs for the frontend, and sqlite3 as the database.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ThreadsClone",
+        "description": "Clone of Threads(by Meta) crafted using Express for the backend, ReactJS for the frontend, and MongoDB for the database.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "EcoIn - eco-friendly app",
+        "description": "Developed with Django as the backend and Jinja as the frontend, it serves as a comprehensive solution for all your environmental challenges.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "FileShare",
+        "description": "Built using Django, it operates as an anonymous le-sharing platform. Users can upload les and subsequently download them using a provided link.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "JobBoard",
+        "description": "A frontend web application powered by ReactJS, designed to establish a job portal where job seekers can submit their applications.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "C",
+      "C++",
+      "JAVA",
+      "PYTHON",
+      "JS",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "ReactJS",
+      "NextJS",
+      "Django",
+      "NodeJS (ExpressJS)",
+      "FastAPI",
+      "Jinja",
+      "Tensorow",
+      "PyTorch",
+      "Keras",
+      "numPy",
+      "Pandas",
+      "MongoDB",
+      "SQL",
+      "FireBase",
+      "Git/GitHub",
+      "Replit/repl"
+    ],
+    "soft_skills": [],
+    "name": "Anirudh Mukkamala",
+    "position": "Student",
+    "interests": [],
+    "achievements_and_awards": [
+      "A medal awarded for securing 1st position in school level Maths Olympiad (by IMOF)"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "B. Tech."
+}

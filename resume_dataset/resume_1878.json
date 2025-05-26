@@ -1,0 +1,144 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Yash Mohan",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "June 2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 7.69",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "St. Francis College, Lucknow",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 84%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Source Camera Identification",
+        "description": "(PATENT PUBLISHED) | Computer Vision, Python, Tensorflow\nEffectively managed an expansive image dataset of 11.0GB, demonstrating adeptness in handling large scale data. The dataset includes 10 camera models consisting of 2 iPhones, 7 Androids and 1 digital Camera. Engineered a sophisticated deep learning model tailored for image classification, adept at distinguishing camera models, underscoring proficiency in AI and computer vision. Applied CNN architectures including DenseNet121, DenseNet201, VGG19, InceptionV3, and ResNet50 for effective image classification. Following model deployment, attained commendable accuracy exceeding 95% (DenseNet201) in discerning camera models through image classification.",
+        "keywords": [
+          "Computer Vision",
+          "Python",
+          "Tensorflow"
+        ],
+        "endDate": "Apr.2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Treklynx",
+        "description": "| MERN stack, Tailwind, Prisma, Next.js 13 App Router, NextAuth\nImplemented a visually appealing and fully responsive UI using Tailwind CSS for optimal user experience across devices, coupled with dynamic animations and effects. Integrated secure credential, Google, and GitHub authentication mechanisms to safeguard user data and ensure versatile login options. Enabled seamless image upload using Cloudinary CDN, providing users with a smooth experience in managing property-related visuals.",
+        "keywords": [
+          "MERN stack",
+          "Tailwind",
+          "Prisma",
+          "Next.js"
+        ],
+        "endDate": "Jan.2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Popularity Prediction Methods in CDN",
+        "description": "| AI & ML Algorithms, Deep Learning Algorithms\nSurvey based on predicting the popularity of a particular form of content in Content Delivery Network. Used various Machine Learning Algorithms like Regression, SVM, Neural Networks, Deep Learning, Arima, etc. Prediction techniques like LRU, LFU, LECC, Markovs Chain, etc. have been used. Computed the results from these algorithms and did a comparative study to find the most suitable one.",
+        "keywords": [
+          "AI",
+          "ML Algorithms",
+          "Deep Learning"
+        ],
+        "endDate": "Nov.2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Lilah",
+        "description": "| React.js, Node.js JavaScript, HTML/CSS, PHP, Bootstrap, Xampp, Git, VS Code\nTeam project for Hack It Up hackathon, earned Honorable Mention. Instituted a Full Stack Web 2.0 based mental health wellness website which enables peer-to-peer communication and recommends suitable experts based on subscriptions. Learned how to use React and other JavaScript libraries in conjunction with backend databases.",
+        "keywords": [
+          "React.js",
+          "Node.js",
+          "JavaScript",
+          "HTML/CSS",
+          "PHP",
+          "Bootstrap"
+        ],
+        "endDate": "Apr.2023",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Treasurer",
+        "skillsUsed": [],
+        "endDate": "2023",
+        "company_name": "Humans of Manipal Jaipur",
+        "description": "Involved in the club centered around documenting peoples lives, managing finances and many successful events. Increased the club funds by 60%",
+        "location": "",
+        "links": "",
+        "startDate": "2022"
+      },
+      {
+        "role_name": "Basketball Captain",
+        "skillsUsed": [],
+        "endDate": "2021",
+        "company_name": "St. Francis College",
+        "description": "Lead the basketball team of my school and won Inter-House Championship and many other Inter-School Events. Also played at State-Level.",
+        "location": "",
+        "links": "",
+        "startDate": "2020"
+      }
+    ],
+    "skills": [
+      "Java",
+      "C/C++",
+      "JavaScript",
+      "HTML/CSS",
+      "Python",
+      "SQL",
+      "LATEX",
+      "Git/GitHub",
+      "Unix Shell",
+      "VS Code",
+      "IntelliJ/PyCharm",
+      "Jupyter",
+      "Colab",
+      "NetBeans"
+    ],
+    "soft_skills": [],
+    "name": "Yash Mohan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Published a Patent on Source Camera Identification(Minor Project)",
+      "Finalist at Hack It Up hackathon by TECHIDEATE X IEEE (top 2% all over India)",
+      "Finalist at Hacks 8.0 hackathon by ACM Student Chapter (top 1% all over India)",
+      "scored 60/100 (top 5% all over India) in the NPTEL Design and Analysis of Algorithms Certification Exam"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 2.0,
+  "degree": "B.Tech"
+}

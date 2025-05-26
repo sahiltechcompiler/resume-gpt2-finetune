@@ -1,0 +1,151 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Rahul Kumar",
+  "college": "Noida Institute of Engineering And Technology",
+  "locations": [
+    "UP, India",
+    "Patna, India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Web - Development",
+        "issuer": "Nit Patna",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Full Stack Development",
+        "issuer": "Apna College",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Java Programming",
+        "issuer": "Apna College",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida Institute of Engineering And Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B.Tech",
+        "location": "UP, India",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Computer Science and Engineering-AI",
+        "startDate": "2021"
+      },
+      {
+        "school": "Anugrah Narayan College",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Patna, India",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2018"
+      },
+      {
+        "school": "Oasis Res Pub School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Patna, India",
+        "ID": 2.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": "2017"
+      }
+    ],
+    "projects": [
+      {
+        "name": "ShopBay",
+        "description": "\"Shop Bay\" is an e-commerce website built using React, designed for seamless online shopping. It offers users a dynamic interface to browse, search, and purchase a wide range of products. The site features an intuitive user experience, efficient state management, and fast rendering to enhance the shopping experience.",
+        "keywords": [
+          "ReactJS",
+          "NodeJS",
+          "MongoDB",
+          "Express"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Github Profile Viewer",
+        "description": "Developed a web-based GitHub profile viewer application to display user profile and repositories. Achieved file compression up to 56% by using Huffman Encoding.",
+        "keywords": [
+          "ReactJS",
+          "GitHubAPI"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "To-Do",
+        "description": "\"To-do\" List project is built using ReactJS. It allows users to create, update, and delete tasks, with real-time updates across the application and also can mark the task done which are completed.",
+        "keywords": [
+          "ReactJS"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Web Development Intern",
+        "skillsUsed": [],
+        "endDate": "June 2023",
+        "company_name": "NIT Patna",
+        "description": "Ive built my own portfolio website, where visitors can send messages that are directly forwarded to my Gmail. Designed and implemented a dynamic website page - where facality can loged in with their own credentials and can change their profile setting. Ensured a seamless and mutually rewarding interface.",
+        "location": "",
+        "links": "",
+        "startDate": "May 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "ReactJS",
+      "NodeJS",
+      "GitHub",
+      "MYSQL"
+    ],
+    "soft_skills": [],
+    "name": "Rahul Kumar",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Solved over 150+ problems on various Competitive Programming Platforms like LeetCode, GeeksForGeeks."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B.Tech"
+}

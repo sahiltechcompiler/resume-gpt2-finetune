@@ -1,0 +1,104 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Bhavish Singh",
+  "college": "Noida institute of Engineering and Technology",
+  "locations": [
+    "Greater Noida,Uttar Pradesh"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Noida institute of Engineering and Technology",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Greater Noida,Uttar Pradesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "Information Technology",
+        "startDate": "2021"
+      },
+      {
+        "school": "Ursuline convent Sr. Sec. School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "12th",
+        "location": "Greater Noida,Uttar Pradesh",
+        "ID": 1.0,
+        "grade_received": "",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Machine learning IPL winner",
+        "description": "Developed a machine learning model to predict the winner of Indian Premier League (IPL) cricket matches. Leveraging historical match data, player statistics, and team performance metrics showcasing the models effectiveness in forecasting match outcomes.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "KNIME Youtube Algorithm",
+        "description": "Designed and implemented a recommendation algorithm workflow for YouTube using KNIME. The project involved analysing user interaction data, video attributes, and viewing patterns to build a personalised recommendation engine.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Tableau Sales Forecast",
+        "description": "Developed a sales forecasting dashboard using Tableau to analyse and predict future sales trends. The project involved integrating historical sales data with key business metrics to create interactive visualisations and predictive models.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "React interactive 3d shirt",
+        "description": "Developed an interactive 3D shirt design application using React.js. The project involved creating a user-friendly interface that allowed users to customise and visualise shirt designs in real-time. Leveraged React.js to build a responsive front-end, integrating 3D modelling libraries such as Three.js for dynamic visualisation.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "experiences": [],
+    "skills": [
+      "Python",
+      "Java",
+      "Tableau",
+      "KNIME",
+      "POWER BI",
+      "ETL",
+      "Numpy",
+      "ANN",
+      "RNN",
+      "scikit-learn",
+      "HTML",
+      "CSS"
+    ],
+    "soft_skills": [],
+    "name": "Bhavish Singh",
+    "position": "",
+    "interests": [
+      "Cricket",
+      "Badminton"
+    ],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Greater Noida, U.P",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

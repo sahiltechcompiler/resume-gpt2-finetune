@@ -1,0 +1,156 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Somesh Kumar",
+  "college": "Indian Institute of Information Technology, Kalyani",
+  "locations": [],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology, Kalyani",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "B-Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "8.74",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": "2020"
+      },
+      {
+        "school": "Dayawati Modi Public School, Raebareli",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "AISSCE (Class XII)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "88.80%",
+        "field_of_study": "CBSE, Uttar Pradesh",
+        "startDate": ""
+      },
+      {
+        "school": "Dayawati Modi Public School, Raebareli",
+        "endDate": "2017",
+        "maximum_grade": "",
+        "degree": "AISSE (Class X)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "9.2",
+        "field_of_study": "CBSE, Uttar Pradesh",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Intrusion Detection System (IDS)",
+        "description": "Analyzed NSL-KDD and CAN BUS datasets, Exploring various baseline models, ultimately determining that imple- menting Random Forest with PCA gives maximum 99.8% accuracy. Introduced diverse types of Noises and applied multiple scaling techniques to test the robustness of the models. Concluded that while Random Forest with PCA is adept for swift response, Gradient Boosting for 99.0054% accuracy and XGBoost for 99.6896% accuracy demonstrated greater robustness.",
+        "keywords": [
+          "Python",
+          "Pandas",
+          "Numpy",
+          "TensorFlow",
+          "Scikit-learn"
+        ],
+        "endDate": "2024",
+        "startDate": "June 2023",
+        "url": "Source Code"
+      },
+      {
+        "name": "IdeaBox",
+        "description": "Developed a web app for users idea storage, featuring comprehensive CRUD functionality for streamlined interactions. Ensured data security with seamless sign-in process, strengthening the authentication systems robustness. Improved user experience through efficient session management, eliminating repeated logins and ensuring seamless navigation.",
+        "keywords": [
+          "ReactJS",
+          "NodeJs",
+          "MongoDB",
+          "ExpressJS"
+        ],
+        "endDate": "2023",
+        "startDate": "October 2023",
+        "url": "Deploy Link"
+      },
+      {
+        "name": "BlogVerse",
+        "description": "Developed a web platform for writing interactive blog posts, featuring seamless user registration and login for an engaging experience. Authenticated users benefit from personalized dashboards, enhancing CRUD operations. Enhances security by implementing exclusive post modification rights for authors, ensuring a secure and user-friendly online environment.",
+        "keywords": [
+          "ReactJS",
+          "NodeJs",
+          "MongoDB",
+          "ExpressJS"
+        ],
+        "endDate": "2023",
+        "startDate": "April 2023",
+        "url": "Source Code"
+      },
+      {
+        "name": "Airline Management and Navigation System",
+        "description": "Developed a user-friendly flight booking software with an intuitive interface, offering tailored options through ticket filters for price, distance, time, and layovers. Implemented a robust database utilizing latitude and longitude data for pinpoint accuracy in flight information. Established a transparent admin-user hierarchy, enhancing system usability for administrators and users alike.",
+        "keywords": [
+          "Java",
+          "OOPs"
+        ],
+        "endDate": "2023",
+        "startDate": "February 2023",
+        "url": "Source Code"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "JavaScript Developer Intern",
+        "skillsUsed": [
+          "JavaScript",
+          "TypeScript",
+          "ReactJS",
+          "Next.js",
+          "Node.js"
+        ],
+        "endDate": "October 2023",
+        "company_name": "GrowEasy/BannerBot",
+        "description": "Collaborated with the internal admin panel team to enhance functionality, streamline workflows, and improve user experience. Contributed to front-end web development, ensuring a seamless user interface and engaging features. Actively participated in backend development, optimizing server performance and implementing robust APIs.",
+        "location": "",
+        "links": "Project Link: Link 1 Link 2",
+        "startDate": "September 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "Html",
+      "CSS",
+      "Bootstrap",
+      "Chakra UI",
+      "Tailwind CSS",
+      "JavaScript",
+      "ReactJS",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "SQL",
+      "Git",
+      "Github"
+    ],
+    "soft_skills": [],
+    "name": "Somesh Kumar",
+    "position": "",
+    "interests": [
+      "Data Structure And Algorithm",
+      "Fullstack Web Development",
+      "Machine Learning"
+    ],
+    "achievements_and_awards": [
+      "Worked in a team and successfully completed the semester project and thesis focused on Intrusion Detection Systems (IDS).",
+      "Attained the highest GFG Institute rank of 7 by solving over 600 DSA problems on LeetCode and GFG.",
+      "Actively participated in over 30 contests, achieving a LeetCode Contest Rating of 1600+."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "B-Tech"
+}

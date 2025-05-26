@@ -1,0 +1,217 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "Bhalaganesh A",
+  "college": "Madras Christian College",
+  "locations": [
+    "Tambaram East",
+    "Dindigul (Dt)",
+    "Melmaruvathur, Chengalpattu (Dt)"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "endDate": "Sept 2022",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Build your own static website",
+        "issuer": "Nxtwave",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "endDate": "May 2023",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Build your own responsive website",
+        "issuer": "Nxtwave",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "endDate": "Sept 2023",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Python for Data Science",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "endDate": "Nov 2023",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Program foundation with python",
+        "issuer": "Nxtwave",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "endDate": "Dec 2023",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Build your own dynamic website",
+        "issuer": "Nxtwave",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "endDate": "Mar 2024",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Databases",
+        "issuer": "Nxtwave",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "endDate": "June 2024",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "JavaScript Essentials",
+        "issuer": "Nxtwave",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "endDate": "June 2024",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Responsive website design using Flexbox",
+        "issuer": "Nxtwave",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Madras Christian College",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "BCA (Bachelor of Computer Applications)",
+        "location": "Tambaram East",
+        "ID": 0.0,
+        "grade_received": "81.0% till 4th sem",
+        "field_of_study": "",
+        "startDate": "2022"
+      },
+      {
+        "school": "Vivekananda Vidyalaya Matriculation Higher Secondary School",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Intermediate",
+        "location": "Dindigul (Dt)",
+        "ID": 1.0,
+        "grade_received": "86.16%",
+        "field_of_study": "",
+        "startDate": "2019"
+      },
+      {
+        "school": "Adhiparasakthi Matric. Hr. Sec. School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary School of Certificate",
+        "location": "Melmaruvathur, Chengalpattu (Dt)",
+        "ID": 2.0,
+        "grade_received": "82.8%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E Commerce Website",
+        "description": "Developed E Commerce website where users can go through different products, detailed information about a product, offers and contact us info. Designed page using following HTML structure elements and footer elements by using different bootstrap components to show different sections in the website and different bootstrap classes for responsiveness through mobile-first approach. Implemented product YouTube videos by using bootstrap embed and model components and displayed multiple images of offers in a carousel using bootstrap carousel.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "project1_link"
+      },
+      {
+        "name": "Wikipedia Search Application",
+        "description": "Unlock the vast wealth of knowledge on Wikipedia with a custom search application that delivers relevant and curated results. Quick and easy access to information has never been easier. Beautifully presented search results with HTML list elements, styled with CSS, Bootstrap, and a responsive design that adapts to any device. Seamlessly access information with the power of asynchronous fetch GET HTTP API calls and the ability to open the desired result in a new tab for further reading.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "REST API Calls",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "project2_link"
+      },
+      {
+        "name": "Todos Application",
+        "description": "A task management solution, designed to make life easier. Streamlined task management through a combination of HTML, CSS, and Bootstrap for an intuitive interface. Seamless CRUD operations through JavaScript event listeners and dynamic UI updates. Secure task persistence with local storage methods, ensuring that your tasks are always available.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JS",
+          "Bootstrap"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "project3_link"
+      },
+      {
+        "name": "EB Bill management System",
+        "description": "Collect the information of an electricity consumer using HTML and CSS and pass it to database in MySQL using php.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "php",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": "project4_link"
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "React.js",
+      "Python",
+      "Express",
+      "Node.js",
+      "SLite",
+      "C",
+      "C++",
+      "Data Science",
+      "Flexbox",
+      "Java",
+      "NumPy",
+      "OOPs"
+    ],
+    "soft_skills": [],
+    "name": "Bhalaganesh A",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Keelmaruvathur, Tamil Nadu, 603319",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "BCA (Bachelor of Computer Applications)"
+}

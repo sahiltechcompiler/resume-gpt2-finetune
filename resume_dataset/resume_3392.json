@@ -1,0 +1,154 @@
+{
+  "project_count": 4.0,
+  "designation": "Software Engineer, Data Analyst, Researcher",
+  "name": "Tanmay Tripathi",
+  "college": "Manipal University",
+  "locations": [
+    "Jaipur",
+    "Rajasthan",
+    "India",
+    "Lucknow"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "Ongoing.",
+        "skillsLearned": [],
+        "title": "Deep learning A-Z",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Cisco Cybersecurity Essentials",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University",
+        "endDate": "2025",
+        "maximum_grade": "",
+        "degree": "B-Tech",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "9.22 cgpa (92.2%)",
+        "field_of_study": "Information Technology",
+        "startDate": ""
+      },
+      {
+        "school": "City Montessori School",
+        "endDate": "2020",
+        "maximum_grade": "",
+        "degree": "ISC (Class XII)",
+        "location": "Lucknow",
+        "ID": 1.0,
+        "grade_received": "84.0%",
+        "field_of_study": "",
+        "startDate": ""
+      },
+      {
+        "school": "City Montessori School",
+        "endDate": "2018",
+        "maximum_grade": "",
+        "degree": "ICSE (Class X)",
+        "location": "Lucknow",
+        "ID": 2.0,
+        "grade_received": "94.0%",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Kidney Disease Detection",
+        "description": "Automated CT scan dataset handling from drive & trained a VGG16 model for kidney disease classification, achieving 60% accuracy. Implemented MLflow & DVC for effective experiment tracking and model management, with DVC reducing resource overhead. Built a Flask web app for model deployment setting up a full CI/CD pipeline using Docker image & GitHub Actions on AWS cloud.",
+        "keywords": [],
+        "endDate": "Aug '24",
+        "startDate": "Aug '24",
+        "url": ""
+      },
+      {
+        "name": "Maneuver Detection in Orbital Data",
+        "description": "Designed a robust detection system for orbital maneuvers using SMA variation, employing various ML algorithms. Executed comprehensive data pre-processing & feature engineering, followed by detailed visualization to ensure integrity & clarity. Built a testbed for anomalies using Isolation Forest and pre-processed data, then classified it with Random Forest algorithm, achieving 97% accuracy and extracting feature importance for further future updates.",
+        "keywords": [],
+        "endDate": "June '24",
+        "startDate": "June '24",
+        "url": ""
+      },
+      {
+        "name": "Federated-Healthcare",
+        "description": "Created a shallow neural network (ANN) for heart disease prediction, achieving 91% accuracy, a 3% improvement over other ML models, following comprehensive preprocessing and various model analysis. Developed a simulation environment with server and client-side scripts for Federated Averaging by employing Flower framework. Therefore increased accuracy through decentralized, privacy preserving learning by 3% and ensured communication efficiency.",
+        "keywords": [],
+        "endDate": "Nov '23",
+        "startDate": "Aug '23",
+        "url": ""
+      },
+      {
+        "name": "Aawaz",
+        "description": "Developed a citizen-centric Android app for reporting road safety issues, using Java, XML, and a Python SQL backend. Integrated machine learning shallow ann model for image classification with seamless app-server communication via HTTP requests.",
+        "keywords": [],
+        "endDate": "Mar '23",
+        "startDate": "Mar '23",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Summer Research Intern",
+        "skillsUsed": [],
+        "endDate": "Jan '24",
+        "company_name": "IIIT Lucknow",
+        "description": "Developed an edge-fog-cloud FL framework for agricultural data, boosting model accuracy by 5% and reducing overhead by 20%. Deployed IoT devices in paddy fields for real-time data collection using Arduino & Raspberry Pi, resource-constrained environments. Enhanced data quality through SMOTE & clustering techniques, created testbed, improving ml and neural network model training. Integrated models with Federated learning using Flower, increasing decision-making accuracy by 10 % for agricultural applications.",
+        "location": "",
+        "links": "",
+        "startDate": "Jun '23"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "SQL",
+      "OOPS",
+      "System design",
+      "Android Dev",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Natural language processing",
+      "Algorithms",
+      "Security",
+      "Distributed computing",
+      "Networking",
+      "API",
+      "Docker"
+    ],
+    "soft_skills": [],
+    "name": "Tanmay Tripathi",
+    "position": "Software Engineer, Data Analyst, Researcher",
+    "interests": [],
+    "achievements_and_awards": [
+      "Awarded with Deans List of academic excellence for four consecutive semesters with a GPA of 9.5+ in each.",
+      "Achieved 1st place in a college-organized competitive coding event on HackerRank involving analytical and problem-solving skills.",
+      "Solved around 200 LeetCode questions, earning a distinguished 2 badge with, contest rating 1,745, global rank 56,487 top 10.07%."
+    ],
+    "publications": [
+      "Ants N.Singh, T.Tripathi, Adhikari,\"Communication-Efficient Federated Learning for Real-time Applications in Edge Networks\".",
+      "ICCCNT Avani Sharma, Tanmay Tripathi,\" Enhancing Edge-based Cardiovascular Diagnosis through Federated Learning and IoT \"."
+    ]
+  },
+  "current_location": "Jaipur,Rajasthan, India",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "B-Tech"
+}

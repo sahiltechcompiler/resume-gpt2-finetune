@@ -1,0 +1,149 @@
+{
+  "project_count": 4.0,
+  "designation": "",
+  "name": "OMKAR KAUSHIK GADDE",
+  "college": "SRM University AP",
+  "locations": [
+    "Guntur,India"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "SRM University AP",
+        "endDate": "July 2025",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology",
+        "location": "Guntur,India",
+        "ID": 0.0,
+        "grade_received": "CGPA -7.94",
+        "field_of_study": "Computer Science",
+        "startDate": "September 2021"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Human Action Recognition using 3D skeleton data",
+        "description": "Developed a state-of-the-art human action recognition system leveraging Convolutional Neural Networks (CNNs) and 3D skeleton data from Kinect sensors, achieving a 45% increase in detection precision and 30% faster response time. Optimized recognition algorithms, achieving 90% accuracy in identifying actions such as walking, running, and gestures; bolstered system reliability and user satisfaction through rigorous testing and iterative improvements.",
+        "keywords": [
+          "Python",
+          "CNN",
+          "Microsoft Kinect",
+          "Jupyter Notebook",
+          "LaTeX",
+          "NTU RGB-D Dataset"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "AI Powered Code Review Assistant",
+        "description": "Created and implemented an automated user interface system to analyze code submissions, detecting potential bugs, code smells, and adherence to coding standards; reduced manual code review time by 60%, increasing code quality by 40%. Delivered context-aware feedback and actionable suggestions, optimizing performance by 25%, and boosting long-term maintainability through rigorous code reviews and best practices. Enhanced user productivity by 30% and decreased error rates by 50%.",
+        "keywords": [
+          "Python",
+          "JavaScript",
+          "GitHub",
+          "Visual Studio Code",
+          "Django",
+          "SQL",
+          "Google Generative API"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Sentiment Analysis on Social Media texts",
+        "description": "Designed a comprehensive sentiment analysis system by integrating social media APIs, leveraging NLP for text preprocessing, and employing machine learning and deep learning models (TensorFlow); achieved a 76% increase in predictive accuracy. Visualized results using Matplotlib to create graphs, enhancing user understanding by 75%.",
+        "keywords": [
+          "NumPy",
+          "pandas",
+          "Natural Language Toolkit",
+          "scikit-learn",
+          "Matplotlib",
+          "GitHub"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Examination System",
+        "description": "Implemented a robust backend using Java with MySQL and designed a responsive frontend using HTML, CSS, and JavaScript, improving user interaction by 80%. Deployed a basic application enabling admins to add question papers, conduct exams for students, and provide results using Java, Java Swing, and Java AWT, reducing workload by 75%.",
+        "keywords": [
+          "Java",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "GitHub"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Research Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "SRM University AP",
+        "description": "Engineered and evaluated innovative methodologies and features for 3D video classification in Human Action Recognition using skeletal joint data. Utilized multiple machine learning models, including ensemble approaches and employed feature selection techniques to get 90% accuracy.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "DSA",
+      "Linux",
+      "Operating Systems",
+      "Agile Methodologies",
+      "Statistics",
+      "OOPS",
+      "Computer Networks",
+      "JavaScript",
+      "HTML5",
+      "CSS",
+      "SQL",
+      "MySQL",
+      "MongoDB",
+      "Oracle",
+      "Postman",
+      "Google GenAI",
+      "Jupyter Notebook",
+      "VS Code",
+      "Django",
+      "Node.js",
+      "React.js",
+      "scikit-learn",
+      "TensorFlow",
+      "Git",
+      "Scrum",
+      "Agile",
+      "Latex",
+      "MS Office"
+    ],
+    "soft_skills": [],
+    "name": "OMKAR KAUSHIK GADDE",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Earned 4th place in a National-level dance competition at IISc Bangalore",
+      "Secured a gold medal in the National Taekwondo Championship held in Delhi."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor of Technology"
+}

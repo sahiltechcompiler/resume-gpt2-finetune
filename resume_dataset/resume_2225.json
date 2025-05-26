@@ -1,0 +1,121 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Ruchit Raushan",
+  "college": "Oriental College Of Technology",
+  "locations": [
+    "Bhopal",
+    "Patna"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Oriental College Of Technology",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor Of Technology",
+        "location": "Bhopal",
+        "ID": 0.0,
+        "grade_received": "8.10/10",
+        "field_of_study": "Information Technology",
+        "startDate": "2020"
+      },
+      {
+        "school": "D.A.V Public School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "",
+        "location": "Patna",
+        "ID": 1.0,
+        "grade_received": "69/100",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "TaskHarbor",
+        "description": "Developed a sophisticated job matching algorithm that leveraged user profiles and job listings the application. Incorporated security measures, including the utilization of bcrypt password hashing, to safeguard the user data. Created a user-centric dashboard that led to a 20% easier in engagement, as users found it easier to manage their profiles. Maintained a systematic development process by utilizing Git for version control and GitHub for collaborative code management.",
+        "keywords": [
+          "MongoDb",
+          "ExpressJs",
+          "ReactJs",
+          "NodeJs"
+        ],
+        "endDate": "present",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "ChatKaro",
+        "description": "Implemented real-time chat functionality using WebSockets, enabling users to exchange 500 messages within the application. Designed and executed the back-end using NodeJs and ExpressJs, ensuring optimized application performance. Enhanced the reliability and stability of the application by successfully identifying and resolving over 20 technical obstacles. Effectively managed the codebase using Git and GitHub 100% streamlining project organization and structured development. Ensured cross-browser compatibility to guarantee a 100% user experience across major web browsers (Chrome, Firefox, Safari, etc.).",
+        "keywords": [
+          "MongoDb",
+          "ExpressJs",
+          "ReactJs",
+          "NodeJs"
+        ],
+        "endDate": "Aug 2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Software Consultancy",
+        "description": "Collaborated closely with a remote team of developers and designers to craft the frontend design for a consultancy company. Deployed responsive web design techniques to ensure seamless accessibility and functionality across various devices. Collaborated closely with the development team to deliver the project ahead of schedule, meeting all deadlines.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "endDate": "Feb 2023",
+        "startDate": "",
+        "url": "Project-Link"
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Intern",
+        "skillsUsed": [],
+        "endDate": "Sept 2023",
+        "company_name": "Persistent Systems",
+        "description": "They provided some online courses with some milestones which is full of learning and self-development. In this 5 weeks they primarily focus on strengthening our foundation. We had exclusive access to numerous online learning resources along with live sessions with their tech experts.",
+        "location": "",
+        "links": "",
+        "startDate": "Aug 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "SQL",
+      "JavaScript",
+      "MongoDB",
+      "ExpressJs",
+      "ReactJs",
+      "NodeJs",
+      "Git",
+      "GitHub",
+      "Visual Studio Code"
+    ],
+    "soft_skills": [],
+    "name": "Ruchit Raushan",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Secured a remarkable rank of 200 out of 3000+ teams in ACM-ICPC Regional Contest in 2023.",
+      "Rated 3-star (1626) in Codechef.",
+      "Rated 5-stars in HackerRank.",
+      "SQL certificate on HackerRank Certificate."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 1.0,
+  "degree": "Bachelor Of Technology"
+}

@@ -1,0 +1,162 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Sumit Kumar",
+  "college": "MANIPAL UNIVERSITY",
+  "locations": [
+    "Jaipur, Rajasthan, India",
+    "Lucknow, UttarPradesh, India",
+    "Kanpur, UttarPradesh, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "MANIPAL UNIVERSITY",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "B. Tech.",
+        "location": "Jaipur, Rajasthan, India",
+        "ID": 0.0,
+        "grade_received": "7.94 / 10.0",
+        "field_of_study": "CSE",
+        "startDate": "2021"
+      },
+      {
+        "school": "CENTRAL ACADEMY",
+        "endDate": "",
+        "maximum_grade": "",
+        "degree": "AISSCE (Class XII)",
+        "location": "Lucknow, UttarPradesh, India",
+        "ID": 1.0,
+        "grade_received": "89",
+        "field_of_study": "CBSE",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "JourneyPal",
+        "description": "A PC based web-app creates personalised travel itineraries based on user input (days, budget, location) using OpenAI API along with Translator API that enables language translation for global travellers. Enhancing accessibility and user experience.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Anomalous-Human-Activity-Detection System",
+        "description": "An AI-driven surveillance solution that uses computer vision to automatically identify abnormal activities in crowded areas, improving security with real-time monitoring and motion analysis.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "CabRental",
+        "description": "A PC based web-app is a full-stack website catering to university students, facilitating affordable cab booking and partnering services, powered by HTML, CSS, JavaScript, and PHP.",
+        "keywords": [],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Student Trainee",
+        "skillsUsed": [],
+        "endDate": "01/2024",
+        "company_name": "RCMA - DRDO, MINISTRY OF DEFENCE, GOVT. OF INDIA",
+        "description": "Enhanced organizations official website for better user experience and features. Observed manufacturing processes and quality control during on-site visits at the hangar. Enhanced internal email communication by implementing a personal SMTP server.",
+        "location": "Kanpur, UttarPradesh, India",
+        "links": "",
+        "startDate": "12/2023"
+      },
+      {
+        "role_name": "Web-Dev Intern & Team Leader",
+        "skillsUsed": [],
+        "endDate": "08/2023",
+        "company_name": "ANALYSED.IN",
+        "description": "Resolved bugs for smooth user experience. Mentored and led a team of 20 interns for collaboration. Integrated Firebase for website notifications.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "03/2023"
+      },
+      {
+        "role_name": "Project Admin",
+        "skillsUsed": [],
+        "endDate": "7/2024",
+        "company_name": "VINYASA SUMMER OF CODE (VSOC)",
+        "description": "Coordinated project tasks and managed timelines with Contributors.",
+        "location": "",
+        "links": "",
+        "startDate": "06/2024"
+      },
+      {
+        "role_name": "Joint Web Master",
+        "skillsUsed": [],
+        "endDate": "05/2024",
+        "company_name": "CYBER SPACE COMMUNITY",
+        "description": "Efficiently managed websites, improved user experiences through data-driven enhancements, and collaborated with developers.",
+        "location": "",
+        "links": "",
+        "startDate": "06/2023"
+      },
+      {
+        "role_name": "Front-end Developer & Graphic Designer",
+        "skillsUsed": [],
+        "endDate": "12/2023",
+        "company_name": "FREELANCER",
+        "description": "Managed and redesigned website interfaces for over 5+ web projects.",
+        "location": "",
+        "links": "",
+        "startDate": "06/2022"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Javascript",
+      "PHP",
+      "HTML",
+      "CSS",
+      "C",
+      "ReactJs",
+      "NodeJs",
+      "Firebase",
+      "OpenAI",
+      "Razorpay",
+      "Figma",
+      "UI/UX",
+      "MySQL",
+      "MariaDB",
+      "Git",
+      "VScode",
+      "Pycharm",
+      "Machine Learning"
+    ],
+    "soft_skills": [],
+    "name": "Sumit Kumar",
+    "position": "",
+    "interests": [
+      "Music Listener",
+      "Outdoor Explorer",
+      "Culinary Artist",
+      "Web Design Enthusiast"
+    ],
+    "achievements_and_awards": [
+      "Achieved the Third position in QUIZOPHILE 3.0 conducted by SIMS, Pune.",
+      "Acknowledged as a finalist for AI-driven travel solution in HACK THE METAVERSE Hackathon by IEEE & IIIT Bangalore.",
+      "Received Student Excellence Award for academics and personal growth.",
+      "Completed FinTech Engineering Virtual Experience with Goldman Sachs.",
+      "Earned NPTEL Elite certificate in Design Analysis and Algorithm with 66% score."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 5.0,
+  "degree": "B. Tech."
+}

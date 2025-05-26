@@ -1,0 +1,127 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Vatan Prakash",
+  "college": "Institute of Engineering and Technology, Lucknow",
+  "locations": [
+    "Uttar Pradesh, India",
+    "Remote"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Institute of Engineering and Technology, Lucknow",
+        "endDate": "2024",
+        "maximum_grade": "",
+        "degree": "Bachelor of Technology (B.Tech)",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Serving Ninjas",
+        "description": "Conceptualized and executed a startup idea at i.mobilothon 3.0 Volkswagen hackathon. Crafted an intuitive service booking platform for urgent documents, care services, and medical agent booking with a user-friendly interface.",
+        "keywords": [
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Next.JS",
+          "Tailwind CSS"
+        ],
+        "endDate": "Dec-2023",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Movie Website",
+        "description": "Developed a responsive movie website with React, integrating TMDB API for dynamic content and enhanced user experience with seamless interactions like infinite scrolling, genre selection, and dynamic search. Utilized Redux with Dev-Tools for efficient state management and incorporated lazy loading for optimal performance, alongside features such as movie trailers and ratings for an enriched experience.",
+        "keywords": [
+          "React.JS",
+          "SCSS",
+          "Redux Toolkit"
+        ],
+        "endDate": "Jan-2024",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "URL Shortener",
+        "description": "Developed a URL-Shortener website with user authentication, allowing registered users to shorten links, track their link statistics, and view visit counts, ensuring secure and personalized data access.",
+        "keywords": [
+          "Node.JS",
+          "Express.JS",
+          "MongoDB"
+        ],
+        "endDate": "May-2024",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "SDE Intern",
+        "skillsUsed": [],
+        "endDate": "August 2023",
+        "company_name": "Cheffy INC",
+        "description": "Developed a versatile platform allowing users to seamlessly book rooms for personalized comfort, along integrating a dating feature that connects users with similar interests. Designed and built the whole front-end part of the website, making it dynamic and easy to use, and ensuring it works well on different devices, improving the overall user experience. Collaborated with UI/UX designers and backend developers to achieve seamless functionality. Implemented advanced features using Next JS routing, hooks, coupled with Typescript and Tailwind CSS, to enhance functionality and design on the website.",
+        "location": "Uttar Pradesh, India",
+        "links": "",
+        "startDate": "April 2023"
+      },
+      {
+        "role_name": "Frontend Developer",
+        "skillsUsed": [],
+        "endDate": "Jan 2023",
+        "company_name": "DBK INFRA",
+        "description": "Designed and developed the entire frontend for DBK Infra, a construction company providing comprehensive services from construction and renovations to efficient project management. Contributed to the companys commitment to excellence and ensured client satisfaction through a user-friendly and visually appealing website interface. Developed an admin dashboard for DBK Infra using React.JS and Tailwind CSS, ensuring real-time capture and display of client inquiries, enhancing communication efficiency, and project management capabilities.",
+        "location": "Remote",
+        "links": "",
+        "startDate": "Oct 2023"
+      }
+    ],
+    "skills": [
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React JS",
+      "Node JS",
+      "Express JS",
+      "MongoDB",
+      "Tailwind CSS",
+      "Git",
+      "Github",
+      "VSCode",
+      "Heroku",
+      "Power BI",
+      "Data Structures and Algorithms",
+      "OOPS",
+      "DBMS",
+      "SQL"
+    ],
+    "soft_skills": [],
+    "name": "Vatan Prakash",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [
+      "Qualified in the top 141 out of 30,000 teams in the i.mobilothon 3.0 hackathon organized by Volkswagen.",
+      "Secured AIR 103 in Innerve Hacks organized by IGDTU on the Coding Ninjas platform.",
+      "Secured 1st place out of 600 competing teams in the finals of the Council of Science and Technology Uttar Pradesh (CSTUP) competition for our project on the Extraction of used lithium using environmentally sustainable solvents.",
+      "Secured 3rd rank in the Monologue competition held in EKANKI 2023 at IIM SAMBALPUR."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2024.0,
+  "experience_count": 2.0,
+  "degree": "Bachelor of Technology (B.Tech)"
+}

@@ -1,0 +1,109 @@
+{
+  "project_count": 2.0,
+  "designation": "",
+  "name": "NAYONIKA SHARMA",
+  "college": "Manipal University Jaipur",
+  "locations": [],
+  "full_output": {
+    "summary": "Passionate Data Science Engineering student with a strong foundation in machine learning, data analysis, and programming. Highly organized, with exceptional analytical and problem-solving abilities. Thrive on tackling complex challenges with precision, creativity, and attention to detail. Committed to accuracy, ensuring work is reliable and insightful. Excel in time management and multitasking, effectively balancing academic responsibilities with collaborative projects. Proactive and enthusiastic team player, eager to contribute and learn from others. Driven by a growth mindset and dedicated to continuous learning, ready to make a meaningful impact in the field of data science.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "2025",
+        "maximum_grade": "10.0",
+        "degree": "Bachelor of Technology",
+        "location": "",
+        "ID": 0.0,
+        "grade_received": "CGPA: 9.12/10.0",
+        "field_of_study": "Data Science Engineering",
+        "startDate": "2021"
+      },
+      {
+        "school": "The Kalyani School, Pune",
+        "endDate": "2021",
+        "maximum_grade": "",
+        "degree": "Higher Secondary School (Grade XII)",
+        "location": "",
+        "ID": 1.0,
+        "grade_received": "Percentage: 86.4%",
+        "field_of_study": "",
+        "startDate": "2020"
+      },
+      {
+        "school": "The Kalyani School, Pune",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Secondary School (Grade X)",
+        "location": "",
+        "ID": 2.0,
+        "grade_received": "Percentage: 97.2%",
+        "field_of_study": "",
+        "startDate": "2018"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Music Recommendation System",
+        "description": "Developed a Music Recommendation System using Python and Machine Learning techniques, including Scikit Learn, Yellowbrick, NumPy, Pandas, and Matplotlib. Conducted extensive exploratory data analysis (EDA) and implemented feature selection to enhance recommendation system effectiveness. Applied data preprocessing methods, including K-Means clustering for genres and songs, and performed feature correlation analysis to optimize recommendation accuracy.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "Yellowbrick",
+          "Scikit Learn",
+          "NumPy",
+          "Pandas",
+          "Matplotlib"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "House Price Prediction Model",
+        "description": "Developed a sophisticated house price prediction model leveraging machine learning techniques, including linear regression and random forest. Achieved superior model performance through rigorous hyperparameter tuning using Grid Search with Cross validation. Utilized diverse variables, encompassing room count, bedroom count, geographical data, and socio-economic factors for strategic feature engineering, notably boosting predictive accuracy. Significantly improved project's real estate analytics, delivering a reliable house price prediction model for informed decision-making for buyers and sellers in the housing market.",
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "Scikit Learn",
+          "NumPy",
+          "Pandas",
+          "Seaborn"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [],
+    "skills": [
+      "Java",
+      "Python",
+      "MySQL",
+      "Machine Learning",
+      "Data Visualization",
+      "Statistical Analysis",
+      "Natural Language Processing",
+      "Data Cleaning and Preprocessing",
+      "Data Structures and Algorithms",
+      "Object-Oriented Programming",
+      "Salesforce CRM"
+    ],
+    "soft_skills": [],
+    "name": "NAYONIKA SHARMA",
+    "position": "",
+    "interests": [
+      "Business Intelligence and Big Data Analytics"
+    ],
+    "achievements_and_awards": [
+      "Received the Deans List Academic Achievement Award"
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 0.0,
+  "degree": "Bachelor of Technology"
+}

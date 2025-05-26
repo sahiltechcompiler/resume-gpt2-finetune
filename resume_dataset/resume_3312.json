@@ -1,0 +1,186 @@
+{
+  "project_count": 3.0,
+  "designation": "",
+  "name": "Aditya Sharma",
+  "college": "Manipal University Jaipur",
+  "locations": [
+    "Jaipur, Rajasthan",
+    "Delhi, ( Remote)"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Design And Analysis of Algorithms",
+        "issuer": "NPTEL",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Oracle Database Foundations",
+        "issuer": "",
+        "certiLink": ""
+      },
+      {
+        "skillUsed": "",
+        "courseLink": "",
+        "description": "",
+        "skillsLearned": [],
+        "title": "Introduction to Object-Oriented Programming with Java",
+        "issuer": "",
+        "certiLink": ""
+      }
+    ],
+    "social_work": [
+      "Club Member : at ACM -tech society of Manipal University Jaipur"
+    ],
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "endDate": "May 2025",
+        "maximum_grade": "10.00",
+        "degree": "Bachelor of Technology",
+        "location": "Jaipur, Rajasthan",
+        "ID": 0.0,
+        "grade_received": "GPA: 8.13 / 10.00",
+        "field_of_study": "Computer Science and Engineering",
+        "startDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "NewsDaily",
+        "description": "Led the development of a Web-App using React.js enabling users to get their daily news sorted into categories. Integrated and deployed the app using NewsAPI for real-time news updates.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Bootstrap",
+          "React.js",
+          "NewsAPI"
+        ],
+        "endDate": "August 2024",
+        "startDate": "July 2024",
+        "url": ""
+      },
+      {
+        "name": "Crime Reporting Web Portal",
+        "description": "Developed a crime reporting web portal to facilitate easy communication between civilians and authorities. Implemented user authentication for secure login and anonymous reporting. Maintained reports, investigation statuses, and updates in a MongoDB database. Included a real-time chatbot for assisting users with their queries.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Bootstrap",
+          "Node.js",
+          "MongoDB",
+          "Express.js"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      },
+      {
+        "name": "Institute Management System",
+        "description": "Implemented CRUD (Create, Read, Update, Delete) operations to manage various aspects of the system, including student, admin, class, chapter, and test management. Optimized MySQL database queries to reduce page loading time, significantly enhancing the overall performance and user experience of the website.",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Bootstrap",
+          "PHP",
+          "jQuery",
+          "MySQL"
+        ],
+        "endDate": "",
+        "startDate": "",
+        "url": ""
+      }
+    ],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "Junior Web Developer",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Bootstrap",
+          "PHP",
+          "jQuery",
+          "MySQL"
+        ],
+        "endDate": "August 2023",
+        "company_name": "Potential Tutorial",
+        "description": "Worked on Institute Management System. Implemented the project using HTML, CSS, Javascript, Bootstrap, PHP, jQuery and MySQL. Optimized MySQL database queries, reducing page loading time and enhancing overall website performance.",
+        "location": "Jaipur, Rajasthan",
+        "links": "",
+        "startDate": "May 2023"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Bootstrap",
+          "AJAX",
+          "jQuery",
+          "Python",
+          "Django"
+        ],
+        "endDate": "August 2024",
+        "company_name": "Business Web Solutions",
+        "description": "Upgraded my full stack web development skills in HTML, CSS, Javascript, Bootstrap, AJAX, jQuery, Python and Django.",
+        "location": "Delhi, ( Remote)",
+        "links": "",
+        "startDate": "June 2024"
+      },
+      {
+        "role_name": "Web Developer Intern",
+        "skillsUsed": [],
+        "endDate": "",
+        "company_name": "EazyByts Infotech",
+        "description": "Worked on weekly projects. Built my portfolio, a finance tracker and an event management system.",
+        "location": "",
+        "links": "",
+        "startDate": ""
+      }
+    ],
+    "skills": [
+      "Java",
+      "C",
+      "PHP",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "jQuery",
+      "MySQL",
+      "React.js"
+    ],
+    "soft_skills": [],
+    "name": "Aditya Sharma",
+    "position": "",
+    "interests": [
+      "Basketball",
+      "Cricket",
+      "Eight-Ball"
+    ],
+    "achievements_and_awards": [
+      "Finished in TOP-10 at Talent-Hunt Hackathon.",
+      "Led React.js web app development, increasing user retention, reducing page load times, streamlining admin processes with CRUD operations, boosting performance, increasing user satisfaction, and ensuring scalability."
+    ],
+    "publications": []
+  },
+  "current_location": "",
+  "graduation_year": 2025.0,
+  "experience_count": 3.0,
+  "degree": "Bachelor of Technology"
+}
